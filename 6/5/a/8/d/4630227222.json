@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6723ff1971518bf3b0934a7524c65df9668d937cdb331b17ab636d5f56fd5c08\"",
+  "Last-Modified": "Thu, 24 Sep 2026 20:49:01 GMT",
   "base": {
     "repo": {
       "name": "libwebsockets-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T20:49:01Z",
   "created_at": "2026-09-24T19:36:13Z",
   "draft": false,
   "e_tag": "\"2c911f9bb7122f0b4d329c911ac4b429bbfd75c12fac4d46d19882270026fd7c\"",
   "head": {
-    "ref": "5.0.0_h23695f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libwebsockets-feedstock/pull/53",
   "id": 4630227222,
   "labels": [],
-  "last_fetched": "2026-09-24T19:36:14.606834",
+  "last_fetched": "2026-09-24T20:50:45.735776",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T20:49:00Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-09-24T19:36:13Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T20:49:01Z"
 }

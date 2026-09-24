@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"da309d047f8ec15fe61069b39cfe9e16e39f8747ea095b6ac123fabf90b49393\"",
+  "Last-Modified": "Thu, 24 Sep 2026 21:57:53 GMT",
   "base": {
     "repo": {
       "name": "py-droplets-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T21:57:52Z",
   "created_at": "2026-09-24T21:53:52Z",
   "draft": false,
   "e_tag": "\"138928d82b7a0dedf131752aee0c175b0eea4806e8b8a1e60ad21f670b84c9c5\"",
   "head": {
-    "ref": "0.27.0_h70060c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/py-droplets-feedstock/pull/27",
   "id": 4631472527,
   "labels": [],
-  "last_fetched": "2026-09-24T21:53:53.969088",
+  "last_fetched": "2026-09-24T22:00:51.669900",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T21:57:52Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-09-24T21:53:52Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T21:57:57Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"74881d287185b3ff480d3f4f656e6f4ed291868b05fc5f37a8f012242fcc75b2\"",
-  "Last-Modified": "Wed, 23 Sep 2026 19:40:11 GMT",
+  "ETag": "W/\"f101e4cb186ebb4d617cbae2b51582250076ab768131689e643e0c52734d0ab6\"",
+  "Last-Modified": "Thu, 24 Sep 2026 15:52:52 GMT",
   "base": {
     "repo": {
       "name": "chessanalysispipeline-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T15:52:52Z",
   "created_at": "2026-09-23T19:38:16Z",
   "draft": false,
   "e_tag": "\"a98a891d574f452422cb9d11b7a4e295fb0023470024eb2e212d734f9d7b59b9\"",
   "head": {
-    "ref": "2026.9.21_h804cdd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/chessanalysispipeline-feedstock/pull/23",
   "id": 4617849816,
   "labels": [],
-  "last_fetched": "2026-09-23T19:58:26.478465",
+  "last_fetched": "2026-09-24T15:55:31.326812",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T15:52:52Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-09-23T19:40:11Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T15:52:52Z"
 }

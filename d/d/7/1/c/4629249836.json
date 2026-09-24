@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"898f4340c2629433e2e3870ba96df67bf0706277aafc486ca70c60274c415c05\"",
+  "Last-Modified": "Thu, 24 Sep 2026 17:58:24 GMT",
   "base": {
     "repo": {
       "name": "azure-mgmt-storage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T17:58:20Z",
   "created_at": "2026-09-24T17:54:16Z",
   "draft": false,
   "e_tag": "\"f685567ada4f86e48a8c5052d5fd9a8a4ea80ce52638106595127d9e911ddeaa\"",
   "head": {
-    "ref": "25.2.0_h9c5b45"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/azure-mgmt-storage-feedstock/pull/48",
   "id": 4629249836,
   "labels": [],
-  "last_fetched": "2026-09-24T17:54:17.290309",
+  "last_fetched": "2026-09-24T17:59:32.125423",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T17:58:20Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-09-24T17:54:16Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T17:58:24Z"
 }

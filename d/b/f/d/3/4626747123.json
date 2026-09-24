@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"56105e59b7c423016ade9123d3b2eb85b0a35a041316039aa72761443f241b03\"",
-  "Last-Modified": "Thu, 24 Sep 2026 13:56:12 GMT",
+  "ETag": "W/\"62a7ca3531645b586423afbebdf8ba22f72db8f317d9298a874b0ce76819da27\"",
+  "Last-Modified": "Thu, 24 Sep 2026 15:52:57 GMT",
   "base": {
     "repo": {
       "name": "gamma-lake-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/gamma-lake-feedstock/pull/1",
   "id": 4626747123,
-  "labels": [],
-  "last_fetched": "2026-09-24T15:49:15.073785",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11956168903,
+      "name": "automerge",
+      "node_id": "LA_kwDOUEGpks8AAAACyKSoxw",
+      "url": "https://api.github.com/repos/conda-forge/gamma-lake-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-24T15:53:11.632887",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 1,
   "state": "open",
-  "updated_at": "2026-09-24T13:56:12Z"
+  "updated_at": "2026-09-24T15:52:57Z"
 }

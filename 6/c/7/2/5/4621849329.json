@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"52c1bc0d5957f8c1910acb5c0a5ef3402100f4c80dc1ed2ef7945292d420eec9\"",
-  "Last-Modified": "Thu, 24 Sep 2026 05:10:15 GMT",
+  "ETag": "W/\"f9dda4879c36f87d43892fe05b5efccbdf0282c8261c764a805090f42fb3fd77\"",
+  "Last-Modified": "Thu, 24 Sep 2026 15:32:08 GMT",
   "base": {
     "repo": {
       "name": "sqlmodel-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T15:32:08Z",
   "created_at": "2026-09-24T05:08:27Z",
   "draft": false,
   "e_tag": "\"c7bfab0396ad3f4f64cdb0a4a1371fc0128c6a44717fefc781c089b87c0bce6b\"",
   "head": {
-    "ref": "0.0.47_h49f35e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sqlmodel-feedstock/pull/46",
   "id": 4621849329,
   "labels": [],
-  "last_fetched": "2026-09-24T13:48:57.177909",
+  "last_fetched": "2026-09-24T15:33:33.013342",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T15:32:07Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-09-24T05:10:15Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T15:32:08Z"
 }

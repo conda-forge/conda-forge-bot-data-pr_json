@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4a2beee9d9eac1a443ecc448e7d29a741cdd14a7ca9fea3ed029023f38ace654\"",
-  "Last-Modified": "Thu, 24 Sep 2026 02:46:58 GMT",
+  "ETag": "W/\"006f5f1ab25a867b7da9c46033056a9dc5ccea243ab369220fccec6fee505ccc\"",
+  "Last-Modified": "Thu, 24 Sep 2026 12:27:58 GMT",
   "base": {
     "repo": {
       "name": "arraylake-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T12:27:58Z",
   "created_at": "2026-09-24T02:44:17Z",
   "draft": false,
   "e_tag": "\"d97352bc89c0dd3980e392885e8b316df45371c81070696b53d53e1532341a67\"",
   "head": {
-    "ref": "1.5.0_h406602"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arraylake-feedstock/pull/117",
   "id": 4620903656,
   "labels": [],
-  "last_fetched": "2026-09-24T03:02:09.226696",
+  "last_fetched": "2026-09-24T15:59:40.065837",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T12:27:58Z",
   "number": 117,
-  "state": "open",
-  "updated_at": "2026-09-24T02:46:58Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T12:27:58Z"
 }

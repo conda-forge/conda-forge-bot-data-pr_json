@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"1867c3eee6a361cbca6cf4e684ffab5830cc8e291203e517b54b0a51fb0bd49e\"",
-  "Last-Modified": "Wed, 23 Sep 2026 22:09:00 GMT",
+  "ETag": "W/\"9ffd38783f122bcd684860357d2ba5ada680e3ae547461234c8e1b18b9545941\"",
+  "Last-Modified": "Thu, 24 Sep 2026 20:20:37 GMT",
   "base": {
     "repo": {
       "name": "llmcompressor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T20:20:32Z",
   "created_at": "2026-09-23T22:06:20Z",
   "draft": false,
   "e_tag": "\"951b948d76635c52f42b3c9bbfd67bf505272675a38a36f2a7374ec8da562201\"",
   "head": {
-    "ref": "0.14.0_h0cdd56"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/llmcompressor-feedstock/pull/19",
   "id": 4619164830,
-  "labels": [],
-  "last_fetched": "2026-09-24T01:35:22.045223",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8865662214,
+      "name": "automerge",
+      "node_id": "LA_kwDOPEYS-88AAAACEG9FBg",
+      "url": "https://api.github.com/repos/conda-forge/llmcompressor-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-24T20:20:56.954671",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T20:20:32Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-09-23T22:09:00Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T20:20:37Z"
 }

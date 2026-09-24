@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1079e50366a84ed9292c1283ad10efbcd7d3ee595c88b8d36b7deaa56b87357a\"",
+  "Last-Modified": "Thu, 24 Sep 2026 13:56:54 GMT",
   "base": {
     "repo": {
       "name": "openinference-instrumentation-openai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T13:56:50Z",
   "created_at": "2026-09-24T13:52:40Z",
   "draft": false,
   "e_tag": "\"08dbf93c3f1730b2ba25db5f4c7eedc17d67ccad4e3cdea9986e1b4d7c12743b\"",
   "head": {
-    "ref": "0.1.61_h0ad60c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openinference-instrumentation-openai-feedstock/pull/61",
   "id": 4626730158,
   "labels": [],
-  "last_fetched": "2026-09-24T13:52:41.244878",
+  "last_fetched": "2026-09-24T13:58:56.361319",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T13:56:50Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-09-24T13:52:40Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T13:56:54Z"
 }

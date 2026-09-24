@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9af5a76ea29d4fd0131ea6fd1c311ee3604510d846ef6a62eb3afe40420f91f8\"",
-  "Last-Modified": "Thu, 24 Sep 2026 19:05:43 GMT",
+  "ETag": "W/\"10f5dad901adc03d4d7c081c352188f062d389cbcde44449ecb4547edd7ea989\"",
+  "Last-Modified": "Thu, 24 Sep 2026 19:30:27 GMT",
   "base": {
     "repo": {
       "name": "heat-feedstock"
@@ -15,20 +15,8 @@
   },
   "html_url": "https://github.com/conda-forge/heat-feedstock/pull/69",
   "id": 4629361314,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 5982105645,
-      "name": "automerge",
-      "node_id": "LA_kwDOKVlOmc8AAAABZI-wLQ",
-      "url": "https://api.github.com/repos/conda-forge/heat-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-09-24T19:07:04.132570",
+  "labels": [],
+  "last_fetched": "2026-09-24T22:25:51.350798",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -36,5 +24,5 @@
   "merged_at": null,
   "number": 69,
   "state": "open",
-  "updated_at": "2026-09-24T19:05:43Z"
+  "updated_at": "2026-09-24T19:30:27Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c9f1c30dd8c96690bc9304ec1a6a7bd49a518d126a51d6a13b4316e4b93886af\"",
-  "Last-Modified": "Wed, 23 Sep 2026 23:29:19 GMT",
+  "ETag": "W/\"9560b09ff1094149af057f4493df5001526334593ef1ec30a069ed388b0c8a50\"",
+  "Last-Modified": "Thu, 24 Sep 2026 13:25:09 GMT",
   "base": {
     "repo": {
       "name": "json-c-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T13:25:09Z",
   "created_at": "2026-09-23T23:27:32Z",
   "draft": false,
   "e_tag": "\"050c9cb09e9c8fddecfb109668f28102828c4daba122ef80a89dbbf913864103\"",
   "head": {
-    "ref": "0.19_h0c1fae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/json-c-feedstock/pull/31",
   "id": 4619728712,
   "labels": [],
-  "last_fetched": "2026-09-24T02:34:19.009454",
+  "last_fetched": "2026-09-24T14:48:35.304363",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T13:25:09Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-09-23T23:29:19Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T13:25:09Z"
 }

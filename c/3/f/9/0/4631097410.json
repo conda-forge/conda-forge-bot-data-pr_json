@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"97937019060fd20948d58642eef39b6860ed558d08c9339f943bee563b0be5b1\"",
+  "Last-Modified": "Thu, 24 Sep 2026 21:10:46 GMT",
   "base": {
     "repo": {
       "name": "langchain-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T21:10:42Z",
   "created_at": "2026-09-24T21:08:21Z",
   "draft": false,
   "e_tag": "\"e6e358c9301f97dc2b211852305caa306aa7702945fce31904bcf53bc2608d9c\"",
   "head": {
-    "ref": "1.6.5_hce897e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langchain-core-feedstock/pull/253",
   "id": 4631097410,
   "labels": [],
-  "last_fetched": "2026-09-24T21:08:21.635172",
+  "last_fetched": "2026-09-24T21:11:52.975115",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T21:10:41Z",
   "number": 253,
-  "state": "open",
-  "updated_at": "2026-09-24T21:08:21Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T21:10:46Z"
 }

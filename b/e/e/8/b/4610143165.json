@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"bb05e524ae993befb1c695dc542c4b8f51d88961b7c683a263c90e893f1687f1\"",
-  "Last-Modified": "Wed, 23 Sep 2026 23:10:11 GMT",
+  "ETag": "W/\"b22c476439d0f0cab60282cb7b0a7fe540aea0ba077ae39f91111533b22fc026\"",
+  "Last-Modified": "Thu, 24 Sep 2026 13:57:21 GMT",
   "base": {
     "repo": {
       "name": "islpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T13:57:21Z",
   "created_at": "2026-09-23T05:36:39Z",
   "draft": false,
   "e_tag": "\"e2db95bc7fa3fc5099043eb6726fd2085b38effe6069118ffe6b5c80bf35cf2d\"",
   "head": {
-    "ref": "2026.2.2_h5573be"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/islpy-feedstock/pull/71",
   "id": 4610143165,
   "labels": [],
-  "last_fetched": "2026-09-24T08:33:17.863292",
+  "last_fetched": "2026-09-24T13:59:07.694313",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T13:57:21Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-09-23T23:10:11Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T13:57:21Z"
 }

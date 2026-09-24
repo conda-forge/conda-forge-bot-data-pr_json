@@ -1,5 +1,5 @@
 {
-  "ETag": "W/\"81c4129966f020c69faa8a5057f0089d1b3d6c37a5196891fbea64f8f70f5d8d\"",
+  "ETag": "W/\"f90b67243e94f8e536b6fda831c78e9b941b5834998cdbe04de278e0308669c6\"",
   "Last-Modified": "Thu, 17 Sep 2026 04:36:16 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"1a4520b3f03df259ff636687a67fc950c5f1657b958a1b13a4654535bc1dd64e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hdabd90"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/epicscorelibs-feedstock/pull/52",
   "id": 4547621471,
-  "labels": [],
-  "last_fetched": "2026-09-17T14:30:58.658059",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-24T15:01:32.726530",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 52,

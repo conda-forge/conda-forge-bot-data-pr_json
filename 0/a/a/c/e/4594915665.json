@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b37ad987cc05b06d41ba791dfe2b4024b2fac8b654cfbba9b5696832ac820d60\"",
-  "Last-Modified": "Thu, 24 Sep 2026 14:29:55 GMT",
+  "ETag": "W/\"2732d1da05cb16b42fe116f984eca691f678dfc2e5e6cc37dcdac714dd4630d1\"",
+  "Last-Modified": "Thu, 24 Sep 2026 14:37:47 GMT",
   "base": {
     "repo": {
       "name": "s3fs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T14:37:46Z",
   "created_at": "2026-09-21T18:42:09Z",
   "draft": false,
   "e_tag": "\"14fbe47c534d899acb0ddda8debe52f3ad3c538b6495abf80f63b9db2354904c\"",
   "head": {
-    "ref": "2026.9.0_h467101"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/s3fs-feedstock/pull/104",
   "id": 4594915665,
   "labels": [],
-  "last_fetched": "2026-09-24T14:32:04.439658",
+  "last_fetched": "2026-09-24T14:39:27.538030",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T14:37:46Z",
   "number": 104,
-  "state": "open",
-  "updated_at": "2026-09-24T14:29:55Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T14:37:47Z"
 }

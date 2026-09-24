@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f0c1fc8de2a67cf2f590ed75087fc2781b008b645793f961b14d2d97cb7df782\"",
+  "Last-Modified": "Thu, 24 Sep 2026 22:20:15 GMT",
   "base": {
     "repo": {
       "name": "mne-denoise-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T22:20:15Z",
   "created_at": "2026-09-24T22:07:42Z",
   "draft": false,
   "e_tag": "\"d8c85c515c397a4f1888cbd7a9f11c1991c02cfd2247315709b6479940e9410b\"",
   "head": {
-    "ref": "0.0.3_h5e674b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mne-denoise-feedstock/pull/2",
   "id": 4631590974,
   "labels": [],
-  "last_fetched": "2026-09-24T22:07:42.843246",
+  "last_fetched": "2026-09-24T22:21:22.842383",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T22:20:15Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-09-24T22:07:42Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T22:20:15Z"
 }

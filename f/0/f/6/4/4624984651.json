@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b7a33afb13890efaea62f80c93cc5703020a08073726e903d79d1a9640d4547f\"",
+  "Last-Modified": "Thu, 24 Sep 2026 11:14:26 GMT",
   "base": {
     "repo": {
       "name": "fonttools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T11:14:22Z",
   "created_at": "2026-09-24T11:01:31Z",
   "draft": false,
   "e_tag": "\"bf9ff37cac6f06ab663886186c6c99837ee27fc54c31d9f49c4443031d44b54c\"",
   "head": {
-    "ref": "4.66.0_hcac657"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fonttools-feedstock/pull/182",
   "id": 4624984651,
   "labels": [],
-  "last_fetched": "2026-09-24T11:01:31.695490",
+  "last_fetched": "2026-09-24T15:58:34.123445",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T11:14:22Z",
   "number": 182,
-  "state": "open",
-  "updated_at": "2026-09-24T11:01:31Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T11:14:26Z"
 }

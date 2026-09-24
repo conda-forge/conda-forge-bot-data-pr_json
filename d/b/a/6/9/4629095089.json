@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"03419204285c57a49b6300b639520e6e05ea942d9b8026f17f54d7d628b5e008\"",
+  "Last-Modified": "Thu, 24 Sep 2026 18:40:31 GMT",
   "base": {
     "repo": {
       "name": "rainfrog-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T18:40:26Z",
   "created_at": "2026-09-24T17:38:14Z",
   "draft": false,
   "e_tag": "\"854d4364ee0c9116779e4a976fb1d347e4104ede3b6bfaba5d46ea782df15697\"",
   "head": {
-    "ref": "0.4.6_hbb5157"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rainfrog-feedstock/pull/36",
   "id": 4629095089,
   "labels": [],
-  "last_fetched": "2026-09-24T17:38:15.044999",
+  "last_fetched": "2026-09-24T18:41:49.840330",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T18:40:26Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-09-24T17:38:14Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T18:40:31Z"
 }

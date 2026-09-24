@@ -1,26 +1,40 @@
 {
+  "ETag": "W/\"7eaaafe3f4e91b4db7b5e9086befeb884c2b3ee5c2382474ee0da6e8dc6b1fae\"",
+  "Last-Modified": "Thu, 24 Sep 2026 20:12:04 GMT",
   "base": {
     "repo": {
       "name": "litescope-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T20:12:00Z",
   "created_at": "2026-09-24T13:56:23Z",
   "draft": false,
   "e_tag": "\"0ce2502245618aec8b228a346139239abf337518525f4513490b8cb77b4d388b\"",
   "head": {
-    "ref": "2026.08_h49c421"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/litescope-feedstock/pull/10",
   "id": 4626773097,
-  "labels": [],
-  "last_fetched": "2026-09-24T13:56:23.715712",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6935087498,
+      "name": "automerge",
+      "node_id": "LA_kwDOL58Xq88AAAABnV0Jig",
+      "url": "https://api.github.com/repos/conda-forge/litescope-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-24T20:13:12.026770",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T20:12:00Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-09-24T13:56:23Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T20:12:04Z"
 }

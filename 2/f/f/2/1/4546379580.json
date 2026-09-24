@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"fdad427c970d6511c8ffda55f37be63373e35cab966fa8e2c511113c13286695\"",
-  "Last-Modified": "Wed, 16 Sep 2026 12:46:30 GMT",
+  "ETag": "W/\"5734fb0c6f3f2d32b46b8f8f4aeafe4e83cc87b9b5e5cfe78e530f3bd9e4e5c1\"",
+  "Last-Modified": "Thu, 24 Sep 2026 14:28:06 GMT",
   "base": {
     "repo": {
       "name": "pylibjpeg-openjpeg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T14:28:05Z",
   "created_at": "2026-09-16T10:07:51Z",
   "draft": false,
   "e_tag": "\"63f95af59e619b958efefa839c826d8919c189cd4354d649b5b9bb59d6bdac5a\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pylibjpeg-openjpeg-feedstock/pull/4",
   "id": 4546379580,
-  "labels": [],
-  "last_fetched": "2026-09-18T07:36:15.895068",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 8918764314,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOPJ7a-s8AAAACE5mLGg",
+      "url": "https://api.github.com/repos/conda-forge/pylibjpeg-openjpeg-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-24T14:28:08.846940",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-09-16T12:46:30Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T14:28:06Z"
 }

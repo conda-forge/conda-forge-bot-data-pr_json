@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"7a45ae759ecab06fb462a9ec20bc3952c709c26755587c0f240d5ad12ef9aeb5\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"460892365a4979896ed94eb89d032a328280e8152245e7d83b7497bfdb2fcd0e\"",
+  "Last-Modified": "Thu, 24 Sep 2026 15:38:59 GMT",
   "base": {
     "repo": {
       "name": "gms_preprocessing-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T15:38:59Z",
   "created_at": "2025-01-13T01:45:53Z",
   "draft": false,
   "e_tag": "\"735c7fed3dbac5b14f27b6b767bbcb65a3fefc320b719ff82845ace83c615c37\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_h9e1b57"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gms_preprocessing-feedstock/pull/12",
   "id": 2272818208,
   "labels": [],
-  "last_fetched": "2026-09-20T16:25:02.095433",
+  "last_fetched": "2026-09-24T15:40:23.897605",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T15:38:59Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2025-01-13T01:47:15Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T15:38:59Z"
 }

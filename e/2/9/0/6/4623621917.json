@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"56afce0eea16f291c325721edb4812a73860961927432de7b5bb79e449e9894f\"",
-  "Last-Modified": "Thu, 24 Sep 2026 08:44:01 GMT",
+  "ETag": "W/\"d3f998b8edd10951853b47e79d66216195ed0cba8670b2e77f660e4499d8876e\"",
+  "Last-Modified": "Thu, 24 Sep 2026 21:46:47 GMT",
   "base": {
     "repo": {
       "name": "slepc4py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T21:46:47Z",
   "created_at": "2026-09-24T08:42:09Z",
   "draft": false,
   "e_tag": "\"12aeeb9a02cbbee29887a606cbe0e68398c0052f6a138a92c62d53e08b5bb5e3\"",
   "head": {
-    "ref": "3.25.2_h3e4daa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/slepc4py-feedstock/pull/81",
   "id": 4623621917,
   "labels": [],
-  "last_fetched": "2026-09-24T09:48:12.526126",
+  "last_fetched": "2026-09-24T21:49:06.454515",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T21:46:47Z",
   "number": 81,
-  "state": "open",
-  "updated_at": "2026-09-24T08:44:01Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T21:46:47Z"
 }

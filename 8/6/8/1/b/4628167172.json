@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1c492b2abb67ec2af90aea6f438e442d558212eee8f1e942ff3ee6e03b24deae\"",
+  "Last-Modified": "Thu, 24 Sep 2026 16:32:44 GMT",
   "base": {
     "repo": {
       "name": "pytz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T16:32:44Z",
   "created_at": "2026-09-24T16:03:41Z",
   "draft": false,
   "e_tag": "\"40786cb7fcb426f57a82fa5af41a037ef9d9584d58ea24e5ef503609bf927b95\"",
   "head": {
-    "ref": "2026.4_h4de599"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytz-feedstock/pull/56",
   "id": 4628167172,
   "labels": [],
-  "last_fetched": "2026-09-24T16:03:42.016878",
+  "last_fetched": "2026-09-24T16:33:56.097371",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T16:32:44Z",
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-09-24T16:03:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T16:32:44Z"
 }

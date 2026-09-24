@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"659c9d8bd520eb04fc38ede34b136d6d3a745584b426f7708556e357f24ff15c\"",
-  "Last-Modified": "Thu, 24 Sep 2026 17:51:21 GMT",
+  "ETag": "W/\"1874f9af10dd4fc1c11612ce639ae6c76d63d0ecee9f2b12d0530f662cc19766\"",
+  "Last-Modified": "Thu, 24 Sep 2026 20:37:00 GMT",
   "base": {
     "repo": {
       "name": "sonatype-iq-api-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T20:37:00Z",
   "created_at": "2026-09-24T17:49:14Z",
   "draft": false,
   "e_tag": "\"7e1cb582b379c6551516642c6764f5dd93d58e639c3e665144b8a78a54a14fe1\"",
   "head": {
-    "ref": "0.205.0_h9d4256"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sonatype-iq-api-client-feedstock/pull/6",
   "id": 4629202156,
   "labels": [],
-  "last_fetched": "2026-09-24T19:35:49.304539",
+  "last_fetched": "2026-09-24T20:38:56.542513",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T20:37:00Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-09-24T17:51:21Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T20:37:00Z"
 }

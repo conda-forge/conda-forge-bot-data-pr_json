@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6bb9ea7a3ece830429f64aa50e3becde899f442df04c1d291efcc42d73ffdc54\"",
-  "Last-Modified": "Thu, 24 Sep 2026 13:42:38 GMT",
+  "ETag": "W/\"543f8fa7020d0601b0a7e45820fa04622445c1bd0c2ab5e17991b70ce8595978\"",
+  "Last-Modified": "Thu, 24 Sep 2026 13:56:40 GMT",
   "base": {
     "repo": {
       "name": "calc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T13:56:40Z",
   "created_at": "2026-09-24T00:39:38Z",
   "draft": false,
   "e_tag": "\"009f2e85661897f2b190ce4e6c7f47693118689ad276ee62eac553f290c900e4\"",
   "head": {
-    "ref": "3-8_hcf6c75"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/calc-feedstock/pull/5",
   "id": 4620169985,
   "labels": [],
-  "last_fetched": "2026-09-24T13:49:55.825097",
+  "last_fetched": "2026-09-24T13:58:39.070797",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-24T13:56:40Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-09-24T13:42:38Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T13:56:40Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"e532a28c54086730369650509d70c81964ab416da97d5a8dada11741a757d54a\"",
-  "Last-Modified": "Thu, 24 Sep 2026 08:02:19 GMT",
+  "ETag": "W/\"b1b0b7a7134e314b866246661ebd7fae920d99ac7f0ff87b792f5134c6972b7c\"",
+  "Last-Modified": "Thu, 24 Sep 2026 15:50:08 GMT",
   "base": {
     "repo": {
       "name": "transports-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/transports-feedstock/pull/7",
   "id": 4623244721,
-  "labels": [],
-  "last_fetched": "2026-09-24T09:29:12.436134",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11907659374,
+      "name": "automerge",
+      "node_id": "LA_kwDOT_f7sc8AAAACxcB2bg",
+      "url": "https://api.github.com/repos/conda-forge/transports-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-24T15:51:50.822416",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 7,
   "state": "open",
-  "updated_at": "2026-09-24T08:02:19Z"
+  "updated_at": "2026-09-24T15:50:08Z"
 }

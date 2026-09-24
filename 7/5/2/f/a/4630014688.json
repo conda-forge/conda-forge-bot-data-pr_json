@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8b421d8ac288f3948a0e01d3d54b4c36527760cd3853c1d7faac60a1890ab0ca\"",
+  "Last-Modified": "Thu, 24 Sep 2026 19:22:04 GMT",
   "base": {
     "repo": {
       "name": "circleci-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-24T19:22:00Z",
   "created_at": "2026-09-24T19:13:53Z",
   "draft": false,
   "e_tag": "\"0986076bc32211db85b4bac895588c3fbf81c5cb7ffb16b8a0c1e663a7c23128\"",
   "head": {
-    "ref": "1.0.51336_h80a41a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/circleci-feedstock/pull/53",
   "id": 4630014688,
   "labels": [],
-  "last_fetched": "2026-09-24T19:13:55.091637",
+  "last_fetched": "2026-09-24T19:23:47.784567",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-24T19:22:00Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-09-24T19:13:53Z"
+  "state": "closed",
+  "updated_at": "2026-09-24T19:22:04Z"
 }

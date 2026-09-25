@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"0eae37d50b4c40ba5a95e9b3abe7f489f1d9b249ee534ca02c2c968d09f66963\"",
+  "Last-Modified": "Fri, 25 Sep 2026 09:41:54 GMT",
   "base": {
     "repo": {
       "name": "smt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T09:41:54Z",
   "created_at": "2026-09-25T08:35:19Z",
   "draft": false,
   "e_tag": "\"db48881bfd48ee3e620d39c96dd18b4c17f0b9f99755f519b16a07bf19147cb0\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h5eb6ea"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/smt-feedstock/pull/86",
   "id": 4635964699,
   "labels": [],
-  "last_fetched": "2026-09-25T08:35:20.306256",
+  "last_fetched": "2026-09-25T09:43:09.291064",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T09:41:54Z",
   "number": 86,
-  "state": "open",
-  "updated_at": "2026-09-25T08:35:19Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T09:41:54Z"
 }

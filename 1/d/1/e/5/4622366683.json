@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"110d71492f76d250e231a3717485efcd30f256cdac7736f43fa5b62433f0ed9a\"",
-  "Last-Modified": "Thu, 24 Sep 2026 06:29:22 GMT",
+  "ETag": "W/\"c8eccfb553831bcc3c8467312798a18f8d6d60659fd3a4d00e657b8306d651bb\"",
+  "Last-Modified": "Fri, 25 Sep 2026 06:28:02 GMT",
   "base": {
     "repo": {
       "name": "kubelogin-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/kubelogin-feedstock/pull/51",
   "id": 4622366683,
-  "labels": [],
-  "last_fetched": "2026-09-24T08:00:36.774277",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2353019505,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMzUzMDE5NTA1",
+      "url": "https://api.github.com/repos/conda-forge/kubelogin-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-25T06:29:07.646407",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 51,
   "state": "open",
-  "updated_at": "2026-09-24T06:29:22Z"
+  "updated_at": "2026-09-25T06:28:02Z"
 }

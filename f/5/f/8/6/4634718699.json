@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"dc5a752bb0841766f0c2fe0dbe17dbf45e9507a458f0a7afd4138697157243f8\"",
+  "Last-Modified": "Fri, 25 Sep 2026 06:11:46 GMT",
   "base": {
     "repo": {
       "name": "pbs-installer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T06:11:42Z",
   "created_at": "2026-09-25T06:07:52Z",
   "draft": false,
   "e_tag": "\"44d7b6f7605da8ad54a6ab9a01efe4b3c8a1aeea6cb34ca0af88ac036b1c7e4f\"",
   "head": {
-    "ref": "2026.9.24_h2c9a22"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pbs-installer-feedstock/pull/75",
   "id": 4634718699,
   "labels": [],
-  "last_fetched": "2026-09-25T06:07:52.984723",
+  "last_fetched": "2026-09-25T06:13:28.505196",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T06:11:42Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-09-25T06:07:52Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T06:11:46Z"
 }

@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"b7e21f3ce335eb333e926ece8b9aaac13ea0f05386ae30f1e613c6d6f3049c87\"",
-  "Last-Modified": "Wed, 02 Sep 2026 15:12:30 GMT",
+  "ETag": "W/\"1f55db51fd3c7af3b8858617d565c1e840fc8f5adf3cd233bf45dfcd650d3532\"",
+  "Last-Modified": "Fri, 25 Sep 2026 11:47:34 GMT",
   "base": {
     "repo": {
       "name": "curl-cffi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T11:47:34Z",
   "created_at": "2026-09-02T15:05:16Z",
   "draft": false,
   "e_tag": "\"d687f7bce5d72b3dad648b8f1b79d9e2f5428dc46a7ae448f776cf0e81207556\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/curl-cffi-feedstock/pull/26",
   "id": 4423647383,
-  "labels": [],
-  "last_fetched": "2026-09-18T10:28:40.342857",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T11:47:37.875911",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-09-02T15:12:30Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T11:47:34Z"
 }

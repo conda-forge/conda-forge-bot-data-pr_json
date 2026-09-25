@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"af1a179fdedb593cecabf171772c29b3f225b181de38d60dea8915503cce7e07\"",
-  "Last-Modified": "Fri, 25 Sep 2026 19:06:41 GMT",
+  "ETag": "W/\"f0c545df430943ed8f67e202c6498e74d9aa7e170ffb0b2cd4d85e0d5b7d9670\"",
+  "Last-Modified": "Fri, 25 Sep 2026 22:12:11 GMT",
   "base": {
     "repo": {
       "name": "mini-racer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T22:12:08Z",
   "created_at": "2026-09-25T06:53:20Z",
   "draft": false,
   "e_tag": "\"1254dc3734f4dc5ad3a8fe50538fcef4303b7f459801874266b5095262e5d066\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h63beb8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mini-racer-feedstock/pull/25",
   "id": 4635080040,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/mini-racer-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-25T19:08:26.298219",
+  "last_fetched": "2026-09-25T22:13:42.269033",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T22:12:08Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-09-25T19:06:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T22:12:11Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"435e1f802f197226482d553abd73ec0a4fe8038a0a3b0210438a2719e796fb89\"",
-  "Last-Modified": "Fri, 25 Sep 2026 08:14:56 GMT",
+  "ETag": "W/\"2061fb33bafe8ec1ca09bb1d3879a38645ea6b7b59beb8f917014d0407d4ea04\"",
+  "Last-Modified": "Fri, 25 Sep 2026 11:26:04 GMT",
   "base": {
     "repo": {
       "name": "flask-security-too-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T11:26:04Z",
   "created_at": "2026-09-25T08:13:03Z",
   "draft": false,
   "e_tag": "\"91ed62fc7d29ca3924a7a6228c832e9f16054348c05971a7be38e4ed69e8c116\"",
   "head": {
-    "ref": "5.9.0_hfb9a0a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flask-security-too-feedstock/pull/35",
   "id": 4635773512,
   "labels": [],
-  "last_fetched": "2026-09-25T09:48:34.656406",
+  "last_fetched": "2026-09-25T11:27:17.290500",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T11:26:04Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-09-25T08:14:56Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T11:26:04Z"
 }

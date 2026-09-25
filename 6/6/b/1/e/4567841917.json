@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"30ac4525db527a8e63dc6e7161bbac617de5ed98493095963d11d6202024fa44\"",
-  "Last-Modified": "Fri, 25 Sep 2026 20:47:52 GMT",
+  "ETag": "W/\"b58b2783b0ad0058b97b4325863a73ea15163f0ef9501def9e9f01cf5cb43cf5\"",
+  "Last-Modified": "Fri, 25 Sep 2026 20:47:49 GMT",
   "base": {
     "repo": {
       "name": "portalocker-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/portalocker-feedstock/pull/89",
   "id": 4567841917,
-  "labels": [],
-  "last_fetched": "2026-09-25T20:49:19.246230",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T20:47:52.673734",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 89,
   "state": "closed",
-  "updated_at": "2026-09-25T20:47:52Z"
+  "updated_at": "2026-09-25T20:47:49Z"
 }

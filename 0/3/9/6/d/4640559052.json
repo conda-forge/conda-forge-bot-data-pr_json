@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"402ac9b04352f3e0269860673867a4943bb969a40400e03f63a61f799a056897\"",
+  "Last-Modified": "Fri, 25 Sep 2026 19:55:40 GMT",
   "base": {
     "repo": {
       "name": "topologicpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T19:55:39Z",
   "created_at": "2026-09-25T17:01:45Z",
   "draft": false,
   "e_tag": "\"03cd23a0566fef94908a6e4c60514262de10c9090bc3cffccb27acf459b9333c\"",
   "head": {
-    "ref": "0.9.80_h2fb5cd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/topologicpy-feedstock/pull/156",
   "id": 4640559052,
   "labels": [],
-  "last_fetched": "2026-09-25T17:01:46.571968",
+  "last_fetched": "2026-09-25T19:57:17.447163",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T19:55:39Z",
   "number": 156,
-  "state": "open",
-  "updated_at": "2026-09-25T17:01:45Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T19:55:40Z"
 }

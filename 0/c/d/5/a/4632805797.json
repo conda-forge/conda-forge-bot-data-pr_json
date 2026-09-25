@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"89b67a12e14ca792eaaa5fb1fa6a3a65e4712f24a9fc689b821cdd7bffc18aa9\"",
+  "Last-Modified": "Fri, 25 Sep 2026 01:23:41 GMT",
   "base": {
     "repo": {
       "name": "r-coxboost-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T01:23:37Z",
   "created_at": "2026-09-25T01:06:51Z",
   "draft": false,
   "e_tag": "\"5c5d19253a33c44c73ba52f1c7213a813c91531b2fb187accf7fd15861aebbcf\"",
   "head": {
-    "ref": "1.5.2_h5ac425"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-coxboost-feedstock/pull/12",
   "id": 4632805797,
   "labels": [],
-  "last_fetched": "2026-09-25T01:06:52.713736",
+  "last_fetched": "2026-09-25T01:25:27.996555",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T01:23:37Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-09-25T01:06:51Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T01:23:41Z"
 }

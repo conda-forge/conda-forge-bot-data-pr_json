@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"5713183ac2229029a035a369b37cc4c33a4055503965285601e4972854149ff7\"",
-  "Last-Modified": "Thu, 24 Sep 2026 16:45:20 GMT",
+  "ETag": "W/\"acf54c06f653c6d2b597753318ff5e22400d90db2a42dd9a4e29e85f733e1100\"",
+  "Last-Modified": "Fri, 25 Sep 2026 16:40:25 GMT",
   "base": {
     "repo": {
       "name": "deltalake-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/deltalake-feedstock/pull/102",
   "id": 4628116601,
-  "labels": [],
-  "last_fetched": "2026-09-25T03:58:06.837992",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5828722805,
+      "name": "automerge",
+      "node_id": "LA_kwDOKFXuMM8AAAABW2tAdQ",
+      "url": "https://api.github.com/repos/conda-forge/deltalake-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-25T16:41:43.066612",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 102,
   "state": "open",
-  "updated_at": "2026-09-24T16:45:20Z"
+  "updated_at": "2026-09-25T16:40:25Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"cbf137bcc8768534f2641cf7218f34af8af3e042d7e6ad6b3d86e81555288967\"",
-  "Last-Modified": "Fri, 25 Sep 2026 07:39:21 GMT",
+  "ETag": "W/\"37c9fcf4e2558c0d83e4ebc1499043d4ff6a4c9eff600d2d7acbc312a6cdf236\"",
+  "Last-Modified": "Fri, 25 Sep 2026 15:23:32 GMT",
   "base": {
     "repo": {
       "name": "gnuradio-osmosdr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T15:23:31Z",
   "created_at": "2026-09-25T07:39:20Z",
   "draft": false,
   "e_tag": "\"29f45799d204a8d4514b5dd5b8e0a6b1760ffe433433e3c8406202a652701bf2\"",
   "head": {
-    "ref": "rebuild-uhd4110-0-1_h0ca81f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gnuradio-osmosdr-feedstock/pull/89",
   "id": 4635460568,
   "labels": [],
-  "last_fetched": "2026-09-25T10:48:29.010556",
+  "last_fetched": "2026-09-25T15:24:45.257866",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T15:23:31Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-09-25T07:41:07Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T15:23:32Z"
 }

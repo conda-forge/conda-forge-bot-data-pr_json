@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"46f0355f133098d3cb7814923af72298d18f23dce2fc7743446e14c0e48a968f\"",
+  "Last-Modified": "Fri, 25 Sep 2026 09:18:33 GMT",
   "base": {
     "repo": {
       "name": "mcstasscript-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T09:18:28Z",
   "created_at": "2026-09-25T09:14:04Z",
   "draft": false,
   "e_tag": "\"15150388c72033ae12a33c85bd0883223c5b6b222c73bc45522e01d9faca6d05\"",
   "head": {
-    "ref": "0.0.93_h26be79"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mcstasscript-feedstock/pull/35",
   "id": 4636277932,
   "labels": [],
-  "last_fetched": "2026-09-25T09:14:04.810270",
+  "last_fetched": "2026-09-25T09:19:45.396807",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T09:18:28Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-09-25T09:14:04Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T09:18:33Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f8faf40f083c5dbfa80c039eaf34d2b86e0a116ea5c80a7e53975ae53e86e30e\"",
-  "Last-Modified": "Thu, 24 Sep 2026 23:21:41 GMT",
+  "ETag": "W/\"71dd80bcd5a349ec70e7ac47e40ca0678e51cec99cc4b45475e4caaabb1d48c5\"",
+  "Last-Modified": "Fri, 25 Sep 2026 00:03:47 GMT",
   "base": {
     "repo": {
       "name": "deepspeed-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T00:03:47Z",
   "created_at": "2026-09-23T14:51:12Z",
   "draft": false,
   "e_tag": "\"b6233351bf3626d798f657ed8122021bb1f3a68d72c02ca88bf05ec56c6094ea\"",
   "head": {
-    "ref": "0.19.7_hd4a5aa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deepspeed-feedstock/pull/126",
   "id": 4615041432,
   "labels": [],
-  "last_fetched": "2026-09-24T23:24:12.482011",
+  "last_fetched": "2026-09-25T00:05:21.464843",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T00:03:46Z",
   "number": 126,
-  "state": "open",
-  "updated_at": "2026-09-24T23:21:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T00:03:47Z"
 }

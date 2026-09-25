@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"1441491b542d5da89df7bd96d1c60f146bad50f3ac22e2a92cd7c6bf7e19f026\"",
-  "Last-Modified": "Fri, 25 Sep 2026 10:58:57 GMT",
+  "ETag": "W/\"14cac7e304e41385b88fe86418ec38d4123081264be9945f3824936024e0744a\"",
+  "Last-Modified": "Fri, 25 Sep 2026 10:58:54 GMT",
   "base": {
     "repo": {
       "name": "ndcctools-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/ndcctools-feedstock/pull/180",
   "id": 4566678546,
-  "labels": [],
-  "last_fetched": "2026-09-25T11:00:18.830800",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T10:58:57.494565",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 180,
   "state": "closed",
-  "updated_at": "2026-09-25T10:58:57Z"
+  "updated_at": "2026-09-25T10:58:54Z"
 }

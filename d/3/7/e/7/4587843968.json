@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"88ae077a1b1650166d19c349d7108e242ca0f1aabb0ef56da900e8347bcc4e59\"",
-  "Last-Modified": "Fri, 25 Sep 2026 15:38:49 GMT",
+  "ETag": "W/\"efb1a30cb8c68675c0f3c8124e06f14a78552f2bc038bf1406feaf1bb3129ccd\"",
+  "Last-Modified": "Fri, 25 Sep 2026 16:23:27 GMT",
   "base": {
     "repo": {
       "name": "openmpi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T16:22:57Z",
   "created_at": "2026-09-21T04:14:05Z",
   "draft": false,
   "e_tag": "\"68a00dd31a16e2d801e749ff10859b54c89ebf18e88ba6565c44af25873d2bd9\"",
   "head": {
-    "ref": "5.0.11_h3fa610"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openmpi-feedstock/pull/224",
   "id": 4587843968,
   "labels": [],
-  "last_fetched": "2026-09-25T15:59:49.067343",
+  "last_fetched": "2026-09-25T16:24:10.919074",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T16:22:57Z",
   "number": 224,
-  "state": "open",
-  "updated_at": "2026-09-25T15:38:49Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T16:23:27Z"
 }

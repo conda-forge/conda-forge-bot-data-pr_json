@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"937cd50754f62e58664608b94a48892182b3d5d3c0f76d832a168e1e0d9a3633\"",
-  "Last-Modified": "Thu, 24 Sep 2026 21:25:38 GMT",
+  "ETag": "W/\"3831ea8aba8059604f0166dd15d0cfec74273a2c6a27f1a1407fad97ab3d0191\"",
+  "Last-Modified": "Fri, 25 Sep 2026 14:53:48 GMT",
   "base": {
     "repo": {
       "name": "pylibtiff-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pylibtiff-feedstock/pull/34",
   "id": 4573299124,
-  "labels": [],
-  "last_fetched": "2026-09-24T21:34:06.311769",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1949540006,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxOTQ5NTQwMDA2",
+      "url": "https://api.github.com/repos/conda-forge/pylibtiff-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-25T14:54:35.777029",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 34,
   "state": "open",
-  "updated_at": "2026-09-24T21:25:38Z"
+  "updated_at": "2026-09-25T14:53:48Z"
 }

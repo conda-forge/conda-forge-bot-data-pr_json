@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"aa2a98644d375e950f06cf6694c6da68c04df6ca1e9d55033db37a87d0cb1c66\"",
-  "Last-Modified": "Thu, 24 Sep 2026 20:59:00 GMT",
+  "ETag": "W/\"58eb46ac609a11dc6492028be490f3350fe20124bfa01f668e53cb49f5a77ce8\"",
+  "Last-Modified": "Fri, 25 Sep 2026 03:09:49 GMT",
   "base": {
     "repo": {
       "name": "openexr-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T03:09:49Z",
   "created_at": "2026-09-23T03:47:57Z",
   "draft": false,
   "e_tag": "\"ddf311a44db0d658c60b3d8f4b484fc524e90a80a0211c245e1db947217cf126\"",
   "head": {
-    "ref": "3.5.0_h848b6a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openexr-python-feedstock/pull/48",
   "id": 4609477481,
   "labels": [],
-  "last_fetched": "2026-09-24T21:00:16.874780",
+  "last_fetched": "2026-09-25T03:11:41.820935",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T03:09:49Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-09-24T20:59:00Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T03:09:49Z"
 }

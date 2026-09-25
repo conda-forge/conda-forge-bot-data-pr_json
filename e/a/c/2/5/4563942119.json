@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"8fabb5f90cb0f23374aceb41a7d920afdd17f565820e1a8a08e64df43c60b27a\"",
-  "Last-Modified": "Fri, 25 Sep 2026 08:33:41 GMT",
+  "ETag": "W/\"30268966a86e083e2a0e3b0344b1998d82d8b88da0c711be8c22f01db2195ea3\"",
+  "Last-Modified": "Fri, 25 Sep 2026 08:33:38 GMT",
   "base": {
     "repo": {
       "name": "pymef-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/pymef-feedstock/pull/8",
   "id": 4563942119,
-  "labels": [],
-  "last_fetched": "2026-09-25T08:35:15.754685",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T08:33:41.741569",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 8,
   "state": "closed",
-  "updated_at": "2026-09-25T08:33:41Z"
+  "updated_at": "2026-09-25T08:33:38Z"
 }

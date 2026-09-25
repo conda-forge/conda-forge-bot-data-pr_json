@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"edfd87d13032edee297dc8bda62859ff97e78959d8a08807122fd87f235b2c17\"",
-  "Last-Modified": "Fri, 25 Sep 2026 01:24:09 GMT",
+  "ETag": "W/\"6912938353447fb58e130aac29df476dab3bff7508aa5c6865bdf888a5d28fd8\"",
+  "Last-Modified": "Fri, 25 Sep 2026 02:58:13 GMT",
   "base": {
     "repo": {
       "name": "mcap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T02:58:13Z",
   "created_at": "2026-09-25T01:22:13Z",
   "draft": false,
   "e_tag": "\"d3f4aa693d84f63b0b57c24138f9aa9b12101fee188373cf5daeed6e174232c9\"",
   "head": {
-    "ref": "1.5.0_h78cba4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mcap-feedstock/pull/4",
   "id": 4632906513,
   "labels": [],
-  "last_fetched": "2026-09-25T01:52:54.283113",
+  "last_fetched": "2026-09-25T02:59:58.924082",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T02:58:13Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-09-25T01:24:09Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T02:58:13Z"
 }

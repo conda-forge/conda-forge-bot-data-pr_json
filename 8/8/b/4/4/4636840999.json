@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6a70b503aef344a08a3ddf46767571be79b125e0445ca9d62d901dd186f697f6\"",
-  "Last-Modified": "Fri, 25 Sep 2026 10:16:53 GMT",
+  "ETag": "W/\"0c7e475131660b7d389a628e403223beff6db5842ae87b0ba2eda593c90aba7c\"",
+  "Last-Modified": "Fri, 25 Sep 2026 12:49:42 GMT",
   "base": {
     "repo": {
       "name": "platformdirs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T12:49:42Z",
   "created_at": "2026-09-25T10:16:52Z",
   "draft": false,
   "e_tag": "\"42287c744a59741a4304b03a567efa325ba5a44dcd72ae4ef85e33dcf2cc1837\"",
   "head": {
-    "ref": "4.11.13_hee10c3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/platformdirs-feedstock/pull/70",
   "id": 4636840999,
   "labels": [],
-  "last_fetched": "2026-09-25T10:26:08.195936",
+  "last_fetched": "2026-09-25T12:56:17.833484",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T12:49:42Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-09-25T10:18:42Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T12:49:42Z"
 }

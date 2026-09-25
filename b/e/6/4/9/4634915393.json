@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f8f20a18764928cfd522091c8fc83816ea1aa3aabcf6b1df785a51802426fe5b\"",
-  "Last-Modified": "Fri, 25 Sep 2026 06:34:29 GMT",
+  "ETag": "W/\"4973c077dad04b87f4009a5835667c9aae22cc49a7579730af2b71232ce411b6\"",
+  "Last-Modified": "Fri, 25 Sep 2026 14:30:44 GMT",
   "base": {
     "repo": {
       "name": "vowpalwabbit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T14:30:44Z",
   "created_at": "2026-09-25T06:32:52Z",
   "draft": false,
   "e_tag": "\"0f7fe56f6cba6e3618a051ef935e6caa650ce43406937c7cb9f00ceb9cc028ef\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h8a8b2f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vowpalwabbit-feedstock/pull/106",
   "id": 4634915393,
   "labels": [],
-  "last_fetched": "2026-09-25T11:48:03.647659",
+  "last_fetched": "2026-09-25T14:33:35.511972",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T14:30:44Z",
   "number": 106,
-  "state": "open",
-  "updated_at": "2026-09-25T06:34:29Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T14:30:44Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5b089f44226595ac4f90d48e15934170464a6a589436971bf7ff80318ddcf7b0\"",
+  "Last-Modified": "Fri, 25 Sep 2026 21:01:01 GMT",
   "base": {
     "repo": {
       "name": "frictionless-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T21:00:57Z",
   "created_at": "2026-09-25T20:57:00Z",
   "draft": false,
   "e_tag": "\"7931869af2da118fe65b637744c81d6db883e85a22bfee915c162b98bf90027c\"",
   "head": {
-    "ref": "5.19.1_he96c53"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/frictionless-feedstock/pull/154",
   "id": 4642625831,
   "labels": [],
-  "last_fetched": "2026-09-25T20:57:01.818288",
+  "last_fetched": "2026-09-25T21:02:32.070047",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T21:00:57Z",
   "number": 154,
-  "state": "open",
-  "updated_at": "2026-09-25T20:57:00Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T21:01:01Z"
 }

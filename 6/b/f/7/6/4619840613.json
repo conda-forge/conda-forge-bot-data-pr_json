@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"49e7ec412e1ed16d7606710f69d7eaf2f018c7be02c34ee7be41d13873046c5a\"",
-  "Last-Modified": "Fri, 25 Sep 2026 20:19:05 GMT",
+  "ETag": "W/\"d3aeabf070ff6e50a53cedf8243a822abc6a44d66c5a6a3f6add508a2022fdd2\"",
+  "Last-Modified": "Fri, 25 Sep 2026 20:55:52 GMT",
   "base": {
     "repo": {
       "name": "soapysdr-module-uhd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T20:55:52Z",
   "created_at": "2026-09-23T23:46:10Z",
   "draft": false,
   "e_tag": "\"df051218c4b35d20410d7bc40a11c57a3ba97f0c13fc51c8e7d751c81548d67c\"",
   "head": {
-    "ref": "rebuild-uhd4110-0-1_h467f73"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/soapysdr-module-uhd-feedstock/pull/36",
   "id": 4619840613,
   "labels": [],
-  "last_fetched": "2026-09-25T20:46:37.048300",
+  "last_fetched": "2026-09-25T20:57:19.232023",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T20:55:52Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-09-25T20:19:05Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T20:55:52Z"
 }

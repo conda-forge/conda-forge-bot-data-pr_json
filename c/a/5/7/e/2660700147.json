@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"81f8c6e466ff39871d12cbaeb0abc52b69750349e2dc8ae33a67ea3ca7f0dd4d\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"8a507699483d774f631507b08a3efebcd2881c095c1f41b0e3b1870992b29d41\"",
+  "Last-Modified": "Fri, 25 Sep 2026 07:50:38 GMT",
   "base": {
     "repo": {
       "name": "vmprof-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T07:50:37Z",
   "created_at": "2025-07-12T01:45:31Z",
   "draft": false,
   "e_tag": "\"7ceb3403d6e4a9aa4bd77bdf333eb438b0b8507e53afcd6d7b6736227fde2f97\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/vmprof-feedstock/pull/36",
   "id": 2660700147,
-  "labels": [],
-  "last_fetched": "2026-09-18T07:34:09.470432",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T07:50:41.914231",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 36,
-  "state": "open",
-  "updated_at": "2025-07-14T06:29:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T07:50:38Z"
 }

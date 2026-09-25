@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6df021b24cdf5ef6073eb81fc8445c90868bc5a31d78e3a6dcbb7ba39ada1dcc\"",
+  "Last-Modified": "Fri, 25 Sep 2026 17:15:28 GMT",
   "base": {
     "repo": {
       "name": "multipart-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T17:15:27Z",
   "created_at": "2026-09-25T17:04:12Z",
   "draft": false,
   "e_tag": "\"d8d5eea664b0b04bf39f3ad343b681b3dff3cd4e6dd2a6b13216130184a38171\"",
   "head": {
-    "ref": "2.0.1_h92ee9c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/multipart-feedstock/pull/9",
   "id": 4640581840,
   "labels": [],
-  "last_fetched": "2026-09-25T17:04:13.584390",
+  "last_fetched": "2026-09-25T17:17:27.346614",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T17:15:27Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-09-25T17:04:12Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T17:15:28Z"
 }

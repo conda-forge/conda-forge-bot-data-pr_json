@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"eaab0b317830a23d05a16d0ca83a77ad70ccc5d968152d2749daa71d8802c0bb\"",
-  "Last-Modified": "Fri, 25 Sep 2026 18:17:14 GMT",
+  "ETag": "W/\"5a4355d92b88ed2df25f532edd74132b00826f2d52391324f67911d72a5dda2a\"",
+  "Last-Modified": "Fri, 25 Sep 2026 20:10:42 GMT",
   "base": {
     "repo": {
       "name": "transformers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T20:10:42Z",
   "created_at": "2026-09-09T18:16:05Z",
   "draft": false,
   "e_tag": "\"22c46c9e72e6592e1a489f21e675fc24f4faa2cd2244fec86fde30c57b038563\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/transformers-feedstock/pull/263",
   "id": 4488038604,
-  "labels": [],
-  "last_fetched": "2026-09-25T19:21:31.980847",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891419947,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxNDE5OTQ3",
+      "url": "https://api.github.com/repos/conda-forge/transformers-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T20:10:45.281760",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 263,
-  "state": "open",
-  "updated_at": "2026-09-25T18:17:14Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T20:10:42Z"
 }

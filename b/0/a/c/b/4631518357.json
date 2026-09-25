@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"38bd874f5735f07374dc93ea5725806349f20f7204fed0d4c0f080317b203613\"",
-  "Last-Modified": "Thu, 24 Sep 2026 22:01:37 GMT",
+  "ETag": "W/\"c6854300f5416abe084f71b9c7eec8f81484aacf3bcb3a7402ebe85aaaaf69b0\"",
+  "Last-Modified": "Fri, 25 Sep 2026 00:36:34 GMT",
   "base": {
     "repo": {
       "name": "vale-styles-readability-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/vale-styles-readability-feedstock/pull/1",
   "id": 4631518357,
-  "labels": [],
-  "last_fetched": "2026-09-24T23:58:17.970069",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6798064761,
+      "name": "automerge",
+      "node_id": "LA_kwDOLriGpM8AAAABlTI8eQ",
+      "url": "https://api.github.com/repos/conda-forge/vale-styles-readability-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-25T00:37:05.630597",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 1,
   "state": "open",
-  "updated_at": "2026-09-24T22:01:37Z"
+  "updated_at": "2026-09-25T00:36:34Z"
 }

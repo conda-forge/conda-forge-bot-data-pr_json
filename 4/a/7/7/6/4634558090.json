@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"8e0da0c9b79e7ea49be260a72c5d69bb18a2fc97940ed1d4dbca07e6b3d94f99\"",
-  "Last-Modified": "Fri, 25 Sep 2026 05:47:23 GMT",
+  "ETag": "W/\"50de67f1045f9ce6262854f9b1de328cc586e9608a4fd410d12bdbf6a76eb36c\"",
+  "Last-Modified": "Fri, 25 Sep 2026 12:51:25 GMT",
   "base": {
     "repo": {
       "name": "python-uv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T12:51:24Z",
   "created_at": "2026-09-25T05:45:29Z",
   "draft": false,
   "e_tag": "\"08541bcfd81e6c927191186d470287be360390cb2c451eeafd88c3705a89e3db\"",
   "head": {
-    "ref": "0.12.19_h176399"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-uv-feedstock/pull/245",
   "id": 4634558090,
   "labels": [],
-  "last_fetched": "2026-09-25T08:52:31.795278",
+  "last_fetched": "2026-09-25T18:59:42.982508",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T12:51:24Z",
   "number": 245,
-  "state": "open",
-  "updated_at": "2026-09-25T05:47:23Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T12:51:25Z"
 }

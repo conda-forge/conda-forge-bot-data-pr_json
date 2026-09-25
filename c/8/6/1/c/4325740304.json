@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"43cc246bf510354fea15beac7050fe837173d6c22abdbf36b8b38f876302fbfb\"",
-  "Last-Modified": "Wed, 26 Aug 2026 13:03:25 GMT",
+  "ETag": "W/\"caed2a57d04a2425fa42a5b6c866dbf1d554bb8c093eeb4143ea7d7e9913a7a7\"",
+  "Last-Modified": "Fri, 25 Sep 2026 03:51:01 GMT",
   "base": {
     "repo": {
       "name": "openjph-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T03:51:01Z",
   "created_at": "2026-08-20T18:55:09Z",
   "draft": false,
   "e_tag": "\"043b9934095c6b3a85f7cec950985fee3da76b9198a8ea48eb46d3382173ade2\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/openjph-feedstock/pull/39",
   "id": 4325740304,
-  "labels": [],
-  "last_fetched": "2026-09-17T21:31:10.126391",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T03:51:04.013372",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-08-26T13:03:25Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T03:51:01Z"
 }

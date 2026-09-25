@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"6449b94481d4655b657e3f613008acea2ea3e1e4c43b4d7af768a8671f59144a\"",
-  "Last-Modified": "Fri, 25 Sep 2026 03:00:10 GMT",
+  "ETag": "W/\"47ad05d731e8b9252d7917a2e176ec76bfaabce27c9609c8157dbf3d639b0c1e\"",
+  "Last-Modified": "Fri, 25 Sep 2026 03:00:07 GMT",
   "base": {
     "repo": {
       "name": "bert_score-feedstock"
@@ -14,13 +14,17 @@
   },
   "html_url": "https://github.com/conda-forge/bert_score-feedstock/pull/8",
   "id": 1088023611,
-  "labels": [],
-  "last_fetched": "2026-09-25T03:01:53.118869",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T03:00:09.985716",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 8,
   "state": "closed",
-  "updated_at": "2026-09-25T03:00:10Z"
+  "updated_at": "2026-09-25T03:00:07Z"
 }

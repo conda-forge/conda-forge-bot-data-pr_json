@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"88c67530aa23ecac88ab65476188b1726781bddb79239020c20fd5c9206da74b\"",
+  "Last-Modified": "Fri, 25 Sep 2026 08:09:49 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-firestore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T08:09:49Z",
   "created_at": "2026-09-25T03:31:29Z",
   "draft": false,
   "e_tag": "\"fd5bb09ee0ca8e054fcd0985208cbee1123ea8e7c483bddc72ee2e54e5c1e96c\"",
   "head": {
-    "ref": "2.32.0_h685b3c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-firestore-feedstock/pull/53",
   "id": 4633695889,
   "labels": [],
-  "last_fetched": "2026-09-25T03:31:30.698802",
+  "last_fetched": "2026-09-25T08:11:01.594837",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T08:09:49Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-09-25T03:31:29Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T08:09:49Z"
 }

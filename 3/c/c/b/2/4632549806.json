@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"df0e23d6f1d706829066502c67ff36a18ad5ed4bb2d4b691039bbfe21fe175ef\"",
+  "Last-Modified": "Fri, 25 Sep 2026 01:28:56 GMT",
   "base": {
     "repo": {
       "name": "freeze-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T01:28:55Z",
   "created_at": "2026-09-25T00:26:25Z",
   "draft": false,
   "e_tag": "\"21e99844cfd3f7798fc027af69fe1dbf40db45734ed5d60811e73eafc48bae2d\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hc244fc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/freeze-core-feedstock/pull/21",
   "id": 4632549806,
   "labels": [],
-  "last_fetched": "2026-09-25T00:26:26.082133",
+  "last_fetched": "2026-09-25T01:30:56.247244",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T01:28:55Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-09-25T00:26:25Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T01:28:56Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9d51242f932f0b3720b48abb6327d804528b3b787aaa670f81a3339a24ed7378\"",
+  "Last-Modified": "Fri, 25 Sep 2026 22:39:12 GMT",
   "base": {
     "repo": {
       "name": "numpydoc_decorator-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T22:39:12Z",
   "created_at": "2026-09-25T19:57:28Z",
   "draft": false,
   "e_tag": "\"d212774447222a1814fd35d74cd194d1a1bfaaa797124259324193a2bef49dd0\"",
   "head": {
-    "ref": "2.3.0_h925061"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/numpydoc_decorator-feedstock/pull/7",
   "id": 4642106294,
   "labels": [],
-  "last_fetched": "2026-09-25T19:57:29.381712",
+  "last_fetched": "2026-09-25T22:40:52.330099",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T22:39:12Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-25T19:57:28Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T22:39:12Z"
 }

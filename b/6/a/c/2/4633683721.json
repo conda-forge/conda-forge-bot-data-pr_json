@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6bba0587e012d49e7424bfe2929ef987d4b5f44de6168ed82c2b5f467122d44a\"",
+  "Last-Modified": "Fri, 25 Sep 2026 03:33:22 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-ndb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T03:33:18Z",
   "created_at": "2026-09-25T03:29:18Z",
   "draft": false,
   "e_tag": "\"2b8018ecaedbdf8b4890f93143af0fcb1d798d044b110726ffb9e1ae46db6c42\"",
   "head": {
-    "ref": "2.6.1_h468ad9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-ndb-feedstock/pull/10",
   "id": 4633683721,
   "labels": [],
-  "last_fetched": "2026-09-25T03:29:19.528276",
+  "last_fetched": "2026-09-25T03:35:13.048097",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T03:33:18Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-09-25T03:29:18Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T03:33:22Z"
 }

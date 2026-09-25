@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"ff4d814bbd3293e0f010ac172e00a33a3eb36262251f56989bf5fe8d688e60b2\"",
-  "Last-Modified": "Fri, 25 Sep 2026 09:47:25 GMT",
+  "ETag": "W/\"1f13b14ddbf35cda71bd9507b2f32988aa67a267d7dcfebc6fe94a682dbea516\"",
+  "Last-Modified": "Fri, 25 Sep 2026 10:50:50 GMT",
   "base": {
     "repo": {
       "name": "dtaidistance-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T10:50:50Z",
   "created_at": "2026-09-25T09:45:53Z",
   "draft": false,
   "e_tag": "\"99504b228f9fac4451973c11def363bf11b8247d71e7f5fe503e7a1f73325e19\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h74fb4f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dtaidistance-feedstock/pull/26",
   "id": 4636555652,
   "labels": [],
-  "last_fetched": "2026-09-25T09:47:29.851062",
+  "last_fetched": "2026-09-25T10:51:59.146778",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T10:50:50Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-09-25T09:47:25Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T10:50:50Z"
 }

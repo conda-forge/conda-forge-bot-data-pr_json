@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"36b5c7a16ff7314532e81fffd99977615b2866fe3e946809d1cd0bff5091c33b\"",
+  "Last-Modified": "Fri, 25 Sep 2026 18:12:29 GMT",
   "base": {
     "repo": {
       "name": "nvidia-ml-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T18:12:25Z",
   "created_at": "2026-09-25T18:08:23Z",
   "draft": false,
   "e_tag": "\"68fdeed2892f12d1e3329d6415b2399460faabd85b376aa4354938a40df29d57\"",
   "head": {
-    "ref": "13.615.71_he44ecc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nvidia-ml-py-feedstock/pull/35",
   "id": 4641159947,
   "labels": [],
-  "last_fetched": "2026-09-25T18:08:24.589052",
+  "last_fetched": "2026-09-25T18:13:32.504414",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T18:12:25Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-09-25T18:08:23Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T18:12:29Z"
 }

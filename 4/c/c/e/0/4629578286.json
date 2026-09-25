@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"7d041e71f3331a7411f7966de01cb5149dc4845b1c574e5b0e7c53560c9997eb\"",
-  "Last-Modified": "Thu, 24 Sep 2026 18:30:51 GMT",
+  "ETag": "W/\"68c616f2bd2996c3f0be482f4906048a94d625b7207baf24c0f36d049ab827f4\"",
+  "Last-Modified": "Fri, 25 Sep 2026 18:32:13 GMT",
   "base": {
     "repo": {
       "name": "pylibjpeg-openjpeg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T18:32:13Z",
   "created_at": "2026-09-24T18:29:01Z",
   "draft": false,
   "e_tag": "\"f602b0641c001a72efe7cd209f7e9fdb1c574bd3c561fc4e33842f0773c0f14e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h1c0a1a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylibjpeg-openjpeg-feedstock/pull/6",
   "id": 4629578286,
   "labels": [],
-  "last_fetched": "2026-09-25T04:00:12.583538",
+  "last_fetched": "2026-09-25T18:34:13.287553",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T18:32:13Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-09-24T18:30:51Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T18:32:13Z"
 }

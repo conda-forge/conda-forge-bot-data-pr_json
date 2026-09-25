@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"814f4fb66af2f0846f4a26b7a6d164095070b74f2ea3e2401fe6847e51a7b94c\"",
+  "Last-Modified": "Fri, 25 Sep 2026 22:25:03 GMT",
   "base": {
     "repo": {
       "name": "numbagg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T22:24:59Z",
   "created_at": "2026-09-25T22:21:12Z",
   "draft": false,
   "e_tag": "\"7c583253e7754cf9ef076ec5ea6c55c96d2303a6caaef2cd0d3a1f596e61f88c\"",
   "head": {
-    "ref": "0.9.6_h8ec7bb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/numbagg-feedstock/pull/40",
   "id": 4643233778,
   "labels": [],
-  "last_fetched": "2026-09-25T22:21:13.756071",
+  "last_fetched": "2026-09-25T22:26:31.451978",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T22:24:59Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-09-25T22:21:12Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T22:25:03Z"
 }

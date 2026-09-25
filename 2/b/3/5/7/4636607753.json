@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a154a52841ae87c1f44a20234162e4e491a28476ef8592ac1705d3c2ec4751bd\"",
-  "Last-Modified": "Fri, 25 Sep 2026 09:53:03 GMT",
+  "ETag": "W/\"df07d2fc25388cc28595983e9aaaf2326fe3f882b24e33b5c106a15753fbc139\"",
+  "Last-Modified": "Fri, 25 Sep 2026 13:30:05 GMT",
   "base": {
     "repo": {
       "name": "hddm-wfpt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T13:30:04Z",
   "created_at": "2026-09-25T09:51:21Z",
   "draft": false,
   "e_tag": "\"e37d435614a5a87974c9dbd604c2da77b426ac654847bf16c4770213dbccecfe\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h601dec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hddm-wfpt-feedstock/pull/11",
   "id": 4636607753,
   "labels": [],
-  "last_fetched": "2026-09-25T10:47:14.236547",
+  "last_fetched": "2026-09-25T19:57:43.942451",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T13:30:04Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-09-25T09:53:03Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T13:30:05Z"
 }

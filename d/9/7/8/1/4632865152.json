@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"fcfc713353c668cb7bf37cb3718471d777311d0db25b17ba56c061e8f963ca6d\"",
-  "Last-Modified": "Fri, 25 Sep 2026 01:18:00 GMT",
+  "ETag": "W/\"3786d466b5d40436e7e8e3467e77731f055edbf4645a8db72f9579ed5bb9739e\"",
+  "Last-Modified": "Fri, 25 Sep 2026 17:44:48 GMT",
   "base": {
     "repo": {
       "name": "guard-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T17:44:48Z",
   "created_at": "2026-09-25T01:16:20Z",
   "draft": false,
   "e_tag": "\"2726f0ed92d7fbe7989a08332fd1fe0d8a3d39412421ca6ca1418203c0dddad0\"",
   "head": {
-    "ref": "4.0.5_h0b5446"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/guard-core-feedstock/pull/38",
   "id": 4632865152,
   "labels": [],
-  "last_fetched": "2026-09-25T11:24:09.868091",
+  "last_fetched": "2026-09-25T17:46:27.150365",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T17:44:48Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-09-25T01:18:00Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T17:44:48Z"
 }

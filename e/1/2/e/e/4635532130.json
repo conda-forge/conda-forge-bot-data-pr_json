@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"23be622d2f3cd79a6ba43637a927a70ebba3327b245f81d58f3826c1cf8f9786\"",
+  "Last-Modified": "Fri, 25 Sep 2026 08:17:58 GMT",
   "base": {
     "repo": {
       "name": "fa2_modified-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T08:17:58Z",
   "created_at": "2026-09-25T07:47:03Z",
   "draft": false,
   "e_tag": "\"5693369c25b44d679f0d19b4e93368f543e966b17bef165e092efab92ac10d5c\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h6cfce9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fa2_modified-feedstock/pull/8",
   "id": 4635532130,
   "labels": [],
-  "last_fetched": "2026-09-25T07:47:04.307838",
+  "last_fetched": "2026-09-25T08:19:42.112421",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-25T08:17:58Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-25T07:47:03Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T08:17:58Z"
 }

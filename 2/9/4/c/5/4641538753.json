@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"33a7523e26983848746379ba4fc5a28d05ce9ce62eaa484c03f69336a73cde1b\"",
-  "Last-Modified": "Fri, 25 Sep 2026 20:29:11 GMT",
+  "ETag": "W/\"ecf6e78475ddb39eecf6bdd527d0a30d008bfad897d396a3798eeed4e7253b07\"",
+  "Last-Modified": "Fri, 25 Sep 2026 20:45:11 GMT",
   "base": {
     "repo": {
       "name": "gnss-sdr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T20:45:07Z",
   "created_at": "2026-09-25T18:47:59Z",
   "draft": false,
   "e_tag": "\"9862f3ad3ea3f4644f7f35a07425b698b2dfa5ae7d4217779b519705c46b876c\"",
   "head": {
-    "ref": "rebuild-uhd4110-0-1_h2a2c25"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gnss-sdr-feedstock/pull/52",
   "id": 4641538753,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/gnss-sdr-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-25T20:30:50.170495",
+  "last_fetched": "2026-09-25T20:47:37.791917",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T20:45:07Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-09-25T20:29:11Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T20:45:11Z"
 }

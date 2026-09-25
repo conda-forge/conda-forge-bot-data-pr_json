@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"224811e8c337672a6c7aa8e15fe77e40dd5ba6ea5d367c50f3ef217d01002a4a\"",
-  "Last-Modified": "Thu, 24 Sep 2026 22:48:57 GMT",
+  "ETag": "W/\"7b4ec1f82ff48df71aa64e462217599d662aebe55c6fd64d0d64a408c35ed537\"",
+  "Last-Modified": "Fri, 25 Sep 2026 09:40:10 GMT",
   "base": {
     "repo": {
       "name": "r-validate-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T09:40:10Z",
   "created_at": "2026-07-31T04:21:36Z",
   "draft": false,
   "e_tag": "\"83b4e369927ff31c13d071667abb9a59f47f3300e3a7dd26968093dd38726fa7\"",
   "head": {
-    "ref": "bot-pr_arm_osx_h138a4d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-validate-feedstock/pull/22",
   "id": 4175010748,
   "labels": [],
-  "last_fetched": "2026-09-24T22:58:35.494882",
+  "last_fetched": "2026-09-25T09:41:50.048448",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T09:40:09Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-09-24T22:49:06Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T09:40:10Z"
 }

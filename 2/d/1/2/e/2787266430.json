@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9ec5c6b6b29ee6cf748c07261a7b87a4b0f779e3000d72f576b8f0cd5f5c6f6a\"",
-  "Last-Modified": "Fri, 25 Sep 2026 09:58:02 GMT",
+  "ETag": "W/\"a7ef334628f5aacf90ab79a41f25486498b26984f3abfd720fa0c601a0e30287\"",
+  "Last-Modified": "Fri, 25 Sep 2026 09:58:00 GMT",
   "base": {
     "repo": {
       "name": "pyslalib-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyslalib-feedstock/pull/19",
   "id": 2787266430,
-  "labels": [],
-  "last_fetched": "2026-09-25T09:59:52.868707",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T09:58:02.306857",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 19,
   "state": "closed",
-  "updated_at": "2026-09-25T09:58:02Z"
+  "updated_at": "2026-09-25T09:58:00Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"54f46604ea4e307c8af2ed44261b8cc26400824d49e50ef68fb725722ecb39ab\"",
-  "Last-Modified": "Fri, 25 Sep 2026 15:13:36 GMT",
+  "ETag": "W/\"33b0b5825312f800df8b4fa11051f7dbe5e432c652777f03fc996e3cf41c3170\"",
+  "Last-Modified": "Fri, 25 Sep 2026 15:59:58 GMT",
   "base": {
     "repo": {
       "name": "ompl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T15:59:58Z",
   "created_at": "2026-09-25T15:13:34Z",
   "draft": false,
   "e_tag": "\"650aa156632b1e779b95f4051f77ad5797466ccceb7566b73093f6ae9f6bf34b\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h072f18"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ompl-feedstock/pull/71",
   "id": 4639569875,
   "labels": [],
-  "last_fetched": "2026-09-25T15:27:59.807062",
+  "last_fetched": "2026-09-25T16:01:44.336319",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T15:59:58Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-09-25T15:15:47Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T15:59:58Z"
 }

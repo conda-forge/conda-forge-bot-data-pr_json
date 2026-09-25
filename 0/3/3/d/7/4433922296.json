@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"6f31d1dbe4318453c3ef526cf2e397eb2e1a39ca8bd31bb9bbab5e67c262bbf4\"",
-  "Last-Modified": "Fri, 25 Sep 2026 08:51:19 GMT",
+  "ETag": "W/\"3a6b2ead7ddc7e1a96dd977ef3db5ee66b04b6bdfb72050ecdabed53ba919038\"",
+  "Last-Modified": "Fri, 25 Sep 2026 08:51:17 GMT",
   "base": {
     "repo": {
       "name": "go-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/go-feedstock/pull/345",
   "id": 4433922296,
-  "labels": [],
-  "last_fetched": "2026-09-25T08:52:56.681751",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-25T08:51:20.165608",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 345,
   "state": "closed",
-  "updated_at": "2026-09-25T08:51:19Z"
+  "updated_at": "2026-09-25T08:51:17Z"
 }

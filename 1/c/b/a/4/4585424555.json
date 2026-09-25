@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"7c3d8b4ff5867dbd69349d4e61956081f69a7ac09b9bdb7bcff39f27aeae8328\"",
-  "Last-Modified": "Sun, 20 Sep 2026 18:27:40 GMT",
+  "ETag": "W/\"4ea39b1acb9c628e42542e2d27e28ded52894df776b572e5b9b6bb5e1d337d52\"",
+  "Last-Modified": "Fri, 25 Sep 2026 01:05:27 GMT",
   "base": {
     "repo": {
       "name": "nputop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-25T01:05:27Z",
   "created_at": "2026-09-20T18:25:52Z",
   "draft": false,
   "e_tag": "\"28510b26a91df6916edf5f32ebef247a4ca8561bb8538f718021d7bafa50201b\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h05fac8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nputop-feedstock/pull/8",
   "id": 4585424555,
   "labels": [],
-  "last_fetched": "2026-09-20T22:23:05.869211",
+  "last_fetched": "2026-09-25T01:07:31.124281",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-25T01:05:27Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-20T18:27:40Z"
+  "state": "closed",
+  "updated_at": "2026-09-25T01:05:27Z"
 }

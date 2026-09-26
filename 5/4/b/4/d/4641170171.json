@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"bd8da141be1d85196f4a6aaa2114389afa71463a017b3fcd9a0fa7c8e2b0a40c\"",
-  "Last-Modified": "Fri, 25 Sep 2026 18:11:07 GMT",
+  "ETag": "W/\"dfbcadf5e0407b557c666e25620ae14ca9c47b0bd34e2f79f4119692041478d4\"",
+  "Last-Modified": "Sat, 26 Sep 2026 11:20:15 GMT",
   "base": {
     "repo": {
       "name": "pytest-alembic-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/pytest-alembic-feedstock/pull/25",
   "id": 4641170171,
-  "labels": [],
-  "last_fetched": "2026-09-25T18:29:14.770206",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3205675129,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMjA1Njc1MTI5",
+      "url": "https://api.github.com/repos/conda-forge/pytest-alembic-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-26T11:21:56.069116",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 25,
   "state": "open",
-  "updated_at": "2026-09-25T18:11:07Z"
+  "updated_at": "2026-09-26T11:20:15Z"
 }

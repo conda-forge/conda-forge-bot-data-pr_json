@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"3cc659221e517ef40524f2d250ecbe9cf27bbecbcfff72a52c6d9c58cab456a9\"",
+  "Last-Modified": "Sat, 26 Sep 2026 09:58:50 GMT",
   "base": {
     "repo": {
       "name": "findent-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/findent-feedstock/pull/20",
   "id": 4646268582,
-  "labels": [],
-  "last_fetched": "2026-09-26T09:41:50.414508",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2388661406,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMzg4NjYxNDA2",
+      "url": "https://api.github.com/repos/conda-forge/findent-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-26T10:00:27.898867",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 20,
   "state": "open",
-  "updated_at": "2026-09-26T09:41:49Z"
+  "updated_at": "2026-09-26T09:58:50Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"a58256d3c768c9e2c353064c4964cc4af4230d57d83f49e1334ba936bd9ea5bb\"",
+  "Last-Modified": "Sat, 26 Sep 2026 06:03:03 GMT",
   "base": {
     "repo": {
       "name": "gwframe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T06:03:02Z",
   "created_at": "2026-09-26T04:41:41Z",
   "draft": false,
   "e_tag": "\"bcf60a8bf2e97a22679eb2765db48baf558957f89f16f881dc32fe1cf7a645d2\"",
   "head": {
-    "ref": "rebuild-python315-0-1_ha212ac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gwframe-feedstock/pull/23",
   "id": 4645008910,
   "labels": [],
-  "last_fetched": "2026-09-26T04:41:41.956406",
+  "last_fetched": "2026-09-26T06:04:42.046362",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-26T06:03:02Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-09-26T04:41:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T06:03:03Z"
 }

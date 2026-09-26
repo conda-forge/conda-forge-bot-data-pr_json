@@ -1,26 +1,40 @@
 {
+  "ETag": "W/\"575dae79192fb96914b4fef4dd5a98b8a72775f8f63934342b3e926bfe679168\"",
+  "Last-Modified": "Sat, 26 Sep 2026 14:49:20 GMT",
   "base": {
     "repo": {
       "name": "pyscal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T14:49:15Z",
   "created_at": "2026-09-26T14:44:10Z",
   "draft": false,
   "e_tag": "\"316b3e8ac57c9761f6be652b55b4f5cbd1cb40c4ddac1d50cbac4c564c9c5fd8\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h1cc7ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyscal-feedstock/pull/72",
   "id": 4647678872,
-  "labels": [],
-  "last_fetched": "2026-09-26T14:44:11.116146",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891110168,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTEwMTY4",
+      "url": "https://api.github.com/repos/conda-forge/pyscal-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-26T14:50:17.546744",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-26T14:49:15Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-09-26T14:44:10Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T14:49:20Z"
 }

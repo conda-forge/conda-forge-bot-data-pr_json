@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"de5b50ccaeafc24757eb782ce3581c604bf6bf2f2c401fd35a2bd0b10f7cfea7\"",
-  "Last-Modified": "Fri, 25 Sep 2026 10:45:35 GMT",
+  "ETag": "W/\"5b06a9c349bf84632db2a98b7b18c8a5fd2a119d2aabb915bff925f6165be9d8\"",
+  "Last-Modified": "Sat, 26 Sep 2026 20:14:21 GMT",
   "base": {
     "repo": {
       "name": "pyabel-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T20:14:20Z",
   "created_at": "2026-09-25T10:43:17Z",
   "draft": false,
   "e_tag": "\"ed4c59a0d8974b38d805bff91bdf0b887fe6861ac4cbf83c1c9b7ad19be79a9c\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h82cb70"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyabel-feedstock/pull/36",
   "id": 4637062194,
   "labels": [],
-  "last_fetched": "2026-09-25T11:24:16.483635",
+  "last_fetched": "2026-09-26T20:16:00.273388",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-26T20:14:20Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-09-25T10:45:35Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T20:14:21Z"
 }

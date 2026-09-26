@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c43e74b24f4ab4bda53412dc578a1e768467693b5bef19644f82cf3bfff5f990\"",
+  "Last-Modified": "Sat, 26 Sep 2026 03:37:31 GMT",
   "base": {
     "repo": {
       "name": "orbax-checkpoint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T03:37:31Z",
   "created_at": "2026-09-26T03:29:40Z",
   "draft": false,
   "e_tag": "\"db65d2f93fa55e2b796ead2294ec584bb1f08bb0cfd5451d105431d6cdf9b8f1\"",
   "head": {
-    "ref": "0.12.6_hd9eb85"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/orbax-checkpoint-feedstock/pull/39",
   "id": 4644702524,
   "labels": [],
-  "last_fetched": "2026-09-26T03:29:41.086252",
+  "last_fetched": "2026-09-26T03:39:09.864242",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-26T03:37:31Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-09-26T03:29:40Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T03:37:31Z"
 }

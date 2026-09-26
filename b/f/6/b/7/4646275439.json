@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"025b364ae64d3cc58de2e9b46cedd748a671eca745ede11c87751dd807d5d807\"",
+  "Last-Modified": "Sat, 26 Sep 2026 09:47:08 GMT",
   "base": {
     "repo": {
       "name": "purgedcv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T09:47:04Z",
   "created_at": "2026-09-26T09:43:19Z",
   "draft": false,
   "e_tag": "\"4993aaa1fdcbd97a60dfc9ec25952319e78133afc4f338c8767df9c6f27bffa1\"",
   "head": {
-    "ref": "0.1.7_h0e3d99"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/purgedcv-feedstock/pull/7",
   "id": 4646275439,
   "labels": [],
-  "last_fetched": "2026-09-26T09:43:20.370728",
+  "last_fetched": "2026-09-26T09:48:13.684396",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-26T09:47:04Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-26T09:43:19Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T09:47:08Z"
 }

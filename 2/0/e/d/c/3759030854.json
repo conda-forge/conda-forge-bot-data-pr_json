@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"4663041cbbbeebf9cea01a9c79eba4a92ab63d4c43db3382ba805c53eeff20df\"",
-  "Last-Modified": "Sat, 26 Sep 2026 00:57:30 GMT",
+  "ETag": "W/\"270e93be24b278bc0507dfb55af29831256fdb8f82edae8a0378933373704028\"",
+  "Last-Modified": "Sat, 26 Sep 2026 00:57:28 GMT",
   "base": {
     "repo": {
       "name": "ripser-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/ripser-feedstock/pull/38",
   "id": 3759030854,
-  "labels": [],
-  "last_fetched": "2026-09-26T00:58:43.491109",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-26T00:57:30.838714",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 38,
   "state": "closed",
-  "updated_at": "2026-09-26T00:57:30Z"
+  "updated_at": "2026-09-26T00:57:28Z"
 }

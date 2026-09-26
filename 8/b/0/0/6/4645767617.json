@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"33c1b8cdd4886715bb6db2e5c56b29e87aeeae34c6ccebf44765d2be081ad73e\"",
-  "Last-Modified": "Sat, 26 Sep 2026 07:51:04 GMT",
+  "ETag": "W/\"c41166542cd21b27222800ad6074c595d0c539c318da4c355f74fb03f68b0165\"",
+  "Last-Modified": "Sat, 26 Sep 2026 08:06:38 GMT",
   "base": {
     "repo": {
       "name": "pyroomacoustics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T08:06:35Z",
   "created_at": "2026-09-26T07:46:53Z",
   "draft": false,
   "e_tag": "\"352c0cbed01aec484a54e86525fba48f2b0ac2e4219084ab17ea3d9e0568d3af\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hb1c326"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyroomacoustics-feedstock/pull/7",
   "id": 4645767617,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/pyroomacoustics-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-26T07:52:11.737649",
+  "last_fetched": "2026-09-26T08:07:41.308304",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-26T08:06:35Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-26T07:51:04Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T08:06:38Z"
 }

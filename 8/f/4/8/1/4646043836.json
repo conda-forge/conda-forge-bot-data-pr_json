@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"4960e03f603d2349e9f680f0a8570627134497f4c2ad6ce66de028a8ad882110\"",
+  "Last-Modified": "Sat, 26 Sep 2026 12:00:33 GMT",
   "base": {
     "repo": {
       "name": "phasepy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T12:00:32Z",
   "created_at": "2026-09-26T08:55:12Z",
   "draft": false,
   "e_tag": "\"2f4bc9856a038974b3a91bdacb5c6071f0aad2b6892b95a3d347f3ea76ce5f9e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h58ff02"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phasepy-feedstock/pull/27",
   "id": 4646043836,
   "labels": [],
-  "last_fetched": "2026-09-26T08:55:12.734927",
+  "last_fetched": "2026-09-26T12:01:51.397715",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-26T12:00:32Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-09-26T08:55:12Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T12:00:33Z"
 }

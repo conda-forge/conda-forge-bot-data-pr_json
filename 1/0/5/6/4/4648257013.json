@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"34ee2068fd7a8380aa452c2f28b79d952045a5f62311fe934bdd8ac2a2c2db2c\"",
-  "Last-Modified": "Sat, 26 Sep 2026 16:37:19 GMT",
+  "ETag": "W/\"a40b337cd650ebe7aa23e75ed74f0a9d07d339c0efdaf7cd10d336897c9600b0\"",
+  "Last-Modified": "Sat, 26 Sep 2026 16:53:01 GMT",
   "base": {
     "repo": {
       "name": "unordered_dense-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T16:53:01Z",
   "created_at": "2026-09-26T16:34:13Z",
   "draft": false,
   "e_tag": "\"cacd912a4c8b3235a745bb40a388271c529e0827aa30776b516feb1291fc226c\"",
   "head": {
-    "ref": "5.1.0_hd4edf1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/unordered_dense-feedstock/pull/15",
   "id": 4648257013,
   "labels": [],
-  "last_fetched": "2026-09-26T16:45:47.376269",
+  "last_fetched": "2026-09-26T16:55:30.213577",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-26T16:53:01Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-09-26T16:37:19Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T16:53:05Z"
 }

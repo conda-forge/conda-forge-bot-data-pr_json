@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"8e32bae91840df68deca1094b32d6f9cc9733ae1d59ef018965ab7c7350472f2\"",
-  "Last-Modified": "Sat, 26 Sep 2026 14:16:32 GMT",
+  "ETag": "W/\"3f150f25642200d1fe714dca9f72f7f4a9d61bf95f7c86bda91172bb04bd5c6f\"",
+  "Last-Modified": "Sat, 26 Sep 2026 18:02:47 GMT",
   "base": {
     "repo": {
       "name": "domonic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T18:02:47Z",
   "created_at": "2026-09-26T14:14:28Z",
   "draft": false,
   "e_tag": "\"9be1d23febc60fac1a2337f1611d3d650bc52ca2dfea428d37a9964d1c64a4c8\"",
   "head": {
-    "ref": "1.8.5_hfbd379"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/domonic-feedstock/pull/5",
   "id": 4647529369,
   "labels": [],
-  "last_fetched": "2026-09-26T14:35:09.957583",
+  "last_fetched": "2026-09-26T18:04:21.589178",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-26T18:02:47Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-09-26T14:16:32Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T18:02:47Z"
 }

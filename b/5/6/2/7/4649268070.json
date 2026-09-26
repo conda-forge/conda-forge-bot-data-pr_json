@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"eb92be41a4aafae4dcebce944a238926eb9e0eac9bc6170dcdf04c76b919d98a\"",
-  "Last-Modified": "Sat, 26 Sep 2026 19:48:29 GMT",
+  "ETag": "W/\"de429533e6d6511c4da2295cc6eeb73c61fa1b960b112c10b9ff3020c4f50d45\"",
+  "Last-Modified": "Sat, 26 Sep 2026 20:04:28 GMT",
   "base": {
     "repo": {
       "name": "broot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T20:04:24Z",
   "created_at": "2026-09-26T19:46:51Z",
   "draft": false,
   "e_tag": "\"3545d74bad6636ad80aa0d9094a02aba6f4da56ef6be2433d7b7676e85036c33\"",
   "head": {
-    "ref": "1.60.2_h47d0ad"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/broot-feedstock/pull/167",
   "id": 4649268070,
   "labels": [],
-  "last_fetched": "2026-09-26T19:58:09.281974",
+  "last_fetched": "2026-09-26T20:06:02.918920",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-26T20:04:24Z",
   "number": 167,
-  "state": "open",
-  "updated_at": "2026-09-26T19:48:29Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T20:04:28Z"
 }

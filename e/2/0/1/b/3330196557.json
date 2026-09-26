@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"20537545ba0b6e167e78b37d91be2bc795a0f3899f7d415ddc038d31ab166f19\"",
-  "Last-Modified": "Sat, 26 Sep 2026 09:26:01 GMT",
+  "ETag": "W/\"eceb46fcb3b986c20416fbfa680f56c7b60f512424f323bc68dc99187227633d\"",
+  "Last-Modified": "Sat, 26 Sep 2026 09:25:59 GMT",
   "base": {
     "repo": {
       "name": "pyqt-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyqt-feedstock/pull/168",
   "id": 3330196557,
-  "labels": [],
-  "last_fetched": "2026-09-26T09:27:18.019115",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-26T09:26:01.106930",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 168,
   "state": "closed",
-  "updated_at": "2026-09-26T09:26:01Z"
+  "updated_at": "2026-09-26T09:25:59Z"
 }

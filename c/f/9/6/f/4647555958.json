@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"579106b0d2262986b8cc3043eb560524aad2adb26ba3b28d29372ee4573638b1\"",
-  "Last-Modified": "Sat, 26 Sep 2026 14:19:38 GMT",
+  "ETag": "W/\"21fbf27d12113de99300a9de04f465d029ad0d51455b6ff4a7e9564613886060\"",
+  "Last-Modified": "Sat, 26 Sep 2026 14:56:39 GMT",
   "base": {
     "repo": {
       "name": "gwexpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T14:56:39Z",
   "created_at": "2026-09-26T14:19:37Z",
   "draft": false,
   "e_tag": "\"f31fb0dd20228a95122f3d614746d152aa9cc9cc88f46b4740a2cd1294389d3e\"",
   "head": {
-    "ref": "0.2.4_hc11d98"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gwexpy-feedstock/pull/14",
   "id": 4647555958,
   "labels": [],
-  "last_fetched": "2026-09-26T14:34:01.518725",
+  "last_fetched": "2026-09-26T14:58:22.669791",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-26T14:56:39Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-09-26T14:21:23Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T14:56:39Z"
 }

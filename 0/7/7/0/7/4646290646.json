@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"2e3eeef03b48d44323c5d9fab71eccf437b46a06930f8f9c3eb8ccf13149c0cc\"",
-  "Last-Modified": "Sat, 26 Sep 2026 09:46:36 GMT",
+  "ETag": "W/\"aadbdb435448fec0d6797b7385a83d2f544f0863a4fa87b5a05984b8a21cb871\"",
+  "Last-Modified": "Sat, 26 Sep 2026 11:47:47 GMT",
   "base": {
     "repo": {
       "name": "microsoft-kiota-http-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/microsoft-kiota-http-feedstock/pull/37",
   "id": 4646290646,
-  "labels": [],
-  "last_fetched": "2026-09-26T10:23:18.673697",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6977572925,
+      "name": "automerge",
+      "node_id": "LA_kwDOL-a_Wc8AAAABn-VQPQ",
+      "url": "https://api.github.com/repos/conda-forge/microsoft-kiota-http-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-26T11:47:58.887923",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 37,
   "state": "open",
-  "updated_at": "2026-09-26T09:48:09Z"
+  "updated_at": "2026-09-26T11:47:47Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8b87b2aa930a5e0f6a350eeed1b275cc23af99cc159c13084d028da72636b2e1\"",
+  "Last-Modified": "Sat, 26 Sep 2026 19:13:22 GMT",
   "base": {
     "repo": {
       "name": "tt-sketch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T19:13:22Z",
   "created_at": "2026-09-26T18:28:40Z",
   "draft": false,
   "e_tag": "\"68c1eb1510985e270fb96ad1a39dda9159d3ca30d9d650dd0a63b44e0c8662eb\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h138dac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tt-sketch-feedstock/pull/7",
   "id": 4648855804,
   "labels": [],
-  "last_fetched": "2026-09-26T18:28:40.977449",
+  "last_fetched": "2026-09-26T19:15:36.806304",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-26T19:13:22Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-26T18:28:40Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T19:13:22Z"
 }

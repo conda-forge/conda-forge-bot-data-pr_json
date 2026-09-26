@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"d4ff4982702480012c3b8cef8c0ddbc680aa19f1762a43db3692edc80eb71e60\"",
+  "Last-Modified": "Sat, 26 Sep 2026 12:25:25 GMT",
   "base": {
     "repo": {
       "name": "microsoft-kiota-serialization-form-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/microsoft-kiota-serialization-form-feedstock/pull/22",
   "id": 4646872262,
-  "labels": [],
-  "last_fetched": "2026-09-26T11:56:50.999011",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7686476443,
+      "name": "automerge",
+      "node_id": "LA_kwDONI7Ctc8AAAAByiZSmw",
+      "url": "https://api.github.com/repos/conda-forge/microsoft-kiota-serialization-form-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-26T12:27:05.120396",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 22,
   "state": "open",
-  "updated_at": "2026-09-26T11:56:50Z"
+  "updated_at": "2026-09-26T12:25:25Z"
 }

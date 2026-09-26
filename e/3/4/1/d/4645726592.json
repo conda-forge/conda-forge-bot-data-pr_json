@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"70bcd4d1daefe3697f838d12587c134112758c10597a9b2c876d759735d961d1\"",
-  "Last-Modified": "Sat, 26 Sep 2026 07:38:10 GMT",
+  "ETag": "W/\"2e4bbc3e45e6c3b38c80868fb48b4c3f12c7b0ada3ddd717aa0c23735d05f479\"",
+  "Last-Modified": "Sat, 26 Sep 2026 17:24:06 GMT",
   "base": {
     "repo": {
       "name": "tblis-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T17:24:06Z",
   "created_at": "2026-09-26T07:36:31Z",
   "draft": false,
   "e_tag": "\"7915bf3bfbde77ec044f0f2bf58a659b39910bb83748bbac81dac38f8530ee61\"",
   "head": {
-    "ref": "rebuild-libhwloc2150-0-1_hdc1ade"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tblis-feedstock/pull/8",
   "id": 4645726592,
   "labels": [],
-  "last_fetched": "2026-09-26T11:20:09.402225",
+  "last_fetched": "2026-09-26T17:25:51.177990",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-26T17:24:06Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-26T07:38:10Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T17:24:06Z"
 }

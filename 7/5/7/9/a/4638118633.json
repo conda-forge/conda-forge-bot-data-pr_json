@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6e17e869f03bf6d0c15a7ce41d4db99025e7a9d481bb7b4267e145ef5b7f84c0\"",
-  "Last-Modified": "Fri, 25 Sep 2026 12:47:17 GMT",
+  "ETag": "W/\"54438b7114c9be6eff8e75c66c250e4d2b1d43478b11b1960461780f885eeaf4\"",
+  "Last-Modified": "Sat, 26 Sep 2026 11:37:57 GMT",
   "base": {
     "repo": {
       "name": "patinae-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T11:37:56Z",
   "created_at": "2026-09-25T12:47:16Z",
   "draft": false,
   "e_tag": "\"1559d2ef8fa3c14b7eded6f00634d25e813aaf475017c0dabc6154baeea9b74e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hbc505f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/patinae-feedstock/pull/4",
   "id": 4638118633,
   "labels": [],
-  "last_fetched": "2026-09-25T16:49:51.033855",
+  "last_fetched": "2026-09-26T11:39:34.181294",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-26T11:37:56Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-09-25T12:47:17Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T11:37:57Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b5f11735e584153dce56bc5bba02620bb6cc4abf534ddf07db0809a079fca2fa\"",
+  "Last-Modified": "Sat, 26 Sep 2026 14:23:56 GMT",
   "base": {
     "repo": {
       "name": "phonors-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T14:23:53Z",
   "created_at": "2026-09-26T14:13:44Z",
   "draft": false,
   "e_tag": "\"a7cf41b12da0c6175be5337d9cc24cb6f4a0aa6d62a2be3e1a6ef658a330c993\"",
   "head": {
-    "ref": "0.5.0_h461ee9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phonors-feedstock/pull/20",
   "id": 4647524877,
   "labels": [],
-  "last_fetched": "2026-09-26T14:13:45.151904",
+  "last_fetched": "2026-09-26T14:25:33.197453",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-26T14:23:52Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-09-26T14:13:44Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T14:23:56Z"
 }

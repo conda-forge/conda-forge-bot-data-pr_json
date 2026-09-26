@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"989d075d7640a68d2719c4f0bee951d6a8f25e1b78a85b138f1ce60005658192\"",
-  "Last-Modified": "Sat, 26 Sep 2026 02:35:25 GMT",
+  "ETag": "W/\"cb5af1cbae21017a2ca164c0f14ee391176743868149382fe2fa07a2428fc4fd\"",
+  "Last-Modified": "Sat, 26 Sep 2026 14:24:32 GMT",
   "base": {
     "repo": {
       "name": "ripser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T14:24:32Z",
   "created_at": "2026-09-26T02:33:33Z",
   "draft": false,
   "e_tag": "\"8f8c063cb8b30178ad714439f2f230ff2d3029000429800b7500169a06e9d0c0\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/ripser-feedstock/pull/42",
   "id": 4644464208,
-  "labels": [],
-  "last_fetched": "2026-09-26T04:58:53.031622",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891331316,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMzMxMzE2",
+      "url": "https://api.github.com/repos/conda-forge/ripser-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-26T14:24:34.293209",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-09-26T02:35:25Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T14:24:32Z"
 }

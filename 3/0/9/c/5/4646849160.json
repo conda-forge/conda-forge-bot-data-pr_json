@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"2f496471e3c244bfa8e938547ef5efa8dac010877b7bcd4c11993722cab5ea22\"",
+  "Last-Modified": "Sat, 26 Sep 2026 11:59:49 GMT",
   "base": {
     "repo": {
       "name": "mergiraf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T11:59:49Z",
   "created_at": "2026-09-26T11:51:23Z",
   "draft": false,
   "e_tag": "\"4bef1b8255bfe734354cf0aa6e02736c53b7345b0a116ebaacd98e4d9658ad16\"",
   "head": {
-    "ref": "0.20.0_hea29d4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mergiraf-feedstock/pull/11",
   "id": 4646849160,
   "labels": [],
-  "last_fetched": "2026-09-26T11:51:24.291289",
+  "last_fetched": "2026-09-26T12:01:24.535094",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-26T11:59:49Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-09-26T11:51:23Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T11:59:53Z"
 }

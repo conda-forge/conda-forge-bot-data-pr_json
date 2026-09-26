@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"4a56c3c5b561025976a858a250bda6a8abe79401b457a1af6c2e72935f8e89c9\"",
-  "Last-Modified": "Sat, 19 Sep 2026 12:50:15 GMT",
+  "ETag": "W/\"61ae3ec58b0c1afb0234e03877a7aaf2c925c62bee7fa7ebe43e18946e78ffa5\"",
+  "Last-Modified": "Sat, 26 Sep 2026 03:52:48 GMT",
   "base": {
     "repo": {
       "name": "win10toast-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-26T03:52:48Z",
   "created_at": "2026-09-19T12:48:38Z",
   "draft": false,
   "e_tag": "\"e0e8c18da74878a64e7a079ae3339244352257d11494edd6acfbe0568ce08de9\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/win10toast-feedstock/pull/12",
   "id": 4577793703,
-  "labels": [],
-  "last_fetched": "2026-09-19T14:22:07.703371",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1956941948,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxOTU2OTQxOTQ4",
+      "url": "https://api.github.com/repos/conda-forge/win10toast-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-26T03:52:51.324075",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-09-19T12:50:15Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T03:52:48Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e7cc54467192a1167a6ad97eb833ba1b07cf5ecb71e617c4c66674a07795dd40\"",
+  "Last-Modified": "Sun, 27 Sep 2026 15:01:28 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-flask-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T15:01:24Z",
   "created_at": "2026-09-27T14:57:41Z",
   "draft": false,
   "e_tag": "\"d1247c9d3193ca3465ab3e25631c34d9e0771aa0362ee2349dedd0e83d72eb29\"",
   "head": {
-    "ref": "0.66b0_h1909f6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-flask-feedstock/pull/62",
   "id": 4654650018,
   "labels": [],
-  "last_fetched": "2026-09-27T14:57:42.310103",
+  "last_fetched": "2026-09-27T15:03:05.398214",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T15:01:24Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-09-27T14:57:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T15:01:28Z"
 }

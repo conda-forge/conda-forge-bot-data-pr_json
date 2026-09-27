@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"ef0b9e1fba426d9dcc3fe47ded2d3ad1f6529165ec38f16ad80c4e01a92a6947\"",
-  "Last-Modified": "Sun, 27 Sep 2026 04:59:25 GMT",
+  "ETag": "W/\"13706d95db36b2c06ca083c6097d1e0dd3a2fb5a361e03e61aed377dd7adad96\"",
+  "Last-Modified": "Sun, 27 Sep 2026 04:59:23 GMT",
   "base": {
     "repo": {
       "name": "uharfbuzz-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/uharfbuzz-feedstock/pull/67",
   "id": 4451630106,
-  "labels": [],
-  "last_fetched": "2026-09-27T05:00:57.823447",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-27T04:59:25.765890",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 67,
   "state": "closed",
-  "updated_at": "2026-09-27T04:59:25Z"
+  "updated_at": "2026-09-27T04:59:23Z"
 }

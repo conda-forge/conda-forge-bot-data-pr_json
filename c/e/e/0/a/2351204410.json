@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"a2da03b8b476264d3b8899d525628601e03659f670dd78d4e19a65f0b5b4777b\"",
-  "Last-Modified": "Sun, 27 Sep 2026 16:24:59 GMT",
+  "ETag": "W/\"f853f15b7e88550bde7a673fdf46a5ac3da7e8e2af99c6ee672123921bed51c8\"",
+  "Last-Modified": "Sun, 27 Sep 2026 16:24:56 GMT",
   "base": {
     "repo": {
       "name": "sqruff-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/sqruff-feedstock/pull/13",
   "id": 2351204410,
-  "labels": [],
-  "last_fetched": "2026-09-27T16:26:15.357766",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-27T16:24:58.984399",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 13,
   "state": "closed",
-  "updated_at": "2026-09-27T16:24:59Z"
+  "updated_at": "2026-09-27T16:24:56Z"
 }

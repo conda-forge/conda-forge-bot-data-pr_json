@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"61e078133ce2d8a5e66479db6c4d35d27005ce77a2ad939df301ab66ac882542\"",
-  "Last-Modified": "Sun, 27 Sep 2026 02:38:06 GMT",
+  "ETag": "W/\"6b9d11210aefe8703e86a65b262327ad3cf43fad08f4313d29f7aae9f2ae1572\"",
+  "Last-Modified": "Sun, 27 Sep 2026 13:34:25 GMT",
   "base": {
     "repo": {
       "name": "starplot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T13:34:25Z",
   "created_at": "2026-09-27T02:33:28Z",
   "draft": false,
   "e_tag": "\"7ce4e753b245e6dee072553c3f26910b6c604e8f67769aa98b7cf8e85d42f8c4\"",
   "head": {
-    "ref": "0.21.0_he81b8c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/starplot-feedstock/pull/19",
   "id": 4651177044,
   "labels": [],
-  "last_fetched": "2026-09-27T09:26:15.193189",
+  "last_fetched": "2026-09-27T13:36:06.105338",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T13:34:25Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-09-27T02:38:06Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T13:34:25Z"
 }

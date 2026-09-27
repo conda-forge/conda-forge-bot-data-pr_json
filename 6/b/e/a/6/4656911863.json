@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"080c2d11063f45301dd4d4fc665451ef83cf8199fd3f1aeac30e11551b505da2\"",
+  "Last-Modified": "Sun, 27 Sep 2026 21:36:37 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-falcon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T21:36:33Z",
   "created_at": "2026-09-27T21:34:00Z",
   "draft": false,
   "e_tag": "\"cf194bff8b7c58f7b71bac9d3732ca0667560d0a51b58816d035a501269d6664\"",
   "head": {
-    "ref": "0.66b0_h8e9429"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-falcon-feedstock/pull/54",
   "id": 4656911863,
   "labels": [],
-  "last_fetched": "2026-09-27T21:34:00.819621",
+  "last_fetched": "2026-09-27T21:37:42.852877",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T21:36:33Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-09-27T21:34:00Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T21:36:37Z"
 }

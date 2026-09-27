@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"a6d729a68fe9c4219d0c853f22fb4a92f77c10e8609ab1dd9eb83184c95325f2\"",
+  "Last-Modified": "Sun, 27 Sep 2026 20:19:45 GMT",
   "base": {
     "repo": {
       "name": "lean-ctx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T20:19:42Z",
   "created_at": "2026-09-27T19:37:10Z",
   "draft": false,
   "e_tag": "\"fd4147c330ade062f3907ee30276e1c46db10b05248fd53182997ad8e4f81caf\"",
   "head": {
-    "ref": "3.10.5_h0b74dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lean-ctx-feedstock/pull/9",
   "id": 4656254671,
   "labels": [],
-  "last_fetched": "2026-09-27T19:37:11.568156",
+  "last_fetched": "2026-09-27T20:21:18.468521",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T20:19:42Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-09-27T19:37:10Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T20:19:45Z"
 }

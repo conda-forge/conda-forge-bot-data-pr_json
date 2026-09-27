@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e608a78dd8e0894cb712e6b646e033d5a68f49f3d170a92e1576ffb4de397d08\"",
-  "Last-Modified": "Fri, 25 Sep 2026 22:18:51 GMT",
+  "ETag": "W/\"ac99f44427b98b89ad132c78b0890d3945030fad2ecfbc44e87223b770b7a45f\"",
+  "Last-Modified": "Sun, 27 Sep 2026 09:05:56 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T09:05:56Z",
   "created_at": "2026-09-25T15:55:45Z",
   "draft": false,
   "e_tag": "\"bc84714fe954e8c0715917e4b65b55137050f734508f1a57192900a6fe1cf5b1\"",
   "head": {
-    "ref": "0.66b0_hfe4318"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-feedstock/pull/95",
   "id": 4639964088,
   "labels": [],
-  "last_fetched": "2026-09-25T22:23:21.262933",
+  "last_fetched": "2026-09-27T09:07:03.892748",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T09:05:56Z",
   "number": 95,
-  "state": "open",
-  "updated_at": "2026-09-25T22:18:51Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T09:05:56Z"
 }

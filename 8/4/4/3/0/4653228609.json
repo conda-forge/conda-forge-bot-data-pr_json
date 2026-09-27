@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"702fb422932ad5b64ba455ba6f67ff26073add7f264d02a3b012d0a636ef719a\"",
-  "Last-Modified": "Sun, 27 Sep 2026 10:24:58 GMT",
+  "ETag": "W/\"d70d2be593f0cf309be5fd4885a82ea09f5e67d4f131dad8b3d75133f860c050\"",
+  "Last-Modified": "Sun, 27 Sep 2026 13:22:36 GMT",
   "base": {
     "repo": {
       "name": "ccache-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T13:22:36Z",
   "created_at": "2026-09-27T10:23:21Z",
   "draft": false,
   "e_tag": "\"77a56695d8ec94151136851ac92a18ad110a9fca083605d3c014cc761fb77d0f\"",
   "head": {
-    "ref": "4.14.1_he1bad3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ccache-feedstock/pull/79",
   "id": 4653228609,
   "labels": [],
-  "last_fetched": "2026-09-27T12:34:19.068986",
+  "last_fetched": "2026-09-27T13:24:20.388660",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T13:22:36Z",
   "number": 79,
-  "state": "open",
-  "updated_at": "2026-09-27T10:24:58Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T13:22:36Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ffbf3c19658b3ea7dceabadac8c9454d06cd612a0e03fe31c15b5a01c7bc2596\"",
+  "Last-Modified": "Sun, 27 Sep 2026 03:00:11 GMT",
   "base": {
     "repo": {
       "name": "secretspec-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T03:00:07Z",
   "created_at": "2026-09-27T02:31:10Z",
   "draft": false,
   "e_tag": "\"1a2caf7d4c6f7abf6ff05c89e130f40c787dea51f2c2f4799c14086b90468fa6\"",
   "head": {
-    "ref": "0.21.1_h71c555"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/secretspec-feedstock/pull/5",
   "id": 4651168839,
   "labels": [],
-  "last_fetched": "2026-09-27T02:31:11.033405",
+  "last_fetched": "2026-09-27T03:01:40.938115",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T03:00:07Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-09-27T02:31:10Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T03:00:11Z"
 }

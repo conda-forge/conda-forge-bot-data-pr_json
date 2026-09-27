@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"ee1d489ece0ee88b3b9e0d2af1c317becba04b44167d1f42f6c5ef01aae69798\"",
-  "Last-Modified": "Sun, 27 Sep 2026 21:58:40 GMT",
+  "ETag": "W/\"e94ee569a5362a25c0500f4aaa94e1a893fcb81cdefaf1cad70647a17a6a0533\"",
+  "Last-Modified": "Sun, 27 Sep 2026 21:58:38 GMT",
   "base": {
     "repo": {
       "name": "islpy-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/islpy-feedstock/pull/70",
   "id": 4454140755,
-  "labels": [],
-  "last_fetched": "2026-09-27T21:59:57.826357",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-27T21:58:40.582042",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 70,
   "state": "closed",
-  "updated_at": "2026-09-27T21:58:40Z"
+  "updated_at": "2026-09-27T21:58:38Z"
 }

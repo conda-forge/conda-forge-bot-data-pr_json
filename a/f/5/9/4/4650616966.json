@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"84de6f781914bd492bcc363b349bbbb78f9be5d79dc33b68c44a2bf035aa7949\"",
+  "Last-Modified": "Sun, 27 Sep 2026 01:04:19 GMT",
   "base": {
     "repo": {
       "name": "rsop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T01:04:15Z",
   "created_at": "2026-09-27T00:12:58Z",
   "draft": false,
   "e_tag": "\"8048fe7ace1385fbe5a22c08764c3f3a76ff019ac4f4b0ff5484df58e4d48e3a\"",
   "head": {
-    "ref": "0.11.4_h6e3473"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rsop-feedstock/pull/3",
   "id": 4650616966,
   "labels": [],
-  "last_fetched": "2026-09-27T00:12:58.685932",
+  "last_fetched": "2026-09-27T01:05:52.645147",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T01:04:15Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-09-27T00:12:58Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T01:04:19Z"
 }

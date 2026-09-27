@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"2ef12727d3d5c0a0f2ec41aa7197333429bfb3f49d4e874d4166a1d0a29622a8\"",
-  "Last-Modified": "Sun, 27 Sep 2026 13:39:41 GMT",
+  "ETag": "W/\"d5b7ba4edeaef8d0c2d5729a103839f701e67d091ce05fc01b7dee889c7df4d7\"",
+  "Last-Modified": "Sun, 27 Sep 2026 15:04:49 GMT",
   "base": {
     "repo": {
       "name": "aio-pika-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T15:04:49Z",
   "created_at": "2026-09-27T13:37:57Z",
   "draft": false,
   "e_tag": "\"4341257aa78de9402408cb75df10b1a48af92f123b8d984558d305bbe85a0480\"",
   "head": {
-    "ref": "10.1.0_hbd28a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aio-pika-feedstock/pull/85",
   "id": 4654175879,
   "labels": [],
-  "last_fetched": "2026-09-27T14:46:18.261425",
+  "last_fetched": "2026-09-27T15:06:01.475903",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T15:04:49Z",
   "number": 85,
-  "state": "open",
-  "updated_at": "2026-09-27T13:39:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T15:04:49Z"
 }

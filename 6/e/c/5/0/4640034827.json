@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"cafadd9e1acc31cb51d5bdf748027cdc4acb5d06e84f3eac74a584aab14f2196\"",
-  "Last-Modified": "Fri, 25 Sep 2026 16:04:56 GMT",
+  "ETag": "W/\"557c121e89365b1221e60166e576428a4bdaf69ced10707b8dd1f3f458da0bf6\"",
+  "Last-Modified": "Sun, 27 Sep 2026 20:46:15 GMT",
   "base": {
     "repo": {
       "name": "netron-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T20:46:14Z",
   "created_at": "2026-09-25T16:03:18Z",
   "draft": false,
   "e_tag": "\"75767b515b4bbd0a1e53c12fb9cbf98be9ed66b97b2a689f6e7db9b4672c3443\"",
   "head": {
-    "ref": "9.3.0_h0163f5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/netron-feedstock/pull/52",
   "id": 4640034827,
   "labels": [],
-  "last_fetched": "2026-09-25T19:31:22.587896",
+  "last_fetched": "2026-09-27T20:47:56.598830",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T20:46:14Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-09-25T16:04:56Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T20:46:15Z"
 }

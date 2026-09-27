@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b43ac11e92eef1cc2b09acb97c15cc950728f0c90694803a8ca423d7f47d93dc\"",
-  "Last-Modified": "Sun, 27 Sep 2026 06:26:43 GMT",
+  "ETag": "W/\"bbf508a2bd5311ede8ab025813dba5cb011ca7814684d0805d54e7aed06f6667\"",
+  "Last-Modified": "Sun, 27 Sep 2026 09:46:55 GMT",
   "base": {
     "repo": {
       "name": "wrapt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T09:46:55Z",
   "created_at": "2026-09-27T06:25:02Z",
   "draft": false,
   "e_tag": "\"8519007db21c97d1602d7ff36039b2853e893716f17c75e8d2aef8cd90519877\"",
   "head": {
-    "ref": "2.5.0_hf02412"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wrapt-feedstock/pull/70",
   "id": 4652086521,
   "labels": [],
-  "last_fetched": "2026-09-27T08:50:57.104711",
+  "last_fetched": "2026-09-27T09:49:06.331568",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T09:46:55Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-09-27T06:26:43Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T09:46:55Z"
 }

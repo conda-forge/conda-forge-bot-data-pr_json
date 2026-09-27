@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e464e382b439e0c1d08a551b496edebbcc0426717be5013070241e9c422f5357\"",
+  "Last-Modified": "Sun, 27 Sep 2026 23:13:59 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-fastapi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T23:13:55Z",
   "created_at": "2026-09-27T23:10:11Z",
   "draft": false,
   "e_tag": "\"ee1d975e491f381466d30f91f3a49a2a71a44ffd084cc59301f99f5fcec8d545\"",
   "head": {
-    "ref": "0.66b0_h8cb934"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-fastapi-feedstock/pull/53",
   "id": 4657452305,
   "labels": [],
-  "last_fetched": "2026-09-27T23:10:12.311843",
+  "last_fetched": "2026-09-27T23:15:43.784569",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T23:13:55Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-09-27T23:10:11Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T23:13:59Z"
 }

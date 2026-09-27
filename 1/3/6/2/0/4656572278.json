@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"314d9d7a96a8f45cbc3aba29a56ce50a46c2379287fe413a52fc76f9d0653ace\"",
+  "Last-Modified": "Sun, 27 Sep 2026 21:09:53 GMT",
   "base": {
     "repo": {
       "name": "spaday-trees-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/spaday-trees-feedstock/pull/5",
   "id": 4656572278,
-  "labels": [],
-  "last_fetched": "2026-09-27T20:31:58.677479",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11912419931,
+      "name": "automerge",
+      "node_id": "LA_kwDOT_8zl88AAAACxgkaWw",
+      "url": "https://api.github.com/repos/conda-forge/spaday-trees-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-27T21:11:06.142927",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 5,
   "state": "open",
-  "updated_at": "2026-09-27T20:31:57Z"
+  "updated_at": "2026-09-27T21:09:53Z"
 }

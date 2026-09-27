@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6b9303429ba9b807f8e7e5452ea9246bb855d94dac9e09783e5106563c3f1bdf\"",
+  "Last-Modified": "Sun, 27 Sep 2026 01:25:50 GMT",
   "base": {
     "repo": {
       "name": "trame-vtklocal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T01:25:47Z",
   "created_at": "2026-09-27T01:21:40Z",
   "draft": false,
   "e_tag": "\"ddbb0947483a2b082f23ae85cfd25172b8b6f8aaa454fff361165365cdce0e76\"",
   "head": {
-    "ref": "1.7.1_heb0661"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trame-vtklocal-feedstock/pull/40",
   "id": 4650891459,
   "labels": [],
-  "last_fetched": "2026-09-27T01:21:41.578052",
+  "last_fetched": "2026-09-27T01:27:16.462451",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T01:25:47Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-09-27T01:21:40Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T01:25:50Z"
 }

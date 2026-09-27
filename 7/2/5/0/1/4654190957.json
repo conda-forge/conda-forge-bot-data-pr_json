@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1ab675e939affc12ace6a22e83af89b9261281a10010fd40c4b906342391b784\"",
+  "Last-Modified": "Sun, 27 Sep 2026 13:44:40 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-grpc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T13:44:36Z",
   "created_at": "2026-09-27T13:40:57Z",
   "draft": false,
   "e_tag": "\"ed50743fc1b473ff8580f391922888da12dae082cbd1e3fb07de7d388963ca14\"",
   "head": {
-    "ref": "0.66b0_h9bf524"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-grpc-feedstock/pull/55",
   "id": 4654190957,
   "labels": [],
-  "last_fetched": "2026-09-27T13:40:58.608900",
+  "last_fetched": "2026-09-27T13:46:00.128839",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T13:44:36Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-09-27T13:40:57Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T13:44:40Z"
 }

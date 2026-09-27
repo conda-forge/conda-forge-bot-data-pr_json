@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"708adfb0906ee39ce529412952cc40a096d7a09f494903eb44c95ad84b88c61b\"",
-  "Last-Modified": "Sun, 06 Sep 2026 00:48:20 GMT",
+  "ETag": "W/\"63e2c1626ed81443772b06397ca81bb682793ac22e5785e88124a4851708695f\"",
+  "Last-Modified": "Sun, 27 Sep 2026 14:22:34 GMT",
   "base": {
     "repo": {
       "name": "cmarkgfm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T14:22:34Z",
   "created_at": "2026-09-06T00:46:36Z",
   "draft": false,
   "e_tag": "\"72aa1f7157ab50f4166dcfd8f31fc7b93628f38336c944fc8531c2c2ccb81761\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/cmarkgfm-feedstock/pull/40",
   "id": 4453789211,
-  "labels": [],
-  "last_fetched": "2026-09-20T02:33:37.848659",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-27T14:22:37.677321",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-09-06T00:48:20Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T14:22:34Z"
 }

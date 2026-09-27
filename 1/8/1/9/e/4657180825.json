@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e98bf0659b074cbe0abcc1c78243d733840423540928842d182410cee6cee6a2\"",
+  "Last-Modified": "Sun, 27 Sep 2026 22:40:57 GMT",
   "base": {
     "repo": {
       "name": "worktrunk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T22:40:53Z",
   "created_at": "2026-09-27T22:21:43Z",
   "draft": false,
   "e_tag": "\"d1d7216c80c34c7e522f0f660c29f0542a2e05b47186384563f7f5bdea3aab94\"",
   "head": {
-    "ref": "0.80.0_h92ba49"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/worktrunk-feedstock/pull/63",
   "id": 4657180825,
   "labels": [],
-  "last_fetched": "2026-09-27T22:21:44.010632",
+  "last_fetched": "2026-09-27T22:43:14.937106",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T22:40:53Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-09-27T22:21:43Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T22:40:57Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"85fa77b2a8e74f894e71fd194efc93da173a73fc3bf3cc23b122f3eda78cf5ec\"",
+  "Last-Modified": "Sun, 27 Sep 2026 21:08:28 GMT",
   "base": {
     "repo": {
       "name": "spaday-ui5-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/spaday-ui5-feedstock/pull/2",
   "id": 4656614001,
-  "labels": [],
-  "last_fetched": "2026-09-27T20:38:53.303948",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12264238427,
+      "name": "automerge",
+      "node_id": "LA_kwDOUhYdWs8AAAAC2wFtWw",
+      "url": "https://api.github.com/repos/conda-forge/spaday-ui5-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-27T21:09:44.836866",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 2,
   "state": "open",
-  "updated_at": "2026-09-27T20:38:52Z"
+  "updated_at": "2026-09-27T21:08:28Z"
 }

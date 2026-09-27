@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"4882fbedc899ff0398da7641e9f65e250fec3a952b7c9777d42354f00cc658f8\"",
-  "Last-Modified": "Sun, 27 Sep 2026 17:57:39 GMT",
+  "ETag": "W/\"f4da5a6d210664e9f7cfd670ac7fdebe090c2e1bf8b9ea8ec87d0bcc04624464\"",
+  "Last-Modified": "Sun, 27 Sep 2026 17:57:37 GMT",
   "base": {
     "repo": {
       "name": "transformations-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/transformations-feedstock/pull/18",
   "id": 4584576853,
-  "labels": [],
-  "last_fetched": "2026-09-27T17:59:17.367435",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-27T17:57:39.879814",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 18,
   "state": "closed",
-  "updated_at": "2026-09-27T17:57:39Z"
+  "updated_at": "2026-09-27T17:57:37Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"907c0108af8de869c342848361e43d7361ff7a4909e157388e7a34b59c153887\"",
-  "Last-Modified": "Sun, 27 Sep 2026 17:17:01 GMT",
+  "ETag": "W/\"dfb89bc7a4c795f44952d7f723422fe6902b80af2b4e25b73111b0ae5ff7965f\"",
+  "Last-Modified": "Sun, 27 Sep 2026 20:36:58 GMT",
   "base": {
     "repo": {
       "name": "dysk-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/dysk-feedstock/pull/7",
   "id": 4655475314,
-  "labels": [],
-  "last_fetched": "2026-09-27T19:20:10.079849",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9995364626,
+      "name": "automerge",
+      "node_id": "LA_kwDOQ6A0Es8AAAACU8UpEg",
+      "url": "https://api.github.com/repos/conda-forge/dysk-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-27T20:38:09.270266",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 7,
   "state": "open",
-  "updated_at": "2026-09-27T17:18:47Z"
+  "updated_at": "2026-09-27T20:36:58Z"
 }

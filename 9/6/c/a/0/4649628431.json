@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"434d2c25048d54113536f2b064255f28482d00d5c4eeb5a52df3d80b07e8c5ab\"",
-  "Last-Modified": "Sat, 26 Sep 2026 20:58:45 GMT",
+  "ETag": "W/\"94c5ee5c044da750791f032468ea5026f86fa007692a1d1ca8860bae10a4fcd0\"",
+  "Last-Modified": "Sun, 27 Sep 2026 03:12:58 GMT",
   "base": {
     "repo": {
       "name": "wdmtoolbox-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T03:12:58Z",
   "created_at": "2026-09-26T20:57:02Z",
   "draft": false,
   "e_tag": "\"a3bcd5dc8e33e85ee0d7ba094d3584d4431509f89c2c8fa3c473d1d470167325\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h17797a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wdmtoolbox-feedstock/pull/32",
   "id": 4649628431,
   "labels": [],
-  "last_fetched": "2026-09-26T21:58:52.863058",
+  "last_fetched": "2026-09-27T03:14:40.310522",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T03:12:58Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-09-26T20:58:45Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T03:12:58Z"
 }

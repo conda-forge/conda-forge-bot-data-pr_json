@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9ccc62411838775106e2dcd86e54490f132ef434957f3dbc542badecf3c4fc15\"",
+  "Last-Modified": "Sun, 27 Sep 2026 18:45:53 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-redis-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T18:45:49Z",
   "created_at": "2026-09-27T18:42:12Z",
   "draft": false,
   "e_tag": "\"afa86393910b05dbbc94606d8c7c8887b198f0b2c3dd2e875e85b764368cdc59\"",
   "head": {
-    "ref": "0.66b0_h75bf62"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-redis-feedstock/pull/55",
   "id": 4655935809,
   "labels": [],
-  "last_fetched": "2026-09-27T18:42:12.774978",
+  "last_fetched": "2026-09-27T18:47:27.890230",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T18:45:49Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-09-27T18:42:12Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T18:45:53Z"
 }

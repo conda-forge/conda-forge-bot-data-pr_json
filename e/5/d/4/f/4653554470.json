@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"55c35d90530cec3557cc2b8cc347177d8daf38f2a0b06e36fcbd82b9c37bd6b1\"",
+  "Last-Modified": "Sun, 27 Sep 2026 11:52:42 GMT",
   "base": {
     "repo": {
       "name": "dynamicisttoolkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T11:52:41Z",
   "created_at": "2026-09-27T11:33:37Z",
   "draft": false,
   "e_tag": "\"71bcbd972a512e68fe6dc7babc3b5b785ea1aba82a2d083c0713d1bedf38784f\"",
   "head": {
-    "ref": "0.7.0_h40e559"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dynamicisttoolkit-feedstock/pull/9",
   "id": 4653554470,
   "labels": [],
-  "last_fetched": "2026-09-27T11:33:38.669730",
+  "last_fetched": "2026-09-27T11:53:56.191224",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T11:52:41Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-09-27T11:33:37Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T11:52:42Z"
 }

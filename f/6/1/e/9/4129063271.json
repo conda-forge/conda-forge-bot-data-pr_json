@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"e3704fd73d5306b5ec0cf509bfa6b2e50cc94a63798d8943b6c6c4a936cf38e3\"",
-  "Last-Modified": "Fri, 24 Jul 2026 20:28:07 GMT",
+  "ETag": "W/\"e6e4f4047be7ff009d223deb947bf591e07447918314088d46ee2f23ef2a8ced\"",
+  "Last-Modified": "Sun, 27 Sep 2026 13:44:21 GMT",
   "base": {
     "repo": {
       "name": "wrenfold-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T13:44:21Z",
   "created_at": "2026-07-24T20:26:24Z",
   "draft": false,
   "e_tag": "\"3c13c5087a3bd358f1214785955a36769beee37febfa9b5ac9a62d0e881e479d\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/wrenfold-feedstock/pull/16",
   "id": 4129063271,
-  "labels": [],
-  "last_fetched": "2026-09-20T05:22:45.512284",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-27T13:44:24.013920",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-07-24T20:28:07Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T13:44:21Z"
 }

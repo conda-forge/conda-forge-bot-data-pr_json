@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"9956dae1e985d897eea600609b4e6f5ae1971f40e71ffe66247e84221ac875bc\"",
-  "Last-Modified": "Sat, 26 Sep 2026 22:36:23 GMT",
+  "ETag": "W/\"17e305d0622b33f6995ce4a5369372776ae8bca02c8ef78c57f04fda4ed6c340\"",
+  "Last-Modified": "Sun, 27 Sep 2026 06:37:13 GMT",
   "base": {
     "repo": {
       "name": "cattrs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T06:37:13Z",
   "created_at": "2026-09-26T22:34:40Z",
   "draft": false,
   "e_tag": "\"efd8515bf2a66b4a9cebf750cea824e3ac599b6c78c098155f69671759e8d48d\"",
   "head": {
-    "ref": "26.2.1_h9edbc9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cattrs-feedstock/pull/42",
   "id": 4650135923,
-  "labels": [],
-  "last_fetched": "2026-09-26T23:44:35.178509",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890803921,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODAzOTIx",
+      "url": "https://api.github.com/repos/conda-forge/cattrs-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-27T06:37:21.523713",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T06:37:13Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-09-26T22:36:23Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T06:37:17Z"
 }

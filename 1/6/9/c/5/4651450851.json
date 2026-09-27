@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d8bc88a2775534d2136ec0e9fe73dc620e17fb7db0b702c4f340af70c3435a90\"",
+  "Last-Modified": "Sun, 27 Sep 2026 03:54:25 GMT",
   "base": {
     "repo": {
       "name": "upterm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T03:54:21Z",
   "created_at": "2026-09-27T03:47:43Z",
   "draft": false,
   "e_tag": "\"f6ffefa70090d3a1a57019fc5360438a5fee6f3abd7419b996832af96324a5b2\"",
   "head": {
-    "ref": "0.32.1_hebbe8c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/upterm-feedstock/pull/19",
   "id": 4651450851,
   "labels": [],
-  "last_fetched": "2026-09-27T03:47:44.327277",
+  "last_fetched": "2026-09-27T03:56:02.899144",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T03:54:21Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-09-27T03:47:43Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T03:54:25Z"
 }

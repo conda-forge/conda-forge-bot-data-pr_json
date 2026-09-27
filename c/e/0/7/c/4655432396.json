@@ -1,26 +1,40 @@
 {
+  "ETag": "W/\"39ca0e0b1d313783a943146f090de051a00563c1cdf0548f3c178134b0e20f8c\"",
+  "Last-Modified": "Sun, 27 Sep 2026 18:21:01 GMT",
   "base": {
     "repo": {
       "name": "collectfasta-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T18:21:00Z",
   "created_at": "2026-09-27T17:09:38Z",
   "draft": false,
   "e_tag": "\"eaeb7627ba1177c694b7775f4bd8633b0ca536cfccd0632ab2148dfea22b1a19\"",
   "head": {
-    "ref": "3.3.5_hde9222"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/collectfasta-feedstock/pull/8",
   "id": 4655432396,
-  "labels": [],
-  "last_fetched": "2026-09-27T17:09:39.354548",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7406093422,
+      "name": "automerge",
+      "node_id": "LA_kwDOMrgkSs8AAAABuXAEbg",
+      "url": "https://api.github.com/repos/conda-forge/collectfasta-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-27T18:21:04.790662",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T18:21:00Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-27T17:09:38Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T18:21:01Z"
 }

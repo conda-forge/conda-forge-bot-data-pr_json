@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"560e0828863ee10449f90129644dd5dac6d01092a06cb54b5e03ded88cd0c3da\"",
-  "Last-Modified": "Sun, 27 Sep 2026 06:21:42 GMT",
+  "ETag": "W/\"cb813da0fd3196dba70c15c6b62a169ef29cefaf4a8c81f4695eaa0a0ddbc8a8\"",
+  "Last-Modified": "Sun, 27 Sep 2026 15:05:09 GMT",
   "base": {
     "repo": {
       "name": "pydiso-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T15:05:09Z",
   "created_at": "2026-09-27T06:19:59Z",
   "draft": false,
   "e_tag": "\"a4df2008498984d414c02024f017a70b0d5503cf6367d2c9b1394c380776d230\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pydiso-feedstock/pull/28",
   "id": 4652064313,
-  "labels": [],
-  "last_fetched": "2026-09-27T07:46:15.578126",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3431902525,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOGL3OTM7Mjq09",
+      "url": "https://api.github.com/repos/conda-forge/pydiso-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-27T15:05:11.711019",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-09-27T06:21:42Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T15:05:09Z"
 }

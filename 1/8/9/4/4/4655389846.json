@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"0c614cc72f259b96c0633aaa7310eb54753104fe5012b1d7d14427b357af5e74\"",
+  "Last-Modified": "Sun, 27 Sep 2026 17:05:21 GMT",
   "base": {
     "repo": {
       "name": "python-couchdb3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T17:05:17Z",
   "created_at": "2026-09-27T17:02:05Z",
   "draft": false,
   "e_tag": "\"012c2045741ee48bbe40b40105a6bbb26bcc16acbec726991ba7fa9af868ed1e\"",
   "head": {
-    "ref": "3.5.0_h3efc89"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-couchdb3-feedstock/pull/5",
   "id": 4655389846,
   "labels": [],
-  "last_fetched": "2026-09-27T17:02:05.771088",
+  "last_fetched": "2026-09-27T17:07:28.886859",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T17:05:17Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-09-27T17:02:05Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T17:05:21Z"
 }

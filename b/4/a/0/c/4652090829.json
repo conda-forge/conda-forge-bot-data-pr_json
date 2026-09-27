@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c95285d9e5ce494ac8931f1e533d4451a148b7a57d698b10638deca163fce0b4\"",
-  "Last-Modified": "Sun, 27 Sep 2026 06:25:59 GMT",
+  "ETag": "W/\"d490cd400be05bcd6eb6d7e69808014357031d18f11f5bbc5ad3ce998051ee01\"",
+  "Last-Modified": "Sun, 27 Sep 2026 11:22:20 GMT",
   "base": {
     "repo": {
       "name": "mod_wsgi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T11:22:20Z",
   "created_at": "2026-09-27T06:25:58Z",
   "draft": false,
   "e_tag": "\"21bdb472ef1ceb062b5d7e187546a56d72f9f0532afeaa477e2bbd493a00600b\"",
   "head": {
-    "ref": "6.1.0_hc2052a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mod_wsgi-feedstock/pull/44",
   "id": 4652090829,
   "labels": [],
-  "last_fetched": "2026-09-27T08:32:19.367495",
+  "last_fetched": "2026-09-27T11:23:32.978625",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T11:22:20Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-09-27T06:27:34Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T11:22:20Z"
 }

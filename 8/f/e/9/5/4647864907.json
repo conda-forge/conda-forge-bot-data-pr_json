@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"1e18e654642685d4b2fb1262cc168d1e44211bfabcc1e78883d76c37958abaad\"",
-  "Last-Modified": "Sat, 26 Sep 2026 15:21:03 GMT",
+  "ETag": "W/\"274d28f10b76df61c40d6997d979033b1083cf70030b5cefd2bdf7651f9db313\"",
+  "Last-Modified": "Sun, 27 Sep 2026 06:27:31 GMT",
   "base": {
     "repo": {
       "name": "colorlog-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/colorlog-feedstock/pull/56",
   "id": 4647864907,
-  "labels": [],
-  "last_fetched": "2026-09-26T20:36:27.782818",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890809922,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODA5OTIy",
+      "url": "https://api.github.com/repos/conda-forge/colorlog-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-27T06:28:50.830834",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 56,
   "state": "open",
-  "updated_at": "2026-09-26T15:21:03Z"
+  "updated_at": "2026-09-27T06:27:31Z"
 }

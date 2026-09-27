@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"dd8e0290326272bd321180a37500bd4d823e2f665e104e7371e2a0a9f1b2707d\"",
-  "Last-Modified": "Sun, 27 Sep 2026 21:23:02 GMT",
+  "ETag": "W/\"2f4fef9963023a752c6c570a73d85913e80fc3ba3d8d535e51b1371cbe5a03b9\"",
+  "Last-Modified": "Sun, 27 Sep 2026 21:23:00 GMT",
   "base": {
     "repo": {
       "name": "pyslalib-feedstock"
@@ -25,14 +25,17 @@
       "name": "py312-distutils",
       "node_id": "LA_kwDOEyyfvc8AAAABZvZoIQ",
       "url": "https://api.github.com/repos/conda-forge/pyslalib-feedstock/labels/py312-distutils"
+    },
+    {
+      "name": "bot-rerun"
     }
   ],
-  "last_fetched": "2026-09-27T21:24:19.389350",
+  "last_fetched": "2026-09-27T21:23:02.865877",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 14,
   "state": "closed",
-  "updated_at": "2026-09-27T21:23:02Z"
+  "updated_at": "2026-09-27T21:23:00Z"
 }

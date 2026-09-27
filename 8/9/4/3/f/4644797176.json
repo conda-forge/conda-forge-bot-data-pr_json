@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"e40983f74ff4c43e323025edc6cefe2a0595052f23204c5e82607db8a8eee62e\"",
-  "Last-Modified": "Sat, 26 Sep 2026 03:52:37 GMT",
+  "ETag": "W/\"dc7863d8510783c58a6d6ac0d974a86070bbc4f37cddec29223c9b6947166ece\"",
+  "Last-Modified": "Sun, 27 Sep 2026 05:11:20 GMT",
   "base": {
     "repo": {
       "name": "caio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T05:11:15Z",
   "created_at": "2026-09-26T03:50:51Z",
   "draft": false,
   "e_tag": "\"42cb3cd6ae7975624c0c197d81de1150ae9ce13a8b86d6f2466062abba21196f\"",
   "head": {
-    "ref": "0.12.5_h70be46"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/caio-feedstock/pull/32",
   "id": 4644797176,
-  "labels": [],
-  "last_fetched": "2026-09-26T05:24:20.152144",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3536886068,
+      "name": "automerge",
+      "node_id": "LA_kwDOGW7W087S0Jk0",
+      "url": "https://api.github.com/repos/conda-forge/caio-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-27T05:12:18.407929",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-27T05:11:15Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-09-26T03:52:37Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T05:11:20Z"
 }

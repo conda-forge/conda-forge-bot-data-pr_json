@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"842bbd78cc8f8c9b8c97bb9f1770705b69920416dd56868e7d8d7e1922e86491\"",
+  "Last-Modified": "Sun, 27 Sep 2026 12:46:05 GMT",
   "base": {
     "repo": {
       "name": "hypothesis-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-27T12:46:01Z",
   "created_at": "2026-09-27T12:34:02Z",
   "draft": false,
   "e_tag": "\"d51f36cc045e5657028049899fef3fa7a46e6e15f7ff3f6e0d45513223f88a2a\"",
   "head": {
-    "ref": "6.168.2_hd47c2f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hypothesis-feedstock/pull/1247",
   "id": 4653847898,
   "labels": [],
-  "last_fetched": "2026-09-27T12:34:03.269103",
+  "last_fetched": "2026-09-27T12:47:26.522693",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-27T12:46:01Z",
   "number": 1247,
-  "state": "open",
-  "updated_at": "2026-09-27T12:34:02Z"
+  "state": "closed",
+  "updated_at": "2026-09-27T12:46:05Z"
 }

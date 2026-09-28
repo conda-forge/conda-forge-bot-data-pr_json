@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"492aafafd65e1902894ff8d44603584b9a068ffa436848a7a56129717a82ed05\"",
+  "Last-Modified": "Mon, 28 Sep 2026 18:16:33 GMT",
   "base": {
     "repo": {
       "name": "jupyterlite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T18:16:33Z",
   "created_at": "2026-09-28T15:56:47Z",
   "draft": false,
   "e_tag": "\"dcc50437e7708b0c9ee31927288b284e0c724fe7957b90b3b1cf7c9ae915a859\"",
   "head": {
-    "ref": "0.8.5_hc27a77"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jupyterlite-feedstock/pull/47",
   "id": 4666128937,
   "labels": [],
-  "last_fetched": "2026-09-28T15:56:48.710691",
+  "last_fetched": "2026-09-28T18:18:18.143234",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T18:16:33Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-09-28T15:56:47Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T18:16:33Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b864c4b202214a3237256ee199aacd1b55af0883da1b6c77a1b774294fc96062\"",
+  "Last-Modified": "Mon, 28 Sep 2026 23:32:56 GMT",
   "base": {
     "repo": {
       "name": "pdfcpu-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T23:32:51Z",
   "created_at": "2026-09-28T23:28:53Z",
   "draft": false,
   "e_tag": "\"66f01d244e7c04fc21e2bdd5a4a656148de12622fba897acc1368c79b3c8afa0\"",
   "head": {
-    "ref": "0.16.0_ha6a79e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pdfcpu-feedstock/pull/14",
   "id": 4670514716,
   "labels": [],
-  "last_fetched": "2026-09-28T23:28:54.358627",
+  "last_fetched": "2026-09-28T23:34:31.469748",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T23:32:51Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-09-28T23:28:53Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T23:32:56Z"
 }

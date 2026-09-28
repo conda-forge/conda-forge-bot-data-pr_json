@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"56f8b897bc36f18213f712f49a1dd436a8f021b10ae2b2b5be3f23ffe7aacf43\"",
-  "Last-Modified": "Sun, 27 Sep 2026 04:29:15 GMT",
+  "ETag": "W/\"c363b8fbe910583302e2cc16f9b74ed426481bba0eb71cbe457684ff80d49ab4\"",
+  "Last-Modified": "Mon, 28 Sep 2026 16:17:21 GMT",
   "base": {
     "repo": {
       "name": "oasis-deconv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T16:17:20Z",
   "created_at": "2026-09-27T04:27:22Z",
   "draft": false,
   "e_tag": "\"82b79433463037a637b68fb3a9e736b7c0bc671933339f11620b747a9ea896e0\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h42edee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/oasis-deconv-feedstock/pull/12",
   "id": 4651589802,
   "labels": [],
-  "last_fetched": "2026-09-27T06:38:21.659902",
+  "last_fetched": "2026-09-28T16:18:32.520262",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T16:17:20Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-09-27T04:29:15Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T16:17:21Z"
 }

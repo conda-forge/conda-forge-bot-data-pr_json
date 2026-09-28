@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"fdfcc0e6924ff28eb64efeeabd4a9edee73a555d74729730bb09f1fd3b4a2d48\"",
-  "Last-Modified": "Fri, 25 Sep 2026 06:47:12 GMT",
+  "ETag": "W/\"f16642dc50aa7c417348a531e0260a755352921388e355607368dd4099bf15da\"",
+  "Last-Modified": "Mon, 28 Sep 2026 07:27:53 GMT",
   "base": {
     "repo": {
       "name": "xypattern-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T07:27:53Z",
   "created_at": "2026-09-25T06:42:11Z",
   "draft": false,
   "e_tag": "\"a8054074c6786fc64f918e98d49657a127924654b536dd08b1a74268c4fe7d98\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/xypattern-feedstock/pull/12",
   "id": 4634988764,
-  "labels": [],
-  "last_fetched": "2026-09-25T09:58:06.864473",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6825671913,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOLubsaM8AAAABltd86Q",
+      "url": "https://api.github.com/repos/conda-forge/xypattern-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T07:27:56.610889",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-09-25T06:47:12Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T07:27:53Z"
 }

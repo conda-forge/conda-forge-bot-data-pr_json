@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1fc1813a3d33ae60125030e8ae8b41bb708302a8850b3353ac0dfebec6dc3150\"",
+  "Last-Modified": "Mon, 28 Sep 2026 17:56:36 GMT",
   "base": {
     "repo": {
       "name": "git-extras-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T17:56:31Z",
   "created_at": "2026-09-28T17:51:27Z",
   "draft": false,
   "e_tag": "\"3a2aa95685e0ab974ff3cd0dae417710d239857274ffd072743d9a4d091d4f6a\"",
   "head": {
-    "ref": "7.5.0_h1d81ec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/git-extras-feedstock/pull/3",
   "id": 4667347329,
   "labels": [],
-  "last_fetched": "2026-09-28T17:51:28.589090",
+  "last_fetched": "2026-09-28T17:58:44.968747",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T17:56:31Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-09-28T17:51:27Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T17:56:36Z"
 }

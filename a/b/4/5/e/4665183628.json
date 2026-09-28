@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"490e0dc128e092fb6aea4ad703af033331aaf20513508aa291669d6f00d02470\"",
+  "Last-Modified": "Mon, 28 Sep 2026 14:39:11 GMT",
   "base": {
     "repo": {
       "name": "primesieve-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/primesieve-feedstock/pull/47",
   "id": 4665183628,
-  "labels": [],
-  "last_fetched": "2026-09-28T14:37:16.755868",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891097963,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDk3OTYz",
+      "url": "https://api.github.com/repos/conda-forge/primesieve-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-28T14:41:04.131844",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 47,
   "state": "open",
-  "updated_at": "2026-09-28T14:37:15Z"
+  "updated_at": "2026-09-28T14:39:11Z"
 }

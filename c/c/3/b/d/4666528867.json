@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"15c8ad98e1182d623b509708283c15e52d34e190424f11d494f6909578a824a1\"",
+  "Last-Modified": "Mon, 28 Sep 2026 16:49:36 GMT",
   "base": {
     "repo": {
       "name": "r-fd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T16:49:36Z",
   "created_at": "2026-09-28T16:32:55Z",
   "draft": false,
   "e_tag": "\"037cf009c41851e4a678fddfa179f5cdca6d6455e478adfaed57de8ac3068ac3\"",
   "head": {
-    "ref": "1.0_12.6_hb65506"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-fd-feedstock/pull/16",
   "id": 4666528867,
   "labels": [],
-  "last_fetched": "2026-09-28T16:32:56.187597",
+  "last_fetched": "2026-09-28T16:51:27.393343",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T16:49:36Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-09-28T16:32:55Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T16:49:40Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"907f452d37c09d9e140e46dd15659cd12c125f654c176083b4832fe5aab2476e\"",
+  "Last-Modified": "Mon, 28 Sep 2026 12:53:42 GMT",
   "base": {
     "repo": {
       "name": "r-quitefastmst-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T12:53:38Z",
   "created_at": "2026-09-28T12:37:19Z",
   "draft": false,
   "e_tag": "\"7f141edadd35941e50b36ef61d5c4b1df9fec78a7025a776ac86891d35344109\"",
   "head": {
-    "ref": "0.9.2_h71dece"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-quitefastmst-feedstock/pull/3",
   "id": 4663746448,
   "labels": [],
-  "last_fetched": "2026-09-28T12:37:20.438214",
+  "last_fetched": "2026-09-28T12:54:48.130009",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T12:53:38Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-09-28T12:37:19Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T12:53:42Z"
 }

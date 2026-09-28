@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"31abe8832bb61b8e2c60d7f50d946d3c43f9123b898608dd97a142c90853bd3a\"",
-  "Last-Modified": "Mon, 28 Sep 2026 15:03:46 GMT",
+  "ETag": "W/\"aed24459ef94647504a4a5138537cb06a38405f2ec6d68ec02e121ce888b0c69\"",
+  "Last-Modified": "Mon, 28 Sep 2026 15:03:43 GMT",
   "base": {
     "repo": {
       "name": "intbitset-feedstock"
@@ -14,13 +14,17 @@
   },
   "html_url": "https://github.com/conda-forge/intbitset-feedstock/pull/15",
   "id": 1724145868,
-  "labels": [],
-  "last_fetched": "2026-09-28T15:05:23.468192",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T15:03:46.703339",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 15,
   "state": "closed",
-  "updated_at": "2026-09-28T15:03:46Z"
+  "updated_at": "2026-09-28T15:03:43Z"
 }

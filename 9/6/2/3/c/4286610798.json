@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"28523ce82194dd2ea421f7915826c6d52ed8c31a194a4a72e6a6d7afca7a63d2\"",
-  "Last-Modified": "Mon, 28 Sep 2026 21:35:46 GMT",
+  "ETag": "W/\"09e760079d5f5ea172239b5381e4b826d02cf62a37335d233b3d4f558ea9519a\"",
+  "Last-Modified": "Mon, 28 Sep 2026 21:35:43 GMT",
   "base": {
     "repo": {
       "name": "scipp-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/scipp-feedstock/pull/35",
   "id": 4286610798,
-  "labels": [],
-  "last_fetched": "2026-09-28T21:36:52.072412",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T21:35:46.476984",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 35,
   "state": "closed",
-  "updated_at": "2026-09-28T21:35:46Z"
+  "updated_at": "2026-09-28T21:35:43Z"
 }

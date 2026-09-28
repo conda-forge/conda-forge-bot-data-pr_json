@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c49ad09d908099132efd92ffc4cd93efe06afb897d2433fd7f3e35e701916495\"",
+  "Last-Modified": "Mon, 28 Sep 2026 09:25:47 GMT",
   "base": {
     "repo": {
       "name": "xypattern-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T09:25:47Z",
   "created_at": "2026-09-28T09:03:35Z",
   "draft": false,
   "e_tag": "\"e041e61b2fb43dfa96b1b3ad0bf5a29d636178d9568ca61b98f19fa6479144f1\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h2d56e6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xypattern-feedstock/pull/14",
   "id": 4661527320,
   "labels": [],
-  "last_fetched": "2026-09-28T09:03:35.932819",
+  "last_fetched": "2026-09-28T09:26:59.120100",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T09:25:47Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-09-28T09:03:35Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T09:25:47Z"
 }

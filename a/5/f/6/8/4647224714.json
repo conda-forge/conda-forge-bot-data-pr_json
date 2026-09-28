@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9b5f62cfd2c8181daccfff3b1188adce59260bfe02cb683790530f46445f72e2\"",
-  "Last-Modified": "Sat, 26 Sep 2026 13:14:44 GMT",
+  "ETag": "W/\"8d07d9c0051bb9583cd1bdfe5d086a9a261646ddbc0a7b850f46837e44bf177c\"",
+  "Last-Modified": "Mon, 28 Sep 2026 08:45:52 GMT",
   "base": {
     "repo": {
       "name": "mjlab-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/mjlab-feedstock/pull/11",
   "id": 4647224714,
-  "labels": [],
-  "last_fetched": "2026-09-26T13:44:03.522582",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10443004963,
+      "name": "automerge",
+      "node_id": "LA_kwDORooVwM8AAAACbnOcIw",
+      "url": "https://api.github.com/repos/conda-forge/mjlab-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-28T08:46:09.433453",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 11,
   "state": "open",
-  "updated_at": "2026-09-26T13:14:44Z"
+  "updated_at": "2026-09-28T08:45:52Z"
 }

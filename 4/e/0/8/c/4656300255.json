@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"8b969f44d7a4325fb9fe657c6b29464e838cc000124b645a9fa862c25be12eae\"",
-  "Last-Modified": "Sun, 27 Sep 2026 19:45:47 GMT",
+  "ETag": "W/\"c9018fafafba1262d87b0b5a987d6de8d84acb3caa1ebeca287bf582bc659067\"",
+  "Last-Modified": "Mon, 28 Sep 2026 06:28:09 GMT",
   "base": {
     "repo": {
       "name": "gkx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T06:28:05Z",
   "created_at": "2026-09-27T19:44:08Z",
   "draft": false,
   "e_tag": "\"b4e483796bf7d2b6ca00fadc6341c749a1597b50a850444e4412bec4c4423fa5\"",
   "head": {
-    "ref": "2.4.1_hc8364a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gkx-feedstock/pull/8",
   "id": 4656300255,
-  "labels": [],
-  "last_fetched": "2026-09-27T23:22:44.076393",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11779731364,
+      "name": "automerge",
+      "node_id": "LA_kwDOTzA_JM8AAAACviBvpA",
+      "url": "https://api.github.com/repos/conda-forge/gkx-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-28T06:28:35.014304",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T06:28:05Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-27T19:45:47Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T06:28:09Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"40c6e3defc50b356dd11f1e7015e03f8cc11af5f2be20d79a90bb27640a22745\"",
-  "Last-Modified": "Mon, 28 Sep 2026 10:31:27 GMT",
+  "ETag": "W/\"ec5949d047a64d59bf686f912fbb44e977e4b85800d10741040ab600bcc1a58e\"",
+  "Last-Modified": "Mon, 28 Sep 2026 10:31:24 GMT",
   "base": {
     "repo": {
       "name": "acor-feedstock"
@@ -14,13 +14,17 @@
   },
   "html_url": "https://github.com/conda-forge/acor-feedstock/pull/13",
   "id": 1883895904,
-  "labels": [],
-  "last_fetched": "2026-09-28T10:33:04.324198",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T10:31:27.278095",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 13,
   "state": "closed",
-  "updated_at": "2026-09-28T10:31:27Z"
+  "updated_at": "2026-09-28T10:31:24Z"
 }

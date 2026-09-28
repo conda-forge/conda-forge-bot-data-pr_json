@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"4f78993d172adb9c717210cbc71fa3832bf240d85522407e39804a93b6b03bdb\"",
+  "Last-Modified": "Mon, 28 Sep 2026 00:53:28 GMT",
   "base": {
     "repo": {
       "name": "r-xml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T00:53:25Z",
   "created_at": "2026-09-28T00:37:22Z",
   "draft": false,
   "e_tag": "\"5672f4a4b94f63a455fd191fcfa2c794818ad636fc6bb102e2f3b6c8334eb567\"",
   "head": {
-    "ref": "3.99_0.25_habd7e0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-xml-feedstock/pull/57",
   "id": 4657895268,
   "labels": [],
-  "last_fetched": "2026-09-28T00:37:23.294367",
+  "last_fetched": "2026-09-28T00:54:59.829918",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T00:53:25Z",
   "number": 57,
-  "state": "open",
-  "updated_at": "2026-09-28T00:37:22Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T00:53:28Z"
 }

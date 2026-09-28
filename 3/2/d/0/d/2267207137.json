@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"bc56bd5fa446828cd88436fbfc8c6cc91303c3ccb31cd48bef4d471aab866bde\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"1d05a652d0dc93952ebfbc83edae26ace0b99dbaf0ba0b4b725d7c33ec1386db\"",
+  "Last-Modified": "Mon, 28 Sep 2026 10:50:35 GMT",
   "base": {
     "repo": {
       "name": "readability-lxml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T10:50:35Z",
   "created_at": "2025-01-08T23:05:46Z",
   "draft": false,
   "e_tag": "\"0ebadb9f2b7687836d8846791bea59efe89b1b9d081c46718f779bb690b8abb0\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/readability-lxml-feedstock/pull/1",
   "id": 2267207137,
-  "labels": [],
-  "last_fetched": "2026-09-21T10:02:40.929359",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T10:50:38.335673",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 1,
-  "state": "open",
-  "updated_at": "2025-01-08T23:07:14Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T10:50:35Z"
 }

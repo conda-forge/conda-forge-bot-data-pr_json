@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f6b027007ba52a2f7f8f269aaae401d24d4739e580e272bcc3d469352327b37b\"",
-  "Last-Modified": "Mon, 28 Sep 2026 02:00:46 GMT",
+  "ETag": "W/\"ad033bdcb5f8b4794ad525662dbeb0ccc441fe77908b9eeaf7f9cdb2a7d28740\"",
+  "Last-Modified": "Mon, 28 Sep 2026 08:29:32 GMT",
   "base": {
     "repo": {
       "name": "commitizen-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T08:29:32Z",
   "created_at": "2026-09-24T05:11:25Z",
   "draft": false,
   "e_tag": "\"762cf6735818025ca19f97bacccfde8765089564b8bf1532d5534bd955a4874b\"",
   "head": {
-    "ref": "4.19.0_h397974"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/commitizen-feedstock/pull/93",
   "id": 4621868159,
   "labels": [],
-  "last_fetched": "2026-09-28T03:08:04.424412",
+  "last_fetched": "2026-09-28T08:30:51.910692",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T08:29:32Z",
   "number": 93,
-  "state": "open",
-  "updated_at": "2026-09-28T02:00:46Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T08:29:32Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"e2d296d63e85d37782837606e4712352cb3d29c8cd6720665b09371e201a3bfd\"",
-  "Last-Modified": "Mon, 28 Sep 2026 08:10:40 GMT",
+  "ETag": "W/\"fdf72d1bc1976369ecd081d86c86b056186017a8ef66641afa34c314dea6d0c3\"",
+  "Last-Modified": "Mon, 28 Sep 2026 08:31:10 GMT",
   "base": {
     "repo": {
       "name": "cwltool-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T08:31:08Z",
   "created_at": "2026-09-25T19:39:10Z",
   "draft": false,
   "e_tag": "\"5a21f1834092a67f2b937a376c69dfb2b20e7b408fbe104c383bafa5bc6bb871\"",
   "head": {
-    "ref": "3.3.20260925135507_hae6c00"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cwltool-feedstock/pull/180",
   "id": 4641961173,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/cwltool-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-28T08:11:45.129625",
+  "last_fetched": "2026-09-28T08:32:24.996354",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T08:31:08Z",
   "number": 180,
-  "state": "open",
-  "updated_at": "2026-09-28T08:10:40Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T08:31:10Z"
 }

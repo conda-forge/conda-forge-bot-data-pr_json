@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8523b8a1b9b6adc6167ee9dde5c27b916b8a9ffcd11d0b6b176423d6f982c6d1\"",
+  "Last-Modified": "Mon, 28 Sep 2026 19:01:31 GMT",
   "base": {
     "repo": {
       "name": "numa-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T19:01:27Z",
   "created_at": "2026-09-28T18:51:42Z",
   "draft": false,
   "e_tag": "\"3ea011d51d1e9e7b0bd18f473d34833ce4537b66f144038535ce55b592279a00\"",
   "head": {
-    "ref": "0.24.0_h5c5ed8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/numa-feedstock/pull/8",
   "id": 4667940019,
   "labels": [],
-  "last_fetched": "2026-09-28T18:51:43.994619",
+  "last_fetched": "2026-09-28T19:02:52.115107",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T19:01:26Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-28T18:51:42Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T19:01:31Z"
 }

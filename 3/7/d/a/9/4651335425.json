@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"a6cd53f978499fc6d19fbbe7a8edbdb27345108c15659a556f499ff4904607bd\"",
-  "Last-Modified": "Sun, 27 Sep 2026 03:16:23 GMT",
+  "ETag": "W/\"783be2dd9f2a2443f1409de99785de887f23ef58526fa2cc2088076790ebc882\"",
+  "Last-Modified": "Mon, 28 Sep 2026 18:21:14 GMT",
   "base": {
     "repo": {
       "name": "perpetual-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T18:21:14Z",
   "created_at": "2026-09-27T03:14:43Z",
   "draft": false,
   "e_tag": "\"023959930418853f6d401e81cac68fed3d097cefc4df8ca88154554d0d06dd9a\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/perpetual-feedstock/pull/38",
   "id": 4651335425,
-  "labels": [],
-  "last_fetched": "2026-09-27T05:47:27.154574",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 7698612921,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDONKMhf88AAAAByt-CuQ",
+      "url": "https://api.github.com/repos/conda-forge/perpetual-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T18:21:17.755709",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-09-27T03:16:23Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T18:21:14Z"
 }

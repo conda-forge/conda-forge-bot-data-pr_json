@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"5f1213202ae1765cf04d903ef5235c2b1eefe017ddfbe5b3d3486e3c2674cfa1\"",
-  "Last-Modified": "Mon, 28 Sep 2026 04:54:57 GMT",
+  "ETag": "W/\"7c3b67ea84a9c6fc50d0398240c090aa698e1803cc57bf275f539620b3a1f79c\"",
+  "Last-Modified": "Mon, 28 Sep 2026 04:54:55 GMT",
   "base": {
     "repo": {
       "name": "nuitka-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/nuitka-feedstock/pull/338",
   "id": 4457077604,
-  "labels": [],
-  "last_fetched": "2026-09-28T04:56:31.547849",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T04:54:57.758860",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 338,
   "state": "closed",
-  "updated_at": "2026-09-28T04:54:57Z"
+  "updated_at": "2026-09-28T04:54:55Z"
 }

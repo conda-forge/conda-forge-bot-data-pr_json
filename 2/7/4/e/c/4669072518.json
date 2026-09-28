@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"fec0d2cc90edc3669d8bc5de3112dc7eff8c0524cb49264031cd92e42308a382\"",
+  "Last-Modified": "Mon, 28 Sep 2026 20:46:27 GMT",
   "base": {
     "repo": {
       "name": "twilio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T20:46:23Z",
   "created_at": "2026-09-28T20:42:57Z",
   "draft": false,
   "e_tag": "\"ae7b9ac811bea3e1f4504827b47ff5f85ddea84dc53a8c16f8cab4dec9a01743\"",
   "head": {
-    "ref": "9.11.2_h03f336"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/twilio-feedstock/pull/180",
   "id": 4669072518,
   "labels": [],
-  "last_fetched": "2026-09-28T20:42:58.992489",
+  "last_fetched": "2026-09-28T20:48:02.853035",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T20:46:22Z",
   "number": 180,
-  "state": "open",
-  "updated_at": "2026-09-28T20:42:57Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T20:46:27Z"
 }

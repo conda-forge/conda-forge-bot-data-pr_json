@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"83f7f737b8b61762f3ec702f33e5477c2136c8c79d7bcb1c83d0eb18ee803b87\"",
-  "Last-Modified": "Mon, 28 Sep 2026 06:53:13 GMT",
+  "ETag": "W/\"be86c9ab6a5d554aea23b8bc122b02cf3497bcfd427bc67cca2e604aaae2f6b5\"",
+  "Last-Modified": "Mon, 28 Sep 2026 06:53:10 GMT",
   "base": {
     "repo": {
       "name": "mctc-lib-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/mctc-lib-feedstock/pull/30",
   "id": 3885084726,
-  "labels": [],
-  "last_fetched": "2026-09-28T06:54:44.662705",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T06:53:13.054098",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 30,
   "state": "closed",
-  "updated_at": "2026-09-28T06:53:13Z"
+  "updated_at": "2026-09-28T06:53:10Z"
 }

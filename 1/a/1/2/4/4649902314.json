@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"22bcec7fcb1284f5a29a8ad73d42dffb235fe8fbe3ac265afbcf68f7880f5d32\"",
-  "Last-Modified": "Sat, 26 Sep 2026 21:51:10 GMT",
+  "ETag": "W/\"320c91e1f5e07707155022d8c6ce87a7cc79bf02894e95b61af40040264cf20f\"",
+  "Last-Modified": "Mon, 28 Sep 2026 15:40:02 GMT",
   "base": {
     "repo": {
       "name": "functime-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T15:40:01Z",
   "created_at": "2026-09-26T21:49:06Z",
   "draft": false,
   "e_tag": "\"805007d58da1773e96a63f65976495c8eb534624062cba51baa944312d8e11d3\"",
   "head": {
-    "ref": "rebuild-python315-0-1_haaca8c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/functime-feedstock/pull/6",
   "id": 4649902314,
   "labels": [],
-  "last_fetched": "2026-09-27T04:59:10.692313",
+  "last_fetched": "2026-09-28T15:41:51.043797",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T15:40:01Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-09-26T21:51:10Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T15:40:02Z"
 }

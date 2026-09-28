@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b94fe3155cd35e5aee13dcd0ac54ef7abe4120a109e4f09b0414fc93806cde07\"",
-  "Last-Modified": "Wed, 02 Sep 2026 00:32:46 GMT",
+  "ETag": "W/\"44d04e723129cd9cc90d0e5ba760aeaaf2ac299ded04d66d5102ad3309bc9599\"",
+  "Last-Modified": "Mon, 28 Sep 2026 20:06:14 GMT",
   "base": {
     "repo": {
       "name": "pandera-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T20:06:14Z",
   "created_at": "2026-09-02T00:32:45Z",
   "draft": false,
   "e_tag": "\"55bda2bd6ab05def07aa9fc7606f5231d02a71336df49843bf9d9ed5d906f9b2\"",
   "head": {
-    "ref": "0.33.1_h1ff962"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pandera-feedstock/pull/102",
   "id": 4417534767,
   "labels": [],
-  "last_fetched": "2026-09-23T09:59:53.144672",
+  "last_fetched": "2026-09-28T20:08:02.483157",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T20:06:14Z",
   "number": 102,
-  "state": "open",
-  "updated_at": "2026-09-02T00:34:47Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T20:06:14Z"
 }

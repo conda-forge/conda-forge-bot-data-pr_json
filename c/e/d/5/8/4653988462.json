@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"6d0240b827f279d39716df9d7aa8781ef696c5904364fedf9da9cbf358143de1\"",
-  "Last-Modified": "Sun, 27 Sep 2026 13:03:38 GMT",
+  "ETag": "W/\"fa57c9aea19cf0d03d79fda2b99ba402bdd99d18868c0a91e02bbd278231e5f0\"",
+  "Last-Modified": "Mon, 28 Sep 2026 16:40:37 GMT",
   "base": {
     "repo": {
       "name": "uhd-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/uhd-feedstock/pull/74",
   "id": 4653988462,
-  "labels": [],
-  "last_fetched": "2026-09-27T14:24:07.938714",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891422058,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDIyMDU4",
+      "url": "https://api.github.com/repos/conda-forge/uhd-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-28T16:41:55.267348",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 74,
   "state": "open",
-  "updated_at": "2026-09-27T13:03:38Z"
+  "updated_at": "2026-09-28T16:40:37Z"
 }

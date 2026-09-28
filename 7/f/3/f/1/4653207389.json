@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"974a98d066823c7c3dc843691c24930133d7cc4bb0e1e859ef5d726494bc16a0\"",
-  "Last-Modified": "Sun, 27 Sep 2026 10:20:05 GMT",
+  "ETag": "W/\"2c76b07c4c20f6ba87cc6441b49770e24a8e460f9d2d61e30398f3662bd278c4\"",
+  "Last-Modified": "Mon, 28 Sep 2026 11:12:18 GMT",
   "base": {
     "repo": {
       "name": "md-toc-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/md-toc-feedstock/pull/40",
   "id": 4653207389,
-  "labels": [],
-  "last_fetched": "2026-09-27T21:44:32.744364",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891017214,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDE3MjE0",
+      "url": "https://api.github.com/repos/conda-forge/md-toc-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-28T11:13:24.193225",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 40,
   "state": "open",
-  "updated_at": "2026-09-27T10:20:05Z"
+  "updated_at": "2026-09-28T11:12:18Z"
 }

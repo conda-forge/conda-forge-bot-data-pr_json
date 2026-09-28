@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"291205177fdbe49bb2cac223f825c2082b3f2c4b8135ba77ccbd0af5ac9f3c16\"",
-  "Last-Modified": "Sat, 05 Sep 2026 08:29:26 GMT",
+  "ETag": "W/\"9c5490c367c82f1ae32da74994020ab04efc0d0fa4230ea2ba4bd0b96f3ea941\"",
+  "Last-Modified": "Mon, 28 Sep 2026 19:18:49 GMT",
   "base": {
     "repo": {
       "name": "apache-tvm-ffi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T19:18:49Z",
   "created_at": "2026-09-05T08:27:43Z",
   "draft": false,
   "e_tag": "\"d2228f3e591ea3da7d0f4ec7cd28feb076be3a072c8fce5c8e96092f8a4c3a84\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-tvm-ffi-feedstock/pull/21",
   "id": 4449627767,
-  "labels": [],
-  "last_fetched": "2026-09-26T19:30:43.295456",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 10050790011,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOQ_yaas8AAAACVxLiew",
+      "url": "https://api.github.com/repos/conda-forge/apache-tvm-ffi-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T19:18:52.812449",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-09-05T08:29:26Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T19:18:49Z"
 }

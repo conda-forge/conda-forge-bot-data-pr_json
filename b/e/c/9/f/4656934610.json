@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c5a4816208c04bc226b09656f7cc34dee3ad872790074102d4d42ffa4c5c7e89\"",
-  "Last-Modified": "Sun, 27 Sep 2026 21:46:20 GMT",
+  "ETag": "W/\"36c252665a494ba84ecc837da7706eab8ddc854df5338eb4c1aa7d9a50403ade\"",
+  "Last-Modified": "Mon, 28 Sep 2026 10:03:26 GMT",
   "base": {
     "repo": {
       "name": "pysr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T10:03:26Z",
   "created_at": "2026-09-27T21:38:47Z",
   "draft": false,
   "e_tag": "\"59ba48117ba7a7b1524d58af028806fe98ac388bdfad2333bfe6ad8e5b066919\"",
   "head": {
-    "ref": "2.5.1_h84f252"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pysr-feedstock/pull/166",
   "id": 4656934610,
   "labels": [],
-  "last_fetched": "2026-09-28T01:06:51.982867",
+  "last_fetched": "2026-09-28T10:05:13.816034",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T10:03:26Z",
   "number": 166,
-  "state": "open",
-  "updated_at": "2026-09-27T21:46:20Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T10:03:26Z"
 }

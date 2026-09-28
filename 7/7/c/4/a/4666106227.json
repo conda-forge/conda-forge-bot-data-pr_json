@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8f9017576fdf8c831dd5ee1bb902acefd9358d262c9da928096e5c7ce7684794\"",
+  "Last-Modified": "Mon, 28 Sep 2026 16:22:28 GMT",
   "base": {
     "repo": {
       "name": "ansys-api-discovery-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T16:22:28Z",
   "created_at": "2026-09-28T15:54:45Z",
   "draft": false,
   "e_tag": "\"698a199b6b2721ff84b6aece4e9d6f0a8eb834657fff3b066bf155525b380c16\"",
   "head": {
-    "ref": "1.2.17_hf0a4b6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ansys-api-discovery-feedstock/pull/51",
   "id": 4666106227,
   "labels": [],
-  "last_fetched": "2026-09-28T15:54:46.214544",
+  "last_fetched": "2026-09-28T16:24:36.582400",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T16:22:28Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-09-28T15:54:45Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T16:22:28Z"
 }

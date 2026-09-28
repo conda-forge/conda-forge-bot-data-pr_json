@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"4b9b15c6dba479d67190210db70622fbeb52ee7fe108980676b302ab763e61c1\"",
-  "Last-Modified": "Sun, 27 Sep 2026 20:43:05 GMT",
+  "ETag": "W/\"a794f6f055637358655169e458ceaebc47374688f78cf375ca77c47a7c73cb3e\"",
+  "Last-Modified": "Mon, 28 Sep 2026 00:38:14 GMT",
   "base": {
     "repo": {
       "name": "rudof-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/rudof-feedstock/pull/108",
   "id": 4656630910,
-  "labels": [],
-  "last_fetched": "2026-09-27T21:23:53.946745",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9286569385,
+      "name": "automerge",
+      "node_id": "LA_kwDOPwNG888AAAACKYXNqQ",
+      "url": "https://api.github.com/repos/conda-forge/rudof-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-28T00:39:51.749918",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 108,
   "state": "open",
-  "updated_at": "2026-09-27T20:43:05Z"
+  "updated_at": "2026-09-28T00:38:14Z"
 }

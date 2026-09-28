@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c3dc72ae3d248146c2877f66c753b43478ee1bbf68372fe5d803f90f63b13c02\"",
+  "Last-Modified": "Mon, 28 Sep 2026 05:06:32 GMT",
   "base": {
     "repo": {
       "name": "python-gitlab-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T05:06:28Z",
   "created_at": "2026-09-28T05:02:31Z",
   "draft": false,
   "e_tag": "\"88f6f7c3d69cd8b992f15b7d430463bdcf64d469602a30d870ae8b5e5bb56219\"",
   "head": {
-    "ref": "8.6.0_h4c3dfc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-gitlab-feedstock/pull/93",
   "id": 4659480259,
   "labels": [],
-  "last_fetched": "2026-09-28T05:02:32.535356",
+  "last_fetched": "2026-09-28T05:08:15.794616",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T05:06:28Z",
   "number": 93,
-  "state": "open",
-  "updated_at": "2026-09-28T05:02:31Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T05:06:32Z"
 }

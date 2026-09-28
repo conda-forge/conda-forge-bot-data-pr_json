@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d37727e977165040261f07fe77dfe062e760ae35f20f9ccde6f31249da993b35\"",
+  "Last-Modified": "Mon, 28 Sep 2026 22:54:48 GMT",
   "base": {
     "repo": {
       "name": "cloud-sql-proxy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T22:54:43Z",
   "created_at": "2026-09-28T22:48:31Z",
   "draft": false,
   "e_tag": "\"4197ea96f04abccd1881ae84cb28297a20475066b8a952fdeccf109d5e3f21f7\"",
   "head": {
-    "ref": "2.26.0_hb7d0ac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cloud-sql-proxy-feedstock/pull/57",
   "id": 4670201984,
   "labels": [],
-  "last_fetched": "2026-09-28T22:48:32.029081",
+  "last_fetched": "2026-09-28T22:56:22.059639",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T22:54:43Z",
   "number": 57,
-  "state": "open",
-  "updated_at": "2026-09-28T22:48:31Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T22:54:48Z"
 }

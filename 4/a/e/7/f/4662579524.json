@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"a1a707145f1f38b924366cc4f573cc73b9bc0c68390a8c685e86768cdc2d6903\"",
-  "Last-Modified": "Mon, 28 Sep 2026 12:27:24 GMT",
+  "ETag": "W/\"6130f1a7ebf300dc919b396cf0ce6b77870d7e1d17d7637c3748e150aec1ae8b\"",
+  "Last-Modified": "Mon, 28 Sep 2026 13:06:52 GMT",
   "base": {
     "repo": {
       "name": "gkx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T13:06:49Z",
   "created_at": "2026-09-28T10:45:46Z",
   "draft": false,
   "e_tag": "\"584bfbce0071a3ec5b2cd0a5fada2368c58ff22dc4b864f604ec276378a69f16\"",
   "head": {
-    "ref": "2.4.2_hd45ab5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gkx-feedstock/pull/11",
   "id": 4662579524,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/gkx-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-28T12:27:46.591334",
+  "last_fetched": "2026-09-28T13:08:26.545916",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T13:06:49Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-09-28T12:27:24Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T13:06:52Z"
 }

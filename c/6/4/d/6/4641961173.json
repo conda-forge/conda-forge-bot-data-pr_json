@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"8afc0f9a9c3c1d831d9218d97fda95b4b806959721139a254afcddc180d001d7\"",
-  "Last-Modified": "Fri, 25 Sep 2026 19:57:06 GMT",
+  "ETag": "W/\"e2d296d63e85d37782837606e4712352cb3d29c8cd6720665b09371e201a3bfd\"",
+  "Last-Modified": "Mon, 28 Sep 2026 08:10:40 GMT",
   "base": {
     "repo": {
       "name": "cwltool-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/cwltool-feedstock/pull/180",
   "id": 4641961173,
-  "labels": [],
-  "last_fetched": "2026-09-26T03:59:59.923077",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890863559,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODYzNTU5",
+      "url": "https://api.github.com/repos/conda-forge/cwltool-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-28T08:11:45.129625",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 180,
   "state": "open",
-  "updated_at": "2026-09-25T19:57:06Z"
+  "updated_at": "2026-09-28T08:10:40Z"
 }

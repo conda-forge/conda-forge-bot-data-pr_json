@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e889c3d17d981254e94b680e4e933c57606c4c5970f651c61346c6d3cfa77a70\"",
-  "Last-Modified": "Thu, 24 Sep 2026 16:22:59 GMT",
+  "ETag": "W/\"3b5f2b16e96acc654e9f04ffee001ab719d9cd444a47a21bcdd8186f8088d644\"",
+  "Last-Modified": "Mon, 28 Sep 2026 16:18:38 GMT",
   "base": {
     "repo": {
       "name": "django-ipware-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T16:18:38Z",
   "created_at": "2026-09-24T14:12:55Z",
   "draft": false,
   "e_tag": "\"665976cf2efb79feb265a2629c2e312a086e18c20c5e3e661bcb4e6733ab05e9\"",
   "head": {
-    "ref": "8.0.0_hd65e12"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-ipware-feedstock/pull/21",
   "id": 4626962259,
   "labels": [],
-  "last_fetched": "2026-09-24T19:00:07.204130",
+  "last_fetched": "2026-09-28T16:19:55.149367",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T16:18:38Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-09-24T16:22:59Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T16:18:38Z"
 }

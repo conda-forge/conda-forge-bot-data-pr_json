@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"29598ae6c7e806ebde828a148f730ca27ac76eaaeca95f66616e1c2a1b4b824d\"",
-  "Last-Modified": "Mon, 28 Sep 2026 07:35:00 GMT",
+  "ETag": "W/\"050d50012413e3514d1e3c05587056cd55c8eaf08bb007d46fa46548b7a93b7f\"",
+  "Last-Modified": "Mon, 28 Sep 2026 13:11:50 GMT",
   "base": {
     "repo": {
       "name": "fqdn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T13:11:50Z",
   "created_at": "2026-09-28T07:33:17Z",
   "draft": false,
   "e_tag": "\"abb4e1cef8472f81fcd8c257b0a9e400ee569b4a57d860809797fbe86c05ada8\"",
   "head": {
-    "ref": "1.6.0_hfec52e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fqdn-feedstock/pull/2",
   "id": 4660636517,
-  "labels": [],
-  "last_fetched": "2026-09-28T07:55:23.846627",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3617125460,
+      "name": "automerge",
+      "node_id": "LA_kwDOGfZG2c7XmPRU",
+      "url": "https://api.github.com/repos/conda-forge/fqdn-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-28T13:12:52.360824",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-28T13:11:50Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-09-28T07:35:00Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T13:11:54Z"
 }

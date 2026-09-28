@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c87d26f72ea1543b12b3034c935494b4fc92616f2265dd25ca90ac99b929d0ee\"",
-  "Last-Modified": "Mon, 28 Sep 2026 11:47:49 GMT",
+  "ETag": "W/\"893c55838be157d321a02ec62aae6fdb8b181751a915264148c0c2a73723f005\"",
+  "Last-Modified": "Mon, 28 Sep 2026 11:47:46 GMT",
   "base": {
     "repo": {
       "name": "abess-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/abess-feedstock/pull/23",
   "id": 4124311333,
-  "labels": [],
-  "last_fetched": "2026-09-28T11:49:00.710492",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T11:47:49.498388",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 23,
   "state": "closed",
-  "updated_at": "2026-09-28T11:47:49Z"
+  "updated_at": "2026-09-28T11:47:46Z"
 }

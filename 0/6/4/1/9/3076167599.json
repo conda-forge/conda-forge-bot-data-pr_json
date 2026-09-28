@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"7d9fb02ca94099360324423cdf7c6b30b89b5b929a069aa8d581d1cde2b68634\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"551dab7a5e9bd7854f9ecca1c095ddeea176641b0d488f045ed13b3f945d08df\"",
+  "Last-Modified": "Mon, 28 Sep 2026 19:12:53 GMT",
   "base": {
     "repo": {
       "name": "cds-crtools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T19:12:53Z",
   "created_at": "2025-12-05T19:04:33Z",
   "draft": false,
   "e_tag": "\"83a13ef18f61efeaa93a48c63f311647e357da01d87ca6026c7199c65127b2d9\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/cds-crtools-feedstock/pull/96",
   "id": 3076167599,
-  "labels": [],
-  "last_fetched": "2026-09-28T10:49:11.819931",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3540023204,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOGXQhk87TAHek",
+      "url": "https://api.github.com/repos/conda-forge/cds-crtools-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T19:12:56.737483",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 96,
-  "state": "open",
-  "updated_at": "2025-12-16T17:51:50Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T19:12:53Z"
 }

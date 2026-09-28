@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"69b8f2d385c564c60fbcc8dc9911ee9cd100018dbcbbc064fa94c003273eeabb\"",
-  "Last-Modified": "Mon, 28 Sep 2026 16:01:49 GMT",
+  "ETag": "W/\"93e91c6489c17c70221e956c507f0e5d5111008ee6538ee91abe145b144368b3\"",
+  "Last-Modified": "Mon, 28 Sep 2026 16:01:46 GMT",
   "base": {
     "repo": {
       "name": "make_arq-feedstock"
@@ -14,13 +14,17 @@
   },
   "html_url": "https://github.com/conda-forge/make_arq-feedstock/pull/15",
   "id": 1775281080,
-  "labels": [],
-  "last_fetched": "2026-09-28T16:03:41.953563",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T16:01:49.514783",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 15,
   "state": "closed",
-  "updated_at": "2026-09-28T16:01:49Z"
+  "updated_at": "2026-09-28T16:01:46Z"
 }

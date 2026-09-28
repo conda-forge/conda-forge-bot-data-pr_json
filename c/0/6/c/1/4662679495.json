@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b0377e1e6da798831f125f32da1c9aae876a6c3d70b75f57eeaf054496fefc00\"",
+  "Last-Modified": "Mon, 28 Sep 2026 11:17:41 GMT",
   "base": {
     "repo": {
       "name": "up42-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T11:17:41Z",
   "created_at": "2026-09-28T10:56:47Z",
   "draft": false,
   "e_tag": "\"54957fcfb2a17b2410184f07d9ce0cfbc7b1e813bce4b07950711b3068a6b763\"",
   "head": {
-    "ref": "4.2.0_hc90c42"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/up42-py-feedstock/pull/87",
   "id": 4662679495,
   "labels": [],
-  "last_fetched": "2026-09-28T10:56:47.970016",
+  "last_fetched": "2026-09-28T11:19:25.943285",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T11:17:41Z",
   "number": 87,
-  "state": "open",
-  "updated_at": "2026-09-28T10:56:47Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T11:17:41Z"
 }

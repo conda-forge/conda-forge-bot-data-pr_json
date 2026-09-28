@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ab5feb31d86d2da5cca83917ddd59c2f0fa3b3fe2ed8a9df549729bccc3305a0\"",
+  "Last-Modified": "Mon, 28 Sep 2026 10:24:56 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-databricks-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T10:24:51Z",
   "created_at": "2026-09-28T10:03:45Z",
   "draft": false,
   "e_tag": "\"dfdc81e3d78e24bfaba198f8f605ab21e17d4adaaf06a4a9b5ab199b3853e3da\"",
   "head": {
-    "ref": "1.135.0_h4b5292"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-databricks-feedstock/pull/77",
   "id": 4662169193,
   "labels": [],
-  "last_fetched": "2026-09-28T10:03:46.591221",
+  "last_fetched": "2026-09-28T10:26:39.113122",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T10:24:51Z",
   "number": 77,
-  "state": "open",
-  "updated_at": "2026-09-28T10:03:45Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T10:24:56Z"
 }

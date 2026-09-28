@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"890db149717214c91ae32e314c03153f8a5566482e8d3eb2afdd434941a3b7a9\"",
-  "Last-Modified": "Mon, 28 Sep 2026 07:56:16 GMT",
+  "ETag": "W/\"2ed73102342dbd03477423356973e1a3250b803e26da2a49975bda4d9f504736\"",
+  "Last-Modified": "Mon, 28 Sep 2026 07:56:14 GMT",
   "base": {
     "repo": {
       "name": "rapidocr-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/rapidocr-feedstock/pull/4",
   "id": 3841944147,
-  "labels": [],
-  "last_fetched": "2026-09-28T07:57:27.727344",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T07:56:16.775776",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 4,
   "state": "closed",
-  "updated_at": "2026-09-28T07:56:16Z"
+  "updated_at": "2026-09-28T07:56:14Z"
 }

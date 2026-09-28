@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6812af1fda1dc1c87cd3c289109f93e9067153718717dd8b69354681bc4f79a8\"",
+  "Last-Modified": "Mon, 28 Sep 2026 00:23:12 GMT",
   "base": {
     "repo": {
       "name": "peewee-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T00:23:12Z",
   "created_at": "2026-09-27T23:57:25Z",
   "draft": false,
   "e_tag": "\"b6d84495cca15b9e690902f86ba7dbebbb1dd7869d0f237abcbf3aac3b7b1089\"",
   "head": {
-    "ref": "4.5.2_hb12027"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/peewee-feedstock/pull/132",
   "id": 4657681357,
   "labels": [],
-  "last_fetched": "2026-09-27T23:57:25.946736",
+  "last_fetched": "2026-09-28T00:24:46.741528",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T00:23:12Z",
   "number": 132,
-  "state": "open",
-  "updated_at": "2026-09-27T23:57:25Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T00:23:12Z"
 }

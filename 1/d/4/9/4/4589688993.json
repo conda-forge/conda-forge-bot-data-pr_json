@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"57d01f4f41fda36cee45d8ec0b4c0fc256dd56dbd81072466bb52dc19be4afe1\"",
-  "Last-Modified": "Mon, 21 Sep 2026 09:00:28 GMT",
+  "ETag": "W/\"9dd8c46ac8d84ff780d0ee9cfc6b6d3be2a661cb2d3cfb82a005f034fc0cdc82\"",
+  "Last-Modified": "Mon, 28 Sep 2026 05:28:20 GMT",
   "base": {
     "repo": {
       "name": "booz-xform-jax-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/booz-xform-jax-feedstock/pull/5",
   "id": 4589688993,
-  "labels": [],
-  "last_fetched": "2026-09-21T15:11:30.105146",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10845004695,
+      "name": "automerge",
+      "node_id": "LA_kwDOSSXN1s8AAAAChmmjlw",
+      "url": "https://api.github.com/repos/conda-forge/booz-xform-jax-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-28T05:29:36.747524",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 5,
   "state": "open",
-  "updated_at": "2026-09-21T09:00:28Z"
+  "updated_at": "2026-09-28T05:28:20Z"
 }

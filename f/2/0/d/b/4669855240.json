@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ef7c51cfbfe70f2ee764608a48e0c78b4df80be8353c70535e709426f32a0596\"",
+  "Last-Modified": "Mon, 28 Sep 2026 22:31:09 GMT",
   "base": {
     "repo": {
       "name": "spirv-cross-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-28T22:31:09Z",
   "created_at": "2026-09-28T22:05:55Z",
   "draft": false,
   "e_tag": "\"9af3d6dc7611df8d98be60d6b28e3291d7a50560b3eabfbed977335777ae69e6\"",
   "head": {
-    "ref": "1.4.363.0_h6269c3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spirv-cross-feedstock/pull/2",
   "id": 4669855240,
   "labels": [],
-  "last_fetched": "2026-09-28T22:05:56.639068",
+  "last_fetched": "2026-09-28T22:32:42.617313",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-28T22:31:09Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-09-28T22:05:55Z"
+  "state": "closed",
+  "updated_at": "2026-09-28T22:31:09Z"
 }

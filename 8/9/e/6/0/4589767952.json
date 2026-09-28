@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"154557f0bceefcd6c2af76c1eccb95e89030b0b4a56869952ee1729237bb86b5\"",
-  "Last-Modified": "Mon, 28 Sep 2026 11:25:55 GMT",
+  "ETag": "W/\"bb0e74fe049b5c54e877197632aae900e81e21b053491f40cd4590ee69405dba\"",
+  "Last-Modified": "Mon, 28 Sep 2026 11:25:52 GMT",
   "base": {
     "repo": {
       "name": "systemd-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/systemd-feedstock/pull/84",
   "id": 4589767952,
-  "labels": [],
-  "last_fetched": "2026-09-28T11:27:07.860053",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-28T11:25:55.748101",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 84,
   "state": "closed",
-  "updated_at": "2026-09-28T11:25:55Z"
+  "updated_at": "2026-09-28T11:25:52Z"
 }

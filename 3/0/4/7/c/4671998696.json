@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"45d8c55688576990631c34c61283dcfd703020bb3c9ee601d556ad3fed857b81\"",
-  "Last-Modified": "Tue, 29 Sep 2026 06:24:22 GMT",
+  "ETag": "W/\"d8947cde5b72357fc4a3a8fb82a5333834a496192897dec194ad60c315e293bc\"",
+  "Last-Modified": "Tue, 29 Sep 2026 06:26:51 GMT",
   "base": {
     "repo": {
       "name": "ff-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T06:26:46Z",
   "created_at": "2026-09-29T03:08:32Z",
   "draft": false,
   "e_tag": "\"9b4902c4ea31690306369d6235a4a5a691dca1ef6abadfb6a77c37dcf6ee0763\"",
   "head": {
-    "ref": "2.1.0_hd2e379"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ff-feedstock/pull/5",
   "id": 4671998696,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/ff-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-29T06:25:36.647187",
+  "last_fetched": "2026-09-29T06:28:46.023233",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T06:26:46Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-09-29T06:24:22Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T06:26:51Z"
 }

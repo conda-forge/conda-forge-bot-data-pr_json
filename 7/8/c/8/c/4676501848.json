@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"9eef8a67efe589f178d70599543e9460cad56d8d2a46c751b143b1a40e5beb99\"",
+  "Last-Modified": "Tue, 29 Sep 2026 12:13:19 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-pig-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-pig-feedstock/pull/29",
   "id": 4676501848,
-  "labels": [],
-  "last_fetched": "2026-09-29T11:28:11.781203",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746830630,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODMwNjMw",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-pig-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T12:15:37.324814",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 29,
   "state": "open",
-  "updated_at": "2026-09-29T11:28:10Z"
+  "updated_at": "2026-09-29T12:13:19Z"
 }

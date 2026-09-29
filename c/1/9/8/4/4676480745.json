@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e5cdaa600e0238b7d29c765ed1a938090db063151089a324b5733fd53609dd46\"",
-  "Last-Modified": "Tue, 29 Sep 2026 11:28:00 GMT",
+  "ETag": "W/\"d547f06e1be22ac2d0a7c1379b9898b29c74803391be9545f451ccf456e84399\"",
+  "Last-Modified": "Tue, 29 Sep 2026 12:17:58 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-redis-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T12:17:58Z",
   "created_at": "2026-09-29T11:26:14Z",
   "draft": false,
   "e_tag": "\"9342bb5b85be4cfdc29c771563dabbdac16f3f6b254313c5e4720121c75f2e9e\"",
   "head": {
-    "ref": "4.7.0_hef5c1d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-redis-feedstock/pull/39",
   "id": 4676480745,
   "labels": [],
-  "last_fetched": "2026-09-29T11:50:48.647338",
+  "last_fetched": "2026-09-29T12:21:44.180141",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T12:17:58Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-09-29T11:28:00Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T12:17:58Z"
 }

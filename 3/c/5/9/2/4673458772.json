@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1b664791b9160b419c9b11d9d26248aac10bacb9d81cc2ca069de2e7ad524db2\"",
+  "Last-Modified": "Tue, 29 Sep 2026 06:42:49 GMT",
   "base": {
     "repo": {
       "name": "gixy-ng-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T06:42:49Z",
   "created_at": "2026-09-29T06:30:54Z",
   "draft": false,
   "e_tag": "\"6f07239bb40165d61981e38a027ea385f528868d33540a267352310f29ef2a5c\"",
   "head": {
-    "ref": "0.2.55_h6ae060"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gixy-ng-feedstock/pull/2",
   "id": 4673458772,
   "labels": [],
-  "last_fetched": "2026-09-29T06:30:55.294553",
+  "last_fetched": "2026-09-29T06:44:03.828695",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T06:42:49Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-09-29T06:30:54Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T06:42:49Z"
 }

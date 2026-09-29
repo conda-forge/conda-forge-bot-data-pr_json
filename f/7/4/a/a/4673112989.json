@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"cd0576a60788ac01175cb509c1390465fe53913fb06cf2feb139664ddb2df4bc\"",
-  "Last-Modified": "Tue, 29 Sep 2026 05:50:42 GMT",
+  "ETag": "W/\"db2239dfc75dcb4eb20fa02a720368227f4067097a1d6bc31a10b2288d485cb0\"",
+  "Last-Modified": "Tue, 29 Sep 2026 12:38:54 GMT",
   "base": {
     "repo": {
       "name": "petsc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T12:38:54Z",
   "created_at": "2026-09-29T05:48:01Z",
   "draft": false,
   "e_tag": "\"82e22d177387cf5490f511dbc38cf8f098b4f25483635967fcef2e95a314a70c\"",
   "head": {
-    "ref": "3.26.0_he0cf68"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/petsc-feedstock/pull/294",
   "id": 4673112989,
   "labels": [],
-  "last_fetched": "2026-09-29T07:11:52.684556",
+  "last_fetched": "2026-09-29T12:40:35.535401",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T12:38:54Z",
   "number": 294,
-  "state": "open",
-  "updated_at": "2026-09-29T05:50:42Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T12:38:54Z"
 }

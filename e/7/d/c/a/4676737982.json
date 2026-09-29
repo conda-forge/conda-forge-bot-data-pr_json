@@ -1,26 +1,40 @@
 {
+  "ETag": "W/\"cd16de954e902bf2ff7a7966af30200216f505f44385b1c7008c8a6370cd33d9\"",
+  "Last-Modified": "Tue, 29 Sep 2026 12:14:46 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-alibaba-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T12:14:43Z",
   "created_at": "2026-09-29T11:50:38Z",
   "draft": false,
   "e_tag": "\"55961ab6e3d7b9f0c645e1bb9c736a1a8b3e006d6a51b139a4a20240f57d91a9\"",
   "head": {
-    "ref": "3.5.0_ha34bb8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-alibaba-feedstock/pull/43",
   "id": 4676737982,
-  "labels": [],
-  "last_fetched": "2026-09-29T11:50:39.506447",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3972498724,
+      "name": "automerge",
+      "node_id": "LA_kwDOHEwrk87sx4Uk",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-alibaba-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T12:15:21.087245",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T12:14:42Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-09-29T11:50:38Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T12:14:46Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"3b1504145fdac28b77a05163f77c9b7b52a4c82a46a2dec607a2c7d60ce84eb6\"",
-  "Last-Modified": "Tue, 29 Sep 2026 00:15:38 GMT",
+  "ETag": "W/\"0ed5e173d9e3cb12c2f86b941fb7b72c30a04a5a21c75bcb4dfe96ea3d46e246\"",
+  "Last-Modified": "Tue, 29 Sep 2026 11:55:03 GMT",
   "base": {
     "repo": {
       "name": "planet-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/planet-feedstock/pull/89",
   "id": 4670833745,
-  "labels": [],
-  "last_fetched": "2026-09-29T08:58:06.155061",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891096035,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDk2MDM1",
+      "url": "https://api.github.com/repos/conda-forge/planet-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T11:55:26.750694",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 89,
   "state": "open",
-  "updated_at": "2026-09-29T00:15:38Z"
+  "updated_at": "2026-09-29T11:55:03Z"
 }

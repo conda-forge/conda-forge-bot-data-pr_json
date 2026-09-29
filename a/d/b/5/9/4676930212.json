@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"3f89179bb4ef8d4c4428fced524a2adb580abae6f9cacfdbc937ad618983b9d5\"",
+  "Last-Modified": "Tue, 29 Sep 2026 12:12:29 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-cassandra-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-cassandra-feedstock/pull/33",
   "id": 4676930212,
-  "labels": [],
-  "last_fetched": "2026-09-29T12:08:16.786870",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746829326,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODI5MzI2",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-cassandra-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T12:14:25.638895",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 33,
   "state": "open",
-  "updated_at": "2026-09-29T12:08:16Z"
+  "updated_at": "2026-09-29T12:12:29Z"
 }

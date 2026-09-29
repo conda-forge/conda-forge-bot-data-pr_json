@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"bd5ab8d087a511366fbe0a2f719f75f62b20dcd96a21e34062d60a165a122c25\"",
+  "Last-Modified": "Tue, 29 Sep 2026 01:01:46 GMT",
   "base": {
     "repo": {
       "name": "usage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T01:01:45Z",
   "created_at": "2026-09-29T00:49:45Z",
   "draft": false,
   "e_tag": "\"daf1b87f702ad3bad48c176ac38aef15a15680d03d08f81711548c528e90fba8\"",
   "head": {
-    "ref": "6.12.0_h03727f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/usage-feedstock/pull/26",
   "id": 4671071543,
   "labels": [],
-  "last_fetched": "2026-09-29T00:49:46.652816",
+  "last_fetched": "2026-09-29T01:03:30.177426",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T01:01:45Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-09-29T00:49:45Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T01:01:50Z"
 }

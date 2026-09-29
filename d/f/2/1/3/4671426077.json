@@ -1,10 +1,12 @@
 {
+  "ETag": "W/\"3fd7dad7613848c4f843704edc9b43d5881f90cdedd693caaf8d0b01c89ec118\"",
+  "Last-Modified": "Tue, 29 Sep 2026 03:58:02 GMT",
   "base": {
     "repo": {
       "name": "pygtide-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T03:58:02Z",
   "created_at": "2026-09-29T01:42:29Z",
   "draft": false,
   "e_tag": "\"e52ff81aaf36e1366d304c50fa884f6a796f008ff22e8dbf32b501a3f041b65e\"",
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pygtide-feedstock/pull/1",
   "id": 4671426077,
-  "labels": [],
-  "last_fetched": "2026-09-29T01:42:30.818842",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 12432919294,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOUxaJNc8AAAAC5Q9K_g",
+      "url": "https://api.github.com/repos/conda-forge/pygtide-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-29T03:58:04.671062",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-09-29T01:42:29Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T03:58:02Z"
 }

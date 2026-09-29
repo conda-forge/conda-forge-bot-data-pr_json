@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6f54e35b6fa2b566d2f083f7ec2aa1b9e123fc6414c4548307b322bccab3d7e3\"",
+  "Last-Modified": "Tue, 29 Sep 2026 14:39:16 GMT",
   "base": {
     "repo": {
       "name": "herdr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T14:39:12Z",
   "created_at": "2026-09-29T14:18:33Z",
   "draft": false,
   "e_tag": "\"785be13a54c10b29adcb6ba517202d821e728529bc25891f9af10f1439371592\"",
   "head": {
-    "ref": "0.9.2_h78a0fd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/herdr-feedstock/pull/7",
   "id": 4678393756,
   "labels": [],
-  "last_fetched": "2026-09-29T14:18:34.756124",
+  "last_fetched": "2026-09-29T14:41:17.833195",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T14:39:12Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-29T14:18:33Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T14:39:16Z"
 }

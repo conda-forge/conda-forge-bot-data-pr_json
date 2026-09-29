@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"610876c7e8e65f3e7c86c35dd7243756040d692bc2cd00c9db28e62a3a4bff49\"",
-  "Last-Modified": "Tue, 29 Sep 2026 10:42:05 GMT",
+  "ETag": "W/\"4e0789539ee17c40fe524d85a5dede64ad0526e20131a51e38e001f8ab4a1b5a\"",
+  "Last-Modified": "Tue, 29 Sep 2026 10:44:28 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-qdrant-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T10:44:24Z",
   "created_at": "2026-09-29T09:57:58Z",
   "draft": false,
   "e_tag": "\"6bbdca2cae1ee9945299d7bdc5a5c629cfe87fdd3f1ad832ebc9758cea76b16a\"",
   "head": {
-    "ref": "1.6.0_hd71409"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-qdrant-feedstock/pull/12",
   "id": 4675565489,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-qdrant-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-29T10:43:50.992240",
+  "last_fetched": "2026-09-29T10:46:14.572138",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T10:44:24Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-09-29T10:42:07Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T10:44:28Z"
 }

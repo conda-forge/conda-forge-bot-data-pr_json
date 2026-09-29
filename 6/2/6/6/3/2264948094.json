@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"64bf7b989d1f21bef0f52ed2bf01d716a66255c7f27595fd43d12c5864cb79f1\"",
-  "Last-Modified": "Tue, 29 Sep 2026 07:45:19 GMT",
+  "ETag": "W/\"f619280de40f7f4e50792113f3d2b67506eb570bcc9d5fecc2adf97860a90989\"",
+  "Last-Modified": "Tue, 29 Sep 2026 07:45:16 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-propagator-b3-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-propagator-b3-feedstock/pull/34",
   "id": 2264948094,
-  "labels": [],
-  "last_fetched": "2026-09-29T07:46:32.100956",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-29T07:45:20.082819",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 34,
   "state": "closed",
-  "updated_at": "2026-09-29T07:45:19Z"
+  "updated_at": "2026-09-29T07:45:16Z"
 }

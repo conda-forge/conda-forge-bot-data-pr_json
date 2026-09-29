@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f0639338408e4cd500463dbff7f6b969102593de642753b660ba435e1be37bbb\"",
-  "Last-Modified": "Mon, 28 Sep 2026 21:03:41 GMT",
+  "ETag": "W/\"b43a67d5f27e99ef8e88a92d1d4e09830c059cda0d20c9b41458992c8b9b712f\"",
+  "Last-Modified": "Tue, 29 Sep 2026 01:37:26 GMT",
   "base": {
     "repo": {
       "name": "xstar-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T01:37:25Z",
   "created_at": "2026-09-28T21:01:40Z",
   "draft": false,
   "e_tag": "\"423a8e29b996ce78642ca424398272a7965ba9e71d36a20abd00d958a00a44f0\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h06e00d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xstar-tools-feedstock/pull/1",
   "id": 4669267618,
   "labels": [],
-  "last_fetched": "2026-09-28T21:35:38.515807",
+  "last_fetched": "2026-09-29T01:39:08.175623",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T01:37:25Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-09-28T21:03:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T01:37:26Z"
 }

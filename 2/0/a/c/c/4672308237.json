@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"eea1510c1e1383c0ec7138059c7925ca4f5814dcc16993e881c3c5075e43f1a1\"",
+  "Last-Modified": "Tue, 29 Sep 2026 03:56:47 GMT",
   "base": {
     "repo": {
       "name": "onnxslim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T03:56:44Z",
   "created_at": "2026-09-29T03:54:04Z",
   "draft": false,
   "e_tag": "\"cc2fda3e6b51d066bc9dc0a1370f2b2596a7b6736a0a83629d1c0b66897b544f\"",
   "head": {
-    "ref": "0.1.97_h99a3ea"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/onnxslim-feedstock/pull/49",
   "id": 4672308237,
   "labels": [],
-  "last_fetched": "2026-09-29T03:54:05.863358",
+  "last_fetched": "2026-09-29T03:58:50.488558",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T03:56:43Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-09-29T03:54:04Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T03:56:47Z"
 }

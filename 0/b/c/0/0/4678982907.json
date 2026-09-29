@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"20e74132f5997d29733c4c09293aa7aa3285ec88fe45f630596199212073d5c0\"",
-  "Last-Modified": "Tue, 29 Sep 2026 15:14:02 GMT",
+  "ETag": "W/\"4dd7a6ed45e174b316a46e8ab03ac0e7005378da99496e30e832d208d987740d\"",
+  "Last-Modified": "Tue, 29 Sep 2026 15:47:29 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-presto-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-presto-feedstock/pull/53",
   "id": 4678982907,
-  "labels": [],
-  "last_fetched": "2026-09-29T15:28:09.734219",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2772960582,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzcyOTYwNTgy",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-presto-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T15:48:36.674014",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 53,
   "state": "open",
-  "updated_at": "2026-09-29T15:14:02Z"
+  "updated_at": "2026-09-29T15:47:29Z"
 }

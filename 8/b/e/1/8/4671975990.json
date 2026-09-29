@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c70ec61a1ace85f8c8d9c03e607fc2ef1a494cb42afd5226a20d5a97d5f09e39\"",
+  "Last-Modified": "Tue, 29 Sep 2026 06:06:03 GMT",
   "base": {
     "repo": {
       "name": "quackosm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T06:06:03Z",
   "created_at": "2026-09-29T03:05:04Z",
   "draft": false,
   "e_tag": "\"3cb7d136e1ffdf7c400d07ef849f2180d93eae8f1accc407bdc90127feb3d6fc\"",
   "head": {
-    "ref": "0.19.0_h0c98d2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/quackosm-feedstock/pull/17",
   "id": 4671975990,
   "labels": [],
-  "last_fetched": "2026-09-29T03:05:05.548043",
+  "last_fetched": "2026-09-29T06:08:10.194159",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T06:06:03Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-09-29T03:05:04Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T06:06:03Z"
 }

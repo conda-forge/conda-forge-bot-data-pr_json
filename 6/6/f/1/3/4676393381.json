@@ -1,10 +1,12 @@
 {
+  "ETag": "W/\"33162cd12ab62c9a4a9ebe7c05cb94c44cc9ec674c18a55af3d7174dcc0eb28e\"",
+  "Last-Modified": "Tue, 29 Sep 2026 13:04:27 GMT",
   "base": {
     "repo": {
       "name": "petsc4py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T13:04:27Z",
   "created_at": "2026-09-29T11:17:48Z",
   "draft": false,
   "e_tag": "\"80de6ef8a1ced7eb65773bb55c7a45554b756829962a1861399bffe6e70d91fc\"",
@@ -13,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/petsc4py-feedstock/pull/144",
   "id": 4676393381,
-  "labels": [],
-  "last_fetched": "2026-09-29T11:17:49.661200",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-29T13:04:30.340566",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 144,
-  "state": "open",
-  "updated_at": "2026-09-29T11:17:48Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T13:04:27Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1dcd31cc93b4cb9c38be487807dc368a1ed410f1dff1fefc8557be97e891d517\"",
+  "Last-Modified": "Tue, 29 Sep 2026 00:15:51 GMT",
   "base": {
     "repo": {
       "name": "djlint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T00:15:46Z",
   "created_at": "2026-09-29T00:12:21Z",
   "draft": false,
   "e_tag": "\"c1939a10d27b5047758b65f60bfb8feb89a06009cfa5f113de2c650df0cf39c2\"",
   "head": {
-    "ref": "1.46.3_h4f8678"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/djlint-feedstock/pull/56",
   "id": 4670821919,
   "labels": [],
-  "last_fetched": "2026-09-29T00:12:22.088345",
+  "last_fetched": "2026-09-29T00:16:58.718946",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T00:15:46Z",
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-09-29T00:12:21Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T00:15:51Z"
 }

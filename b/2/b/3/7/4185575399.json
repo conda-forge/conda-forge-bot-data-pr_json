@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"2f3fa5bae33e5ee660a50fb3096616e91236b682bef2f1b75a40aa7fa231381f\"",
-  "Last-Modified": "Sat, 01 Aug 2026 21:37:53 GMT",
+  "ETag": "W/\"0640e9b7662ca17b1dc0a01e32c55d6563d0504d99fc21d8b57ce91143ee419a\"",
+  "Last-Modified": "Tue, 29 Sep 2026 18:59:14 GMT",
   "base": {
     "repo": {
       "name": "mimalloc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T18:59:14Z",
   "created_at": "2026-08-01T21:36:11Z",
   "draft": false,
   "e_tag": "\"c1ae7f324e0fdba0a5dbe1812bf22fa3048761f39a4aaab5d6b64775eaee6021\"",
   "head": {
-    "ref": "3.4.4_h354dac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mimalloc-feedstock/pull/54",
   "id": 4185575399,
   "labels": [],
-  "last_fetched": "2026-09-29T13:51:47.245198",
+  "last_fetched": "2026-09-29T19:01:08.424641",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T18:59:14Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-08-01T21:37:53Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T18:59:14Z"
 }

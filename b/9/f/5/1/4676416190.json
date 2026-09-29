@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"caaeca332b4f7f7bb44c31d977cc3db0137e1f65bad1adce9c9ab2b54c948751\"",
-  "Last-Modified": "Tue, 29 Sep 2026 11:21:41 GMT",
+  "ETag": "W/\"446f83cb4c7fc9dc7c7e99605f0a5acd6f8b04e1fce4ef1814c7f19542deb3b6\"",
+  "Last-Modified": "Tue, 29 Sep 2026 14:29:50 GMT",
   "base": {
     "repo": {
       "name": "esgvoc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T14:29:50Z",
   "created_at": "2026-09-29T11:20:05Z",
   "draft": false,
   "e_tag": "\"58ef01478087a30bde9647f73ba445617cbd3080c9a057c73f3a17ca5a3e9342\"",
   "head": {
-    "ref": "6.2.0_hfb6a7f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/esgvoc-feedstock/pull/1",
   "id": 4676416190,
   "labels": [],
-  "last_fetched": "2026-09-29T12:01:35.023707",
+  "last_fetched": "2026-09-29T14:31:28.334972",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T14:29:50Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-09-29T11:21:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T14:29:50Z"
 }

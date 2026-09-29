@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c60207de20c1d052432c247563ba5e9b5158472fcf2c2cb770d3bb75f1b4e501\"",
-  "Last-Modified": "Mon, 28 Sep 2026 03:35:41 GMT",
+  "ETag": "W/\"177a738d2f97caa5896f169c58e4ccc2e03bf267258d6535847db3c46c9981a9\"",
+  "Last-Modified": "Tue, 29 Sep 2026 13:36:38 GMT",
   "base": {
     "repo": {
       "name": "spaday-fluent-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/spaday-fluent-feedstock/pull/2",
   "id": 4658923420,
-  "labels": [],
-  "last_fetched": "2026-09-28T04:33:04.996453",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12264233602,
+      "name": "automerge",
+      "node_id": "LA_kwDOUhYbgc8AAAAC2wFagg",
+      "url": "https://api.github.com/repos/conda-forge/spaday-fluent-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T13:38:53.119917",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 2,
   "state": "open",
-  "updated_at": "2026-09-28T03:35:41Z"
+  "updated_at": "2026-09-29T13:36:38Z"
 }

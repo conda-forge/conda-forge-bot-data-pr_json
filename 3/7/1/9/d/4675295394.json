@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"76218f3dd0fb95cf9798ffbeb8ef5ee89113b946cba2bb0cfc650285a10c077e\"",
+  "Last-Modified": "Tue, 29 Sep 2026 09:45:31 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-postgres-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-postgres-feedstock/pull/67",
   "id": 4675295394,
-  "labels": [],
-  "last_fetched": "2026-09-29T09:32:40.091676",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2772960272,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzcyOTYwMjcy",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-postgres-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T09:47:24.470395",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 67,
   "state": "open",
-  "updated_at": "2026-09-29T09:32:39Z"
+  "updated_at": "2026-09-29T09:45:33Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"474cc8dd8f612b3f1144aaf4ece9094f0c81eaa872ac8f65db7afc30bacfb6d8\"",
+  "Last-Modified": "Tue, 29 Sep 2026 11:26:14 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-pinecone-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T11:26:14Z",
   "created_at": "2026-09-29T11:24:09Z",
   "draft": false,
   "e_tag": "\"76600b074bd5e0601537986b9ab27d84fb91b5f2ad4443ab8ade866687f78b39\"",
   "head": {
-    "ref": "0.62.4_h85964f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-pinecone-feedstock/pull/88",
   "id": 4676459171,
   "labels": [],
-  "last_fetched": "2026-09-29T11:24:10.826088",
+  "last_fetched": "2026-09-29T11:27:52.038353",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T11:26:14Z",
   "number": 88,
-  "state": "open",
-  "updated_at": "2026-09-29T11:24:09Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T11:26:19Z"
 }

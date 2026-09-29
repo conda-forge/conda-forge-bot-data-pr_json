@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"50a6534865de2a06c09440fe52b0566ca36f8355b9a8bc350b4d1804ad1b324c\"",
+  "Last-Modified": "Tue, 29 Sep 2026 08:44:22 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-datadog-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-datadog-feedstock/pull/32",
   "id": 4674579693,
-  "labels": [],
-  "last_fetched": "2026-09-29T08:25:13.666092",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746837361,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM3MzYx",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-datadog-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T08:45:42.374483",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 32,
   "state": "open",
-  "updated_at": "2026-09-29T08:25:12Z"
+  "updated_at": "2026-09-29T08:44:22Z"
 }

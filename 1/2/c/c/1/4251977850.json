@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c29ae823d35095bac62e8a775838ad9221b346ae9b3b94816b60641b0460e5c6\"",
-  "Last-Modified": "Tue, 29 Sep 2026 19:37:26 GMT",
+  "ETag": "W/\"f4444537c91b4cbbbdd46e254edfa69a49d556ef81ade53a7cfab8e632eb4c12\"",
+  "Last-Modified": "Tue, 29 Sep 2026 19:37:23 GMT",
   "base": {
     "repo": {
       "name": "mujoco-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/mujoco-feedstock/pull/130",
   "id": 4251977850,
-  "labels": [],
-  "last_fetched": "2026-09-29T19:38:44.169101",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-29T19:37:26.951227",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 130,
   "state": "closed",
-  "updated_at": "2026-09-29T19:37:26Z"
+  "updated_at": "2026-09-29T19:37:23Z"
 }

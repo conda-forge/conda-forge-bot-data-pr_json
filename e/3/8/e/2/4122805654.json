@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"8ab99b1bededc1f49888ae1fba71af0b904ac1979561614194b64ef4a0e6e5ff\"",
-  "Last-Modified": "Fri, 24 Jul 2026 07:28:13 GMT",
+  "ETag": "W/\"c3fd6db61315f8b22e13bb3214255741bcb72c29994fa860ae7bf73775cb24fe\"",
+  "Last-Modified": "Tue, 29 Sep 2026 19:16:47 GMT",
   "base": {
     "repo": {
       "name": "unicorn-binance-rest-api-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T19:16:47Z",
   "created_at": "2026-07-24T07:26:21Z",
   "draft": false,
   "e_tag": "\"9668c3cd452666012e5041447e00875ec8e88db1529e05df42fb15eb2d48171c\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_h808c46"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/unicorn-binance-rest-api-feedstock/pull/30",
   "id": 4122805654,
   "labels": [],
-  "last_fetched": "2026-09-26T09:45:26.851562",
+  "last_fetched": "2026-09-29T19:18:41.129091",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T19:16:47Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-07-24T07:28:13Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T19:16:47Z"
 }

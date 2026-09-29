@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"61b6e8093ca9732b836561d4cece5d915f92439a10b3745816ebe978d6a624a0\"",
-  "Last-Modified": "Tue, 29 Sep 2026 17:01:30 GMT",
+  "ETag": "W/\"9f459802c22e4e9e6ffdb9a519f7327c737a13303ae667781873cbfe526060cc\"",
+  "Last-Modified": "Tue, 29 Sep 2026 17:01:26 GMT",
   "base": {
     "repo": {
       "name": "pyopenrivercam-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyopenrivercam-feedstock/pull/20",
   "id": 2272439282,
-  "labels": [],
-  "last_fetched": "2026-09-29T17:03:07.153934",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-29T17:01:30.505889",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 20,
   "state": "closed",
-  "updated_at": "2026-09-29T17:01:30Z"
+  "updated_at": "2026-09-29T17:01:26Z"
 }

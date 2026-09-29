@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"4a98199ade749e930677792fe904e1d90eb12f562cfa0196b5ae8b112b7d629c\"",
+  "Last-Modified": "Tue, 29 Sep 2026 09:44:57 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-dbt-cloud-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-dbt-cloud-feedstock/pull/59",
   "id": 4675218087,
-  "labels": [],
-  "last_fetched": "2026-09-29T09:25:05.732841",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3972497496,
+      "name": "automerge",
+      "node_id": "LA_kwDOHEwrDM7sx4BY",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-dbt-cloud-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T09:46:13.032207",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 59,
   "state": "open",
-  "updated_at": "2026-09-29T09:25:04Z"
+  "updated_at": "2026-09-29T09:44:57Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"23a6d7449fbf0b913e378d7604933b2952a85be0e6bfc838d3fc5fcaaf5e3a46\"",
+  "Last-Modified": "Tue, 29 Sep 2026 13:10:34 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-ollama-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T13:10:31Z",
   "created_at": "2026-09-29T13:08:32Z",
   "draft": false,
   "e_tag": "\"83c17ca8e4c51b2fe0f4512942607dc28d81f7fe370fd4f9158ce1618e6b7223\"",
   "head": {
-    "ref": "0.62.4_ha69e96"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-ollama-feedstock/pull/87",
   "id": 4677595012,
   "labels": [],
-  "last_fetched": "2026-09-29T13:08:33.685064",
+  "last_fetched": "2026-09-29T13:12:21.309161",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T13:10:31Z",
   "number": 87,
-  "state": "open",
-  "updated_at": "2026-09-29T13:08:32Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T13:10:34Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"1e844e8aff03590c30f91754874838973eea43494940357cc9bf06ddfa862e66\"",
-  "Last-Modified": "Mon, 28 Sep 2026 22:09:27 GMT",
+  "ETag": "W/\"f584709bb643f966bf59d12d0132c417f160d9121e9c1c2e741f1895c6214e24\"",
+  "Last-Modified": "Tue, 29 Sep 2026 06:47:22 GMT",
   "base": {
     "repo": {
       "name": "eoreader-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T06:47:22Z",
   "created_at": "2026-09-28T22:07:48Z",
   "draft": false,
   "e_tag": "\"9f8f1bc8fc3f7d546be5f309d76b26ce34b12df48c5787d2c08b79b9a104aa83\"",
   "head": {
-    "ref": "0.24.4_hd6f6a0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/eoreader-feedstock/pull/90",
   "id": 4669870954,
   "labels": [],
-  "last_fetched": "2026-09-28T22:58:06.438508",
+  "last_fetched": "2026-09-29T06:49:19.618812",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T06:47:22Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-09-28T22:09:27Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T06:47:22Z"
 }

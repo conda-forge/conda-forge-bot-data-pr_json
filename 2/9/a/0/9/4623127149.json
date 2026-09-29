@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"ffa14afb5637327830668a8e79994f72945a8a022111f59bf45489ffa2d6e3f0\"",
-  "Last-Modified": "Tue, 29 Sep 2026 22:38:56 GMT",
+  "ETag": "W/\"a32f7c8d3fbce38bdd0a2d157df2b94a70be76c1fb969d586401aa3ba6bde1b8\"",
+  "Last-Modified": "Tue, 29 Sep 2026 22:41:15 GMT",
   "base": {
     "repo": {
       "name": "stone-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T22:41:10Z",
   "created_at": "2026-09-24T07:48:31Z",
   "draft": false,
   "e_tag": "\"0c66160a22a0603e310edf5a74b727e39cd53267923ca810ce7e3c231612d110\"",
   "head": {
-    "ref": "3.5.5_h186914"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/stone-feedstock/pull/21",
   "id": 4623127149,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/stone-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-29T22:41:09.538102",
+  "last_fetched": "2026-09-29T22:42:55.856154",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T22:41:10Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-09-29T22:38:56Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T22:41:15Z"
 }

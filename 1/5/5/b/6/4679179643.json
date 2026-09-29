@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4f055b9ab1e4db6143e95f644e7e21d589ef27c0bce2fab82ea3b72f0a01d99d\"",
-  "Last-Modified": "Tue, 29 Sep 2026 15:31:21 GMT",
+  "ETag": "W/\"e814a710c15053b9bcf60e700ebe635a5814929d7938420d752866988a782cbf\"",
+  "Last-Modified": "Tue, 29 Sep 2026 16:46:21 GMT",
   "base": {
     "repo": {
       "name": "openssl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T16:46:20Z",
   "created_at": "2026-09-29T15:29:29Z",
   "draft": false,
   "e_tag": "\"bee4fdf6647f4ddd40990ff28cb936197a400c8854f3e516c1111f22c7c5b28d\"",
   "head": {
-    "ref": "4.0.3_h7fbf46"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openssl-feedstock/pull/249",
   "id": 4679179643,
   "labels": [],
-  "last_fetched": "2026-09-29T15:50:48.619403",
+  "last_fetched": "2026-09-29T16:48:04.880650",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T16:46:20Z",
   "number": 249,
-  "state": "open",
-  "updated_at": "2026-09-29T15:31:21Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T16:46:21Z"
 }

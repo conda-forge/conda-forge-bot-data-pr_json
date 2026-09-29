@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"0ff2fd69507dca47bf42b985553c18f41e5cfec35f7dff253215f7acf6f810e8\"",
+  "Last-Modified": "Tue, 29 Sep 2026 09:44:22 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apprise-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apprise-feedstock/pull/24",
   "id": 4675199651,
-  "labels": [],
-  "last_fetched": "2026-09-29T09:23:25.734683",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5863181441,
+      "name": "automerge",
+      "node_id": "LA_kwDOKJAOZ88AAAABXXkMgQ",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apprise-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T09:45:42.387076",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 24,
   "state": "open",
-  "updated_at": "2026-09-29T09:23:24Z"
+  "updated_at": "2026-09-29T09:44:22Z"
 }

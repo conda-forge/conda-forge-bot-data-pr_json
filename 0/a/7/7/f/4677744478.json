@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d3ca90c72d77ff5948cb75a18aa2a173690bade8c0e026e34e9d3c07e1c573fb\"",
+  "Last-Modified": "Tue, 29 Sep 2026 13:26:28 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-google-generativeai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T13:26:25Z",
   "created_at": "2026-09-29T13:22:00Z",
   "draft": false,
   "e_tag": "\"fe74ab50198d3afc7132d8ea1fd0731c5eee10f1d4e5069d7a7cb9e972aef017\"",
   "head": {
-    "ref": "0.62.4_h6d0938"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-google-generativeai-feedstock/pull/89",
   "id": 4677744478,
   "labels": [],
-  "last_fetched": "2026-09-29T13:22:01.645887",
+  "last_fetched": "2026-09-29T13:28:13.148462",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T13:26:25Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-09-29T13:22:00Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T13:26:28Z"
 }

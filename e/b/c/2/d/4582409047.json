@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"cdb2d27f2400f427c2a9721db6340005aa36272bbfe6f4db3d45c9f6587db164\"",
-  "Last-Modified": "Sun, 20 Sep 2026 04:49:45 GMT",
+  "ETag": "W/\"2c1e964c24f987ed04a19376d6d07645bcb5de6b5f08df0d3f1b01a0ca75c458\"",
+  "Last-Modified": "Tue, 29 Sep 2026 10:12:24 GMT",
   "base": {
     "repo": {
       "name": "graphdatascience-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T10:12:24Z",
   "created_at": "2026-09-20T04:48:03Z",
   "draft": false,
   "e_tag": "\"1dc1e54683f1f9ffdafb1a83a3548327a956911e6b351efe8af355aa0a80e26e\"",
   "head": {
-    "ref": "2.0_h170d83"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/graphdatascience-feedstock/pull/20",
   "id": 4582409047,
   "labels": [],
-  "last_fetched": "2026-09-27T07:00:42.512120",
+  "last_fetched": "2026-09-29T10:13:55.335574",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T10:12:24Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-09-20T04:49:45Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T10:12:24Z"
 }

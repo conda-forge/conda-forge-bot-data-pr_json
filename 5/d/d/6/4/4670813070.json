@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f793615d7f73b50dd425fae4d741fa2a76e70c6a55272d8571e21ea80c997835\"",
-  "Last-Modified": "Tue, 29 Sep 2026 10:55:06 GMT",
+  "ETag": "W/\"db916f16b55e5bc89f102edbab4f9126a9f9caf893404ffa957360b64dec5b4a\"",
+  "Last-Modified": "Tue, 29 Sep 2026 11:16:38 GMT",
   "base": {
     "repo": {
       "name": "dftd4-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T11:16:26Z",
   "created_at": "2026-09-29T00:10:57Z",
   "draft": false,
   "e_tag": "\"75f132e42fa09697f5f52d00c30044f56fab357753f96f31fc777eb14bfecb93\"",
   "head": {
-    "ref": "4.3.0_hffe0ab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dftd4-python-feedstock/pull/45",
   "id": 4670813070,
   "labels": [],
-  "last_fetched": "2026-09-29T10:57:02.603904",
+  "last_fetched": "2026-09-29T11:17:37.044330",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T11:16:26Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-09-29T10:55:06Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T11:16:38Z"
 }

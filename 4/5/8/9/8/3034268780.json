@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"3b1441b7568a165f43fbe13787a0f581cfb83866884076af1593c2adf3d8c869\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"d6feeeef3ed839637af705de14807df143aba8384bf4699573c8e58ac284f711\"",
+  "Last-Modified": "Tue, 29 Sep 2026 16:13:31 GMT",
   "base": {
     "repo": {
       "name": "minifasta-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T16:13:31Z",
   "created_at": "2025-11-21T15:59:30Z",
   "draft": false,
   "e_tag": "\"46b959e77a46441a591837af38dbd5ed3a8282bf210ec0bb19de257e39f680e6\"",
   "head": {
-    "ref": "3.2.0_h495d73"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/minifasta-feedstock/pull/7",
   "id": 3034268780,
   "labels": [],
-  "last_fetched": "2026-09-26T14:46:41.103560",
+  "last_fetched": "2026-09-29T16:15:58.634069",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T16:13:31Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2025-11-21T16:01:12Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T16:13:31Z"
 }

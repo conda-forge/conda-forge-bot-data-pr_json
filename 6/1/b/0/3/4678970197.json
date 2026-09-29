@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"477282a9bbca51a81564f0812badaed2b56e972e213e7e900dc9e39ccbc42a47\"",
+  "Last-Modified": "Tue, 29 Sep 2026 15:25:55 GMT",
   "base": {
     "repo": {
       "name": "r-renv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T15:25:50Z",
   "created_at": "2026-09-29T15:10:57Z",
   "draft": false,
   "e_tag": "\"8608a4c66128e489bbb622c9a50678793d5588938e683531162fec9ac78e6a2d\"",
   "head": {
-    "ref": "1.3.0_h1c6f48"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-renv-feedstock/pull/63",
   "id": 4678970197,
   "labels": [],
-  "last_fetched": "2026-09-29T15:10:58.257043",
+  "last_fetched": "2026-09-29T15:27:02.032071",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T15:25:50Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-09-29T15:10:57Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T15:25:55Z"
 }

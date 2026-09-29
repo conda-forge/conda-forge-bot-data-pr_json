@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"469ad85deed10c9eb77693b5861d5011239501a74bff3e3a406003b67ae06fd7\"",
+  "Last-Modified": "Tue, 29 Sep 2026 01:01:49 GMT",
   "base": {
     "repo": {
       "name": "distgen-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T01:01:49Z",
   "created_at": "2026-09-29T00:55:36Z",
   "draft": false,
   "e_tag": "\"e013a8f903c8fc12c14dafcb822be36dbb2a5dded335992f0258465f410d9e99\"",
   "head": {
-    "ref": "2.3.2_hcac777"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/distgen-feedstock/pull/59",
   "id": 4671112758,
   "labels": [],
-  "last_fetched": "2026-09-29T00:55:37.674972",
+  "last_fetched": "2026-09-29T01:03:26.170860",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T01:01:49Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-09-29T00:55:36Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T01:01:49Z"
 }

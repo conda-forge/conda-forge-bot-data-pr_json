@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"a85974350fca1023e512da37141be0c15b30a2653a86c8159e5af7f82383aa44\"",
+  "Last-Modified": "Tue, 29 Sep 2026 18:18:04 GMT",
   "base": {
     "repo": {
       "name": "pythonnet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T18:18:04Z",
   "created_at": "2026-09-29T15:36:38Z",
   "draft": false,
   "e_tag": "\"cb2abd5f6ff521b724579801f7d88201316fd6e9fc5bf89fac236618404438af\"",
   "head": {
-    "ref": "3.2.0_h83d2e4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pythonnet-feedstock/pull/33",
   "id": 4679263993,
   "labels": [],
-  "last_fetched": "2026-09-29T15:36:39.017471",
+  "last_fetched": "2026-09-29T18:19:19.970389",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T18:18:04Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-09-29T15:36:38Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T18:18:04Z"
 }

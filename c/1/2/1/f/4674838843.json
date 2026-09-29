@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"cda590a922d45088bc61dbce3daef0d80e0919ef0ca91c792672e9b31251882b\"",
+  "Last-Modified": "Tue, 29 Sep 2026 09:19:56 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-pinecone-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-pinecone-feedstock/pull/12",
   "id": 4674838843,
-  "labels": [],
-  "last_fetched": "2026-09-29T08:49:39.453499",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8645131520,
+      "name": "automerge",
+      "node_id": "LA_kwDOOtTz688AAAACA0o9AA",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-pinecone-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T09:21:46.134823",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 12,
   "state": "open",
-  "updated_at": "2026-09-29T08:49:38Z"
+  "updated_at": "2026-09-29T09:19:58Z"
 }

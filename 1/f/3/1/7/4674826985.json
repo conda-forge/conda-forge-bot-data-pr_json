@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8cb4a382c827c566e903d6320e26030c57f35ddb52bbf93994e8413f686248aa\"",
+  "Last-Modified": "Tue, 29 Sep 2026 09:31:59 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-openlineage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T09:31:59Z",
   "created_at": "2026-09-29T08:48:40Z",
   "draft": false,
   "e_tag": "\"7ba6595e3ea53d0e7f189113e2cda9c870c57a4e769c505229184d528389f114\"",
   "head": {
-    "ref": "2.20.2_ha21cc8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-openlineage-feedstock/pull/58",
   "id": 4674826985,
   "labels": [],
-  "last_fetched": "2026-09-29T08:48:41.096609",
+  "last_fetched": "2026-09-29T09:34:04.294385",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T09:31:59Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-09-29T08:48:40Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T09:31:59Z"
 }

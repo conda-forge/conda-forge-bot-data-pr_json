@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"fbae4965b8a9f73c9ceeb642d359b54061699293b6d3cb8bc128d467cd0ee3b9\"",
-  "Last-Modified": "Tue, 29 Sep 2026 16:23:02 GMT",
+  "ETag": "W/\"9109c90e68de248fce71e75c485b1cde2858ee60e2c8c116f4c3a2d90bbbeb8f\"",
+  "Last-Modified": "Tue, 29 Sep 2026 19:32:58 GMT",
   "base": {
     "repo": {
       "name": "geoarrow-c-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T19:32:58Z",
   "created_at": "2026-09-29T16:21:08Z",
   "draft": false,
   "e_tag": "\"57e610e51a57eeff98bb3d51a3333fbf10e60cdb7c7aed11f389603fc3c1abf2\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/geoarrow-c-feedstock/pull/23",
   "id": 4679749065,
-  "labels": [],
-  "last_fetched": "2026-09-29T17:38:26.065473",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6114530896,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOKjhOAs8AAAABbHRWUA",
+      "url": "https://api.github.com/repos/conda-forge/geoarrow-c-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-29T19:33:02.189022",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-09-29T16:23:02Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T19:32:58Z"
 }

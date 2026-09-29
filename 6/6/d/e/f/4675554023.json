@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"dee3f1c6dd334daf14ec543a99288ba770cdb049fb6a9e90107f8aa944806077\"",
-  "Last-Modified": "Tue, 29 Sep 2026 10:40:17 GMT",
+  "ETag": "W/\"26dc4e0af4c466c15bb21a25579cff736aa937e8297a824026df074dc916c80f\"",
+  "Last-Modified": "Tue, 29 Sep 2026 10:42:52 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-atlassian-jira-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T10:42:48Z",
   "created_at": "2026-09-29T09:56:55Z",
   "draft": false,
   "e_tag": "\"d72ba9390be505a6d3eb495713e88e9a43ba6f4a05003bec77eda744642a3564\"",
   "head": {
-    "ref": "3.4.0_h1aadf6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-atlassian-jira-feedstock/pull/24",
   "id": 4675554023,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-atlassian-jira-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-29T10:41:53.074472",
+  "last_fetched": "2026-09-29T10:45:41.435864",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T10:42:48Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-09-29T10:40:17Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T10:42:52Z"
 }

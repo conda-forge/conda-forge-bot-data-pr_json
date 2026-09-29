@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"229394de27bdc7332900575773293f698a10d51f5d7ffa8b877d5f3140b0bd5b\"",
+  "Last-Modified": "Tue, 29 Sep 2026 17:37:33 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-ssh-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-ssh-feedstock/pull/60",
   "id": 4680280745,
-  "labels": [],
-  "last_fetched": "2026-09-29T17:13:27.944940",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746831804,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODMxODA0",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-ssh-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T17:39:17.145213",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 60,
   "state": "open",
-  "updated_at": "2026-09-29T17:13:27Z"
+  "updated_at": "2026-09-29T17:37:33Z"
 }

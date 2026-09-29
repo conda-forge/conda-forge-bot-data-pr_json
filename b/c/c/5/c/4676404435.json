@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b8d4eb0e3caaf1f6dc8a5e7fd1e9a92ff85d4bd93d5f1f8d5c824aca70d06343\"",
+  "Last-Modified": "Tue, 29 Sep 2026 12:47:50 GMT",
   "base": {
     "repo": {
       "name": "python-minifier-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T12:47:50Z",
   "created_at": "2026-09-29T11:18:50Z",
   "draft": false,
   "e_tag": "\"82010e5d27bcc585624c32915b5229fd5bb9fda0094d4def736f114f2975d604\"",
   "head": {
-    "ref": "3.4.0_hd4bd4e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-minifier-feedstock/pull/19",
   "id": 4676404435,
   "labels": [],
-  "last_fetched": "2026-09-29T11:18:51.651568",
+  "last_fetched": "2026-09-29T12:49:30.421268",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T12:47:50Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-09-29T11:18:50Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T12:47:50Z"
 }

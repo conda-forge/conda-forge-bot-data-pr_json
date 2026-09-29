@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"4fdd4648ff2d64e3ee09774a777b6de305d34712d5960e2d719c826498191123\"",
+  "Last-Modified": "Tue, 29 Sep 2026 07:25:27 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-exasol-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-exasol-feedstock/pull/54",
   "id": 4673906476,
-  "labels": [],
-  "last_fetched": "2026-09-29T07:17:40.836410",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746834872,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM0ODcy",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-exasol-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T07:27:04.095262",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 54,
   "state": "open",
-  "updated_at": "2026-09-29T07:17:40Z"
+  "updated_at": "2026-09-29T07:25:27Z"
 }

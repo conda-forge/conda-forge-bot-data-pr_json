@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1e6c22ab4bb30af03af003f2a62469d794c88bb5445ec7fbb9d5d5881f625f97\"",
+  "Last-Modified": "Tue, 29 Sep 2026 11:25:41 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-groq-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T11:25:36Z",
   "created_at": "2026-09-29T11:23:10Z",
   "draft": false,
   "e_tag": "\"aabee3d058e38659f8188d5e2397611aae56866a262c9a6579b4fb9940074679\"",
   "head": {
-    "ref": "0.62.4_hf5b12d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-groq-feedstock/pull/90",
   "id": 4676448266,
   "labels": [],
-  "last_fetched": "2026-09-29T11:23:10.792179",
+  "last_fetched": "2026-09-29T11:27:21.964353",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T11:25:36Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-09-29T11:23:10Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T11:25:41Z"
 }

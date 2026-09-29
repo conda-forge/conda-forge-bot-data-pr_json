@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"938178df480a5cab8a4c27d5808fb0eb6e16c915b21aa4ddcdb458861404803a\"",
-  "Last-Modified": "Tue, 29 Sep 2026 08:53:52 GMT",
+  "ETag": "W/\"cf875ffcff75583d482a8d39176487fdaeca3a2cfb3d09a0401dff8c5528b909\"",
+  "Last-Modified": "Tue, 29 Sep 2026 12:20:46 GMT",
   "base": {
     "repo": {
       "name": "audi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T12:20:46Z",
   "created_at": "2026-09-29T08:52:11Z",
   "draft": false,
   "e_tag": "\"3a08267abcd60c88f46f3060406bccc46cc1c50db2d14ea40909d6aa24f25b95\"",
   "head": {
-    "ref": "1.10.3_h0ce41d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/audi-feedstock/pull/46",
   "id": 4674869702,
   "labels": [],
-  "last_fetched": "2026-09-29T12:00:40.519401",
+  "last_fetched": "2026-09-29T12:22:39.376502",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T12:20:46Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-09-29T08:53:52Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T12:20:46Z"
 }

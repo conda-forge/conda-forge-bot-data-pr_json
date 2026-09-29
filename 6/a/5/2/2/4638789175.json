@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"29ab9818b7d15a7a97de3ecb263bb6c218dc352f8e4fb58ad9c85dc0efab8efb\"",
-  "Last-Modified": "Fri, 25 Sep 2026 13:55:27 GMT",
+  "ETag": "W/\"a86e155dda2e7209b0fa6ff3058da76fc8ea6fc14efd2dcbb225346cad5ef9a0\"",
+  "Last-Modified": "Tue, 29 Sep 2026 15:34:57 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-threading-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-threading-feedstock/pull/28",
   "id": 4638789175,
-  "labels": [],
-  "last_fetched": "2026-09-25T17:33:28.903237",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8313653274,
+      "name": "automerge",
+      "node_id": "LA_kwDOOKpwbc8AAAAB74hIGg",
+      "url": "https://api.github.com/repos/conda-forge/opentelemetry-instrumentation-threading-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T15:36:38.835685",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 28,
   "state": "open",
-  "updated_at": "2026-09-25T13:55:27Z"
+  "updated_at": "2026-09-29T15:34:57Z"
 }

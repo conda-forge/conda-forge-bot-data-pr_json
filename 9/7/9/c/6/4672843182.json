@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"3fe96dea605f6d0b3a9a13c2de0a9f02cdeb16f0d9b123a619cd7db136b1ab8c\"",
+  "Last-Modified": "Tue, 29 Sep 2026 05:15:43 GMT",
   "base": {
     "repo": {
       "name": "cohere-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T05:15:38Z",
   "created_at": "2026-09-29T05:12:30Z",
   "draft": false,
   "e_tag": "\"2858424435506473e26809279252b2aa5200c735187aae3f607fbb8780ffa824\"",
   "head": {
-    "ref": "7.2.0_hf8cea1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cohere-feedstock/pull/28",
   "id": 4672843182,
   "labels": [],
-  "last_fetched": "2026-09-29T05:12:30.842960",
+  "last_fetched": "2026-09-29T05:18:07.235354",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T05:15:38Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-09-29T05:12:30Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T05:15:43Z"
 }

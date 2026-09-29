@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"3dabdf18200a33929142979caca2b07a44038b6f3a22c4dd560c5f27a84caf68\"",
-  "Last-Modified": "Tue, 29 Sep 2026 04:24:27 GMT",
+  "ETag": "W/\"635d7c6629b936039d2a2da60e4e05ea99497a75df0c9c30c39d4bffbf35028f\"",
+  "Last-Modified": "Tue, 29 Sep 2026 12:20:34 GMT",
   "base": {
     "repo": {
       "name": "geventhttpclient-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/geventhttpclient-feedstock/pull/61",
   "id": 4672503362,
-  "labels": [],
-  "last_fetched": "2026-09-29T04:51:22.677718",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890935960,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTM1OTYw",
+      "url": "https://api.github.com/repos/conda-forge/geventhttpclient-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T12:22:53.850471",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 61,
   "state": "open",
-  "updated_at": "2026-09-29T04:24:27Z"
+  "updated_at": "2026-09-29T12:20:34Z"
 }

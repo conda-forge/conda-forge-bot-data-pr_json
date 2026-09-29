@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"76218f3dd0fb95cf9798ffbeb8ef5ee89113b946cba2bb0cfc650285a10c077e\"",
-  "Last-Modified": "Tue, 29 Sep 2026 09:45:31 GMT",
+  "ETag": "W/\"d137303d7de6542d65d3937dc4b3b1f80458c6a5f7bd6b6e17615d3a2fd888bd\"",
+  "Last-Modified": "Tue, 29 Sep 2026 09:47:40 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-postgres-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T09:47:36Z",
   "created_at": "2026-09-29T09:32:39Z",
   "draft": false,
   "e_tag": "\"1ad62fa665873732aee44f035265cdc1648df7f13c439761cf216fe5fecd9af3\"",
   "head": {
-    "ref": "7.1.0_h30f2ec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-postgres-feedstock/pull/67",
   "id": 4675295394,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-postgres-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-29T09:47:24.470395",
+  "last_fetched": "2026-09-29T09:49:27.076923",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T09:47:36Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-09-29T09:45:33Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T09:47:40Z"
 }

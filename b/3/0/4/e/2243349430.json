@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"5e0a9b13902b47307b1d6ff0aa8a713c9dba2e5a404afb49aaad273e3f10947e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"e79d5d0de42a141c083cfde1bfab583a72681c0207ee13bd0a48df06bbee4812\"",
+  "Last-Modified": "Tue, 29 Sep 2026 04:03:35 GMT",
   "base": {
     "repo": {
       "name": "pycountry-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T04:03:35Z",
   "created_at": "2024-12-19T01:11:33Z",
   "draft": false,
   "e_tag": "\"df35addd989f9afda00cbadf0ccf69528bf9c60ea17f79f03876c3f6029bc3d6\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/pycountry-feedstock/pull/15",
   "id": 2243349430,
-  "labels": [],
-  "last_fetched": "2026-09-22T02:52:55.547950",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-29T04:03:38.349313",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 15,
-  "state": "open",
-  "updated_at": "2024-12-19T01:13:02Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T04:03:35Z"
 }

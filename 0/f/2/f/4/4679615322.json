@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ce958b2d57c0d09b818d8400f24d08f0f92daff06850ee07d11b4e6e9ada4c15\"",
+  "Last-Modified": "Tue, 29 Sep 2026 16:12:10 GMT",
   "base": {
     "repo": {
       "name": "kedro-viz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T16:12:07Z",
   "created_at": "2026-09-29T16:08:11Z",
   "draft": false,
   "e_tag": "\"d326029b53eed1adc0a5e6c10453bbcb5fd3634b9c6cc85b919e60215e74e276\"",
   "head": {
-    "ref": "12.5.0_h1ca415"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kedro-viz-feedstock/pull/38",
   "id": 4679615322,
   "labels": [],
-  "last_fetched": "2026-09-29T16:08:12.166723",
+  "last_fetched": "2026-09-29T16:15:33.652634",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T16:12:06Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-09-29T16:08:11Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T16:12:10Z"
 }

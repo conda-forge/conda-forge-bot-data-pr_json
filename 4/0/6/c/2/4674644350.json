@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"0f51ae1e83f43a3b231d45ed42a1a112c373b137a4a75227113bc12d9681e43d\"",
+  "Last-Modified": "Tue, 29 Sep 2026 08:45:32 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-openai-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-openai-feedstock/pull/14",
   "id": 4674644350,
-  "labels": [],
-  "last_fetched": "2026-09-29T08:31:34.990773",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8645134853,
+      "name": "automerge",
+      "node_id": "LA_kwDOOtT1Vs8AAAACA0pKBQ",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-openai-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T08:47:26.524161",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 14,
   "state": "open",
-  "updated_at": "2026-09-29T08:31:34Z"
+  "updated_at": "2026-09-29T08:45:32Z"
 }

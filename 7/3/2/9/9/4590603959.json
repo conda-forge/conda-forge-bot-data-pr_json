@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e1396e0143a44b5b13a0114433dfd4bc6d90e052b97e6a4ee6d6e228526099a5\"",
-  "Last-Modified": "Mon, 21 Sep 2026 10:46:27 GMT",
+  "ETag": "W/\"df1f145993f292790f7a2ae521a974aa9adb3b55384805851b0f7c188f58862e\"",
+  "Last-Modified": "Tue, 29 Sep 2026 14:58:56 GMT",
   "base": {
     "repo": {
       "name": "conda_deps-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T14:58:56Z",
   "created_at": "2026-09-21T10:44:48Z",
   "draft": false,
   "e_tag": "\"0e078b4596e9ba8ec44126d42141fbb8c222c0ed4b5512e76c7069905c9d74cc\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h790610"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/conda_deps-feedstock/pull/17",
   "id": 4590603959,
   "labels": [],
-  "last_fetched": "2026-09-28T16:30:01.123062",
+  "last_fetched": "2026-09-29T15:00:34.787947",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T14:58:56Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-09-21T10:46:27Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T14:58:56Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"95324884419b6e10116075e2058b4167cbf16809899f49ce5df7aed5d584b53d\"",
+  "Last-Modified": "Tue, 29 Sep 2026 17:37:50 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-pagerduty-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-pagerduty-feedstock/pull/40",
   "id": 4680500285,
-  "labels": [],
-  "last_fetched": "2026-09-29T17:35:56.756553",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2772960431,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzcyOTYwNDMx",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-pagerduty-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T17:39:08.121285",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 40,
   "state": "open",
-  "updated_at": "2026-09-29T17:35:55Z"
+  "updated_at": "2026-09-29T17:37:50Z"
 }

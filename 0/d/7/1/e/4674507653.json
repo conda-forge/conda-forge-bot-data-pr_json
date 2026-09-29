@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"beb45815e1a85eaed88961a2fef5367472f231b5d0d14c702fce767d32513c95\"",
-  "Last-Modified": "Tue, 29 Sep 2026 08:43:02 GMT",
+  "ETag": "W/\"87ad5e515e7ff6cc9067c2d8aaef85a7e32d974620c63764b15b671cf0e0e9aa\"",
+  "Last-Modified": "Tue, 29 Sep 2026 08:44:53 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-flink-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T08:44:49Z",
   "created_at": "2026-09-29T08:18:03Z",
   "draft": false,
   "e_tag": "\"c9d7c2349852d7e3d622bc68f0a576f6deffd2425819faf19a70e8de0064f6c8\"",
   "head": {
-    "ref": "1.9.0_hae997f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-flink-feedstock/pull/24",
   "id": 4674507653,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-flink-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-29T08:44:42.990927",
+  "last_fetched": "2026-09-29T08:47:29.774050",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T08:44:49Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-09-29T08:43:02Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T08:44:53Z"
 }

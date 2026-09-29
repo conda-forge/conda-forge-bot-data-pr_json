@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"fd345069d56c74742b58c2b669decfdc352ece8817e381c04c46ec251c0b080d\"",
+  "Last-Modified": "Tue, 29 Sep 2026 00:01:18 GMT",
   "base": {
     "repo": {
       "name": "pyjwt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T00:01:18Z",
   "created_at": "2026-09-28T23:14:11Z",
   "draft": false,
   "e_tag": "\"d9e89d1002a6bbb13d063de25aed22f524a1004a85d99853e6104c557b548223\"",
   "head": {
-    "ref": "2.15.1_h248781"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyjwt-feedstock/pull/44",
   "id": 4670398507,
   "labels": [],
-  "last_fetched": "2026-09-28T23:14:11.927846",
+  "last_fetched": "2026-09-29T00:03:07.916952",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T00:01:18Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-09-28T23:14:11Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T00:01:18Z"
 }

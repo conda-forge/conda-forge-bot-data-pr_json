@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"b1594d6341dbadda4b70aa85f9ed1d2e356bc3cf5bb4498ca18ee3696f4b6d0d\"",
-  "Last-Modified": "Tue, 29 Sep 2026 10:41:24 GMT",
+  "ETag": "W/\"cd4003e56e96902e6422cc6420b97405a43f93ef0b7a964b89b596c88c075525\"",
+  "Last-Modified": "Tue, 29 Sep 2026 10:43:59 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-ftp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T10:43:55Z",
   "created_at": "2026-09-29T10:02:45Z",
   "draft": false,
   "e_tag": "\"49eea8de0bb17bac247c9f2a9bc70023e69660ae0aacc507b1c4dd9ccb921447\"",
   "head": {
-    "ref": "3.16.0_h6ac5c8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-ftp-feedstock/pull/43",
   "id": 4675617494,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-ftp-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-29T10:43:40.421654",
+  "last_fetched": "2026-09-29T10:45:13.689986",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T10:43:55Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-09-29T10:41:24Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T10:43:59Z"
 }

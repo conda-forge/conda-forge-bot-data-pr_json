@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4ec1e6b1b066c8e61a91e07bb8bed462abadc9a9da677bed7b68357ff0b78d59\"",
-  "Last-Modified": "Tue, 29 Sep 2026 13:31:56 GMT",
+  "ETag": "W/\"3bb7789143d2993a1d72d91b53bfc0685d1e84f0ff26fada6aa04f22f90565fa\"",
+  "Last-Modified": "Tue, 29 Sep 2026 14:36:28 GMT",
   "base": {
     "repo": {
       "name": "slepc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T14:36:28Z",
   "created_at": "2026-09-29T10:56:40Z",
   "draft": false,
   "e_tag": "\"bd10063ac9483d18d8b9249885351d89e3e2eae0784209c96c2190145e03ea70\"",
   "head": {
-    "ref": "3.26.0_hb888ab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/slepc-feedstock/pull/114",
   "id": 4676179377,
   "labels": [],
-  "last_fetched": "2026-09-29T13:33:13.749107",
+  "last_fetched": "2026-09-29T14:38:16.263213",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-29T14:36:28Z",
   "number": 114,
-  "state": "open",
-  "updated_at": "2026-09-29T13:31:56Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T14:36:28Z"
 }

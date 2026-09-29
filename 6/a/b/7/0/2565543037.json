@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"4e23a23662446e15b132807af182e823bba020a4f32b4a278b2cfe3b2720502f\"",
-  "Last-Modified": "Tue, 29 Sep 2026 19:03:03 GMT",
+  "ETag": "W/\"bbea51b26481f4aa76f9ad13474b3744a68cf15185eee10a64e46fd075a39265\"",
+  "Last-Modified": "Tue, 29 Sep 2026 19:02:59 GMT",
   "base": {
     "repo": {
       "name": "quixstreams-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/quixstreams-feedstock/pull/23",
   "id": 2565543037,
-  "labels": [],
-  "last_fetched": "2026-09-29T19:04:27.761457",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-29T19:03:03.110934",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 23,
   "state": "closed",
-  "updated_at": "2026-09-29T19:03:03Z"
+  "updated_at": "2026-09-29T19:02:59Z"
 }

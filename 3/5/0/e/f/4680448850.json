@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"320383ae7a87b7d86f6d003e34e66f2daa8a69ce6f8514768ee903ac9eba42b7\"",
+  "Last-Modified": "Tue, 29 Sep 2026 17:42:23 GMT",
   "base": {
     "repo": {
       "name": "historia-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-29T17:42:23Z",
   "created_at": "2026-09-29T17:30:40Z",
   "draft": false,
   "e_tag": "\"20e42d788d802ade2ced0b8e71a3baec93c0849a7e3d590fcdc3ef111c7b625a\"",
   "head": {
-    "ref": "0.12.2_h7a7575"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/historia-feedstock/pull/11",
   "id": 4680448850,
   "labels": [],
-  "last_fetched": "2026-09-29T17:30:41.853440",
+  "last_fetched": "2026-09-29T17:43:46.199665",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-29T17:42:23Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-09-29T17:30:41Z"
+  "state": "closed",
+  "updated_at": "2026-09-29T17:42:23Z"
 }

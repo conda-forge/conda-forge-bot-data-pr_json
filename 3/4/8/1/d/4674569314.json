@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"c5136c7555b81524a1d3ebae3b4bd1414141c062330afeb2fe2c51135f819f0a\"",
+  "Last-Modified": "Tue, 29 Sep 2026 08:45:59 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-slack-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-slack-feedstock/pull/60",
   "id": 4674569314,
-  "labels": [],
-  "last_fetched": "2026-09-29T08:24:12.395773",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2772961414,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzcyOTYxNDE0",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-slack-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T08:48:19.213004",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 60,
   "state": "open",
-  "updated_at": "2026-09-29T08:24:11Z"
+  "updated_at": "2026-09-29T08:45:59Z"
 }

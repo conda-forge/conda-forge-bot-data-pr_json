@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"0d9948871fc385369926ca7d1af46e576a94b6e51e082a20b23e55c7a2138a1a\"",
-  "Last-Modified": "Thu, 24 Sep 2026 07:50:21 GMT",
+  "ETag": "W/\"ffa14afb5637327830668a8e79994f72945a8a022111f59bf45489ffa2d6e3f0\"",
+  "Last-Modified": "Tue, 29 Sep 2026 22:38:56 GMT",
   "base": {
     "repo": {
       "name": "stone-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/stone-feedstock/pull/21",
   "id": 4623127149,
-  "labels": [],
-  "last_fetched": "2026-09-24T09:46:43.722020",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2763003795,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzYzMDAzNzk1",
+      "url": "https://api.github.com/repos/conda-forge/stone-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T22:41:09.538102",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 21,
   "state": "open",
-  "updated_at": "2026-09-24T07:50:21Z"
+  "updated_at": "2026-09-29T22:38:56Z"
 }

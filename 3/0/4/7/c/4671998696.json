@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"97f8fdf6c85659b62909517362a10e790a5232d3d81a7f791ce3f1d59786ced0\"",
-  "Last-Modified": "Tue, 29 Sep 2026 03:10:06 GMT",
+  "ETag": "W/\"45d8c55688576990631c34c61283dcfd703020bb3c9ee601d556ad3fed857b81\"",
+  "Last-Modified": "Tue, 29 Sep 2026 06:24:22 GMT",
   "base": {
     "repo": {
       "name": "ff-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/ff-feedstock/pull/5",
   "id": 4671998696,
-  "labels": [],
-  "last_fetched": "2026-09-29T03:32:27.949292",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7958110445,
+      "name": "automerge",
+      "node_id": "LA_kwDONlZ6jM8AAAAB2lcg7Q",
+      "url": "https://api.github.com/repos/conda-forge/ff-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T06:25:36.647187",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 5,
   "state": "open",
-  "updated_at": "2026-09-29T03:10:06Z"
+  "updated_at": "2026-09-29T06:24:22Z"
 }

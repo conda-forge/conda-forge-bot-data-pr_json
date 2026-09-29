@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"4101b4233e7db681a36cbe13fc3a50750c16dbae6796632314514c3aa5fe4582\"",
+  "Last-Modified": "Tue, 29 Sep 2026 10:40:48 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-dingding-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-dingding-feedstock/pull/29",
   "id": 4675672509,
-  "labels": [],
-  "last_fetched": "2026-09-29T10:07:42.965600",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746836462,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM2NDYy",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-dingding-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-29T10:42:27.452150",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 29,
   "state": "open",
-  "updated_at": "2026-09-29T10:07:41Z"
+  "updated_at": "2026-09-29T10:40:48Z"
 }

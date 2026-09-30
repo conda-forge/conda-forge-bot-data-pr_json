@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e464fce0b95e6e00133f338d942fd86b8e13949a7fc17e9640f1bb7af9fec5d7\"",
-  "Last-Modified": "Wed, 30 Sep 2026 05:54:54 GMT",
+  "ETag": "W/\"4d60a25e4bbd1b4d754c09e7eafcde1aa01927a063ed83584648f7ddae2e4abd\"",
+  "Last-Modified": "Wed, 30 Sep 2026 07:15:06 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-dns-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T07:15:06Z",
   "created_at": "2026-09-30T05:53:07Z",
   "draft": false,
   "e_tag": "\"5c21829e182d41aa1f249a43ef5f7d3fee6dd940940c18805c90a749e6b74f96\"",
   "head": {
-    "ref": "0.37.2_h67fc6f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-dns-feedstock/pull/24",
   "id": 4686439113,
   "labels": [],
-  "last_fetched": "2026-09-30T06:00:47.741532",
+  "last_fetched": "2026-09-30T07:17:38.736553",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T07:15:06Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-09-30T05:54:54Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T07:15:06Z"
 }

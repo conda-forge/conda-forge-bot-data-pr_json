@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"490c3c7f46eba10b5f7bbcbf1c856f6ada1b0d50b55ee2af9415b51e55928c0f\"",
-  "Last-Modified": "Wed, 30 Sep 2026 00:14:50 GMT",
+  "ETag": "W/\"fa68dc1cc401498c74afa5552150c731c02537d3353ff5d475c26233f40c31e7\"",
+  "Last-Modified": "Wed, 30 Sep 2026 19:01:34 GMT",
   "base": {
     "repo": {
       "name": "av-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T19:01:33Z",
   "created_at": "2026-09-30T00:14:49Z",
   "draft": false,
   "e_tag": "\"33eaa79491975d82ce0a593b764a971d3bd8a87fb78834f7f3f38141830bbf3f\"",
   "head": {
-    "ref": "19.0.0_he03ed8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/av-feedstock/pull/107",
   "id": 4684084653,
   "labels": [],
-  "last_fetched": "2026-09-30T01:06:30.636937",
+  "last_fetched": "2026-09-30T19:02:51.779315",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T19:01:33Z",
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-09-30T00:16:33Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T19:01:34Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"42c1ad793400a1e36d85b7222016c8a82d94b603af6bb4f7eb810cb63d702050\"",
-  "Last-Modified": "Wed, 30 Sep 2026 07:14:11 GMT",
+  "ETag": "W/\"1c6f2102f48204114160409659f29b3b0d94127aef52e6a7f23fb220701ec0ed\"",
+  "Last-Modified": "Wed, 30 Sep 2026 07:16:33 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-oracle-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T07:16:30Z",
   "created_at": "2026-09-30T06:38:50Z",
   "draft": false,
   "e_tag": "\"1e4f260f282380d0df9a310d367c784eac43a5791bcd35fb9f60449754bdb6b2\"",
   "head": {
-    "ref": "4.7.0_hb73466"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-oracle-feedstock/pull/54",
   "id": 4686844934,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-oracle-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-30T07:16:00.996946",
+  "last_fetched": "2026-09-30T07:18:35.056854",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T07:16:29Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-09-30T07:14:13Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T07:16:33Z"
 }

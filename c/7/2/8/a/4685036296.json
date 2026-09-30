@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ea7895c073ccb452e43f5dba40fc7a73a2dbd190af797f4ee640a92305579e1c\"",
+  "Last-Modified": "Wed, 30 Sep 2026 02:40:33 GMT",
   "base": {
     "repo": {
       "name": "google-auth-oauthlib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T02:40:29Z",
   "created_at": "2026-09-30T02:38:17Z",
   "draft": false,
   "e_tag": "\"f27432025e94d0abdd9ff85edb0408635455cae6a5c8659a815fd2e449380916\"",
   "head": {
-    "ref": "1.5.0_h2ea1c9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-auth-oauthlib-feedstock/pull/47",
   "id": 4685036296,
   "labels": [],
-  "last_fetched": "2026-09-30T02:38:18.651139",
+  "last_fetched": "2026-09-30T02:42:13.385120",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T02:40:29Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-09-30T02:38:17Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T02:40:33Z"
 }

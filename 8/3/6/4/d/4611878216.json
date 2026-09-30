@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"40cfe028743541382d812170f7983227871fb67277487a25cd97bbf790686fbb\"",
-  "Last-Modified": "Wed, 23 Sep 2026 09:25:54 GMT",
+  "ETag": "W/\"e368167adc0312a4e17862d74b4e9ecbc667cdc133ef8841f56bce2ce5e9706e\"",
+  "Last-Modified": "Wed, 30 Sep 2026 10:51:17 GMT",
   "base": {
     "repo": {
       "name": "pyspainmobility-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T10:51:17Z",
   "created_at": "2026-09-23T09:24:14Z",
   "draft": false,
   "e_tag": "\"2ac0888dc19dc30b0effe95c8ba398fc4a39cfa3738ed674194d9a72076a5e87\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/pyspainmobility-feedstock/pull/7",
   "id": 4611878216,
-  "labels": [],
-  "last_fetched": "2026-09-23T09:59:44.811066",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-30T10:51:20.504560",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-23T09:25:54Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T10:51:17Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f603d6008b9c9e2b59d0e90e5483af8bc500c7f4ed04bb6dc8d18fb68bfa39b7\"",
+  "Last-Modified": "Wed, 30 Sep 2026 04:24:52 GMT",
   "base": {
     "repo": {
       "name": "regal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T04:24:48Z",
   "created_at": "2026-09-30T04:18:51Z",
   "draft": false,
   "e_tag": "\"c3fab42e0255b8536fe7c27418a661f069420e10cccd18f38fa5f03aa3daf20f\"",
   "head": {
-    "ref": "0.43.0_hebb759"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/regal-feedstock/pull/26",
   "id": 4685706494,
   "labels": [],
-  "last_fetched": "2026-09-30T04:18:52.034877",
+  "last_fetched": "2026-09-30T04:26:47.567124",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T04:24:48Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-09-30T04:18:51Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T04:24:52Z"
 }

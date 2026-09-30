@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b3ae8deb9345a5c49fd3d68d40f1bf3f54ace0a48298d63b302646d3daeb1bff\"",
-  "Last-Modified": "Fri, 25 Sep 2026 01:52:02 GMT",
+  "ETag": "W/\"df05ef460c0771946f381b5332a863ec78bb17ccb7ac54a570d31b4895efa7be\"",
+  "Last-Modified": "Wed, 30 Sep 2026 18:46:56 GMT",
   "base": {
     "repo": {
       "name": "tvb-gdist-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T18:46:56Z",
   "created_at": "2026-09-25T01:50:31Z",
   "draft": false,
   "e_tag": "\"77e05698d22895e385b4b3de007cff8f4a552192bbb1cc7a98995d384260203f\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hef0c2b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tvb-gdist-feedstock/pull/32",
   "id": 4633070415,
   "labels": [],
-  "last_fetched": "2026-09-25T03:49:15.285484",
+  "last_fetched": "2026-09-30T18:48:39.652641",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T18:46:56Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-09-25T01:52:02Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T18:46:56Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"38ae4e733cc2979325c6da37f2e78205aee4817e4abfe5f54f683619f459a087\"",
-  "Last-Modified": "Wed, 30 Sep 2026 14:02:21 GMT",
+  "ETag": "W/\"868619dd1da0d360e3d4117596b31c6bf1e0c7fd67565846a5f42ba28864a389\"",
+  "Last-Modified": "Wed, 30 Sep 2026 14:02:48 GMT",
   "base": {
     "repo": {
       "name": "pylint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T14:02:44Z",
   "created_at": "2026-09-30T05:27:01Z",
   "draft": false,
   "e_tag": "\"ffe08d12394df4e03385eaad9879a54a570c2a11952ee11b37df4e1f5548342e\"",
   "head": {
-    "ref": "4.1.1_heeeb4f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylint-feedstock/pull/162",
   "id": 4686234469,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/pylint-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-30T14:02:31.197262",
+  "last_fetched": "2026-09-30T14:04:31.683594",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T14:02:44Z",
   "number": 162,
-  "state": "open",
-  "updated_at": "2026-09-30T14:02:21Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T14:02:48Z"
 }

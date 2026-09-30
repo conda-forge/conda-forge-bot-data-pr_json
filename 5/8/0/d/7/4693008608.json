@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"4232f297a64c4a790a6129ba4bde1abc7e5684661478d7fc898ff18a8c5b6dbe\"",
+  "Last-Modified": "Wed, 30 Sep 2026 16:49:20 GMT",
   "base": {
     "repo": {
       "name": "pytrunc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T16:49:20Z",
   "created_at": "2026-09-30T16:09:17Z",
   "draft": false,
   "e_tag": "\"190929d83354633a22cc18080705b9b9e95b98f092e61ecad1a3aae2237b333a\"",
   "head": {
-    "ref": "2.1.0_hc22e13"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytrunc-feedstock/pull/5",
   "id": 4693008608,
   "labels": [],
-  "last_fetched": "2026-09-30T16:09:17.900607",
+  "last_fetched": "2026-09-30T16:51:05.266077",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T16:49:19Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-09-30T16:09:17Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T16:49:20Z"
 }

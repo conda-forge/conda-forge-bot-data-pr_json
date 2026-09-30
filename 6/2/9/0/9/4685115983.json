@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9b1d60796da66c48ca9bf72661d280c773209bb41b3c5abce4b69b3017877cf4\"",
+  "Last-Modified": "Wed, 30 Sep 2026 02:51:44 GMT",
   "base": {
     "repo": {
       "name": "mypy_boto3_ec2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T02:51:40Z",
   "created_at": "2026-09-30T02:49:26Z",
   "draft": false,
   "e_tag": "\"92f50cfb7b2fb9f254fcbf82e437a183c1f09930fbcf2782c6060aea0eb73b8f\"",
   "head": {
-    "ref": "1.43.105_hfe4ff3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mypy_boto3_ec2-feedstock/pull/500",
   "id": 4685115983,
   "labels": [],
-  "last_fetched": "2026-09-30T02:49:27.534122",
+  "last_fetched": "2026-09-30T02:54:03.037685",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T02:51:40Z",
   "number": 500,
-  "state": "open",
-  "updated_at": "2026-09-30T02:49:26Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T02:51:44Z"
 }

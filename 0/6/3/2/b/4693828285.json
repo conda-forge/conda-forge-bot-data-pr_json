@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"28fd91bf94e0e0ae8d5f59b516d6c6a1075bbdab2da3ab782b2d4560c500cff3\"",
+  "Last-Modified": "Wed, 30 Sep 2026 17:42:47 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-logicmonitor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T17:42:43Z",
   "created_at": "2026-09-30T17:28:28Z",
   "draft": false,
   "e_tag": "\"c13f30193fbc1d317bb8469b8533becaa56ccb586c4b50665fd748a3e83d66ad\"",
   "head": {
-    "ref": "2.1.6_h86e3ed"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-logicmonitor-feedstock/pull/41",
   "id": 4693828285,
   "labels": [],
-  "last_fetched": "2026-09-30T17:28:29.663364",
+  "last_fetched": "2026-09-30T17:44:07.127115",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T17:42:43Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-09-30T17:28:28Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T17:42:47Z"
 }

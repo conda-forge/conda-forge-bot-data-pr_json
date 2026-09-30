@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"05c9a755172688605b0041b8883146948cc4f4a92e9227ccbf2fd028c4e75807\"",
-  "Last-Modified": "Tue, 29 Sep 2026 23:37:40 GMT",
+  "ETag": "W/\"8ddc76295532a652e4ac5e448a06470f855a6f2c9b525eec8f3ca6b781aa2399\"",
+  "Last-Modified": "Wed, 30 Sep 2026 07:15:16 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-storage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T07:15:16Z",
   "created_at": "2026-09-29T23:36:02Z",
   "draft": false,
   "e_tag": "\"8c3779616bbab2d1a60ce046222216bd82c702f9583fba99f21a4120b3c35638\"",
   "head": {
-    "ref": "3.15.1_hf8483c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-storage-feedstock/pull/117",
   "id": 4683830590,
   "labels": [],
-  "last_fetched": "2026-09-30T01:44:33.829437",
+  "last_fetched": "2026-09-30T07:16:46.007100",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T07:15:16Z",
   "number": 117,
-  "state": "open",
-  "updated_at": "2026-09-29T23:37:40Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T07:15:16Z"
 }

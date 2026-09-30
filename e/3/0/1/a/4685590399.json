@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"cd0187174bd8316544de127e2ff900673521224dd0b24a32e40f3782b3a6c520\"",
-  "Last-Modified": "Wed, 30 Sep 2026 04:04:10 GMT",
+  "ETag": "W/\"569ee916e088405ca57b393695b97e0698c6d21681adcd46d858904333c38198\"",
+  "Last-Modified": "Wed, 30 Sep 2026 11:42:34 GMT",
   "base": {
     "repo": {
       "name": "nd2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T11:42:34Z",
   "created_at": "2026-09-30T04:02:42Z",
   "draft": false,
   "e_tag": "\"1b5867bf0acd4a7f0d96730c39cfef9af69f423b2859e6d1faf1c9f40cbc565c\"",
   "head": {
-    "ref": "0.12.0_h970b2e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nd2-feedstock/pull/40",
   "id": 4685590399,
   "labels": [],
-  "last_fetched": "2026-09-30T09:52:44.457052",
+  "last_fetched": "2026-09-30T11:44:10.388099",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T11:42:33Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-09-30T04:04:10Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T11:42:34Z"
 }

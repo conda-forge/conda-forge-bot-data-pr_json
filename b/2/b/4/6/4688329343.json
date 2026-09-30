@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"048b8c578c908d3c81a0f0661dc69d307ca93ab706168bbca94932327af0f1f8\"",
+  "Last-Modified": "Wed, 30 Sep 2026 09:08:18 GMT",
   "base": {
     "repo": {
       "name": "bicycleparameters-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T09:08:18Z",
   "created_at": "2026-09-30T09:00:24Z",
   "draft": false,
   "e_tag": "\"81d7b8078c4d82c93351d69588c075d3cf0b932e7a4396a6817426c5ab29494e\"",
   "head": {
-    "ref": "1.5.1_h94229b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bicycleparameters-feedstock/pull/9",
   "id": 4688329343,
   "labels": [],
-  "last_fetched": "2026-09-30T09:00:25.155869",
+  "last_fetched": "2026-09-30T09:10:12.254298",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T09:08:18Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-09-30T09:00:24Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T09:08:18Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"7a83c2fc03a074a59ffa925867f3e189e17dbf0b2d76af890a3c2a4e953b8496\"",
-  "Last-Modified": "Wed, 30 Sep 2026 07:45:21 GMT",
+  "ETag": "W/\"0efe321649a3b16748f287b81ab8e1fd4693ba216d0383213ac67187df6be4be\"",
+  "Last-Modified": "Wed, 30 Sep 2026 07:45:19 GMT",
   "base": {
     "repo": {
       "name": "gtsam-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/gtsam-feedstock/pull/45",
   "id": 4606089155,
-  "labels": [],
-  "last_fetched": "2026-09-30T07:46:59.186377",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-30T07:45:21.928446",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 45,
   "state": "closed",
-  "updated_at": "2026-09-30T07:45:21Z"
+  "updated_at": "2026-09-30T07:45:19Z"
 }

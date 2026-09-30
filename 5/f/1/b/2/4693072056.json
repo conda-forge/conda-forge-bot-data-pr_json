@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f1e5592d4b1098ce81ad1723dc1d00fc4c056ce107ef466006d3f7bb1bbd645d\"",
+  "Last-Modified": "Wed, 30 Sep 2026 16:25:10 GMT",
   "base": {
     "repo": {
       "name": "dua-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T16:25:06Z",
   "created_at": "2026-09-30T16:15:23Z",
   "draft": false,
   "e_tag": "\"88ae9e2ba6745ccdd0360611374bc6c54111c8c244c6ec2471439dfcf704100f\"",
   "head": {
-    "ref": "2.45.1_h17da61"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dua-cli-feedstock/pull/18",
   "id": 4693072056,
   "labels": [],
-  "last_fetched": "2026-09-30T16:15:24.422739",
+  "last_fetched": "2026-09-30T16:28:01.616573",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T16:25:06Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-09-30T16:15:23Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T16:25:10Z"
 }

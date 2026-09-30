@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"41c4d9fe7bd1f54da2f5b3c5f283ce8717d80e93ac814157bd77e9d61ea4c953\"",
-  "Last-Modified": "Wed, 30 Sep 2026 07:12:56 GMT",
+  "ETag": "W/\"4182a4310d163c24bb341438ea5c4c032cc303ee47cc419c5305ee52ff948b1e\"",
+  "Last-Modified": "Wed, 30 Sep 2026 07:15:15 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T07:15:12Z",
   "created_at": "2026-09-30T00:21:27Z",
   "draft": false,
   "e_tag": "\"407ee50d38edda67b9f1b3f7874c02b61f2996743116985a0b257f9bf5aeae0f\"",
   "head": {
-    "ref": "2.8.0_h9d70dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-core-feedstock/pull/53",
   "id": 4684126370,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-core-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-30T07:14:41.223564",
+  "last_fetched": "2026-09-30T07:17:10.391667",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T07:15:12Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-09-30T07:12:56Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T07:15:15Z"
 }

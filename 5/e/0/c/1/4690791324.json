@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1ddde4df98aa0356a44dc70e3a190d5011ce45a28195bd6e36116b69883f09c3\"",
+  "Last-Modified": "Wed, 30 Sep 2026 13:45:57 GMT",
   "base": {
     "repo": {
       "name": "sfepy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T13:45:57Z",
   "created_at": "2026-09-30T13:00:16Z",
   "draft": false,
   "e_tag": "\"801390ded2d4ffd2d17d7bbda034bb7ebe7c49d7292c351610af87d3c40c49a9\"",
   "head": {
-    "ref": "bot-pr_arm_osx_ha344eb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sfepy-feedstock/pull/80",
   "id": 4690791324,
   "labels": [],
-  "last_fetched": "2026-09-30T13:00:17.375813",
+  "last_fetched": "2026-09-30T13:47:57.000228",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T13:45:57Z",
   "number": 80,
-  "state": "open",
-  "updated_at": "2026-09-30T13:00:16Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T13:45:57Z"
 }

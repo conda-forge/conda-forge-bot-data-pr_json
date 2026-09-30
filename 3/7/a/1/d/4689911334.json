@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e00f4888bd525c46c600d69f5d912bc8c395cc6542aa4502b270f9ecb485d435\"",
+  "Last-Modified": "Wed, 30 Sep 2026 11:39:16 GMT",
   "base": {
     "repo": {
       "name": "gpyreg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T11:39:12Z",
   "created_at": "2026-09-30T11:35:20Z",
   "draft": false,
   "e_tag": "\"5f3318a6c1b41f59b255f0392f7aef37b517fb9ac1436674aff3bba1258373d3\"",
   "head": {
-    "ref": "1.4.0_hcc10c7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gpyreg-feedstock/pull/13",
   "id": 4689911334,
   "labels": [],
-  "last_fetched": "2026-09-30T11:35:21.447601",
+  "last_fetched": "2026-09-30T11:40:28.225723",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T11:39:12Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-09-30T11:35:20Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T11:39:16Z"
 }

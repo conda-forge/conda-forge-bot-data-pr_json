@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"909d090a5cf0d0d55597f048ded66fde07b1acc94a10a21203e8a8ca13e0e032\"",
-  "Last-Modified": "Tue, 29 Sep 2026 06:54:32 GMT",
+  "ETag": "W/\"fece93e9f71e0a22db9e74c30ef504a1d4e6e4705dcc00ee21894452830a4b69\"",
+  "Last-Modified": "Wed, 30 Sep 2026 17:00:18 GMT",
   "base": {
     "repo": {
       "name": "aiomoto-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T17:00:18Z",
   "created_at": "2026-09-29T06:52:57Z",
   "draft": false,
   "e_tag": "\"323ab3df07697f18740d0e85e4982ffa02a46a07f11ca2173b8f692ce1e87fe4\"",
   "head": {
-    "ref": "0.5.5_h24f84d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aiomoto-feedstock/pull/7",
   "id": 4673665312,
   "labels": [],
-  "last_fetched": "2026-09-29T11:00:59.426668",
+  "last_fetched": "2026-09-30T17:02:08.364598",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T17:00:18Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-29T06:54:32Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T17:00:18Z"
 }

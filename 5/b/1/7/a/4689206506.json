@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"85606e2555639d5901ad44ef37c5eeeb5e4c0f3888348a6c6cf534b7cbab3a28\"",
-  "Last-Modified": "Wed, 30 Sep 2026 10:24:06 GMT",
+  "ETag": "W/\"e531de1dba9648f988fd6b9a3670e0406de34312cc7ebaf5e6ee9901d998baaa\"",
+  "Last-Modified": "Wed, 30 Sep 2026 18:12:58 GMT",
   "base": {
     "repo": {
       "name": "rubicon-objc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T18:12:58Z",
   "created_at": "2026-09-30T10:22:26Z",
   "draft": false,
   "e_tag": "\"0f9616bd75e4554e044d29ebf2d59183a41e67d907a78d702bc2425187e3f19e\"",
   "head": {
-    "ref": "0.5.7_he7503d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rubicon-objc-feedstock/pull/18",
   "id": 4689206506,
   "labels": [],
-  "last_fetched": "2026-09-30T11:59:54.624419",
+  "last_fetched": "2026-09-30T18:14:38.139107",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T18:12:58Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-09-30T10:24:06Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T18:12:58Z"
 }

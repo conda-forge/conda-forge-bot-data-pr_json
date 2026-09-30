@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"ec54689e920bd542a547809bea2d0776aaa5d809733aed16c8014a3331a80e26\"",
-  "Last-Modified": "Tue, 29 Sep 2026 04:32:28 GMT",
+  "ETag": "W/\"08091a9885122af754e7ec36d43b6d3be29acb34070a6c4180f2e9128bc6cc69\"",
+  "Last-Modified": "Wed, 30 Sep 2026 14:41:32 GMT",
   "base": {
     "repo": {
       "name": "lightning-uq-box-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T14:41:32Z",
   "created_at": "2026-09-29T04:30:40Z",
   "draft": false,
   "e_tag": "\"a9f34ec92aea909b9e66a09066c078b04a142bda89b602e59c2719c0363bb5ed\"",
   "head": {
-    "ref": "0.4.0_h70f35f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lightning-uq-box-feedstock/pull/4",
   "id": 4672553734,
   "labels": [],
-  "last_fetched": "2026-09-29T04:52:05.235832",
+  "last_fetched": "2026-09-30T14:42:46.402695",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T14:41:32Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-09-29T04:32:28Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T14:41:32Z"
 }

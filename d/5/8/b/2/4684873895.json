@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"01bb94d9c6dba80d971f68d5f3f3dba246b0ad8e6a1a68eac040b1f67c6bf118\"",
-  "Last-Modified": "Wed, 30 Sep 2026 02:16:15 GMT",
+  "ETag": "W/\"dd1a1a4189a225418f79e17baa40215b3c1f331002e108dec6135c656a116921\"",
+  "Last-Modified": "Wed, 30 Sep 2026 06:31:46 GMT",
   "base": {
     "repo": {
       "name": "class-resolver-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T06:31:46Z",
   "created_at": "2026-09-30T02:14:29Z",
   "draft": false,
   "e_tag": "\"7daaa7441f7455ea6e5dcf3834d84ed559298e88f251f6f4ed2b154317142529\"",
   "head": {
-    "ref": "0.8.2_hc8dce2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/class-resolver-feedstock/pull/8",
   "id": 4684873895,
   "labels": [],
-  "last_fetched": "2026-09-30T02:49:19.124738",
+  "last_fetched": "2026-09-30T06:34:09.190819",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T06:31:46Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-30T02:16:15Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T06:31:46Z"
 }

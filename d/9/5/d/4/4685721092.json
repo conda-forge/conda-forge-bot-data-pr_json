@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d4ca2ac6e398d88c62d371f224fa57a4bd88c875dca7ce77c9c2298d60007aee\"",
+  "Last-Modified": "Wed, 30 Sep 2026 04:22:54 GMT",
   "base": {
     "repo": {
       "name": "tomviz-pipeline-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T04:22:54Z",
   "created_at": "2026-09-30T04:20:29Z",
   "draft": false,
   "e_tag": "\"cc39633a0c959ba9fbb8d7cdce7457b531403eb5bee181b125f89c677efd2d33\"",
   "head": {
-    "ref": "3.1.8_h7d035d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tomviz-pipeline-feedstock/pull/7",
   "id": 4685721092,
   "labels": [],
-  "last_fetched": "2026-09-30T04:20:30.777473",
+  "last_fetched": "2026-09-30T04:25:09.324143",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T04:22:53Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-30T04:20:29Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T04:22:58Z"
 }

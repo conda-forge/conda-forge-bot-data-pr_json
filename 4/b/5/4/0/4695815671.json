@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"2e9250ef2e354b707892adbcb208cd6d35a8b728eb8eae7b6e73a831446dff54\"",
+  "Last-Modified": "Wed, 30 Sep 2026 20:48:43 GMT",
   "base": {
     "repo": {
       "name": "datadog-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T20:48:38Z",
   "created_at": "2026-09-30T20:44:52Z",
   "draft": false,
   "e_tag": "\"fed2d657450a2242825c43177c1e2b0197e4108574409a9c43e280b7884a38bc\"",
   "head": {
-    "ref": "0.55.0_hae91b8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/datadog-feedstock/pull/53",
   "id": 4695815671,
   "labels": [],
-  "last_fetched": "2026-09-30T20:44:53.218564",
+  "last_fetched": "2026-09-30T20:50:17.075615",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T20:48:38Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-09-30T20:44:52Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T20:48:43Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"655c085138231da9c76b5523bad652aa904a2d90f9c8841bc11ee493ae714706\"",
-  "Last-Modified": "Wed, 30 Sep 2026 16:22:50 GMT",
+  "ETag": "W/\"0d672975b6ad84665172ac31ae6d7ea970f8c0dab2e0a4c1f2faeeb17d094ebd\"",
+  "Last-Modified": "Wed, 30 Sep 2026 16:56:08 GMT",
   "base": {
     "repo": {
       "name": "nono-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T16:56:07Z",
   "created_at": "2026-09-30T16:20:59Z",
   "draft": false,
   "e_tag": "\"5d73f797c8c553186b53f0fb507940dc912a2504053f2ca3072e88e7f1f368fa\"",
   "head": {
-    "ref": "0.79.0_hca445e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nono-feedstock/pull/95",
   "id": 4693133563,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/nono-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-09-30T16:24:43.435557",
+  "last_fetched": "2026-09-30T16:57:53.234869",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T16:56:07Z",
   "number": 95,
-  "state": "open",
-  "updated_at": "2026-09-30T16:22:50Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T16:56:12Z"
 }

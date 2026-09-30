@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"4b64188756f0621de59397248b3d34f50c90447073340373eb604a9f543221b6\"",
+  "Last-Modified": "Wed, 30 Sep 2026 00:39:12 GMT",
   "base": {
     "repo": {
       "name": "ligo-gracedb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T00:39:12Z",
   "created_at": "2026-09-30T00:33:44Z",
   "draft": false,
   "e_tag": "\"eea51555d9d628399702b7a7818658ca4e352c8de0e1fa313532b0421e62206c\"",
   "head": {
-    "ref": "2.16.1_h789530"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ligo-gracedb-feedstock/pull/48",
   "id": 4684207373,
   "labels": [],
-  "last_fetched": "2026-09-30T00:33:44.843700",
+  "last_fetched": "2026-09-30T00:40:29.464696",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T00:39:12Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-09-30T00:33:44Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T00:39:12Z"
 }

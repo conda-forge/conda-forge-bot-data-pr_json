@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"d342095bada54e76ee9f61d6d91a437ea5edd12a8be3ba983204de90e97e8e4b\"",
-  "Last-Modified": "Sun, 06 Sep 2026 08:47:48 GMT",
+  "ETag": "W/\"61b09dacba86f48b0b45adca5e2534189ca23fe58a7cd227e5ee3714e50fe951\"",
+  "Last-Modified": "Wed, 30 Sep 2026 21:49:21 GMT",
   "base": {
     "repo": {
       "name": "libm2k-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/libm2k-feedstock/pull/35",
   "id": 4455346166,
-  "labels": [],
-  "last_fetched": "2026-09-27T17:21:30.470581",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2420297807,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNDIwMjk3ODA3",
+      "url": "https://api.github.com/repos/conda-forge/libm2k-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-30T21:52:12.746765",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 35,
   "state": "open",
-  "updated_at": "2026-09-06T08:47:48Z"
+  "updated_at": "2026-09-30T21:49:21Z"
 }

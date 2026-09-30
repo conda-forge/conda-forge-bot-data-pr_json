@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e78eec0112e0c2652a03dc7060b435de61112f7d5f1b03806ef05406906ff2b9\"",
-  "Last-Modified": "Wed, 30 Sep 2026 06:06:40 GMT",
+  "ETag": "W/\"98375278c612b3db835387c9affc248a23585f0d93960026e4c3616fc1c70028\"",
+  "Last-Modified": "Wed, 30 Sep 2026 17:43:33 GMT",
   "base": {
     "repo": {
       "name": "opencosmo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T17:43:33Z",
   "created_at": "2026-09-30T06:04:59Z",
   "draft": false,
   "e_tag": "\"869a99843396e9e1e9cdfe2ee710947092f18b8181bc63a069d895e4713d12e2\"",
   "head": {
-    "ref": "1.4.3_h2c5a50"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opencosmo-feedstock/pull/43",
   "id": 4686537512,
   "labels": [],
-  "last_fetched": "2026-09-30T07:10:38.556924",
+  "last_fetched": "2026-09-30T17:44:47.164112",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T17:43:33Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-09-30T06:06:40Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T17:43:33Z"
 }

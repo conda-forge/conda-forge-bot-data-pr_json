@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"2771caf4d5442d9015cc29c297de46de4f458483b814574d074d6d9ce2936bd0\"",
+  "Last-Modified": "Wed, 30 Sep 2026 07:18:21 GMT",
   "base": {
     "repo": {
       "name": "google-api-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T07:18:20Z",
   "created_at": "2026-09-30T01:14:52Z",
   "draft": false,
   "e_tag": "\"1214d813fcd46428eb2f7d116c32e302c6b2be089f15d453a5f5a0972dc54f10\"",
   "head": {
-    "ref": "2.40.0_h325871"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-api-core-feedstock/pull/152",
   "id": 4684470426,
   "labels": [],
-  "last_fetched": "2026-09-30T01:14:53.315684",
+  "last_fetched": "2026-09-30T07:19:59.511286",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T07:18:20Z",
   "number": 152,
-  "state": "open",
-  "updated_at": "2026-09-30T01:14:52Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T07:18:21Z"
 }

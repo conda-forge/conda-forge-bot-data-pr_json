@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"958fdc84559025ebb808c249505c1cb439c94e6485de731d93210d68885b4b4d\"",
-  "Last-Modified": "Tue, 29 Sep 2026 09:57:28 GMT",
+  "ETag": "W/\"9dd68de11de5b33f8a7195fe448bbcfebc951ade0ef21868f5a4a9d2806f5397\"",
+  "Last-Modified": "Wed, 30 Sep 2026 06:32:41 GMT",
   "base": {
     "repo": {
       "name": "peft-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T06:32:41Z",
   "created_at": "2026-09-29T09:55:52Z",
   "draft": false,
   "e_tag": "\"10cbf7ba24ea3a04acb62eb33ec8ee0bf89e553f01286cfac1e99a7efac5366d\"",
   "head": {
-    "ref": "0.21.1_ha59874"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/peft-feedstock/pull/37",
   "id": 4675542251,
   "labels": [],
-  "last_fetched": "2026-09-29T10:01:18.957664",
+  "last_fetched": "2026-09-30T06:33:51.778713",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T06:32:41Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-09-29T09:57:28Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T06:32:41Z"
 }

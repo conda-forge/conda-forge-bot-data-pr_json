@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"6aa9c578ae861b2f226b7613d619ce62010baf480ceea9bcea467d364a999ce4\"",
-  "Last-Modified": "Tue, 29 Sep 2026 00:01:56 GMT",
+  "ETag": "W/\"b66f55e12149ad776f95fa45382e5927612621ea1d32bb5cbdca673ccc063066\"",
+  "Last-Modified": "Wed, 30 Sep 2026 06:52:54 GMT",
   "base": {
     "repo": {
       "name": "mujoco-usd-converter-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/mujoco-usd-converter-feedstock/pull/7",
   "id": 4670741745,
-  "labels": [],
-  "last_fetched": "2026-09-29T03:31:33.173150",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10503155114,
+      "name": "automerge",
+      "node_id": "LA_kwDORu4XhM8AAAACcgltqg",
+      "url": "https://api.github.com/repos/conda-forge/mujoco-usd-converter-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-09-30T06:53:00.926498",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 7,
   "state": "open",
-  "updated_at": "2026-09-29T00:01:56Z"
+  "updated_at": "2026-09-30T06:52:54Z"
 }

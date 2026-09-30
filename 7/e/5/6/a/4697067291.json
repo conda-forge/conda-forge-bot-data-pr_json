@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"0eb6b61bb6a0370ee71e1f446c37da06d9d4c9c2d503dbf0a8b57f7824eb178c\"",
+  "Last-Modified": "Wed, 30 Sep 2026 23:19:41 GMT",
   "base": {
     "repo": {
       "name": "pyflakes-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T23:19:37Z",
   "created_at": "2026-09-30T23:16:34Z",
   "draft": false,
   "e_tag": "\"0518f86ec6927d810c5f5c239aab0fcb63d50e81779e29f8b9facf3a5d230b9b\"",
   "head": {
-    "ref": "4.0.1_h8306e0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyflakes-feedstock/pull/35",
   "id": 4697067291,
   "labels": [],
-  "last_fetched": "2026-09-30T23:16:35.239633",
+  "last_fetched": "2026-09-30T23:21:12.389583",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T23:19:37Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-09-30T23:16:34Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T23:19:41Z"
 }

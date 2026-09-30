@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"10a356423e134116c0cb59ac7a0b5bc121953260d63d72c01e57156edac6b373\"",
-  "Last-Modified": "Mon, 28 Sep 2026 23:33:46 GMT",
+  "ETag": "W/\"51ac2926f236e30c96f70e86183144dc2441fa829e7e68f29c1e655ee421da12\"",
+  "Last-Modified": "Wed, 30 Sep 2026 04:01:20 GMT",
   "base": {
     "repo": {
       "name": "qgis-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T04:01:20Z",
   "created_at": "2026-09-20T09:14:24Z",
   "draft": false,
   "e_tag": "\"14b90bf220cfffcddef38f397546f9c77d21e0a6b2a9a23e82305e34d42a0868\"",
   "head": {
-    "ref": "rebuild-proj99-0-1_h3b8318"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qgis-feedstock/pull/618",
   "id": 4583267622,
   "labels": [],
-  "last_fetched": "2026-09-29T03:53:40.208944",
+  "last_fetched": "2026-09-30T04:03:08.426448",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T04:01:20Z",
   "number": 618,
-  "state": "open",
-  "updated_at": "2026-09-28T23:33:46Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T04:01:20Z"
 }

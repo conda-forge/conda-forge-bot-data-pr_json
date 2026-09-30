@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b2cb02f6c63d7cc09fdf47a3cf38697ae56f60790866ef7678439f019a1e907c\"",
+  "Last-Modified": "Wed, 30 Sep 2026 06:43:29 GMT",
   "base": {
     "repo": {
       "name": "ndonnx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T06:43:26Z",
   "created_at": "2026-09-30T06:41:14Z",
   "draft": false,
   "e_tag": "\"d1bd55ea66a4f883e6507eb272a45ef8805a61455555b454807a8a8feb209e51\"",
   "head": {
-    "ref": "0.23.0_hefd686"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ndonnx-feedstock/pull/37",
   "id": 4686867241,
   "labels": [],
-  "last_fetched": "2026-09-30T06:41:14.958081",
+  "last_fetched": "2026-09-30T06:45:20.365408",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T06:43:25Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-09-30T06:41:14Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T06:43:29Z"
 }

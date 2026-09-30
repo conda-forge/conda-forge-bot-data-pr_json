@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"9ba3e2c3efc835acfdfb05b80f1062f87001412f003435dc875c4de5c92efcb4\"",
-  "Last-Modified": "Wed, 30 Sep 2026 00:33:45 GMT",
+  "ETag": "W/\"48efc1ec130a246af893bb229de0629c58ea04cf96ba8f04e63d51beee8757db\"",
+  "Last-Modified": "Wed, 30 Sep 2026 14:20:11 GMT",
   "base": {
     "repo": {
       "name": "sarkit-assurance-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T14:20:11Z",
   "created_at": "2026-09-30T00:31:44Z",
   "draft": false,
   "e_tag": "\"b5397d15688dec0c70d7bd2926a62bc2d42243367dadbbcbb6d94a93eeff0f1b\"",
   "head": {
-    "ref": "0.5.1_h61a0a2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sarkit-assurance-feedstock/pull/8",
   "id": 4684195335,
   "labels": [],
-  "last_fetched": "2026-09-30T03:53:28.140029",
+  "last_fetched": "2026-09-30T14:22:05.842430",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T14:20:11Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-30T00:33:45Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T14:20:11Z"
 }

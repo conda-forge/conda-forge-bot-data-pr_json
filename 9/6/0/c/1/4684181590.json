@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"753d27273120b6426f5ba9306c68da57ef60f0c5eb0106ec4ce1dff5a347e47a\"",
+  "Last-Modified": "Wed, 30 Sep 2026 00:54:09 GMT",
   "base": {
     "repo": {
       "name": "llguidance-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T00:54:06Z",
   "created_at": "2026-09-30T00:29:34Z",
   "draft": false,
   "e_tag": "\"35980525042dacf54923171559677a12b8605eb5fd1408502dec8a2b7f7e3ccf\"",
   "head": {
-    "ref": "1.9.0_hf24b8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/llguidance-feedstock/pull/36",
   "id": 4684181590,
   "labels": [],
-  "last_fetched": "2026-09-30T00:29:35.679999",
+  "last_fetched": "2026-09-30T00:55:29.098602",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T00:54:06Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-09-30T00:29:34Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T00:54:09Z"
 }

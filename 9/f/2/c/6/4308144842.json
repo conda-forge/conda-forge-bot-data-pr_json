@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"7275fb99a18ec0f87b9ca2c364d5cea94e2cd0d21ffabed50fc65b35bf7e92d1\"",
-  "Last-Modified": "Wed, 30 Sep 2026 09:51:40 GMT",
+  "ETag": "W/\"ee4a19bcaab11f1405ccfd6d6bb34f194fe48e32ce03e035a81b7aab5070d64c\"",
+  "Last-Modified": "Wed, 30 Sep 2026 09:51:37 GMT",
   "base": {
     "repo": {
       "name": "light-curve-python-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/light-curve-python-feedstock/pull/32",
   "id": 4308144842,
-  "labels": [],
-  "last_fetched": "2026-09-30T09:52:50.628563",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-30T09:51:40.250068",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 32,
   "state": "closed",
-  "updated_at": "2026-09-30T09:51:40Z"
+  "updated_at": "2026-09-30T09:51:37Z"
 }

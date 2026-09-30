@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"2e479b6d9f3361c4cdda19678cc0b2f39689dbd65679d95760a5a41459355658\"",
-  "Last-Modified": "Wed, 30 Sep 2026 10:46:07 GMT",
+  "ETag": "W/\"8fc1bf93de096579e9324dd5edb3e40edbff2e48a395ed018e3b20fe924dc8b2\"",
+  "Last-Modified": "Wed, 30 Sep 2026 13:57:13 GMT",
   "base": {
     "repo": {
       "name": "zensical-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T13:57:13Z",
   "created_at": "2026-09-30T10:21:12Z",
   "draft": false,
   "e_tag": "\"99e191c7d73125052ffbf2ba03d286bb48ff4cc240477be250d90a869c779ceb\"",
   "head": {
-    "ref": "0.0.67_hbf1285"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zensical-feedstock/pull/70",
   "id": 4689194212,
   "labels": [],
-  "last_fetched": "2026-09-30T12:02:17.385653",
+  "last_fetched": "2026-09-30T13:59:47.428124",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T13:57:13Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-09-30T10:46:07Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T13:57:13Z"
 }

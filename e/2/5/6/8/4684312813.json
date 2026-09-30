@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"48045fa9db58dca1d75e10b36796327ef1914256ee9a7ca2b02a1cfdc9e32e35\"",
+  "Last-Modified": "Wed, 30 Sep 2026 00:54:19 GMT",
   "base": {
     "repo": {
       "name": "flufl.lock-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T00:54:14Z",
   "created_at": "2026-09-30T00:50:24Z",
   "draft": false,
   "e_tag": "\"50b897777ae8ecbcc73293751f2ab570f15a9c5c135d4ce10a64c478e6b625a1\"",
   "head": {
-    "ref": "9.2.0_h995391"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flufl.lock-feedstock/pull/20",
   "id": 4684312813,
   "labels": [],
-  "last_fetched": "2026-09-30T00:50:25.403980",
+  "last_fetched": "2026-09-30T00:55:30.865272",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-09-30T00:54:14Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-09-30T00:50:24Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T00:54:19Z"
 }

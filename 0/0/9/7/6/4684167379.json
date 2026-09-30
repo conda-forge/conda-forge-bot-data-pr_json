@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"7c65c021688b2aa56e6fedada49b44c2a804236a43f5552bb170a03c3c6ffc72\"",
-  "Last-Modified": "Wed, 30 Sep 2026 00:29:10 GMT",
+  "ETag": "W/\"cb3a836d9b24abd6c894a439d9f2b9b4c596b3a0b9ce27b43c8dea09dbf2afae\"",
+  "Last-Modified": "Wed, 30 Sep 2026 17:29:15 GMT",
   "base": {
     "repo": {
       "name": "gwframe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T17:29:15Z",
   "created_at": "2026-09-30T00:27:26Z",
   "draft": false,
   "e_tag": "\"be15c71167f3fd654bb66a74d244604fac2a214b816b215a74153c76769bf40a\"",
   "head": {
-    "ref": "0.8.3_h6bd7d8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gwframe-feedstock/pull/26",
   "id": 4684167379,
   "labels": [],
-  "last_fetched": "2026-09-30T03:04:36.030521",
+  "last_fetched": "2026-09-30T17:30:27.314700",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T17:29:15Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-09-30T00:29:10Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T17:29:15Z"
 }

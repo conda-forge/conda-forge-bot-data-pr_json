@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"bf08037bb10cd56c780d6391f9e1b0f6da5268bb0c38a32be7242762b8e38984\"",
-  "Last-Modified": "Wed, 30 Sep 2026 19:51:12 GMT",
+  "ETag": "W/\"6d28faddc6fff75372ef8e01f3a9e966c9ae4363b5d48ebc2288b74fabc797a3\"",
+  "Last-Modified": "Wed, 30 Sep 2026 21:12:02 GMT",
   "base": {
     "repo": {
       "name": "hamlib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T21:12:01Z",
   "created_at": "2026-09-06T05:24:23Z",
   "draft": false,
   "e_tag": "\"82ad4f28fdd8a1d5255df485781e68478bd4b211b47ff3e2f2171820b5e5a852\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h1308a2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hamlib-feedstock/pull/26",
   "id": 4454686856,
   "labels": [],
-  "last_fetched": "2026-09-30T20:29:45.438510",
+  "last_fetched": "2026-09-30T21:13:27.339806",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-09-30T21:12:01Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-09-30T19:51:12Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T21:12:02Z"
 }

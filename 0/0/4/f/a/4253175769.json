@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"ba36dda2901c1d34feeb2876527068feb8b2b898a2842ed70f7841cf8f67747c\"",
-  "Last-Modified": "Thu, 13 Aug 2026 22:00:32 GMT",
+  "ETag": "W/\"7f9ec5b5dd24943484e74f50660d031c2172c07c4cca69378a10f54aba5a98d7\"",
+  "Last-Modified": "Wed, 30 Sep 2026 10:52:53 GMT",
   "base": {
     "repo": {
       "name": "sfepy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T10:52:53Z",
   "created_at": "2026-08-11T12:31:29Z",
   "draft": false,
   "e_tag": "\"64d7536d43453bed49b35a5729340135a50aa54db7ed061b0d6545530eddbf95\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/sfepy-feedstock/pull/78",
   "id": 4253175769,
-  "labels": [],
-  "last_fetched": "2026-09-29T16:31:02.063524",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1181132976,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxMTgxMTMyOTc2",
+      "url": "https://api.github.com/repos/conda-forge/sfepy-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-09-30T10:52:55.950823",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 78,
-  "state": "open",
-  "updated_at": "2026-08-13T22:00:32Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T10:52:53Z"
 }

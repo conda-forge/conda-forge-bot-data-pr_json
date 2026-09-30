@@ -1,10 +1,12 @@
 {
+  "ETag": "W/\"8594c9575eb1c78834cb0731fc12df7adb6640b0e2e5ec7a6910bfa22b5f31b8\"",
+  "Last-Modified": "Wed, 30 Sep 2026 07:27:08 GMT",
   "base": {
     "repo": {
       "name": "gbs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-09-30T07:27:08Z",
   "created_at": "2026-09-30T06:35:27Z",
   "draft": false,
   "e_tag": "\"2de976e4a6c69aa3fe26618b4065f2ac8cd3b7c324d8646bf248e4d8e0a34098\"",
@@ -14,13 +16,13 @@
   "html_url": "https://github.com/conda-forge/gbs-feedstock/pull/15",
   "id": 4686812323,
   "labels": [],
-  "last_fetched": "2026-09-30T06:35:28.460932",
+  "last_fetched": "2026-09-30T07:30:01.637202",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-09-30T06:35:27Z"
+  "state": "closed",
+  "updated_at": "2026-09-30T07:27:08Z"
 }

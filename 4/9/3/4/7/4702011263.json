@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e26980986922eb9382a772da0ea918e9d7fa6a0e030bcd672f031c885ebcbbc5\"",
-  "Last-Modified": "Thu, 01 Oct 2026 09:47:12 GMT",
+  "ETag": "W/\"775e32c4883761974eaf634f3cc859e9e244b1295b942d62708d0c99c6c35f56\"",
+  "Last-Modified": "Thu, 01 Oct 2026 10:56:15 GMT",
   "base": {
     "repo": {
       "name": "geoid-toolkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T10:56:15Z",
   "created_at": "2026-10-01T09:45:28Z",
   "draft": false,
   "e_tag": "\"1b0211f7185facafd0f0ef2768b1db0bf0e695b89ba7fea495669c17e72dd306\"",
   "head": {
-    "ref": "1.1.4_h041ba2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geoid-toolkit-feedstock/pull/2",
   "id": 4702011263,
   "labels": [],
-  "last_fetched": "2026-10-01T10:30:37.736072",
+  "last_fetched": "2026-10-01T10:58:27.888057",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T10:56:15Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-01T09:47:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T10:56:15Z"
 }

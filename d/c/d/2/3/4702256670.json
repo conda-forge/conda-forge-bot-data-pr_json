@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"0958c4dfb3d790d5e594f7829ac58df5c07ed50884580e6488d7fcf10e99b380\"",
+  "Last-Modified": "Thu, 01 Oct 2026 11:06:06 GMT",
   "base": {
     "repo": {
       "name": "des-desimage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T11:06:06Z",
   "created_at": "2026-10-01T10:10:31Z",
   "draft": false,
   "e_tag": "\"ea73fb98f8e7319e7163e27435671473e526c85d59112b21f62c17ca8cd7f625\"",
   "head": {
-    "ref": "rebuild-python315-0-1_ha76144"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/des-desimage-feedstock/pull/11",
   "id": 4702256670,
   "labels": [],
-  "last_fetched": "2026-10-01T10:10:32.297263",
+  "last_fetched": "2026-10-01T11:07:55.041749",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T11:06:06Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-01T10:10:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T11:06:06Z"
 }

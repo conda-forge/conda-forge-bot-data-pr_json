@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"eed62271a8b2c6ff451306ef4fe19f196f6eed4da235bceb7f692c593535f6cc\"",
+  "Last-Modified": "Thu, 01 Oct 2026 22:07:50 GMT",
   "base": {
     "repo": {
       "name": "claude-agent-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T22:07:46Z",
   "created_at": "2026-10-01T22:05:21Z",
   "draft": false,
   "e_tag": "\"bd3c7bbf0a6d6bfc176c8da20619a0fee8d2ecb182cdcd74f9871916c1cb7014\"",
   "head": {
-    "ref": "0.2.163_hbcbd4d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/claude-agent-sdk-feedstock/pull/126",
   "id": 4710183589,
   "labels": [],
-  "last_fetched": "2026-10-01T22:05:22.756119",
+  "last_fetched": "2026-10-01T22:09:31.511826",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T22:07:46Z",
   "number": 126,
-  "state": "open",
-  "updated_at": "2026-10-01T22:05:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T22:07:50Z"
 }

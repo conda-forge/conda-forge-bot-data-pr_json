@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"5904e75e3f6a79c200e866fede16f1807fdaf9de98d4c054bf1b08747bda9649\"",
-  "Last-Modified": "Wed, 23 Sep 2026 14:41:30 GMT",
+  "ETag": "W/\"74cf7e4f5845b9a938a87f25cff59078dc999235388e60df3104d0426c488394\"",
+  "Last-Modified": "Thu, 01 Oct 2026 00:55:40 GMT",
   "base": {
     "repo": {
       "name": "numba-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T00:55:40Z",
   "created_at": "2026-09-21T22:23:33Z",
   "draft": false,
   "e_tag": "\"953611053b853fd8c05790b40d68aba2abd9b740367e94b82eba388195b16ee1\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/numba-feedstock/pull/205",
   "id": 4596670168,
-  "labels": [],
-  "last_fetched": "2026-09-30T16:31:54.284254",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1682026440,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxNjgyMDI2NDQw",
+      "url": "https://api.github.com/repos/conda-forge/numba-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-01T00:55:42.317910",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 205,
-  "state": "open",
-  "updated_at": "2026-09-23T14:41:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T00:55:40Z"
 }

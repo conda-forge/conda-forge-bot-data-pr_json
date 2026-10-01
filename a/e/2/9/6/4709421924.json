@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"cd521a24df0a5e1adae564fca1d357dd77c0c20d503028b52f7a678d36cccef3\"",
+  "Last-Modified": "Thu, 01 Oct 2026 20:52:39 GMT",
   "base": {
     "repo": {
       "name": "large-image-source-gdal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T20:52:34Z",
   "created_at": "2026-10-01T20:48:15Z",
   "draft": false,
   "e_tag": "\"3fea4603f6c21d07c175684958c7c2d2605885a081710d87327f4a8bb6dd13bc\"",
   "head": {
-    "ref": "1.35.5_h90805b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/large-image-source-gdal-feedstock/pull/119",
   "id": 4709421924,
   "labels": [],
-  "last_fetched": "2026-10-01T20:48:16.126269",
+  "last_fetched": "2026-10-01T20:54:35.084165",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T20:52:34Z",
   "number": 119,
-  "state": "open",
-  "updated_at": "2026-10-01T20:48:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T20:52:39Z"
 }

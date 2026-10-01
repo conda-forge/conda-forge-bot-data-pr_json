@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"ba8568d2dd82bf0f7ed37d3d39a9c6b37012e4c1b64aaa638e92a753e316dfad\"",
-  "Last-Modified": "Thu, 01 Oct 2026 06:23:12 GMT",
+  "ETag": "W/\"5d3154e3b24bcdebe18d11a842630f154f7d5f7c6f584b4639b78270e6819b96\"",
+  "Last-Modified": "Thu, 01 Oct 2026 06:50:39 GMT",
   "base": {
     "repo": {
       "name": "qt-quick3d-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T06:50:36Z",
   "created_at": "2026-09-30T12:53:56Z",
   "draft": false,
   "e_tag": "\"44fced814e2749bc250e7d2a67c4595be2c6bf251861b97c31483d9846705cec\"",
   "head": {
-    "ref": "6.12.0_hc9d0aa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-quick3d-feedstock/pull/41",
   "id": 4690722380,
   "labels": [],
-  "last_fetched": "2026-10-01T06:24:13.719681",
+  "last_fetched": "2026-10-01T06:52:21.564258",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T06:50:36Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-01T06:23:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T06:50:39Z"
 }

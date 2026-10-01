@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"64455658694e10d18aa795791c918b199970ac512b1aa5bf8a477e5bec2dd73d\"",
+  "Last-Modified": "Thu, 01 Oct 2026 15:24:07 GMT",
   "base": {
     "repo": {
       "name": "trivy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T15:24:01Z",
   "created_at": "2026-10-01T15:05:50Z",
   "draft": false,
   "e_tag": "\"d6b061f0e341cec4f25e33fcf2ecc472f3bdbc0c8c38da5ff8bfd87b545565ab\"",
   "head": {
-    "ref": "0.75.0_h1e0408"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trivy-feedstock/pull/40",
   "id": 4705536807,
   "labels": [],
-  "last_fetched": "2026-10-01T15:05:51.606061",
+  "last_fetched": "2026-10-01T15:25:25.136193",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T15:24:00Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-10-01T15:05:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T15:24:07Z"
 }

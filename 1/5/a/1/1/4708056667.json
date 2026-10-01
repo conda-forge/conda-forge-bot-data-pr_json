@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a9614965c4e7945f880ae7769487774079ac01a7647252a58cdaab4facf4c3f9\"",
-  "Last-Modified": "Thu, 01 Oct 2026 18:46:35 GMT",
+  "ETag": "W/\"a03f4f7d2c7ba2ff9edbcb49c8cc9639c132be1f9aacd5c92c7402bb601d2479\"",
+  "Last-Modified": "Thu, 01 Oct 2026 21:35:36 GMT",
   "base": {
     "repo": {
       "name": "stackvana-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T21:35:31Z",
   "created_at": "2026-10-01T18:44:39Z",
   "draft": false,
   "e_tag": "\"a7d35e9dd8b721cd3f661b9dd535ad5674f848a01adb29ab9d5e8dad7226c7b8\"",
   "head": {
-    "ref": "0.2026.40_h873cc9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/stackvana-feedstock/pull/293",
   "id": 4708056667,
   "labels": [],
-  "last_fetched": "2026-10-01T20:28:18.934681",
+  "last_fetched": "2026-10-01T21:36:57.312149",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T21:35:31Z",
   "number": 293,
-  "state": "open",
-  "updated_at": "2026-10-01T18:46:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T21:35:36Z"
 }

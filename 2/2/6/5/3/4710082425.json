@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b2416f543f3debb1c5cd26eeab7b3812472815a92b3b1b877903a724558d598c\"",
+  "Last-Modified": "Thu, 01 Oct 2026 21:56:05 GMT",
   "base": {
     "repo": {
       "name": "spiffe-packages-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T21:56:02Z",
   "created_at": "2026-10-01T21:54:02Z",
   "draft": false,
   "e_tag": "\"6664209eb129a9c2031ff8a73b6b426a748708c8d3344993f963ff88dfeb774a\"",
   "head": {
-    "ref": "0.3.2_h11707a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spiffe-packages-feedstock/pull/20",
   "id": 4710082425,
   "labels": [],
-  "last_fetched": "2026-10-01T21:54:03.466062",
+  "last_fetched": "2026-10-01T21:57:56.883870",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T21:56:02Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-01T21:54:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T21:56:05Z"
 }

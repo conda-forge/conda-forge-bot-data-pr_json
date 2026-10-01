@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"641057b8342e149a65ea972bd6354edf9f1ebcc9927cd700e902c3f55e9beee3\"",
+  "Last-Modified": "Thu, 01 Oct 2026 01:37:54 GMT",
   "base": {
     "repo": {
       "name": "napari-phasors-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T01:37:54Z",
   "created_at": "2026-10-01T01:33:58Z",
   "draft": false,
   "e_tag": "\"f3a30edfb586b669542b0bdf7cf17f751c32fc0c4df8bbe49515fd30eb8fd0ba\"",
   "head": {
-    "ref": "0.8.1_h486a25"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/napari-phasors-feedstock/pull/6",
   "id": 4698044923,
   "labels": [],
-  "last_fetched": "2026-10-01T01:33:59.484323",
+  "last_fetched": "2026-10-01T01:39:05.884660",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T01:37:54Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-01T01:33:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T01:37:54Z"
 }

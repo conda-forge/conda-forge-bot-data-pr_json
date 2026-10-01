@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"7b849bf627cd1caccbca2e4e469edb82bd0ecf29c6d5a48a9cf5ce322adfa558\"",
-  "Last-Modified": "Wed, 30 Sep 2026 14:00:20 GMT",
+  "ETag": "W/\"f15d88e3893232a7015430b2c68fb924f977963298ff59d2690cb277991e67ca\"",
+  "Last-Modified": "Thu, 01 Oct 2026 21:28:30 GMT",
   "base": {
     "repo": {
       "name": "litdata-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T21:28:30Z",
   "created_at": "2026-09-30T13:58:26Z",
   "draft": false,
   "e_tag": "\"0dfadcb9ddfeaf745692e5d5028fed4ec9b6bd16fc6c6ebad051fb2478c3c98c\"",
   "head": {
-    "ref": "0.2.76_ha32ef5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/litdata-feedstock/pull/71",
   "id": 4691462892,
   "labels": [],
-  "last_fetched": "2026-10-01T02:43:40.445889",
+  "last_fetched": "2026-10-01T21:30:06.896713",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T21:28:30Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-09-30T14:00:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T21:28:30Z"
 }

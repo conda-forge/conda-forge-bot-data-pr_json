@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"7aad5812efd8c54131d467a00d4d32e66a6a3496e6846113afa281f634e7761d\"",
-  "Last-Modified": "Thu, 01 Oct 2026 01:15:40 GMT",
+  "ETag": "W/\"092144d46c84c5aa9edbce3693eb783327702108463744afef2cc8fda866b63b\"",
+  "Last-Modified": "Thu, 01 Oct 2026 17:41:29 GMT",
   "base": {
     "repo": {
       "name": "hydra-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T17:41:28Z",
   "created_at": "2026-10-01T01:13:57Z",
   "draft": false,
   "e_tag": "\"4fc145e96f3f8806acb041b427e71bdd69b1c994a1f3270f1fa1e0e9ec7160f5\"",
   "head": {
-    "ref": "0.18.0_h394d31"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hydra-python-feedstock/pull/15",
   "id": 4697906558,
   "labels": [],
-  "last_fetched": "2026-10-01T03:36:52.261223",
+  "last_fetched": "2026-10-01T17:43:04.322989",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T17:41:28Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-01T01:15:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T17:41:29Z"
 }

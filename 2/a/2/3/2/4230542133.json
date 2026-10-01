@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"01e44e9745c8761dc5db6456e9621be1d655ab36b7e21caf5095115fca9b65a7\"",
-  "Last-Modified": "Thu, 01 Oct 2026 11:29:59 GMT",
+  "ETag": "W/\"586f27b230306e9968fd29aa2011b3f44089615cdcaa1fba4183b77e6345c0f8\"",
+  "Last-Modified": "Thu, 01 Oct 2026 12:13:14 GMT",
   "base": {
     "repo": {
       "name": "picamera2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T12:13:14Z",
   "created_at": "2026-08-07T17:49:22Z",
   "draft": false,
   "e_tag": "\"7384f789886cf74fe6d3c207564c69121a476985ca91ff4236ed967627d5c3fa\"",
   "head": {
-    "ref": "0.3.37_hd4deb0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/picamera2-feedstock/pull/5",
   "id": 4230542133,
   "labels": [],
-  "last_fetched": "2026-10-01T11:31:42.856243",
+  "last_fetched": "2026-10-01T12:14:34.066619",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T12:13:14Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-01T11:29:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T12:13:14Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"72da057eae0fed1e628e235ac1a1bab5006cb99e76e2799e379907b01b424209\"",
-  "Last-Modified": "Wed, 30 Sep 2026 07:09:09 GMT",
+  "ETag": "W/\"e8a1197bf5563d082a0289c42a60c6546c9db83dfae168c6dd91c331b7e941e2\"",
+  "Last-Modified": "Thu, 01 Oct 2026 05:08:41 GMT",
   "base": {
     "repo": {
       "name": "radian-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T05:08:41Z",
   "created_at": "2026-09-30T07:07:22Z",
   "draft": false,
   "e_tag": "\"c45f034128179b50f80ee76c43a4ea045bc5c3b795dffba1fd3e8a2263417131\"",
   "head": {
-    "ref": "0.7.0_h678f53"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/radian-feedstock/pull/24",
   "id": 4687126233,
   "labels": [],
-  "last_fetched": "2026-09-30T08:37:27.979715",
+  "last_fetched": "2026-10-01T05:09:55.860214",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T05:08:41Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-09-30T07:09:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T05:08:41Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"9ebe0208c54633ca28b8d18def2441d02ca3d8aa652d6baff22df0065784400b\"",
-  "Last-Modified": "Wed, 30 Sep 2026 02:39:27 GMT",
+  "ETag": "W/\"d4fc9ced68458075fd6f002c2345c5fce7904ad55f8f4fc9944670fdbaee0156\"",
+  "Last-Modified": "Thu, 01 Oct 2026 18:55:01 GMT",
   "base": {
     "repo": {
       "name": "llama.cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T18:55:00Z",
   "created_at": "2026-09-30T00:41:29Z",
   "draft": false,
   "e_tag": "\"829e40cdd49c3c96b533b4141a1c6dcc35fcda04c0cc1e4bde309ed822a2287e\"",
   "head": {
-    "ref": "11266_h897f0e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/llama.cpp-feedstock/pull/143",
   "id": 4684258776,
   "labels": [],
-  "last_fetched": "2026-09-30T04:05:35.858128",
+  "last_fetched": "2026-10-01T18:58:22.629548",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T18:55:00Z",
   "number": 143,
-  "state": "open",
-  "updated_at": "2026-09-30T02:39:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T18:55:01Z"
 }

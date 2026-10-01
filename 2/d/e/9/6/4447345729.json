@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"33a281195a381a1ba411c0f21e495791b58366739f361dbda2fd052ea4212327\"",
-  "Last-Modified": "Fri, 04 Sep 2026 22:55:41 GMT",
+  "ETag": "W/\"40c98bb6edda6248f04c4d19bcfdeaffb6d71eaf7f6b3c1c0fa932b3754bc86c\"",
+  "Last-Modified": "Thu, 01 Oct 2026 06:59:06 GMT",
   "base": {
     "repo": {
       "name": "promise-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/promise-feedstock/pull/27",
   "id": 4447345729,
-  "labels": [],
-  "last_fetched": "2026-09-26T13:44:46.279825",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891098454,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDk4NDU0",
+      "url": "https://api.github.com/repos/conda-forge/promise-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T07:00:51.619957",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 27,
   "state": "open",
-  "updated_at": "2026-09-04T22:55:41Z"
+  "updated_at": "2026-10-01T06:59:06Z"
 }

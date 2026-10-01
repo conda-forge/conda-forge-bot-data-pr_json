@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"67817eca92899c279a11d106e8be0dfd38b047215e46530f28314fcb6fceb94c\"",
+  "Last-Modified": "Thu, 01 Oct 2026 12:40:13 GMT",
   "base": {
     "repo": {
       "name": "stripe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T12:40:13Z",
   "created_at": "2026-10-01T05:45:04Z",
   "draft": false,
   "e_tag": "\"69d4b14f2df7209eaa46c97ced452fa4911049fcf51d18be023d2e357e34d52d\"",
   "head": {
-    "ref": "16.0.0_hf38baf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/stripe-feedstock/pull/49",
   "id": 4699831604,
   "labels": [],
-  "last_fetched": "2026-10-01T05:45:05.532343",
+  "last_fetched": "2026-10-01T12:42:08.393734",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T12:40:13Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-01T05:45:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T12:40:13Z"
 }

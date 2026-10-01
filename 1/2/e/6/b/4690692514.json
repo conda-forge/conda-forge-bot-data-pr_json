@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"09ea167c44648d68fc79d202061d43e41d43e9f96eedcfb20a27b837be4a7efc\"",
-  "Last-Modified": "Thu, 01 Oct 2026 06:24:53 GMT",
+  "ETag": "W/\"1d70b616f031d9262e5f97196ca9a7399f90d6130cd168eda534e2600090700b\"",
+  "Last-Modified": "Thu, 01 Oct 2026 08:59:28 GMT",
   "base": {
     "repo": {
       "name": "qt-sensors-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T08:59:27Z",
   "created_at": "2026-09-30T12:51:05Z",
   "draft": false,
   "e_tag": "\"eb85508993f01f7427514f81bf11844e55759c9e1a95f255a7a3ecf0040b27ca\"",
   "head": {
-    "ref": "6.12.0_he4f007"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-sensors-feedstock/pull/4",
   "id": 4690692514,
   "labels": [],
-  "last_fetched": "2026-10-01T06:26:12.511072",
+  "last_fetched": "2026-10-01T09:01:31.214967",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T08:59:27Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-01T06:24:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T08:59:28Z"
 }

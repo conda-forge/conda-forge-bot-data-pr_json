@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d151da59b7f8e0e56c3702460fadffb94ecdcc45f43e5a6c265fb39ac5611203\"",
-  "Last-Modified": "Thu, 01 Oct 2026 15:14:49 GMT",
+  "ETag": "W/\"609d88d20ae49177451dcd55845c58d4144e9c7e48db7065398d6a518bd27fda\"",
+  "Last-Modified": "Thu, 01 Oct 2026 16:03:52 GMT",
   "base": {
     "repo": {
       "name": "caf.viz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T16:03:52Z",
   "created_at": "2026-10-01T14:50:56Z",
   "draft": false,
   "e_tag": "\"ac96abccc147e2a051d41d9218bfa82991b1a4f1c27754ce2e54cb64973816b6\"",
   "head": {
-    "ref": "0.3.0_h425fbe"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/caf.viz-feedstock/pull/3",
   "id": 4705342379,
   "labels": [],
-  "last_fetched": "2026-10-01T15:27:39.893229",
+  "last_fetched": "2026-10-01T16:07:00.593527",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T16:03:52Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-01T15:14:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T16:03:52Z"
 }

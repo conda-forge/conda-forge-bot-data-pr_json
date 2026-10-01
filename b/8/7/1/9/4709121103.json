@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"04fb646cf14eca85822ca77e11e23f0441225f493eebdf979d81a8674f4292f7\"",
+  "Last-Modified": "Thu, 01 Oct 2026 20:33:51 GMT",
   "base": {
     "repo": {
       "name": "pydeps-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T20:33:50Z",
   "created_at": "2026-10-01T20:20:34Z",
   "draft": false,
   "e_tag": "\"3fe522807f89f11d15d2e8d423edc51232fb41059a51df5deef96bb44351c68f\"",
   "head": {
-    "ref": "3.0.9_he4a65e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pydeps-feedstock/pull/35",
   "id": 4709121103,
   "labels": [],
-  "last_fetched": "2026-10-01T20:20:35.160221",
+  "last_fetched": "2026-10-01T20:35:38.656991",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T20:33:50Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-01T20:20:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T20:33:51Z"
 }

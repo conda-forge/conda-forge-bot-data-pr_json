@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ecfbad107eb80715b5cc47c3dd1ece7ccb04086d423d3036cc605bed8327eb81\"",
+  "Last-Modified": "Thu, 01 Oct 2026 02:10:56 GMT",
   "base": {
     "repo": {
       "name": "azure-storage-queue-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T02:10:52Z",
   "created_at": "2026-10-01T02:07:14Z",
   "draft": false,
   "e_tag": "\"fede647b2f6ef071b8c560ef5115dd1365c6196fc561c172a9482eccb83950f1\"",
   "head": {
-    "ref": "12.18.0_h1f6b1a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/azure-storage-queue-feedstock/pull/44",
   "id": 4698275518,
   "labels": [],
-  "last_fetched": "2026-10-01T02:07:15.412531",
+  "last_fetched": "2026-10-01T02:12:00.654535",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T02:10:52Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-01T02:07:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T02:10:56Z"
 }

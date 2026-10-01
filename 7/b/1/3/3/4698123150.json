@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f7029dd4209cdbde346bb45d5f116909afa68a518ee2696149b87d886be82e44\"",
-  "Last-Modified": "Thu, 01 Oct 2026 01:46:53 GMT",
+  "ETag": "W/\"48703fcd03131665df939295e4934a72f2743264745d59c7589ad505353d4859\"",
+  "Last-Modified": "Thu, 01 Oct 2026 12:53:49 GMT",
   "base": {
     "repo": {
       "name": "lda-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T12:53:49Z",
   "created_at": "2026-10-01T01:45:03Z",
   "draft": false,
   "e_tag": "\"1804df38800e548256b0422afdfe9a7da96f706615baf9f8710cfbb5f8a599dc\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hfe57b9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lda-feedstock/pull/17",
   "id": 4698123150,
   "labels": [],
-  "last_fetched": "2026-10-01T02:43:51.523975",
+  "last_fetched": "2026-10-01T12:55:31.128646",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T12:53:49Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-01T01:46:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T12:53:49Z"
 }

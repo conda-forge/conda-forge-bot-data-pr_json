@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"dca90e4b9405f8ec6fe2cf6eccbb5efe66e8b3cb95aa2ff2c637518193d44422\"",
+  "Last-Modified": "Thu, 01 Oct 2026 02:11:54 GMT",
   "base": {
     "repo": {
       "name": "in_place-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T02:11:50Z",
   "created_at": "2026-10-01T02:08:33Z",
   "draft": false,
   "e_tag": "\"9cdc3ae946ad521d17585905dfffdb902c14a2af16110e066392629dcfd732fd\"",
   "head": {
-    "ref": "1.0.2_h4a4986"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/in_place-feedstock/pull/9",
   "id": 4698284762,
   "labels": [],
-  "last_fetched": "2026-10-01T02:08:34.040304",
+  "last_fetched": "2026-10-01T02:13:02.084215",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T02:11:50Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-01T02:08:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T02:11:54Z"
 }

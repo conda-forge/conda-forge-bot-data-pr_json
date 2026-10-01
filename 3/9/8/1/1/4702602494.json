@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"96d7d1e6b6c311d578528010b58fdbf71e5bbc9d03e2dd69cd28debeca4dcf00\"",
-  "Last-Modified": "Thu, 01 Oct 2026 10:48:01 GMT",
+  "ETag": "W/\"c1269446458d20467376124f1954d29c82314518b807ae776c20e48c3345cf0c\"",
+  "Last-Modified": "Thu, 01 Oct 2026 12:50:11 GMT",
   "base": {
     "repo": {
       "name": "python-dotenv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T12:50:11Z",
   "created_at": "2026-10-01T10:46:25Z",
   "draft": false,
   "e_tag": "\"e4e49a5f399653d001860de49954c2dc3d9d3ffc2490d0fd993429a7c96afa3b\"",
   "head": {
-    "ref": "1.2.4_h2c8380"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-dotenv-feedstock/pull/42",
   "id": 4702602494,
   "labels": [],
-  "last_fetched": "2026-10-01T11:25:12.603639",
+  "last_fetched": "2026-10-01T12:51:43.255468",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T12:50:11Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-10-01T10:48:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T12:50:11Z"
 }

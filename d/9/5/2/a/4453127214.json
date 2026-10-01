@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"6c299d7063e9300e5f11988137b51eb7e90e3625200a45de9ef3cedf5d46e94e\"",
-  "Last-Modified": "Thu, 01 Oct 2026 22:23:22 GMT",
+  "ETag": "W/\"1dc1848f19a278ef468e59e0cf785affdb7eab962fee6c9fe8f3375e29e76c51\"",
+  "Last-Modified": "Thu, 01 Oct 2026 22:23:20 GMT",
   "base": {
     "repo": {
       "name": "astroid-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/astroid-feedstock/pull/176",
   "id": 4453127214,
-  "labels": [],
-  "last_fetched": "2026-10-01T22:24:53.893678",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-01T22:23:23.140780",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 176,
   "state": "closed",
-  "updated_at": "2026-10-01T22:23:22Z"
+  "updated_at": "2026-10-01T22:23:20Z"
 }

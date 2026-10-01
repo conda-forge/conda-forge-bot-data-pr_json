@@ -1,26 +1,40 @@
 {
+  "ETag": "W/\"83805747b20e698f3beb2302da6b28e33c69658f843d49a109ed1952e42f0afc\"",
+  "Last-Modified": "Thu, 01 Oct 2026 19:29:58 GMT",
   "base": {
     "repo": {
       "name": "aws-c-http-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T19:29:54Z",
   "created_at": "2026-10-01T19:06:05Z",
   "draft": false,
   "e_tag": "\"32ae6471121d12a9704356a4248ca6ec93ab1b7215bea0723c514ad5a9c28e3d\"",
   "head": {
-    "ref": "rebuild-aws_c_1_0-0-1_h40f009"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-c-http-feedstock/pull/303",
   "id": 4708301302,
-  "labels": [],
-  "last_fetched": "2026-10-01T19:06:06.329791",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2988542228,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyOTg4NTQyMjI4",
+      "url": "https://api.github.com/repos/conda-forge/aws-c-http-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T19:30:56.166168",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T19:29:53Z",
   "number": 303,
-  "state": "open",
-  "updated_at": "2026-10-01T19:06:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T19:29:58Z"
 }

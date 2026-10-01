@@ -1,14 +1,14 @@
 {
-  "ETag": "W/\"d295c15fc08a303bc7d87e0cee7b2d3bec0c8d3259237af85d0f83d6d104936b\"",
-  "Last-Modified": "Wed, 30 Sep 2026 11:20:05 GMT",
+  "ETag": "W/\"552856aac0663b933d4989925074cb1c05b6b5ed37c0d47419ba90b8fc9bb72e\"",
+  "Last-Modified": "Thu, 01 Oct 2026 20:56:19 GMT",
   "base": {
     "repo": {
       "name": "podman-desktop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T20:56:19Z",
   "created_at": "2026-09-30T11:18:31Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"890280f4fbe59533d4dc08a3410e7804d9e600772c950fe19272ac659a8ab988\"",
   "head": {
     "ref": "1.30.3_h4bbcf4"
@@ -16,13 +16,13 @@
   "html_url": "https://github.com/conda-forge/podman-desktop-feedstock/pull/15",
   "id": 4689743112,
   "labels": [],
-  "last_fetched": "2026-09-30T13:33:53.614322",
+  "last_fetched": "2026-10-01T20:57:46.512407",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-09-30T11:20:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T20:56:19Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"0beb27928d587319afce60cc1d62b22497c8c8666a3f828c793b3e2c6cbb90ea\"",
-  "Last-Modified": "Thu, 01 Oct 2026 07:47:01 GMT",
+  "ETag": "W/\"8d7a5b551d68f68eb9c4a98d714be15a26485152aab2310dddb75edb013f6749\"",
+  "Last-Modified": "Thu, 01 Oct 2026 14:17:04 GMT",
   "base": {
     "repo": {
       "name": "rchitect-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T14:17:03Z",
   "created_at": "2026-10-01T07:45:20Z",
   "draft": false,
   "e_tag": "\"d4fbc7cc09d842d3b1303cadf0764618da5fd5c2b8e880495878f97ee4fcb6a3\"",
   "head": {
-    "ref": "0.5.2_h42592b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rchitect-feedstock/pull/34",
   "id": 4700833032,
   "labels": [],
-  "last_fetched": "2026-10-01T13:52:27.560628",
+  "last_fetched": "2026-10-01T14:18:21.764052",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T14:17:03Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-01T07:47:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T14:17:04Z"
 }

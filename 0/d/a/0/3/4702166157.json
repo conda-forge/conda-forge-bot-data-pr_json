@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"d60c5b57b202fe3c1261fb73f51e4433a8b85fb27f762deeaaa0076420571639\"",
-  "Last-Modified": "Thu, 01 Oct 2026 11:00:43 GMT",
+  "ETag": "W/\"7f6bffee87868e1d5efb730f1af4ca57b2fd0076798642556aa74e4b34bcbacc\"",
+  "Last-Modified": "Thu, 01 Oct 2026 11:21:30 GMT",
   "base": {
     "repo": {
       "name": "gpaw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T11:21:26Z",
   "created_at": "2026-10-01T10:01:19Z",
   "draft": false,
   "e_tag": "\"3d7511731cdcff67d37dcbd68d8317d06223eba9d9606f27654140b43f00c16b\"",
   "head": {
-    "ref": "rebuild-mpich5-0-1_h3888d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gpaw-feedstock/pull/65",
   "id": 4702166157,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/gpaw-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-01T11:02:27.604595",
+  "last_fetched": "2026-10-01T11:22:37.723154",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T11:21:26Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-01T11:00:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T11:21:30Z"
 }

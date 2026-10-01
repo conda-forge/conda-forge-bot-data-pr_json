@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"7083c2ab96be38a4b13378e4238ae3b86275a9297af7bd3a891dd8a16e787aec\"",
-  "Last-Modified": "Mon, 21 Sep 2026 14:26:40 GMT",
+  "ETag": "W/\"14d5ae7714d9360315a4a7e82d6d345d5109c8392772e4a24c6ea76ab8b63cee\"",
+  "Last-Modified": "Thu, 01 Oct 2026 16:24:21 GMT",
   "base": {
     "repo": {
       "name": "r-estimatr-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/r-estimatr-feedstock/pull/24",
   "id": 4592430783,
-  "labels": [],
-  "last_fetched": "2026-09-28T20:49:13.611668",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891188451,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTg4NDUx",
+      "url": "https://api.github.com/repos/conda-forge/r-estimatr-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T16:25:45.426504",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 24,
   "state": "open",
-  "updated_at": "2026-09-21T14:26:40Z"
+  "updated_at": "2026-10-01T16:24:21Z"
 }

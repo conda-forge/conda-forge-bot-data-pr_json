@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"11ad34e8422ac550f195fca17586c6f7b5b8a4a1b9955d9b865d2b8b3bfc63ef\"",
-  "Last-Modified": "Thu, 01 Oct 2026 12:09:27 GMT",
+  "ETag": "W/\"20d74a8237e0c0535c50c39c3c75ab4f4b72fe63e10cfb07f6635daaaf7f0e33\"",
+  "Last-Modified": "Thu, 01 Oct 2026 18:56:33 GMT",
   "base": {
     "repo": {
       "name": "geant4-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T18:56:33Z",
   "created_at": "2026-10-01T12:07:48Z",
   "draft": false,
   "e_tag": "\"4bc624ffdc24d6c5ce81e5415ed1f266c6a43a3527c1ca1665ddfa8fed36760b\"",
   "head": {
-    "ref": "11.4.3_h5d07c6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geant4-feedstock/pull/110",
   "id": 4703405266,
   "labels": [],
-  "last_fetched": "2026-10-01T13:52:15.090983",
+  "last_fetched": "2026-10-01T19:35:43.713429",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T18:56:33Z",
   "number": 110,
-  "state": "open",
-  "updated_at": "2026-10-01T12:09:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T18:56:33Z"
 }

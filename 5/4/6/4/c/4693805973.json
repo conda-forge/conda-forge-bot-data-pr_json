@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"84a6260fd50a35ad042493add560b261b6006ab3b42a148ea12160cf875bef3b\"",
-  "Last-Modified": "Wed, 30 Sep 2026 17:28:03 GMT",
+  "ETag": "W/\"99d7b0dc50cc5386ce85f633672fc68d6fecb107bdfbdf13591e1bfec3aa9b26\"",
+  "Last-Modified": "Thu, 01 Oct 2026 08:43:27 GMT",
   "base": {
     "repo": {
       "name": "rasterio-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/rasterio-feedstock/pull/351",
   "id": 4693805973,
-  "labels": [],
-  "last_fetched": "2026-09-30T17:58:08.256445",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891325415,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzI1NDE1",
+      "url": "https://api.github.com/repos/conda-forge/rasterio-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T08:45:22.715432",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 351,
   "state": "open",
-  "updated_at": "2026-09-30T17:28:03Z"
+  "updated_at": "2026-10-01T08:43:27Z"
 }

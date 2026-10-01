@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"e67cf29a4835cbfe15635ce6c6d353ce7d0fb71c673cd1a6009b204bbac9ab3c\"",
-  "Last-Modified": "Wed, 30 Sep 2026 20:35:46 GMT",
+  "ETag": "W/\"4d62db2bfe3f186357b063544987b8b4d1ac8b079a6dbedc75ebe009b47a2255\"",
+  "Last-Modified": "Thu, 01 Oct 2026 14:15:23 GMT",
   "base": {
     "repo": {
       "name": "ccflow-http-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T14:15:20Z",
   "created_at": "2026-09-30T20:33:32Z",
   "draft": false,
   "e_tag": "\"9a791b85c4a7079abc42565d6594e8a8c392c3a09c3fd70ad6963c12d402cb0c\"",
   "head": {
-    "ref": "0.2.0_he10ceb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ccflow-http-feedstock/pull/2",
   "id": 4695711209,
-  "labels": [],
-  "last_fetched": "2026-10-01T03:07:19.668124",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11305724865,
+      "name": "automerge",
+      "node_id": "LA_kwDOTB-Tpc8AAAACod-rwQ",
+      "url": "https://api.github.com/repos/conda-forge/ccflow-http-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T14:15:36.222142",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T14:15:20Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-09-30T20:35:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T14:15:23Z"
 }

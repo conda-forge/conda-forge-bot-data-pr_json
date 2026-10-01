@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"7c3e611cff35e6cca94531a1a34142c498081f6a5919475975e6b20487e72a9b\"",
-  "Last-Modified": "Thu, 01 Oct 2026 19:52:17 GMT",
+  "ETag": "W/\"83645771449dcebe7ce68511d15c94653dcc2c3ed18975698c7b6fc51b4e6cee\"",
+  "Last-Modified": "Thu, 01 Oct 2026 19:56:20 GMT",
   "base": {
     "repo": {
       "name": "wenmode-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T19:56:15Z",
   "created_at": "2026-10-01T18:43:21Z",
   "draft": false,
   "e_tag": "\"8be77deae5efd6b1099a47b9e0c89107779ab113100327eb9ebf8c24ef7c0f00\"",
   "head": {
-    "ref": "0.15.2_h8ae9b7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wenmode-feedstock/pull/15",
   "id": 4708041869,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/wenmode-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-01T19:54:03.629888",
+  "last_fetched": "2026-10-01T19:57:57.970455",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T19:56:15Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-01T19:52:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T19:56:20Z"
 }

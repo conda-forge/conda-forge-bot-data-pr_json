@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"2896f1aa9bf300d5169fd2937d8c4bd1a11c1f08b09a0c686c425e60cdba444a\"",
+  "Last-Modified": "Thu, 01 Oct 2026 09:47:03 GMT",
   "base": {
     "repo": {
       "name": "edfio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T09:46:58Z",
   "created_at": "2026-10-01T09:43:35Z",
   "draft": false,
   "e_tag": "\"ae51d4151bd9f7bf7afb05497781c4902ab48f356ff68d14860a965652e3f9ff\"",
   "head": {
-    "ref": "0.4.18_h5ab92b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/edfio-feedstock/pull/29",
   "id": 4701992810,
   "labels": [],
-  "last_fetched": "2026-10-01T09:43:36.653040",
+  "last_fetched": "2026-10-01T09:48:29.883024",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T09:46:58Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-01T09:43:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T09:47:03Z"
 }

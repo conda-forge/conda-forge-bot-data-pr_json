@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"340388db560bb306ca7a0ff4cd32928dc453eaf23479fb07679b78ffecd21e58\"",
-  "Last-Modified": "Thu, 01 Oct 2026 12:04:23 GMT",
+  "ETag": "W/\"041ea9de5accfe95f0f26ea275e1d676ac4cf0994f6358d06f05fd16b2647d69\"",
+  "Last-Modified": "Thu, 01 Oct 2026 14:53:13 GMT",
   "base": {
     "repo": {
       "name": "mdcat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T14:53:09Z",
   "created_at": "2026-10-01T12:02:33Z",
   "draft": false,
   "e_tag": "\"abd42492065ac211ad1cdd9130f2855822d9368d0e9ef62d94659b70b97fdc3f\"",
   "head": {
-    "ref": "2.18.0_hb8fb19"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mdcat-feedstock/pull/18",
   "id": 4703353402,
   "labels": [],
-  "last_fetched": "2026-10-01T12:39:02.703584",
+  "last_fetched": "2026-10-01T14:54:51.953799",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T14:53:09Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-01T12:04:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T14:53:13Z"
 }

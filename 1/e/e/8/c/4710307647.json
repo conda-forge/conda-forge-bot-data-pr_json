@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"977a2f20cbb59ef44ec8ba7efe44a3efa08c65ee04471c498a02c4f4accb6974\"",
+  "Last-Modified": "Thu, 01 Oct 2026 22:21:36 GMT",
   "base": {
     "repo": {
       "name": "neutcurve-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T22:21:32Z",
   "created_at": "2026-10-01T22:19:24Z",
   "draft": false,
   "e_tag": "\"8a40caaa9a34e5928c41e7cfd6da3973bee860fa8574b94bba5c8a99c529866c\"",
   "head": {
-    "ref": "2.5.0_h9863fb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/neutcurve-feedstock/pull/7",
   "id": 4710307647,
   "labels": [],
-  "last_fetched": "2026-10-01T22:19:25.633300",
+  "last_fetched": "2026-10-01T22:22:45.704824",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T22:21:32Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-01T22:19:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T22:21:36Z"
 }

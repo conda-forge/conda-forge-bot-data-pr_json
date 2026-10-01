@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"2a62b16378a2d9719c7795df1a052f927fc5d78c2a553863ad45cd8ef218dc03\"",
-  "Last-Modified": "Thu, 01 Oct 2026 00:30:22 GMT",
+  "ETag": "W/\"e3701b2d9135b149aa9601b0b2d136846e160a725f7b6feb8b22a724403686dc\"",
+  "Last-Modified": "Thu, 01 Oct 2026 05:53:58 GMT",
   "base": {
     "repo": {
       "name": "python-eccodes-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/python-eccodes-feedstock/pull/116",
   "id": 4697594073,
-  "labels": [],
-  "last_fetched": "2026-10-01T05:50:42.770706",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891173817,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTczODE3",
+      "url": "https://api.github.com/repos/conda-forge/python-eccodes-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T05:55:37.910515",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 116,
   "state": "open",
-  "updated_at": "2026-10-01T00:32:42Z"
+  "updated_at": "2026-10-01T05:53:58Z"
 }

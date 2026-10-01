@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"3cddbf88cdb2057d102bac13bb43eb6daa24bf071adaaa9a4f0e24b3db359a6a\"",
-  "Last-Modified": "Wed, 30 Sep 2026 23:36:31 GMT",
+  "ETag": "W/\"5dfe48e6123dac6daf88e596bf4eac6f1993c4d42d2630dd7d95952e56ca07e4\"",
+  "Last-Modified": "Thu, 01 Oct 2026 13:07:06 GMT",
   "base": {
     "repo": {
       "name": "r-attachment-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T13:07:06Z",
   "created_at": "2026-09-30T23:34:45Z",
   "draft": false,
   "e_tag": "\"d9bba48c78fe5900870f4e15de07baeab6357506f8c98497aab81c40dd63cfe9\"",
   "head": {
-    "ref": "1.2.0_he71cc3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-attachment-feedstock/pull/8",
   "id": 4697200586,
   "labels": [],
-  "last_fetched": "2026-10-01T03:08:21.616170",
+  "last_fetched": "2026-10-01T13:11:17.403025",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T13:07:06Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-30T23:36:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T13:07:06Z"
 }

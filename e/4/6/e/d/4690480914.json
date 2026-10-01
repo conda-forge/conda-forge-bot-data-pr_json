@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"585e8a342202c68b9234d000a9de87401ab38c9e40080331cf7b7262880af2d0\"",
-  "Last-Modified": "Thu, 01 Oct 2026 06:25:27 GMT",
+  "ETag": "W/\"7a167539c1e11db9ec35923cd5f3b6901d78f291c0aee4f49e8be928a3c99b57\"",
+  "Last-Modified": "Thu, 01 Oct 2026 06:35:30 GMT",
   "base": {
     "repo": {
       "name": "qt-charts-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T06:35:27Z",
   "created_at": "2026-09-30T12:31:21Z",
   "draft": false,
   "e_tag": "\"18b23771fc52f0c46cf7ccfd7f00e67956552dabb93303aa6c11e5d97a7103f8\"",
   "head": {
-    "ref": "6.12.0_h13f38d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-charts-feedstock/pull/72",
   "id": 4690480914,
   "labels": [],
-  "last_fetched": "2026-10-01T06:27:05.718290",
+  "last_fetched": "2026-10-01T06:37:10.263734",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T06:35:27Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-10-01T06:25:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T06:35:30Z"
 }

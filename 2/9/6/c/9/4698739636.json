@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"4a0627991d9360b09e6b3d96ddc7936df4e860bc3801754056fcf8c8d8325c56\"",
+  "Last-Modified": "Thu, 01 Oct 2026 03:14:39 GMT",
   "base": {
     "repo": {
       "name": "crowdin-api-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T03:14:35Z",
   "created_at": "2026-10-01T03:10:59Z",
   "draft": false,
   "e_tag": "\"a6296497996b2e366c60b9c477e9891b16bd8e4cd2d45cd5a7cfbe3d884ba58e\"",
   "head": {
-    "ref": "1.30.0_h48e65d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/crowdin-api-client-feedstock/pull/20",
   "id": 4698739636,
   "labels": [],
-  "last_fetched": "2026-10-01T03:10:59.926071",
+  "last_fetched": "2026-10-01T03:16:18.728371",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T03:14:35Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-01T03:10:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T03:14:39Z"
 }

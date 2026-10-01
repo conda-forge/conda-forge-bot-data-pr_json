@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"39db0b9e7a1e53bea7bb220a9bd3f6e819fbc12d0c28a1f38f1f5d6818ce5dd5\"",
-  "Last-Modified": "Thu, 01 Oct 2026 10:10:58 GMT",
+  "ETag": "W/\"919620eea637013d5bb10fcf31d547ffdb8c15b1cb92508dcce23cc4979cf4f2\"",
+  "Last-Modified": "Thu, 01 Oct 2026 13:21:52 GMT",
   "base": {
     "repo": {
       "name": "e3sm-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T13:21:52Z",
   "created_at": "2026-10-01T10:08:49Z",
   "draft": false,
   "e_tag": "\"8da947722b95495db9bba5a377092ebb6e9c5b47b668be97dfbae28cde680cd4\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hfcce85"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/e3sm-tools-feedstock/pull/12",
   "id": 4702240231,
   "labels": [],
-  "last_fetched": "2026-10-01T11:01:57.905707",
+  "last_fetched": "2026-10-01T13:23:00.570008",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T13:21:52Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-01T10:10:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T13:21:52Z"
 }

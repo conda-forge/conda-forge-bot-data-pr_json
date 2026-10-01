@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"eec6a34df607d0ba497d05497443d4c2e90be2ec43ef1a0f30ceb66296333cde\"",
-  "Last-Modified": "Wed, 30 Sep 2026 23:43:13 GMT",
+  "ETag": "W/\"445da2971af294241e5e040ef37aecc6b48618da0889b78adee719dedb281ae7\"",
+  "Last-Modified": "Thu, 01 Oct 2026 12:36:33 GMT",
   "base": {
     "repo": {
       "name": "selenium-manager-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T12:36:32Z",
   "created_at": "2026-09-30T23:41:30Z",
   "draft": false,
   "e_tag": "\"2cf223cd894ca0a26d3c5fec009e6f25e31ff82cab493ad465678de0cd810c6f\"",
   "head": {
-    "ref": "4.50.0_h3940b0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/selenium-manager-feedstock/pull/61",
   "id": 4697251552,
   "labels": [],
-  "last_fetched": "2026-10-01T11:24:50.949937",
+  "last_fetched": "2026-10-01T12:38:27.950186",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T12:36:32Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-09-30T23:43:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T12:36:33Z"
 }

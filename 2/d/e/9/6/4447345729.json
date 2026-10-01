@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"40c98bb6edda6248f04c4d19bcfdeaffb6d71eaf7f6b3c1c0fa932b3754bc86c\"",
-  "Last-Modified": "Thu, 01 Oct 2026 06:59:06 GMT",
+  "ETag": "W/\"cf3c536e35959d34ababc23f3f87c8c2c22f282076ec4ef154de222d72a909cf\"",
+  "Last-Modified": "Thu, 01 Oct 2026 07:06:37 GMT",
   "base": {
     "repo": {
       "name": "promise-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T07:06:33Z",
   "created_at": "2026-09-04T22:54:05Z",
   "draft": false,
   "e_tag": "\"8a204aafd5086da766116936de7f0512cfee8775a8e26a4ec58c2a33bc2c15c0\"",
   "head": {
-    "ref": "rebuild-python315-0-1_ha72027"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/promise-feedstock/pull/27",
   "id": 4447345729,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/promise-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-01T07:00:51.619957",
+  "last_fetched": "2026-10-01T07:08:12.853683",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T07:06:33Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-01T06:59:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T07:06:37Z"
 }

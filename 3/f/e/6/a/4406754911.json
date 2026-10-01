@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"5e14b56c642002a244d13d919cc9b43036c1ba2f592cd96e821f7d34e0bd8b8c\"",
-  "Last-Modified": "Mon, 31 Aug 2026 22:15:50 GMT",
+  "ETag": "W/\"66cc65738b10583fdecdd9be8b79c1467a85210b24031d726314c6bb5fcff490\"",
+  "Last-Modified": "Thu, 01 Oct 2026 16:24:12 GMT",
   "base": {
     "repo": {
       "name": "r-sylly.en-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/r-sylly.en-feedstock/pull/7",
   "id": 4406754911,
-  "labels": [],
-  "last_fetched": "2026-09-29T17:37:37.131661",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891320414,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzIwNDE0",
+      "url": "https://api.github.com/repos/conda-forge/r-sylly.en-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T16:26:16.245246",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 7,
   "state": "open",
-  "updated_at": "2026-08-31T22:15:50Z"
+  "updated_at": "2026-10-01T16:24:12Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"48d171fc0a47900ffb1bc12bc21d3e78d728613e49a08fdd17608041a2250396\"",
-  "Last-Modified": "Wed, 30 Sep 2026 21:49:18 GMT",
+  "ETag": "W/\"b116c859449c5b4e21a38bcfcda09543b1569b58e2c1a446c2399169006d800c\"",
+  "Last-Modified": "Thu, 01 Oct 2026 06:37:11 GMT",
   "base": {
     "repo": {
       "name": "phlex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T06:37:11Z",
   "created_at": "2026-09-30T21:47:22Z",
   "draft": false,
   "e_tag": "\"34ebbfae88d53ca6bc52178d6e825b6ed5e064e72c11b1a5c049d19cf6812922\"",
   "head": {
-    "ref": "0.4.1_h5fb172"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phlex-feedstock/pull/16",
   "id": 4696386922,
   "labels": [],
-  "last_fetched": "2026-09-30T22:48:07.841610",
+  "last_fetched": "2026-10-01T06:38:50.695175",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T06:37:11Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-09-30T21:49:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T06:37:11Z"
 }

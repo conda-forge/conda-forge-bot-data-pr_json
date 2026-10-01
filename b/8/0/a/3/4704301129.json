@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"1e4696ac8929f992719d3247e65fa664abe3e9c6bb35136275a9f0c4d7bde9b0\"",
-  "Last-Modified": "Thu, 01 Oct 2026 13:30:31 GMT",
+  "ETag": "W/\"33285363cc409c30640ccf70f6e9aa93b6d3ac60d09477073913149049e7d61a\"",
+  "Last-Modified": "Thu, 01 Oct 2026 13:49:56 GMT",
   "base": {
     "repo": {
       "name": "flux-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T13:49:52Z",
   "created_at": "2026-10-01T13:28:50Z",
   "draft": false,
   "e_tag": "\"e241eac673d34e548d3b835f9e81222e2a56d21e71299e3ed153bc3648593450\"",
   "head": {
-    "ref": "2.9.6_h1fa7d3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flux-feedstock/pull/19",
   "id": 4704301129,
   "labels": [],
-  "last_fetched": "2026-10-01T13:32:39.489032",
+  "last_fetched": "2026-10-01T13:52:04.644855",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T13:49:52Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-01T13:30:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T13:49:56Z"
 }

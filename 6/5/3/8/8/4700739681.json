@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1abf0cd6b1ea5f518630cc0c28a2c9385dfd18e2f4f65d985789c76d2b1c593e\"",
+  "Last-Modified": "Thu, 01 Oct 2026 07:37:46 GMT",
   "base": {
     "repo": {
       "name": "types-aiobotocore-rds-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T07:37:42Z",
   "created_at": "2026-10-01T07:35:46Z",
   "draft": false,
   "e_tag": "\"3146fca67978ea9e72fd80e8e537a649f20eb291b4d1d003bcb0a686b9057313\"",
   "head": {
-    "ref": "3.9.2_hd1c619"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-aiobotocore-rds-feedstock/pull/75",
   "id": 4700739681,
   "labels": [],
-  "last_fetched": "2026-10-01T07:35:47.022997",
+  "last_fetched": "2026-10-01T07:39:22.129085",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T07:37:41Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-01T07:35:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T07:37:46Z"
 }

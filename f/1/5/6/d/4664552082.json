@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"38df144069fdb32f603a210739eeb71f441d42e0337a53ab96a8b3a8cb34f406\"",
-  "Last-Modified": "Mon, 28 Sep 2026 13:48:23 GMT",
+  "ETag": "W/\"240553a7521b738018ae651c5ea8c4c232b2241823b892ce602f7035ed5ef844\"",
+  "Last-Modified": "Thu, 01 Oct 2026 06:07:20 GMT",
   "base": {
     "repo": {
       "name": "mariadb-connector-c-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T06:07:19Z",
   "created_at": "2026-09-28T13:46:44Z",
   "draft": false,
   "e_tag": "\"fd46e0debc4b989e9735dabd953599532b753f4e8a98e38c8a758c1218c11fd8\"",
   "head": {
-    "ref": "3.4.11_h414966"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mariadb-connector-c-feedstock/pull/35",
   "id": 4664552082,
   "labels": [],
-  "last_fetched": "2026-09-28T14:32:00.652179",
+  "last_fetched": "2026-10-01T06:08:36.617199",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T06:07:19Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-09-28T13:48:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T06:07:20Z"
 }

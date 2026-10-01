@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"20393cdc9b6a345a404d881388ba88a4bcb349d27f2cfef821caf90cb2c03041\"",
-  "Last-Modified": "Wed, 30 Sep 2026 14:03:07 GMT",
+  "ETag": "W/\"cca78d63dbde0f6da1ef3d1ed17611ff2c066562897d722ef913e87149d2824b\"",
+  "Last-Modified": "Thu, 01 Oct 2026 04:04:57 GMT",
   "base": {
     "repo": {
       "name": "qt-wayland-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T04:04:57Z",
   "created_at": "2026-09-30T14:00:58Z",
   "draft": false,
   "e_tag": "\"ef56d8eaf4a439da1adcb4b6c93220838ea6afaed41ead0ac762da8bea816b53\"",
   "head": {
-    "ref": "6.12.0_h96dda0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-wayland-feedstock/pull/59",
   "id": 4691491730,
   "labels": [],
-  "last_fetched": "2026-09-30T20:59:58.924393",
+  "last_fetched": "2026-10-01T04:06:10.532478",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T04:04:57Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-09-30T14:03:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T04:04:57Z"
 }

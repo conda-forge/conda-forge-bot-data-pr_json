@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6175eb777cf5ff07aef9a4d51743eeb72f6d7dd39234f60f9671aec7def03466\"",
+  "Last-Modified": "Thu, 01 Oct 2026 02:16:03 GMT",
   "base": {
     "repo": {
       "name": "schedview-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T02:16:03Z",
   "created_at": "2026-10-01T02:10:33Z",
   "draft": false,
   "e_tag": "\"e9c201940e0ad054acf692b70b4c674738e790ec60bec2ca51170721b3e939fb\"",
   "head": {
-    "ref": "0.24.0_h32bc86"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/schedview-feedstock/pull/29",
   "id": 4698299530,
   "labels": [],
-  "last_fetched": "2026-10-01T02:10:34.535772",
+  "last_fetched": "2026-10-01T02:17:48.392382",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T02:16:03Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-01T02:10:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T02:16:07Z"
 }

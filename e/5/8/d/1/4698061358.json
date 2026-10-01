@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5d19ef0d1c05cca2c93e0627e412f7e6aa79ab46355da8685f534a2786cd3576\"",
+  "Last-Modified": "Thu, 01 Oct 2026 01:41:25 GMT",
   "base": {
     "repo": {
       "name": "docker-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T01:41:21Z",
   "created_at": "2026-10-01T01:36:05Z",
   "draft": false,
   "e_tag": "\"a508251b1f61dee215fc8ee029162f5b0f7c7f63597f068b6fcd03b2c7d99c86\"",
   "head": {
-    "ref": "29.8.2_h02a046"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/docker-cli-feedstock/pull/61",
   "id": 4698061358,
   "labels": [],
-  "last_fetched": "2026-10-01T01:36:05.999344",
+  "last_fetched": "2026-10-01T01:43:02.380512",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T01:41:21Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-10-01T01:36:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T01:41:25Z"
 }

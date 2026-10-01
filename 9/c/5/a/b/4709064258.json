@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5d8284382d1f983a531f7f8f56b7b79b22642b5832285a4b42e969dbd43a4ae8\"",
+  "Last-Modified": "Thu, 01 Oct 2026 20:35:25 GMT",
   "base": {
     "repo": {
       "name": "unpdf-rs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T20:35:21Z",
   "created_at": "2026-10-01T20:15:24Z",
   "draft": false,
   "e_tag": "\"30db41ee82b094d79e8b24121b2f5038ea40f14da6ff2fd65ae22b76405ea951\"",
   "head": {
-    "ref": "0.23.0_h6b6cbe"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/unpdf-rs-feedstock/pull/28",
   "id": 4709064258,
   "labels": [],
-  "last_fetched": "2026-10-01T20:15:26.167644",
+  "last_fetched": "2026-10-01T20:36:43.632770",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T20:35:21Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-01T20:15:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T20:35:25Z"
 }

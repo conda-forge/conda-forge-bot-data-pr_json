@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"19aa305ba211716e73d90e327a78a0c6660585f2afb61059226ab06c597c2758\"",
+  "Last-Modified": "Thu, 01 Oct 2026 05:41:23 GMT",
   "base": {
     "repo": {
       "name": "types-aiobotocore-logs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T05:41:20Z",
   "created_at": "2026-10-01T05:39:10Z",
   "draft": false,
   "e_tag": "\"27803f96d8870282f99594dbd3cdadb7a108383b85901a2809bc950ad3dcce11\"",
   "head": {
-    "ref": "3.9.2_h46d048"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-aiobotocore-logs-feedstock/pull/74",
   "id": 4699790158,
   "labels": [],
-  "last_fetched": "2026-10-01T05:39:10.913858",
+  "last_fetched": "2026-10-01T05:42:53.924063",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T05:41:20Z",
   "number": 74,
-  "state": "open",
-  "updated_at": "2026-10-01T05:39:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T05:41:23Z"
 }

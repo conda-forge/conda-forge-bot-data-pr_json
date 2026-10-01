@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6a76c1ed2258eb12ca63240595c157e6866752ed0718c86a6ae64068054f29ee\"",
+  "Last-Modified": "Thu, 01 Oct 2026 12:15:49 GMT",
   "base": {
     "repo": {
       "name": "vizro-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T12:15:45Z",
   "created_at": "2026-10-01T12:11:05Z",
   "draft": false,
   "e_tag": "\"abe95ff5ea3a6801d80091c8a4957ad0e30a4a7383df758f71027f069185a1fc\"",
   "head": {
-    "ref": "0.1.61_he71cb7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vizro-feedstock/pull/61",
   "id": 4703438265,
   "labels": [],
-  "last_fetched": "2026-10-01T12:11:06.492209",
+  "last_fetched": "2026-10-01T12:17:36.307830",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T12:15:45Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-10-01T12:11:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T12:15:49Z"
 }

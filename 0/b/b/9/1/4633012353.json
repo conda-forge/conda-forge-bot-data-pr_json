@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"b80a3b53b9ec8f09d65a0b99217273a620f1d5517e8b1c8edbf54a83c966c181\"",
-  "Last-Modified": "Fri, 25 Sep 2026 01:41:23 GMT",
+  "ETag": "W/\"07dce734c32d3bfecc71a8611d6ad92bd7deabb7b1dbcde7dbaa494b94f55d73\"",
+  "Last-Modified": "Thu, 01 Oct 2026 08:38:26 GMT",
   "base": {
     "repo": {
       "name": "splinecalib-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/splinecalib-feedstock/pull/23",
   "id": 4633012353,
-  "labels": [],
-  "last_fetched": "2026-09-25T03:49:03.219285",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4057532684,
+      "name": "automerge",
+      "node_id": "LA_kwDOHNso9c7x2QkM",
+      "url": "https://api.github.com/repos/conda-forge/splinecalib-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T08:39:18.629903",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 23,
   "state": "open",
-  "updated_at": "2026-09-25T01:41:23Z"
+  "updated_at": "2026-10-01T08:38:26Z"
 }

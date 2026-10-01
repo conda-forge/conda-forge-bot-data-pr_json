@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"1a82dc03a274138b9afd49d381afd64a70120f5fd4310e5be8100b37a1a6f1de\"",
-  "Last-Modified": "Thu, 01 Oct 2026 02:22:13 GMT",
+  "ETag": "W/\"0b764c4f6c42490f8d462399ecadd4dbc292f340d7e7f972ab7609974fd14189\"",
+  "Last-Modified": "Thu, 01 Oct 2026 06:24:03 GMT",
   "base": {
     "repo": {
       "name": "numba-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T06:24:03Z",
   "created_at": "2026-10-01T02:20:24Z",
   "draft": false,
   "e_tag": "\"a727e1c163706aaadc29e24ce8a4c661b92b646679736d18b318bc79a80279d4\"",
   "head": {
-    "ref": "rebuild-python315-0-1_he7f52b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/numba-feedstock/pull/214",
   "id": 4698375267,
   "labels": [],
-  "last_fetched": "2026-10-01T03:09:11.909050",
+  "last_fetched": "2026-10-01T06:25:34.962349",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T06:24:03Z",
   "number": 214,
-  "state": "open",
-  "updated_at": "2026-10-01T02:22:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T06:24:03Z"
 }

@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"06025382b5851c06764f15b3d6da5bfb4e5d97ff5b7933bfbd2355d2653d2c89\"",
-  "Last-Modified": "Sat, 26 Sep 2026 04:16:25 GMT",
+  "ETag": "W/\"ae048d22f4e942082d38184daeec34931ebbb43f6766c7638e14a62f43183fd1\"",
+  "Last-Modified": "Thu, 01 Oct 2026 18:14:34 GMT",
   "base": {
     "repo": {
       "name": "aws-c-sdkutils-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T18:14:32Z",
   "created_at": "2026-09-02T07:07:51Z",
   "draft": false,
   "e_tag": "\"6e826b8d78f39f33da9c19486647b1f4579e7b3835da29404fecfa3b1419cef6\"",
   "head": {
-    "ref": "1.0.0_hca6002"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-c-sdkutils-feedstock/pull/108",
   "id": 4419660963,
-  "labels": [],
-  "last_fetched": "2026-09-26T07:25:21.379865",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3460797767,
+      "name": "automerge",
+      "node_id": "LA_kwDOGO6Fvc7OR5VH",
+      "url": "https://api.github.com/repos/conda-forge/aws-c-sdkutils-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T18:15:06.935359",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T18:14:32Z",
   "number": 108,
-  "state": "open",
-  "updated_at": "2026-09-26T04:16:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T18:14:34Z"
 }

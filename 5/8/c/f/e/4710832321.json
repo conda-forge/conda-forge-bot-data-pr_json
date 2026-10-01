@@ -1,26 +1,40 @@
 {
+  "ETag": "W/\"0620706fc73ffbac176aed7b05a2305e438d48fd901f6fc0a9e7e517f9bb9e78\"",
+  "Last-Modified": "Thu, 01 Oct 2026 23:46:29 GMT",
   "base": {
     "repo": {
       "name": "neo-jax-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T23:46:25Z",
   "created_at": "2026-10-01T23:29:56Z",
   "draft": false,
   "e_tag": "\"b3ae0cce35f3d180307ae05e8fe04e73cdec8a7d88dfa4ebc7d9de83567f1c0b\"",
   "head": {
-    "ref": "1.0.3_hc9205a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/neo-jax-feedstock/pull/3",
   "id": 4710832321,
-  "labels": [],
-  "last_fetched": "2026-10-01T23:29:57.103926",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10950899516,
+      "name": "automerge",
+      "node_id": "LA_kwDOSdUinc8AAAACjLl3PA",
+      "url": "https://api.github.com/repos/conda-forge/neo-jax-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-01T23:47:10.743999",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-01T23:46:25Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-01T23:29:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T23:46:29Z"
 }

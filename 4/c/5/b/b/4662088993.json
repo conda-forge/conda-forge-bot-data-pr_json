@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"858951a627bf874237defa75d7168598e0b3b4c66ed133ac39252fec1fbe7517\"",
-  "Last-Modified": "Mon, 28 Sep 2026 09:57:37 GMT",
+  "ETag": "W/\"932c493619043903ab72dc1a6cde7655429738ca9291bae9f9b0063bda3ae665\"",
+  "Last-Modified": "Thu, 01 Oct 2026 06:41:20 GMT",
   "base": {
     "repo": {
       "name": "pyocse-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T06:41:20Z",
   "created_at": "2026-09-28T09:55:10Z",
   "draft": false,
   "e_tag": "\"9c375cea02a88f6645b8dcdd245731f93c2b91a569db3f409dbfcbe274ae5bd1\"",
   "head": {
-    "ref": "0.1.6_h542c71"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyocse-feedstock/pull/7",
   "id": 4662088993,
   "labels": [],
-  "last_fetched": "2026-09-28T13:07:16.050516",
+  "last_fetched": "2026-10-01T06:42:52.852175",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T06:41:20Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-28T09:57:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T06:41:20Z"
 }

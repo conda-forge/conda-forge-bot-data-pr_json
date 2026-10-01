@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"47257dcbc6bf9e06c76404d0682c3480bc0b725d29a52f920b9400e82760e80b\"",
-  "Last-Modified": "Thu, 01 Oct 2026 18:44:56 GMT",
+  "ETag": "W/\"0870971ad18f1c4d8fddf29512298ebde884e1f7b6fb0ae9ed957b9e274542bd\"",
+  "Last-Modified": "Thu, 01 Oct 2026 21:07:30 GMT",
   "base": {
     "repo": {
       "name": "selenium-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T21:07:30Z",
   "created_at": "2026-09-30T23:13:18Z",
   "draft": false,
   "e_tag": "\"8606fbf5b79913a52ff9b7a3f5574ccb8a21e83837b3cb386e7803b9efd78fcd\"",
   "head": {
-    "ref": "4.50.0_h84cba5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/selenium-feedstock/pull/133",
   "id": 4697042731,
   "labels": [],
-  "last_fetched": "2026-10-01T18:46:40.392130",
+  "last_fetched": "2026-10-01T21:09:21.824729",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T21:07:30Z",
   "number": 133,
-  "state": "open",
-  "updated_at": "2026-10-01T18:44:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T21:07:30Z"
 }

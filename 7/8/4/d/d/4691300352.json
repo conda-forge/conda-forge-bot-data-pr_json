@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"e665c8a8b5f190f29736b822d50d94eb4f9a82e3bee5b5f14915597a735de62e\"",
-  "Last-Modified": "Fri, 02 Oct 2026 16:35:17 GMT",
+  "ETag": "W/\"830ec56ad9da63cafd12881ab242273e74ce67997a126682bba5325fe6368886\"",
+  "Last-Modified": "Fri, 02 Oct 2026 20:31:54 GMT",
   "base": {
     "repo": {
       "name": "cudnn-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/cudnn-feedstock/pull/155",
   "id": 4691300352,
-  "labels": [],
-  "last_fetched": "2026-10-02T17:25:33.912936",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2586455501,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNTg2NDU1NTAx",
+      "url": "https://api.github.com/repos/conda-forge/cudnn-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T20:33:42.290147",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 155,
   "state": "open",
-  "updated_at": "2026-10-02T16:35:17Z"
+  "updated_at": "2026-10-02T20:31:54Z"
 }

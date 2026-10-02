@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c8a054aa750a5a39eef506029485639650501aceaced3a260e3b60712df5c360\"",
+  "Last-Modified": "Fri, 02 Oct 2026 13:19:46 GMT",
   "base": {
     "repo": {
       "name": "pylegendmeta-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T13:19:42Z",
   "created_at": "2026-10-02T13:17:37Z",
   "draft": false,
   "e_tag": "\"767c8947390449fc721cd0e2c27f47b1f4ad0112a4585cf1e8d50ac02c0fc680\"",
   "head": {
-    "ref": "1.10.0_hda69e2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylegendmeta-feedstock/pull/27",
   "id": 4716903810,
   "labels": [],
-  "last_fetched": "2026-10-02T13:17:38.557906",
+  "last_fetched": "2026-10-02T13:21:30.980763",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T13:19:42Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-02T13:17:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T13:19:46Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"7f4ae83e96d841b5a9eada14c0ea7cd99c0ea935ad8903192bb94f5d36e171bf\"",
+  "Last-Modified": "Fri, 02 Oct 2026 02:17:02 GMT",
   "base": {
     "repo": {
       "name": "arro3-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T02:16:58Z",
   "created_at": "2026-10-02T01:31:58Z",
   "draft": false,
   "e_tag": "\"c5eff29795654752a8068d49708f81a3c68c04d5bc915e50ed0bd51e4cd7d088\"",
   "head": {
-    "ref": "0.9.0_ha95e1a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arro3-core-feedstock/pull/46",
   "id": 4711601622,
   "labels": [],
-  "last_fetched": "2026-10-02T01:31:59.730925",
+  "last_fetched": "2026-10-02T02:18:42.507997",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T02:16:58Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-10-02T01:31:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T02:17:02Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6284e53a8f25f8557a53d91d7c6c8b3ab591ec8cbd82defaef31556ec5d4a75a\"",
-  "Last-Modified": "Thu, 01 Oct 2026 16:29:14 GMT",
+  "ETag": "W/\"6238067840b3af33a0399361570b8d26fa67c6a0f5d78e2c39a66aa42a206770\"",
+  "Last-Modified": "Thu, 01 Oct 2026 19:07:57 GMT",
   "base": {
     "repo": {
       "name": "condeltri-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-01T19:07:56Z",
   "created_at": "2026-10-01T16:29:13Z",
   "draft": false,
   "e_tag": "\"8bd594506c256391ecad5ac8b3c2bcf9e58f3bd7cb60db76e5714755f2438ee3\"",
   "head": {
-    "ref": "0.1.0_hd3b802"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/condeltri-feedstock/pull/12",
   "id": 4706554884,
   "labels": [],
-  "last_fetched": "2026-10-01T18:35:49.276951",
+  "last_fetched": "2026-10-02T07:35:22.433776",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-01T19:07:56Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-01T16:31:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-01T19:07:57Z"
 }

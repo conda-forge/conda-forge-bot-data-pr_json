@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"a42fed2298b46ecdbf31e25095c4b61b1f51d714181d02a45deba974ec7fd239\"",
-  "Last-Modified": "Fri, 02 Oct 2026 11:36:45 GMT",
+  "ETag": "W/\"966bfe66bfeb2a15154c161ef58794a46dae224f2d37426355a23e3bf1233309\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:40:33 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-speech-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:40:30Z",
   "created_at": "2026-10-01T20:30:29Z",
   "draft": false,
   "e_tag": "\"406d596e7f1da6cc7cb61d64506f194b9a21276618b615a6ea2ae169c6a4981f\"",
   "head": {
-    "ref": "2.41.0_h8c15a2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-speech-feedstock/pull/68",
   "id": 4709227937,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-speech-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-02T11:39:47.167938",
+  "last_fetched": "2026-10-02T11:43:58.288776",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T11:40:30Z",
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-10-02T11:36:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:40:33Z"
 }

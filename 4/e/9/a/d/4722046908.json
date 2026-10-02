@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"916bd660c70e79f0fa0d754d7209803567ddf120b60b175c669a872b98cc2630\"",
+  "Last-Modified": "Fri, 02 Oct 2026 22:51:51 GMT",
   "base": {
     "repo": {
       "name": "breathe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T22:51:51Z",
   "created_at": "2026-10-02T22:17:25Z",
   "draft": false,
   "e_tag": "\"2dd65a4eaa53e573cf3b2d01fa5540068b071045564cbb8829d3c1e3538117f0\"",
   "head": {
-    "ref": "5.1.0_heb54b2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/breathe-feedstock/pull/69",
   "id": 4722046908,
   "labels": [],
-  "last_fetched": "2026-10-02T22:17:26.352138",
+  "last_fetched": "2026-10-02T22:53:29.032381",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T22:51:51Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-10-02T22:17:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T22:51:51Z"
 }

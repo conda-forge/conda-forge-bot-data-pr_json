@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"fb0ad28dd68b7cfcfb263e6d24750b68c7db6e47a8a8578b67ab1cc0c3917a48\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:30:18 GMT",
   "base": {
     "repo": {
       "name": "bayesian-optimization-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:30:14Z",
   "created_at": "2026-10-02T11:26:13Z",
   "draft": false,
   "e_tag": "\"bf29b2e16a9e4e1db82e4479a12ccf25df504c3c1a1e5bf7c05ef0c5345a63b2\"",
   "head": {
-    "ref": "3.4.0_h3c6e3a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bayesian-optimization-feedstock/pull/45",
   "id": 4715868921,
   "labels": [],
-  "last_fetched": "2026-10-02T11:26:13.916695",
+  "last_fetched": "2026-10-02T11:32:47.827030",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T11:30:14Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-10-02T11:26:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:30:18Z"
 }

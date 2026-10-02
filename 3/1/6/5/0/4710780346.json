@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"1feecc4a1f5c644d9511bf7f4e4daf798fd662859847a72586a768d9828b50b3\"",
-  "Last-Modified": "Thu, 01 Oct 2026 23:24:01 GMT",
+  "ETag": "W/\"20c8708f760b7483a14233d96c76a344a3c4b90613ec777a23d5cd99139f088a\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:26:52 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-automl-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-automl-feedstock/pull/58",
   "id": 4710780346,
-  "labels": [],
-  "last_fetched": "2026-10-02T07:35:37.353736",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2040730557,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMDQwNzMwNTU3",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-automl-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:28:40.926842",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 58,
   "state": "open",
-  "updated_at": "2026-10-01T23:24:01Z"
+  "updated_at": "2026-10-02T11:26:52Z"
 }

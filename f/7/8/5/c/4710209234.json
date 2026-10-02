@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d205d79aa8c545d3cbb0363bb73be0a3ea37e206252d892a776409e7ab045490\"",
-  "Last-Modified": "Thu, 01 Oct 2026 22:10:01 GMT",
+  "ETag": "W/\"c4004e6b4ea52603f708c828395a84fd37d8c7e46c8823942f3ad61828bad328\"",
+  "Last-Modified": "Fri, 02 Oct 2026 05:51:13 GMT",
   "base": {
     "repo": {
       "name": "tonio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T05:51:13Z",
   "created_at": "2026-10-01T22:08:15Z",
   "draft": false,
   "e_tag": "\"c316b77742ae46fdf89786e73dbdd6fce8594bcbe30d4559caf308e989d3044f\"",
   "head": {
-    "ref": "0.10.3_hd8460b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tonio-feedstock/pull/19",
   "id": 4710209234,
   "labels": [],
-  "last_fetched": "2026-10-02T01:02:04.028238",
+  "last_fetched": "2026-10-02T05:52:47.683880",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T05:51:13Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-01T22:10:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T05:51:13Z"
 }

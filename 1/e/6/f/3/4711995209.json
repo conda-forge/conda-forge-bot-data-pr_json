@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"b65cae1a9c3bda2200bc819d90ac4ad27490db0d827a24bdd3403afaf0cc80ea\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:33:43 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-monitoring-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-monitoring-feedstock/pull/80",
   "id": 4711995209,
-  "labels": [],
-  "last_fetched": "2026-10-02T02:32:41.877464",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890938308,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTM4MzA4",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-monitoring-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T12:38:56.041538",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 80,
   "state": "open",
-  "updated_at": "2026-10-02T02:32:41Z"
+  "updated_at": "2026-10-02T11:33:43Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"a0f12d5759cc49ae31ad2a98f48f1c2460dde2de42de74eb48eef9eba3d67180\"",
-  "Last-Modified": "Fri, 02 Oct 2026 11:33:19 GMT",
+  "ETag": "W/\"9b73d11fad111268a93f5a349205127fe8557424419892ca4d040f9f8dbcdd83\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:39:12 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-memcache-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:39:07Z",
   "created_at": "2026-10-02T02:33:51Z",
   "draft": false,
   "e_tag": "\"2eabe8a1ed8db2e859af73d63e241aa170f0f92a826b043c6e55e7107f35179e\"",
   "head": {
-    "ref": "1.17.0_h403706"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-memcache-feedstock/pull/39",
   "id": 4712002323,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-memcache-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-02T11:37:31.928013",
+  "last_fetched": "2026-10-02T11:42:29.186193",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T11:39:07Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-10-02T11:33:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:39:12Z"
 }

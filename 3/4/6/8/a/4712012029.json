@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"bf542ebbb43126486abbdd8d29ba1f5a17661d29950f6d3614af9c8d0356db64\"",
+  "Last-Modified": "Fri, 02 Oct 2026 02:37:50 GMT",
   "base": {
     "repo": {
       "name": "anyscale-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T02:37:47Z",
   "created_at": "2026-10-02T02:35:20Z",
   "draft": false,
   "e_tag": "\"50895060eaefa58dd5225bf7631143a791344b0e1d35b7717628788569b6ce08\"",
   "head": {
-    "ref": "0.26.109_h2c0f81"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anyscale-feedstock/pull/212",
   "id": 4712012029,
   "labels": [],
-  "last_fetched": "2026-10-02T02:35:21.824380",
+  "last_fetched": "2026-10-02T02:39:17.685192",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T02:37:47Z",
   "number": 212,
-  "state": "open",
-  "updated_at": "2026-10-02T02:35:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T02:37:50Z"
 }

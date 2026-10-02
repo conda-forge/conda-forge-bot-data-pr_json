@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"26767e2408fa62855e4e79df125591371e7ca34a34854eca16fa6ec8129d164e\"",
-  "Last-Modified": "Fri, 02 Oct 2026 04:23:57 GMT",
+  "ETag": "W/\"9e212b8595289217534c46ac42591318a21edd9ff32251c7a5d86524d081ab1e\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:26:23 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-appengine-logging-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-appengine-logging-feedstock/pull/26",
   "id": 4712648729,
-  "labels": [],
-  "last_fetched": "2026-10-02T05:02:56.651110",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3091476700,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMDkxNDc2NzAw",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-appengine-logging-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:28:09.183581",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 26,
   "state": "open",
-  "updated_at": "2026-10-02T04:23:57Z"
+  "updated_at": "2026-10-02T11:26:23Z"
 }

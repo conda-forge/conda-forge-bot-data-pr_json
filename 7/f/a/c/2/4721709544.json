@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b3a9d3186a2a3d661ac02fb24016215627c07f46d3946b04516bc63c66e44a7b\"",
-  "Last-Modified": "Fri, 02 Oct 2026 21:33:36 GMT",
+  "ETag": "W/\"7f028fcb64fa9ebbd1c0d9ee857403bd7a33f6d4bc7ec01d9d84255885506bef\"",
+  "Last-Modified": "Fri, 02 Oct 2026 21:38:52 GMT",
   "base": {
     "repo": {
       "name": "trame-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T21:37:32Z",
   "created_at": "2026-10-02T21:33:35Z",
   "draft": false,
   "e_tag": "\"206e580324a3342810002762b12a133be7bc7afc8fe13ec58197b73235c0df1c\"",
   "head": {
-    "ref": "4.1.3_h9bb650"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trame-client-feedstock/pull/96",
   "id": 4721709544,
   "labels": [],
-  "last_fetched": "2026-10-02T21:37:11.139013",
+  "last_fetched": "2026-10-02T22:48:11.812757",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T21:37:32Z",
   "number": 96,
-  "state": "open",
-  "updated_at": "2026-10-02T21:35:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T21:38:52Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"9473c1bd03208e0dee7152dc24bd0d4ad054dc0237a1e372ccd9084321bd7d19\"",
-  "Last-Modified": "Fri, 02 Oct 2026 20:19:50 GMT",
+  "ETag": "W/\"27f99a4adcc753b1be90cf619832c5195e38873805d846cfa41b410d4867621a\"",
+  "Last-Modified": "Fri, 02 Oct 2026 22:53:55 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-cpp-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T22:53:51Z",
   "created_at": "2026-10-02T20:18:00Z",
   "draft": false,
   "e_tag": "\"d35598b41e678055abffe20e5f674bcdf318f03a3a465f7baa5f8c60b52707e0\"",
   "head": {
-    "ref": "3.11.0_h5dd459"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-cpp-core-feedstock/pull/62",
   "id": 4721045276,
   "labels": [],
-  "last_fetched": "2026-10-02T22:24:14.935194",
+  "last_fetched": "2026-10-02T22:55:32.795668",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T22:53:50Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-10-02T20:19:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T22:53:55Z"
 }

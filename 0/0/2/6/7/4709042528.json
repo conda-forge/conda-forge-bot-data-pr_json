@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"1428843a8bebc4d0ef0b055362116ba7941388d766193105dae0243e9d59c1e3\"",
-  "Last-Modified": "Thu, 01 Oct 2026 22:00:33 GMT",
+  "ETag": "W/\"7b87890a5369f2a44d89b7e810d3e4317918099f1f08324e554fc79fc90025d0\"",
+  "Last-Modified": "Fri, 02 Oct 2026 01:57:29 GMT",
   "base": {
     "repo": {
       "name": "amrex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T01:57:29Z",
   "created_at": "2026-10-01T20:13:33Z",
   "draft": false,
   "e_tag": "\"7fbb87cbbd7fb1e7bed1d1c6deab1768a78c4d5e67de9f3edab577fae984f0f7\"",
   "head": {
-    "ref": "26.10_h014cb1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/amrex-feedstock/pull/90",
   "id": 4709042528,
   "labels": [],
-  "last_fetched": "2026-10-01T22:37:27.258305",
+  "last_fetched": "2026-10-02T01:59:14.206552",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T01:57:28Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-10-01T22:00:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T01:57:29Z"
 }

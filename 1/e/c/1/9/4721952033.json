@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6526ac6d45717977effdad525072eed561f189e2abb0c1aca0026833a1a9c476\"",
+  "Last-Modified": "Fri, 02 Oct 2026 22:14:34 GMT",
   "base": {
     "repo": {
       "name": "grype-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T22:14:30Z",
   "created_at": "2026-10-02T22:04:05Z",
   "draft": false,
   "e_tag": "\"1d9bb335cad913f6656703fbbc75215aff97309fb6e2684041b8021432b0379f\"",
   "head": {
-    "ref": "0.120.0_h28420a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/grype-feedstock/pull/75",
   "id": 4721952033,
   "labels": [],
-  "last_fetched": "2026-10-02T22:04:05.781904",
+  "last_fetched": "2026-10-02T22:16:04.036224",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T22:14:30Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-02T22:04:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T22:14:34Z"
 }

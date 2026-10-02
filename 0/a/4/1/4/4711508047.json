@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9d8a7c8f4d245fc21f1ab9519ee31a33707c0f9888e646d95da3f26911782666\"",
+  "Last-Modified": "Fri, 02 Oct 2026 01:43:59 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-azurerm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T01:43:54Z",
   "created_at": "2026-10-02T01:16:24Z",
   "draft": false,
   "e_tag": "\"03b70d95945ec4be314007e26f828a6343f0062e904a737eee763ee9d60147ab\"",
   "head": {
-    "ref": "5.8.0_h27859f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-azurerm-feedstock/pull/245",
   "id": 4711508047,
   "labels": [],
-  "last_fetched": "2026-10-02T01:16:24.965422",
+  "last_fetched": "2026-10-02T01:45:38.240853",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T01:43:54Z",
   "number": 245,
-  "state": "open",
-  "updated_at": "2026-10-02T01:16:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T01:43:59Z"
 }

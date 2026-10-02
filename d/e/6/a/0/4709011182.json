@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c4fecf2862a21841d4484f3ac191252deef84b37edacdacfd98b0eeb57e4d167\"",
-  "Last-Modified": "Thu, 01 Oct 2026 20:12:31 GMT",
+  "ETag": "W/\"c53040a4f8250b703740443bb87726ebb116276348fdf0ec549839a14f5fde23\"",
+  "Last-Modified": "Fri, 02 Oct 2026 01:06:27 GMT",
   "base": {
     "repo": {
       "name": "gtk4-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T01:06:26Z",
   "created_at": "2026-10-01T20:10:42Z",
   "draft": false,
   "e_tag": "\"3d6c1082cd17ae5067d18e0c6960fd9c71b1a835f3ee61036e8ed16518bae0ac\"",
   "head": {
-    "ref": "4.24.1_h3996c2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gtk4-feedstock/pull/91",
   "id": 4709011182,
   "labels": [],
-  "last_fetched": "2026-10-01T20:29:36.070603",
+  "last_fetched": "2026-10-02T01:08:43.188037",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T01:06:26Z",
   "number": 91,
-  "state": "open",
-  "updated_at": "2026-10-01T20:12:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T01:06:27Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"574c416840c6e87106c062b7c85c869c7fa67aecbbdeefcedf8cd64dbcda773f\"",
-  "Last-Modified": "Fri, 02 Oct 2026 13:05:40 GMT",
+  "ETag": "W/\"7805c8917f60b07c9b5c6795947ad379fbfc213823f77035ae794f6f92569af8\"",
+  "Last-Modified": "Fri, 02 Oct 2026 13:32:54 GMT",
   "base": {
     "repo": {
       "name": "pygorder-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T13:32:53Z",
   "created_at": "2026-09-08T00:53:24Z",
   "draft": false,
   "e_tag": "\"036c27465d00878d929938f5fbf1c870775d5ced16fabe7c55e1360077d3e53a\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hd735aa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pygorder-feedstock/pull/6",
   "id": 4468977037,
   "labels": [],
-  "last_fetched": "2026-10-02T13:29:03.562675",
+  "last_fetched": "2026-10-02T13:34:36.926785",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T13:32:53Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-02T13:05:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T13:32:54Z"
 }

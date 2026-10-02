@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"fb15a293645d9e7678f895deddd9d2368f31e28940e45d506dc26643c963a901\"",
-  "Last-Modified": "Wed, 30 Sep 2026 21:36:17 GMT",
+  "ETag": "W/\"82c092e3add915436d38d9fd0726cc8dba5f9f0fbcf074f4d2c96a70f4ac610a\"",
+  "Last-Modified": "Fri, 02 Oct 2026 13:05:02 GMT",
   "base": {
     "repo": {
       "name": "fastjet-contrib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T13:05:02Z",
   "created_at": "2026-09-30T21:34:25Z",
   "draft": false,
   "e_tag": "\"36d148b04d96a5b58ec31ee49b29fb85da041340870f8dc2daa28da769643002\"",
   "head": {
-    "ref": "1.105_h5aa5c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fastjet-contrib-feedstock/pull/26",
   "id": 4696275836,
   "labels": [],
-  "last_fetched": "2026-09-30T23:23:15.909832",
+  "last_fetched": "2026-10-02T13:06:42.780543",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T13:05:02Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-09-30T21:36:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T13:05:02Z"
 }

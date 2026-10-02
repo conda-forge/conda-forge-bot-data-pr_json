@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"475c3fe9bf373c3c29230bd9f7dbc3d33ecf0beefd5e777f013afce01e59798f\"",
-  "Last-Modified": "Thu, 01 Oct 2026 20:31:01 GMT",
+  "ETag": "W/\"effc7b71bd3738d246c86cca12e35b432bc2772b3a3fcb85fdbc7bd660dc1c94\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:33:02 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-managedkafka-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-managedkafka-feedstock/pull/11",
   "id": 4709212007,
-  "labels": [],
-  "last_fetched": "2026-10-01T20:58:57.339616",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8220590610,
+      "name": "automerge",
+      "node_id": "LA_kwDOOA8GEM8AAAAB6fxCEg",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-managedkafka-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:36:31.222596",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 11,
   "state": "open",
-  "updated_at": "2026-10-01T20:31:01Z"
+  "updated_at": "2026-10-02T11:33:02Z"
 }

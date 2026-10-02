@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"0a9240beb672f836423f625de84a57a220de2844f2557426fe6a7195e66545ac\"",
-  "Last-Modified": "Fri, 02 Oct 2026 11:58:30 GMT",
+  "ETag": "W/\"ff13056d1a0cd68fbec0deddf2b72a87d64099c9cc875b9b457c2d7f041b98f1\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:58:27 GMT",
   "base": {
     "repo": {
       "name": "menuinst-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/menuinst-feedstock/pull/68",
   "id": 4440413928,
-  "labels": [],
-  "last_fetched": "2026-10-02T11:59:40.045419",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:58:30.248684",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 68,
   "state": "closed",
-  "updated_at": "2026-10-02T11:58:30Z"
+  "updated_at": "2026-10-02T11:58:27Z"
 }

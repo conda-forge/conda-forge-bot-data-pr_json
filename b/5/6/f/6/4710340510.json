@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"8dd6e138676f86f899c17370e88a90873c95fcc2f0b7ac9a302b7259ed08fe03\"",
-  "Last-Modified": "Thu, 01 Oct 2026 22:24:49 GMT",
+  "ETag": "W/\"b62b95d59c0d02341bede510e25979d201423bb6eb1b2127a82f55f761008bd1\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:30:47 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-dataproc-metastore-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-dataproc-metastore-feedstock/pull/39",
   "id": 4710340510,
-  "labels": [],
-  "last_fetched": "2026-10-02T01:41:59.348566",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3649610448,
+      "name": "automerge",
+      "node_id": "LA_kwDOGi0Awc7ZiKLQ",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-dataproc-metastore-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:32:45.530177",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 39,
   "state": "open",
-  "updated_at": "2026-10-01T22:24:49Z"
+  "updated_at": "2026-10-02T11:30:47Z"
 }

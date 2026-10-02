@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9c468434260b0128874bae9bfe022b8ee86eb41a7235bfdac5afe391739e1877\"",
-  "Last-Modified": "Thu, 01 Oct 2026 22:12:33 GMT",
+  "ETag": "W/\"fa33b79718036a5d536f6b3ac83a05af35c12aee653932eac6f4f6703ce62b7f\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:37:48 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-texttospeech-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-texttospeech-feedstock/pull/70",
   "id": 4710233593,
-  "labels": [],
-  "last_fetched": "2026-10-01T23:34:31.269857",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2026726875,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMDI2NzI2ODc1",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-texttospeech-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:40:11.201396",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 70,
   "state": "open",
-  "updated_at": "2026-10-01T22:12:33Z"
+  "updated_at": "2026-10-02T11:37:48Z"
 }

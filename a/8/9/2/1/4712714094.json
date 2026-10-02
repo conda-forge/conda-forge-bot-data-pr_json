@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"40c4c05f6d46b12b859bb47db4ec193552805e39a9c8987b26069d5bd711520a\"",
+  "Last-Modified": "Fri, 02 Oct 2026 04:35:53 GMT",
   "base": {
     "repo": {
       "name": "django-health-check-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T04:35:49Z",
   "created_at": "2026-10-02T04:33:42Z",
   "draft": false,
   "e_tag": "\"ef138245554e32284f407af5b254e5ebf54475efcda32d46123d41ed84837cf6\"",
   "head": {
-    "ref": "4.7.2_h311633"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-health-check-feedstock/pull/48",
   "id": 4712714094,
   "labels": [],
-  "last_fetched": "2026-10-02T04:33:43.741205",
+  "last_fetched": "2026-10-02T04:37:01.946211",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T04:35:49Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-02T04:33:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T04:35:53Z"
 }

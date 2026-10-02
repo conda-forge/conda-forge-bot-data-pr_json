@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"81ea04a383b71acb733dc3d54fe79b85116ada07cc7f56cd149bc3bde578e0a2\"",
-  "Last-Modified": "Fri, 02 Oct 2026 11:38:09 GMT",
+  "ETag": "W/\"2e0933769f0052dabbd2d5ffd970f6e0f9dea3da3d001d19c1dc513e4692a69b\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:42:19 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-trace-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:42:15Z",
   "created_at": "2026-10-01T21:49:44Z",
   "draft": false,
   "e_tag": "\"86fdbd6051567e1a7ac1d36a626ce72f1f309bc08ba74cb906ea63d7e2dfb41c\"",
   "head": {
-    "ref": "1.21.0_h446a7d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-trace-feedstock/pull/54",
   "id": 4710045746,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-trace-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-02T11:40:55.251732",
+  "last_fetched": "2026-10-02T11:44:39.383475",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T11:42:15Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-02T11:38:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:42:19Z"
 }

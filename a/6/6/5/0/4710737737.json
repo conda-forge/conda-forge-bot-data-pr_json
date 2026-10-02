@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"5515d1c4b44ead1e69f3e51d6718a1eebd2dcfe877be01b7376ec03041ad149f\"",
-  "Last-Modified": "Thu, 01 Oct 2026 23:17:54 GMT",
+  "ETag": "W/\"0b2995db4585246204d76efc7eebf54ced1b87f6dff3a893f2c8041ac9b4e59f\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:42:31 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-videointelligence-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:42:31Z",
   "created_at": "2026-10-01T23:15:57Z",
   "draft": false,
   "e_tag": "\"491ba098660e7cb78e69b142a6bb3c858ccc9bf488219ccb25313285a1729ce3\"",
   "head": {
-    "ref": "2.21.0_heb434e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-videointelligence-feedstock/pull/54",
   "id": 4710737737,
-  "labels": [],
-  "last_fetched": "2026-10-01T23:58:34.265168",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2040731237,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMDQwNzMxMjM3",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-videointelligence-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:42:37.880141",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T11:42:31Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-01T23:17:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:42:35Z"
 }

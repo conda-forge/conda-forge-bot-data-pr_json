@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"23f56a89c5829981369c7368c6fb71f861331a7b9de60f52edadea6288c1bcd2\"",
+  "Last-Modified": "Fri, 02 Oct 2026 01:36:47 GMT",
   "base": {
     "repo": {
       "name": "mail-parser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T01:36:43Z",
   "created_at": "2026-10-02T01:33:01Z",
   "draft": false,
   "e_tag": "\"0e2d609f024951f237893568d2861c6c5c176c93943a5deb0df3c32f217ecf87\"",
   "head": {
-    "ref": "4.8.0_h88cf07"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mail-parser-feedstock/pull/28",
   "id": 4711607450,
   "labels": [],
-  "last_fetched": "2026-10-02T01:33:01.742032",
+  "last_fetched": "2026-10-02T01:38:00.805866",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T01:36:43Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-02T01:33:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T01:36:47Z"
 }

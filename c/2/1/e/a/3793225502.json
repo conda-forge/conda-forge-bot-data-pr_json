@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c5fc8101aa86300b634d4254e5487464e0c969fe2e80e45e84c998b1d53fa748\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"217437bab07dc0178dbec4c61b1092082c8fd81105b959f63a3686fd39b33cdb\"",
+  "Last-Modified": "Fri, 02 Oct 2026 08:11:32 GMT",
   "base": {
     "repo": {
       "name": "rpscore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T08:11:32Z",
   "created_at": "2026-06-03T06:19:12Z",
   "draft": false,
   "e_tag": "\"692a51365ef520e3bc231c0ddfa40faeccc42901fe1898e8f4c2506b956c1a86\"",
   "head": {
-    "ref": "6.8.3_h220fd6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rpscore-feedstock/pull/2",
   "id": 3793225502,
   "labels": [],
-  "last_fetched": "2026-09-27T09:00:18.528420",
+  "last_fetched": "2026-10-02T08:12:47.693834",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T08:11:32Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-06-03T06:20:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T08:11:32Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"813910d8e79013feef332eaf4b908cbe20b21b17186f80fc7cdf47052bc41d83\"",
+  "Last-Modified": "Fri, 02 Oct 2026 15:30:18 GMT",
   "base": {
     "repo": {
       "name": "gcloud-aio-pubsub-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/gcloud-aio-pubsub-feedstock/pull/11",
   "id": 4717745048,
-  "labels": [],
-  "last_fetched": "2026-10-02T14:39:14.101616",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4824015256,
+      "name": "automerge",
+      "node_id": "LA_kwDOIeZ1ss8AAAABH4ihmA",
+      "url": "https://api.github.com/repos/conda-forge/gcloud-aio-pubsub-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T15:31:52.209642",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 11,
   "state": "open",
-  "updated_at": "2026-10-02T14:39:13Z"
+  "updated_at": "2026-10-02T15:30:21Z"
 }

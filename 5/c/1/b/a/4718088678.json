@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"05ed74764c4f68fdecf84489d7a5311a8970b9afac5b15a578eb0a4fd110d8c8\"",
-  "Last-Modified": "Fri, 02 Oct 2026 15:13:09 GMT",
+  "ETag": "W/\"42d621df9ce81f2f076665cb68f7543833a4aa92d1144df9ab5c42012214ed13\"",
+  "Last-Modified": "Fri, 02 Oct 2026 20:26:34 GMT",
   "base": {
     "repo": {
       "name": "hdf5-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T20:25:55Z",
   "created_at": "2026-10-02T15:11:26Z",
   "draft": false,
   "e_tag": "\"9aeab8cea708ec0be1eb2bc4d0fb0ece5f9e453bf6ee23f9952f670bbf4e2cd0\"",
   "head": {
-    "ref": "rebuild-aws_c_1_0-0-1_hddcc90"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hdf5-feedstock/pull/325",
   "id": 4718088678,
   "labels": [],
-  "last_fetched": "2026-10-02T16:00:03.812212",
+  "last_fetched": "2026-10-02T20:27:35.654575",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T20:25:55Z",
   "number": 325,
-  "state": "open",
-  "updated_at": "2026-10-02T15:13:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T20:26:34Z"
 }

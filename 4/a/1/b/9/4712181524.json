@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"53ef649cba9033db7a92bca9c4d66a67cff829350c67a5f176831ee88b0e0af2\"",
-  "Last-Modified": "Fri, 02 Oct 2026 03:03:52 GMT",
+  "ETag": "W/\"386f13bbeef74984cbb18498d74701413be16878a642e2e680fc7a6e09d0490a\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:35:46 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-resource-manager-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-resource-manager-feedstock/pull/55",
   "id": 4712181524,
-  "labels": [],
-  "last_fetched": "2026-10-02T05:28:10.350326",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2029262927,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMDI5MjYyOTI3",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-resource-manager-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:38:37.053625",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 55,
   "state": "open",
-  "updated_at": "2026-10-02T03:03:52Z"
+  "updated_at": "2026-10-02T11:35:49Z"
 }

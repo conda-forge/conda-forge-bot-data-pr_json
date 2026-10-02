@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"bdfd5b4552904a2d671b44959799ae42f41f3b1357edcbb7a345a3eb6f39de2e\"",
-  "Last-Modified": "Thu, 01 Oct 2026 22:22:40 GMT",
+  "ETag": "W/\"2eb01e63c5d5163b2db45fba92f876e2a47b97b1c6af3cc264e841ce4aa6c1cf\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:31:37 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-dataflow-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:31:33Z",
   "created_at": "2026-10-01T22:20:54Z",
   "draft": false,
   "e_tag": "\"7e338a04aa7c92cf67ff5c9ef7f72f7a62aa54c3346354f393d787bd61704108\"",
   "head": {
-    "ref": "0.14.1_hd4be6e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-dataflow-client-feedstock/pull/25",
   "id": 4710321115,
-  "labels": [],
-  "last_fetched": "2026-10-01T22:58:07.880420",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5150752094,
+      "name": "automerge",
+      "node_id": "LA_kwDOI9bg488AAAABMwI9Xg",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-dataflow-client-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:33:00.339684",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T11:31:33Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-10-01T22:22:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:31:37Z"
 }

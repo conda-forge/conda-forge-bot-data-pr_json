@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"25600bdc977461fdfd92b77c55ee64ccbcef146a4e967d1d23601be76a59894f\"",
-  "Last-Modified": "Sun, 27 Sep 2026 16:25:53 GMT",
+  "ETag": "W/\"e63d2dcac7f12c5ac29ba2f4f371760878d58c81e39229b6a558c9efb8ef624d\"",
+  "Last-Modified": "Fri, 02 Oct 2026 13:22:40 GMT",
   "base": {
     "repo": {
       "name": "triton-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T13:22:40Z",
   "created_at": "2026-08-28T19:22:41Z",
   "draft": false,
   "e_tag": "\"ccc06c7495e37014c1aae9f63c3039faa88bde6d43be6e34b81619406db42376\"",
   "head": {
-    "ref": "3.8.0_h3e4a60"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/triton-feedstock/pull/74",
   "id": 4387473043,
   "labels": [],
-  "last_fetched": "2026-09-27T17:34:02.255181",
+  "last_fetched": "2026-10-02T13:24:20.057217",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T13:22:40Z",
   "number": 74,
-  "state": "open",
-  "updated_at": "2026-09-27T16:25:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T13:22:40Z"
 }

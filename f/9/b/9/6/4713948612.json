@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"07173f1ff0bffe7b5782f57dd8de661b4b41ebb09a4494462f6e552a50fdfb7d\"",
-  "Last-Modified": "Fri, 02 Oct 2026 07:42:29 GMT",
+  "ETag": "W/\"2f23580650de111f249d3d65587df9fd48cc62c38da5b67087f7ba93a2cc49be\"",
+  "Last-Modified": "Fri, 02 Oct 2026 08:16:22 GMT",
   "base": {
     "repo": {
       "name": "pyrosm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T08:16:22Z",
   "created_at": "2026-10-02T07:40:57Z",
   "draft": false,
   "e_tag": "\"dfc17da82d91d3ad8346575d6bf75d0b0840c2e9f75399e9cdf13ddc6848808c\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyrosm-feedstock/pull/35",
   "id": 4713948612,
-  "labels": [],
-  "last_fetched": "2026-10-02T08:02:20.845030",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 2169542161,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwyMTY5NTQyMTYx",
+      "url": "https://api.github.com/repos/conda-forge/pyrosm-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-02T08:16:25.552242",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-02T07:42:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T08:16:22Z"
 }

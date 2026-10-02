@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"140f116cfc3b23f9998115f7a6640ddc2c2733d987030174bf2e85b94c86395b\"",
+  "Last-Modified": "Fri, 02 Oct 2026 16:48:28 GMT",
   "base": {
     "repo": {
       "name": "cloudpathlib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T16:48:28Z",
   "created_at": "2026-10-02T10:15:50Z",
   "draft": false,
   "e_tag": "\"bafe5288ee9ccce085e1fb284f3a164060a64921a9d9a7256fd5b2f6a1a3d8a6\"",
   "head": {
-    "ref": "0.26.0_h0e6609"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cloudpathlib-feedstock/pull/59",
   "id": 4715280211,
   "labels": [],
-  "last_fetched": "2026-10-02T10:15:51.549169",
+  "last_fetched": "2026-10-02T16:50:22.926311",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T16:48:28Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-10-02T10:15:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T16:48:28Z"
 }

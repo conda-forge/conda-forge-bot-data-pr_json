@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c8ddece095185e2674f400c3b17cffa158d8a3f3e5a850e6775c5f4b78d29525\"",
+  "Last-Modified": "Fri, 02 Oct 2026 01:20:49 GMT",
   "base": {
     "repo": {
       "name": "textual-textarea-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T01:20:45Z",
   "created_at": "2026-10-02T01:18:31Z",
   "draft": false,
   "e_tag": "\"f5e66a3ed477e89ba1373b0762f2ba3dc93e848121ac397fd2010a4278d002a0\"",
   "head": {
-    "ref": "0.18.5_hf3964f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/textual-textarea-feedstock/pull/35",
   "id": 4711521009,
   "labels": [],
-  "last_fetched": "2026-10-02T01:18:32.375235",
+  "last_fetched": "2026-10-02T01:22:11.919857",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T01:20:45Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-02T01:18:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T01:20:49Z"
 }

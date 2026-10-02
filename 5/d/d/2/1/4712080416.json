@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"beab96d77170744398ee6cb7df0e67c835f473ae695762b69d40b1e95b24a2b4\"",
-  "Last-Modified": "Fri, 02 Oct 2026 02:47:44 GMT",
+  "ETag": "W/\"3bc728089d53fec9b75c48c98531811437f9abc682f5809c7741c7f3da72c5b6\"",
+  "Last-Modified": "Fri, 02 Oct 2026 14:08:42 GMT",
   "base": {
     "repo": {
       "name": "financetoolkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T14:08:42Z",
   "created_at": "2026-10-02T02:46:08Z",
   "draft": false,
   "e_tag": "\"70a018239e086cc2aa017acfdc3f47e3e97842716bc39e9531697e5382a9e585\"",
   "head": {
-    "ref": "2.2.1_h73b69d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/financetoolkit-feedstock/pull/64",
   "id": 4712080416,
   "labels": [],
-  "last_fetched": "2026-10-02T07:54:46.660668",
+  "last_fetched": "2026-10-02T14:09:55.787168",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T14:08:42Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-10-02T02:47:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T14:08:42Z"
 }

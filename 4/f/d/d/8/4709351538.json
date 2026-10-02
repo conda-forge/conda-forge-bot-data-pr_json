@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"5e1aa789e161aac594aadba4fe7d8a2822817051cf313ada1303c67be4b0894b\"",
-  "Last-Modified": "Thu, 01 Oct 2026 20:43:04 GMT",
+  "ETag": "W/\"f85adbffd592e41eb9a393c4d2fcfc8698f66e17e7282c8e2758915ef850da71\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:29:43 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-dataform-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-dataform-feedstock/pull/37",
   "id": 4709351538,
-  "labels": [],
-  "last_fetched": "2026-10-01T23:34:22.692702",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4455723498,
+      "name": "automerge",
+      "node_id": "LA_kwDOH3l8-88AAAABCZTx6g",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-dataform-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:32:02.871803",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 37,
   "state": "open",
-  "updated_at": "2026-10-01T20:43:04Z"
+  "updated_at": "2026-10-02T11:29:43Z"
 }

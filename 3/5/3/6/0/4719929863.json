@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"083bf669add910e44b997e62e8594291b2bc9556eb66a656dcadc4a77dbd38ec\"",
-  "Last-Modified": "Fri, 02 Oct 2026 18:25:01 GMT",
+  "ETag": "W/\"d5294df4d9ad3c4efcc942d7c39a00c427efc8f3eee69ef0664735350e15c1e8\"",
+  "Last-Modified": "Fri, 02 Oct 2026 19:31:18 GMT",
   "base": {
     "repo": {
       "name": "intel-compiler-repack-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T19:31:18Z",
   "created_at": "2026-10-02T18:22:53Z",
   "draft": false,
   "e_tag": "\"cf0003ecbb698bd94e688f752c53ad48c03d2c0688267da889f8df4853ed1a97\"",
   "head": {
-    "ref": "rebuild-libhwloc2150-0-1_h7f95e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/intel-compiler-repack-feedstock/pull/91",
   "id": 4719929863,
   "labels": [],
-  "last_fetched": "2026-10-02T18:51:16.380507",
+  "last_fetched": "2026-10-02T19:32:31.949428",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T19:31:18Z",
   "number": 91,
-  "state": "open",
-  "updated_at": "2026-10-02T18:25:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T19:31:18Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c3b892945b75ccd297a1f5812b0df34bb18185751bc27815815c563b46976b24\"",
-  "Last-Modified": "Fri, 02 Oct 2026 15:59:28 GMT",
+  "ETag": "W/\"eae2d5634fdf3341b880575663515d763077e91c8990692e2a7bc17f1e0bbdd0\"",
+  "Last-Modified": "Fri, 02 Oct 2026 15:59:26 GMT",
   "base": {
     "repo": {
       "name": "xraylib-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/xraylib-feedstock/pull/63",
   "id": 4104352286,
-  "labels": [],
-  "last_fetched": "2026-10-02T16:00:45.850112",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-02T15:59:28.781632",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 63,
   "state": "closed",
-  "updated_at": "2026-10-02T15:59:28Z"
+  "updated_at": "2026-10-02T15:59:26Z"
 }

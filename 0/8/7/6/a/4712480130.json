@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d3fa13e66ea3aa4fc354c49be3bfaf35eb0fabaf104cd5b8882ead96ac77be1f\"",
-  "Last-Modified": "Fri, 02 Oct 2026 03:54:44 GMT",
+  "ETag": "W/\"fab59f38d5e39c72e86ba13bdf26b0a2069fbd2eea9455b9e441e810d1d0da1d\"",
+  "Last-Modified": "Fri, 02 Oct 2026 15:25:17 GMT",
   "base": {
     "repo": {
       "name": "photochem-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T15:25:17Z",
   "created_at": "2026-10-02T03:52:56Z",
   "draft": false,
   "e_tag": "\"0fd24fa0666724405fbda37183af9648e29053d452b0de9b5765f9cb6a5f8cd6\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h7aca7a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/photochem-feedstock/pull/48",
   "id": 4712480130,
   "labels": [],
-  "last_fetched": "2026-10-02T04:31:22.747174",
+  "last_fetched": "2026-10-02T15:26:46.217408",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T15:25:17Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-02T03:54:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T15:25:17Z"
 }

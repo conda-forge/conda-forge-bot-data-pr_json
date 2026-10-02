@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"04b849b12ab6e5f44e3a1b8b0358598eba4c3654abced17666867e64fe1b6235\"",
-  "Last-Modified": "Wed, 30 Sep 2026 17:32:28 GMT",
+  "ETag": "W/\"231e92097277d7d61a84ad3c9867d3c613ef13ca3ba43db11fc945c90e7adc07\"",
+  "Last-Modified": "Fri, 02 Oct 2026 18:49:46 GMT",
   "base": {
     "repo": {
       "name": "pdm-backend-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T18:49:46Z",
   "created_at": "2026-09-30T17:30:59Z",
   "draft": false,
   "e_tag": "\"e8b62367b7340f48b3c9bc172685c50ec8bd2ebcd1d744c4d86d46c12384755c\"",
   "head": {
-    "ref": "2.5.0_heb04d7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pdm-backend-feedstock/pull/38",
   "id": 4693853998,
   "labels": [],
-  "last_fetched": "2026-09-30T22:59:46.399577",
+  "last_fetched": "2026-10-02T18:51:03.870241",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T18:49:46Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-09-30T17:32:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T18:49:46Z"
 }

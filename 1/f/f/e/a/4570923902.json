@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"9f4dda48e7203bda3852ae648982a6a5a04fe6a08b745043c76a84c9b1f1ec2e\"",
-  "Last-Modified": "Fri, 18 Sep 2026 16:55:26 GMT",
+  "ETag": "W/\"87e6adfe231d924806c12917a1544c850ed59f35c4402f6df47a3df97caf46b6\"",
+  "Last-Modified": "Fri, 02 Oct 2026 18:54:06 GMT",
   "base": {
     "repo": {
       "name": "awscrt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T18:54:04Z",
   "created_at": "2026-09-18T16:47:49Z",
   "draft": false,
   "e_tag": "\"ae16a3611998b17845eeff35011bcc2ed509dd0f511d4952f26a47c844f4d505\"",
   "head": {
-    "ref": "0.36.4_h702a3e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/awscrt-feedstock/pull/722",
   "id": 4570923902,
-  "labels": [],
-  "last_fetched": "2026-09-26T10:23:17.483427",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3088095637,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMDg4MDk1NjM3",
+      "url": "https://api.github.com/repos/conda-forge/awscrt-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T18:54:31.207660",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T18:54:04Z",
   "number": 722,
-  "state": "open",
-  "updated_at": "2026-09-18T16:55:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T18:54:06Z"
 }

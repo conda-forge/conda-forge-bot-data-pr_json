@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"c14ae4f10dd88f0079f17a4db332cdb77900cc749d546ba5a571fd0c8e99bd4f\"",
-  "Last-Modified": "Fri, 02 Oct 2026 08:07:46 GMT",
+  "ETag": "W/\"3fa6082dcf565f2eacb2ba7f04ac8eea4fedd3b922a112554c5dce282ce93daa\"",
+  "Last-Modified": "Fri, 02 Oct 2026 09:50:22 GMT",
   "base": {
     "repo": {
       "name": "aws-c-mqtt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T09:50:19Z",
   "created_at": "2026-09-02T21:01:33Z",
   "draft": false,
   "e_tag": "\"272ad6fc917de1083bcd7f70b671ee61d2dbfbe0fb1697fd6401b5848a13636b\"",
   "head": {
-    "ref": "1.0.0_h085eab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-c-mqtt-feedstock/pull/298",
   "id": 4426632667,
-  "labels": [],
-  "last_fetched": "2026-10-02T08:53:52.321773",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2991596843,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyOTkxNTk2ODQz",
+      "url": "https://api.github.com/repos/conda-forge/aws-c-mqtt-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T09:51:46.070481",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T09:50:19Z",
   "number": 298,
-  "state": "open",
-  "updated_at": "2026-10-02T08:07:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T09:50:22Z"
 }

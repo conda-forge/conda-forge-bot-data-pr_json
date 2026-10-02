@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"f00ee14236ee58a59c6d614d4d5f894e533d9386817199042c2bf542d5173d84\"",
-  "Last-Modified": "Fri, 02 Oct 2026 17:47:35 GMT",
+  "ETag": "W/\"5e11fd6626147c8b085eef1d6d18c25efa5831737f8eedf073454c378b2a3a45\"",
+  "Last-Modified": "Fri, 02 Oct 2026 17:47:33 GMT",
   "base": {
     "repo": {
       "name": "hip-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/hip-feedstock/pull/25",
   "id": 3766058966,
-  "labels": [],
-  "last_fetched": "2026-10-02T17:49:12.954375",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-02T17:47:36.098576",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 25,
   "state": "closed",
-  "updated_at": "2026-10-02T17:47:35Z"
+  "updated_at": "2026-10-02T17:47:33Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"fa33b79718036a5d536f6b3ac83a05af35c12aee653932eac6f4f6703ce62b7f\"",
-  "Last-Modified": "Fri, 02 Oct 2026 11:37:48 GMT",
+  "ETag": "W/\"40db64ac88729db4aa59a5167f3ea53e1e659abcf48d5791f9cbcfe8092a7983\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:41:49 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-texttospeech-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:41:45Z",
   "created_at": "2026-10-01T22:10:55Z",
   "draft": false,
   "e_tag": "\"244f82aaa1537520ca697f9ddb6d01826154562400faf23cf22a6f7198a434fa\"",
   "head": {
-    "ref": "2.38.0_h862d90"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-texttospeech-feedstock/pull/70",
   "id": 4710233593,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-texttospeech-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-02T11:40:11.201396",
+  "last_fetched": "2026-10-02T11:45:55.385821",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T11:41:45Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-10-02T11:37:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:41:49Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"eb386157ff73fd21c1c297b9f5f518d9339c573ef4ac1bd64cd6d8b8866f12db\"",
-  "Last-Modified": "Fri, 02 Oct 2026 01:41:22 GMT",
+  "ETag": "W/\"26da342a15513e923ce5f3eece28332bb94063ac9bc215b576462e25c77b3785\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:35:31 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-redis-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-redis-feedstock/pull/59",
   "id": 4711644227,
-  "labels": [],
-  "last_fetched": "2026-10-02T02:46:01.054657",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2033732160,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMDMzNzMyMTYw",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-redis-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T13:59:58.059355",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 59,
   "state": "open",
-  "updated_at": "2026-10-02T01:41:22Z"
+  "updated_at": "2026-10-02T11:35:31Z"
 }

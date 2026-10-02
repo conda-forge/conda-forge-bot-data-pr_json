@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"861a17c620d3c193af5e75a588b64d71d0b9f2123c12f8661d8604f58ed4e928\"",
-  "Last-Modified": "Thu, 01 Oct 2026 20:06:57 GMT",
+  "ETag": "W/\"a34645e715bbcc00d41f6590387439d5377011d63de7bb8c08425d640a0e6817\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:29:36 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-bigquery-datatransfer-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-bigquery-datatransfer-feedstock/pull/58",
   "id": 4708952255,
-  "labels": [],
-  "last_fetched": "2026-10-01T20:29:02.001927",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2040730387,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMDQwNzMwMzg3",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-bigquery-datatransfer-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:29:53.123906",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 58,
   "state": "open",
-  "updated_at": "2026-10-01T20:06:57Z"
+  "updated_at": "2026-10-02T11:29:36Z"
 }

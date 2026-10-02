@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"1abda2d00358254f3e5229f48746778a22b2f04cee78e1d87cab7d3999e78de5\"",
-  "Last-Modified": "Fri, 02 Oct 2026 01:37:29 GMT",
+  "ETag": "W/\"cf282f72910828672dfacd1e759426a9d01ad8103f174aab5b3508f94845f451\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:37:19 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-storage-transfer-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-storage-transfer-feedstock/pull/23",
   "id": 4711623183,
-  "labels": [],
-  "last_fetched": "2026-10-02T03:32:31.833314",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5740755291,
+      "name": "automerge",
+      "node_id": "LA_kwDOJ8HU7M8AAAABViz5Ww",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-storage-transfer-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:39:24.960997",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 23,
   "state": "open",
-  "updated_at": "2026-10-02T01:37:29Z"
+  "updated_at": "2026-10-02T11:39:22Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6310725c08ffa5939043341c12d3b56b6849711a431b036853a8ec5e27aa1225\"",
+  "Last-Modified": "Fri, 02 Oct 2026 07:29:22 GMT",
   "base": {
     "repo": {
       "name": "python-chromedriver-binary-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T07:29:17Z",
   "created_at": "2026-10-02T07:24:14Z",
   "draft": false,
   "e_tag": "\"c918bf37eb345bb36220bf1b5dca7e203b0e7cfb397e732351ef94ad14961366\"",
   "head": {
-    "ref": "157.0.8081.0.0_ha087e9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-chromedriver-binary-feedstock/pull/917",
   "id": 4713816191,
   "labels": [],
-  "last_fetched": "2026-10-02T07:24:15.042640",
+  "last_fetched": "2026-10-02T07:31:34.919931",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T07:29:17Z",
   "number": 917,
-  "state": "open",
-  "updated_at": "2026-10-02T07:24:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T07:29:22Z"
 }

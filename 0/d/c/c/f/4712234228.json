@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ac2d7a1ad6b4be7bb8b7d8b7e25f1f64fc5c64e7f479665b18c5c8d03c667a59\"",
+  "Last-Modified": "Fri, 02 Oct 2026 04:36:04 GMT",
   "base": {
     "repo": {
       "name": "dd4hep-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T04:36:04Z",
   "created_at": "2026-10-02T03:10:13Z",
   "draft": false,
   "e_tag": "\"04d8949a790ccc85bbb2b42867a7e61f0a2328a4a6c05b19e0b4a4b22d37d7bd\"",
   "head": {
-    "ref": "rebuild-geant41143-0-1_h210550"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dd4hep-feedstock/pull/13",
   "id": 4712234228,
   "labels": [],
-  "last_fetched": "2026-10-02T03:10:13.964029",
+  "last_fetched": "2026-10-02T04:37:19.263205",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T04:36:04Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-02T03:10:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T04:36:04Z"
 }

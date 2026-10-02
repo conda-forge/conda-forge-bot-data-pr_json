@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c64e30f81c98ae01270c1b275d980f8ca89a526e95a8525aeabef98d73525aa7\"",
-  "Last-Modified": "Fri, 02 Oct 2026 12:15:05 GMT",
+  "ETag": "W/\"bf08d524da74dbe6a2a86daa9130514351a05479c731eb4ce3ba72f4660de541\"",
+  "Last-Modified": "Fri, 02 Oct 2026 14:26:36 GMT",
   "base": {
     "repo": {
       "name": "mypy-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/mypy-feedstock/pull/157",
   "id": 4711637535,
-  "labels": [],
-  "last_fetched": "2026-10-02T12:37:50.347208",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891022313,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDIyMzEz",
+      "url": "https://api.github.com/repos/conda-forge/mypy-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T14:28:25.355757",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 157,
   "state": "open",
-  "updated_at": "2026-10-02T12:15:05Z"
+  "updated_at": "2026-10-02T14:26:36Z"
 }

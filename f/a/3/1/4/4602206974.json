@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"139587353d023bb8421fbc857897c056aded7159abb5fd569a5563a09c2cb84e\"",
-  "Last-Modified": "Tue, 22 Sep 2026 12:43:24 GMT",
+  "ETag": "W/\"67ea6103dec0d4fdb7303c8c77a29b6fe4b6825b19d320ab9b3f9b98423fe435\"",
+  "Last-Modified": "Fri, 02 Oct 2026 18:42:23 GMT",
   "base": {
     "repo": {
       "name": "propcache-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T18:42:23Z",
   "created_at": "2026-09-22T12:43:23Z",
   "draft": false,
   "e_tag": "\"e5a082e65dd2e85b58836e8bbebe4e72dd56e8359b158c8cf9d74481fe0254ff\"",
   "head": {
-    "ref": "0.5.4_he2742a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/propcache-feedstock/pull/10",
   "id": 4602206974,
   "labels": [],
-  "last_fetched": "2026-09-29T17:24:01.881115",
+  "last_fetched": "2026-10-02T18:44:13.881444",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T18:42:23Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-09-22T12:45:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T18:42:23Z"
 }

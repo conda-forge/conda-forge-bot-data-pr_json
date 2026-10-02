@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"b63680f9ff5a86e9cdd264666ff502658882c647054a28160fe8824375ac9cdb\"",
-  "Last-Modified": "Fri, 02 Oct 2026 02:53:33 GMT",
+  "ETag": "W/\"a7a4d5c6758b62c74e83bd04a1110bce3ad60a6206e48b3997aed0e4736da538\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:31:41 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-error-reporting-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-error-reporting-feedstock/pull/44",
   "id": 4712117666,
-  "labels": [],
-  "last_fetched": "2026-10-02T05:27:57.643230",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2024420799,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMDI0NDIwNzk5",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-error-reporting-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:34:40.136930",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 44,
   "state": "open",
-  "updated_at": "2026-10-02T02:53:33Z"
+  "updated_at": "2026-10-02T11:31:44Z"
 }

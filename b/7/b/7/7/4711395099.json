@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"4a604caae9701d016dc76188579e6b09743f873437c6b3c541ba98a9b9c5037b\"",
-  "Last-Modified": "Fri, 02 Oct 2026 01:00:49 GMT",
+  "ETag": "W/\"38cd71e317de1d4490b85c9a7bb940d54d8f4196dc513aae3e2f549b9256b33d\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:30:46 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-datacatalog-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-datacatalog-feedstock/pull/65",
   "id": 4711395099,
-  "labels": [],
-  "last_fetched": "2026-10-02T01:42:04.495117",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2766945070,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzY2OTQ1MDcw",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-datacatalog-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:31:03.982665",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 65,
   "state": "open",
-  "updated_at": "2026-10-02T01:00:49Z"
+  "updated_at": "2026-10-02T11:30:46Z"
 }

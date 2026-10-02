@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"a638a7fa3424b77d499035b389637a194be826a7c99628d4ddc7d82e6a311c87\"",
+  "Last-Modified": "Fri, 02 Oct 2026 05:13:48 GMT",
   "base": {
     "repo": {
       "name": "pylabdd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T05:13:48Z",
   "created_at": "2026-10-02T03:37:05Z",
   "draft": false,
   "e_tag": "\"649e96f01bda6e8451b6dc71bdf6025a3467f23afdcd6daad11d2be3e1cd668f\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hb128f1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylabdd-feedstock/pull/10",
   "id": 4712388912,
   "labels": [],
-  "last_fetched": "2026-10-02T03:37:06.814121",
+  "last_fetched": "2026-10-02T05:14:49.850208",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T05:13:48Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-02T03:37:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T05:13:48Z"
 }

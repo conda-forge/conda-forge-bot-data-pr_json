@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"86b4ed50339aa2bcde9387172a7da2202b74a7328c423bb42bd5365afdd5915f\"",
-  "Last-Modified": "Thu, 01 Oct 2026 20:33:20 GMT",
+  "ETag": "W/\"a42fed2298b46ecdbf31e25095c4b61b1f51d714181d02a45deba974ec7fd239\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:36:45 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-speech-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-speech-feedstock/pull/68",
   "id": 4709227937,
-  "labels": [],
-  "last_fetched": "2026-10-02T04:02:18.427255",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2766945826,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzY2OTQ1ODI2",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-speech-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:39:47.167938",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 68,
   "state": "open",
-  "updated_at": "2026-10-01T20:33:20Z"
+  "updated_at": "2026-10-02T11:36:45Z"
 }

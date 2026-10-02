@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"fe86081123dc4100c2bd41205b8349729d446d407447485be6662d687adc9d19\"",
-  "Last-Modified": "Fri, 02 Oct 2026 10:16:25 GMT",
+  "ETag": "W/\"780d5e199a3912f8484223360a950169e477a4f5e6478580b15513078124525b\"",
+  "Last-Modified": "Fri, 02 Oct 2026 18:53:00 GMT",
   "base": {
     "repo": {
       "name": "sharplib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T18:53:00Z",
   "created_at": "2026-10-02T10:14:12Z",
   "draft": false,
   "e_tag": "\"be4bbf23526b60bb56a69d1ac728ed4ec5092da67f96b84a49bdf6f6c5ec271e\"",
   "head": {
-    "ref": "1.4.3_hcd4f86"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sharplib-feedstock/pull/19",
   "id": 4715267137,
   "labels": [],
-  "last_fetched": "2026-10-02T11:25:05.635918",
+  "last_fetched": "2026-10-02T18:54:14.894966",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T18:53:00Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-02T10:16:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T18:53:00Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"52fef10be105b5ae25e35c776b3d9806e85dc786bd2cbd8ea60b3d11f0e48de2\"",
-  "Last-Modified": "Thu, 01 Oct 2026 22:19:47 GMT",
+  "ETag": "W/\"3c555fde9b155e9af4e5d7fd3c27d2924e6a5fa884a4ed48c69f050a974163fd\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:30:07 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-dataplex-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-dataplex-feedstock/pull/59",
   "id": 4710297675,
-  "labels": [],
-  "last_fetched": "2026-10-01T22:35:51.627388",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3950094881,
+      "name": "automerge",
+      "node_id": "LA_kwDOHCaDyM7rcaoh",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-dataplex-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:31:39.434556",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 59,
   "state": "open",
-  "updated_at": "2026-10-01T22:19:47Z"
+  "updated_at": "2026-10-02T11:30:07Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"f5a320c3e6480671478c446f660bf4bbb33682290e3210002ff7123c14cceb97\"",
-  "Last-Modified": "Fri, 02 Oct 2026 11:32:41 GMT",
+  "ETag": "W/\"fc974d41f1b07c9556983c93b3699254a5bbf5563258ca0a2fd5c5dceb52d802\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:36:58 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-logging-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:36:54Z",
   "created_at": "2026-10-02T03:03:13Z",
   "draft": false,
   "e_tag": "\"c7ebf3de09b5e9861fe1c9f2472a67c0ab3e5ba231f8e9b8c2a20a9505ad994c\"",
   "head": {
-    "ref": "3.17.0_h8d50ff"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-logging-feedstock/pull/48",
   "id": 4712188644,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-logging-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-02T11:36:03.372653",
+  "last_fetched": "2026-10-02T11:39:37.626249",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T11:36:54Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-02T11:32:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:36:58Z"
 }

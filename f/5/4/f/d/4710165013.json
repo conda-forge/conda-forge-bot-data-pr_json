@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"25535fece718a825a934f4ca5b10b70becb3106f6f573140046a2ddcd29ee759\"",
-  "Last-Modified": "Fri, 02 Oct 2026 11:36:27 GMT",
+  "ETag": "W/\"0f30dc4cdba06374ec323bd58a5f75384c9eb98d6aa4663b474dcafb21615eca\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:41:16 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-secret-manager-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:41:12Z",
   "created_at": "2026-10-01T22:03:22Z",
   "draft": false,
   "e_tag": "\"9d4aaf899243260914f988094e4127379183e3084a6c74e32542614a830bb4b6\"",
   "head": {
-    "ref": "2.31.0_h7a310e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-secret-manager-feedstock/pull/60",
   "id": 4710165013,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-secret-manager-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-02T11:39:52.623809",
+  "last_fetched": "2026-10-02T11:43:28.874973",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T11:41:12Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-02T11:36:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:41:16Z"
 }

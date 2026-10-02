@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"221d6098e0741450d9b12011826f0d931d0acc91718c6830922e521b856082cd\"",
-  "Last-Modified": "Fri, 02 Oct 2026 04:31:29 GMT",
+  "ETag": "W/\"cf37f46176e6b61410305fc768cad93e242b7b2b4469fbe1c935564455e3fca6\"",
+  "Last-Modified": "Fri, 02 Oct 2026 15:22:34 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-tasks-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T15:22:34Z",
   "created_at": "2026-10-02T04:31:28Z",
   "draft": false,
   "e_tag": "\"8c0364fd299839f05a18d355fc4de0965c44dc36562bc8627627cfffb907b39f\"",
   "head": {
-    "ref": "2.26.0_hd3e3f8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-tasks-feedstock/pull/53",
   "id": 4712701736,
   "labels": [],
-  "last_fetched": "2026-10-02T12:37:46.834122",
+  "last_fetched": "2026-10-02T15:23:48.487251",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T15:22:34Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-10-02T11:37:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T15:22:34Z"
 }

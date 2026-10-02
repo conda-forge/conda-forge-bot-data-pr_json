@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"4d0ba15e3ffaa7ddca780acd1090f283634a2c52e7c101ac93181d5669e97f17\"",
-  "Last-Modified": "Fri, 25 Sep 2026 19:38:15 GMT",
+  "ETag": "W/\"2dec6c427bc0ca4ded26e7728bec50f1fd9d4020d30c477d1945eb7ddb1193a6\"",
+  "Last-Modified": "Fri, 02 Oct 2026 20:00:46 GMT",
   "base": {
     "repo": {
       "name": "vcf-rdfizer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T20:00:46Z",
   "created_at": "2026-09-25T19:36:44Z",
   "draft": false,
   "e_tag": "\"df84fcaa5e930bd8f8660195cf46b33b3bfb03e3d558c683cf90fcca6d907915\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/vcf-rdfizer-feedstock/pull/8",
   "id": 4641942762,
-  "labels": [],
-  "last_fetched": "2026-09-25T19:58:29.937575",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-02T20:00:49.692216",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-25T19:38:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T20:00:46Z"
 }

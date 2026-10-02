@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"573df64d7fa0d437f6e43c80b58e3ac380f8666d39cd4ef4c2d3e8e7b72b9b8e\"",
-  "Last-Modified": "Thu, 01 Oct 2026 23:50:48 GMT",
+  "ETag": "W/\"278bedfef1ff469ffd00b80837d9d45c3dcf5538df512a7ed6d5c66fef929a55\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:35:13 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-recommendations-ai-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-recommendations-ai-feedstock/pull/31",
   "id": 4710957466,
-  "labels": [],
-  "last_fetched": "2026-10-01T23:59:24.722323",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3398785425,
+      "name": "automerge",
+      "node_id": "LA_kwDOGIYCIM7KlVmR",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-recommendations-ai-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T15:01:47.192106",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 31,
   "state": "open",
-  "updated_at": "2026-10-01T23:50:48Z"
+  "updated_at": "2026-10-02T11:35:13Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e028fb8f6ae9e3c9955ba05bfbe6fd692e2577da2105e8d1127910bdc039b6a7\"",
-  "Last-Modified": "Fri, 02 Oct 2026 06:09:25 GMT",
+  "ETag": "W/\"95ead51d8c4c81dab42ec174e4a813f6455c54098c3c705f441723d392e4177a\"",
+  "Last-Modified": "Fri, 02 Oct 2026 14:19:19 GMT",
   "base": {
     "repo": {
       "name": "python-ipware-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T14:19:19Z",
   "created_at": "2026-10-02T06:07:47Z",
   "draft": false,
   "e_tag": "\"bfdb7410baa029500049c096765463acdaefd60b9359e1088f6a1adc0147cddb\"",
   "head": {
-    "ref": "4.1.1_h4a7b58"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-ipware-feedstock/pull/10",
   "id": 4713279806,
   "labels": [],
-  "last_fetched": "2026-10-02T07:55:58.301218",
+  "last_fetched": "2026-10-02T14:21:00.643734",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T14:19:19Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-02T06:09:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T14:19:19Z"
 }

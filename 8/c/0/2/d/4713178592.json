@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"54c327ae5478643a25ad975cb6fd5a131f2676f326b0a7cf383c7c27544264b1\"",
-  "Last-Modified": "Fri, 02 Oct 2026 05:54:48 GMT",
+  "ETag": "W/\"9e959c6b5d05d101af2bc1659a31a23fe9e23bb8ecf5fbb3577a7db088400d98\"",
+  "Last-Modified": "Fri, 02 Oct 2026 12:34:35 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-pubsub-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T12:34:34Z",
   "created_at": "2026-10-02T05:52:37Z",
   "draft": false,
   "e_tag": "\"41373e1dc380922c7702365b5c4070ec0674fa9843be0c4a19b29e63a39b4f0d\"",
   "head": {
-    "ref": "2.42.0_h8bba0a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-pubsub-feedstock/pull/119",
   "id": 4713178592,
   "labels": [],
-  "last_fetched": "2026-10-02T07:11:37.886785",
+  "last_fetched": "2026-10-02T12:36:11.519822",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T12:34:34Z",
   "number": 119,
-  "state": "open",
-  "updated_at": "2026-10-02T05:54:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T12:34:35Z"
 }

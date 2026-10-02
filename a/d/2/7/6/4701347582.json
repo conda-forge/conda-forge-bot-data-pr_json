@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"3418991d987d57d820876026a813903e4bae5d94c535ff4c7a5354a1c37678ae\"",
-  "Last-Modified": "Fri, 02 Oct 2026 03:14:36 GMT",
+  "ETag": "W/\"7e63c59e3a0e5165646d53efc530932dd908d5d9c3be7325f31a3c37decd799a\"",
+  "Last-Modified": "Fri, 02 Oct 2026 06:59:00 GMT",
   "base": {
     "repo": {
       "name": "astyle-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T06:59:00Z",
   "created_at": "2026-10-01T08:40:05Z",
   "draft": false,
   "e_tag": "\"c2bef23bec9572ac79b33b2d25dcc2bc0a2a5bdc55fcd30b4b72c28c48367261\"",
   "head": {
-    "ref": "3.6.19_h705697"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/astyle-feedstock/pull/6",
   "id": 4701347582,
   "labels": [],
-  "last_fetched": "2026-10-02T03:33:04.396773",
+  "last_fetched": "2026-10-02T07:00:31.001516",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-02T06:59:00Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-02T03:14:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T06:59:00Z"
 }

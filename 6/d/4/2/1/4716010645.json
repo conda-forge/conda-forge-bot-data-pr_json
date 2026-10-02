@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d749857441e75a46db73b7ec8daaaa3d1609f6c5893c5222db019a42bf122ca2\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:51:03 GMT",
   "base": {
     "repo": {
       "name": "meepmeep-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T11:51:03Z",
   "created_at": "2026-10-02T11:42:54Z",
   "draft": false,
   "e_tag": "\"cbade3ec2dcbd05fa30556cf0e69dbbd577ae83165b87d2018dbc7c4711327eb\"",
   "head": {
-    "ref": "1.2.1_h2649ec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/meepmeep-feedstock/pull/7",
   "id": 4716010645,
   "labels": [],
-  "last_fetched": "2026-10-02T11:42:54.842730",
+  "last_fetched": "2026-10-02T11:52:43.891604",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T11:51:03Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-02T11:42:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T11:51:03Z"
 }

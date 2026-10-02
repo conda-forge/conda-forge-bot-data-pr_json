@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c2c5077ba3ffe031f6008578270c1d70b2b2e0b218a41d3a596b0528d67d9739\"",
-  "Last-Modified": "Fri, 02 Oct 2026 05:56:47 GMT",
+  "ETag": "W/\"34b81af8f1f0807df96893e4cfb912a81ccb04cf96294ae7ec17e617ee6eb44a\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:32:23 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-language-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-language-feedstock/pull/60",
   "id": 4713194205,
-  "labels": [],
-  "last_fetched": "2026-10-02T09:30:18.269322",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890938291,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTM4Mjkx",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-language-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:35:54.287899",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 60,
   "state": "open",
-  "updated_at": "2026-10-02T05:56:47Z"
+  "updated_at": "2026-10-02T11:32:23Z"
 }

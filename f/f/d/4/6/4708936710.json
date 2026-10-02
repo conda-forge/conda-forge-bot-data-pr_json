@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"139227792583f62c4f4cd3c7f80d317639b8a1a8e19e2bd3b1792cb63e9cf4e7\"",
-  "Last-Modified": "Thu, 01 Oct 2026 20:05:52 GMT",
+  "ETag": "W/\"4e249525e8695e4ca0a48460c36e775f8bf740eb4804abca79214f37cbc83b66\"",
+  "Last-Modified": "Fri, 02 Oct 2026 15:22:51 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-orchestration-airflow-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-orchestration-airflow-feedstock/pull/44",
   "id": 4708936710,
-  "labels": [],
-  "last_fetched": "2026-10-01T21:26:25.208072",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3848585307,
+      "name": "automerge",
+      "node_id": "LA_kwDOG3vIMM7lZMBb",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-orchestration-airflow-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T15:24:30.364208",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 44,
   "state": "open",
-  "updated_at": "2026-10-01T20:05:52Z"
+  "updated_at": "2026-10-02T15:22:51Z"
 }

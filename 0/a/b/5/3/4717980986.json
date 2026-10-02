@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e317c36539cf6c982e03f151c36da82533478d06c2089d83ee4aa65c646e32ef\"",
+  "Last-Modified": "Fri, 02 Oct 2026 15:05:49 GMT",
   "base": {
     "repo": {
       "name": "pyjanitor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T15:05:45Z",
   "created_at": "2026-10-02T15:01:16Z",
   "draft": false,
   "e_tag": "\"17adc21fd58e72da78823f64d85d1e14ede29f5c00d2a5a7977311b3332e426e\"",
   "head": {
-    "ref": "0.32.29_h137e40"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyjanitor-feedstock/pull/99",
   "id": 4717980986,
   "labels": [],
-  "last_fetched": "2026-10-02T15:01:17.813403",
+  "last_fetched": "2026-10-02T15:07:37.011460",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T15:05:45Z",
   "number": 99,
-  "state": "open",
-  "updated_at": "2026-10-02T15:01:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T15:05:49Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"42c423e107ea44a6e76650cda0baeeb0dbef45254bb466846987ab90197ce3b2\"",
+  "Last-Modified": "Fri, 02 Oct 2026 07:45:51 GMT",
   "base": {
     "repo": {
       "name": "pyroscope-io-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T07:45:47Z",
   "created_at": "2026-10-02T07:21:25Z",
   "draft": false,
   "e_tag": "\"f2775fa53bdd6d7dd81fd64444289a00313a91de006b5ea5c21b9273a0d92c89\"",
   "head": {
-    "ref": "1.2.5_ha656ae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyroscope-io-feedstock/pull/19",
   "id": 4713794613,
   "labels": [],
-  "last_fetched": "2026-10-02T07:21:27.041616",
+  "last_fetched": "2026-10-02T07:47:03.996906",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T07:45:47Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-02T07:21:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T07:45:51Z"
 }

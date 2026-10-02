@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9ede327f60e250c95459810c3dcc5eda254aed6f6b14d0f54e8da14fc0b7905d\"",
+  "Last-Modified": "Fri, 02 Oct 2026 06:51:37 GMT",
   "base": {
     "repo": {
       "name": "pp-sketchlib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-02T06:51:37Z",
   "created_at": "2026-10-01T22:49:59Z",
   "draft": false,
   "e_tag": "\"9023f1fb04aa3d0fccbc28c584184728789696cea807ffebca5674136056f259\"",
   "head": {
-    "ref": "rebuild-python315-0-1_ha22ebf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pp-sketchlib-feedstock/pull/72",
   "id": 4710556147,
   "labels": [],
-  "last_fetched": "2026-10-01T22:50:00.579918",
+  "last_fetched": "2026-10-02T06:53:14.773124",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-02T06:51:37Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-10-01T22:49:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-02T06:51:37Z"
 }

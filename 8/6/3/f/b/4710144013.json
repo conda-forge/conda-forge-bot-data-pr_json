@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"f0f2c3a7907d8498a34d921f1b4bf267b89a4617b878694e2b2d0e587a976abe\"",
-  "Last-Modified": "Thu, 01 Oct 2026 22:02:48 GMT",
+  "ETag": "W/\"7dbe12ca0b477f7b3c5fe24027edf8c3afff3cd8c593ee94e9399318f1cdeaa2\"",
+  "Last-Modified": "Fri, 02 Oct 2026 11:39:30 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-workflows-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-workflows-feedstock/pull/41",
   "id": 4710144013,
-  "labels": [],
-  "last_fetched": "2026-10-01T22:47:42.274194",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2766945514,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzY2OTQ1NTE0",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-workflows-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-02T11:42:41.090724",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 41,
   "state": "open",
-  "updated_at": "2026-10-01T22:02:48Z"
+  "updated_at": "2026-10-02T11:39:33Z"
 }

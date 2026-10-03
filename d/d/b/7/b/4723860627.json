@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4d417b07e71d3aaf9a964f3dbb9d6924f468770ffcabe44d6709797016780185\"",
-  "Last-Modified": "Sat, 03 Oct 2026 03:51:18 GMT",
+  "ETag": "W/\"af53b5f6e8981c7fbd456b5304114ee431a9357d80241abc859ec0ab30f183ee\"",
+  "Last-Modified": "Sat, 03 Oct 2026 14:58:49 GMT",
   "base": {
     "repo": {
       "name": "whenever-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T14:58:49Z",
   "created_at": "2026-10-03T03:49:36Z",
   "draft": false,
   "e_tag": "\"6b1800da8804c5bf7dd1e52a68056f9b6e8635e83b3ef4b2176b649cde1c109d\"",
   "head": {
-    "ref": "0.11.0_h1979ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/whenever-feedstock/pull/61",
   "id": 4723860627,
   "labels": [],
-  "last_fetched": "2026-10-03T11:03:49.866041",
+  "last_fetched": "2026-10-03T15:00:26.498809",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T14:58:49Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-10-03T03:51:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T14:58:49Z"
 }

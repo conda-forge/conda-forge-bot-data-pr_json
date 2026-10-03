@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"ded452075681b504637495724858af65a596e7c3d3a3b88ea59a4edbfda1ed50\"",
-  "Last-Modified": "Sat, 03 Oct 2026 03:49:53 GMT",
+  "ETag": "W/\"8fb7b06dc0a9aae73ae845f76ca29035be469a0b05d66604e2c8f7a963e4cd19\"",
+  "Last-Modified": "Sat, 03 Oct 2026 08:50:11 GMT",
   "base": {
     "repo": {
       "name": "isar-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T08:50:11Z",
   "created_at": "2026-10-03T03:48:16Z",
   "draft": false,
   "e_tag": "\"649b2e23b278935afe3ff7f9da1121cb1004bc17543a605f43b3319399edd8f4\"",
   "head": {
-    "ref": "0.7.1_h305903"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/isar-tools-feedstock/pull/9",
   "id": 4723853994,
   "labels": [],
-  "last_fetched": "2026-10-03T06:07:25.286490",
+  "last_fetched": "2026-10-03T08:51:49.888605",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T08:50:11Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-03T03:49:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T08:50:11Z"
 }

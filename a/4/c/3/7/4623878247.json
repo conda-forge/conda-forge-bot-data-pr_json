@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"da88d75e5fa685fca6628fcac0a3f44eda98fa5bea74e5dd5de5d506cef29e52\"",
-  "Last-Modified": "Thu, 24 Sep 2026 09:08:46 GMT",
+  "ETag": "W/\"b1b8d2f1796bfd7da4fbd92496c16ea05689e998a13bc1844c78b05e5c5f2099\"",
+  "Last-Modified": "Sat, 03 Oct 2026 22:09:55 GMT",
   "base": {
     "repo": {
       "name": "pidibble-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T22:09:50Z",
   "created_at": "2026-09-24T09:07:04Z",
   "draft": false,
   "e_tag": "\"8470bd33b9abd83085566cb9e44245ac8eb146d9308bdd5b1d5e4aff8a93fe71\"",
   "head": {
-    "ref": "1.12.1_hc0a0b9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pidibble-feedstock/pull/13",
   "id": 4623878247,
-  "labels": [],
-  "last_fetched": "2026-10-01T09:33:56.672594",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5820311526,
+      "name": "automerge",
+      "node_id": "LA_kwDOKEfNF88AAAABWurn5g",
+      "url": "https://api.github.com/repos/conda-forge/pidibble-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-03T22:10:44.666251",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T22:09:50Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-09-24T09:08:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T22:09:55Z"
 }

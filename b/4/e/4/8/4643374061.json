@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"693143622894df710e98bdd5bc14d994be1cc2546e16dc8b9ff70f9f29d1fff4\"",
-  "Last-Modified": "Sat, 03 Oct 2026 12:04:31 GMT",
+  "ETag": "W/\"b7aa4d1cafce79d5b02c710ddada9ca26ac5ef95d6d2d265f33995afe2b7a650\"",
+  "Last-Modified": "Sat, 03 Oct 2026 12:04:29 GMT",
   "base": {
     "repo": {
       "name": "waf-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/waf-feedstock/pull/54",
   "id": 4643374061,
-  "labels": [],
-  "last_fetched": "2026-10-03T12:06:08.144462",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-03T12:04:31.804819",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 54,
   "state": "closed",
-  "updated_at": "2026-10-03T12:04:31Z"
+  "updated_at": "2026-10-03T12:04:29Z"
 }

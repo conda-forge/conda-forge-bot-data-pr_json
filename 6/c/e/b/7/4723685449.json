@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d93cf38a02eb72e1d7da775903f4c52fff4de98b8b4cc48fea07f0582e0b5f11\"",
-  "Last-Modified": "Sat, 03 Oct 2026 03:14:30 GMT",
+  "ETag": "W/\"6b36c285c09f2e3beba06de3836235389d08dd59bee85c613458095ec1c33c8f\"",
+  "Last-Modified": "Sat, 03 Oct 2026 16:19:01 GMT",
   "base": {
     "repo": {
       "name": "globato-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T16:19:01Z",
   "created_at": "2026-10-03T03:12:44Z",
   "draft": false,
   "e_tag": "\"1376a68e6aff4be958d5a051e78cb4334665c09352a40bf827e9e2515ef13f48\"",
   "head": {
-    "ref": "0.3.9_h41e59b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/globato-feedstock/pull/11",
   "id": 4723685449,
   "labels": [],
-  "last_fetched": "2026-10-03T04:42:28.533637",
+  "last_fetched": "2026-10-03T16:20:12.561805",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T16:19:01Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-03T03:14:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T16:19:01Z"
 }

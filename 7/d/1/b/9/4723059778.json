@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"dc3198969e4c83005cb2bcc0f221ec1a1f29126c1ed18b68ebefe492bb62797e\"",
+  "Last-Modified": "Sat, 03 Oct 2026 01:37:29 GMT",
   "base": {
     "repo": {
       "name": "r-odbc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T01:37:26Z",
   "created_at": "2026-10-03T01:04:07Z",
   "draft": false,
   "e_tag": "\"ceae8ee57bea1d794e822d4acfd029152814fe25a500b20a70d3d56627e76fa6\"",
   "head": {
-    "ref": "1.7.2_he3e9d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-odbc-feedstock/pull/33",
   "id": 4723059778,
   "labels": [],
-  "last_fetched": "2026-10-03T01:04:08.778464",
+  "last_fetched": "2026-10-03T01:38:57.436068",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T01:37:26Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-03T01:04:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T01:37:29Z"
 }

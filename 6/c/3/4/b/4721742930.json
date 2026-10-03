@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"925ead39cd6e91dd8666f7de6e7c7a96ab420579a3b24bceb26457cd411fbad9\"",
-  "Last-Modified": "Fri, 02 Oct 2026 21:42:47 GMT",
+  "ETag": "W/\"4f8173e2c5a01a80c9b480ff67822c7b0cc41a8111bd80689141f4df5086c619\"",
+  "Last-Modified": "Sat, 03 Oct 2026 12:58:55 GMT",
   "base": {
     "repo": {
       "name": "lazyslide-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/lazyslide-feedstock/pull/22",
   "id": 4721742930,
-  "labels": [],
-  "last_fetched": "2026-10-02T21:48:50.250794",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8978951782,
+      "name": "automerge",
+      "node_id": "LA_kwDOPQNcOc8AAAACFy_uZg",
+      "url": "https://api.github.com/repos/conda-forge/lazyslide-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-03T13:00:29.733912",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 22,
   "state": "open",
-  "updated_at": "2026-10-02T21:42:47Z"
+  "updated_at": "2026-10-03T12:58:55Z"
 }

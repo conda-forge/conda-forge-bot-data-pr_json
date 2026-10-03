@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"815a9ac09464ef1fad203d794e0462498b99c47bd3cca09e4889883d15dff05f\"",
-  "Last-Modified": "Fri, 02 Oct 2026 21:36:50 GMT",
+  "ETag": "W/\"1abba3589989e350018183c1d8502bbce2187f92f9c5e0c50a96d1666c36cb4d\"",
+  "Last-Modified": "Sat, 03 Oct 2026 15:05:50 GMT",
   "base": {
     "repo": {
       "name": "deply-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T15:05:50Z",
   "created_at": "2026-10-02T21:34:59Z",
   "draft": false,
   "e_tag": "\"bfbe42cefa71baac16689c64f1cf1fb05d0f8c7c65dc4c272bd0c1a55121dd26\"",
   "head": {
-    "ref": "1.2.0_h052acb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deply-feedstock/pull/23",
   "id": 4721721830,
   "labels": [],
-  "last_fetched": "2026-10-03T04:42:16.890372",
+  "last_fetched": "2026-10-03T15:07:24.022596",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T15:05:50Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-02T21:36:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T15:05:50Z"
 }

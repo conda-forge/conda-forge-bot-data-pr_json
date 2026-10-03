@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c78f59ecc646f3d77d931b2bac519f42f8bc57ca0f55d7064dbf18f2426da4c5\"",
-  "Last-Modified": "Sat, 03 Oct 2026 01:32:27 GMT",
+  "ETag": "W/\"bc48fd941bad584f8819429905b26b9b4bf11d307d3f205063c4f194b6458bf5\"",
+  "Last-Modified": "Sat, 03 Oct 2026 10:20:19 GMT",
   "base": {
     "repo": {
       "name": "freeimage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T10:20:19Z",
   "created_at": "2026-10-03T01:30:45Z",
   "draft": false,
   "e_tag": "\"dec97a9b94ed6ec4ecdf20a2cbfc5560d54736f136dd238f0b7c9f42f4e0406b\"",
   "head": {
-    "ref": "rebuild-imath323-0-1_h99558b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/freeimage-feedstock/pull/60",
   "id": 4723186296,
   "labels": [],
-  "last_fetched": "2026-10-03T01:39:50.493477",
+  "last_fetched": "2026-10-03T10:21:48.953553",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T10:20:19Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-03T01:32:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T10:20:19Z"
 }

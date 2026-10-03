@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"bfcf631f6229ecbfe39c22c2cf83417b90b43a132cf9c6e46b2107d57c44aad2\"",
-  "Last-Modified": "Fri, 02 Oct 2026 23:57:49 GMT",
+  "ETag": "W/\"4254df9c40372c0e02d84ae1cf565476df1fbef5543e280e77c9b92f0c0c3642\"",
+  "Last-Modified": "Sat, 03 Oct 2026 05:31:26 GMT",
   "base": {
     "repo": {
       "name": "pyfock-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T05:31:26Z",
   "created_at": "2026-10-02T23:57:49Z",
   "draft": false,
   "e_tag": "\"f079505f5271bda76f643b4a7f910c510a243bafcf3e0794c9a183e0f7630d55\"",
   "head": {
-    "ref": "0.2.3_h85dda9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyfock-feedstock/pull/1",
   "id": 4722702551,
   "labels": [],
-  "last_fetched": "2026-10-03T02:00:27.664583",
+  "last_fetched": "2026-10-03T05:32:36.778808",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T05:31:26Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-02T23:59:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T05:31:26Z"
 }

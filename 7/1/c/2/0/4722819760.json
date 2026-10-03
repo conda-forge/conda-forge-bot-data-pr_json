@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"50882fe7f484f39b217cdeaa2f48b3107e9b2f4b225baed716e63c1d6850c4cb\"",
-  "Last-Modified": "Sat, 03 Oct 2026 00:18:11 GMT",
+  "ETag": "W/\"9158d15527300b21eeb6e3ead129a1041678bb6a06fe8e29d9e14ecfd133f0b8\"",
+  "Last-Modified": "Sat, 03 Oct 2026 16:42:11 GMT",
   "base": {
     "repo": {
       "name": "bdsim-g4-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T16:42:11Z",
   "created_at": "2026-10-03T00:18:10Z",
   "draft": false,
   "e_tag": "\"b12c3c3b167b46de5548398b65089e4e2fc6c08b5823523d4ed32ec0b7d3be1f\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/bdsim-g4-feedstock/pull/28",
   "id": 4722819760,
-  "labels": [],
-  "last_fetched": "2026-10-03T01:59:14.676002",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 8929347344,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOPLCCy88AAAACFDsHEA",
+      "url": "https://api.github.com/repos/conda-forge/bdsim-g4-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-03T16:42:14.373792",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-03T00:19:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T16:42:11Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4636b4acf5ea653b185f3b282921d253781cc06c5a022be35aa1044324ce57e0\"",
-  "Last-Modified": "Fri, 02 Oct 2026 22:17:41 GMT",
+  "ETag": "W/\"3f07b63b8ecfe7247583b93c7e432797612c1079151179e46c8b00e1df4705c4\"",
+  "Last-Modified": "Sat, 03 Oct 2026 13:15:14 GMT",
   "base": {
     "repo": {
       "name": "pytest-alembic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T13:15:13Z",
   "created_at": "2026-10-02T22:15:45Z",
   "draft": false,
   "e_tag": "\"78cd4ae9370d07509d54f9cb8627b315b94791d216d94e4efbff1edeeb666359\"",
   "head": {
-    "ref": "0.13.1_hceb328"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytest-alembic-feedstock/pull/26",
   "id": 4722035628,
   "labels": [],
-  "last_fetched": "2026-10-02T22:25:25.971781",
+  "last_fetched": "2026-10-03T13:16:47.093369",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T13:15:13Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-02T22:17:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T13:15:14Z"
 }

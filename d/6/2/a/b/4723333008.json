@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"82e5f419b9acbbd8610a08ae7cfebfcf45cc3a825c59d690f925641f8bf6d40e\"",
-  "Last-Modified": "Sat, 03 Oct 2026 02:02:29 GMT",
+  "ETag": "W/\"7b49536872bf2c20dbba21fb844e045194d7dd2d9791e4bdf88756025f133215\"",
+  "Last-Modified": "Sat, 03 Oct 2026 11:57:25 GMT",
   "base": {
     "repo": {
       "name": "pyaedt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T11:57:25Z",
   "created_at": "2026-10-03T02:00:53Z",
   "draft": false,
   "e_tag": "\"b0b6da80c338ad7d31a425e48db5495b4509c837db5224e8a1fee73de194aac7\"",
   "head": {
-    "ref": "1.8.0_h9391c6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyaedt-feedstock/pull/187",
   "id": 4723333008,
   "labels": [],
-  "last_fetched": "2026-10-03T05:53:23.153336",
+  "last_fetched": "2026-10-03T11:59:01.608859",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T11:57:25Z",
   "number": 187,
-  "state": "open",
-  "updated_at": "2026-10-03T02:02:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T11:57:25Z"
 }

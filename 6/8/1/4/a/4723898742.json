@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"655c14469f115e3abb6c19bc88999e2da1d9dc9a345b7b15841f75a890056d09\"",
+  "Last-Modified": "Sat, 03 Oct 2026 07:50:29 GMT",
   "base": {
     "repo": {
       "name": "gcloud-aio-storage-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/gcloud-aio-storage-feedstock/pull/17",
   "id": 4723898742,
-  "labels": [],
-  "last_fetched": "2026-10-03T03:57:33.319428",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4824015455,
+      "name": "automerge",
+      "node_id": "LA_kwDOIeZ1ys8AAAABH4iiXw",
+      "url": "https://api.github.com/repos/conda-forge/gcloud-aio-storage-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-03T07:52:15.514818",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 17,
   "state": "open",
-  "updated_at": "2026-10-03T03:57:32Z"
+  "updated_at": "2026-10-03T07:50:29Z"
 }

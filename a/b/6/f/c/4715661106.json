@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"2dcbd9b00ffb06b1628494597151fc84fb21797ce9c29a7cd49307622dcc3611\"",
-  "Last-Modified": "Fri, 02 Oct 2026 11:03:53 GMT",
+  "ETag": "W/\"596f04860fc6c3959555844eec9c233031d76814e1b22f328b9d42b6b0f07510\"",
+  "Last-Modified": "Sat, 03 Oct 2026 12:46:52 GMT",
   "base": {
     "repo": {
       "name": "medpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T12:46:52Z",
   "created_at": "2026-10-02T11:02:15Z",
   "draft": false,
   "e_tag": "\"28de6a322e293602cea4082ce4ab716333ff5af18407a703fa2891a3018fa1ed\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hc58209"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/medpy-feedstock/pull/23",
   "id": 4715661106,
   "labels": [],
-  "last_fetched": "2026-10-02T15:28:15.708245",
+  "last_fetched": "2026-10-03T12:48:38.256229",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T12:46:52Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-02T11:03:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T12:46:52Z"
 }

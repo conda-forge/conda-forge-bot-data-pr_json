@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"20ed294b7ac8853625c85e31edeb62bf9d60ecd1d857a9368fa46d1aa834a8b1\"",
-  "Last-Modified": "Sat, 03 Oct 2026 00:18:56 GMT",
+  "ETag": "W/\"2ddb5ab7a4c2c64ed28df41ece5a7905f2bb805cc1aa03b83d81f3bfdb889d42\"",
+  "Last-Modified": "Sat, 03 Oct 2026 10:12:48 GMT",
   "base": {
     "repo": {
       "name": "gstreamer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T10:12:48Z",
   "created_at": "2026-10-03T00:17:03Z",
   "draft": false,
   "e_tag": "\"fe33e2894efb6d22a76c224a7f80e94031dc7997b05079667f0f20f795da87f8\"",
   "head": {
-    "ref": "rebuild-libvpx117-0-1_h9cbda7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gstreamer-feedstock/pull/212",
   "id": 4722813955,
   "labels": [],
-  "last_fetched": "2026-10-03T02:41:21.481327",
+  "last_fetched": "2026-10-03T10:14:56.962132",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T10:12:48Z",
   "number": 212,
-  "state": "open",
-  "updated_at": "2026-10-03T00:18:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T10:12:48Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"322fc87696668776959f4a60992d8b41186d1bcee01ddc044549a142c3bb771a\"",
+  "Last-Modified": "Sat, 03 Oct 2026 12:29:17 GMT",
   "base": {
     "repo": {
       "name": "husky.net-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T12:29:14Z",
   "created_at": "2026-10-03T12:27:01Z",
   "draft": false,
   "e_tag": "\"9bc4edde28b026b90b91ce1da9487fd4a39f0796663700758925ebb2790501fa\"",
   "head": {
-    "ref": "0.9.1_hf32862"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/husky.net-feedstock/pull/6",
   "id": 4726533615,
   "labels": [],
-  "last_fetched": "2026-10-03T12:27:02.748138",
+  "last_fetched": "2026-10-03T12:30:25.446061",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T12:29:14Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-03T12:27:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T12:29:17Z"
 }

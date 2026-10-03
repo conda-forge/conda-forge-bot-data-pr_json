@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d8bdd08570b7c8f0333b6cc20cb0f1e514fa1df82b3f74a261e0fb9d543650b1\"",
+  "Last-Modified": "Sat, 03 Oct 2026 04:17:27 GMT",
   "base": {
     "repo": {
       "name": "cmake-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T04:17:22Z",
   "created_at": "2026-10-03T03:43:48Z",
   "draft": false,
   "e_tag": "\"4fe8d6aeffb9421c570d3e1f859fc1ce7b05b8baa07af23935339808ff3be1f9\"",
   "head": {
-    "ref": "4.4.4_h7d10b0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cmake-feedstock/pull/274",
   "id": 4723831941,
   "labels": [],
-  "last_fetched": "2026-10-03T03:43:50.058150",
+  "last_fetched": "2026-10-03T04:18:57.465889",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T04:17:22Z",
   "number": 274,
-  "state": "open",
-  "updated_at": "2026-10-03T03:43:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T04:17:27Z"
 }

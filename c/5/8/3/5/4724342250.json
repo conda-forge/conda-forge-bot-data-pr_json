@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"f9eb71095bde76a9d6aef84888fceba9473f3bdafab8174464d0fd41a0521927\"",
-  "Last-Modified": "Sat, 03 Oct 2026 05:31:35 GMT",
+  "ETag": "W/\"691708748c84e523c4df952c341d14c1c393ab9b75b75a602070dc5b33d535ee\"",
+  "Last-Modified": "Sat, 03 Oct 2026 12:27:51 GMT",
   "base": {
     "repo": {
       "name": "pylint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T12:27:47Z",
   "created_at": "2026-10-03T05:29:54Z",
   "draft": false,
   "e_tag": "\"91f7a883301d4907786248a3d7bfb7c2f26cce57d0804727dc2161bf7b0c5730\"",
   "head": {
-    "ref": "4.1.2_h96f893"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylint-feedstock/pull/163",
   "id": 4724342250,
-  "labels": [],
-  "last_fetched": "2026-10-03T12:05:34.552382",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891105953,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTA1OTUz",
+      "url": "https://api.github.com/repos/conda-forge/pylint-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-03T12:28:11.591961",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T12:27:47Z",
   "number": 163,
-  "state": "open",
-  "updated_at": "2026-10-03T05:31:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T12:27:51Z"
 }

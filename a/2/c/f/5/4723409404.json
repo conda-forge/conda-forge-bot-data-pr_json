@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"356ea6f8a9054d0273e424092afac50bca3a57fb56f22ffdd971a2f1e468953d\"",
-  "Last-Modified": "Sat, 03 Oct 2026 02:17:51 GMT",
+  "ETag": "W/\"437ad83772be9c049df8e5506bf5b495ed083be05d6dc6f465bb1121985fc7bd\"",
+  "Last-Modified": "Sat, 03 Oct 2026 08:07:04 GMT",
   "base": {
     "repo": {
       "name": "nco-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T08:07:04Z",
   "created_at": "2026-10-03T02:16:06Z",
   "draft": false,
   "e_tag": "\"0caf2f12e8191965ab13f21515352f7afbbdc8a63b57d9b4c9c401ae19362f1a\"",
   "head": {
-    "ref": "5.4.1_h772787"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nco-feedstock/pull/223",
   "id": 4723409404,
   "labels": [],
-  "last_fetched": "2026-10-03T02:41:20.931413",
+  "last_fetched": "2026-10-03T08:08:46.121338",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T08:07:04Z",
   "number": 223,
-  "state": "open",
-  "updated_at": "2026-10-03T02:17:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T08:07:04Z"
 }

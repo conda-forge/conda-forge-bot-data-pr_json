@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"3c3053f50ec13caf9a9e5557ceb703ac293124a2ae5e57b2bfda8d0d3a301b1e\"",
-  "Last-Modified": "Sat, 03 Oct 2026 04:57:33 GMT",
+  "ETag": "W/\"592421ba5319f96c3ef07ec4d414b8afbd6266fe79cd4f6c0fba12ef7bc150db\"",
+  "Last-Modified": "Sat, 03 Oct 2026 05:13:03 GMT",
   "base": {
     "repo": {
       "name": "cargo-binstall-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T05:12:59Z",
   "created_at": "2026-10-03T04:55:55Z",
   "draft": false,
   "e_tag": "\"dc2d6ebfcc26fea80b333b3a7ccf9c87ec19e36142d84cb9a053d5750cd31b30\"",
   "head": {
-    "ref": "1.25.0_h885683"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cargo-binstall-feedstock/pull/9",
   "id": 4724178522,
   "labels": [],
-  "last_fetched": "2026-10-03T05:00:56.248257",
+  "last_fetched": "2026-10-03T05:14:40.339874",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T05:12:59Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-03T04:57:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T05:13:03Z"
 }

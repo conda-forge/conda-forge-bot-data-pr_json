@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"03fface1e1b2628db32b326befef284c716859008cbda1443a10437f7843a954\"",
-  "Last-Modified": "Sat, 03 Oct 2026 04:58:25 GMT",
+  "ETag": "W/\"9d44664097bf6e02981f3d76669700047d2f16600be149a493b257f9ab106074\"",
+  "Last-Modified": "Sat, 03 Oct 2026 07:01:09 GMT",
   "base": {
     "repo": {
       "name": "libjxl-split-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T07:01:09Z",
   "created_at": "2026-10-03T04:56:49Z",
   "draft": false,
   "e_tag": "\"a348c14de8908ee562d02e3556d127992897120b57b4d00bce787df208c71f28\"",
   "head": {
-    "ref": "bot-pr_riscv64_hf71fbc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libjxl-split-feedstock/pull/58",
   "id": 4724182109,
   "labels": [],
-  "last_fetched": "2026-10-03T05:02:07.227081",
+  "last_fetched": "2026-10-03T07:02:49.116030",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T07:01:09Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-03T04:58:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T07:01:09Z"
 }

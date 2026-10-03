@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"aef8df053114307aa63390cbce24fbd01d235f0fe7b6687e7130071cd9cce024\"",
-  "Last-Modified": "Sat, 03 Oct 2026 01:12:19 GMT",
+  "ETag": "W/\"d761f3398fe3e960b036c5a7be28731e652c8087ba0d79cec95f49740326a006\"",
+  "Last-Modified": "Sat, 03 Oct 2026 05:33:33 GMT",
   "base": {
     "repo": {
       "name": "windows-terminal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T05:33:33Z",
   "created_at": "2026-10-03T01:10:24Z",
   "draft": false,
   "e_tag": "\"5d3d6e2886bbe2586c3ffd7d7faec313f240c8ff13b9e1f9d5051f963d351f77\"",
   "head": {
-    "ref": "1.25.2733.0_h6f6013"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/windows-terminal-feedstock/pull/26",
   "id": 4723089887,
   "labels": [],
-  "last_fetched": "2026-10-03T03:51:30.699570",
+  "last_fetched": "2026-10-03T05:35:03.523071",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T05:33:33Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-03T01:12:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T05:33:33Z"
 }

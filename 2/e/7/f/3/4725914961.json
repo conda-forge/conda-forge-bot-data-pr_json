@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"6ac78cce9d7a4aabd4a05ddc53c5c2bb6d653936e6148131798414479bff93bc\"",
-  "Last-Modified": "Sat, 03 Oct 2026 10:40:44 GMT",
+  "ETag": "W/\"11df3225a06c137d40ec136fd8136eaee4080b438ac915f4662d34edc1669722\"",
+  "Last-Modified": "Sat, 03 Oct 2026 11:27:45 GMT",
   "base": {
     "repo": {
       "name": "jsonpickle-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/jsonpickle-feedstock/pull/38",
   "id": 4725914961,
-  "labels": [],
-  "last_fetched": "2026-10-03T11:03:28.697047",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890949073,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTQ5MDcz",
+      "url": "https://api.github.com/repos/conda-forge/jsonpickle-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-03T11:28:15.966963",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 38,
   "state": "open",
-  "updated_at": "2026-10-03T10:40:44Z"
+  "updated_at": "2026-10-03T11:27:45Z"
 }

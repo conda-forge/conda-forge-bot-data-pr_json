@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"35fe5620180ae2bf2b23967a3c7633050a6424c7614f799e77b7bfcf86fc1513\"",
+  "Last-Modified": "Sat, 03 Oct 2026 05:33:22 GMT",
   "base": {
     "repo": {
       "name": "protolint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T05:33:19Z",
   "created_at": "2026-10-03T05:27:20Z",
   "draft": false,
   "e_tag": "\"e11e8b77b48c1903a645c4f2b09ed9f1ae5fe6af417eb40f93995a15366029c9\"",
   "head": {
-    "ref": "0.58.0_hbebb16"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/protolint-feedstock/pull/17",
   "id": 4724328255,
   "labels": [],
-  "last_fetched": "2026-10-03T05:27:21.147483",
+  "last_fetched": "2026-10-03T05:34:58.003331",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T05:33:19Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-03T05:27:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T05:33:22Z"
 }

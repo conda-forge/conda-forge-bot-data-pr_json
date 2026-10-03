@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"2afe552fd15da17d35af2a0fdc7fb4640f45e4389e1522391a3e1c101095ebaa\"",
+  "Last-Modified": "Sat, 03 Oct 2026 19:08:20 GMT",
   "base": {
     "repo": {
       "name": "imagecodecs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T19:08:20Z",
   "created_at": "2026-10-03T16:21:01Z",
   "draft": false,
   "e_tag": "\"883775c2d7560721b46e3d193b54d95b3d35ebf4d90e82f327d73b78a01cc8d4\"",
   "head": {
-    "ref": "rebuild-openjph032-0-1_h3fd30f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imagecodecs-feedstock/pull/168",
   "id": 4727964671,
   "labels": [],
-  "last_fetched": "2026-10-03T16:21:02.121496",
+  "last_fetched": "2026-10-03T19:09:32.091838",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T19:08:20Z",
   "number": 168,
-  "state": "open",
-  "updated_at": "2026-10-03T16:21:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T19:08:20Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"934bec60b8430c43d250cc5efe6373c815d28ea4c1d7773d9b876c49e885bfec\"",
-  "Last-Modified": "Sat, 03 Oct 2026 17:59:43 GMT",
+  "ETag": "W/\"a765a7baeb9da217a9733f982351072eaee43ef75e4da6858ccb3dad06c2fc4b\"",
+  "Last-Modified": "Sat, 03 Oct 2026 18:13:14 GMT",
   "base": {
     "repo": {
       "name": "toppra-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T18:13:14Z",
   "created_at": "2026-10-03T17:50:36Z",
   "draft": false,
   "e_tag": "\"5a2eeea2b9e12d516db0534479e45b0accdbeb3ecfb26e6a454c8bacd9876404\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h645acc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/toppra-feedstock/pull/20",
   "id": 4728506329,
   "labels": [],
-  "last_fetched": "2026-10-03T18:07:30.182043",
+  "last_fetched": "2026-10-03T18:14:23.847319",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T18:13:14Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-03T17:59:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T18:13:14Z"
 }

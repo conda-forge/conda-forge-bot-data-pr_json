@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"ef2b40be4def11c71717da565a0915b0f0433f980346b27d80a4cc3fc7ce4060\"",
-  "Last-Modified": "Sat, 03 Oct 2026 03:53:07 GMT",
+  "ETag": "W/\"189b69f2fb4ccb744021c270e6748338556caf02bd0578d98816b6cb32b6bfa8\"",
+  "Last-Modified": "Sat, 03 Oct 2026 06:00:24 GMT",
   "base": {
     "repo": {
       "name": "blackjax-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T06:00:24Z",
   "created_at": "2026-10-03T03:51:18Z",
   "draft": false,
   "e_tag": "\"7427b5df20da968bf37ea7018b09f38e6f821004638d50f9552859ab09d126b8\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/blackjax-feedstock/pull/31",
   "id": 4723868622,
-  "labels": [],
-  "last_fetched": "2026-10-03T05:01:25.186674",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 4589583381,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOIFriic8AAAABEY98FQ",
+      "url": "https://api.github.com/repos/conda-forge/blackjax-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-03T06:00:26.662850",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-03T03:53:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T06:00:24Z"
 }

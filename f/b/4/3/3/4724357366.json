@@ -1,26 +1,40 @@
 {
+  "ETag": "W/\"25b6609ee389bc1cb51256eb24d9302f230ae4652fa8147a594196a401eee878\"",
+  "Last-Modified": "Sat, 03 Oct 2026 06:33:52 GMT",
   "base": {
     "repo": {
       "name": "herwig-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T06:33:48Z",
   "created_at": "2026-10-03T05:32:55Z",
   "draft": false,
   "e_tag": "\"3fa828c1c44dc19d2a436026c3d0f9d4333c1330123fddd9bec48cff3b8281d5\"",
   "head": {
-    "ref": "rebuild-libboost190-0-1_h530eae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/herwig-feedstock/pull/1",
   "id": 4724357366,
-  "labels": [],
-  "last_fetched": "2026-10-03T05:32:56.107108",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12519883857,
+      "name": "automerge",
+      "node_id": "LA_kwDOU5qCA88AAAAC6j5EUQ",
+      "url": "https://api.github.com/repos/conda-forge/herwig-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-03T06:34:14.673396",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T06:33:47Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-03T05:32:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T06:33:52Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b5006732d75cf31da449dc53ad803239f093107bbf744995d871655acf510176\"",
-  "Last-Modified": "Tue, 22 Sep 2026 04:02:05 GMT",
+  "ETag": "W/\"eeb901021237165ab60171ef135c7277eac8e121eae2aa918a9fa49c89b9d441\"",
+  "Last-Modified": "Sat, 03 Oct 2026 13:03:56 GMT",
   "base": {
     "repo": {
       "name": "pyscal3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T13:03:56Z",
   "created_at": "2026-09-22T04:00:13Z",
   "draft": false,
   "e_tag": "\"0e31f5c4e49408b430c9025d8025c5e1d26144b1918ab4e1cb15ede0bc3b335a\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h9f55dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyscal3-feedstock/pull/41",
   "id": 4598327266,
   "labels": [],
-  "last_fetched": "2026-09-29T05:27:40.196993",
+  "last_fetched": "2026-10-03T13:05:37.610712",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T13:03:56Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-09-22T04:02:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T13:03:56Z"
 }

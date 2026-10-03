@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"b96021c8d4d6994c5f054081c1888d6aa068b7f0fb6031c88e599be5a09f7785\"",
-  "Last-Modified": "Sat, 03 Oct 2026 06:40:06 GMT",
+  "ETag": "W/\"826efcd504fbe388f09408ffc5d80044313a15388331152819bad58d87990b88\"",
+  "Last-Modified": "Sat, 03 Oct 2026 06:40:03 GMT",
   "base": {
     "repo": {
       "name": "conduit-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/conduit-feedstock/pull/59",
   "id": 3437631244,
-  "labels": [],
-  "last_fetched": "2026-10-03T06:41:37.691396",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-03T06:40:06.530346",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 59,
   "state": "closed",
-  "updated_at": "2026-10-03T06:40:06Z"
+  "updated_at": "2026-10-03T06:40:03Z"
 }

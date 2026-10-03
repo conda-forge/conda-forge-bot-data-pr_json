@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"0efe7db4e8cba6e5f7644c445e948ebd7816cbbb2a28bfd8c05070aec9783ef2\"",
+  "Last-Modified": "Sat, 03 Oct 2026 05:54:22 GMT",
   "base": {
     "repo": {
       "name": "opencv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T05:54:22Z",
   "created_at": "2026-10-03T02:39:22Z",
   "draft": false,
   "e_tag": "\"de8648d7568b64bd2f1f17be6b1bbc0d975317d89141da57eced5f2838ac8a84\"",
   "head": {
-    "ref": "rebuild-imath323-0-1_h80ee85"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opencv-feedstock/pull/556",
   "id": 4723527768,
   "labels": [],
-  "last_fetched": "2026-10-03T02:39:23.172231",
+  "last_fetched": "2026-10-03T05:56:00.802574",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T05:54:22Z",
   "number": 556,
-  "state": "open",
-  "updated_at": "2026-10-03T02:39:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T05:54:22Z"
 }

@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"e249ee9eca392149f444620699dbf2f6c15dbf293be7bb5b81a2b2b37fbf4395\"",
-  "Last-Modified": "Fri, 02 Oct 2026 17:37:52 GMT",
+  "ETag": "W/\"a963492bf1cc2c003aa1484597165dfca8a9603bedab4887e4f526dc6aca8466\"",
+  "Last-Modified": "Sat, 03 Oct 2026 07:50:14 GMT",
   "base": {
     "repo": {
       "name": "gcloud-aio-kms-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T07:50:13Z",
   "created_at": "2026-10-02T17:36:11Z",
   "draft": false,
   "e_tag": "\"fe415905b80535d06964c00e34faefa01dac70dfc8f50ba98a4fc84b2244a399\"",
   "head": {
-    "ref": "5.1.0_h60223d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gcloud-aio-kms-feedstock/pull/6",
   "id": 4719492995,
-  "labels": [],
-  "last_fetched": "2026-10-03T04:11:05.382455",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4824014972,
+      "name": "automerge",
+      "node_id": "LA_kwDOIeZ1lM8AAAABH4igfA",
+      "url": "https://api.github.com/repos/conda-forge/gcloud-aio-kms-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-03T07:50:17.373140",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T07:50:13Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-02T17:37:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T07:50:14Z"
 }

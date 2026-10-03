@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5fc7baf6daa013dd3566166b2371c5bdaae7d1433e87512281dad3111799904d\"",
+  "Last-Modified": "Sat, 03 Oct 2026 17:44:40 GMT",
   "base": {
     "repo": {
       "name": "neatvnc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T17:44:40Z",
   "created_at": "2026-10-03T17:32:21Z",
   "draft": false,
   "e_tag": "\"337adb3e403da7bd02f7c407c354b2e2da4988d310c016e0e78aa1cd739e6176\"",
   "head": {
-    "ref": "1.0.3_he59fc5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/neatvnc-feedstock/pull/2",
   "id": 4728391362,
   "labels": [],
-  "last_fetched": "2026-10-03T17:32:22.389853",
+  "last_fetched": "2026-10-03T17:46:08.771576",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T17:44:40Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-03T17:32:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T17:44:40Z"
 }

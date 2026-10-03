@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"69098f909d289f3a28f6b7c8fc3931a035143405014f03a05d431ed2bcd8ba7b\"",
-  "Last-Modified": "Sat, 03 Oct 2026 03:54:58 GMT",
+  "ETag": "W/\"ae58e481ff40ed5697cbdcc307c56b6c6dd85e47b68807d93c405653e5e52378\"",
+  "Last-Modified": "Sat, 03 Oct 2026 07:53:31 GMT",
   "base": {
     "repo": {
       "name": "sqlalchemy-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/sqlalchemy-feedstock/pull/210",
   "id": 4723876323,
-  "labels": [],
-  "last_fetched": "2026-10-03T04:10:57.153171",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891409963,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDA5OTYz",
+      "url": "https://api.github.com/repos/conda-forge/sqlalchemy-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-03T07:54:39.723944",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 210,
   "state": "open",
-  "updated_at": "2026-10-03T03:54:58Z"
+  "updated_at": "2026-10-03T07:53:31Z"
 }

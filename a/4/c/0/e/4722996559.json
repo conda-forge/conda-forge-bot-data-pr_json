@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"13b4b2f5cff835b758b607b36fb08eafdbe7c662d791d74de8648bcd83906c07\"",
+  "Last-Modified": "Sat, 03 Oct 2026 00:54:20 GMT",
   "base": {
     "repo": {
       "name": "azure-keyvault-administration-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T00:54:17Z",
   "created_at": "2026-10-03T00:51:21Z",
   "draft": false,
   "e_tag": "\"1703f9ceec69de722b7cf64c2e99cbe4fdfba7e96eaf58d16574c3374b6a2197\"",
   "head": {
-    "ref": "4.7.2_h1d8ae0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/azure-keyvault-administration-feedstock/pull/8",
   "id": 4722996559,
   "labels": [],
-  "last_fetched": "2026-10-03T00:51:22.403635",
+  "last_fetched": "2026-10-03T00:55:26.235420",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T00:54:17Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-03T00:51:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T00:54:20Z"
 }

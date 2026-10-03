@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"dadd3a43b69b2ef78d44dad9313fbea8c659aae364c5fba5a981806217943909\"",
-  "Last-Modified": "Sat, 03 Oct 2026 20:18:11 GMT",
+  "ETag": "W/\"80393aadad2f910cae34a601ec9d0686e0350c11f2ffdc18a01c20bd62a64a60\"",
+  "Last-Modified": "Sat, 03 Oct 2026 22:24:41 GMT",
   "base": {
     "repo": {
       "name": "heyoka.py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T22:24:41Z",
   "created_at": "2026-10-03T20:16:34Z",
   "draft": false,
   "e_tag": "\"24a15d21e3c7840a535f65b3b5d5dc2045e177a11ad7761cd0cf1e4284211b10\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h7fed73"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/heyoka.py-feedstock/pull/137",
   "id": 4729397374,
   "labels": [],
-  "last_fetched": "2026-10-03T22:20:33.301103",
+  "last_fetched": "2026-10-03T22:26:16.422913",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T22:24:41Z",
   "number": 137,
-  "state": "open",
-  "updated_at": "2026-10-03T20:18:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T22:24:41Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"28b83f3161c0ad0e94456f0b809207bed66d67bf9aa27583eeda5bf3e3c72d39\"",
-  "Last-Modified": "Fri, 02 Oct 2026 21:33:45 GMT",
+  "ETag": "W/\"bd8fceb747d9e45cdaee673289e861af7f9f0dff9aa2aa88e039645675a9df10\"",
+  "Last-Modified": "Sat, 03 Oct 2026 05:57:40 GMT",
   "base": {
     "repo": {
       "name": "blackjax-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T05:57:39Z",
   "created_at": "2026-10-02T21:32:08Z",
   "draft": false,
   "e_tag": "\"ca7d9586179daf5e5944cdab1a494006b444631c1c5ce28234c29e37581a6e87\"",
   "head": {
-    "ref": "1.7.0_h168f5e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/blackjax-feedstock/pull/30",
   "id": 4721696782,
   "labels": [],
-  "last_fetched": "2026-10-02T22:47:29.450799",
+  "last_fetched": "2026-10-03T05:59:19.126328",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-03T05:57:39Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-02T21:33:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T05:57:40Z"
 }

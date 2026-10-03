@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ffad3fc31ed0db51b5ca22e5969d723b8e792ea429ffefa781b61c140207c1fa\"",
+  "Last-Modified": "Sat, 03 Oct 2026 03:06:36 GMT",
   "base": {
     "repo": {
       "name": "dimorphite-dl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T03:06:32Z",
   "created_at": "2026-10-03T03:03:50Z",
   "draft": false,
   "e_tag": "\"62aef622ed6e130094a8a8cd9d793e083b6ef9a537a0a4daae0a859814643059\"",
   "head": {
-    "ref": "2.1.0_h646f54"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dimorphite-dl-feedstock/pull/7",
   "id": 4723644163,
   "labels": [],
-  "last_fetched": "2026-10-03T03:03:50.966381",
+  "last_fetched": "2026-10-03T03:08:14.814194",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T03:06:32Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-03T03:03:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T03:06:36Z"
 }

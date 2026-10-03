@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f2334c055d0a5e5214d4db4722d3602a45e14c7480e3a16855b88f79d7a96140\"",
+  "Last-Modified": "Sat, 03 Oct 2026 01:11:25 GMT",
   "base": {
     "repo": {
       "name": "realtime-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T01:11:21Z",
   "created_at": "2026-10-03T01:08:51Z",
   "draft": false,
   "e_tag": "\"2fac7497965ab3ab3da437a9e0225a28a6562f8aa8037d8b62e80ed69d3de3c7\"",
   "head": {
-    "ref": "2.32.0_h328181"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/realtime-feedstock/pull/59",
   "id": 4723082429,
   "labels": [],
-  "last_fetched": "2026-10-03T01:08:51.987413",
+  "last_fetched": "2026-10-03T01:13:07.803124",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T01:11:21Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-10-03T01:08:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T01:11:25Z"
 }

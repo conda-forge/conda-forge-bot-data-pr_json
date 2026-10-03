@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"7bbe40bf8fd3095ab2d2ab4dd4d343d841204e0d69582c277bad01bf44a4f1f9\"",
+  "Last-Modified": "Sat, 03 Oct 2026 06:30:26 GMT",
   "base": {
     "repo": {
       "name": "mailpit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T06:30:22Z",
   "created_at": "2026-10-03T06:24:35Z",
   "draft": false,
   "e_tag": "\"2b6ba54e7904a36015d25fec654cee59b47e5c18004bf61a2640c589c2673370\"",
   "head": {
-    "ref": "1.31.4_h2b09e7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mailpit-feedstock/pull/29",
   "id": 4724597659,
   "labels": [],
-  "last_fetched": "2026-10-03T06:24:35.803792",
+  "last_fetched": "2026-10-03T06:31:59.816885",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T06:30:22Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-03T06:24:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T06:30:26Z"
 }

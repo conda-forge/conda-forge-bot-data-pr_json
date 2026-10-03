@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"106a85c9963416be2b041fe8804c9dbf4b4b95d9936a8f67fb6f28574e39d0c9\"",
+  "Last-Modified": "Sat, 03 Oct 2026 15:52:01 GMT",
   "base": {
     "repo": {
       "name": "upkie-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-03T15:51:57Z",
   "created_at": "2026-10-03T15:48:13Z",
   "draft": false,
   "e_tag": "\"bcbe3151bf01222d0b93ea0563895fc6a393e9ea15c63b5c1a36d1caf3cc7e6c\"",
   "head": {
-    "ref": "13.0.1_h6b8eea"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/upkie-feedstock/pull/23",
   "id": 4727760967,
   "labels": [],
-  "last_fetched": "2026-10-03T15:48:14.981439",
+  "last_fetched": "2026-10-03T15:53:47.571600",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-03T15:51:57Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-03T15:48:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-03T15:52:01Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"90b54d13347b02c9caabeadcce757213374639b9299cc311c457ebe4d674fc85\"",
+  "Last-Modified": "Sun, 04 Oct 2026 09:56:07 GMT",
   "base": {
     "repo": {
       "name": "modal-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T09:56:03Z",
   "created_at": "2026-10-04T09:52:09Z",
   "draft": false,
   "e_tag": "\"dbd8793fc0a0bf48999399eb39750d4e1e7965b09fff5f5160b6414971092a12\"",
   "head": {
-    "ref": "1.6.1_h0ab139"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/modal-client-feedstock/pull/150",
   "id": 4733433655,
   "labels": [],
-  "last_fetched": "2026-10-04T09:52:10.094499",
+  "last_fetched": "2026-10-04T09:57:20.080574",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-04T09:56:02Z",
   "number": 150,
-  "state": "open",
-  "updated_at": "2026-10-04T09:52:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T09:56:07Z"
 }

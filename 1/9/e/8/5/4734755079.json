@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"7a70a31cf0bab38af6ebb6fcce1daecbaae9f524a995898d612dcbd3483b4d2f\"",
+  "Last-Modified": "Sun, 04 Oct 2026 13:51:40 GMT",
   "base": {
     "repo": {
       "name": "tach-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/tach-feedstock/pull/39",
   "id": 4734755079,
-  "labels": [],
-  "last_fetched": "2026-10-04T13:33:04.871728",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8216990661,
+      "name": "automerge",
+      "node_id": "LA_kwDOOAj-088AAAAB6cVTxQ",
+      "url": "https://api.github.com/repos/conda-forge/tach-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-04T13:53:29.023989",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 39,
   "state": "open",
-  "updated_at": "2026-10-04T13:33:03Z"
+  "updated_at": "2026-10-04T13:51:40Z"
 }

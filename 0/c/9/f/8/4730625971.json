@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d53fa74b18ac84b3ef80dca667b93776a4faee56521e774dd41f60e1baff3fdc\"",
+  "Last-Modified": "Sun, 04 Oct 2026 10:30:16 GMT",
   "base": {
     "repo": {
       "name": "pacparser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T10:30:16Z",
   "created_at": "2026-10-03T23:46:19Z",
   "draft": false,
   "e_tag": "\"837a67e31e9f2159cddfeea89deda356fb7f1b1b92a879f16220f18e448d8f5d\"",
   "head": {
-    "ref": "1.5.3_h9d2804"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pacparser-feedstock/pull/3",
   "id": 4730625971,
   "labels": [],
-  "last_fetched": "2026-10-03T23:46:20.222626",
+  "last_fetched": "2026-10-04T10:31:30.438238",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-04T10:30:16Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-03T23:46:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T10:30:16Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9c52b2dd0d72a669dc5b5e19c75962699af4df2d64d682b28e558a2e46c4785b\"",
+  "Last-Modified": "Sun, 04 Oct 2026 22:21:13 GMT",
   "base": {
     "repo": {
       "name": "cargo-semver-checks-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T22:21:09Z",
   "created_at": "2026-10-04T22:06:11Z",
   "draft": false,
   "e_tag": "\"b300326dd124deec804c275004e98667994ed6c95aaf1ad3ba01a227bf2b1e66\"",
   "head": {
-    "ref": "0.51.0_h48ccb2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cargo-semver-checks-feedstock/pull/5",
   "id": 4737975962,
   "labels": [],
-  "last_fetched": "2026-10-04T22:06:12.177973",
+  "last_fetched": "2026-10-04T22:22:45.432314",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-04T22:21:09Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-04T22:06:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T22:21:13Z"
 }

@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"7def1077f3d4a9a6de96fbf4750f3cd7923751f520279780809a480b2bdf345a\"",
-  "Last-Modified": "Fri, 18 Sep 2026 10:43:03 GMT",
+  "ETag": "W/\"402a20b3ce0283b29c0a968a26f84661fe9d432d73972b9f2b7da786490cd7e5\"",
+  "Last-Modified": "Sun, 04 Oct 2026 04:17:46 GMT",
   "base": {
     "repo": {
       "name": "pyamrex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T04:17:46Z",
   "created_at": "2026-09-18T10:41:27Z",
   "draft": false,
   "e_tag": "\"9bb216fc366d22e67ea34d992147adcd8b9a58072ea6ea50dd51dcc679eeb5a5\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyamrex-feedstock/pull/76",
   "id": 4567930724,
-  "labels": [],
-  "last_fetched": "2026-10-02T21:26:25.831582",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6125932310,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOKkuBdc8AAAABbSJPFg",
+      "url": "https://api.github.com/repos/conda-forge/pyamrex-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-04T04:17:49.151616",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-09-18T10:43:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T04:17:46Z"
 }

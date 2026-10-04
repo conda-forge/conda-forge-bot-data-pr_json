@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"7fe9d398d83fa491d0fba1f0aa5ef38a1d5980ac16bb9dd2ca36e78cce39d929\"",
+  "Last-Modified": "Sun, 04 Oct 2026 22:04:13 GMT",
   "base": {
     "repo": {
       "name": "convolinear-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T22:04:13Z",
   "created_at": "2026-10-04T15:38:15Z",
   "draft": false,
   "e_tag": "\"2f49cccaab0dd7c6db80087338971193cba61aacd8845eea76d0a9e6fa6f8c90\"",
   "head": {
-    "ref": "0.2.1_h86bdab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/convolinear-feedstock/pull/2",
   "id": 4735534607,
   "labels": [],
-  "last_fetched": "2026-10-04T15:38:16.268051",
+  "last_fetched": "2026-10-04T22:05:55.347139",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-04T22:04:13Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-04T15:38:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T22:04:13Z"
 }

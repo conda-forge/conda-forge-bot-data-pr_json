@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"52a40251d295e6146d0693b72e1d160c9195607a0e2eb98fdd16c5ff78c2f170\"",
+  "Last-Modified": "Sun, 04 Oct 2026 23:23:37 GMT",
   "base": {
     "repo": {
       "name": "templ-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T23:23:33Z",
   "created_at": "2026-10-04T23:19:26Z",
   "draft": false,
   "e_tag": "\"c0ecd2b87f0f767e430aff5625555cd0a8d8fcad1544dfe6e0b4ceb7be12354c\"",
   "head": {
-    "ref": "0.3.1070_hba2157"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/templ-feedstock/pull/22",
   "id": 4738367745,
   "labels": [],
-  "last_fetched": "2026-10-04T23:19:27.101604",
+  "last_fetched": "2026-10-04T23:25:10.487192",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-04T23:23:33Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-04T23:19:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T23:23:37Z"
 }

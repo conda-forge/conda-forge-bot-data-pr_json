@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"668aa93a3942d791285285da0cf6761e8c29bd7eda55a081a93bb1a16b141464\"",
-  "Last-Modified": "Sun, 04 Oct 2026 14:32:42 GMT",
+  "ETag": "W/\"ab26a1498d411f5741ed46f232b34065cba7d1698ce63da8ab5a2a45bb175514\"",
+  "Last-Modified": "Sun, 04 Oct 2026 14:50:46 GMT",
   "base": {
     "repo": {
       "name": "reasonable-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T14:50:41Z",
   "created_at": "2026-10-04T03:13:30Z",
   "draft": false,
   "e_tag": "\"2a34c13752c2f023b0c46d38cf05d755280d38414943683db83f055f50ab16ba\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h290566"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/reasonable-feedstock/pull/26",
   "id": 4731540804,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/reasonable-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-04T14:34:37.995051",
+  "last_fetched": "2026-10-04T14:52:29.074790",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-04T14:50:41Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-04T14:32:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T14:50:46Z"
 }

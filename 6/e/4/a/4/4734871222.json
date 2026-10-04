@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"a78d8ce5973482b7ce1d349600761d047789927ce0ab54afb4228dc2898ed707\"",
+  "Last-Modified": "Sun, 04 Oct 2026 21:00:44 GMT",
   "base": {
     "repo": {
       "name": "tad-mctc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T21:00:44Z",
   "created_at": "2026-10-04T13:51:36Z",
   "draft": false,
   "e_tag": "\"8beb8e30c2c9a109fd237fc3464ea402bc3110a1ecf3ede86cdd05770c6a4585\"",
   "head": {
-    "ref": "0.9.0_h700035"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tad-mctc-feedstock/pull/24",
   "id": 4734871222,
   "labels": [],
-  "last_fetched": "2026-10-04T13:51:37.735968",
+  "last_fetched": "2026-10-04T21:01:59.340665",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-04T21:00:44Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-04T13:51:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T21:00:44Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"69e6fedfeaa8ff458d7e70463bca8ee86b879d41435cf24361fd01c509f858de\"",
-  "Last-Modified": "Sat, 03 Oct 2026 02:55:05 GMT",
+  "ETag": "W/\"39bb8d575a8749fef052f1af0263b487b4297c9c401615df1ee05141d2d346d4\"",
+  "Last-Modified": "Sun, 04 Oct 2026 16:23:40 GMT",
   "base": {
     "repo": {
       "name": "clhpp-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/clhpp-feedstock/pull/23",
   "id": 4720881702,
-  "labels": [],
-  "last_fetched": "2026-10-03T05:00:22.581663",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890806844,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODA2ODQ0",
+      "url": "https://api.github.com/repos/conda-forge/clhpp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-04T16:25:09.516964",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 23,
   "state": "open",
-  "updated_at": "2026-10-03T02:55:05Z"
+  "updated_at": "2026-10-04T16:25:07Z"
 }

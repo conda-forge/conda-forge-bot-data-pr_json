@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"087a788bc5019fec6db46915355a92b598cad72d32b7904f58ab6696808b5d5d\"",
-  "Last-Modified": "Thu, 24 Sep 2026 21:04:40 GMT",
+  "ETag": "W/\"bdf74178dd1bddad98b7322fe2a5fc2647312a1ccaef2b6a03d1e45e05476d31\"",
+  "Last-Modified": "Sun, 04 Oct 2026 14:28:10 GMT",
   "base": {
     "repo": {
       "name": "xgrammar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T14:28:10Z",
   "created_at": "2026-09-24T21:02:39Z",
   "draft": false,
   "e_tag": "\"396c77ac1655807594420c4d036ed20a6ccb4ac188d68cd3782876382f540a3c\"",
   "head": {
-    "ref": "0.2.8_hf15dc3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xgrammar-feedstock/pull/42",
   "id": 4631049811,
   "labels": [],
-  "last_fetched": "2026-10-01T22:47:24.172248",
+  "last_fetched": "2026-10-04T14:29:16.305576",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-04T14:28:10Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-09-24T21:04:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T14:28:10Z"
 }

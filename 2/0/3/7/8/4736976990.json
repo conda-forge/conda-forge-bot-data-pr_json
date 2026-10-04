@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c586aff6b09f77b76f77f28586b88827f7b6e8b335c6bf03cd6bec05073e0476\"",
+  "Last-Modified": "Sun, 04 Oct 2026 19:32:48 GMT",
   "base": {
     "repo": {
       "name": "helm-unittest-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T19:32:44Z",
   "created_at": "2026-10-04T19:25:04Z",
   "draft": false,
   "e_tag": "\"c124ed67b471511f8a0feaf07e4d06841881a0c5d6f16c41437b5dc0541cad2f\"",
   "head": {
-    "ref": "1.2.1_hb809be"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/helm-unittest-feedstock/pull/6",
   "id": 4736976990,
   "labels": [],
-  "last_fetched": "2026-10-04T19:25:05.387024",
+  "last_fetched": "2026-10-04T19:34:12.930249",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-04T19:32:44Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-04T19:25:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T19:32:48Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"875f3d4c2df3f5b9955bf5792436fa59c7689e43707606c050299b90aacf3068\"",
-  "Last-Modified": "Sun, 04 Oct 2026 11:51:03 GMT",
+  "ETag": "W/\"64d5a592b6057bdabe90ab3e2c4731f895f5cbfe71351819983bba754b4e19b6\"",
+  "Last-Modified": "Sun, 04 Oct 2026 20:25:05 GMT",
   "base": {
     "repo": {
       "name": "opcua-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T20:25:05Z",
   "created_at": "2026-10-04T11:49:32Z",
   "draft": false,
   "e_tag": "\"feeabb3dc36a2225c413f50215ffc9f46299f7553a1758b1886521d61fd592da\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h8f23e8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opcua-feedstock/pull/23",
   "id": 4734107415,
   "labels": [],
-  "last_fetched": "2026-10-04T12:19:38.432830",
+  "last_fetched": "2026-10-04T20:26:16.974930",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-04T20:25:05Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-04T11:51:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T20:25:05Z"
 }

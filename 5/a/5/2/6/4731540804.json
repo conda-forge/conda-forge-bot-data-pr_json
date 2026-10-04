@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9272b2a091bee8d09f3b4d18fb6249826ae40aa9af22762a2e007f74fbb4191a\"",
-  "Last-Modified": "Sun, 04 Oct 2026 14:22:03 GMT",
+  "ETag": "W/\"668aa93a3942d791285285da0cf6761e8c29bd7eda55a081a93bb1a16b141464\"",
+  "Last-Modified": "Sun, 04 Oct 2026 14:32:42 GMT",
   "base": {
     "repo": {
       "name": "reasonable-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/reasonable-feedstock/pull/26",
   "id": 4731540804,
-  "labels": [],
-  "last_fetched": "2026-10-04T14:22:14.940139",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3950754379,
+      "name": "automerge",
+      "node_id": "LA_kwDOHCefMs7re7pL",
+      "url": "https://api.github.com/repos/conda-forge/reasonable-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-04T14:34:37.995051",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 26,
   "state": "open",
-  "updated_at": "2026-10-04T14:22:03Z"
+  "updated_at": "2026-10-04T14:32:42Z"
 }

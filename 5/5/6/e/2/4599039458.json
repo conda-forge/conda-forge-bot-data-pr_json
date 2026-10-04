@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a24c184f14971e40a1e7f87f652e223306419d5bfa1446d02f0f01a9d0dbc162\"",
-  "Last-Modified": "Sat, 03 Oct 2026 08:56:09 GMT",
+  "ETag": "W/\"50fa4957da15d91e23ffa992398e0d89788fa0eac27e81161471034d1963b6dd\"",
+  "Last-Modified": "Sun, 04 Oct 2026 06:02:00 GMT",
   "base": {
     "repo": {
       "name": "slycot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T06:02:00Z",
   "created_at": "2026-09-22T06:16:39Z",
   "draft": false,
   "e_tag": "\"e4ec0ca12024e8dbb4c7285e5b9ece57b4cce2dabf2c71a37ca02a028c5b96e6\"",
   "head": {
-    "ref": "rebuild-python315-0-1_he4f529"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/slycot-feedstock/pull/86",
   "id": 4599039458,
   "labels": [],
-  "last_fetched": "2026-10-03T15:09:41.623322",
+  "last_fetched": "2026-10-04T06:03:36.786080",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-04T06:02:00Z",
   "number": 86,
-  "state": "open",
-  "updated_at": "2026-10-03T08:56:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T06:02:00Z"
 }

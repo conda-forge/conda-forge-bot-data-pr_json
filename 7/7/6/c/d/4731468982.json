@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"e993505c6c7376527ed4cad219977ad8ff577a72164c1ca40f74d219af9bba64\"",
+  "Last-Modified": "Sun, 04 Oct 2026 07:52:05 GMT",
   "base": {
     "repo": {
       "name": "warpx-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/warpx-feedstock/pull/138",
   "id": 4731468982,
-  "labels": [],
-  "last_fetched": "2026-10-04T02:57:10.053833",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2526334873,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNTI2MzM0ODcz",
+      "url": "https://api.github.com/repos/conda-forge/warpx-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-04T07:53:27.354745",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 138,
   "state": "open",
-  "updated_at": "2026-10-04T02:57:09Z"
+  "updated_at": "2026-10-04T07:52:05Z"
 }

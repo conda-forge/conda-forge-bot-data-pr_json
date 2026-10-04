@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e91b64c58fc3a7e7d9799b89b635fafd231d917c2b93cac7aaa3307e4b5066f5\"",
-  "Last-Modified": "Sun, 04 Oct 2026 20:20:30 GMT",
+  "ETag": "W/\"4c85a47f5171deebee1153543779dd123e25919068dae963ce53324bfc22a143\"",
+  "Last-Modified": "Sun, 04 Oct 2026 21:25:20 GMT",
   "base": {
     "repo": {
       "name": "aedat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T21:25:20Z",
   "created_at": "2026-10-04T20:18:49Z",
   "draft": false,
   "e_tag": "\"bb089ec91a303eea58adc9648329d323ccd2a5a1799ac0a38acac9cc8cac1651\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h4ef042"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aedat-feedstock/pull/27",
   "id": 4737306014,
   "labels": [],
-  "last_fetched": "2026-10-04T21:19:17.896160",
+  "last_fetched": "2026-10-04T21:26:59.866435",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-04T21:25:20Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-04T20:20:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T21:25:20Z"
 }

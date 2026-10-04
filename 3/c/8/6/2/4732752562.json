@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"14026bd4a36a955edb31ddf35c5c246bb61e7099025d983337ff1f00b63c3665\"",
-  "Last-Modified": "Sun, 04 Oct 2026 14:20:02 GMT",
+  "ETag": "W/\"9619066eaba768a2e1287414303587d81d281da9b965f5131eb2b1aacd3c57fc\"",
+  "Last-Modified": "Sun, 04 Oct 2026 18:52:29 GMT",
   "base": {
     "repo": {
       "name": "vigra-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T18:52:25Z",
   "created_at": "2026-10-04T07:46:18Z",
   "draft": false,
   "e_tag": "\"f4de20931b2d5e902121a59a400f8386506dddfc3101774b5319cc5955c94140\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h744978"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vigra-feedstock/pull/164",
   "id": 4732752562,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/vigra-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-04T14:21:13.906248",
+  "last_fetched": "2026-10-04T18:53:35.260937",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-04T18:52:24Z",
   "number": 164,
-  "state": "open",
-  "updated_at": "2026-10-04T14:20:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T18:52:29Z"
 }

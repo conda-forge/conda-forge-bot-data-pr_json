@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"b9d63dab1032cdb04805d58f8e6d39199c1c0f03ce080f5ef35f404531b1bd82\"",
+  "Last-Modified": "Sun, 04 Oct 2026 14:02:14 GMT",
   "base": {
     "repo": {
       "name": "py-rattler-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/py-rattler-feedstock/pull/106",
   "id": 4734777101,
-  "labels": [],
-  "last_fetched": "2026-10-04T13:36:34.496546",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6065014002,
+      "name": "automerge",
+      "node_id": "LA_kwDOKeTuLM8AAAABaYDE8g",
+      "url": "https://api.github.com/repos/conda-forge/py-rattler-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-04T14:04:32.612466",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 106,
   "state": "open",
-  "updated_at": "2026-10-04T13:36:33Z"
+  "updated_at": "2026-10-04T14:02:14Z"
 }

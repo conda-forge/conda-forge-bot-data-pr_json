@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"a6fcb21b2c5bcfabc4b52ede846554794f16ca94420559df0282ea5807a91086\"",
-  "Last-Modified": "Sun, 27 Sep 2026 06:03:44 GMT",
+  "ETag": "W/\"4f089131cb940ed3d2bf0e02d89b56cfa00e6d2c0c06ee6c9b150745652657dd\"",
+  "Last-Modified": "Sun, 04 Oct 2026 21:44:10 GMT",
   "base": {
     "repo": {
       "name": "imate-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T21:44:10Z",
   "created_at": "2026-09-27T06:01:28Z",
   "draft": false,
   "e_tag": "\"fb4db2e16b442275d405ce2bed547130ff6e9b99fa8a749c8cd1874bf0e6759a\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/imate-feedstock/pull/5",
   "id": 4651988487,
-  "labels": [],
-  "last_fetched": "2026-09-27T06:38:28.979973",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-04T21:44:12.798036",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-09-27T06:03:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T21:44:10Z"
 }

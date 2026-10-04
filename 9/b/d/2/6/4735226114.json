@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"320c198d3023244cba36e9112fbc8a12f8b25ee8a22c9aab9bf27854dbea5c0c\"",
+  "Last-Modified": "Sun, 04 Oct 2026 17:36:14 GMT",
   "base": {
     "repo": {
       "name": "phono3py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T17:36:11Z",
   "created_at": "2026-10-04T14:50:50Z",
   "draft": false,
   "e_tag": "\"701e18547a3f2dd9aec86ce8098080688b63d17b37630e9efe41870574ad508b\"",
   "head": {
-    "ref": "4.8.1_h15106c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phono3py-feedstock/pull/154",
   "id": 4735226114,
   "labels": [],
-  "last_fetched": "2026-10-04T14:50:51.640143",
+  "last_fetched": "2026-10-04T17:37:44.946461",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-04T17:36:11Z",
   "number": 154,
-  "state": "open",
-  "updated_at": "2026-10-04T14:50:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T17:36:14Z"
 }

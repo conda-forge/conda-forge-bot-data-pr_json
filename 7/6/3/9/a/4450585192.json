@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"1a78f995f3a4d84c659c2b7105060f5498a9526b7c3e7a8a3ea1686962b87e83\"",
-  "Last-Modified": "Sun, 04 Oct 2026 00:12:34 GMT",
+  "ETag": "W/\"bc8b478461ca6bb9e903a4203739a8d24ab3d8d00fe04c9a16360149f5919645\"",
+  "Last-Modified": "Sun, 04 Oct 2026 00:12:32 GMT",
   "base": {
     "repo": {
       "name": "spiceql-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/spiceql-feedstock/pull/62",
   "id": 4450585192,
-  "labels": [],
-  "last_fetched": "2026-10-04T00:13:42.414087",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-04T00:12:34.969396",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 62,
   "state": "closed",
-  "updated_at": "2026-10-04T00:12:34Z"
+  "updated_at": "2026-10-04T00:12:32Z"
 }

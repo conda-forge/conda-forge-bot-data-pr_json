@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"dda571620474a43a885a97c2e36f9acf4e00fd41d6d93715c2b1e4ba1abfc325\"",
-  "Last-Modified": "Sat, 03 Oct 2026 00:15:18 GMT",
+  "ETag": "W/\"674e9a9798d10bdb755182b473d926651878bfc9bf15ff13cb53b0205971bee7\"",
+  "Last-Modified": "Sun, 04 Oct 2026 12:02:14 GMT",
   "base": {
     "repo": {
       "name": "streamlit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-04T12:02:14Z",
   "created_at": "2026-10-03T00:15:16Z",
   "draft": false,
   "e_tag": "\"800896a3e91fe6ff36dc90b38c3c53b7330e5e517c57e4d359fab03a2a315f9d\"",
   "head": {
-    "ref": "1.65.0_h2b155b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/streamlit-feedstock/pull/160",
   "id": 4722803853,
   "labels": [],
-  "last_fetched": "2026-10-03T05:00:48.239017",
+  "last_fetched": "2026-10-04T12:03:38.806433",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-04T12:02:14Z",
   "number": 160,
-  "state": "open",
-  "updated_at": "2026-10-03T00:16:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-04T12:02:14Z"
 }

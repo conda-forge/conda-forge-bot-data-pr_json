@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"a930455d54c2cb78d4544d26e0e58455c244b740458c41cd3675baa0927891c2\"",
+  "Last-Modified": "Mon, 05 Oct 2026 10:36:32 GMT",
   "base": {
     "repo": {
       "name": "r-dofuture-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T10:36:28Z",
   "created_at": "2026-10-05T10:32:30Z",
   "draft": false,
   "e_tag": "\"c1c44901b8d31d0a2883368024bf253beb8c5b565957e29bd907a38f7dd7dd8c\"",
   "head": {
-    "ref": "1.4.0_h1f5af4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-dofuture-feedstock/pull/31",
   "id": 4743564439,
   "labels": [],
-  "last_fetched": "2026-10-05T10:32:31.655913",
+  "last_fetched": "2026-10-05T10:38:13.921001",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-05T10:36:28Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-05T10:32:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T10:36:32Z"
 }

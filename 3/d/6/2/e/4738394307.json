@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"1239bf1dec903d34b6f6b8eeb8c420b27c5c4c8187d124d58390cd587716d9bb\"",
-  "Last-Modified": "Sun, 04 Oct 2026 23:26:45 GMT",
+  "ETag": "W/\"5c84b92d00f4271486193d149f3067a37b99dbd3ee463b5c4f61a4dc33dc62f7\"",
+  "Last-Modified": "Mon, 05 Oct 2026 10:37:39 GMT",
   "base": {
     "repo": {
       "name": "nptdms-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/nptdms-feedstock/pull/47",
   "id": 4738394307,
-  "labels": [],
-  "last_fetched": "2026-10-04T23:58:20.628396",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891026095,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDI2MDk1",
+      "url": "https://api.github.com/repos/conda-forge/nptdms-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-05T10:37:53.541269",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 47,
   "state": "open",
-  "updated_at": "2026-10-04T23:26:45Z"
+  "updated_at": "2026-10-05T10:37:39Z"
 }

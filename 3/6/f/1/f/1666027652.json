@@ -1,30 +1,26 @@
 {
-  "ETag": "W/\"bd8d39538653a793858ecfc2f2a3592bc81fe46757fd295d05a721bf0817fce9\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"f448b8053a8a3df153d3bcbc9dad4fe64174171a4c71f55a67929bd7a471561e\"",
+  "Last-Modified": "Mon, 05 Oct 2026 14:33:10 GMT",
   "base": {
     "repo": {
       "name": "stress-ng-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T14:33:07Z",
   "created_at": "2024-01-05T11:23:14Z",
   "draft": false,
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "0.17.04_hc45ea8"
   },
   "html_url": "https://github.com/conda-forge/stress-ng-feedstock/pull/34",
   "id": 1666027652,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-10-05T14:33:05.540544",
+  "labels": [],
+  "last_fetched": "2026-10-05T16:01:22.682332",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 34,
-  "state": "open",
-  "updated_at": "2024-01-05T12:04:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T14:33:10Z"
 }

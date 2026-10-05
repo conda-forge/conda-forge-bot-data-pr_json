@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"7538477ca95012b493f15fd1cccd422bc6220053b453e9672ebe9f0e60178dab\"",
-  "Last-Modified": "Mon, 05 Oct 2026 04:03:36 GMT",
+  "ETag": "W/\"3eebf0cd433d703ae2f1f98081cdd045e9c8b10eac5e373cfe4cae0644edaf48\"",
+  "Last-Modified": "Mon, 05 Oct 2026 04:03:34 GMT",
   "base": {
     "repo": {
       "name": "snapper-fmt-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/snapper-fmt-feedstock/pull/9",
   "id": 4577439519,
-  "labels": [],
-  "last_fetched": "2026-10-05T04:05:15.239634",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-05T04:03:36.492605",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 9,
   "state": "closed",
-  "updated_at": "2026-10-05T04:03:36Z"
+  "updated_at": "2026-10-05T04:03:34Z"
 }

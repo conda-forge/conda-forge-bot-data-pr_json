@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"fe1217fe3a03b375e715796817c00d2ba8d69e5364036b7c3f879bf611962353\"",
-  "Last-Modified": "Mon, 05 Oct 2026 02:39:31 GMT",
+  "ETag": "W/\"34d6272da62e8a57015b9b94e74987f3d82effb5e03f93d4bdd9050a9ff0b3eb\"",
+  "Last-Modified": "Mon, 05 Oct 2026 10:12:55 GMT",
   "base": {
     "repo": {
       "name": "fiona-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T10:12:55Z",
   "created_at": "2026-10-05T02:39:30Z",
   "draft": false,
   "e_tag": "\"36288b913c1a843c6d0b359fd7fa52d9b18ec324d1eca10efe9f493b628a0f63\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hbf4f07"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fiona-feedstock/pull/246",
   "id": 4739519306,
   "labels": [],
-  "last_fetched": "2026-10-05T09:40:45.184332",
+  "last_fetched": "2026-10-05T10:14:39.382073",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T10:12:55Z",
   "number": 246,
-  "state": "open",
-  "updated_at": "2026-10-05T02:41:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T10:12:55Z"
 }

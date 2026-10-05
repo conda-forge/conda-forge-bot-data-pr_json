@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"4cf3609a99b10087922ab4f4eb88fa362b3f05f3a248da84e3c1acc03a9ddf6a\"",
-  "Last-Modified": "Mon, 05 Oct 2026 01:08:30 GMT",
+  "ETag": "W/\"e309ce126fe51d81411309ec2d4f52d7397bce7133c594c875509890b225a783\"",
+  "Last-Modified": "Mon, 05 Oct 2026 01:08:27 GMT",
   "base": {
     "repo": {
       "name": "lenstool-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/lenstool-feedstock/pull/52",
   "id": 4584703487,
-  "labels": [],
-  "last_fetched": "2026-10-05T01:09:59.552327",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-05T01:08:30.046813",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 52,
   "state": "closed",
-  "updated_at": "2026-10-05T01:08:30Z"
+  "updated_at": "2026-10-05T01:08:27Z"
 }

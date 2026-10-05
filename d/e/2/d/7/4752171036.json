@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1034b15a3be5337b176f4abd5d2d8224e2c9ea14f2c6937fd41ffef824467649\"",
+  "Last-Modified": "Mon, 05 Oct 2026 23:51:17 GMT",
   "base": {
     "repo": {
       "name": "dotenvx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T23:51:12Z",
   "created_at": "2026-10-05T23:49:13Z",
   "draft": false,
   "e_tag": "\"f925bea3e11ef68dabb3faba10ae8f6c9c2253f9b19a634e1911d013fdd526f4\"",
   "head": {
-    "ref": "2.33.0_h1a43ec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dotenvx-feedstock/pull/96",
   "id": 4752171036,
   "labels": [],
-  "last_fetched": "2026-10-05T23:49:14.171124",
+  "last_fetched": "2026-10-05T23:52:32.379124",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-05T23:51:12Z",
   "number": 96,
-  "state": "open",
-  "updated_at": "2026-10-05T23:49:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T23:51:17Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"c82440c34a0f3cb768210b18bbcb33d884865ad560135cc8d2f0e6f2d8d2c651\"",
-  "Last-Modified": "Mon, 05 Oct 2026 23:05:09 GMT",
+  "ETag": "W/\"e7b0ec39b05b3be28e8df109aed27a5469a0c62694ea689d4e6b3e21750ba137\"",
+  "Last-Modified": "Mon, 05 Oct 2026 23:07:38 GMT",
   "base": {
     "repo": {
       "name": "sonatype-guide-api-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T23:07:34Z",
   "created_at": "2026-10-05T22:41:24Z",
   "draft": false,
   "e_tag": "\"ae3de628fd2fbb8da4fc0c64f69d5e6e2be685a5ba9368357334a1b38d84d9a2\"",
   "head": {
-    "ref": "1.202610.0_h0cc20f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sonatype-guide-api-client-feedstock/pull/17",
   "id": 4751624983,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/sonatype-guide-api-client-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-05T23:06:18.194086",
+  "last_fetched": "2026-10-05T23:09:26.273182",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T23:07:34Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-05T23:05:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T23:07:38Z"
 }

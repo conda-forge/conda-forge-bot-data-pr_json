@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c117ecdf02cf5fb8260711feb96187a116739eb59980c16411001be57a48606c\"",
-  "Last-Modified": "Sun, 04 Oct 2026 19:24:58 GMT",
+  "ETag": "W/\"381fd98e5757e0826bad00bf09c00ab1879c417ac4d99a957546bcf884b2a453\"",
+  "Last-Modified": "Mon, 05 Oct 2026 06:00:09 GMT",
   "base": {
     "repo": {
       "name": "forestci-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T06:00:09Z",
   "created_at": "2026-10-04T19:23:04Z",
   "draft": false,
   "e_tag": "\"9a110aacd20e7077f42aa8e819f00ffc2986cca6c44509265d56b16b90161000\"",
   "head": {
-    "ref": "0.9_hd4205f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/forestci-feedstock/pull/15",
   "id": 4736963337,
   "labels": [],
-  "last_fetched": "2026-10-04T22:35:45.621844",
+  "last_fetched": "2026-10-05T06:01:53.224823",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T06:00:09Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-04T19:24:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T06:00:09Z"
 }

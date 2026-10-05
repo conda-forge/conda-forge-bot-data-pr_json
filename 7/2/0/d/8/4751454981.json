@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"306c4c6155bc183d430e159492c0a142a9bb70f3fe697305e26bba706ed94612\"",
+  "Last-Modified": "Mon, 05 Oct 2026 22:25:33 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-exporter-otlp-proto-http-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T22:25:33Z",
   "created_at": "2026-10-05T22:21:39Z",
   "draft": false,
   "e_tag": "\"48b7f8a5072064388aa85377efa0399e3c0d6f71a494b3af617c6674d0dee687\"",
   "head": {
-    "ref": "1.45.0_h38408e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-exporter-otlp-proto-http-feedstock/pull/59",
   "id": 4751454981,
   "labels": [],
-  "last_fetched": "2026-10-05T22:21:40.178779",
+  "last_fetched": "2026-10-05T22:27:10.256876",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-05T22:25:32Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-10-05T22:21:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T22:25:37Z"
 }

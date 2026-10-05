@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f4c04d78532ffc170981e46bb452e92159864890f336a56584b4a0dd1463e412\"",
-  "Last-Modified": "Mon, 05 Oct 2026 14:31:30 GMT",
+  "ETag": "W/\"3cecb38e2905846d4cea555afaa2763a6302c9760204289c37abe2bcdc2f124f\"",
+  "Last-Modified": "Mon, 05 Oct 2026 21:31:14 GMT",
   "base": {
     "repo": {
       "name": "k3d-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T21:31:14Z",
   "created_at": "2026-10-05T14:27:59Z",
   "draft": false,
   "e_tag": "\"a4377416c12f5fad8478c8783e5008401a6b4256291de53d8e39893f9b9790e9\"",
   "head": {
-    "ref": "3.2.0_h9f594b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/k3d-feedstock/pull/62",
   "id": 4746447036,
   "labels": [],
-  "last_fetched": "2026-10-05T15:50:43.253824",
+  "last_fetched": "2026-10-05T21:32:56.993205",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T21:31:13Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-10-05T14:31:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T21:31:14Z"
 }

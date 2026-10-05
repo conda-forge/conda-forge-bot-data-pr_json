@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"e654ffdf043e75b72c5a34bcd521d2d99cc1436e5a963ba77ff2a0307c302040\"",
-  "Last-Modified": "Mon, 05 Oct 2026 01:50:47 GMT",
+  "ETag": "W/\"e3cc91dbd76e664a871ca739bfe111e19b78ef1911347e84ffeb4af2ade7c41b\"",
+  "Last-Modified": "Mon, 05 Oct 2026 01:50:45 GMT",
   "base": {
     "repo": {
       "name": "stir-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/stir-feedstock/pull/173",
   "id": 4730376403,
-  "labels": [],
-  "last_fetched": "2026-10-05T01:52:25.183650",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-05T01:50:47.493436",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 173,
   "state": "closed",
-  "updated_at": "2026-10-05T01:50:47Z"
+  "updated_at": "2026-10-05T01:50:45Z"
 }

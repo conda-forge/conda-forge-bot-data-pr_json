@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"2bca417b19fdb904e7ab25d29fa8f00e08db49ab143f5ae3efc49ee224b84995\"",
+  "Last-Modified": "Mon, 05 Oct 2026 08:54:42 GMT",
   "base": {
     "repo": {
       "name": "pyaudi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T08:54:42Z",
   "created_at": "2026-10-05T06:20:22Z",
   "draft": false,
   "e_tag": "\"fc7ceed0d5c9ec553d528f302064f194a13c4e0c4f3e8812588016f91ef9d3c9\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h26a9d3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyaudi-feedstock/pull/63",
   "id": 4740938461,
   "labels": [],
-  "last_fetched": "2026-10-05T06:20:23.820251",
+  "last_fetched": "2026-10-05T08:56:18.595181",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-05T08:54:42Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-10-05T06:20:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T08:54:42Z"
 }

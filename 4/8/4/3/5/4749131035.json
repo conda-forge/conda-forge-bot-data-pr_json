@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d692166f648ec7c159fecd3deee49e0bc25b6e829ac5c6e6b61533c578c70429\"",
+  "Last-Modified": "Mon, 05 Oct 2026 18:34:26 GMT",
   "base": {
     "repo": {
       "name": "mlcroissant-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T18:34:26Z",
   "created_at": "2026-10-05T18:19:20Z",
   "draft": false,
   "e_tag": "\"319d12c8200cd476e9f2df917904d9c2ba75ec0710b14ec1120ee32e47520205\"",
   "head": {
-    "ref": "1.1.1_he1037e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mlcroissant-feedstock/pull/26",
   "id": 4749131035,
   "labels": [],
-  "last_fetched": "2026-10-05T18:19:20.900386",
+  "last_fetched": "2026-10-05T18:35:36.045198",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-05T18:34:26Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-05T18:19:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T18:34:26Z"
 }

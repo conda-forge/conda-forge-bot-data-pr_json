@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"afd03f6c6c9aa9e2c7e1b2f10dd213d21f9707a310d677396c0c6cd972fe0f6c\"",
-  "Last-Modified": "Mon, 05 Oct 2026 07:10:16 GMT",
+  "ETag": "W/\"349f7e468f16a10fd3f628628988e62ec01a0d8ef3ab105063fc809609ec2cfe\"",
+  "Last-Modified": "Mon, 05 Oct 2026 15:20:22 GMT",
   "base": {
     "repo": {
       "name": "sesh-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T15:20:22Z",
   "created_at": "2026-10-05T07:08:29Z",
   "draft": false,
   "e_tag": "\"fa79337650a3adab5e8495bca9ea3eeed81cda8678a7322d9b549d61ddc0f1c7\"",
   "head": {
-    "ref": "2.32.0_he99f61"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sesh-feedstock/pull/22",
   "id": 4741400292,
   "labels": [],
-  "last_fetched": "2026-10-05T08:11:27.440236",
+  "last_fetched": "2026-10-05T15:22:08.259141",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T15:20:22Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-05T07:10:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T15:20:22Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"e46de7e93e85ccccc714b5257a3c38ea1853c35b04e3ab427a1d89c7292c5bef\"",
+  "Last-Modified": "Mon, 05 Oct 2026 02:49:48 GMT",
   "base": {
     "repo": {
       "name": "python-pdal-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/python-pdal-feedstock/pull/150",
   "id": 4739537007,
-  "labels": [],
-  "last_fetched": "2026-10-05T02:42:44.417388",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891175059,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTc1MDU5",
+      "url": "https://api.github.com/repos/conda-forge/python-pdal-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-05T02:50:37.227472",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 150,
   "state": "open",
-  "updated_at": "2026-10-05T02:42:43Z"
+  "updated_at": "2026-10-05T02:49:48Z"
 }

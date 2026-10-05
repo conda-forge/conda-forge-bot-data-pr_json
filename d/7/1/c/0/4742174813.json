@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"36c0ce83cae09484bbc63d1d36876649afebcc993927580aa689a132f7f529bc\"",
+  "Last-Modified": "Mon, 05 Oct 2026 08:29:18 GMT",
   "base": {
     "repo": {
       "name": "r-aws.ec2metadata-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T08:29:14Z",
   "created_at": "2026-10-05T08:25:31Z",
   "draft": false,
   "e_tag": "\"95e88de69ef51dbb9bdb5e0831951fa223cd96f379f83ebaba3ef897445ecbd9\"",
   "head": {
-    "ref": "0.2.2_hacc10f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-aws.ec2metadata-feedstock/pull/14",
   "id": 4742174813,
   "labels": [],
-  "last_fetched": "2026-10-05T08:25:31.862071",
+  "last_fetched": "2026-10-05T08:30:43.112776",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-05T08:29:14Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-05T08:25:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T08:29:18Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ab138befb4bc8d9df7d3ed48a6d917a653f0802419dabaaab41dea802f0a1330\"",
+  "Last-Modified": "Mon, 05 Oct 2026 18:38:51 GMT",
   "base": {
     "repo": {
       "name": "transformnd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T18:38:46Z",
   "created_at": "2026-10-05T18:36:02Z",
   "draft": false,
   "e_tag": "\"13727e5fcf6f32863e9b20f4cbb690f6037f482f3496dfb6a4439da752537bcf\"",
   "head": {
-    "ref": "0.9.2_h6cc369"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/transformnd-feedstock/pull/5",
   "id": 4749306062,
   "labels": [],
-  "last_fetched": "2026-10-05T18:36:04.062762",
+  "last_fetched": "2026-10-05T18:40:22.194014",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-05T18:38:46Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-05T18:36:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T18:38:51Z"
 }

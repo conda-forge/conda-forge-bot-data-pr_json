@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"52cd300b19cb8d493a2cd33f8eb3dc38b40daf2ca9d5802d727445987b64f7aa\"",
-  "Last-Modified": "Sun, 04 Oct 2026 18:43:57 GMT",
+  "ETag": "W/\"0da3b5dcf5baa3398ac84ba5ca23078bb0b193621c0d7734249e7b516091ccca\"",
+  "Last-Modified": "Mon, 05 Oct 2026 09:28:25 GMT",
   "base": {
     "repo": {
       "name": "mkl-service-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T09:28:25Z",
   "created_at": "2026-10-04T18:42:04Z",
   "draft": false,
   "e_tag": "\"4a1f3fe935e8aa11d702d8a77bcf77c5870529e547516902f54ac6aa2b715a57\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h4b22d9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mkl-service-feedstock/pull/59",
   "id": 4736702576,
   "labels": [],
-  "last_fetched": "2026-10-04T21:20:06.691568",
+  "last_fetched": "2026-10-05T09:30:06.041439",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T09:28:25Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-10-04T18:43:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T09:28:25Z"
 }

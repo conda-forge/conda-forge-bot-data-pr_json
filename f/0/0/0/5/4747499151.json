@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"38746cddaab68bf10749ba65b52f6e8f223490602158add02e13142b9a006272\"",
-  "Last-Modified": "Mon, 05 Oct 2026 15:54:09 GMT",
+  "ETag": "W/\"7b35b0856c5218f9cb9f7c3ae86ef2f6dbf2329f4ebaae8d6a7ed9301e94acc4\"",
+  "Last-Modified": "Mon, 05 Oct 2026 18:15:34 GMT",
   "base": {
     "repo": {
       "name": "mysqlclient-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T18:14:35Z",
   "created_at": "2026-10-05T15:50:22Z",
   "draft": false,
   "e_tag": "\"54d9c3d890bcb1b06179405750154703f6cd67de0a1a4737f9056fb4f3cf91bc\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h31435f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mysqlclient-feedstock/pull/69",
   "id": 4747499151,
   "labels": [],
-  "last_fetched": "2026-10-05T16:30:58.637258",
+  "last_fetched": "2026-10-05T18:15:47.174373",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T18:14:35Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-10-05T15:54:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T18:15:34Z"
 }

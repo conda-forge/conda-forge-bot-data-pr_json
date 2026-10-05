@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"79de35e686fb37dc1e4a8b8deff6814f0370a3c77b0b148b397f97e4edc2c996\"",
-  "Last-Modified": "Sun, 20 Sep 2026 16:25:28 GMT",
+  "ETag": "W/\"52e4da999459c8c57497268e66b751b1ddc97b6188f54abdbf901ead25d56b41\"",
+  "Last-Modified": "Mon, 05 Oct 2026 11:46:43 GMT",
   "base": {
     "repo": {
       "name": "pyoctomap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T11:46:43Z",
   "created_at": "2026-09-20T16:23:52Z",
   "draft": false,
   "e_tag": "\"c406dfae95d939f4c605a6822383b436ff032e815f9cd5d1212b2aa2b57fe8e2\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hd57a91"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyoctomap-feedstock/pull/2",
   "id": 4584913557,
   "labels": [],
-  "last_fetched": "2026-09-28T12:41:52.265799",
+  "last_fetched": "2026-10-05T11:48:20.762213",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T11:46:43Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-09-20T16:25:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T11:46:43Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e07865eddc07bcc9a575323706fc9b36e0307bb7e126d26cf77859992edeb3ef\"",
-  "Last-Modified": "Mon, 05 Oct 2026 15:33:12 GMT",
+  "ETag": "W/\"c8d82473ac7e76fc805f6d629140007b0230ecec58f27570507f593d4540a025\"",
+  "Last-Modified": "Mon, 05 Oct 2026 15:57:03 GMT",
   "base": {
     "repo": {
       "name": "oxlint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T15:56:58Z",
   "created_at": "2026-10-05T15:29:37Z",
   "draft": false,
   "e_tag": "\"ba672796e4a77e04b0042d22406e6afd2ab68aea74b7326da54ddffda3bdffb8\"",
   "head": {
-    "ref": "1.87.0_h0ed3bf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/oxlint-feedstock/pull/112",
   "id": 4747237023,
   "labels": [],
-  "last_fetched": "2026-10-05T15:52:22.419656",
+  "last_fetched": "2026-10-05T15:58:43.026754",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T15:56:58Z",
   "number": 112,
-  "state": "open",
-  "updated_at": "2026-10-05T15:33:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T15:57:03Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"a7fb5581f3ffe2bd4c905b5cc4dcd66ec76893267f4b6ba6ba7cc7f479621a4d\"",
-  "Last-Modified": "Mon, 05 Oct 2026 14:44:02 GMT",
+  "ETag": "W/\"5dbca7333c7c54aa04ca77567b4fb7eae2311d7e8fae651a66e9351c3a436951\"",
+  "Last-Modified": "Mon, 05 Oct 2026 14:53:33 GMT",
   "base": {
     "repo": {
       "name": "pelicanplatform-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T14:53:30Z",
   "created_at": "2026-10-02T02:50:46Z",
   "draft": false,
   "e_tag": "\"1f75bb430be75af8148a426001954d22623fd9520f35ee06f88ca14d7e622637\"",
   "head": {
-    "ref": "7.26.3_haad384"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pelicanplatform-feedstock/pull/82",
   "id": 4712110437,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/pelicanplatform-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-05T14:45:28.162061",
+  "last_fetched": "2026-10-05T14:54:57.872441",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T14:53:30Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-10-05T14:44:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T14:53:33Z"
 }

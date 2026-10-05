@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"27c156053578c97f4388f5cb19927439ed417cc25c77b3fc0a1f3ad02d88eb6a\"",
-  "Last-Modified": "Mon, 05 Oct 2026 22:25:43 GMT",
+  "ETag": "W/\"53e315c63b639e0b69c3a3743789765c8779e034ba434b0eda97b5185e0fc0e4\"",
+  "Last-Modified": "Mon, 05 Oct 2026 22:25:40 GMT",
   "base": {
     "repo": {
       "name": "qt-main-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/qt-main-feedstock/pull/414",
   "id": 4592581454,
-  "labels": [],
-  "last_fetched": "2026-10-05T22:27:15.846308",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-05T22:25:43.870566",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 414,
   "state": "closed",
-  "updated_at": "2026-10-05T22:25:43Z"
+  "updated_at": "2026-10-05T22:25:40Z"
 }

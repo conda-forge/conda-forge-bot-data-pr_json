@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"40a1aab03ec6cd625619403df2c5c602c9529f3d9bf71b0bc10ec83916224384\"",
-  "Last-Modified": "Mon, 05 Oct 2026 16:40:38 GMT",
+  "ETag": "W/\"afb08ced67a70d222df701b33dd3b7cff791d514b8ab945cc18efc4c01b00379\"",
+  "Last-Modified": "Mon, 05 Oct 2026 17:16:25 GMT",
   "base": {
     "repo": {
       "name": "cudnn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T17:16:22Z",
   "created_at": "2026-09-30T13:43:54Z",
   "draft": false,
   "e_tag": "\"09854ed4ad23fda20866d67daddf00d50b788c51ab6abebdade9f844a73af378\"",
   "head": {
-    "ref": "9.27.0.42_he099f4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cudnn-feedstock/pull/155",
   "id": 4691300352,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/cudnn-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-05T16:42:13.505260",
+  "last_fetched": "2026-10-05T17:17:36.907519",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T17:16:22Z",
   "number": 155,
-  "state": "open",
-  "updated_at": "2026-10-05T16:40:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T17:16:25Z"
 }

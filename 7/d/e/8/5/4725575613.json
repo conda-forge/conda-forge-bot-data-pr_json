@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b3bce9feb28536fdc93feab2e1ebd63d7f36856b810ed2864d7f5d63709d0837\"",
-  "Last-Modified": "Sat, 03 Oct 2026 09:40:07 GMT",
+  "ETag": "W/\"b0f34407e4b4ee55db74470284a79f1dc14016fd11e19736d547d6996efbfeb4\"",
+  "Last-Modified": "Mon, 05 Oct 2026 07:48:30 GMT",
   "base": {
     "repo": {
       "name": "linmarg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T07:48:30Z",
   "created_at": "2026-10-03T09:38:25Z",
   "draft": false,
   "e_tag": "\"ce6a201be822d56a18cc3dd33e73e070bc053bc3e827411812cbc8ee10d5b72c\"",
   "head": {
-    "ref": "0.1.4_h387c05"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/linmarg-feedstock/pull/5",
   "id": 4725575613,
   "labels": [],
-  "last_fetched": "2026-10-03T18:58:25.784750",
+  "last_fetched": "2026-10-05T07:49:39.600141",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T07:48:30Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-03T09:40:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T07:48:30Z"
 }

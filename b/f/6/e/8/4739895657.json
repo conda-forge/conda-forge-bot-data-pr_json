@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"51c8ca5b117756f0bf1eea7e458883a417832f9ff346c28cd4d71b10a3acd658\"",
-  "Last-Modified": "Mon, 05 Oct 2026 03:43:13 GMT",
+  "ETag": "W/\"2a8aaff1c9457a318c0a142b4eafb93bd55a54b04c2b55e0b7ba099485bb657b\"",
+  "Last-Modified": "Mon, 05 Oct 2026 10:51:34 GMT",
   "base": {
     "repo": {
       "name": "exactextract-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T10:51:34Z",
   "created_at": "2026-10-05T03:41:29Z",
   "draft": false,
   "e_tag": "\"bc6a13243264f279c9b171ca679cf2db677b49fc34ecaea82b4241fc4bfff919\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h9e7475"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/exactextract-feedstock/pull/39",
   "id": 4739895657,
   "labels": [],
-  "last_fetched": "2026-10-05T07:48:30.378878",
+  "last_fetched": "2026-10-05T10:52:45.060982",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T10:51:34Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-10-05T03:43:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T10:51:34Z"
 }

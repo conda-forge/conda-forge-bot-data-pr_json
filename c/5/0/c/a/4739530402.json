@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"5424b930480c6c5bf36dfd11e98024790e134d32b013282a82a8812c67ccfede\"",
-  "Last-Modified": "Mon, 05 Oct 2026 02:43:29 GMT",
+  "ETag": "W/\"3b7fac9d1723f0653db6657f6008fba41fc9c2475d02c8dc5926cdd30be826a5\"",
+  "Last-Modified": "Mon, 05 Oct 2026 02:54:18 GMT",
   "base": {
     "repo": {
       "name": "richdem-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T02:54:14Z",
   "created_at": "2026-10-05T02:41:37Z",
   "draft": false,
   "e_tag": "\"0a7e8e0c76319ca39be3e3eca39a550debaed88f632a1de674f8d461626ef00c\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h1786c7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/richdem-feedstock/pull/42",
   "id": 4739530402,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/richdem-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-05T02:44:17.565647",
+  "last_fetched": "2026-10-05T02:55:29.545249",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T02:54:14Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-10-05T02:43:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T02:54:18Z"
 }

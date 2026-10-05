@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"994f60c730580d24d918af1e52fea3dbda3d5a8960bc546f8d3d25b8d186f4e2\"",
-  "Last-Modified": "Mon, 05 Oct 2026 11:59:07 GMT",
+  "ETag": "W/\"7cb2be52a30d9ec7534d015ffbafda40f162d45ab0dfc404b585ad5be504430b\"",
+  "Last-Modified": "Mon, 05 Oct 2026 11:59:05 GMT",
   "base": {
     "repo": {
       "name": "traits-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/traits-feedstock/pull/48",
   "id": 3179018300,
-  "labels": [],
-  "last_fetched": "2026-10-05T12:01:03.733922",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-05T11:59:07.801806",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 48,
   "state": "closed",
-  "updated_at": "2026-10-05T11:59:07Z"
+  "updated_at": "2026-10-05T11:59:05Z"
 }

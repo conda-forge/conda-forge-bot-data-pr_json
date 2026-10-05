@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"ff382d8f8b67bced85390406744e371c03c269ca43bca5f620544389048d64d2\"",
-  "Last-Modified": "Fri, 02 Oct 2026 02:58:16 GMT",
+  "ETag": "W/\"a7fb5581f3ffe2bd4c905b5cc4dcd66ec76893267f4b6ba6ba7cc7f479621a4d\"",
+  "Last-Modified": "Mon, 05 Oct 2026 14:44:02 GMT",
   "base": {
     "repo": {
       "name": "pelicanplatform-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/pelicanplatform-feedstock/pull/82",
   "id": 4712110437,
-  "labels": [],
-  "last_fetched": "2026-10-02T12:39:27.136887",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6304315822,
+      "name": "automerge",
+      "node_id": "LA_kwDOK3gpw88AAAABd8Q5rg",
+      "url": "https://api.github.com/repos/conda-forge/pelicanplatform-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-05T14:45:28.162061",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 82,
   "state": "open",
-  "updated_at": "2026-10-02T02:58:16Z"
+  "updated_at": "2026-10-05T14:44:02Z"
 }

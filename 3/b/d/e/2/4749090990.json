@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5386d12e631251661d0c83ff2fec60d2b9cf25b05bcd38971c57b7aeffaedab7\"",
+  "Last-Modified": "Mon, 05 Oct 2026 18:17:59 GMT",
   "base": {
     "repo": {
       "name": "tdscha-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T18:17:54Z",
   "created_at": "2026-10-05T18:15:30Z",
   "draft": false,
   "e_tag": "\"9e7013316de629d92f85f01b030eba7b964900de39155c65fa9c2d1014568914\"",
   "head": {
-    "ref": "1.6.2_h9796c5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tdscha-feedstock/pull/11",
   "id": 4749090990,
   "labels": [],
-  "last_fetched": "2026-10-05T18:15:32.260480",
+  "last_fetched": "2026-10-05T18:19:29.561937",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-05T18:17:54Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-05T18:15:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T18:17:59Z"
 }

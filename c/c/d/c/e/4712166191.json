@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"8ab7c796dde4288da838a5616b310336ed0e8fb3b95bde20d4cf4b40bb42d5a6\"",
-  "Last-Modified": "Fri, 02 Oct 2026 03:01:01 GMT",
+  "ETag": "W/\"ea1986988593e1b4162c4726c2d2a60e532f0d9bfdb70518d9ec43036c22bd00\"",
+  "Last-Modified": "Mon, 05 Oct 2026 12:31:07 GMT",
   "base": {
     "repo": {
       "name": "pytest-recording-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T12:31:07Z",
   "created_at": "2026-10-02T02:59:26Z",
   "draft": false,
   "e_tag": "\"93b88d5f88a276a8002cab9fe3b275fae6de8e7397637897d855d3a0a08bc91a\"",
   "head": {
-    "ref": "0.14.0_h817c8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytest-recording-feedstock/pull/15",
   "id": 4712166191,
   "labels": [],
-  "last_fetched": "2026-10-02T03:03:40.361812",
+  "last_fetched": "2026-10-05T12:32:57.156896",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T12:31:07Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-02T03:01:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T12:31:07Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e96e653706bbe1e5fd4b12c5998bc91a6d5c020613f6355123a6fc3b3424fff2\"",
-  "Last-Modified": "Sun, 04 Oct 2026 23:16:36 GMT",
+  "ETag": "W/\"1b04d411df685f8e3a0a0876221bef53295cb52859561cfd5b65f1ada1941b3b\"",
+  "Last-Modified": "Mon, 05 Oct 2026 03:41:43 GMT",
   "base": {
     "repo": {
       "name": "advect-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T03:41:43Z",
   "created_at": "2026-10-04T23:14:54Z",
   "draft": false,
   "e_tag": "\"fa4bf22f5abaeabce35ee2ce187643245437ced8531495e18ba317d853c69e5f\"",
   "head": {
-    "ref": "0.3.1_ha3eca0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/advect-feedstock/pull/5",
   "id": 4738346085,
   "labels": [],
-  "last_fetched": "2026-10-05T02:14:15.728581",
+  "last_fetched": "2026-10-05T03:42:55.616560",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T03:41:43Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-04T23:16:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T03:41:43Z"
 }

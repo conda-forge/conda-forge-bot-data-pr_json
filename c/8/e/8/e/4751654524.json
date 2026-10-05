@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"186593ce060b1cdc94c1be0699d493aca5a57f5b5ab01adc58098607ee64a398\"",
+  "Last-Modified": "Mon, 05 Oct 2026 22:47:24 GMT",
   "base": {
     "repo": {
       "name": "vercel-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T22:47:21Z",
   "created_at": "2026-10-05T22:44:52Z",
   "draft": false,
   "e_tag": "\"c366e55b58c0b0d9e682b0badc41643bf6e404575ce4ef433ae19a10b7ef7b92\"",
   "head": {
-    "ref": "62.4.0_hcc7b15"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vercel-cli-feedstock/pull/201",
   "id": 4751654524,
   "labels": [],
-  "last_fetched": "2026-10-05T22:44:53.208412",
+  "last_fetched": "2026-10-05T22:49:17.191890",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-05T22:47:21Z",
   "number": 201,
-  "state": "open",
-  "updated_at": "2026-10-05T22:44:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T22:47:24Z"
 }

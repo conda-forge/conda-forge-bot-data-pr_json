@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"5424b930480c6c5bf36dfd11e98024790e134d32b013282a82a8812c67ccfede\"",
+  "Last-Modified": "Mon, 05 Oct 2026 02:43:29 GMT",
   "base": {
     "repo": {
       "name": "richdem-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/richdem-feedstock/pull/42",
   "id": 4739530402,
-  "labels": [],
-  "last_fetched": "2026-10-05T02:41:37.929399",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891331070,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzMxMDcw",
+      "url": "https://api.github.com/repos/conda-forge/richdem-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-05T02:44:17.565647",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 42,
   "state": "open",
-  "updated_at": "2026-10-05T02:41:37Z"
+  "updated_at": "2026-10-05T02:43:29Z"
 }

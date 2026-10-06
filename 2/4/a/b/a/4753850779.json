@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"11a2faf08daff8bf6145b7d5cb79a8944b6f3e30de69d05a49e2ef0a05c63e24\"",
-  "Last-Modified": "Tue, 06 Oct 2026 03:55:13 GMT",
+  "ETag": "W/\"db6ebb83c55fad5a374cd570eef40fdf1836c5a7b94c6cfba85d689274e13b0f\"",
+  "Last-Modified": "Tue, 06 Oct 2026 04:05:03 GMT",
   "base": {
     "repo": {
       "name": "rasterio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T04:05:00Z",
   "created_at": "2026-10-06T03:45:14Z",
   "draft": false,
   "e_tag": "\"b8273fe822c81d79407dd9a8c7b5e45421863406dfde767a4b71d762e4bce2ee\"",
   "head": {
-    "ref": "rebuild-proj99-0-1_hb4be6d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rasterio-feedstock/pull/354",
   "id": 4753850779,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/rasterio-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-06T03:56:46.375685",
+  "last_fetched": "2026-10-06T04:06:43.778036",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T04:05:00Z",
   "number": 354,
-  "state": "open",
-  "updated_at": "2026-10-06T03:55:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T04:05:03Z"
 }

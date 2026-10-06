@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"74656bfb843f5e02df629cc307c8cfeee59124458baa57337f11e01628d172da\"",
+  "Last-Modified": "Tue, 06 Oct 2026 12:20:48 GMT",
   "base": {
     "repo": {
       "name": "notebook_intelligence-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T12:20:48Z",
   "created_at": "2026-10-06T11:59:01Z",
   "draft": false,
   "e_tag": "\"43d48203b3d39f7c86d5d7a3c76bc2f6bc04c5a2596d417733c1254af894ee75\"",
   "head": {
-    "ref": "6.2.0_hf7e036"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/notebook_intelligence-feedstock/pull/61",
   "id": 4758363312,
   "labels": [],
-  "last_fetched": "2026-10-06T11:59:02.671894",
+  "last_fetched": "2026-10-06T12:22:02.501154",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T12:20:48Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-10-06T11:59:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T12:20:48Z"
 }

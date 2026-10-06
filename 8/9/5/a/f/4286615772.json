@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"b60e19b7227e16a6af6a1e165da0c5a7c4c9600a54e2015567cf6af26b155394\"",
-  "Last-Modified": "Tue, 06 Oct 2026 18:52:41 GMT",
+  "ETag": "W/\"c174ca4779c609dc778ce091bf22e89f14dd65ce98dbe5fbe0a33d11be2f4764\"",
+  "Last-Modified": "Tue, 06 Oct 2026 18:52:38 GMT",
   "base": {
     "repo": {
       "name": "llguidance-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/llguidance-feedstock/pull/35",
   "id": 4286615772,
-  "labels": [],
-  "last_fetched": "2026-10-06T18:53:54.678392",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-06T18:52:41.364957",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 35,
   "state": "closed",
-  "updated_at": "2026-10-06T18:52:41Z"
+  "updated_at": "2026-10-06T18:52:38Z"
 }

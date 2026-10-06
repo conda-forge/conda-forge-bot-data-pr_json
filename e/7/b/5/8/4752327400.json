@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e70d430f215e0cd5cff82795a7a0f015fc67142cf28dad9663615077ce698c55\"",
+  "Last-Modified": "Tue, 06 Oct 2026 05:51:03 GMT",
   "base": {
     "repo": {
       "name": "rsloop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T05:51:03Z",
   "created_at": "2026-10-06T00:09:04Z",
   "draft": false,
   "e_tag": "\"90a6e73ba60e87eedec2d7423e029aa5375c9e968a38d5b1d30cb464722e89d5\"",
   "head": {
-    "ref": "0.1.56_h5c1841"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rsloop-feedstock/pull/24",
   "id": 4752327400,
   "labels": [],
-  "last_fetched": "2026-10-06T00:09:05.217952",
+  "last_fetched": "2026-10-06T05:52:53.499720",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T05:51:03Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-06T00:09:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T05:51:03Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"a67808964a098dd0fc617aabe22a4f06c930c933ac842e1219c5a6a0b2d4bd0b\"",
-  "Last-Modified": "Tue, 06 Oct 2026 11:46:05 GMT",
+  "ETag": "W/\"69b2faac71bb87c38bc4f16ad79b7ed0995d0590ea4f4ee3d28d4df36768f73e\"",
+  "Last-Modified": "Tue, 06 Oct 2026 14:04:06 GMT",
   "base": {
     "repo": {
       "name": "merman-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T14:04:01Z",
   "created_at": "2026-10-05T19:32:34Z",
   "draft": false,
   "e_tag": "\"ae6ce864ea0ceb76eec39f1a63d5b3a65404cf8cfda94c691adfa971203df50c\"",
   "head": {
-    "ref": "0.8.0_h8738a6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/merman-cli-feedstock/pull/4",
   "id": 4749895395,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/merman-cli-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-06T11:47:28.094118",
+  "last_fetched": "2026-10-06T14:06:42.932751",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T14:04:01Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-06T11:46:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T14:04:06Z"
 }

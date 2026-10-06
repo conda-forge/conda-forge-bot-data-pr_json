@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b9460e57f382d491a9febf9925268d0a3cdf5ca91fe671a3148ece52ef9015a4\"",
-  "Last-Modified": "Thu, 01 Oct 2026 21:15:11 GMT",
+  "ETag": "W/\"70768e64cc133290b78d59d8269b47093c236ad3b79ebec63e12f92b85060f09\"",
+  "Last-Modified": "Tue, 06 Oct 2026 16:50:32 GMT",
   "base": {
     "repo": {
       "name": "python-geotiepoints-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T16:50:32Z",
   "created_at": "2026-10-01T21:15:09Z",
   "draft": false,
   "e_tag": "\"1b0d3138135163b5cacdfb4784cd33ea20cf039f3aefcc1c32694574d15fd2cb\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h06a254"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-geotiepoints-feedstock/pull/41",
   "id": 4709701291,
   "labels": [],
-  "last_fetched": "2026-10-02T01:42:31.342186",
+  "last_fetched": "2026-10-06T16:51:48.296600",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T16:50:31Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-01T21:17:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T16:50:32Z"
 }

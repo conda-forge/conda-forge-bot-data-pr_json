@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"5a3dada7afddb3d7957fbb4d69296b923b709d2b354e1756d5d606451cf2d65f\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"b363feff841971e0a4eef1bfcfffb1e214d54368c5d3c2c7c3005cc07fbd7f02\"",
+  "Last-Modified": "Tue, 06 Oct 2026 14:57:26 GMT",
   "base": {
     "repo": {
       "name": "tco-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T14:57:26Z",
   "created_at": "2025-01-19T18:39:33Z",
   "draft": false,
   "e_tag": "\"6430276133b3e880391b6a5550ad574e8b9b6785dd4532c9df8d6e41d8095972\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_he4291e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tco-feedstock/pull/1",
   "id": 2286324454,
   "labels": [],
-  "last_fetched": "2026-10-05T14:55:34.063448",
+  "last_fetched": "2026-10-06T17:04:38.287380",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T14:57:26Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2025-01-19T18:41:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T14:57:26Z"
 }

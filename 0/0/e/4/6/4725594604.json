@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"5011b2ce6c0eeb35a29c2a635f3bf8f02d0d610541ddd4c040aa182a08280d98\"",
-  "Last-Modified": "Sat, 03 Oct 2026 09:59:47 GMT",
+  "ETag": "W/\"207c10f409da9c44b497b8dfb3af4e6e7dd3d7a9c8a4f3ba4e88abbf98e1f106\"",
+  "Last-Modified": "Tue, 06 Oct 2026 12:41:59 GMT",
   "base": {
     "repo": {
       "name": "ducklake-sdk-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/ducklake-sdk-feedstock/pull/20",
   "id": 4725594604,
-  "labels": [],
-  "last_fetched": "2026-10-03T18:58:46.844233",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10934891623,
+      "name": "automerge",
+      "node_id": "LA_kwDOSbq-6c8AAAACi8U0Zw",
+      "url": "https://api.github.com/repos/conda-forge/ducklake-sdk-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-06T12:43:56.318967",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 20,
   "state": "open",
-  "updated_at": "2026-10-03T09:59:47Z"
+  "updated_at": "2026-10-06T12:41:59Z"
 }

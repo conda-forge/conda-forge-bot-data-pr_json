@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"3415e10fbfe8bc737f0044cde95985734bb33c85f35b7b7194e46bc013b30266\"",
-  "Last-Modified": "Thu, 13 Aug 2026 10:32:58 GMT",
+  "ETag": "W/\"a23567bcaa5e68f519e5465e1465780216b99de1e3d38b14c6ab01014bff37f9\"",
+  "Last-Modified": "Tue, 06 Oct 2026 19:51:41 GMT",
   "base": {
     "repo": {
       "name": "datafusion-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T19:51:41Z",
   "created_at": "2026-08-13T10:31:22Z",
   "draft": false,
   "e_tag": "\"473c331a7e4012339309cd8244053259b1593b834b65f14ace7808f81967907f\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/datafusion-feedstock/pull/84",
   "id": 4270266734,
-  "labels": [],
-  "last_fetched": "2026-09-29T15:02:52.466841",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-06T19:51:45.529619",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 84,
-  "state": "open",
-  "updated_at": "2026-08-13T10:32:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T19:51:41Z"
 }

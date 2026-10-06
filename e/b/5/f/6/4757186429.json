@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e71223a2da6722a321c408291e6932ec5f794b7483b9900f1147820f419c47c5\"",
+  "Last-Modified": "Tue, 06 Oct 2026 10:09:13 GMT",
   "base": {
     "repo": {
       "name": "r-histdata-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T10:09:09Z",
   "created_at": "2026-10-06T10:05:29Z",
   "draft": false,
   "e_tag": "\"93f2aaed48fbff8e9b269ea0387c69f6cc334a2370ffd7eb4450333d4ad3609e\"",
   "head": {
-    "ref": "1.1.1_h5ae84f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-histdata-feedstock/pull/9",
   "id": 4757186429,
   "labels": [],
-  "last_fetched": "2026-10-06T10:05:29.976729",
+  "last_fetched": "2026-10-06T10:10:49.035316",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T10:09:09Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-06T10:05:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T10:09:13Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e90eb5e542357f988339e02868e1708be6a0d96358728e7db06837a982a2d82c\"",
+  "Last-Modified": "Tue, 06 Oct 2026 17:56:47 GMT",
   "base": {
     "repo": {
       "name": "power-grid-model-io-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T17:56:44Z",
   "created_at": "2026-10-06T17:50:46Z",
   "draft": false,
   "e_tag": "\"600d9551f55b9065248e975d98a7f6c53ed672be958160064493db07a45f7da5\"",
   "head": {
-    "ref": "2.0.20_h972a1d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/power-grid-model-io-feedstock/pull/191",
   "id": 4762600328,
   "labels": [],
-  "last_fetched": "2026-10-06T17:50:47.798766",
+  "last_fetched": "2026-10-06T17:59:03.258132",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T17:56:44Z",
   "number": 191,
-  "state": "open",
-  "updated_at": "2026-10-06T17:50:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T17:56:47Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"372dd6d44b9fa3328de997acba2accfd9c5fa6fa3ac81cf583f4808d2c874443\"",
+  "Last-Modified": "Tue, 06 Oct 2026 17:14:08 GMT",
   "base": {
     "repo": {
       "name": "muon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T17:14:07Z",
   "created_at": "2026-10-06T16:46:25Z",
   "draft": false,
   "e_tag": "\"12a1a1b1e2881301aea9c09f9bce7bcd1e52d557caee8c86707db8725cfc5f53\"",
   "head": {
-    "ref": "0.2.0_hcb60ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/muon-feedstock/pull/23",
   "id": 4761890143,
   "labels": [],
-  "last_fetched": "2026-10-06T16:46:26.739773",
+  "last_fetched": "2026-10-06T17:15:22.124092",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T17:14:07Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-06T16:46:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T17:14:08Z"
 }

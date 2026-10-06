@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"96b79e6cc117b6ba1fc90bdecb74383fcba18a847ae04e27f43ea02ffb8a0867\"",
-  "Last-Modified": "Tue, 06 Oct 2026 12:05:54 GMT",
+  "ETag": "W/\"34730cd6ec1bab9b901ff48c99f167b23f11a09b2d5e7b3f448be3b6bcbacf51\"",
+  "Last-Modified": "Tue, 06 Oct 2026 18:48:08 GMT",
   "base": {
     "repo": {
       "name": "onednn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T18:48:08Z",
   "created_at": "2026-10-06T12:03:55Z",
   "draft": false,
   "e_tag": "\"0017a505f91fc5c471b8bc408bd41555b81ed310ededf76c30c567e9c9c1deea\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/onednn-feedstock/pull/117",
   "id": 4758414784,
-  "labels": [],
-  "last_fetched": "2026-10-06T12:37:17.439953",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 2837406491,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwyODM3NDA2NDkx",
+      "url": "https://api.github.com/repos/conda-forge/onednn-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-06T18:48:11.165362",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 117,
-  "state": "open",
-  "updated_at": "2026-10-06T12:05:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T18:48:08Z"
 }

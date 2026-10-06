@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c7ccc35b26491b542b62ee4770fd9bf54ba12247e978e5a0eb6145dfa4e17c58\"",
-  "Last-Modified": "Tue, 06 Oct 2026 10:44:46 GMT",
+  "ETag": "W/\"1e954530188dbad77a509f11464892f9d06fcb437eb05cca40cc092e80e1447d\"",
+  "Last-Modified": "Tue, 06 Oct 2026 15:14:30 GMT",
   "base": {
     "repo": {
       "name": "traefik-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/traefik-feedstock/pull/82",
   "id": 4757590005,
-  "labels": [],
-  "last_fetched": "2026-10-06T11:26:50.722237",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5517251119,
+      "name": "automerge",
+      "node_id": "LA_kwDOJkkNbM8AAAABSNqSLw",
+      "url": "https://api.github.com/repos/conda-forge/traefik-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-06T15:16:26.777755",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 82,
   "state": "open",
-  "updated_at": "2026-10-06T10:46:23Z"
+  "updated_at": "2026-10-06T15:14:30Z"
 }

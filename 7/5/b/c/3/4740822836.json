@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e405d8e84bd71db4039864974fe9acb4e940d8c66ae92398c9d63394326ff463\"",
-  "Last-Modified": "Mon, 05 Oct 2026 06:08:22 GMT",
+  "ETag": "W/\"3a02227dd66cba5f708749fcda30d029151adab2d14198834e84554f6565ce07\"",
+  "Last-Modified": "Tue, 06 Oct 2026 19:46:35 GMT",
   "base": {
     "repo": {
       "name": "sip-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T19:46:35Z",
   "created_at": "2026-10-05T06:06:42Z",
   "draft": false,
   "e_tag": "\"fda11e20aa379048e5062c560ea0ee7bfa8e840300970b37fb386700f977bce7\"",
   "head": {
-    "ref": "6.17.0_h835a06"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sip-feedstock/pull/113",
   "id": 4740822836,
   "labels": [],
-  "last_fetched": "2026-10-05T06:59:02.824534",
+  "last_fetched": "2026-10-06T19:48:17.813925",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T19:46:35Z",
   "number": 113,
-  "state": "open",
-  "updated_at": "2026-10-05T06:08:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T19:46:35Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f29d2ba64b06e7119173f2db63c907e8f38ef60fe5d1ae4f1368cf90912ec2d6\"",
-  "Last-Modified": "Mon, 05 Oct 2026 13:13:42 GMT",
+  "ETag": "W/\"094080cef82056ac9c34e845137e0bb9e3816f294783075d63a28ad508bb095d\"",
+  "Last-Modified": "Tue, 06 Oct 2026 16:52:57 GMT",
   "base": {
     "repo": {
       "name": "snapper-fmt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T16:52:57Z",
   "created_at": "2026-10-05T13:12:07Z",
   "draft": false,
   "e_tag": "\"f76fc7c6a9fa49674c29af589c54356a2b1e3e4a3f48303f684b88bf13f1de1d\"",
   "head": {
-    "ref": "0.11.9_hf0b386"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/snapper-fmt-feedstock/pull/13",
   "id": 4745424513,
   "labels": [],
-  "last_fetched": "2026-10-05T13:56:47.639198",
+  "last_fetched": "2026-10-06T16:54:07.292777",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T16:52:57Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-05T13:13:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T16:52:57Z"
 }

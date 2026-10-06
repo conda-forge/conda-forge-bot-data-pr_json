@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"4e25d4e65e5eb0162e6021cc6955c6484d83bba74b0c3bb40e86cc1bd33ebf9e\"",
+  "Last-Modified": "Tue, 06 Oct 2026 23:20:17 GMT",
   "base": {
     "repo": {
       "name": "uharfbuzz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T23:20:13Z",
   "created_at": "2026-10-06T23:14:03Z",
   "draft": false,
   "e_tag": "\"e923b389b327d815dfd1421b9abd4e4a5a6fa6e7847907fae31115af754c5c0f\"",
   "head": {
-    "ref": "0.56.3_h8c0761"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uharfbuzz-feedstock/pull/70",
   "id": 4765680926,
   "labels": [],
-  "last_fetched": "2026-10-06T23:14:04.914531",
+  "last_fetched": "2026-10-06T23:21:45.187240",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T23:20:13Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-10-06T23:14:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T23:20:17Z"
 }

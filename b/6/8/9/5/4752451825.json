@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d3df36952269d5a4a081b2e825953ae600a4321e63c315f87b4f5f78fa2cbb7a\"",
+  "Last-Modified": "Tue, 06 Oct 2026 00:29:11 GMT",
   "base": {
     "repo": {
       "name": "mleap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T00:29:07Z",
   "created_at": "2026-10-06T00:25:11Z",
   "draft": false,
   "e_tag": "\"810504bd264b7b988bdc87fccb116c0c7f15671d5e1e4731c96d153a0680c65a\"",
   "head": {
-    "ref": "0.25.3_h8f0e14"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mleap-feedstock/pull/24",
   "id": 4752451825,
   "labels": [],
-  "last_fetched": "2026-10-06T00:25:11.956299",
+  "last_fetched": "2026-10-06T00:30:12.861757",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T00:29:07Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-06T00:25:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T00:29:11Z"
 }

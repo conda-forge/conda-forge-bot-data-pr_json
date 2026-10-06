@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"661aa71edafcd93868e7912165ca8aba5527e459602a7e0fadfdf3dd46b510c1\"",
+  "Last-Modified": "Tue, 06 Oct 2026 13:17:20 GMT",
   "base": {
     "repo": {
       "name": "libmediainfo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T13:17:15Z",
   "created_at": "2026-10-06T12:53:32Z",
   "draft": false,
   "e_tag": "\"ec1b029526f0ab933ffd2877d887613a8eebd05c68527ed585597907c51229c2\"",
   "head": {
-    "ref": "26.10_h527cdb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libmediainfo-feedstock/pull/46",
   "id": 4758996976,
   "labels": [],
-  "last_fetched": "2026-10-06T12:53:33.323229",
+  "last_fetched": "2026-10-06T13:19:27.442064",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T13:17:15Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-10-06T12:53:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T13:17:20Z"
 }

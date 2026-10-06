@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"8d986b7f2a73dff71ca413f061764b8999ec3831af1e4de535c448f947684c43\"",
-  "Last-Modified": "Tue, 06 Oct 2026 05:41:11 GMT",
+  "ETag": "W/\"484abc3d2045f496c617cb058f4f10c05a06520ad5697d84985e5e775f46dc49\"",
+  "Last-Modified": "Tue, 06 Oct 2026 05:45:07 GMT",
   "base": {
     "repo": {
       "name": "yandexcloud-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T05:45:02Z",
   "created_at": "2026-10-06T00:53:12Z",
   "draft": false,
   "e_tag": "\"b7b30eda41e9271d5277dea379fc6f7f740aac3dfca94c19699e24cb6f42c962\"",
   "head": {
-    "ref": "0.410.0_h810b9b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yandexcloud-feedstock/pull/291",
   "id": 4752656458,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/yandexcloud-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-06T05:42:40.177446",
+  "last_fetched": "2026-10-06T05:46:26.334811",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T05:45:02Z",
   "number": 291,
-  "state": "open",
-  "updated_at": "2026-10-06T05:41:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T05:45:07Z"
 }

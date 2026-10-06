@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b7b8b95ce568fe186b0df7d4a7ddd0bcf9c5206d43183d899fa4613230d2f192\"",
+  "Last-Modified": "Tue, 06 Oct 2026 18:32:48 GMT",
   "base": {
     "repo": {
       "name": "langgraph-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T18:32:44Z",
   "created_at": "2026-10-06T18:30:47Z",
   "draft": false,
   "e_tag": "\"ee378be7005e673509e9776f70dc5686fb89cb181cfb4243fa05b867c84ae86e\"",
   "head": {
-    "ref": "1.2.14_hcd37bd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langgraph-feedstock/pull/184",
   "id": 4763031448,
   "labels": [],
-  "last_fetched": "2026-10-06T18:30:48.129508",
+  "last_fetched": "2026-10-06T18:34:23.566376",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T18:32:44Z",
   "number": 184,
-  "state": "open",
-  "updated_at": "2026-10-06T18:30:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T18:32:48Z"
 }

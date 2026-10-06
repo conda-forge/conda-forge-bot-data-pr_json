@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"13653fb502bab4f73d2f8f867effb2747e6c86a7be96c1988262337b46db038c\"",
-  "Last-Modified": "Tue, 06 Oct 2026 20:28:34 GMT",
+  "ETag": "W/\"ab730b6b1f56e7faff4ee44a9aa325cf9693df2728baa7e2d7bde4abccddb341\"",
+  "Last-Modified": "Tue, 06 Oct 2026 20:28:31 GMT",
   "base": {
     "repo": {
       "name": "caddy-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/caddy-feedstock/pull/24",
   "id": 4080086834,
-  "labels": [],
-  "last_fetched": "2026-10-06T20:29:40.463150",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-06T20:28:34.840741",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 24,
   "state": "closed",
-  "updated_at": "2026-10-06T20:28:34Z"
+  "updated_at": "2026-10-06T20:28:31Z"
 }

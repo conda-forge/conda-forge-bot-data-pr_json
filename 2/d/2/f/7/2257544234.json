@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"40b94ba16a9ecd1e5fb84e1b606a07924b5d33a6de862a0ccca020cdd0290fc1\"",
-  "Last-Modified": "Tue, 06 Oct 2026 13:25:26 GMT",
+  "ETag": "W/\"97748bf26d6e52af258be557b8187c3e84472e9b6238f048df96a677addadb66\"",
+  "Last-Modified": "Tue, 06 Oct 2026 14:55:43 GMT",
   "base": {
     "repo": {
       "name": "bpytop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T14:55:42Z",
   "created_at": "2025-01-02T08:46:49Z",
   "draft": false,
   "e_tag": "\"a9fcc74e81808c2ff124ab1188c0eb753286eb3dc0c947ec8ee5c41a49a3dcdc\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_h725292"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bpytop-feedstock/pull/8",
   "id": 2257544234,
   "labels": [],
-  "last_fetched": "2026-10-06T14:02:20.360739",
+  "last_fetched": "2026-10-06T14:59:08.499291",
   "last_modified": null,
-  "mergeable": false,
-  "mergeable_state": "dirty",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T14:55:42Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-06T13:28:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T14:55:43Z"
 }

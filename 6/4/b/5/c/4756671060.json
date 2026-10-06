@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"2a61738b0a4e4053385046b40fc671e4324d845fe1f9eac0c4d71405c0daba40\"",
+  "Last-Modified": "Tue, 06 Oct 2026 09:31:52 GMT",
   "base": {
     "repo": {
       "name": "sendme-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T09:31:52Z",
   "created_at": "2026-10-06T09:16:20Z",
   "draft": false,
   "e_tag": "\"6b3fde81cc4dc0efdcad019b21d818630deb6d8ab8866005763693e7c9257118\"",
   "head": {
-    "ref": "0.36.1_haf45a7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sendme-feedstock/pull/10",
   "id": 4756671060,
   "labels": [],
-  "last_fetched": "2026-10-06T09:16:21.637735",
+  "last_fetched": "2026-10-06T09:33:05.605590",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T09:31:52Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-06T09:16:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T09:31:56Z"
 }

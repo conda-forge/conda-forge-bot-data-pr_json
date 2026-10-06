@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"4068c653eeae70b2720491109f28982052b12d316a4949dea44053a5d7dfa274\"",
+  "Last-Modified": "Tue, 06 Oct 2026 00:17:57 GMT",
   "base": {
     "repo": {
       "name": "cachetools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T00:17:52Z",
   "created_at": "2026-10-06T00:14:03Z",
   "draft": false,
   "e_tag": "\"af38edd39d234079f0b3ef4f90e5bf6a54cde3b685e21bb8bd4f5f8100081b07\"",
   "head": {
-    "ref": "7.2.1_h201a5e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cachetools-feedstock/pull/65",
   "id": 4752365777,
   "labels": [],
-  "last_fetched": "2026-10-06T00:14:04.692417",
+  "last_fetched": "2026-10-06T00:19:26.474928",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T00:17:52Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-06T00:14:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T00:17:57Z"
 }

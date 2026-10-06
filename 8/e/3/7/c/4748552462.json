@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"7bc5d347557f1fb5842206594d32d2bd0f7e78ef9bcd9b41a0cfaba95600722b\"",
-  "Last-Modified": "Mon, 05 Oct 2026 17:26:17 GMT",
+  "ETag": "W/\"33633317c0e241ad9ec3908c816106eec38003c08eff36eba1875b337251c1f7\"",
+  "Last-Modified": "Tue, 06 Oct 2026 13:29:20 GMT",
   "base": {
     "repo": {
       "name": "ee-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T13:29:20Z",
   "created_at": "2026-10-05T17:24:35Z",
   "draft": false,
   "e_tag": "\"4d30d6f0aab7901fcd5eb8e27f091a6e068b0fa6f38022677d5fde28193e1e00\"",
   "head": {
-    "ref": "3.3.0_h25ca53"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ee-client-feedstock/pull/11",
   "id": 4748552462,
   "labels": [],
-  "last_fetched": "2026-10-05T21:28:40.119590",
+  "last_fetched": "2026-10-06T13:31:26.525171",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T13:29:20Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-05T17:26:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T13:29:20Z"
 }

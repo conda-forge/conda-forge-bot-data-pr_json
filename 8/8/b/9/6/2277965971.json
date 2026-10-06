@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b482caba3cc62efef61e8452da2f8504acaf286ed1f565ae4005d8a0d992367e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"80c957c88e84e69f1b803c008121d65ae0cc5323257c3c495baa8bd69d7d06cf\"",
+  "Last-Modified": "Tue, 06 Oct 2026 15:07:10 GMT",
   "base": {
     "repo": {
       "name": "phpserialize-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T15:07:09Z",
   "created_at": "2025-01-14T23:31:28Z",
   "draft": false,
   "e_tag": "\"d2c40ce4db0d4c42a09ae3172a3818511bb0dd2369f52886b86bba68c9aba370\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_hf021ec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phpserialize-feedstock/pull/1",
   "id": 2277965971,
   "labels": [],
-  "last_fetched": "2026-10-04T20:34:18.089084",
+  "last_fetched": "2026-10-06T23:25:19.551383",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T15:07:09Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2025-01-14T23:32:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T15:07:10Z"
 }

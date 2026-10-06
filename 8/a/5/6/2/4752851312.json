@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"e47e5e7988ad83be005e2d5eb7ee723ec4a8c0b0d0791cb901d71233704de954\"",
-  "Last-Modified": "Tue, 06 Oct 2026 01:21:36 GMT",
+  "ETag": "W/\"4ebc6b7b60a844c1b1c35f0aebe26ffa1ba0393e73cd4aaae27c737ced5882f1\"",
+  "Last-Modified": "Tue, 06 Oct 2026 05:41:27 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-cncf-kubernetes-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-cncf-kubernetes-feedstock/pull/103",
   "id": 4752851312,
-  "labels": [],
-  "last_fetched": "2026-10-06T02:15:13.639256",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746833847,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODMzODQ3",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-cncf-kubernetes-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-06T05:43:11.744374",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 103,
   "state": "open",
-  "updated_at": "2026-10-06T01:21:36Z"
+  "updated_at": "2026-10-06T05:41:27Z"
 }

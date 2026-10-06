@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"54abb40222c39d0fa2ddc3556f196fa2e7baa43fcdda6ec287715a6d413a549e\"",
-  "Last-Modified": "Tue, 06 Oct 2026 15:35:02 GMT",
+  "ETag": "W/\"e6534e1cf9d36060a64dcabb93c7c1b4e84b1137c43a748035e8126c1fb11de6\"",
+  "Last-Modified": "Tue, 06 Oct 2026 15:49:59 GMT",
   "base": {
     "repo": {
       "name": "traefik-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T15:48:44Z",
   "created_at": "2026-10-06T10:44:45Z",
   "draft": false,
   "e_tag": "\"af0a382062da396af01ce059380c2b86e0d4c1601eb15ff28197396ed91b6b60\"",
   "head": {
-    "ref": "3.7.14_ha85990"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/traefik-feedstock/pull/82",
   "id": 4757590005,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/traefik-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-06T15:47:53.078356",
+  "last_fetched": "2026-10-06T19:47:44.329399",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T15:48:44Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-10-06T15:35:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T15:49:59Z"
 }

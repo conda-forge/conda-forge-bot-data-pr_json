@@ -1,26 +1,26 @@
 {
-  "ETag": "W/\"4cdb5bc116ba9e47d0cb52f7f06da8ee89a9228446e89f61b727a933d1e10e1f\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"6312681cc06785661cb410ae0c449e3cb95cc8fd3eeaf96442834c71e62fbb9e\"",
+  "Last-Modified": "Tue, 06 Oct 2026 14:59:19 GMT",
   "base": {
     "repo": {
       "name": "wolframclient-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T14:59:19Z",
   "created_at": "2024-06-04T18:59:55Z",
   "draft": false,
   "head": {
-    "ref": "1.4.0_hb52a38"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wolframclient-feedstock/pull/4",
   "id": 1903581059,
   "labels": [],
-  "last_fetched": "2026-10-05T22:48:21.199696",
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "last_fetched": "2026-10-06T15:59:58.545290",
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T14:59:19Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2024-06-04T19:00:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T14:59:19Z"
 }

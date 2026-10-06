@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"02b9e7353ba01bef588dac7fba90c89346a1685c1737c8ba88f641ed2df10eb8\"",
+  "Last-Modified": "Tue, 06 Oct 2026 13:02:24 GMT",
   "base": {
     "repo": {
       "name": "scaleway-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T13:02:20Z",
   "created_at": "2026-10-06T12:50:21Z",
   "draft": false,
   "e_tag": "\"59eeb5007713f951822b91e242322bccc35ee0c08fea4ce265fa2e455c8825b7\"",
   "head": {
-    "ref": "2.64.0_hf9ec37"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scaleway-cli-feedstock/pull/34",
   "id": 4758959758,
   "labels": [],
-  "last_fetched": "2026-10-06T12:50:21.978430",
+  "last_fetched": "2026-10-06T13:04:12.481755",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T13:02:20Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-06T12:50:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T13:02:24Z"
 }

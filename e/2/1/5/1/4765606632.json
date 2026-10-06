@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"703ee1690a1b67d4670dba92d95e72d178f7d350ac29521a02b9a54fb8f1683f\"",
+  "Last-Modified": "Tue, 06 Oct 2026 23:05:29 GMT",
   "base": {
     "repo": {
       "name": "fireworks-ai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T23:05:25Z",
   "created_at": "2026-10-06T23:03:28Z",
   "draft": false,
   "e_tag": "\"fbf591d392c9bfeae01f3090f55bef27fffcdd7ac75b4fdf9d0b52013582eb93\"",
   "head": {
-    "ref": "1.2.20_h7b8096"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fireworks-ai-feedstock/pull/30",
   "id": 4765606632,
   "labels": [],
-  "last_fetched": "2026-10-06T23:03:28.836250",
+  "last_fetched": "2026-10-06T23:07:00.930347",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T23:05:25Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-06T23:03:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T23:05:29Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"10b2a3f31a6739a5ee63b00864c5699855888e6bcb306b6348164e5a111c74b0\"",
+  "Last-Modified": "Tue, 06 Oct 2026 02:25:35 GMT",
   "base": {
     "repo": {
       "name": "marslab-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T02:25:31Z",
   "created_at": "2026-10-06T02:20:53Z",
   "draft": false,
   "e_tag": "\"3844dbfcaf4db97c6d6fcc20a9e47e82847d9be6e31ea9b0079ae2b02cb14769\"",
   "head": {
-    "ref": "0.9.28_h183554"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/marslab-feedstock/pull/15",
   "id": 4753262985,
   "labels": [],
-  "last_fetched": "2026-10-06T02:20:54.474861",
+  "last_fetched": "2026-10-06T02:26:49.143277",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T02:25:31Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-06T02:20:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T02:25:35Z"
 }

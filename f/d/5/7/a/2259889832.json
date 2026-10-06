@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6cce9269d44b4b6746e8964a33440764a2f238b68e648675ebad9ba3d1136d71\"",
-  "Last-Modified": "Tue, 06 Oct 2026 13:31:38 GMT",
+  "ETag": "W/\"7d731bf8795e98de554576429ecff9ef02061c9267f941a764daca85f97a0628\"",
+  "Last-Modified": "Tue, 06 Oct 2026 14:56:02 GMT",
   "base": {
     "repo": {
       "name": "dautilpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T14:56:02Z",
   "created_at": "2025-01-03T23:23:48Z",
   "draft": false,
   "e_tag": "\"9abe6dc56a846266bd6ca10e1e0438338201f63e641e62512c5d72b455f726dc\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_hb425f3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dautilpy-feedstock/pull/2",
   "id": 2259889832,
   "labels": [],
-  "last_fetched": "2026-10-06T14:03:32.091725",
+  "last_fetched": "2026-10-06T15:00:39.902727",
   "last_modified": null,
-  "mergeable": false,
-  "mergeable_state": "dirty",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T14:56:02Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-06T13:31:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T14:56:02Z"
 }

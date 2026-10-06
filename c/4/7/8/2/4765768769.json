@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"26e46c2d5b4f87eddf5f9dd55b08465c8eaa213318c21737b780633afb53bfb3\"",
+  "Last-Modified": "Tue, 06 Oct 2026 23:29:26 GMT",
   "base": {
     "repo": {
       "name": "hgdl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T23:29:21Z",
   "created_at": "2026-10-06T23:27:04Z",
   "draft": false,
   "e_tag": "\"213abf2925a9eb03bf7e3b8e650ac389e0afd645be3c8d2fb70314f991f9da3b\"",
   "head": {
-    "ref": "2.4.2_h492b67"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hgdl-feedstock/pull/21",
   "id": 4765768769,
   "labels": [],
-  "last_fetched": "2026-10-06T23:27:05.714679",
+  "last_fetched": "2026-10-06T23:30:56.123544",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T23:29:21Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-06T23:27:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T23:29:26Z"
 }

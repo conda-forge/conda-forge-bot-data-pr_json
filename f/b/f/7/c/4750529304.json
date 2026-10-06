@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"5b78002f67946da70742d5bef9ff93a21dba13062936ceb3b891defcc677cccc\"",
-  "Last-Modified": "Mon, 05 Oct 2026 20:41:33 GMT",
+  "ETag": "W/\"73c93c30960e61e79ff3deeaa70aed0f567459ecafc0a49058df8b2671cba764\"",
+  "Last-Modified": "Tue, 06 Oct 2026 08:08:33 GMT",
   "base": {
     "repo": {
       "name": "biom-format-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T08:08:33Z",
   "created_at": "2026-10-05T20:41:32Z",
   "draft": false,
   "e_tag": "\"da5b88de361b4e54cd6ab16f4ae5f491dbfeb3a45f0fcc66d4b4babe0b4d29cd\"",
   "head": {
-    "ref": "2.1.18_hc3b029"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/biom-format-feedstock/pull/35",
   "id": 4750529304,
   "labels": [],
-  "last_fetched": "2026-10-05T21:51:33.081196",
+  "last_fetched": "2026-10-06T08:10:21.893453",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T08:08:33Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-05T20:41:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T08:08:33Z"
 }

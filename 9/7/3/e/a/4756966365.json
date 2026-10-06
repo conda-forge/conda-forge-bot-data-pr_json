@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9509b80f1306704e97e0acb19d60ea9a7629b435e4e91f0fb82f72a2a9769657\"",
+  "Last-Modified": "Tue, 06 Oct 2026 15:05:40 GMT",
   "base": {
     "repo": {
       "name": "types-pywin32-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T15:05:40Z",
   "created_at": "2026-10-06T09:44:39Z",
   "draft": false,
   "e_tag": "\"bab1d6dd92c5c7b4ef2fab4e83c80349667a57a2a1d86f6f5c5ffe8861ec18b9\"",
   "head": {
-    "ref": "312.0.0.20261006_ha3cb6c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-pywin32-feedstock/pull/60",
   "id": 4756966365,
   "labels": [],
-  "last_fetched": "2026-10-06T09:44:40.161797",
+  "last_fetched": "2026-10-06T15:07:00.867168",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T15:05:40Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-06T09:44:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T15:05:40Z"
 }

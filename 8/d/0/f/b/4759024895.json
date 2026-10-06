@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e1177fe23bbab6e970d67b8c8cd8c1fb84ff6d4f7a2d5471685cf4c04e15cae6\"",
+  "Last-Modified": "Tue, 06 Oct 2026 13:38:04 GMT",
   "base": {
     "repo": {
       "name": "cmakefmt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T13:38:01Z",
   "created_at": "2026-10-06T12:55:49Z",
   "draft": false,
   "e_tag": "\"7485270d8274eea9e8533c0924b368253dcd7a98a24db2ce1f0e88bdff1ae7ff\"",
   "head": {
-    "ref": "2.1.0_h1d9674"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cmakefmt-feedstock/pull/15",
   "id": 4759024895,
   "labels": [],
-  "last_fetched": "2026-10-06T12:55:50.472904",
+  "last_fetched": "2026-10-06T13:40:24.428255",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T13:38:01Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-06T12:55:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T13:38:04Z"
 }

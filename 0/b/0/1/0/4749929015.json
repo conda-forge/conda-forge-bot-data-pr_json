@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b18131cbb84ac347ba26eb226fc4b16a0b4b0208437ea2a52e71e85d256ef2ff\"",
-  "Last-Modified": "Tue, 06 Oct 2026 15:38:29 GMT",
+  "ETag": "W/\"37cf9d3be955e5d33b412c84c7825d9a484537e4cde7c9b22dd7a21b11db7055\"",
+  "Last-Modified": "Tue, 06 Oct 2026 19:37:04 GMT",
   "base": {
     "repo": {
       "name": "lazygit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T19:37:03Z",
   "created_at": "2026-10-05T19:36:09Z",
   "draft": false,
   "e_tag": "\"2b22b33fc4ffb073db8b315ea129c3c6c8afdfc55f0f6787151aa4e59fafe9a4\"",
   "head": {
-    "ref": "0.66.0_h3955c7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lazygit-feedstock/pull/148",
   "id": 4749929015,
   "labels": [],
-  "last_fetched": "2026-10-06T16:31:12.879015",
+  "last_fetched": "2026-10-06T19:38:13.892503",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T19:37:03Z",
   "number": 148,
-  "state": "open",
-  "updated_at": "2026-10-06T15:38:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T19:37:04Z"
 }

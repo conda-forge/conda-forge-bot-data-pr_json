@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"48e902291891973e10140e724415b01ce46368e91dc58bd85ab804084f50b6fe\"",
-  "Last-Modified": "Tue, 06 Oct 2026 14:18:32 GMT",
+  "ETag": "W/\"4025468261e0c18f55a098475073b19b3981b08c88f9b08d97489dd05a03fbfd\"",
+  "Last-Modified": "Tue, 06 Oct 2026 14:56:24 GMT",
   "base": {
     "repo": {
       "name": "pancritic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T14:56:24Z",
   "created_at": "2025-01-15T20:49:40Z",
   "draft": false,
   "e_tag": "\"d26dfa0bf992f1cea40a0d52df4e7b3c64c0d5c4af11f46fedf13255a912f239\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_h5264ff"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pancritic-feedstock/pull/1",
   "id": 2280112978,
   "labels": [],
-  "last_fetched": "2026-10-06T14:28:11.614828",
+  "last_fetched": "2026-10-06T15:00:41.988096",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T14:56:24Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-06T14:18:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T14:56:24Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"39e4b86f3ac11052f67a75d9d35011667466d62b18775a31063470e8785fb92d\"",
-  "Last-Modified": "Tue, 06 Oct 2026 18:25:31 GMT",
+  "ETag": "W/\"fb25b3e6855a53fdda63f0d700bdc9b9932872fdef8335e7b28250e3c60abfb5\"",
+  "Last-Modified": "Tue, 06 Oct 2026 19:37:01 GMT",
   "base": {
     "repo": {
       "name": "simple-track-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T19:37:01Z",
   "created_at": "2026-10-06T18:23:17Z",
   "draft": false,
   "e_tag": "\"4ef6ad0d902675cbe01da62d2e4edb53a97bcdda4c40a1ab65fdf31b42a45c85\"",
   "head": {
-    "ref": "2.4.0_h8161d3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/simple-track-feedstock/pull/13",
   "id": 4762949212,
   "labels": [],
-  "last_fetched": "2026-10-06T19:05:37.912142",
+  "last_fetched": "2026-10-06T19:38:37.765497",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T19:37:01Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-06T18:25:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T19:37:01Z"
 }

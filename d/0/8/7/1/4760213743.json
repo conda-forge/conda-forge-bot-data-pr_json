@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"8c6044a2cfae4dcf6b5dc9a7d23c5ba0185bb6113a24f8b1a7e242ff98201f7c\"",
-  "Last-Modified": "Tue, 06 Oct 2026 21:00:58 GMT",
+  "ETag": "W/\"fa7e6606d782eb627bcdbe24bd5764785484a00f12d3c3fd4da333828535655c\"",
+  "Last-Modified": "Tue, 06 Oct 2026 21:00:55 GMT",
   "base": {
     "repo": {
       "name": "nikola-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/nikola-feedstock/pull/16",
   "id": 4760213743,
-  "labels": [],
-  "last_fetched": "2026-10-06T21:02:46.512479",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-06T21:00:58.695257",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 16,
   "state": "closed",
-  "updated_at": "2026-10-06T21:00:58Z"
+  "updated_at": "2026-10-06T21:00:55Z"
 }

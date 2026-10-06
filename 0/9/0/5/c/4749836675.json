@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"1165a28f1abc748b321f8ff19851470e35cfc755d942c45e299cad4b72c4dd84\"",
-  "Last-Modified": "Mon, 05 Oct 2026 19:26:28 GMT",
+  "ETag": "W/\"a5261b4889d777f78ddd98131335b1531de2806450a9f576eb188d2f4793f5bf\"",
+  "Last-Modified": "Tue, 06 Oct 2026 15:32:38 GMT",
   "base": {
     "repo": {
       "name": "hyperfine-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T15:32:37Z",
   "created_at": "2026-10-05T19:26:27Z",
   "draft": false,
   "e_tag": "\"7f31f0230c7713fe46daf7276ab63c4181d0247dbedd435b581182ff5bb62ae7\"",
   "head": {
-    "ref": "1.21.0_ha2678f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hyperfine-feedstock/pull/26",
   "id": 4749836675,
   "labels": [],
-  "last_fetched": "2026-10-06T11:02:20.427689",
+  "last_fetched": "2026-10-06T15:34:43.045328",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T15:32:37Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-05T19:26:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T15:32:38Z"
 }

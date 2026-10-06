@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"501bd334dbb82bd7be833258d5989daf9cd1398f9e081c6bbcd9b51fd0d9b97b\"",
-  "Last-Modified": "Tue, 06 Oct 2026 05:51:11 GMT",
+  "ETag": "W/\"6fc0daeb95ba01c4bbbfa692ebe293e574411b0dd6d4060e0e92492b3ba9e36a\"",
+  "Last-Modified": "Tue, 06 Oct 2026 05:51:08 GMT",
   "base": {
     "repo": {
       "name": "pyscal3-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyscal3-feedstock/pull/40",
   "id": 4597677424,
-  "labels": [],
-  "last_fetched": "2026-10-06T05:52:51.501893",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-06T05:51:11.323434",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 40,
   "state": "closed",
-  "updated_at": "2026-10-06T05:51:11Z"
+  "updated_at": "2026-10-06T05:51:08Z"
 }

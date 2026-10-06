@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"b12c2b77c67cfbf3ae5c46c7f561087c17a5903e4c6caa8ba51bf3014b054836\"",
-  "Last-Modified": "Mon, 05 Oct 2026 20:53:55 GMT",
+  "ETag": "W/\"d6d7b118e718045d3926c0e39e197e8e7398627fa7d6b813d3bfe2b9b8a2ecde\"",
+  "Last-Modified": "Mon, 05 Oct 2026 21:01:05 GMT",
   "base": {
     "repo": {
       "name": "urwid-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-05T21:01:01Z",
   "created_at": "2026-10-05T20:50:07Z",
   "draft": false,
   "e_tag": "\"de649aad0e53f6897dd6cdd0871fc58642b9ccba07b66433decb1436999f5488\"",
   "head": {
-    "ref": "4.2.5_h373b6a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/urwid-feedstock/pull/91",
   "id": 4750611788,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/urwid-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-05T20:55:47.193323",
+  "last_fetched": "2026-10-06T03:03:04.350150",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-05T21:01:01Z",
   "number": 91,
-  "state": "open",
-  "updated_at": "2026-10-05T20:53:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-05T21:01:05Z"
 }

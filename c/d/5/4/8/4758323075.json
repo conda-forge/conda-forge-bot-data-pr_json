@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d150de082b2f13a276c33216240c071958ab01356a7dd3eae6f7715296319f75\"",
-  "Last-Modified": "Tue, 06 Oct 2026 11:57:00 GMT",
+  "ETag": "W/\"13512e8ef7e712a8c327ec8a3d2ae72e165d5fcfd27ae4f231620b8a50d5f050\"",
+  "Last-Modified": "Tue, 06 Oct 2026 12:02:21 GMT",
   "base": {
     "repo": {
       "name": "conftest-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T12:02:16Z",
   "created_at": "2026-10-06T11:55:15Z",
   "draft": false,
   "e_tag": "\"b7f3f605ef27ea40dd75e6fe82729a892289a7b9c094572757a49a114c45e5e6\"",
   "head": {
-    "ref": "0.71.1_h113fe6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/conftest-feedstock/pull/13",
   "id": 4758323075,
   "labels": [],
-  "last_fetched": "2026-10-06T12:00:15.750227",
+  "last_fetched": "2026-10-06T12:03:54.932628",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T12:02:16Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-06T11:57:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T12:02:21Z"
 }

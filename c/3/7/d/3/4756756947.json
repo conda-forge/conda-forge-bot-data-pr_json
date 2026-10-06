@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"be0739b7d3afb153a4c867badc9438a1520fd19feb63875927403ab29f4cfad1\"",
+  "Last-Modified": "Tue, 06 Oct 2026 09:26:49 GMT",
   "base": {
     "repo": {
       "name": "copyparty-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T09:26:45Z",
   "created_at": "2026-10-06T09:24:40Z",
   "draft": false,
   "e_tag": "\"3e22865c981f58aa6fbf59f47a44ada5bf8de3ff9327f7c25cc8458504092f38\"",
   "head": {
-    "ref": "1.20.25_h65c620"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/copyparty-feedstock/pull/52",
   "id": 4756756947,
   "labels": [],
-  "last_fetched": "2026-10-06T09:24:41.139898",
+  "last_fetched": "2026-10-06T09:28:19.128152",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T09:26:45Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-10-06T09:24:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T09:26:49Z"
 }

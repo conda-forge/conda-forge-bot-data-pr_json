@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f88730d7b72723e946735d2f8522c693179a1f93073ecf972ac5b629cc12d371\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"2ac799f1f4b12c9397552c3adc73f42cab474a53259e8a4b1dfd38f788787c9c\"",
+  "Last-Modified": "Tue, 06 Oct 2026 14:56:52 GMT",
   "base": {
     "repo": {
       "name": "pyment-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T14:56:51Z",
   "created_at": "2025-01-05T11:52:39Z",
   "draft": false,
   "e_tag": "\"5d57d475f1c5755396d4b9a0bff6b9c6be9e85a70c90a737bd10a171052a7d9e\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_hbac3ae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyment-feedstock/pull/2",
   "id": 2260715694,
   "labels": [],
-  "last_fetched": "2026-10-02T05:26:45.678456",
+  "last_fetched": "2026-10-06T20:01:15.075331",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T14:56:51Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2025-01-05T11:54:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T14:56:52Z"
 }

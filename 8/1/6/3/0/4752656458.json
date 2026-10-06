@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"8d986b7f2a73dff71ca413f061764b8999ec3831af1e4de535c448f947684c43\"",
+  "Last-Modified": "Tue, 06 Oct 2026 05:41:11 GMT",
   "base": {
     "repo": {
       "name": "yandexcloud-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/yandexcloud-feedstock/pull/291",
   "id": 4752656458,
-  "labels": [],
-  "last_fetched": "2026-10-06T00:53:13.689124",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2765511049,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzY1NTExMDQ5",
+      "url": "https://api.github.com/repos/conda-forge/yandexcloud-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-06T05:42:40.177446",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 291,
   "state": "open",
-  "updated_at": "2026-10-06T00:53:12Z"
+  "updated_at": "2026-10-06T05:41:11Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5f2b660aa503a89d413be986563b19f70e925f1d067f44bc80a980351f5e49b9\"",
+  "Last-Modified": "Tue, 06 Oct 2026 23:16:10 GMT",
   "base": {
     "repo": {
       "name": "mccode-antlr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T23:16:07Z",
   "created_at": "2026-10-06T23:08:50Z",
   "draft": false,
   "e_tag": "\"7f0bc7e637d5d7c3f399d34b5961b9c8fc17ed96eb353cdf828d1f93b5b3ce33\"",
   "head": {
-    "ref": "0.32.0_haea019"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mccode-antlr-feedstock/pull/53",
   "id": 4765644947,
   "labels": [],
-  "last_fetched": "2026-10-06T23:08:51.961911",
+  "last_fetched": "2026-10-06T23:17:34.078454",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T23:16:07Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-10-06T23:08:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T23:16:10Z"
 }

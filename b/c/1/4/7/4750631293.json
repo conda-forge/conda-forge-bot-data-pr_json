@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"5835dcc8ca5408acc8524ae9397392d5b9f5b539663399bfeb5c65a4a0517426\"",
-  "Last-Modified": "Mon, 05 Oct 2026 21:04:40 GMT",
+  "ETag": "W/\"069172ab52224cf5f69bd32a4470dea332c6a798007a43f6ad13ceb231ec263b\"",
+  "Last-Modified": "Tue, 06 Oct 2026 20:02:32 GMT",
   "base": {
     "repo": {
       "name": "aws-smus-cicd-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T20:02:32Z",
   "created_at": "2026-10-05T20:52:13Z",
   "draft": false,
   "e_tag": "\"b9b36125c14fb28168ec35670a85a4416f7ed4b98b8a2979f59fd29ec836ee8e\"",
   "head": {
-    "ref": "1.0.9_hb78fc6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-smus-cicd-cli-feedstock/pull/4",
   "id": 4750631293,
   "labels": [],
-  "last_fetched": "2026-10-05T22:59:21.781783",
+  "last_fetched": "2026-10-06T20:04:05.726529",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T20:02:31Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-05T21:04:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T20:02:32Z"
 }

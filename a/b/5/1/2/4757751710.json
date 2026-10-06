@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"3db9a206defb2fe5471afa2da42aa272f947d0c43d8f99f1428a8182fbd4f8c5\"",
+  "Last-Modified": "Tue, 06 Oct 2026 11:12:44 GMT",
   "base": {
     "repo": {
       "name": "mistral-vibe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T11:12:44Z",
   "created_at": "2026-10-06T11:00:39Z",
   "draft": false,
   "e_tag": "\"dcff03009719daf01b039fbeb61dfc2db18bf238554b8bfcd9b42e57212a4fd9\"",
   "head": {
-    "ref": "2.26.0_h4ec9eb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mistral-vibe-feedstock/pull/77",
   "id": 4757751710,
   "labels": [],
-  "last_fetched": "2026-10-06T11:00:40.138047",
+  "last_fetched": "2026-10-06T11:13:52.865575",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T11:12:44Z",
   "number": 77,
-  "state": "open",
-  "updated_at": "2026-10-06T11:00:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T11:12:44Z"
 }

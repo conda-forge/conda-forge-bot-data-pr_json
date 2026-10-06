@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"3291ab890c3e9b9ae6d766d11f8dc5731870a6341b8b12d577b69560c6e69b7e\"",
+  "Last-Modified": "Tue, 06 Oct 2026 14:33:26 GMT",
   "base": {
     "repo": {
       "name": "openspec-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T14:33:22Z",
   "created_at": "2026-10-06T14:23:55Z",
   "draft": false,
   "e_tag": "\"a2c44c8dc1c816287db0a6d99630bd61043e3af55c45ab057aa5821ee6da847e\"",
   "head": {
-    "ref": "1.14.1_h76386a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openspec-feedstock/pull/21",
   "id": 4760133779,
   "labels": [],
-  "last_fetched": "2026-10-06T14:23:56.012744",
+  "last_fetched": "2026-10-06T14:34:42.041734",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T14:33:22Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-06T14:23:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T14:33:26Z"
 }

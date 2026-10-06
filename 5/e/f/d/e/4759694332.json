@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"201405bf85910e98c0fa670779a8a4531e90b1b08937e1a0e97507250ff56b2f\"",
+  "Last-Modified": "Tue, 06 Oct 2026 13:53:08 GMT",
   "base": {
     "repo": {
       "name": "napi-rs-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T13:53:03Z",
   "created_at": "2026-10-06T13:50:26Z",
   "draft": false,
   "e_tag": "\"12c7a4bf22f0e39f414814dd96fb5a59137bff6cf38f825d15d0a910652529f4\"",
   "head": {
-    "ref": "3.10.8_h0e3608"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/napi-rs-cli-feedstock/pull/33",
   "id": 4759694332,
   "labels": [],
-  "last_fetched": "2026-10-06T13:50:27.208987",
+  "last_fetched": "2026-10-06T13:54:31.852621",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T13:53:03Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-06T13:50:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T13:53:08Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"343bc6d9413e91f239a5cb734ca9e7c0b490a8ab3f8831c5313569b8104b346d\"",
-  "Last-Modified": "Tue, 06 Oct 2026 10:49:23 GMT",
+  "ETag": "W/\"58338cb0b1601e50c707033da19b3661005d5e18f34b48335f607b17508414e0\"",
+  "Last-Modified": "Tue, 06 Oct 2026 14:19:07 GMT",
   "base": {
     "repo": {
       "name": "monetio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T14:19:07Z",
   "created_at": "2026-10-06T10:47:46Z",
   "draft": false,
   "e_tag": "\"73ef0483f9e280d6160ac8b94d12a12877f10cb405d2fec6cf499d41dddbdbf9\"",
   "head": {
-    "ref": "0.4.0_h482887"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/monetio-feedstock/pull/17",
   "id": 4757620385,
   "labels": [],
-  "last_fetched": "2026-10-06T12:38:00.015893",
+  "last_fetched": "2026-10-06T14:26:21.676862",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T14:19:07Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-06T10:49:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T14:19:07Z"
 }

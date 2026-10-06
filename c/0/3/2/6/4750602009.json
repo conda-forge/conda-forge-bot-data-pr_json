@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"03ed5cb36f958242ed60a41c7e69097749aa3a223645ecd08fcaf7a0b75c8f02\"",
-  "Last-Modified": "Mon, 05 Oct 2026 20:49:04 GMT",
+  "ETag": "W/\"1f27922525d01ca9a4a84afca4db7eeac16c49e281b0b220c4370decc76b7026\"",
+  "Last-Modified": "Tue, 06 Oct 2026 12:07:47 GMT",
   "base": {
     "repo": {
       "name": "skypilot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T12:07:47Z",
   "created_at": "2026-10-05T20:49:03Z",
   "draft": false,
   "e_tag": "\"4354f9eacd78e646558bc705ca3d099eab39620c52b0adb8c486b15cc8778b18\"",
   "head": {
-    "ref": "0.14.0_hf5ae3b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/skypilot-feedstock/pull/18",
   "id": 4750602009,
   "labels": [],
-  "last_fetched": "2026-10-05T21:50:50.042142",
+  "last_fetched": "2026-10-06T12:09:28.622087",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-06T12:07:47Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-05T20:49:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T12:07:47Z"
 }

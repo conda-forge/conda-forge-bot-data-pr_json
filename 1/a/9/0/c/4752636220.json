@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f6b509397a0dbae94079a9373f6cc7a242f4e06f31bda93b848c4eb1958d4092\"",
+  "Last-Modified": "Tue, 06 Oct 2026 03:58:00 GMT",
   "base": {
     "repo": {
       "name": "sedonadb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T03:57:58Z",
   "created_at": "2026-10-06T00:50:19Z",
   "draft": false,
   "e_tag": "\"2431a379def56d7b7d573e13b8ad236e1fe9b9f994bc47ce6ee62f37e1c940f6\"",
   "head": {
-    "ref": "0.5.0_hb379a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sedonadb-feedstock/pull/17",
   "id": 4752636220,
   "labels": [],
-  "last_fetched": "2026-10-06T00:50:20.504977",
+  "last_fetched": "2026-10-06T03:59:38.929090",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T03:57:58Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-06T00:50:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T03:58:00Z"
 }

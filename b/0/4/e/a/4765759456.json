@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"7d6fab82d748b80870011c458e2f3c968bebdb38b39d9338f405cecad934b8c5\"",
+  "Last-Modified": "Tue, 06 Oct 2026 23:37:02 GMT",
   "base": {
     "repo": {
       "name": "typos-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-06T23:36:59Z",
   "created_at": "2026-10-06T23:25:40Z",
   "draft": false,
   "e_tag": "\"0e4c1fc5b94e22be04e168733afb9a09de8481f32b94f0462defa49745c4e9f7\"",
   "head": {
-    "ref": "1.51.1_h23c005"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/typos-cli-feedstock/pull/89",
   "id": 4765759456,
   "labels": [],
-  "last_fetched": "2026-10-06T23:25:41.167208",
+  "last_fetched": "2026-10-06T23:38:34.867075",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-06T23:36:59Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-10-06T23:25:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-06T23:37:02Z"
 }

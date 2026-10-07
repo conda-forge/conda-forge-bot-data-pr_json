@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"ca15949e86a35bce276f92bea4d18182dbd32c18438a2cfcfd9cd2b2a4065113\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"fc7d0fb953e1c9ede2ece05ca5a7e3bb1bc3f321c4faeee0388c684e42fcdfff\"",
+  "Last-Modified": "Wed, 07 Oct 2026 13:49:31 GMT",
   "base": {
     "repo": {
       "name": "pytest-testmon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T13:49:31Z",
   "created_at": "2020-06-10T18:34:32Z",
   "draft": false,
   "head": {
@@ -14,13 +14,25 @@
   },
   "html_url": "https://github.com/conda-forge/pytest-testmon-feedstock/pull/14",
   "id": 432630038,
-  "labels": [],
-  "last_fetched": "2026-10-02T19:35:41.216542",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891113406,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMTEzNDA2",
+      "url": "https://api.github.com/repos/conda-forge/pytest-testmon-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-07T13:49:34.044400",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 14,
-  "state": "open",
-  "updated_at": "2022-03-13T23:27:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T13:49:31Z"
 }

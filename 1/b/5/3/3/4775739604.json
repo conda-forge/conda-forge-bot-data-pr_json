@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6f304af393e9818099bccbdddb0be0215f6ab02af6baccdaae8fe0c36ed078e2\"",
+  "Last-Modified": "Wed, 07 Oct 2026 17:32:50 GMT",
   "base": {
     "repo": {
       "name": "rattler-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T17:32:46Z",
   "created_at": "2026-10-07T16:49:59Z",
   "draft": false,
   "e_tag": "\"95ea8a4f58a54f321edc976d3a331d57b974ef76f9aef014675fc2fcca1bf938\"",
   "head": {
-    "ref": "0.5.5_h12f850"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rattler-feedstock/pull/48",
   "id": 4775739604,
   "labels": [],
-  "last_fetched": "2026-10-07T16:50:00.156610",
+  "last_fetched": "2026-10-07T17:33:57.586196",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T17:32:46Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-07T16:49:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T17:32:50Z"
 }

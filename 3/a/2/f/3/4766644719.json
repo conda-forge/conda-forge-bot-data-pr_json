@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"155af7ecc1647a596df3ef46859fff8c857dd56d97a0bafa7b27c195c0c4b90b\"",
-  "Last-Modified": "Wed, 07 Oct 2026 01:24:14 GMT",
+  "ETag": "W/\"815218fc79086f95831e6cc6ec20a6c855fba90dddc28917db9af31651359571\"",
+  "Last-Modified": "Wed, 07 Oct 2026 06:56:57 GMT",
   "base": {
     "repo": {
       "name": "essdiffraction-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T06:56:57Z",
   "created_at": "2026-10-07T01:22:04Z",
   "draft": false,
   "e_tag": "\"0686168f7c54655f6c88dc4e539a1b0f1ea324d73b4361ba6ba2a13f8128c0a7\"",
   "head": {
-    "ref": "26.10.0_he682a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/essdiffraction-feedstock/pull/23",
   "id": 4766644719,
   "labels": [],
-  "last_fetched": "2026-10-07T01:46:22.269263",
+  "last_fetched": "2026-10-07T06:58:12.091789",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T06:56:57Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-07T01:24:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T06:56:57Z"
 }

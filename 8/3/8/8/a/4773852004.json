@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9526b67ec22c833726dd8d28ad41c70aa7821b0ed32bb61f6ae4314d605356cc\"",
+  "Last-Modified": "Wed, 07 Oct 2026 14:37:27 GMT",
   "base": {
     "repo": {
       "name": "vault-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T14:37:22Z",
   "created_at": "2026-10-07T14:08:04Z",
   "draft": false,
   "e_tag": "\"8626c784f3ef0daf8461160ae76af7708cd91817bcaabceb2577815bc3bce9a8\"",
   "head": {
-    "ref": "2.1.2_hc6c9a8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vault-feedstock/pull/69",
   "id": 4773852004,
   "labels": [],
-  "last_fetched": "2026-10-07T14:08:05.609474",
+  "last_fetched": "2026-10-07T14:39:10.871073",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T14:37:22Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-10-07T14:08:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T14:37:27Z"
 }

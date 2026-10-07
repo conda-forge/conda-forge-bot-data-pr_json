@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c5836af0d714a6d74044faf579ba4a8900f0cb67ae9e8036251a257a4afbb183\"",
+  "Last-Modified": "Wed, 07 Oct 2026 13:04:52 GMT",
   "base": {
     "repo": {
       "name": "awslambdaric-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T13:04:48Z",
   "created_at": "2026-10-07T13:00:24Z",
   "draft": false,
   "e_tag": "\"4ec1acaddb47a0fb1e8b6fa414bf1519e97facda41297a37aa531af3dce8fdfd\"",
   "head": {
-    "ref": "4.2.0_hfaa849"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/awslambdaric-feedstock/pull/32",
   "id": 4772999917,
   "labels": [],
-  "last_fetched": "2026-10-07T13:00:25.174687",
+  "last_fetched": "2026-10-07T13:06:04.374510",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T13:04:48Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-10-07T13:00:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T13:04:52Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"8ecb9d5549928eb1b9774703c740116ea40fdbe6081f558a1b644f25cb5410cf\"",
-  "Last-Modified": "Wed, 07 Oct 2026 01:38:37 GMT",
+  "ETag": "W/\"8f9681d7d2f2aed8d60e5f4961839c831e91890e80b2f02dfc80c62e78d13499\"",
+  "Last-Modified": "Wed, 07 Oct 2026 03:21:14 GMT",
   "base": {
     "repo": {
       "name": "airflow-ha-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/airflow-ha-feedstock/pull/31",
   "id": 4766097086,
-  "labels": [],
-  "last_fetched": "2026-10-07T01:46:42.130469",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7382541886,
+      "name": "automerge",
+      "node_id": "LA_kwDOMpCOHs8AAAABuAimPg",
+      "url": "https://api.github.com/repos/conda-forge/airflow-ha-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-07T03:21:35.069004",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 31,
   "state": "open",
-  "updated_at": "2026-10-07T01:38:37Z"
+  "updated_at": "2026-10-07T03:21:14Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"fec284b59ff1decd9e6b29d49e75321d91592eace68b6f1a2100c0634d7a4a95\"",
+  "Last-Modified": "Wed, 07 Oct 2026 16:08:40 GMT",
   "base": {
     "repo": {
       "name": "bytecode-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T16:08:40Z",
   "created_at": "2026-10-07T15:51:35Z",
   "draft": false,
   "e_tag": "\"ba264f6dd8f9485710f8e2a06141f81749c30af7dbce71c733d9f0eb4b169a64\"",
   "head": {
-    "ref": "0.19.1_h172a68"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bytecode-feedstock/pull/18",
   "id": 4775072240,
   "labels": [],
-  "last_fetched": "2026-10-07T15:51:36.973243",
+  "last_fetched": "2026-10-07T16:09:49.362000",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T16:08:40Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-07T15:51:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T16:08:40Z"
 }

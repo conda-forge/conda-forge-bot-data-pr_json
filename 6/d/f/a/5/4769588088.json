@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4f857f8edb929e461a8ca1f393c4cfc584d324e7eca3fbbb6276f1d4a4478133\"",
-  "Last-Modified": "Wed, 07 Oct 2026 17:23:45 GMT",
+  "ETag": "W/\"40953e66c667c1228a65ff4cf8a3b903dd84e9f613b37bae5ea8947861897b44\"",
+  "Last-Modified": "Wed, 07 Oct 2026 20:52:42 GMT",
   "base": {
     "repo": {
       "name": "isce3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T20:52:42Z",
   "created_at": "2026-10-07T07:46:01Z",
   "draft": false,
   "e_tag": "\"9d036d346f7c6955ca0b78e30fe2164807fc85a89502d166cef3aa93cb71d8d9\"",
   "head": {
-    "ref": "0.25.21_hdb7835"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/isce3-feedstock/pull/128",
   "id": 4769588088,
   "labels": [],
-  "last_fetched": "2026-10-07T17:40:15.732515",
+  "last_fetched": "2026-10-07T20:54:01.334582",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T20:52:42Z",
   "number": 128,
-  "state": "open",
-  "updated_at": "2026-10-07T17:23:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T20:52:42Z"
 }

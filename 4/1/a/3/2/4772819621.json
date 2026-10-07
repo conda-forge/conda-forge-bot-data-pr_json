@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6fe3bf7a7ce3883ae3159d6de240a08b124195909138af7747a8e87060368802\"",
+  "Last-Modified": "Wed, 07 Oct 2026 13:17:20 GMT",
   "base": {
     "repo": {
       "name": "bitstruct-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T13:17:20Z",
   "created_at": "2026-10-07T12:45:00Z",
   "draft": false,
   "e_tag": "\"84febfe6b12e53ff4b6530b5eb4b44a3ccb9ac2d490e424de8fd64b68e54d54f\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_h4665ab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bitstruct-feedstock/pull/68",
   "id": 4772819621,
   "labels": [],
-  "last_fetched": "2026-10-07T12:45:01.207036",
+  "last_fetched": "2026-10-07T13:18:43.497819",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T13:17:20Z",
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-10-07T12:45:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T13:17:20Z"
 }

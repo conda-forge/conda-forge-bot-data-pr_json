@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"2c2149b51d86f61a88132d73922b6c44eec7e6f573e58af35cea7543fa4384f7\"",
-  "Last-Modified": "Wed, 07 Oct 2026 08:28:04 GMT",
+  "ETag": "W/\"3a5fe210be85627a6a23af7a42b29cbd6cfdb99d23ccebdd6a78bc28f5a912ca\"",
+  "Last-Modified": "Wed, 07 Oct 2026 18:16:28 GMT",
   "base": {
     "repo": {
       "name": "esp-pylib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T18:16:28Z",
   "created_at": "2026-10-07T08:26:31Z",
   "draft": false,
   "e_tag": "\"fce9bfd31ec593e9b4639e8a029bc143ea69ff6172ddb010ce599759a4ab0b5d\"",
   "head": {
-    "ref": "1.2.0_h85ca09"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/esp-pylib-feedstock/pull/2",
   "id": 4769995092,
   "labels": [],
-  "last_fetched": "2026-10-07T10:04:00.523528",
+  "last_fetched": "2026-10-07T18:18:04.418264",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T18:16:28Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-07T08:28:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T18:16:28Z"
 }

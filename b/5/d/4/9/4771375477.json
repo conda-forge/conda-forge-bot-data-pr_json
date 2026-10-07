@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"44517527f6b572809a9f11b32617b2f6a2d2db46979c0be4f65e68e6c745e74d\"",
+  "Last-Modified": "Wed, 07 Oct 2026 10:43:15 GMT",
   "base": {
     "repo": {
       "name": "crmvec-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T10:43:15Z",
   "created_at": "2026-10-07T10:34:16Z",
   "draft": false,
   "e_tag": "\"8c1f1404172a4e019a9045f776cbefdd1963d3edb26b13f31fc52e4e86343cb0\"",
   "head": {
-    "ref": "0.12.0_hffa3f0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/crmvec-feedstock/pull/5",
   "id": 4771375477,
   "labels": [],
-  "last_fetched": "2026-10-07T10:34:17.337022",
+  "last_fetched": "2026-10-07T10:44:28.000496",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T10:43:15Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-07T10:34:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T10:43:15Z"
 }

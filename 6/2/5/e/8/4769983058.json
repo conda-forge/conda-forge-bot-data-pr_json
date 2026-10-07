@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"32f7f86137c33907d377e6889328695a904be41895b1312e0be3e02a2b9edb3d\"",
+  "Last-Modified": "Wed, 07 Oct 2026 08:27:42 GMT",
   "base": {
     "repo": {
       "name": "schematics-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T08:27:37Z",
   "created_at": "2026-10-07T08:25:24Z",
   "draft": false,
   "e_tag": "\"7384056be7fff74e31891d456817a94a28f108f958065e33c72abee16bf53efd\"",
   "head": {
-    "ref": "22.2.2_hf7ccc1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/schematics-cli-feedstock/pull/101",
   "id": 4769983058,
   "labels": [],
-  "last_fetched": "2026-10-07T08:25:25.156861",
+  "last_fetched": "2026-10-07T08:28:46.964693",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T08:27:37Z",
   "number": 101,
-  "state": "open",
-  "updated_at": "2026-10-07T08:25:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T08:27:42Z"
 }

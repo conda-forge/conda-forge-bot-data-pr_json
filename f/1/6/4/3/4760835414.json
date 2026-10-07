@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"9ca1964335af561d3a9b6fb8c5f520541512e550ec7daab64457c6d4d507dd02\"",
-  "Last-Modified": "Wed, 07 Oct 2026 09:46:39 GMT",
+  "ETag": "W/\"27727244ce792adae721acf10e87c47d7483904d998b726d714110559043390c\"",
+  "Last-Modified": "Wed, 07 Oct 2026 10:08:15 GMT",
   "base": {
     "repo": {
       "name": "openmp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T10:08:12Z",
   "created_at": "2026-10-06T15:17:47Z",
   "draft": false,
   "e_tag": "\"51806fdfe71cf553bc815777a5d4a15cc37437f5f7518e7466b582d4a8ec92cc\"",
   "head": {
-    "ref": "23.1.3_h193bd3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openmp-feedstock/pull/235",
   "id": 4760835414,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/openmp-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-07T09:47:53.380125",
+  "last_fetched": "2026-10-07T10:09:57.034492",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T10:08:12Z",
   "number": 235,
-  "state": "open",
-  "updated_at": "2026-10-07T09:46:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T10:08:15Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"dc07bca74b88640055a198e0bfa456e5da57de0754cc5a2965c1f5062ba23cd1\"",
-  "Last-Modified": "Wed, 07 Oct 2026 09:27:23 GMT",
+  "ETag": "W/\"27dbda5074d6b31261a8e4b0399bd5370701d2781334cd999320284732fed5ed\"",
+  "Last-Modified": "Wed, 07 Oct 2026 23:09:56 GMT",
   "base": {
     "repo": {
       "name": "databricks-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T23:09:56Z",
   "created_at": "2026-10-07T09:25:48Z",
   "draft": false,
   "e_tag": "\"2723804ff631f1dcb50c32edfb970e87a179fc016f61b78931076a2976d257a0\"",
   "head": {
-    "ref": "0.148.0_hdae545"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/databricks-sdk-feedstock/pull/164",
   "id": 4770637803,
   "labels": [],
-  "last_fetched": "2026-10-07T13:53:42.932630",
+  "last_fetched": "2026-10-07T23:11:03.690135",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T23:09:55Z",
   "number": 164,
-  "state": "open",
-  "updated_at": "2026-10-07T09:27:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T23:09:56Z"
 }

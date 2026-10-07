@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"3b9481b285e7fd500dd2a31688a8acfb6d5a5254bc5e27dbefe37fb18fb0e727\"",
-  "Last-Modified": "Wed, 07 Oct 2026 20:20:55 GMT",
+  "ETag": "W/\"e1351ad9f23968e6520acc2fd1730938de2fd22b9708e70ec3056a0e40c99db0\"",
+  "Last-Modified": "Wed, 07 Oct 2026 20:34:36 GMT",
   "base": {
     "repo": {
       "name": "apache-beam-feedstock"
@@ -15,26 +15,14 @@
   },
   "html_url": "https://github.com/conda-forge/apache-beam-feedstock/pull/106",
   "id": 4776615908,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 1890793288,
-      "name": "automerge",
-      "node_id": "MDU6TGFiZWwxODkwNzkzMjg4",
-      "url": "https://api.github.com/repos/conda-forge/apache-beam-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-10-07T20:22:04.602105",
+  "labels": [],
+  "last_fetched": "2026-10-07T21:28:30.759375",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 106,
   "state": "open",
-  "updated_at": "2026-10-07T20:20:55Z"
+  "updated_at": "2026-10-07T20:34:36Z"
 }

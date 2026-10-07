@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"fe0a09545c5f3a6461481d4e2ecd89151e7cfdb9d350e897411645ea874739c4\"",
-  "Last-Modified": "Wed, 07 Oct 2026 05:19:03 GMT",
+  "ETag": "W/\"1c8385da91191bf8305f7323d9f34f35ea27d6fd3d90b220619f781fc85b72cd\"",
+  "Last-Modified": "Wed, 07 Oct 2026 12:51:30 GMT",
   "base": {
     "repo": {
       "name": "vnu-validator-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T12:51:29Z",
   "created_at": "2026-10-07T05:17:16Z",
   "draft": false,
   "e_tag": "\"af1cabd2a5b1ff92e407ea39601062ed4d778c517386916490a6df6e467b6a4a\"",
   "head": {
-    "ref": "26.10.6_hd35297"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vnu-validator-feedstock/pull/40",
   "id": 4768288346,
   "labels": [],
-  "last_fetched": "2026-10-07T06:01:24.445949",
+  "last_fetched": "2026-10-07T12:53:07.670808",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T12:51:29Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-10-07T05:19:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T12:51:30Z"
 }

@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"5206cece43f643fa1ae5e7f4999c61028a81013770c4ecb3196f1328880af187\"",
-  "Last-Modified": "Fri, 24 Jul 2026 08:47:17 GMT",
+  "ETag": "W/\"990ae3c9d93c72a753994572801170fcd35b61d95156a749aeb809dd3be2556e\"",
+  "Last-Modified": "Wed, 07 Oct 2026 10:20:26 GMT",
   "base": {
     "repo": {
       "name": "bitstruct-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T10:20:26Z",
   "created_at": "2026-07-24T08:45:33Z",
   "draft": false,
   "e_tag": "\"9cc35e38697f75ccc45ceaecbcd3f08e01a54eb84f2f6a233235a42aba26472d\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/bitstruct-feedstock/pull/58",
   "id": 4123289879,
-  "labels": [],
-  "last_fetched": "2026-10-05T01:08:54.091379",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890800356,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwODAwMzU2",
+      "url": "https://api.github.com/repos/conda-forge/bitstruct-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-07T10:20:28.852816",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-07-24T08:47:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T10:20:26Z"
 }

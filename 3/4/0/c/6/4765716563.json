@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"93a28ac8b5b3a518750ebf9df031ed1ab905d8eaf5c71fe6c564e86d4815ec75\"",
+  "Last-Modified": "Wed, 07 Oct 2026 08:11:42 GMT",
   "base": {
     "repo": {
       "name": "openlayer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T08:11:41Z",
   "created_at": "2026-10-06T23:19:18Z",
   "draft": false,
   "e_tag": "\"5a689c9c5e284969ace48b501f4b7b3f801454b7d523619a69752eb5ed55e984\"",
   "head": {
-    "ref": "0.36.0_h662b48"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openlayer-feedstock/pull/7",
   "id": 4765716563,
   "labels": [],
-  "last_fetched": "2026-10-06T23:19:19.782347",
+  "last_fetched": "2026-10-07T08:13:19.812496",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T08:11:41Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-06T23:19:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T08:11:42Z"
 }

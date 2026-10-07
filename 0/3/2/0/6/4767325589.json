@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"2e44c1fca44798afa592bf2bf4b26591a38326e9ed735408a1ca771aa441dae8\"",
-  "Last-Modified": "Wed, 07 Oct 2026 14:26:59 GMT",
+  "ETag": "W/\"ea71d3751b925b400149232da87c70ce6275ca3d22f5044decbb8ad2e894350e\"",
+  "Last-Modified": "Wed, 07 Oct 2026 16:01:20 GMT",
   "base": {
     "repo": {
       "name": "rollup-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T16:01:19Z",
   "created_at": "2026-10-07T02:56:47Z",
   "draft": false,
   "e_tag": "\"32a28114bac859b568513f62ad3636f86dc212e58ecd49b69d72ce2153eb1022\"",
   "head": {
-    "ref": "5.0.0-0_h483f32"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rollup-feedstock/pull/144",
   "id": 4767325589,
   "labels": [],
-  "last_fetched": "2026-10-07T14:28:28.274355",
+  "last_fetched": "2026-10-07T16:02:31.835921",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T16:01:19Z",
   "number": 144,
-  "state": "open",
-  "updated_at": "2026-10-07T14:26:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T16:01:20Z"
 }

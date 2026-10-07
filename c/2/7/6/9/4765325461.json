@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"01d535318871c07864504af76cf47c8d18bdee32805fc6499b3aa40a0b633c99\"",
-  "Last-Modified": "Tue, 06 Oct 2026 22:26:45 GMT",
+  "ETag": "W/\"df16bc0db75548976a4490c53b1a12420aa0d559919621d8dc16021f631188ae\"",
+  "Last-Modified": "Wed, 07 Oct 2026 13:02:39 GMT",
   "base": {
     "repo": {
       "name": "pywps-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T13:02:39Z",
   "created_at": "2026-10-06T22:25:12Z",
   "draft": false,
   "e_tag": "\"cde31842b21576f0abfa15eee1cb33d373c088f650b8fbe421bdd11058750ad0\"",
   "head": {
-    "ref": "4.8.1_hbec056"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pywps-feedstock/pull/34",
   "id": 4765325461,
   "labels": [],
-  "last_fetched": "2026-10-06T23:28:33.035412",
+  "last_fetched": "2026-10-07T13:04:21.331332",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T13:02:39Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-06T22:26:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T13:02:39Z"
 }

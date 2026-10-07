@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"a2c5fcd9aa90124410b91be6663f3205935a0f5c206858e33b4b7947bdbb7bf9\"",
+  "Last-Modified": "Wed, 07 Oct 2026 10:19:54 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-jinja2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T10:19:50Z",
   "created_at": "2026-10-07T10:16:33Z",
   "draft": false,
   "e_tag": "\"6122b95519484bb9dce15fb1690234bf7bd9c95419901ce101608e63a8a78d09\"",
   "head": {
-    "ref": "0.66b1_hd9bf3e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-jinja2-feedstock/pull/58",
   "id": 4771188841,
   "labels": [],
-  "last_fetched": "2026-10-07T10:16:34.113859",
+  "last_fetched": "2026-10-07T10:21:01.811349",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T10:19:50Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-07T10:16:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T10:19:54Z"
 }

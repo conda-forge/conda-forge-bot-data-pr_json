@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"7e8a52369b13c05de9bdd1f437cf4a7b32016624b6ca6c7e9708061a00a05932\"",
-  "Last-Modified": "Tue, 06 Oct 2026 18:36:55 GMT",
+  "ETag": "W/\"f813719472bc0c824689d0f9f9a83cd751ed589e9eb2e08f512788378e5592df\"",
+  "Last-Modified": "Wed, 07 Oct 2026 09:46:12 GMT",
   "base": {
     "repo": {
       "name": "compiler-rt-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/compiler-rt-feedstock/pull/199",
   "id": 4763080036,
-  "labels": [],
-  "last_fetched": "2026-10-06T19:47:47.713181",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890810298,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODEwMjk4",
+      "url": "https://api.github.com/repos/conda-forge/compiler-rt-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-07T09:48:09.205846",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 199,
   "state": "open",
-  "updated_at": "2026-10-06T18:36:55Z"
+  "updated_at": "2026-10-07T09:46:12Z"
 }

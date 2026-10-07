@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a06e1e8bedd99dfd2da279836b61d9127dfd55290223c007cf0b202dc1ae0bae\"",
-  "Last-Modified": "Tue, 06 Oct 2026 17:01:03 GMT",
+  "ETag": "W/\"8f554192d359db18b39d1db2a2327135d9a7be6fb05e77245782f9b2c5f4a690\"",
+  "Last-Modified": "Wed, 07 Oct 2026 03:15:19 GMT",
   "base": {
     "repo": {
       "name": "openexr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T03:15:19Z",
   "created_at": "2026-10-03T15:55:39Z",
-  "draft": true,
+  "draft": false,
   "e_tag": "\"cef564ffd779cb857f5b61c9166635db19f6ab36660551095a143593e27cf896\"",
   "head": {
-    "ref": "rebuild-openjph032-0-1_h885413"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openexr-feedstock/pull/94",
   "id": 4727809100,
   "labels": [],
-  "last_fetched": "2026-10-07T01:05:54.930019",
+  "last_fetched": "2026-10-07T03:16:30.027421",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T03:15:19Z",
   "number": 94,
-  "state": "open",
-  "updated_at": "2026-10-06T17:01:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T03:15:19Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"fe8086d32efb1cf3261b00959544e14f2484b2a3b29d536d99d643e3bafce7ff\"",
-  "Last-Modified": "Wed, 07 Oct 2026 14:52:04 GMT",
+  "ETag": "W/\"f8132f39ce9326d4a9a69f299409d31fbdd15b725c7c2b4cef4efdafbe548cb5\"",
+  "Last-Modified": "Wed, 07 Oct 2026 21:09:30 GMT",
   "base": {
     "repo": {
       "name": "caldav-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T21:09:30Z",
   "created_at": "2026-10-07T14:50:29Z",
   "draft": false,
   "e_tag": "\"38323be6d604b9823ba6773031e3490d3bd7155c5c6b05571a0ff9d87ee73639\"",
   "head": {
-    "ref": "3.4.0_hb43a5b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/caldav-feedstock/pull/19",
   "id": 4774389662,
   "labels": [],
-  "last_fetched": "2026-10-07T15:57:09.592096",
+  "last_fetched": "2026-10-07T21:11:30.224820",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T21:09:30Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-07T14:52:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T21:09:30Z"
 }

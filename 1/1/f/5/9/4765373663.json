@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"67227de658dce50065b2e6ec6ab4930576a6bacda2baa359dea86f2f228d3ddb\"",
-  "Last-Modified": "Tue, 06 Oct 2026 22:33:51 GMT",
+  "ETag": "W/\"d922ca69202e6b45694df90b1a14782c4fafbd32f2299570878a0ccf5ef6cc08\"",
+  "Last-Modified": "Wed, 07 Oct 2026 17:11:07 GMT",
   "base": {
     "repo": {
       "name": "python-hyperscan-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T17:11:07Z",
   "created_at": "2026-10-06T22:31:31Z",
   "draft": false,
   "e_tag": "\"3c9d3c1a97153ea64ea58317a27388aa97b4009f3e8972d6d0d7443717191291\"",
   "head": {
-    "ref": "0.9.0_hff2371"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-hyperscan-feedstock/pull/12",
   "id": 4765373663,
   "labels": [],
-  "last_fetched": "2026-10-07T01:46:33.636061",
+  "last_fetched": "2026-10-07T17:13:08.184957",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T17:11:07Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-06T22:33:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T17:11:07Z"
 }

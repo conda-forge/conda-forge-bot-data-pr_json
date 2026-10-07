@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"df1e94287e8e38564436e2adb9f2e5e1f9c3e902548c56be2b3d18bacb601e0c\"",
-  "Last-Modified": "Tue, 06 Oct 2026 21:24:04 GMT",
+  "ETag": "W/\"7cffa214ab97f69d0387bfa3309b946faf528c9d99bf35c2293af1599d3d0cf3\"",
+  "Last-Modified": "Wed, 07 Oct 2026 18:45:10 GMT",
   "base": {
     "repo": {
       "name": "asyncua-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T18:45:10Z",
   "created_at": "2026-10-06T21:22:30Z",
   "draft": false,
   "e_tag": "\"91d55574c76d591f0e90027dd45f830b238f2fb2100a9cb61722352fb4f1283a\"",
   "head": {
-    "ref": "2.1.0_h16c7df"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/asyncua-feedstock/pull/23",
   "id": 4764798127,
   "labels": [],
-  "last_fetched": "2026-10-07T03:56:14.482277",
+  "last_fetched": "2026-10-07T18:46:25.314325",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T18:45:10Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-06T21:24:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T18:45:10Z"
 }

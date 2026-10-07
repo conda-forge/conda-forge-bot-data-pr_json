@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"55746670fecc26511d9e42fb182c593b81d96dba7f06afffb2d941292fc8a4fa\"",
-  "Last-Modified": "Wed, 07 Oct 2026 06:09:42 GMT",
+  "ETag": "W/\"72dd99812f2261e2ded35fb701bceb0ca5b9bb27d26fbb42c7ebc4fac7c0f3d0\"",
+  "Last-Modified": "Wed, 07 Oct 2026 10:13:54 GMT",
   "base": {
     "repo": {
       "name": "toolz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T10:13:54Z",
   "created_at": "2026-10-07T06:07:48Z",
   "draft": false,
   "e_tag": "\"314350d15ae3c37d7c33a4d7b1e7f88e8a98d73292d1407aa555bc677506bcac\"",
   "head": {
-    "ref": "1.2.0_hdc2996"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/toolz-feedstock/pull/29",
   "id": 4768688918,
   "labels": [],
-  "last_fetched": "2026-10-07T08:02:19.904327",
+  "last_fetched": "2026-10-07T10:15:31.929278",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T10:13:54Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-07T06:09:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T10:13:54Z"
 }

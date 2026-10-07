@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f6673b4dc4fd534c83011d866bf9f7c841c9bbf8ab94deb2499dc2ea67810b0f\"",
-  "Last-Modified": "Tue, 06 Oct 2026 18:17:57 GMT",
+  "ETag": "W/\"a14883d11a4e808b0fe42386d37d7d7a3aacca19e8a4b5bde79c17f52071c6ee\"",
+  "Last-Modified": "Wed, 07 Oct 2026 00:26:39 GMT",
   "base": {
     "repo": {
       "name": "librdkafka-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T00:26:39Z",
   "created_at": "2026-10-06T18:17:55Z",
   "draft": false,
   "e_tag": "\"626bf2c220119e8fe694a4afa707b9571437bc8d21dc8910b6cc2a23c8bf69a5\"",
   "head": {
-    "ref": "2.16.0_h7abdef"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/librdkafka-feedstock/pull/123",
   "id": 4762892377,
   "labels": [],
-  "last_fetched": "2026-10-06T20:00:34.152020",
+  "last_fetched": "2026-10-07T00:27:52.715341",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T00:26:39Z",
   "number": 123,
-  "state": "open",
-  "updated_at": "2026-10-06T18:19:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T00:26:39Z"
 }

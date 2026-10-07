@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"70910a4a0912492e7800015d0a544b0102a326f531ad9093a9e729731d72bec5\"",
-  "Last-Modified": "Tue, 06 Oct 2026 21:44:23 GMT",
+  "ETag": "W/\"7a846e00bec2cf0f1fd7758e10644fd91dd2cca5448bff289091d038f39341f2\"",
+  "Last-Modified": "Wed, 07 Oct 2026 06:14:15 GMT",
   "base": {
     "repo": {
       "name": "msgraph-core-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/msgraph-core-feedstock/pull/15",
   "id": 4764977130,
-  "labels": [],
-  "last_fetched": "2026-10-06T21:49:02.260334",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6977573199,
+      "name": "automerge",
+      "node_id": "LA_kwDOL-a_fM8AAAABn-VRTw",
+      "url": "https://api.github.com/repos/conda-forge/msgraph-core-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-07T06:14:31.943536",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 15,
   "state": "open",
-  "updated_at": "2026-10-06T21:44:23Z"
+  "updated_at": "2026-10-07T06:14:15Z"
 }

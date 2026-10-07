@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"d5028e0ab95d8ef3f25f5112b0f364086964c712bf1898d58432a890016b489b\"",
+  "Last-Modified": "Wed, 07 Oct 2026 13:30:14 GMT",
   "base": {
     "repo": {
       "name": "glcontext-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/glcontext-feedstock/pull/36",
   "id": 4773091299,
-  "labels": [],
-  "last_fetched": "2026-10-07T13:07:38.374703",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2656087907,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNjU2MDg3OTA3",
+      "url": "https://api.github.com/repos/conda-forge/glcontext-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-07T13:31:27.289139",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 36,
   "state": "open",
-  "updated_at": "2026-10-07T13:07:37Z"
+  "updated_at": "2026-10-07T13:30:14Z"
 }

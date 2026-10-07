@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"bc2fd62201e4b498c9af96e393d654b5c11c3177c3309deb1378772e9a6c003f\"",
+  "Last-Modified": "Wed, 07 Oct 2026 02:29:44 GMT",
   "base": {
     "repo": {
       "name": "gridtk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T02:29:40Z",
   "created_at": "2026-10-07T02:26:11Z",
   "draft": false,
   "e_tag": "\"0a485396095d1a2c4ca63986aa4d484b2ee7e2550ab6dc7be767179dda9c1540\"",
   "head": {
-    "ref": "4.0.0_h7b0bf4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gridtk-feedstock/pull/13",
   "id": 4767103387,
   "labels": [],
-  "last_fetched": "2026-10-07T02:26:12.377022",
+  "last_fetched": "2026-10-07T02:31:18.912617",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T02:29:40Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-07T02:26:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T02:29:44Z"
 }

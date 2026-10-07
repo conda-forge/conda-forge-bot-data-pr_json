@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"34048656a8cd285bb8864515f3e8cc4ffa796ed4736978486d99fb62de4aae29\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"9ca640c36c49578c1b8378e811d632234dc1d85d168066129c9403c920fc7d07\"",
+  "Last-Modified": "Wed, 07 Oct 2026 20:10:58 GMT",
   "base": {
     "repo": {
       "name": "responder-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T20:10:58Z",
   "created_at": "2025-01-05T02:57:10Z",
   "draft": false,
   "e_tag": "\"a14d1e299db46e60691fdd323de58df9fd529075469b1835360196e2401a1ef5\"",
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/responder-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-04T20:33:34.211724",
+  "last_fetched": "2026-10-07T20:12:11.363141",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 21,
-  "state": "open",
-  "updated_at": "2025-01-05T20:54:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T20:10:58Z"
 }

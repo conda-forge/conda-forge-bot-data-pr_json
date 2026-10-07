@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b19cc9ddde50fde9d43f70d797496246039831e077e2e47f7f845da395976f51\"",
-  "Last-Modified": "Wed, 07 Oct 2026 03:11:48 GMT",
+  "ETag": "W/\"d2d08d336d303b23031f173d02a4da984f06912617fb1895a22e8de5ad45db8d\"",
+  "Last-Modified": "Wed, 07 Oct 2026 05:25:41 GMT",
   "base": {
     "repo": {
       "name": "imdlib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T05:25:41Z",
   "created_at": "2026-10-07T03:10:06Z",
   "draft": false,
   "e_tag": "\"4c7facb8ae08af84c4d912f9585fbe62f6961f4cf5adf29264ece99c60441153\"",
   "head": {
-    "ref": "0.2.0_h613cf7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imdlib-feedstock/pull/1",
   "id": 4767422174,
   "labels": [],
-  "last_fetched": "2026-10-07T03:55:40.789754",
+  "last_fetched": "2026-10-07T05:26:54.326101",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T05:25:41Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-07T03:11:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T05:25:41Z"
 }

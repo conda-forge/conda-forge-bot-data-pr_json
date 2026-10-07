@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"648b1f227026670ec53c7e875f54939ab0f2b7eab38eb6b4e63ad7ab87a5eaba\"",
-  "Last-Modified": "Tue, 06 Oct 2026 12:30:52 GMT",
+  "ETag": "W/\"f863087263850b7737221f5720506efb92bb43feae6bff28e75a82585dcf9847\"",
+  "Last-Modified": "Wed, 07 Oct 2026 21:36:32 GMT",
   "base": {
     "repo": {
       "name": "spectral-cube-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T21:36:32Z",
   "created_at": "2026-10-06T12:30:51Z",
   "draft": false,
   "e_tag": "\"43bbf332d062a5427ee932a7d6032aac3f846eb332c5f097bbe29810b47d0d1a\"",
   "head": {
-    "ref": "0.7.0_h4c12a0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spectral-cube-feedstock/pull/21",
   "id": 4758722769,
   "labels": [],
-  "last_fetched": "2026-10-06T20:01:25.304351",
+  "last_fetched": "2026-10-07T21:38:05.931228",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T21:36:32Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-06T12:33:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T21:36:32Z"
 }

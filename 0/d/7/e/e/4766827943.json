@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b065bf49de310eb4d4df25f11883a81964c057b396fef35eeac97ac735f806ac\"",
+  "Last-Modified": "Wed, 07 Oct 2026 02:03:15 GMT",
   "base": {
     "repo": {
       "name": "mcstas-readout-master-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T02:03:10Z",
   "created_at": "2026-10-07T01:47:32Z",
   "draft": false,
   "e_tag": "\"b066df6020852b78122a42001ecd48a4d75114c8a40cbb760de54ad5f5e42951\"",
   "head": {
-    "ref": "0.8.0_h74d57f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mcstas-readout-master-feedstock/pull/10",
   "id": 4766827943,
   "labels": [],
-  "last_fetched": "2026-10-07T01:47:33.069550",
+  "last_fetched": "2026-10-07T02:04:53.003935",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T02:03:10Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-07T01:47:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T02:03:15Z"
 }

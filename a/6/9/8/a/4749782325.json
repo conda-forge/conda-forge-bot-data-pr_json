@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"bb3f984d234b31e766037ffb225fb5e5b7ec07edecde9ae1a516ef026261d62d\"",
-  "Last-Modified": "Mon, 05 Oct 2026 19:45:50 GMT",
+  "ETag": "W/\"ea7cd5322cf5ae4e3ae0a658108c748165e02e29ef91282e945fedd563428606\"",
+  "Last-Modified": "Wed, 07 Oct 2026 20:20:03 GMT",
   "base": {
     "repo": {
       "name": "meltano-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T20:20:03Z",
   "created_at": "2026-10-05T19:21:00Z",
   "draft": false,
   "e_tag": "\"e873407c109ad0becc2011e4135bdb4e6847837c7b13d3b8bfbd4cb67b4e67b3\"",
   "head": {
-    "ref": "4.4.0_h11699a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/meltano-feedstock/pull/1",
   "id": 4749782325,
   "labels": [],
-  "last_fetched": "2026-10-05T22:00:13.599638",
+  "last_fetched": "2026-10-07T20:21:18.707040",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T20:20:03Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-05T19:45:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T20:20:03Z"
 }

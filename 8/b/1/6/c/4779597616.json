@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"cff1300cd565e1336845997a9fb728ee52751d2ab82030fec271ec5834401c39\"",
+  "Last-Modified": "Wed, 07 Oct 2026 23:14:17 GMT",
   "base": {
     "repo": {
       "name": "astro-ls-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T23:14:12Z",
   "created_at": "2026-10-07T23:12:05Z",
   "draft": false,
   "e_tag": "\"300b9b8e822f39241512258c91c23e4911adb149adf6999bf90ffa3c3c8f0c8b\"",
   "head": {
-    "ref": "2.17.2_he3ba76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/astro-ls-feedstock/pull/23",
   "id": 4779597616,
   "labels": [],
-  "last_fetched": "2026-10-07T23:12:05.750938",
+  "last_fetched": "2026-10-07T23:15:18.292040",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T23:14:12Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-07T23:12:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T23:14:17Z"
 }

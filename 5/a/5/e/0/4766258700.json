@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"882b64e2b52454e27ce42e094f1e072468155a4dbe4295f13a40b4151acecefe\"",
-  "Last-Modified": "Wed, 07 Oct 2026 00:33:19 GMT",
+  "ETag": "W/\"af6f894a91d4cced1a6c2ad36325a35062da254f88c018fe6b80aaaa52e411e8\"",
+  "Last-Modified": "Wed, 07 Oct 2026 20:15:59 GMT",
   "base": {
     "repo": {
       "name": "metamorpheus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T20:15:58Z",
   "created_at": "2026-10-07T00:31:23Z",
   "draft": false,
   "e_tag": "\"1e315f8311bc6341690981898cd729f5b136f6748bb2076b4a64f46b9e64ebcd\"",
   "head": {
-    "ref": "1.1.12_h42c94f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/metamorpheus-feedstock/pull/37",
   "id": 4766258700,
   "labels": [],
-  "last_fetched": "2026-10-07T04:31:28.254099",
+  "last_fetched": "2026-10-07T20:17:40.968725",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T20:15:58Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-10-07T00:33:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T20:15:59Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a84e4e5948c5c4aaf1a487d3de19f48e90dac93e8d254cc44e95cfec31d22a4d\"",
-  "Last-Modified": "Tue, 06 Oct 2026 16:52:26 GMT",
+  "ETag": "W/\"3050309cb1df97429cedb77c632ea4148507613a03e1dace1dec53ad21f2457d\"",
+  "Last-Modified": "Wed, 07 Oct 2026 04:57:07 GMT",
   "base": {
     "repo": {
       "name": "harmony-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T04:57:07Z",
   "created_at": "2026-10-06T16:50:38Z",
   "draft": false,
   "e_tag": "\"f53839cc71587dee1f447b7deee247a2c3bcf25aceba847d25a96b7d475661f5\"",
   "head": {
-    "ref": "1.8.0_h7757b6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/harmony-py-feedstock/pull/26",
   "id": 4761935412,
   "labels": [],
-  "last_fetched": "2026-10-06T17:03:31.346402",
+  "last_fetched": "2026-10-07T04:58:47.851042",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T04:57:07Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-06T16:52:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T04:57:07Z"
 }

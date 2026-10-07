@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ec7ac900d3ecd91c5dc81a33638a985924a411b76def88eebf569b2b2d806ab0\"",
+  "Last-Modified": "Wed, 07 Oct 2026 13:06:25 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-botocore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T13:06:21Z",
   "created_at": "2026-10-07T13:02:12Z",
   "draft": false,
   "e_tag": "\"12aa7f5dcc7d2b72030ee96085a7ab04b36c1062fa6f247817d68622503a8fc3\"",
   "head": {
-    "ref": "0.66b1_hfce721"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-botocore-feedstock/pull/49",
   "id": 4773020741,
   "labels": [],
-  "last_fetched": "2026-10-07T13:02:13.679749",
+  "last_fetched": "2026-10-07T13:07:57.255245",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T13:06:21Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-07T13:02:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T13:06:25Z"
 }

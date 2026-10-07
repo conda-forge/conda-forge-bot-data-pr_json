@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"009afa9772b86aee9bd948c4b42f62c14f3a1759c52a74e967d95883a101a568\"",
-  "Last-Modified": "Wed, 07 Oct 2026 14:02:25 GMT",
+  "ETag": "W/\"84d36a8179500fe8bc50e319e7be4820cfadc8c8975f6d91f8da588dcba93128\"",
+  "Last-Modified": "Wed, 07 Oct 2026 14:02:21 GMT",
   "base": {
     "repo": {
       "name": "hdx-python-country-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/hdx-python-country-feedstock/pull/57",
   "id": 4685894737,
-  "labels": [],
-  "last_fetched": "2026-10-07T14:04:02.456003",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-07T14:02:25.896154",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 57,
   "state": "closed",
-  "updated_at": "2026-10-07T14:02:25Z"
+  "updated_at": "2026-10-07T14:02:21Z"
 }

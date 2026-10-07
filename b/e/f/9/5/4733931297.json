@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"edea5f50d54a2cde22685154d6c0f2c2a5f2ead761194cc92d13c9fee4406106\"",
-  "Last-Modified": "Wed, 07 Oct 2026 11:48:24 GMT",
+  "ETag": "W/\"ef4d43cddcb4b1b426285edd0114f8231d1b4bf350d74b085044bea2023732d6\"",
+  "Last-Modified": "Wed, 07 Oct 2026 11:50:54 GMT",
   "base": {
     "repo": {
       "name": "pynput-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/pynput-feedstock/pull/25",
   "id": 4733931297,
-  "labels": [],
-  "last_fetched": "2026-10-07T11:48:30.937063",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1979868947,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxOTc5ODY4OTQ3",
+      "url": "https://api.github.com/repos/conda-forge/pynput-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-07T11:52:12.145747",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 25,
   "state": "open",
-  "updated_at": "2026-10-07T11:48:24Z"
+  "updated_at": "2026-10-07T11:50:54Z"
 }

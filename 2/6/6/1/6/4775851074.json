@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"fe0e195df6493c99cfffb217027ed8bee0e7421550c7a3f7113c082a0cb75103\"",
-  "Last-Modified": "Wed, 07 Oct 2026 17:06:11 GMT",
+  "ETag": "W/\"d892f36bc5803daa274045f987c1e2814441f9eb147151fde3d86b46855f0561\"",
+  "Last-Modified": "Wed, 07 Oct 2026 17:11:57 GMT",
   "base": {
     "repo": {
       "name": "diffle-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T17:11:54Z",
   "created_at": "2026-10-07T17:04:26Z",
   "draft": false,
   "e_tag": "\"6ce920eb3327838ad72d05d5ac032d8b7ea25f32c89c0c87e6b5c54345955516\"",
   "head": {
-    "ref": "0.2.3_he0a742"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/diffle-feedstock/pull/31",
   "id": 4775851074,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/diffle-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-07T17:06:59.186264",
+  "last_fetched": "2026-10-07T17:13:38.893068",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T17:11:53Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-07T17:06:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T17:11:57Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"6b43dc6cfe1b59abb9e6891b4fe5d30fc65a742ebf96ed27cc7fd184618d9155\"",
-  "Last-Modified": "Wed, 07 Oct 2026 01:29:12 GMT",
+  "ETag": "W/\"2ecb2b3807f12a65b22599e94d9ebb6990a06b5baced925d6350296e524029d8\"",
+  "Last-Modified": "Wed, 07 Oct 2026 06:13:05 GMT",
   "base": {
     "repo": {
       "name": "looker-sdk-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/looker-sdk-feedstock/pull/55",
   "id": 4766686928,
-  "labels": [],
-  "last_fetched": "2026-10-07T02:14:13.245757",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3919042221,
+      "name": "automerge",
+      "node_id": "LA_kwDOG_JHJc7pl9at",
+      "url": "https://api.github.com/repos/conda-forge/looker-sdk-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-07T06:14:39.256106",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 55,
   "state": "open",
-  "updated_at": "2026-10-07T01:29:12Z"
+  "updated_at": "2026-10-07T06:13:05Z"
 }

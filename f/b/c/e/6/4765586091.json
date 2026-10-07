@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"291ec6dc7e62f75618c3de30b1982d16aff941ba2bd85f0fa2ba35d72de7306c\"",
-  "Last-Modified": "Tue, 06 Oct 2026 23:00:35 GMT",
+  "ETag": "W/\"b9fb195972d861ab063847dda10baeefc89c0d1ece58e214b5850ba298e2d2e2\"",
+  "Last-Modified": "Wed, 07 Oct 2026 09:20:59 GMT",
   "base": {
     "repo": {
       "name": "scp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T09:20:59Z",
   "created_at": "2026-10-06T23:00:34Z",
   "draft": false,
   "e_tag": "\"ebf25e8fa8f51469ed0640e5440d8179195772c5fb55fc0da2276dbcac6a81de\"",
   "head": {
-    "ref": "0.16.2_hb7cd63"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scp-feedstock/pull/33",
   "id": 4765586091,
   "labels": [],
-  "last_fetched": "2026-10-07T01:05:05.942037",
+  "last_fetched": "2026-10-07T09:22:10.651797",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T09:20:59Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-06T23:02:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T09:20:59Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"82f35c77191ce504c2e8d75f80d321d260542d35bfdaf2335ebeb96e86f60171\"",
+  "Last-Modified": "Wed, 07 Oct 2026 14:32:40 GMT",
   "base": {
     "repo": {
       "name": "tsgettoolbox-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T14:32:40Z",
   "created_at": "2026-10-07T07:18:01Z",
   "draft": false,
   "e_tag": "\"19ecc64df551651f3de8f5343b436830b12ee8241a28ee90ef9ea0b6cf48a9a6\"",
   "head": {
-    "ref": "26.4.0_h00d609"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tsgettoolbox-feedstock/pull/24",
   "id": 4769307369,
   "labels": [],
-  "last_fetched": "2026-10-07T07:18:03.297745",
+  "last_fetched": "2026-10-07T14:34:20.423542",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T14:32:40Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-07T07:18:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T14:32:40Z"
 }

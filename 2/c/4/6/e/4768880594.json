@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"97c09658c6846a73b0baecc8892e8c6ec2b6925033d0af22c2029329223dc3c1\"",
+  "Last-Modified": "Wed, 07 Oct 2026 06:34:09 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-semantic-conventions-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T06:34:05Z",
   "created_at": "2026-10-07T06:31:00Z",
   "draft": false,
   "e_tag": "\"8152fb3ec7b11bb8e24cc5ac67961440185b79af62498824da99c2ff8c50c45b\"",
   "head": {
-    "ref": "0.66b1_hb03b9d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-semantic-conventions-feedstock/pull/85",
   "id": 4768880594,
   "labels": [],
-  "last_fetched": "2026-10-07T06:31:00.739053",
+  "last_fetched": "2026-10-07T06:35:43.997316",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T06:34:05Z",
   "number": 85,
-  "state": "open",
-  "updated_at": "2026-10-07T06:31:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T06:34:09Z"
 }

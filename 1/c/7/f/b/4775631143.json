@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8d664bde43c5b628a85d0c56b83db94d268bb8d6d03323f3f2570ebe95ef9df2\"",
+  "Last-Modified": "Wed, 07 Oct 2026 16:44:51 GMT",
   "base": {
     "repo": {
       "name": "ktfmt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T16:44:47Z",
   "created_at": "2026-10-07T16:40:33Z",
   "draft": false,
   "e_tag": "\"e0ef09f055dc68b2411c415f756b59f8e5d67fd7b20cd9a49966069fe94d3ef9\"",
   "head": {
-    "ref": "0.65_h96039e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ktfmt-feedstock/pull/15",
   "id": 4775631143,
   "labels": [],
-  "last_fetched": "2026-10-07T16:40:34.875079",
+  "last_fetched": "2026-10-07T16:46:27.276228",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T16:44:47Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-07T16:40:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T16:44:51Z"
 }

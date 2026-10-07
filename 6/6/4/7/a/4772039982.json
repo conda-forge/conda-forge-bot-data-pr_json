@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"09dbdc038aad22e16b30c5e5c5efcb14293bc12a28fc2eedb01912dd9c92767d\"",
+  "Last-Modified": "Wed, 07 Oct 2026 12:06:24 GMT",
   "base": {
     "repo": {
       "name": "batchstats-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T12:06:24Z",
   "created_at": "2026-10-07T11:36:39Z",
   "draft": false,
   "e_tag": "\"b8237baeaa59b116663a7d2d7f9fc351d04252463d6fdd8eccdbe452d4d34050\"",
   "head": {
-    "ref": "0.8_h54d09d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/batchstats-feedstock/pull/8",
   "id": 4772039982,
   "labels": [],
-  "last_fetched": "2026-10-07T11:36:40.664677",
+  "last_fetched": "2026-10-07T12:07:57.337290",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T12:06:24Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-07T11:36:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T12:06:24Z"
 }

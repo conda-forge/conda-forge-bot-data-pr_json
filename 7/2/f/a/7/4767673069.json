@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"cc316e27ca312c2c5725d37c74fdb1f7dfc4c183a9c0b53eb1310fafdf777119\"",
+  "Last-Modified": "Wed, 07 Oct 2026 03:50:34 GMT",
   "base": {
     "repo": {
       "name": "factur-x-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T03:50:29Z",
   "created_at": "2026-10-07T03:48:02Z",
   "draft": false,
   "e_tag": "\"bb019db8c5b62c9d493e575e253a5cc4a0b2583087d592b9a282f22732351386\"",
   "head": {
-    "ref": "7.4_he8a665"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/factur-x-feedstock/pull/36",
   "id": 4767673069,
   "labels": [],
-  "last_fetched": "2026-10-07T03:48:02.961281",
+  "last_fetched": "2026-10-07T03:52:18.135695",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-07T03:50:29Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-07T03:48:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T03:50:34Z"
 }

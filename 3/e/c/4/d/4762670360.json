@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4a6b99f4bd2239df3122512ea89cb927722844e2ab536fe926c4b4b3e16425de\"",
-  "Last-Modified": "Wed, 07 Oct 2026 04:37:11 GMT",
+  "ETag": "W/\"fa625abe866cb1ecc57498eca23c8af3ac693c2b4caa041d2e3caa4749347a1a\"",
+  "Last-Modified": "Wed, 07 Oct 2026 09:22:09 GMT",
   "base": {
     "repo": {
       "name": "spirv-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T09:22:08Z",
   "created_at": "2026-10-06T17:57:09Z",
   "draft": false,
   "e_tag": "\"c08160d38def2bddcb382c853d74122875f56d2dfc6aa44948479deccfb27f84\"",
   "head": {
-    "ref": "2026.4_h2f9373"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spirv-tools-feedstock/pull/41",
   "id": 4762670360,
   "labels": [],
-  "last_fetched": "2026-10-07T04:38:59.170386",
+  "last_fetched": "2026-10-07T09:23:22.639698",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T09:22:08Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-07T04:37:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T09:22:09Z"
 }

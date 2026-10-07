@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e828e7e51154f412686e3f07ea650af4a6837d80c3b31bceceafbfe148f93344\"",
-  "Last-Modified": "Tue, 06 Oct 2026 21:00:40 GMT",
+  "ETag": "W/\"21c9bd3a9a392e8a30e927df83d3b44649e7d4e0eb2c5e1655ce008ebdb1196f\"",
+  "Last-Modified": "Wed, 07 Oct 2026 06:12:42 GMT",
   "base": {
     "repo": {
       "name": "pyathena-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T06:12:41Z",
   "created_at": "2026-10-06T20:59:01Z",
   "draft": false,
   "e_tag": "\"70f1cf1880f5d0d093601290bef4dead4568a408b8b2bce8d1917da62e848de1\"",
   "head": {
-    "ref": "3.38.0_h83cee3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyathena-feedstock/pull/118",
   "id": 4764576181,
   "labels": [],
-  "last_fetched": "2026-10-07T01:05:10.354777",
+  "last_fetched": "2026-10-07T06:14:14.136281",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T06:12:41Z",
   "number": 118,
-  "state": "open",
-  "updated_at": "2026-10-06T21:00:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T06:12:42Z"
 }

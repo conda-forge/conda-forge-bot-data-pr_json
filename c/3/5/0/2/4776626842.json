@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"52670f9619d952de8a3afbdfce601b9dde52998066183b5cb653bdce3cf8607c\"",
-  "Last-Modified": "Wed, 07 Oct 2026 18:15:03 GMT",
+  "ETag": "W/\"711bc451197c28bd3592b62ca5c987bb332e433d699711bc5d84d3fd85366b8d\"",
+  "Last-Modified": "Wed, 07 Oct 2026 18:59:32 GMT",
   "base": {
     "repo": {
       "name": "intel-graphics-compiler-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-07T18:59:28Z",
   "created_at": "2026-10-07T18:13:24Z",
   "draft": false,
   "e_tag": "\"31875c69d3afd90f3f2b95292c9263eab66fa13132eb1a6e8ca7d967d13ffb5a\"",
   "head": {
-    "ref": "2.42.3_h68915a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/intel-graphics-compiler-feedstock/pull/88",
   "id": 4776626842,
   "labels": [],
-  "last_fetched": "2026-10-07T18:56:35.852809",
+  "last_fetched": "2026-10-07T19:01:29.624511",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-07T18:59:28Z",
   "number": 88,
-  "state": "open",
-  "updated_at": "2026-10-07T18:15:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-07T18:59:32Z"
 }

@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"f5a88a3f11a0d23022b2b1ecf983b1411ff1badff8b3efcf21f1b6edc2edd0b7\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"8a59469fdcf325d8f3d455f72ec5937df37169a02f2559761f61d431c2837c74\"",
+  "Last-Modified": "Thu, 08 Oct 2026 20:25:08 GMT",
   "base": {
     "repo": {
       "name": "gpflow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T20:25:08Z",
   "created_at": "2026-06-03T21:42:30Z",
   "draft": false,
   "e_tag": "\"aecc6e4b4081e81b6e13e51c670e1931b2cbcf905b5d544a4bc9623b69a13fc6\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/gpflow-feedstock/pull/32",
   "id": 3798810365,
-  "labels": [],
-  "last_fetched": "2026-10-03T09:26:06.663624",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890938773,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwOTM4Nzcz",
+      "url": "https://api.github.com/repos/conda-forge/gpflow-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-08T20:25:12.325567",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-06-03T21:44:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T20:25:08Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8a4a82fdc711a446a61bbe2fc7c0610392c50b86f33ca8edfe05d036592acf73\"",
+  "Last-Modified": "Thu, 08 Oct 2026 21:49:54 GMT",
   "base": {
     "repo": {
       "name": "pint-pulsar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T21:49:54Z",
   "created_at": "2026-10-08T19:08:02Z",
   "draft": false,
   "e_tag": "\"1c5d3a78891e13e038970baceac559daec99c303cb552676f8f7c825150d5842\"",
   "head": {
-    "ref": "1.1.8_hd6e206"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pint-pulsar-feedstock/pull/41",
   "id": 4791565137,
   "labels": [],
-  "last_fetched": "2026-10-08T19:08:03.490829",
+  "last_fetched": "2026-10-08T21:51:29.480353",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T21:49:54Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-08T19:08:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T21:49:54Z"
 }

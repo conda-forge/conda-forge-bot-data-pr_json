@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"138bc16087d136ad9256ed6bce2cb769fcacc09bd4ea6256d6e879834ea866f1\"",
-  "Last-Modified": "Thu, 08 Oct 2026 15:12:13 GMT",
+  "ETag": "W/\"c0fe22f9827141a22b00cf401d99d94bbd0eeae7beb8105dc5beffb77c1a9eaf\"",
+  "Last-Modified": "Thu, 08 Oct 2026 15:19:05 GMT",
   "base": {
     "repo": {
       "name": "foxes-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T15:19:02Z",
   "created_at": "2026-10-08T12:29:08Z",
   "draft": false,
   "e_tag": "\"f548c1c0458bdf3ceaa709b4158c0779f8ed8aa0172536bd1b8e192b80f902a0\"",
   "head": {
-    "ref": "1.9.7_ha68501"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/foxes-feedstock/pull/90",
   "id": 4786795080,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/foxes-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-08T15:13:26.708716",
+  "last_fetched": "2026-10-08T15:21:55.493331",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T15:19:02Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-10-08T15:12:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T15:19:05Z"
 }

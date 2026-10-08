@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a3a6c04f0fad0eb1516f4826691a13ebeb1afaf9f662d6796b21ad8a3e02a140\"",
-  "Last-Modified": "Tue, 06 Oct 2026 23:54:19 GMT",
+  "ETag": "W/\"286f4e9932d62bed79d153a97c26f6866e53cb43105fa741172fe17a758bdf13\"",
+  "Last-Modified": "Thu, 08 Oct 2026 19:22:48 GMT",
   "base": {
     "repo": {
       "name": "llguidance-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T19:22:48Z",
   "created_at": "2026-10-06T23:52:26Z",
   "draft": false,
   "e_tag": "\"ad4d3abd23fbcd6d85160bbcb4e91cd35e6aece93f6554df01a50e3ea1763b7b\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_h597521"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/llguidance-feedstock/pull/38",
   "id": 4765957750,
   "labels": [],
-  "last_fetched": "2026-10-07T01:05:44.444347",
+  "last_fetched": "2026-10-08T19:24:25.996978",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T19:22:48Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-06T23:54:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T19:22:48Z"
 }

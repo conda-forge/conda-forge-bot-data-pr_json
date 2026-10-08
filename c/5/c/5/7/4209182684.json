@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"d4e57fe0307c0557177ff8a650bbf47e03528fdb8eba3983e068a34ea390b955\"",
-  "Last-Modified": "Wed, 05 Aug 2026 18:40:55 GMT",
+  "ETag": "W/\"03a9518a14a40ae6bd1285ccf3307bba22df5893017b88caab8a16a60aac0977\"",
+  "Last-Modified": "Thu, 08 Oct 2026 21:43:58 GMT",
   "base": {
     "repo": {
       "name": "adios2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T21:43:58Z",
   "created_at": "2026-08-05T04:37:22Z",
   "draft": false,
   "e_tag": "\"6cd3471ec2fd25630dc0fd239ba73049928bc1ce7ebb6c50259ab281938e180d\"",
@@ -19,6 +19,17 @@
     {
       "archived_at": null,
       "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890790629,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwNzkwNjI5",
+      "url": "https://api.github.com/repos/conda-forge/adios2-feedstock/labels/bot-rerun"
+    },
+    {
+      "archived_at": null,
+      "archived_by": null,
       "color": "0e8a16",
       "default": false,
       "description": "Merge the PR when CI passes",
@@ -28,13 +39,13 @@
       "url": "https://api.github.com/repos/conda-forge/adios2-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-03T15:11:32.840622",
+  "last_fetched": "2026-10-08T21:44:01.527137",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 152,
-  "state": "open",
-  "updated_at": "2026-08-05T18:40:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T21:43:58Z"
 }

@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"ab665f18ba0fa78fb3b3fa5bf5033fc0f07cff82d60b73f0b86f46f01b54275e\"",
-  "Last-Modified": "Wed, 30 Sep 2026 15:05:38 GMT",
+  "ETag": "W/\"2a0cfb9390b93a59030dfb3c65f8a590fb3ee4fccbd0353e28c883d17031a1e0\"",
+  "Last-Modified": "Thu, 08 Oct 2026 23:51:28 GMT",
   "base": {
     "repo": {
       "name": "earthkit-meteo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T23:51:28Z",
   "created_at": "2026-09-30T15:03:57Z",
   "draft": false,
   "e_tag": "\"33d467223203fc0e02e5ba548fa537c1952556088d41f6155da1130ba1dc708f\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/earthkit-meteo-feedstock/pull/4",
   "id": 4692263397,
-  "labels": [],
-  "last_fetched": "2026-10-07T23:59:37.401846",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 10750574065,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOSIlot88AAAACgMi98Q",
+      "url": "https://api.github.com/repos/conda-forge/earthkit-meteo-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-08T23:51:31.188759",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-09-30T15:05:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T23:51:28Z"
 }

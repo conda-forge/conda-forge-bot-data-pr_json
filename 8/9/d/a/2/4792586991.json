@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"6e5f8a32914bdeba45c10dba52dcbd8a76e731b5ee10b9f3ed441587d484a7a1\"",
+  "Last-Modified": "Thu, 08 Oct 2026 21:26:33 GMT",
   "base": {
     "repo": {
       "name": "coda-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T21:26:33Z",
   "created_at": "2026-10-08T20:45:45Z",
   "draft": false,
   "e_tag": "\"976471142176e539cf9da446507bcfb216f41c9d841b166d0043d78589e64f5b\"",
   "head": {
-    "ref": "2.25.7_hf5206e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/coda-feedstock/pull/47",
   "id": 4792586991,
   "labels": [],
-  "last_fetched": "2026-10-08T20:45:46.527938",
+  "last_fetched": "2026-10-08T21:28:18.438235",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T21:26:33Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-10-08T20:45:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T21:26:33Z"
 }

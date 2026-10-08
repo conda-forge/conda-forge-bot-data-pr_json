@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"8beb218877a048a952882684ecd01903b48cd7b8586780edabacd47c7ecf582b\"",
-  "Last-Modified": "Thu, 08 Oct 2026 08:39:26 GMT",
+  "ETag": "W/\"225994d5fdd457f8fe7eecdada6647ace9ded33ce2d1004ffdcca3ac342ed7da\"",
+  "Last-Modified": "Thu, 08 Oct 2026 08:32:13 GMT",
   "base": {
     "repo": {
       "name": "subfinder-feedstock"
     }
   },
-  "closed_at": "2026-10-08T08:39:22Z",
+  "closed_at": null,
   "created_at": "2026-10-08T08:30:36Z",
   "draft": false,
   "e_tag": "\"68820017721dcf48c449b42b10640c2056aeb6b1c2460c087d1fba969da4514d\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "2.17.0_h1c802a"
   },
   "html_url": "https://github.com/conda-forge/subfinder-feedstock/pull/18",
   "id": 4784045155,
   "labels": [],
-  "last_fetched": "2026-10-08T08:40:55.465600",
+  "last_fetched": "2026-10-08T08:39:16.918859",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": true,
-  "merged_at": "2026-10-08T08:39:22Z",
+  "mergeable": true,
+  "mergeable_state": "unstable",
+  "merged": false,
+  "merged_at": null,
   "number": 18,
-  "state": "closed",
-  "updated_at": "2026-10-08T08:39:26Z"
+  "state": "open",
+  "updated_at": "2026-10-08T08:32:13Z"
 }

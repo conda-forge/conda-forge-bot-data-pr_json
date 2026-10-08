@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a24f06ab270774fb995a2850c16b20200937f38886cc2982768cab1444d8c62c\"",
-  "Last-Modified": "Wed, 07 Oct 2026 23:12:48 GMT",
+  "ETag": "W/\"44521e9351fdc27fd5881f02eedac31aaaaba67f67f3d94292a586b8706b592b\"",
+  "Last-Modified": "Thu, 08 Oct 2026 03:11:18 GMT",
   "base": {
     "repo": {
       "name": "repo-review-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T03:11:18Z",
   "created_at": "2026-10-07T23:11:19Z",
   "draft": false,
   "e_tag": "\"13eacdbb3a59a145a8116485bb68ead1c6e647d1c9bfd8f00591b141e34e59c5\"",
   "head": {
-    "ref": "1.2.2_h561765"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/repo-review-feedstock/pull/29",
   "id": 4779592047,
   "labels": [],
-  "last_fetched": "2026-10-07T23:49:25.076571",
+  "last_fetched": "2026-10-08T03:12:56.055127",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T03:11:17Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-07T23:12:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T03:11:18Z"
 }

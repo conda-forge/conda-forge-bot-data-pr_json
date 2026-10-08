@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"70d6ab7d6630d1518e186abf372b9eba044ed9b87ea6125a9d9279667fae7322\"",
+  "Last-Modified": "Thu, 08 Oct 2026 16:09:21 GMT",
   "base": {
     "repo": {
       "name": "python-fsutil-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T16:09:17Z",
   "created_at": "2026-10-08T16:05:33Z",
   "draft": false,
   "e_tag": "\"7fc9ae7fc4d851ecd900f486b404f224e1e1d2ff4dad610072a8af8f3d25722b\"",
   "head": {
-    "ref": "0.18.0_h97538c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-fsutil-feedstock/pull/22",
   "id": 4789550965,
   "labels": [],
-  "last_fetched": "2026-10-08T16:05:34.042571",
+  "last_fetched": "2026-10-08T16:11:41.491006",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T16:09:17Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-08T16:05:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T16:09:21Z"
 }

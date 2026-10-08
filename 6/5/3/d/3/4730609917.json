@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"04b22be324ba0bc5fed440c821bbfaeab4bc556150e9d4538c8a8107640227b4\"",
-  "Last-Modified": "Thu, 08 Oct 2026 01:53:00 GMT",
+  "ETag": "W/\"3d9ff87280f3d3da99ad794c28336c937e25e8be410ccaad9a2c465a557a8b34\"",
+  "Last-Modified": "Thu, 08 Oct 2026 03:30:42 GMT",
   "base": {
     "repo": {
       "name": "uv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T03:30:39Z",
   "created_at": "2026-10-03T23:42:39Z",
   "draft": false,
   "e_tag": "\"53af2d91b582e25eca7c523a2fe0090b3fecd011bdb05cea9b042e75fec71038\"",
   "head": {
-    "ref": "0.12.23_h2d439c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uv-feedstock/pull/433",
   "id": 4730609917,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/uv-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-08T01:54:41.810430",
+  "last_fetched": "2026-10-08T03:31:48.406480",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T03:30:39Z",
   "number": 433,
-  "state": "open",
-  "updated_at": "2026-10-08T01:53:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T03:30:42Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"076405062b4380ed0adc22f3b938f745a0cd407867afb13c2e556975116ff1b7\"",
-  "Last-Modified": "Thu, 08 Oct 2026 19:22:01 GMT",
+  "ETag": "W/\"faf0d270845d13afd486d069b967a5bbb79fb06096f5436ff5eb85ffa88ca939\"",
+  "Last-Modified": "Thu, 08 Oct 2026 19:32:43 GMT",
   "base": {
     "repo": {
       "name": "tabalyst-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T19:32:43Z",
   "created_at": "2026-10-08T17:12:42Z",
   "draft": false,
   "e_tag": "\"dfaf83d08e517b3a4201dec841ff3fa0fb8d5e28be73a30cdf61d13032aeb635\"",
   "head": {
-    "ref": "0.6.2_h3c71b6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tabalyst-feedstock/pull/2",
   "id": 4790315820,
   "labels": [],
-  "last_fetched": "2026-10-08T19:26:11.590632",
+  "last_fetched": "2026-10-08T19:34:19.451721",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T19:32:43Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-08T19:22:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T19:32:43Z"
 }

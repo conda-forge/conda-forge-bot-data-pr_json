@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e1351ad9f23968e6520acc2fd1730938de2fd22b9708e70ec3056a0e40c99db0\"",
-  "Last-Modified": "Wed, 07 Oct 2026 20:34:36 GMT",
+  "ETag": "W/\"e01819303fb65c4d747b2a6c0c92baaa461bf9bf5716e2072626869d67d33470\"",
+  "Last-Modified": "Thu, 08 Oct 2026 06:03:55 GMT",
   "base": {
     "repo": {
       "name": "apache-beam-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T06:03:54Z",
   "created_at": "2026-10-07T18:12:24Z",
   "draft": false,
   "e_tag": "\"4cbb61297d67d25c7cf1af4aad20f74f35085aafd00354f051ed8aef17dbb6a3\"",
   "head": {
-    "ref": "2.77.0_ha49f97"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-beam-feedstock/pull/106",
   "id": 4776615908,
   "labels": [],
-  "last_fetched": "2026-10-07T21:28:30.759375",
+  "last_fetched": "2026-10-08T06:05:41.656509",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T06:03:54Z",
   "number": 106,
-  "state": "open",
-  "updated_at": "2026-10-07T20:34:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T06:03:55Z"
 }

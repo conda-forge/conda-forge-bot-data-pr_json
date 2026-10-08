@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"96524a987f17c613ef152aba91000ecea1b193c553459b3d1d863930ef91167f\"",
+  "Last-Modified": "Thu, 08 Oct 2026 20:03:37 GMT",
   "base": {
     "repo": {
       "name": "conda-forge-tick-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T20:03:32Z",
   "created_at": "2026-10-08T20:00:51Z",
   "draft": false,
   "e_tag": "\"12590b5391885d12da56916faa00b12f8bd49f9d3a226a6a323d8c2e385b0514\"",
   "head": {
-    "ref": "2026.10.29_h079a9b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/conda-forge-tick-feedstock/pull/325",
   "id": 4792130355,
   "labels": [],
-  "last_fetched": "2026-10-08T20:00:52.126109",
+  "last_fetched": "2026-10-08T20:05:19.863169",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T20:03:32Z",
   "number": 325,
-  "state": "open",
-  "updated_at": "2026-10-08T20:00:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T20:03:37Z"
 }

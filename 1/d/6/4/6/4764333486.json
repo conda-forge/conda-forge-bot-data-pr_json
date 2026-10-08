@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"60ccd866da73cc88d99469b82472da0486832453a2cfb7dcca72a2e2685ef659\"",
-  "Last-Modified": "Tue, 06 Oct 2026 20:35:50 GMT",
+  "ETag": "W/\"1a5cad126e45c9ed2c174c1dd9b4a22624e1e5cf726e0f5f1cd47b9603be0a96\"",
+  "Last-Modified": "Thu, 08 Oct 2026 15:26:13 GMT",
   "base": {
     "repo": {
       "name": "getdaft-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T15:26:12Z",
   "created_at": "2026-10-06T20:34:16Z",
   "draft": false,
   "e_tag": "\"e46409eb0d85ffe7626f76e9e5c18e82b2de5cc3ff74ffb39dbe61f7d49c0b41\"",
   "head": {
-    "ref": "0.7.26_h4d010a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/getdaft-feedstock/pull/75",
   "id": 4764333486,
   "labels": [],
-  "last_fetched": "2026-10-06T20:50:17.760020",
+  "last_fetched": "2026-10-08T15:27:51.399472",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T15:26:12Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-06T20:35:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T15:26:13Z"
 }

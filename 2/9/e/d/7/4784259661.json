@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c6181fe8046d937ae396dda9cbe094a1597e02ccadd7704ce4e605b6a79a96d7\"",
-  "Last-Modified": "Thu, 08 Oct 2026 08:52:21 GMT",
+  "ETag": "W/\"037ffcc943641e3d548d5e9b0c842dad1bed2de2d9db078e3558a90a5aeb517d\"",
+  "Last-Modified": "Thu, 08 Oct 2026 11:28:11 GMT",
   "base": {
     "repo": {
       "name": "dex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T11:28:11Z",
   "created_at": "2026-10-08T08:50:40Z",
   "draft": false,
   "e_tag": "\"38dabeae24af988b37c96629abe65a671d3a5653bf062708e4d6debbd5ae9278\"",
   "head": {
-    "ref": "2.46.0_hffaf26"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dex-feedstock/pull/3",
   "id": 4784259661,
   "labels": [],
-  "last_fetched": "2026-10-08T09:00:39.654122",
+  "last_fetched": "2026-10-08T11:29:50.092603",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T11:28:11Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-08T08:52:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T11:28:11Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f76fe837818d77d77c09d05dfd5519863d3126f682201a6ac94130a5d75fd17f\"",
+  "Last-Modified": "Thu, 08 Oct 2026 23:21:32 GMT",
   "base": {
     "repo": {
       "name": "gst-plugins-bad-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T23:21:28Z",
   "created_at": "2026-10-08T23:08:05Z",
   "draft": false,
   "e_tag": "\"8d51c75a5d98c50c2eb708bd78b528f2059bc207a0fb6bf5cce9ade99946eda9\"",
   "head": {
-    "ref": "1.28.8_h9a6aa0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gst-plugins-bad-feedstock/pull/121",
   "id": 4793858785,
   "labels": [],
-  "last_fetched": "2026-10-08T23:08:06.107033",
+  "last_fetched": "2026-10-08T23:22:43.548186",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T23:21:28Z",
   "number": 121,
-  "state": "open",
-  "updated_at": "2026-10-08T23:08:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T23:21:32Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b7e8478ffbce2962e3113c3165189b5b0a47a2e7bfedbf96d46e8acf5288491d\"",
+  "Last-Modified": "Thu, 08 Oct 2026 06:11:09 GMT",
   "base": {
     "repo": {
       "name": "caveman-installer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T06:11:05Z",
   "created_at": "2026-10-08T06:06:48Z",
   "draft": false,
   "e_tag": "\"0272c5516bbf413fdd116fd4912bf6ac96fe1c5b5da4dbe9b7d2de8e9d63fa31\"",
   "head": {
-    "ref": "3.2.0_h1d3fe4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/caveman-installer-feedstock/pull/9",
   "id": 4782579350,
   "labels": [],
-  "last_fetched": "2026-10-08T06:06:49.046575",
+  "last_fetched": "2026-10-08T06:12:44.788347",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T06:11:05Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-08T06:06:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T06:11:09Z"
 }

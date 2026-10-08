@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"03935cdde1ce254214e77ebf516146f1fa62946010df27d3d624595184b22d2f\"",
+  "Last-Modified": "Thu, 08 Oct 2026 10:57:45 GMT",
   "base": {
     "repo": {
       "name": "nomad-parser-plugins-atomistic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T10:57:45Z",
   "created_at": "2026-10-08T10:50:57Z",
   "draft": false,
   "e_tag": "\"33705a244432ceb1ed044b72b692e72188552b1f3a49f07857d5461cfebf90bb\"",
   "head": {
-    "ref": "1.0.14_h472ecf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nomad-parser-plugins-atomistic-feedstock/pull/9",
   "id": 4785622770,
   "labels": [],
-  "last_fetched": "2026-10-08T10:50:58.333546",
+  "last_fetched": "2026-10-08T10:59:24.159132",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T10:57:45Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-08T10:50:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T10:57:45Z"
 }

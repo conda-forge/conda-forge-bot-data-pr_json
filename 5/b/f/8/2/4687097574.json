@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"fc2912c897655ca3942d342602cdf5e84ad3f53d235b978e9c1862bece2a8281\"",
-  "Last-Modified": "Wed, 30 Sep 2026 07:06:55 GMT",
+  "ETag": "W/\"4e3f228e74d08de1b6519a8c1ffa8851c1da1e5b49e1329a1ef01bf9dd43831c\"",
+  "Last-Modified": "Thu, 08 Oct 2026 11:49:36 GMT",
   "base": {
     "repo": {
       "name": "azure-storage-queues-cpp-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/azure-storage-queues-cpp-feedstock/pull/24",
   "id": 4687097574,
-  "labels": [],
-  "last_fetched": "2026-10-07T08:04:38.265029",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5841241765,
+      "name": "automerge",
+      "node_id": "LA_kwDOKGsTjc8AAAABXCpGpQ",
+      "url": "https://api.github.com/repos/conda-forge/azure-storage-queues-cpp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-08T11:51:09.582568",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 24,
   "state": "open",
-  "updated_at": "2026-09-30T07:06:55Z"
+  "updated_at": "2026-10-08T11:49:36Z"
 }

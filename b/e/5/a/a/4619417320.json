@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"ee492fabdb452e6605640a33e7a32be0f39eb97756d114b33a6f33f5278f8d1d\"",
-  "Last-Modified": "Wed, 07 Oct 2026 11:47:33 GMT",
+  "ETag": "W/\"c51df94b5eb5ac4baca67423411d65be78d3fc246b61214e10558e2d06822e01\"",
+  "Last-Modified": "Thu, 08 Oct 2026 03:58:37 GMT",
   "base": {
     "repo": {
       "name": "git-credential-manager-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T03:58:37Z",
   "created_at": "2026-09-23T22:39:46Z",
   "draft": false,
   "e_tag": "\"fc3c905a472040fe9595f68407f6b4ea16cead5211bc6cb3d5800e81c28b9809\"",
   "head": {
-    "ref": "3.0.0_h902baf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/git-credential-manager-feedstock/pull/41",
   "id": 4619417320,
   "labels": [],
-  "last_fetched": "2026-10-07T13:52:24.954563",
+  "last_fetched": "2026-10-08T04:00:09.280886",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T03:58:37Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-07T11:47:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T03:58:37Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"cab10f822060fa892d034a7de5dcf6e547739ad8e14286e20e21360303efc843\"",
-  "Last-Modified": "Thu, 08 Oct 2026 14:35:47 GMT",
+  "ETag": "W/\"675059480b9de7aba5e69c56986f120e360946f517a3bf1cdeabdfe23ee1d63a\"",
+  "Last-Modified": "Thu, 08 Oct 2026 14:38:06 GMT",
   "base": {
     "repo": {
       "name": "pointblank-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T14:38:06Z",
   "created_at": "2026-08-16T04:47:42Z",
   "draft": false,
   "e_tag": "\"7d32a99f3090fdc6141bf284fe40a4592cb6c467597312fd9fa50d04338e86e2\"",
   "head": {
-    "ref": "0.27.0_hf10320"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pointblank-feedstock/pull/44",
   "id": 4288860739,
   "labels": [],
-  "last_fetched": "2026-10-08T14:36:04.728936",
+  "last_fetched": "2026-10-08T14:39:47.271155",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T14:38:06Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-08T14:35:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T14:38:06Z"
 }

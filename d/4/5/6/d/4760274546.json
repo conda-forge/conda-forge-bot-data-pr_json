@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d3f6f457111e5b467e43c15924bcc4bb38dd07240a545a243e135b82e6889b19\"",
-  "Last-Modified": "Tue, 06 Oct 2026 14:38:05 GMT",
+  "ETag": "W/\"6798500407ca36014d355afb6d1f4d52240e0025589d00c1a4f6e89b97c8e98a\"",
+  "Last-Modified": "Thu, 08 Oct 2026 15:37:37 GMT",
   "base": {
     "repo": {
       "name": "iommi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T15:37:37Z",
   "created_at": "2026-10-06T14:34:44Z",
   "draft": false,
   "e_tag": "\"edbbee95cdf0dff95ba6212827c194dca5cd07fb8af2b31c2e9616fab0256e4a\"",
   "head": {
-    "ref": "7.34.0_h38fa71"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/iommi-feedstock/pull/50",
   "id": 4760274546,
   "labels": [],
-  "last_fetched": "2026-10-06T15:48:15.425529",
+  "last_fetched": "2026-10-08T15:39:17.284316",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T15:37:37Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-10-06T14:38:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T15:37:37Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"075997b37143efc26d45fb2a12d2a7def5be6b01264e8e81e255d5e92981caf5\"",
+  "Last-Modified": "Thu, 08 Oct 2026 20:32:45 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-bigtable-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T20:32:45Z",
   "created_at": "2026-10-08T20:09:24Z",
   "draft": false,
   "e_tag": "\"ab598709df049dc4cdb3e1d883811f8d627ceaebc7ec05bfc653ee3b9f20060e\"",
   "head": {
-    "ref": "2.50.0_hff56ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-bigtable-feedstock/pull/86",
   "id": 4792217553,
   "labels": [],
-  "last_fetched": "2026-10-08T20:09:25.980079",
+  "last_fetched": "2026-10-08T20:34:03.538006",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T20:32:45Z",
   "number": 86,
-  "state": "open",
-  "updated_at": "2026-10-08T20:09:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T20:32:45Z"
 }

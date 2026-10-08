@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"03f49bb755ba6dc632e3b681bd2abde03c0ec53b8ba12b18a595f81dd8b24d11\"",
-  "Last-Modified": "Thu, 08 Oct 2026 11:21:05 GMT",
+  "ETag": "W/\"8c8face725da81e5cb37b49d1e5d8f54375191b735f6d7c3f06aab00622546b8\"",
+  "Last-Modified": "Thu, 08 Oct 2026 12:07:12 GMT",
   "base": {
     "repo": {
       "name": "azure-storage-files-shares-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T12:07:12Z",
   "created_at": "2026-10-08T11:19:00Z",
   "draft": false,
   "e_tag": "\"4aaa6018fca1a0513c272de3da38883f92160520f442cfa942c431f195d27b22\"",
   "head": {
-    "ref": "rebuild-azure_core_cpp1164-0-1_habfd3b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/azure-storage-files-shares-cpp-feedstock/pull/33",
   "id": 4785951045,
   "labels": [],
-  "last_fetched": "2026-10-08T11:27:50.433485",
+  "last_fetched": "2026-10-08T12:08:53.971043",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T12:07:12Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-08T11:21:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T12:07:12Z"
 }

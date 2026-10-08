@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e6f1598a096664b8396ca732277afbd3392f5049c79be21d4c27dd646b34cedf\"",
+  "Last-Modified": "Thu, 08 Oct 2026 02:55:00 GMT",
   "base": {
     "repo": {
       "name": "gleam-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T02:54:55Z",
   "created_at": "2026-10-08T02:40:38Z",
   "draft": false,
   "e_tag": "\"3b3d404496d26447fb4e7fc98d28fbaee7f73bcd22ba64a1fd0f16c4ef782329\"",
   "head": {
-    "ref": "1.19.1_h160e04"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gleam-feedstock/pull/29",
   "id": 4781042358,
   "labels": [],
-  "last_fetched": "2026-10-08T02:40:40.001495",
+  "last_fetched": "2026-10-08T02:56:30.153247",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T02:54:55Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-08T02:40:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T02:55:00Z"
 }

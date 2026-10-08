@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"3dd33fdc65976d88c0b1466b2edc8cadd5317344ff44ca791ee7e8f7e547ceb9\"",
-  "Last-Modified": "Thu, 08 Oct 2026 21:26:45 GMT",
+  "ETag": "W/\"6146282d4f6eb2dd68a3be3a49d235e554b8f72d5fd63635f8802448037fe675\"",
+  "Last-Modified": "Thu, 08 Oct 2026 21:46:37 GMT",
   "base": {
     "repo": {
       "name": "minijinja-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T21:46:33Z",
   "created_at": "2026-10-08T17:54:54Z",
   "draft": false,
   "e_tag": "\"45c542cead7969bc77a1d6d2e573abda8875b2c76dad8424d904f86ee6fc0b9b\"",
   "head": {
-    "ref": "3.0.0_h7411bd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/minijinja-feedstock/pull/39",
   "id": 4790779452,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/minijinja-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-08T21:27:24.149671",
+  "last_fetched": "2026-10-08T21:48:13.000925",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T21:46:33Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-10-08T21:26:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T21:46:37Z"
 }

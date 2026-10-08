@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d2c23b8eafdc7cbbbf632393b983d72c8e0df53808802064d85c6766a67881a1\"",
-  "Last-Modified": "Thu, 08 Oct 2026 18:22:33 GMT",
+  "ETag": "W/\"4eaaf9a689114b80240705153a42a4affcea9aaae6c7a494b486bccf4a75cca5\"",
+  "Last-Modified": "Thu, 08 Oct 2026 18:39:20 GMT",
   "base": {
     "repo": {
       "name": "dipy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T18:39:20Z",
   "created_at": "2026-10-01T13:53:47Z",
   "draft": false,
   "e_tag": "\"54ec986ffe6b2f6b077d949852af54bf189b5d0a2d5a74eb63902670e4ea5265\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h6a27ee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dipy-feedstock/pull/67",
   "id": 4704605666,
   "labels": [],
-  "last_fetched": "2026-10-08T18:23:42.320806",
+  "last_fetched": "2026-10-08T18:40:54.250760",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T18:39:20Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-10-08T18:22:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T18:39:20Z"
 }

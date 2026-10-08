@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"9d0a57545ebc2fa88b434c2930c70ccbb543aa6198995c58a1315b7fb1797efc\"",
-  "Last-Modified": "Wed, 29 Jul 2026 05:18:58 GMT",
+  "ETag": "W/\"ca9d92456ae399a856b6fa254ad3d2a29e6de3fba369a38b35bc790355d98849\"",
+  "Last-Modified": "Thu, 08 Oct 2026 21:43:50 GMT",
   "base": {
     "repo": {
       "name": "adios2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T21:43:50Z",
   "created_at": "2026-07-29T05:07:25Z",
   "draft": false,
   "e_tag": "\"cc24bc5abea25fadb0389adc5152668cd407d10b96f3d9da5403742b7478753e\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/adios2-feedstock/pull/151",
   "id": 4157330760,
-  "labels": [],
-  "last_fetched": "2026-10-03T18:07:39.535465",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890790629,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwNzkwNjI5",
+      "url": "https://api.github.com/repos/conda-forge/adios2-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-08T21:43:53.800471",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 151,
-  "state": "open",
-  "updated_at": "2026-07-29T05:18:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T21:43:50Z"
 }

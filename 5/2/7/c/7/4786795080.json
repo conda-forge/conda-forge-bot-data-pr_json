@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"b62232ee2a1925ee8d380ae2866fb0bc0e0f93b558ff1678dce660fb62cba6ec\"",
-  "Last-Modified": "Thu, 08 Oct 2026 12:35:49 GMT",
+  "ETag": "W/\"138bc16087d136ad9256ed6bce2cb769fcacc09bd4ea6256d6e879834ea866f1\"",
+  "Last-Modified": "Thu, 08 Oct 2026 15:12:13 GMT",
   "base": {
     "repo": {
       "name": "foxes-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/foxes-feedstock/pull/90",
   "id": 4786795080,
-  "labels": [],
-  "last_fetched": "2026-10-08T13:04:49.366657",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4855159733,
+      "name": "automerge",
+      "node_id": "LA_kwDOIhryOs8AAAABIWPbtQ",
+      "url": "https://api.github.com/repos/conda-forge/foxes-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-08T15:13:26.708716",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 90,
   "state": "open",
-  "updated_at": "2026-10-08T12:35:49Z"
+  "updated_at": "2026-10-08T15:12:13Z"
 }

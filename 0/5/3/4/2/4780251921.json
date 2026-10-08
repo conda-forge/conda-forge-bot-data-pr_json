@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f5337feab4eca2d21dd104888be8ac8d19f6695dc9204f0a56b6b316ebf6f2c1\"",
+  "Last-Modified": "Thu, 08 Oct 2026 00:50:13 GMT",
   "base": {
     "repo": {
       "name": "dependabot-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T00:50:09Z",
   "created_at": "2026-10-08T00:46:00Z",
   "draft": false,
   "e_tag": "\"1d805a1efca498f0f1aea63fc8d6ada62a6a1a8f6d0ac700d186e301f4e4bd86\"",
   "head": {
-    "ref": "1.94.0_h584f10"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dependabot-cli-feedstock/pull/47",
   "id": 4780251921,
   "labels": [],
-  "last_fetched": "2026-10-08T00:46:01.238180",
+  "last_fetched": "2026-10-08T00:51:55.647359",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T00:50:09Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-10-08T00:46:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T00:50:13Z"
 }

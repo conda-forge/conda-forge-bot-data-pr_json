@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c55e441da0421ccabc29d2aa14fe8d00d9e61c4a3fa4f5f9fc17635f84a3b0c8\"",
+  "Last-Modified": "Thu, 08 Oct 2026 01:33:27 GMT",
   "base": {
     "repo": {
       "name": "azure-monitor-opentelemetry-exporter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T01:33:22Z",
   "created_at": "2026-10-08T01:29:31Z",
   "draft": false,
   "e_tag": "\"17db696118cf9393bf2a99bb9d6459c8674a15b814a8de4f808c448a7b553ae7\"",
   "head": {
-    "ref": "1.0.0b58_habd08a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/azure-monitor-opentelemetry-exporter-feedstock/pull/21",
   "id": 4780541040,
   "labels": [],
-  "last_fetched": "2026-10-08T01:29:32.447333",
+  "last_fetched": "2026-10-08T01:34:30.567933",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T01:33:22Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-08T01:29:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T01:33:27Z"
 }

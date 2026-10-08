@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"e88e23409338b87518fdb2f169adcd0adba2cbbd8a1a3511b0cebd84fe6aeee7\"",
-  "Last-Modified": "Wed, 07 Oct 2026 00:50:24 GMT",
+  "ETag": "W/\"94910cdbb6b6a83b36446dab0a901f97f63900a48deeaad4e310f2cfd8e9b7d4\"",
+  "Last-Modified": "Thu, 08 Oct 2026 20:29:41 GMT",
   "base": {
     "repo": {
       "name": "hf-xet-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/hf-xet-feedstock/pull/41",
   "id": 4766377837,
-  "labels": [],
-  "last_fetched": "2026-10-07T04:33:46.452956",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8620130908,
+      "name": "automerge",
+      "node_id": "LA_kwDOOqsaDs8AAAACAczCXA",
+      "url": "https://api.github.com/repos/conda-forge/hf-xet-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-08T20:29:56.194575",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 41,
   "state": "open",
-  "updated_at": "2026-10-07T00:50:24Z"
+  "updated_at": "2026-10-08T20:29:41Z"
 }

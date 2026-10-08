@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"955b9f0a02379fbb05814a5cdf14e586320703a3f771d7d22da2f654d3ce106b\"",
+  "Last-Modified": "Thu, 08 Oct 2026 15:51:58 GMT",
   "base": {
     "repo": {
       "name": "pyfvs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T15:51:58Z",
   "created_at": "2026-10-08T12:09:27Z",
   "draft": false,
   "e_tag": "\"bd7c43a5a7d9214a2276eb154449f1d29b0cf46009e7658bb50ee707203607ba\"",
   "head": {
-    "ref": "0.3.10_h45fcff"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyfvs-feedstock/pull/4",
   "id": 4786553850,
   "labels": [],
-  "last_fetched": "2026-10-08T12:09:28.142296",
+  "last_fetched": "2026-10-08T15:53:35.665811",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T15:51:58Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-08T12:09:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T15:51:58Z"
 }

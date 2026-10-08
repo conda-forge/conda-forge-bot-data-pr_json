@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"ed375fdac653a74d99a8bb349adb83dc42d9791168f37d8b6090a679bc9aeb4a\"",
+  "Last-Modified": "Thu, 08 Oct 2026 00:33:45 GMT",
   "base": {
     "repo": {
       "name": "peewee-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/peewee-feedstock/pull/133",
   "id": 4779814981,
-  "labels": [],
-  "last_fetched": "2026-10-07T23:42:29.274792",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891094159,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDk0MTU5",
+      "url": "https://api.github.com/repos/conda-forge/peewee-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-08T00:35:34.231474",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 133,
   "state": "open",
-  "updated_at": "2026-10-07T23:42:28Z"
+  "updated_at": "2026-10-08T00:33:45Z"
 }

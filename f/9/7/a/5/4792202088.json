@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"eb8891c0d8bd0b922cdda7ca1d2a3065d3e0af5c999eb101b62c6fcec481dd6f\"",
+  "Last-Modified": "Thu, 08 Oct 2026 20:11:06 GMT",
   "base": {
     "repo": {
       "name": "trame-common-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T20:11:02Z",
   "created_at": "2026-10-08T20:07:54Z",
   "draft": false,
   "e_tag": "\"2d49945d825ef7046d1e7a8374c38b66c22c5049ba0426bae1a66bc008accf61\"",
   "head": {
-    "ref": "1.2.9_hc6e5b8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trame-common-feedstock/pull/16",
   "id": 4792202088,
   "labels": [],
-  "last_fetched": "2026-10-08T20:07:54.977158",
+  "last_fetched": "2026-10-08T20:12:17.723564",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T20:11:02Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-08T20:07:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T20:11:06Z"
 }

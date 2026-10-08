@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"84cce512a36a2b4cbd0d614d052c5a24a6ab5495f934e21341c039119aafabca\"",
+  "Last-Modified": "Thu, 08 Oct 2026 20:14:54 GMT",
   "base": {
     "repo": {
       "name": "lsstdesc-augur-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T20:14:54Z",
   "created_at": "2026-10-08T19:32:06Z",
   "draft": false,
   "e_tag": "\"a2c705767efb317528e2ac3305b7b34d270be027786ddee72b98287184449d79\"",
   "head": {
-    "ref": "1.2.4.1_hc32859"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lsstdesc-augur-feedstock/pull/5",
   "id": 4791831065,
   "labels": [],
-  "last_fetched": "2026-10-08T19:32:06.830543",
+  "last_fetched": "2026-10-08T20:16:49.130430",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T20:14:54Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-08T19:32:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T20:14:54Z"
 }

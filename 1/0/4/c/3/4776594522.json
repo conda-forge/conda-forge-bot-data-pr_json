@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"06516b104b6eb7a4b6feb0c3ef4fa105a0f43e79f2890f1a4f1c06c66ad2205a\"",
-  "Last-Modified": "Wed, 07 Oct 2026 18:12:02 GMT",
+  "ETag": "W/\"339c10e0879ff7d90b4f1e3119e15d451f23318a4620cf804beb7bfd2fd4a474\"",
+  "Last-Modified": "Thu, 08 Oct 2026 15:13:57 GMT",
   "base": {
     "repo": {
       "name": "ariadne-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T15:13:56Z",
   "created_at": "2026-10-07T18:10:21Z",
   "draft": false,
   "e_tag": "\"71feb66f87539839aca428002a87b595d20a9e62d3b8ad0e2baaeac8e120c7e5\"",
   "head": {
-    "ref": "1.1.1_ha4c637"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ariadne-feedstock/pull/31",
   "id": 4776594522,
   "labels": [],
-  "last_fetched": "2026-10-07T18:35:18.885596",
+  "last_fetched": "2026-10-08T15:15:35.917011",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T15:13:56Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-07T18:12:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T15:13:57Z"
 }

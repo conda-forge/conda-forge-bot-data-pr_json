@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"35072bf2760e436a3bb36cf2b11ebbedc3016cc0cee37c1bae3367a05bc50077\"",
-  "Last-Modified": "Thu, 08 Oct 2026 05:08:52 GMT",
+  "ETag": "W/\"27817de50eaf45ba287203c5bdaddec19b651f7ffc500f867a9717c62dc016ad\"",
+  "Last-Modified": "Thu, 08 Oct 2026 14:19:41 GMT",
   "base": {
     "repo": {
       "name": "supabase-pydantic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T14:19:41Z",
   "created_at": "2026-10-08T05:07:19Z",
   "draft": false,
   "e_tag": "\"6df42c92364b1eea372b3c0643ea1014715c2f115991a67890f504c663cd0958\"",
   "head": {
-    "ref": "0.26.28_h251fba"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/supabase-pydantic-feedstock/pull/49",
   "id": 4782090552,
   "labels": [],
-  "last_fetched": "2026-10-08T12:41:34.641297",
+  "last_fetched": "2026-10-08T14:20:51.992979",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T14:19:41Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-08T05:08:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T14:19:41Z"
 }

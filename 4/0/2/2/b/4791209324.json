@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e8556130baddd87bd4f4d85e7874543141191f21e1eb6ba8f0ebc2c5d960e2f6\"",
+  "Last-Modified": "Thu, 08 Oct 2026 19:11:48 GMT",
   "base": {
     "repo": {
       "name": "lsst-resources-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T19:11:48Z",
   "created_at": "2026-10-08T18:34:46Z",
   "draft": false,
   "e_tag": "\"1da0ce13071450a921e1a01849f617366335f76f7218a3e59a67c76815ba34a8\"",
   "head": {
-    "ref": "30.2026.4100_haa9f97"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lsst-resources-feedstock/pull/13",
   "id": 4791209324,
   "labels": [],
-  "last_fetched": "2026-10-08T18:34:47.091987",
+  "last_fetched": "2026-10-08T19:13:26.557270",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T19:11:48Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-08T18:34:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T19:11:48Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"ed8d0973b705a7396c13b98291c5768b61500a974683b08ab8c10d8535f326fe\"",
-  "Last-Modified": "Thu, 08 Oct 2026 03:21:34 GMT",
+  "ETag": "W/\"8d2dcd6d5812bfd0e75c7a2424369588f1586db76eea5cc3bd6bf5ce2b39235a\"",
+  "Last-Modified": "Thu, 08 Oct 2026 13:06:52 GMT",
   "base": {
     "repo": {
       "name": "pandoc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T13:06:52Z",
   "created_at": "2026-10-08T03:20:00Z",
   "draft": false,
   "e_tag": "\"9a63edbdb6ac3ea1b5db10e9e991f19781ecf403f202c2130f3288b784ae7533\"",
   "head": {
-    "ref": "3.12.1_h822dec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pandoc-feedstock/pull/176",
   "id": 4781302842,
   "labels": [],
-  "last_fetched": "2026-10-08T05:29:47.332783",
+  "last_fetched": "2026-10-08T13:08:29.619881",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T13:06:52Z",
   "number": 176,
-  "state": "open",
-  "updated_at": "2026-10-08T03:21:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T13:06:52Z"
 }

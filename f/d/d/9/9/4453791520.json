@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"3405d5a2aa96d0fc303eb7c9eb359c39edd60bdcc00d1c5f61830631d921297e\"",
-  "Last-Modified": "Tue, 29 Sep 2026 18:15:56 GMT",
+  "ETag": "W/\"5bcb6467417e7229d5c8053f6d428259368bc1cfce04ac0a24ac0eea3674b1e6\"",
+  "Last-Modified": "Thu, 08 Oct 2026 12:32:32 GMT",
   "base": {
     "repo": {
       "name": "cel-expr-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T12:32:32Z",
   "created_at": "2026-09-06T00:47:24Z",
   "draft": false,
   "e_tag": "\"22c00394683dbcbe873f8bca067c03e16ba1ddf326e1dbf496ffc66a510472ae\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h561a52"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cel-expr-python-feedstock/pull/12",
   "id": 4453791520,
   "labels": [],
-  "last_fetched": "2026-10-07T08:36:27.341699",
+  "last_fetched": "2026-10-08T12:34:11.272471",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T12:32:32Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-09-29T18:15:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T12:32:32Z"
 }

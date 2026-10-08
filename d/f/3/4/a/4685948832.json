@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"2cffbac3c15e51e25eff30e5203561f599b1b2d6640094b14f940d01a5ef7d5a\"",
-  "Last-Modified": "Wed, 30 Sep 2026 04:51:52 GMT",
+  "ETag": "W/\"c3e4294f156da4438175ffd28079867a3865d75922d41714ecb5919b2cd75429\"",
+  "Last-Modified": "Thu, 08 Oct 2026 16:22:44 GMT",
   "base": {
     "repo": {
       "name": "azure-storage-blobs-cpp-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/azure-storage-blobs-cpp-feedstock/pull/35",
   "id": 4685948832,
-  "labels": [],
-  "last_fetched": "2026-10-07T21:26:23.575983",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5841242029,
+      "name": "automerge",
+      "node_id": "LA_kwDOKGsTq88AAAABXCpHrQ",
+      "url": "https://api.github.com/repos/conda-forge/azure-storage-blobs-cpp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-08T16:24:50.078198",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 35,
   "state": "open",
-  "updated_at": "2026-09-30T04:51:52Z"
+  "updated_at": "2026-10-08T16:22:44Z"
 }

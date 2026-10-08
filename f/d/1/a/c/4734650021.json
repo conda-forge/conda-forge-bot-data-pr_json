@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"bb1a38e748a8bca2f8a023fbc79c588060b713c022bdf6f977a1d27d26b2388e\"",
-  "Last-Modified": "Sun, 04 Oct 2026 13:17:52 GMT",
+  "ETag": "W/\"be4b9fc96e4d727a43ce0199946701509e96eed4bdda30d0819b1aec55a04872\"",
+  "Last-Modified": "Thu, 08 Oct 2026 20:14:17 GMT",
   "base": {
     "repo": {
       "name": "blake3-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/blake3-feedstock/pull/46",
   "id": 4734650021,
-  "labels": [],
-  "last_fetched": "2026-10-05T01:07:43.247393",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3094638541,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMDk0NjM4NTQx",
+      "url": "https://api.github.com/repos/conda-forge/blake3-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-08T20:16:03.185369",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 46,
   "state": "open",
-  "updated_at": "2026-10-04T13:17:52Z"
+  "updated_at": "2026-10-08T20:14:17Z"
 }

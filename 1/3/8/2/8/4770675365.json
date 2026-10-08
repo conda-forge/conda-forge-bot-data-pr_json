@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"f1183c96ea6e9373cd5d26d226c20773dfce516a85210cb3777dc7e57048f0e3\"",
-  "Last-Modified": "Wed, 07 Oct 2026 09:30:57 GMT",
+  "ETag": "W/\"e2001a6646ca36f75c56df821b9af791fb51ebb5168521860ef37586c3a68bd4\"",
+  "Last-Modified": "Thu, 08 Oct 2026 05:25:35 GMT",
   "base": {
     "repo": {
       "name": "commitizen-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/commitizen-feedstock/pull/96",
   "id": 4770675365,
-  "labels": [],
-  "last_fetched": "2026-10-07T14:00:57.278112",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3663448950,
+      "name": "automerge",
+      "node_id": "LA_kwDOGkRTds7aW8t2",
+      "url": "https://api.github.com/repos/conda-forge/commitizen-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-08T05:26:43.936083",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 96,
   "state": "open",
-  "updated_at": "2026-10-07T09:30:57Z"
+  "updated_at": "2026-10-08T05:25:35Z"
 }

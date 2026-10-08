@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c19291f1c48cc95656fdd9e4089b06fb63cbf60f8b16dfe1c8afb171f36ef0b8\"",
-  "Last-Modified": "Tue, 06 Oct 2026 18:12:32 GMT",
+  "ETag": "W/\"cca7d29dd64bd32a90fb02eebfa6380cbca01bbb2d8033e418e97a6db7b3766f\"",
+  "Last-Modified": "Thu, 08 Oct 2026 15:35:30 GMT",
   "base": {
     "repo": {
       "name": "pkg-about-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T15:35:30Z",
   "created_at": "2026-10-06T18:10:42Z",
   "draft": false,
   "e_tag": "\"8c52310be6a338b38e79c40144e58c0b15f983246fb02290039cbf8a58d33a0e\"",
   "head": {
-    "ref": "2.4.6_h3f2a51"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pkg-about-feedstock/pull/45",
   "id": 4762815234,
   "labels": [],
-  "last_fetched": "2026-10-06T23:01:01.330426",
+  "last_fetched": "2026-10-08T15:36:44.099082",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T15:35:30Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-10-06T18:12:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T15:35:30Z"
 }

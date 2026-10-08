@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"f7c7d04a72e56cd9e1919c11cb47640d85802fd1be61d552c838978d1da3b5bb\"",
+  "Last-Modified": "Thu, 08 Oct 2026 16:48:18 GMT",
   "base": {
     "repo": {
       "name": "cachebox-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/cachebox-feedstock/pull/18",
   "id": 4789874120,
-  "labels": [],
-  "last_fetched": "2026-10-08T16:33:12.217065",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10967957653,
+      "name": "automerge",
+      "node_id": "LA_kwDOSfE2zc8AAAACjb3AlQ",
+      "url": "https://api.github.com/repos/conda-forge/cachebox-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-08T16:49:59.749358",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-10-08T16:33:11Z"
+  "updated_at": "2026-10-08T16:48:18Z"
 }

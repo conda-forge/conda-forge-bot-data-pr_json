@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e2ca88939639c6d90955109f2ee79825a355da4e1de6a069ed3350dde175b1a8\"",
+  "Last-Modified": "Thu, 08 Oct 2026 10:38:08 GMT",
   "base": {
     "repo": {
       "name": "tensordict-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T10:38:04Z",
   "created_at": "2026-10-08T10:28:04Z",
   "draft": false,
   "e_tag": "\"1e58bac587bc43fad337c8f99b554d7b15c4cb03d9e5c41e7aca0912d2b272d6\"",
   "head": {
-    "ref": "0.14.3_h00f434"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tensordict-feedstock/pull/60",
   "id": 4785366218,
   "labels": [],
-  "last_fetched": "2026-10-08T10:28:05.005069",
+  "last_fetched": "2026-10-08T10:39:31.166006",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T10:38:04Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-08T10:28:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T10:38:08Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"9f517d129c9e13eb71eaa2a9279810c45a08ad18ac12cdcd6036f89902e09bb9\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"e7b8f7ec3f42a2daf1dc82aaf030b81787ae59a54a1e342f4ad4e37d9ac9cc07\"",
+  "Last-Modified": "Thu, 08 Oct 2026 07:45:48 GMT",
   "base": {
     "repo": {
       "name": "deferrer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T07:45:48Z",
   "created_at": "2026-07-14T08:23:07Z",
   "draft": false,
   "e_tag": "\"a6acff0abee4f256eed661ca010a9c6c7eed7e623a3fd7b3f272b93109e94965\"",
   "head": {
-    "ref": "1.1.1_hd08f53"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deferrer-feedstock/pull/4",
   "id": 4050847782,
   "labels": [],
-  "last_fetched": "2026-10-01T23:58:47.616683",
+  "last_fetched": "2026-10-08T07:47:25.846671",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T07:45:48Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-07-14T08:24:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T07:45:48Z"
 }

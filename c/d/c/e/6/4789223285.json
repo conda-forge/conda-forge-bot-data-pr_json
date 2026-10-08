@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"77371a6f3978174a2da89d32f4db07bc7eef5e3f4894ee657c84142707407267\"",
+  "Last-Modified": "Thu, 08 Oct 2026 15:40:11 GMT",
   "base": {
     "repo": {
       "name": "batchgeneratorsv2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T15:40:08Z",
   "created_at": "2026-10-08T15:37:56Z",
   "draft": false,
   "e_tag": "\"fe58e25885e50436b939f7e8f9f682929b813d03a33dec0fc1a962d5922c755a\"",
   "head": {
-    "ref": "0.3.6_hdf66a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/batchgeneratorsv2-feedstock/pull/11",
   "id": 4789223285,
   "labels": [],
-  "last_fetched": "2026-10-08T15:37:57.769552",
+  "last_fetched": "2026-10-08T15:41:54.269875",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-08T15:40:08Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-08T15:37:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T15:40:11Z"
 }

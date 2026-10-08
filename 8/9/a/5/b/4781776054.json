@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"f5c8bfe0b3aeb8d158342a0affd40b065d39fadb5a1dc6c574972c2871e625ce\"",
-  "Last-Modified": "Thu, 08 Oct 2026 04:29:11 GMT",
+  "ETag": "W/\"9062c369bc1e0adf82e06402a4ab142e6e0e8a9522e7b359f14463cbfa0cea73\"",
+  "Last-Modified": "Thu, 08 Oct 2026 17:16:05 GMT",
   "base": {
     "repo": {
       "name": "git-credential-manager-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T17:16:05Z",
   "created_at": "2026-10-08T04:27:41Z",
   "draft": false,
   "e_tag": "\"62b0b8d1a1e709062a828cea33b1ad9c58ac46ee4d87fafbee924d1d0b845fbb\"",
   "head": {
-    "ref": "3.0.1_h24a0c5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/git-credential-manager-feedstock/pull/43",
   "id": 4781776054,
-  "labels": [],
-  "last_fetched": "2026-10-08T08:40:02.973785",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4451312698,
+      "name": "automerge",
+      "node_id": "LA_kwDOH3IWD88AAAABCVGkOg",
+      "url": "https://api.github.com/repos/conda-forge/git-credential-manager-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-08T17:17:20.926464",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-08T17:16:05Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-10-08T04:29:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T17:16:05Z"
 }

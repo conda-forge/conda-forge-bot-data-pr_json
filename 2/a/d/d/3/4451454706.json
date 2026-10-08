@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"e2025e9695ba2625b15be0b9017446c93de2f6b2ed30cb9865e12ace447d5d85\"",
-  "Last-Modified": "Sat, 05 Sep 2026 15:41:51 GMT",
+  "ETag": "W/\"7ec559465fae1541c4da556e3a471ac040d0d8902b656de8d9a1b129ec2639ec\"",
+  "Last-Modified": "Thu, 08 Oct 2026 10:58:30 GMT",
   "base": {
     "repo": {
       "name": "flux-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-08T10:58:30Z",
   "created_at": "2026-09-05T15:39:20Z",
   "draft": false,
   "e_tag": "\"b49dfa69cc790b86c9ce8a7244c2e9dd77d7bb572b1b6b7bd8e5fcb75d05d90e\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/flux-core-feedstock/pull/125",
   "id": 4451454706,
-  "labels": [],
-  "last_fetched": "2026-10-04T14:21:18.716733",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 5410255890,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOJZAKiM8AAAABQnn0Eg",
+      "url": "https://api.github.com/repos/conda-forge/flux-core-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-08T10:58:33.863250",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 125,
-  "state": "open",
-  "updated_at": "2026-09-05T15:41:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-08T10:58:30Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"599d1abc091e64313383c9f1dd4927f6a0e5bf950ed72aa3a1320c43d8591fb7\"",
-  "Last-Modified": "Fri, 09 Oct 2026 04:59:00 GMT",
+  "ETag": "W/\"f716f8abb3ce46476de54de62edebbeff348369e54034fc1642cf1877f94c498\"",
+  "Last-Modified": "Fri, 09 Oct 2026 15:33:06 GMT",
   "base": {
     "repo": {
       "name": "vocalpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T15:33:05Z",
   "created_at": "2026-10-09T04:57:04Z",
   "draft": false,
   "e_tag": "\"bd94c40841033af78d8f2ff5772481c172a146ed0ebd30d63814dd93618c3c6c\"",
   "head": {
-    "ref": "0.11.1_heb002e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vocalpy-feedstock/pull/20",
   "id": 4796167649,
   "labels": [],
-  "last_fetched": "2026-10-09T07:48:36.466991",
+  "last_fetched": "2026-10-09T15:34:45.343750",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T15:33:05Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-09T04:59:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T15:33:06Z"
 }

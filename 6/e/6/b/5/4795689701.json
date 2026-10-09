@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"1681208c7b6396a9908a738d5f4a0a2149e68cd0563e29d53a46edcaaa6ee65f\"",
-  "Last-Modified": "Fri, 09 Oct 2026 15:25:28 GMT",
+  "ETag": "W/\"c7913293e0720269a339a7db3db67f69bac7f8f54652bb28400e4a8f18d35787\"",
+  "Last-Modified": "Fri, 09 Oct 2026 21:44:26 GMT",
   "base": {
     "repo": {
       "name": "sunpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T21:44:26Z",
   "created_at": "2026-10-09T03:42:01Z",
   "draft": false,
   "e_tag": "\"4fb037f24c7ddb6695359904a74d9de5e9acf76161c28b7418d4588495bba28a\"",
   "head": {
-    "ref": "8.0.1_h7c3911"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sunpy-feedstock/pull/206",
   "id": 4795689701,
   "labels": [],
-  "last_fetched": "2026-10-09T16:03:07.232382",
+  "last_fetched": "2026-10-09T21:46:02.521095",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T21:44:25Z",
   "number": 206,
-  "state": "open",
-  "updated_at": "2026-10-09T15:25:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T21:44:26Z"
 }

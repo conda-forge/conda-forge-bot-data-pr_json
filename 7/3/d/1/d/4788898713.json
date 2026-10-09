@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"441849f53e86f98977b76a65cf22033c0059187b0a580ae2ee54f96bbf6b738d\"",
-  "Last-Modified": "Thu, 08 Oct 2026 15:14:13 GMT",
+  "ETag": "W/\"a18c707a4a48139562df92d3260c3c74defc39142cb3745e1a80194137c3f3a1\"",
+  "Last-Modified": "Fri, 09 Oct 2026 07:49:35 GMT",
   "base": {
     "repo": {
       "name": "manim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T07:49:34Z",
   "created_at": "2026-10-08T15:12:40Z",
   "draft": false,
   "e_tag": "\"ae94594a4a730663669515a0be50efc8a36b0cd221b7b7d29a866ec5757f9163\"",
   "head": {
-    "ref": "0.22.0_hdfefd4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/manim-feedstock/pull/21",
   "id": 4788898713,
   "labels": [],
-  "last_fetched": "2026-10-08T15:54:56.572446",
+  "last_fetched": "2026-10-09T07:51:54.813036",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T07:49:34Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-08T15:14:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T07:49:35Z"
 }

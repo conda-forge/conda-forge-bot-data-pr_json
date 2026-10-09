@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"29cbab378633ae5763028a2a610e2a8198eeb1e47cd9d70c45bf5e9890b3d2ef\"",
+  "Last-Modified": "Fri, 09 Oct 2026 13:53:22 GMT",
   "base": {
     "repo": {
       "name": "smg-grpc-proto-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T13:53:22Z",
   "created_at": "2026-10-09T13:51:16Z",
   "draft": false,
   "e_tag": "\"cce98b2b024d14d5f6569e5ccdb66c67ed2b231f68156393b44be64ea4a79a86\"",
   "head": {
-    "ref": "0.4.26_hd1ad7f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/smg-grpc-proto-feedstock/pull/13",
   "id": 4801352744,
   "labels": [],
-  "last_fetched": "2026-10-09T13:51:17.616889",
+  "last_fetched": "2026-10-09T13:54:58.647742",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T13:53:22Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-09T13:51:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T13:53:27Z"
 }

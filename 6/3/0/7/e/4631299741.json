@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"3f904f767f8313644c542e220afad7aef0178784ebf5629b799c112d53d95cf0\"",
-  "Last-Modified": "Thu, 24 Sep 2026 21:34:02 GMT",
+  "ETag": "W/\"98fbb28d77b34a5581f8f8a54a6332fa6c3c9dbdd012d2bff1b7f1052817a87f\"",
+  "Last-Modified": "Fri, 09 Oct 2026 10:46:49 GMT",
   "base": {
     "repo": {
       "name": "fretbursts-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T10:46:48Z",
   "created_at": "2026-09-24T21:32:07Z",
   "draft": false,
   "e_tag": "\"38d82f173ef4f4924112eac6828971f63d7238e4343fc22ea6605ec4f8a28291\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h098bb4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fretbursts-feedstock/pull/41",
   "id": 4631299741,
   "labels": [],
-  "last_fetched": "2026-10-02T08:05:39.738368",
+  "last_fetched": "2026-10-09T10:48:02.110374",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T10:46:48Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-09-24T21:34:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T10:46:49Z"
 }

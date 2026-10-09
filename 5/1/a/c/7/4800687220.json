@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"5081dad400c66f6ade14eff646eacf7372732005d4f6485ede77b5eca6e09895\"",
-  "Last-Modified": "Fri, 09 Oct 2026 13:08:29 GMT",
+  "ETag": "W/\"aa1b006221e3d009d02b76a142c749bf6b051fec7bac2fe2ccc5aad073496837\"",
+  "Last-Modified": "Fri, 09 Oct 2026 13:11:20 GMT",
   "base": {
     "repo": {
       "name": "pypdf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T13:11:15Z",
   "created_at": "2026-10-09T12:54:41Z",
   "draft": false,
   "e_tag": "\"a736311d0a072596d11d9cbb7f1118ee0b81f81be4e3b5db93cb1b0369d926ac\"",
   "head": {
-    "ref": "6.20.0_h99c971"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pypdf-feedstock/pull/132",
   "id": 4800687220,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/pypdf-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-09T13:09:55.632960",
+  "last_fetched": "2026-10-09T13:12:36.487937",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T13:11:15Z",
   "number": 132,
-  "state": "open",
-  "updated_at": "2026-10-09T13:08:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T13:11:20Z"
 }

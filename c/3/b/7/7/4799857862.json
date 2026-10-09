@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"4f36933b56a03f35e0f68bf420df1615938fccbc2ba1a286df6888778c06cf01\"",
+  "Last-Modified": "Fri, 09 Oct 2026 11:39:46 GMT",
   "base": {
     "repo": {
       "name": "fluidsim-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T11:39:46Z",
   "created_at": "2026-10-09T11:35:59Z",
   "draft": false,
   "e_tag": "\"5bb4bc2c11bb398d0a3680c37bec8657de5ecea4900d18516d6fbf85442b8748\"",
   "head": {
-    "ref": "26.10.0_he79867"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fluidsim-core-feedstock/pull/29",
   "id": 4799857862,
   "labels": [],
-  "last_fetched": "2026-10-09T11:36:00.188967",
+  "last_fetched": "2026-10-09T11:41:16.371453",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T11:39:46Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-09T11:35:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T11:39:51Z"
 }

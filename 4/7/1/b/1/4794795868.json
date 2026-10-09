@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"90427271a597d708e58f536a08c8001cfa6fe31b29d3f85a5f34065d6e244ac7\"",
+  "Last-Modified": "Fri, 09 Oct 2026 01:33:31 GMT",
   "base": {
     "repo": {
       "name": "kubelogin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T01:33:27Z",
   "created_at": "2026-10-09T01:27:27Z",
   "draft": false,
   "e_tag": "\"2fb421d17df2494ed2c92b6e1fbd20da99da331b1f81927f401d14219b32df7e\"",
   "head": {
-    "ref": "0.2.21_h7cf8df"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kubelogin-feedstock/pull/52",
   "id": 4794795868,
   "labels": [],
-  "last_fetched": "2026-10-09T01:27:28.029866",
+  "last_fetched": "2026-10-09T01:35:02.282415",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T01:33:27Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-10-09T01:27:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T01:33:31Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"bb614c091a818f6b5ee9deaea611ac6fbc71e561d2a5445e5343d9c420858965\"",
-  "Last-Modified": "Fri, 09 Oct 2026 13:50:55 GMT",
+  "ETag": "W/\"f5e3c7adafb126fcfc2b3d9cd456df2412cedb066273b39a347ac6786d542ea1\"",
+  "Last-Modified": "Fri, 09 Oct 2026 19:11:20 GMT",
   "base": {
     "repo": {
       "name": "kustomize-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T19:11:20Z",
   "created_at": "2026-10-09T13:49:28Z",
   "draft": false,
   "e_tag": "\"36bb18b53ed767a1a036840df47cd39643bfdc859bba8b6fbaa956c89fccaaeb\"",
   "head": {
-    "ref": "5.8.3_h59db72"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kustomize-feedstock/pull/14",
   "id": 4801330454,
   "labels": [],
-  "last_fetched": "2026-10-09T13:52:57.112122",
+  "last_fetched": "2026-10-09T19:12:49.600282",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T19:11:20Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-09T13:50:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T19:11:20Z"
 }

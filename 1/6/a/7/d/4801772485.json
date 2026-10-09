@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"2b9acc99a35798981433e443050a39743e46f88a957a29bfbecd8d09f39fcba2\"",
+  "Last-Modified": "Fri, 09 Oct 2026 14:29:12 GMT",
   "base": {
     "repo": {
       "name": "markuplint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T14:29:12Z",
   "created_at": "2026-10-09T14:26:51Z",
   "draft": false,
   "e_tag": "\"ae551def0b9f4d595811e2c9b675e43af9eb77d3c4fb672a0dde67298c77853d\"",
   "head": {
-    "ref": "5.1.1_hb2f2de"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/markuplint-feedstock/pull/18",
   "id": 4801772485,
   "labels": [],
-  "last_fetched": "2026-10-09T14:26:52.356231",
+  "last_fetched": "2026-10-09T14:30:31.542541",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T14:29:11Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-09T14:26:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T14:29:16Z"
 }

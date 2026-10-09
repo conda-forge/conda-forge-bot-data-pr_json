@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"d0981a71552a066ff004f7cb8edd2d23d2302ee0390f1c1de1395b2b8fae0c62\"",
+  "Last-Modified": "Fri, 09 Oct 2026 06:46:37 GMT",
   "base": {
     "repo": {
       "name": "geolibre-wasm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T06:46:32Z",
   "created_at": "2026-10-09T06:44:26Z",
   "draft": false,
   "e_tag": "\"3de5cd796095ded167176ba4e07e5ef6cf99e82a6bbfb885bc62ef18c1632757\"",
   "head": {
-    "ref": "1.5.9_h4dcf3b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geolibre-wasm-feedstock/pull/30",
   "id": 4797035624,
   "labels": [],
-  "last_fetched": "2026-10-09T06:44:26.891388",
+  "last_fetched": "2026-10-09T06:48:10.657689",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T06:46:32Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-09T06:44:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T06:46:37Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"7a588e85be4a559e87e982ba2859fc7ca0f1b758711cff752506e3d487b8dddd\"",
-  "Last-Modified": "Fri, 09 Oct 2026 09:32:18 GMT",
+  "ETag": "W/\"bc55609e2b011b08c03566af7a85923913aa39342cbaf551473019937c0d3581\"",
+  "Last-Modified": "Fri, 09 Oct 2026 09:32:15 GMT",
   "base": {
     "repo": {
       "name": "tensorboard-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/tensorboard-feedstock/pull/94",
   "id": 3959592351,
-  "labels": [],
-  "last_fetched": "2026-10-09T09:33:20.986903",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-09T09:32:19.022321",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 94,
   "state": "closed",
-  "updated_at": "2026-10-09T09:32:18Z"
+  "updated_at": "2026-10-09T09:32:15Z"
 }

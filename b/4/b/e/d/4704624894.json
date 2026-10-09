@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"999abd4443352883f59a08b58d918ac0fec76e16fa42069eaade02ce4a5f6c1b\"",
-  "Last-Modified": "Fri, 09 Oct 2026 07:45:05 GMT",
+  "ETag": "W/\"d87cdaad32dd792d23da04a72423d26cbc6095b25b5b75ab0425aae1496ac3c5\"",
+  "Last-Modified": "Fri, 09 Oct 2026 10:06:20 GMT",
   "base": {
     "repo": {
       "name": "phonopy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T10:06:20Z",
   "created_at": "2026-10-01T13:55:17Z",
   "draft": false,
   "e_tag": "\"0f28f69a42dd7a2eead64b4c2a4544d7e2f765bc29aeaf0224f68d92beb530af\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hf1fdf7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phonopy-feedstock/pull/261",
   "id": 4704624894,
   "labels": [],
-  "last_fetched": "2026-10-09T07:46:35.218234",
+  "last_fetched": "2026-10-09T10:08:05.478117",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T10:06:20Z",
   "number": 261,
-  "state": "open",
-  "updated_at": "2026-10-09T07:45:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T10:06:20Z"
 }

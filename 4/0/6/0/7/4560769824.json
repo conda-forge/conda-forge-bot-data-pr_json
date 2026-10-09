@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"a7e5701120794899d9b5215a56667baf7698392de853ab99b0b5706c671ff433\"",
-  "Last-Modified": "Fri, 09 Oct 2026 03:08:07 GMT",
+  "ETag": "W/\"5c73c2734d6503b249d39bad3af1a5edfb2cc6a64902ede0e49ccb2997f07fc1\"",
+  "Last-Modified": "Fri, 09 Oct 2026 03:08:05 GMT",
   "base": {
     "repo": {
       "name": "tensordict-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/tensordict-feedstock/pull/59",
   "id": 4560769824,
-  "labels": [],
-  "last_fetched": "2026-10-09T03:09:51.544984",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-09T03:08:07.547393",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 59,
   "state": "closed",
-  "updated_at": "2026-10-09T03:08:07Z"
+  "updated_at": "2026-10-09T03:08:05Z"
 }

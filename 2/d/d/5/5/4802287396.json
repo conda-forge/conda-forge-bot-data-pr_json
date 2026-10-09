@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"79e4d67780decd5d5e8f57fa9b8c917e1e6d9d86b09411631fe7dabd26550cad\"",
+  "Last-Modified": "Fri, 09 Oct 2026 15:15:03 GMT",
   "base": {
     "repo": {
       "name": "r-ggfun-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T15:14:59Z",
   "created_at": "2026-10-09T15:11:13Z",
   "draft": false,
   "e_tag": "\"eae486c5665a32c8d191126068d7575d99f9c66a697ce1deae1f8a99665e85ca\"",
   "head": {
-    "ref": "0.2.2_hb3add2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-ggfun-feedstock/pull/22",
   "id": 4802287396,
   "labels": [],
-  "last_fetched": "2026-10-09T15:11:14.501448",
+  "last_fetched": "2026-10-09T15:16:36.006795",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T15:14:59Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-09T15:11:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T15:15:03Z"
 }

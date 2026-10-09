@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"31b538dd989bae74dbef11d4ae3befcb675bebb58138fc3cebf08b54a0c3aaf5\"",
+  "Last-Modified": "Fri, 09 Oct 2026 13:20:23 GMT",
   "base": {
     "repo": {
       "name": "fractal-task-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T13:20:23Z",
   "created_at": "2026-10-09T13:16:39Z",
   "draft": false,
   "e_tag": "\"b1d4b798ac2b0f831794793e004d8772739d0b1f680a056b8655fdcb3d924059\"",
   "head": {
-    "ref": "0.5.1_hb0038e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fractal-task-tools-feedstock/pull/19",
   "id": 4800933343,
   "labels": [],
-  "last_fetched": "2026-10-09T13:16:40.295090",
+  "last_fetched": "2026-10-09T13:21:56.030109",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T13:20:23Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-09T13:16:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T13:20:27Z"
 }

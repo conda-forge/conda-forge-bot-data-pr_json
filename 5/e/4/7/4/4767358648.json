@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"cd33cceb4d0ef1c0b0a49b13c7fa10884491b41d082fc458ec845e562aeee088\"",
-  "Last-Modified": "Wed, 07 Oct 2026 03:02:54 GMT",
+  "ETag": "W/\"0a3cbd9b2e2590fbb5e917541949499c24e5f83bd6c22abb60457396195751d8\"",
+  "Last-Modified": "Fri, 09 Oct 2026 23:26:37 GMT",
   "base": {
     "repo": {
       "name": "iniconfig-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T23:26:37Z",
   "created_at": "2026-10-07T03:01:26Z",
   "draft": false,
   "e_tag": "\"7d02369c77011d7c4549c540c7428615955a0ada160c1167c6e2f21a30fa4edc\"",
   "head": {
-    "ref": "2.3.1_h79fb77"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/iniconfig-feedstock/pull/9",
   "id": 4767358648,
   "labels": [],
-  "last_fetched": "2026-10-07T03:08:47.463626",
+  "last_fetched": "2026-10-09T23:28:14.443130",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T23:26:37Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-07T03:02:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T23:26:37Z"
 }

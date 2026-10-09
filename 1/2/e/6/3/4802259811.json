@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"fd6f971da6219bf4312fd7a66155e4147ee00891a2b58042a2c1e46fd2af9270\"",
+  "Last-Modified": "Fri, 09 Oct 2026 15:21:16 GMT",
   "base": {
     "repo": {
       "name": "docker-credential-helpers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T15:21:11Z",
   "created_at": "2026-10-09T15:08:50Z",
   "draft": false,
   "e_tag": "\"03744f140e6634a7ef33e25d6ede8661b499144ab1d22eb15d28299af2fcaef1\"",
   "head": {
-    "ref": "0.9.10_h7be67b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/docker-credential-helpers-feedstock/pull/14",
   "id": 4802259811,
   "labels": [],
-  "last_fetched": "2026-10-09T15:08:51.196755",
+  "last_fetched": "2026-10-09T15:22:25.314218",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T15:21:11Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-09T15:08:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T15:21:16Z"
 }

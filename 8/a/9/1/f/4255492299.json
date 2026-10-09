@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"ed32716b8947333ba841551ebfd2cdff1ed84cc738774e78b7044e7fe67ed1d7\"",
-  "Last-Modified": "Fri, 09 Oct 2026 03:57:59 GMT",
+  "ETag": "W/\"6d46dff5a451a1db4f3e2dac3c92a11aa03b7429b1bbd76188198c9277494c92\"",
+  "Last-Modified": "Fri, 09 Oct 2026 03:57:57 GMT",
   "base": {
     "repo": {
       "name": "openpnm-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/openpnm-feedstock/pull/40",
   "id": 4255492299,
-  "labels": [],
-  "last_fetched": "2026-10-09T03:59:37.930487",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-09T03:57:59.675069",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 40,
   "state": "closed",
-  "updated_at": "2026-10-09T03:57:59Z"
+  "updated_at": "2026-10-09T03:57:57Z"
 }

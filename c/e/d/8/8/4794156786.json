@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5b0dc3f18847876af5aa0f3d4a16bc41b979c30a8974de22cad8e48421c25684\"",
+  "Last-Modified": "Fri, 09 Oct 2026 00:02:45 GMT",
   "base": {
     "repo": {
       "name": "gz-rendering-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T00:02:42Z",
   "created_at": "2026-10-08T23:49:13Z",
   "draft": false,
   "e_tag": "\"443a7d59f5fa31994bb7545f6f781df94dd774befb91aa0ef6da7d2d27716c4d\"",
   "head": {
-    "ref": "10.1.0_h25294e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-rendering-feedstock/pull/51",
   "id": 4794156786,
   "labels": [],
-  "last_fetched": "2026-10-08T23:49:14.829416",
+  "last_fetched": "2026-10-09T00:04:22.405985",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T00:02:42Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-08T23:49:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T00:02:45Z"
 }

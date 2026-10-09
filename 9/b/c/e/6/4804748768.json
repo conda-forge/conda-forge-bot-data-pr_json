@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f21460e493a86c7aa0319f0db8e56f2d9739058c436821e2771b5fa33df1a0f8\"",
+  "Last-Modified": "Fri, 09 Oct 2026 19:17:06 GMT",
   "base": {
     "repo": {
       "name": "dingo-gw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T19:17:05Z",
   "created_at": "2026-10-09T19:08:53Z",
   "draft": false,
   "e_tag": "\"2bfcf2d087ca50bbd2dcf5ad91e356ae95a82e11d8a54bb5c182dcb2209749f5\"",
   "head": {
-    "ref": "0.10.2_h688f8e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dingo-gw-feedstock/pull/44",
   "id": 4804748768,
   "labels": [],
-  "last_fetched": "2026-10-09T19:08:54.359221",
+  "last_fetched": "2026-10-09T19:18:17.070928",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T19:17:05Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-09T19:08:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T19:17:06Z"
 }

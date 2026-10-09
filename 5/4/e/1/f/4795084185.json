@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b00f52850e3cc7698e273335f722172e06261706c07e6a9c13f6a4a437e2ee56\"",
+  "Last-Modified": "Fri, 09 Oct 2026 02:16:01 GMT",
   "base": {
     "repo": {
       "name": "aws-sam-translator-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T02:15:56Z",
   "created_at": "2026-10-09T02:13:48Z",
   "draft": false,
   "e_tag": "\"b31bff3b5e4519e452c525b30aebec475f56cce815b25105fdce5b608f73d0c5\"",
   "head": {
-    "ref": "1.114.0_h676db6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-sam-translator-feedstock/pull/136",
   "id": 4795084185,
   "labels": [],
-  "last_fetched": "2026-10-09T02:13:49.739274",
+  "last_fetched": "2026-10-09T02:17:06.713139",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T02:15:56Z",
   "number": 136,
-  "state": "open",
-  "updated_at": "2026-10-09T02:13:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T02:16:01Z"
 }

@@ -1,26 +1,40 @@
 {
+  "ETag": "W/\"a50f4efdbaa0459fff1a57be547ba2bb60ee0884f126325a4aa16497338c4b56\"",
+  "Last-Modified": "Fri, 09 Oct 2026 14:22:05 GMT",
   "base": {
     "repo": {
       "name": "chatom-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T14:22:04Z",
   "created_at": "2026-10-09T12:52:32Z",
   "draft": false,
   "e_tag": "\"c7821f06ce572edd37c246851a42c82d012b1104093f36bb84bcd74e328ca220\"",
   "head": {
-    "ref": "0.2.1_haf9dfa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/chatom-feedstock/pull/7",
   "id": 4800663700,
-  "labels": [],
-  "last_fetched": "2026-10-09T12:52:33.802099",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10168367039,
+      "name": "automerge",
+      "node_id": "LA_kwDORMD1GM8AAAACXhT3vw",
+      "url": "https://api.github.com/repos/conda-forge/chatom-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-09T14:22:35.473339",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T14:22:04Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-09T12:52:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T14:22:09Z"
 }

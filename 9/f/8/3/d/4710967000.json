@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"aef403c29c7433fe0475a4152ff4f1db2cb8f63b9e6685a47b350f8d6131f179\"",
-  "Last-Modified": "Fri, 09 Oct 2026 08:39:12 GMT",
+  "ETag": "W/\"d7647a897d3cb7d2318304aeef6082a810da2a74d795ffdad112378c6fadc605\"",
+  "Last-Modified": "Fri, 09 Oct 2026 08:39:09 GMT",
   "base": {
     "repo": {
       "name": "maite-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/maite-feedstock/pull/20",
   "id": 4710967000,
-  "labels": [],
-  "last_fetched": "2026-10-09T08:40:19.265621",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-09T08:39:12.568536",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 20,
   "state": "closed",
-  "updated_at": "2026-10-09T08:39:12Z"
+  "updated_at": "2026-10-09T08:39:09Z"
 }

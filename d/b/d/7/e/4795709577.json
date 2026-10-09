@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"951e6aaa4fa74ffeaa740cf23e27d38d12ec004ee8c3901a5c82b2af16c14186\"",
+  "Last-Modified": "Fri, 09 Oct 2026 03:47:25 GMT",
   "base": {
     "repo": {
       "name": "huggingface_hub-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T03:47:21Z",
   "created_at": "2026-10-09T03:45:17Z",
   "draft": false,
   "e_tag": "\"b3d265a2044a622773f5fa460e80b6c68a6f43c1ed9180ef451bc41b65345c36\"",
   "head": {
-    "ref": "2.2.0_h67f7a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/huggingface_hub-feedstock/pull/226",
   "id": 4795709577,
   "labels": [],
-  "last_fetched": "2026-10-09T03:45:18.111258",
+  "last_fetched": "2026-10-09T03:48:58.294819",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T03:47:21Z",
   "number": 226,
-  "state": "open",
-  "updated_at": "2026-10-09T03:45:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T03:47:25Z"
 }

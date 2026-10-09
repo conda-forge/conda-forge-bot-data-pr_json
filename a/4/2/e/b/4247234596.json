@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"9d9629268d48856d1a43d02e497f04ea0843ba74c795057d45c83bd4e94e43a1\"",
-  "Last-Modified": "Fri, 14 Aug 2026 10:14:14 GMT",
+  "ETag": "W/\"2db12b5bd4d47e3829d78537b0a179e64a0f0dbcbdb1eb572f1187c9682d80e5\"",
+  "Last-Modified": "Fri, 09 Oct 2026 15:22:26 GMT",
   "base": {
     "repo": {
       "name": "brainglobe-atlasapi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T15:22:26Z",
   "created_at": "2026-08-10T18:22:59Z",
   "draft": false,
   "e_tag": "\"94393eccc4e2f5e88e87dbf58fa3eaf5e3ca78f6e8505ffe52e1daa5a218c6c6\"",
   "head": {
-    "ref": "3.0.1_h279fd3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/brainglobe-atlasapi-feedstock/pull/23",
   "id": 4247234596,
   "labels": [],
-  "last_fetched": "2026-10-07T02:12:41.915341",
+  "last_fetched": "2026-10-09T15:23:58.978109",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T15:22:26Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-08-14T10:14:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T15:22:26Z"
 }

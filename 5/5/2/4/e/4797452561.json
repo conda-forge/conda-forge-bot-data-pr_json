@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e4a1671e9d91d661a5204f5855babc64576dea3832e1e6002fe68e1782f98f54\"",
+  "Last-Modified": "Fri, 09 Oct 2026 07:30:48 GMT",
   "base": {
     "repo": {
       "name": "emmet-builders-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T07:30:43Z",
   "created_at": "2026-10-09T07:28:34Z",
   "draft": false,
   "e_tag": "\"c7e7b13a8233dba6f9e65f1df0aecd7e7ab2e6712a6eabbf38ed51260a01b7b7\"",
   "head": {
-    "ref": "0.87.3_h560767"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/emmet-builders-feedstock/pull/196",
   "id": 4797452561,
   "labels": [],
-  "last_fetched": "2026-10-09T07:28:35.465094",
+  "last_fetched": "2026-10-09T07:32:27.294410",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T07:30:43Z",
   "number": 196,
-  "state": "open",
-  "updated_at": "2026-10-09T07:28:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T07:30:48Z"
 }

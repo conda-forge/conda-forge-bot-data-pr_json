@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"8d37f5e58a6b7ef15ae72322d4a7e870046e254f80e6ba4364d13e09e68c78a9\"",
-  "Last-Modified": "Sat, 03 Oct 2026 11:46:10 GMT",
+  "ETag": "W/\"908eadc50e003d88159f9d4b099c73f644677355136747769eb59be7992b055b\"",
+  "Last-Modified": "Fri, 09 Oct 2026 02:37:16 GMT",
   "base": {
     "repo": {
       "name": "lotterycn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T02:37:16Z",
   "created_at": "2026-10-03T11:44:35Z",
   "draft": false,
   "e_tag": "\"3f2d7aca798cec29a751690f95763fe2c2a68fd72513976baa8e69bd6e122626\"",
   "head": {
-    "ref": "1.0.0_h5e7c75"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lotterycn-feedstock/pull/2",
   "id": 4726292631,
   "labels": [],
-  "last_fetched": "2026-10-04T17:38:13.678617",
+  "last_fetched": "2026-10-09T02:38:51.102101",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T02:37:16Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-03T11:46:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T02:37:16Z"
 }

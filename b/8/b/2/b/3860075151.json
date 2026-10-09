@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"47dd85c19c38f31b84ade6d6878fecbcfa0be8dc1390f29b76bce19bc38d1c14\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"586fb55025e311ef87cfd53ee029fc7b73d01c8b642c241d92ca4791ec89c8d7\"",
+  "Last-Modified": "Fri, 09 Oct 2026 10:02:03 GMT",
   "base": {
     "repo": {
       "name": "slowapi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T10:02:03Z",
   "created_at": "2026-06-13T13:53:13Z",
   "draft": false,
   "e_tag": "\"a20bd0f207d3be8e3a737653d74064c187482f7d9777669303ff2ab0915bd28b\"",
   "head": {
-    "ref": "0.1.10_h339c1f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/slowapi-feedstock/pull/2",
   "id": 3860075151,
   "labels": [],
-  "last_fetched": "2026-10-06T15:02:07.169119",
+  "last_fetched": "2026-10-09T10:03:18.489010",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T10:02:03Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-06-13T13:54:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T10:02:03Z"
 }

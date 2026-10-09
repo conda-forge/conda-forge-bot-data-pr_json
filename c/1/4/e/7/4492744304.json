@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"f4742f0618089a4efd022085c56e118b9b6db929b437c7b4b49b07263cfe184a\"",
-  "Last-Modified": "Fri, 09 Oct 2026 10:29:43 GMT",
+  "ETag": "W/\"ffeaed1d3b34e403f176e07dd629102e1841cd66526624ec00a337f97926cca8\"",
+  "Last-Modified": "Fri, 09 Oct 2026 10:29:41 GMT",
   "base": {
     "repo": {
       "name": "mypy-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/mypy-feedstock/pull/155",
   "id": 4492744304,
-  "labels": [],
-  "last_fetched": "2026-10-09T10:31:17.249898",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-09T10:29:43.831804",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 155,
   "state": "closed",
-  "updated_at": "2026-10-09T10:29:43Z"
+  "updated_at": "2026-10-09T10:29:41Z"
 }

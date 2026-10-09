@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"3abd63e08fb371b222a4e0499af35c0d93cd131c984f015926f4163bd511b778\"",
-  "Last-Modified": "Fri, 09 Oct 2026 08:49:57 GMT",
+  "ETag": "W/\"c065f66f97f5205af0619e953cd4a7cd50c1e5cbfd5eadac08fe030ead6b0d1c\"",
+  "Last-Modified": "Fri, 09 Oct 2026 09:50:31 GMT",
   "base": {
     "repo": {
       "name": "metomi-rose-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T09:50:31Z",
   "created_at": "2026-10-08T19:00:12Z",
   "draft": false,
   "e_tag": "\"6da87c89ec0ff834ff79ed4c8acb28e483aceb89b0f0a5a19beaedc1f50bfcff\"",
   "head": {
-    "ref": "2.8.0_h7a30e9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/metomi-rose-feedstock/pull/59",
   "id": 4791482753,
   "labels": [],
-  "last_fetched": "2026-10-09T09:00:37.183019",
+  "last_fetched": "2026-10-09T09:51:45.973995",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T09:50:31Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-10-09T08:49:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T09:50:31Z"
 }

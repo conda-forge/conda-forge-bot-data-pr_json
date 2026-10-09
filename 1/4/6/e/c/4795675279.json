@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c3847ce59e50655e2a6f21d0f57cb004994d41eb5d3366b87d9f75ce383da5ab\"",
+  "Last-Modified": "Fri, 09 Oct 2026 03:42:27 GMT",
   "base": {
     "repo": {
       "name": "trl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T03:42:24Z",
   "created_at": "2026-10-09T03:39:37Z",
   "draft": false,
   "e_tag": "\"f8cdf2880b780e397c55694ee76559729602f7c0227a465ddb248a45994d9019\"",
   "head": {
-    "ref": "1.15.0_he1f065"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trl-feedstock/pull/75",
   "id": 4795675279,
   "labels": [],
-  "last_fetched": "2026-10-09T03:39:38.509968",
+  "last_fetched": "2026-10-09T03:43:58.380689",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T03:42:24Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-09T03:39:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T03:42:27Z"
 }

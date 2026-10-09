@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"3554587f27bce1dca0c31988a36745774ce0897d427e0f346a2809f3c1a90ab7\"",
-  "Last-Modified": "Fri, 09 Oct 2026 13:22:38 GMT",
+  "ETag": "W/\"37f89b2dd0ec25171b693b17172c66d306adc718dd672bbc91c76e6c5c9302fc\"",
+  "Last-Modified": "Fri, 09 Oct 2026 13:24:42 GMT",
   "base": {
     "repo": {
       "name": "pyproject-api-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T13:24:38Z",
   "created_at": "2026-10-08T02:31:39Z",
   "draft": false,
   "e_tag": "\"2c34f8360d31e4c73d4ed5c977806e9d36970e3513e9df673ce025cd83a5c227\"",
   "head": {
-    "ref": "1.11.4_h0990ff"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyproject-api-feedstock/pull/20",
   "id": 4780980096,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/pyproject-api-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-09T13:24:12.503126",
+  "last_fetched": "2026-10-09T13:26:36.839854",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T13:24:38Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-09T13:22:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T13:24:42Z"
 }

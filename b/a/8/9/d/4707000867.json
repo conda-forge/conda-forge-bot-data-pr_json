@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6b95b7db80db89c5502a221b1beb006cd9c93ce4150837b2c275084c3563ab4c\"",
-  "Last-Modified": "Thu, 01 Oct 2026 17:10:48 GMT",
+  "ETag": "W/\"e77f3f9c0b5999465c412a591bd62a952d0242f5a69955685e4bc29c43f18cc9\"",
+  "Last-Modified": "Fri, 09 Oct 2026 08:25:47 GMT",
   "base": {
     "repo": {
       "name": "visisipy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T08:25:47Z",
   "created_at": "2026-10-01T17:08:57Z",
   "draft": false,
   "e_tag": "\"ac06dd09e4afde5d59ff2f782efb1ba7e1f9d5060cc0caaf0e02b13e0300074e\"",
   "head": {
-    "ref": "0.4.1_ha6ed77"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/visisipy-feedstock/pull/6",
   "id": 4707000867,
   "labels": [],
-  "last_fetched": "2026-10-09T03:35:44.188972",
+  "last_fetched": "2026-10-09T08:27:30.110177",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T08:25:47Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-01T17:10:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T08:25:47Z"
 }

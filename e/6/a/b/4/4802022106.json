@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d6dc762b6b4a012483a032121c9e05afe801c696865256a37c429a18253ab844\"",
-  "Last-Modified": "Fri, 09 Oct 2026 14:50:03 GMT",
+  "ETag": "W/\"139b61603831a215e7a460e8fc5bf76180ea969292571bf8b6e813b5f5699209\"",
+  "Last-Modified": "Fri, 09 Oct 2026 14:59:24 GMT",
   "base": {
     "repo": {
       "name": "lm_eval-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T14:59:19Z",
   "created_at": "2026-10-09T14:48:25Z",
   "draft": false,
   "e_tag": "\"19450dcba860a2a12bb9113b2bc61cad61d402c88cbe43bdc5844c572930df59\"",
   "head": {
-    "ref": "0.4.12_h20ad10"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lm_eval-feedstock/pull/27",
   "id": 4802022106,
   "labels": [],
-  "last_fetched": "2026-10-09T14:53:53.255492",
+  "last_fetched": "2026-10-09T15:00:48.460944",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T14:59:19Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-09T14:50:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T14:59:24Z"
 }

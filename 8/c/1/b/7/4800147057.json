@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"277a8c149d81b613ee2d69f9e302afbbbe1756373ea725ee9e39ffcdb8a57b1d\"",
-  "Last-Modified": "Fri, 09 Oct 2026 13:25:30 GMT",
+  "ETag": "W/\"a1b8fbbcbdd2969b44c6a1f276f0a71bb84adc0fceb5753b4dffe61644b4df99\"",
+  "Last-Modified": "Fri, 09 Oct 2026 13:27:34 GMT",
   "base": {
     "repo": {
       "name": "python-blockbuster-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T13:27:31Z",
   "created_at": "2026-10-09T12:04:01Z",
   "draft": false,
   "e_tag": "\"127d490c36d87b07ded45fdc6ec34204ad9cda601c679e97cf1c706cb24d0581\"",
   "head": {
-    "ref": "1.5.29_h61367f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-blockbuster-feedstock/pull/6",
   "id": 4800147057,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/python-blockbuster-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-09T13:27:10.571400",
+  "last_fetched": "2026-10-09T13:29:14.537816",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T13:27:30Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-09T13:25:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T13:27:34Z"
 }

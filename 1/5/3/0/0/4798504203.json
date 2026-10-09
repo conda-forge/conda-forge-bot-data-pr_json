@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"fd1d16dd24619907c06596e033cf1c7915453ac2c0680b3c088bd26cf410cf58\"",
+  "Last-Modified": "Fri, 09 Oct 2026 09:23:33 GMT",
   "base": {
     "repo": {
       "name": "rsspolymlp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T09:23:29Z",
   "created_at": "2026-10-09T09:19:28Z",
   "draft": false,
   "e_tag": "\"89be4b7e791e2464e691f54c8b3c854ec96b621fa3f98ff5f60f09291a44ac86\"",
   "head": {
-    "ref": "0.4.1_h5227d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rsspolymlp-feedstock/pull/43",
   "id": 4798504203,
   "labels": [],
-  "last_fetched": "2026-10-09T09:19:28.825163",
+  "last_fetched": "2026-10-09T09:25:10.252181",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T09:23:29Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-10-09T09:19:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T09:23:33Z"
 }

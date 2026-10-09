@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"0b04f9fb380217f7784aefb1f1c3e1c6d03179b166734e272ed12c707f65fefb\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"3cfb9ab8fbc63626157f841d0b8c34b4456fcdd2ec99d0ebeb77689df90c38ff\"",
+  "Last-Modified": "Fri, 09 Oct 2026 11:18:00 GMT",
   "base": {
     "repo": {
       "name": "hanta-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T11:18:00Z",
   "created_at": "2026-04-27T08:37:51Z",
   "draft": false,
   "e_tag": "\"2984b83c9ab5f4a7b5001ceb2e8d3106e831196c2d5e9cc5d3bf6ecf2b71197d\"",
   "head": {
-    "ref": "1.2.1_h17badf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hanta-feedstock/pull/2",
   "id": 3588415702,
   "labels": [],
-  "last_fetched": "2026-10-03T09:48:24.538575",
+  "last_fetched": "2026-10-09T11:19:27.199712",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T11:18:00Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-04-27T08:39:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T11:18:00Z"
 }

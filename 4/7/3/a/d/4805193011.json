@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f3f2ad003a2d41739af98adbdea824d65aee9b26c9d3277e0b3c563d7e74d377\"",
+  "Last-Modified": "Fri, 09 Oct 2026 20:07:56 GMT",
   "base": {
     "repo": {
       "name": "vectorbt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T20:07:51Z",
   "created_at": "2026-10-09T19:53:53Z",
   "draft": false,
   "e_tag": "\"4a5a45f33854cc89e052e2a532503848ba9f44b1cc74c6544a457506356706e7\"",
   "head": {
-    "ref": "1.1.2_hb915cf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vectorbt-feedstock/pull/20",
   "id": 4805193011,
   "labels": [],
-  "last_fetched": "2026-10-09T19:53:53.867418",
+  "last_fetched": "2026-10-09T20:09:08.012939",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T20:07:51Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-09T19:53:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T20:07:56Z"
 }

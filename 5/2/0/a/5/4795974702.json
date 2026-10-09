@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"99156aa0eaffe14f69a505ac672f026283309add69cde4bc38430b6d54147fbc\"",
+  "Last-Modified": "Fri, 09 Oct 2026 04:32:16 GMT",
   "base": {
     "repo": {
       "name": "langextract-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T04:32:11Z",
   "created_at": "2026-10-09T04:28:02Z",
   "draft": false,
   "e_tag": "\"3a5c9d5033d3a65335e0bb04c51cab04f0f131c8f9a7a83cffafbd3c8f977779\"",
   "head": {
-    "ref": "1.7.1_hd057bf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langextract-feedstock/pull/19",
   "id": 4795974702,
   "labels": [],
-  "last_fetched": "2026-10-09T04:28:03.197960",
+  "last_fetched": "2026-10-09T04:33:40.313855",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-09T04:32:11Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-09T04:28:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T04:32:16Z"
 }

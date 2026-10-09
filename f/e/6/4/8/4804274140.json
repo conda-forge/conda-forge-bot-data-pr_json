@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"8d422cafddafd9455e0d5b8cc97b617bc99a1c08e3aa66d0ebc5952d91ae0477\"",
+  "Last-Modified": "Fri, 09 Oct 2026 18:27:28 GMT",
   "base": {
     "repo": {
       "name": "rpptx-split-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/rpptx-split-feedstock/pull/5",
   "id": 4804274140,
-  "labels": [],
-  "last_fetched": "2026-10-09T18:21:17.520034",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12585541316,
+      "name": "automerge",
+      "node_id": "LA_kwDOU_3U_s8AAAAC7igexA",
+      "url": "https://api.github.com/repos/conda-forge/rpptx-split-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-09T18:29:07.829936",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 5,
   "state": "open",
-  "updated_at": "2026-10-09T18:21:16Z"
+  "updated_at": "2026-10-09T18:27:28Z"
 }

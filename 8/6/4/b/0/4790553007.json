@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"1b52c3a9a0baa86c856162ad8ed8a500381418e294e930bd555330929a998e14\"",
-  "Last-Modified": "Thu, 08 Oct 2026 17:35:45 GMT",
+  "ETag": "W/\"6597a66cd5f8cf8e92b02164cf1a3bdfb43b0d3a714919e5750c75d26c397f0c\"",
+  "Last-Modified": "Fri, 09 Oct 2026 07:14:36 GMT",
   "base": {
     "repo": {
       "name": "supervision-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T07:14:36Z",
   "created_at": "2026-10-08T17:33:57Z",
   "draft": false,
   "e_tag": "\"4bb24f50e4bc75f9e56dae99315b5b9c014ea9b0268c384cc48fd22294072d6f\"",
   "head": {
-    "ref": "0.30.9_hc41161"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/supervision-feedstock/pull/36",
   "id": 4790553007,
   "labels": [],
-  "last_fetched": "2026-10-08T20:28:58.361234",
+  "last_fetched": "2026-10-09T07:16:11.772329",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T07:14:35Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-08T17:35:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T07:14:36Z"
 }

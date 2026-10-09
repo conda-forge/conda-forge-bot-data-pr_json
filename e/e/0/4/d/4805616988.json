@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"afbbbb0d2ef633d61455968e1a96c644c750ac2b977a1c31c002783f438d0da2\"",
-  "Last-Modified": "Fri, 09 Oct 2026 20:40:36 GMT",
+  "ETag": "W/\"ad53a1b43017e1473010086b91065c6a76889204521dcba017634f47adc74cc9\"",
+  "Last-Modified": "Fri, 09 Oct 2026 21:10:04 GMT",
   "base": {
     "repo": {
       "name": "atom-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T21:10:04Z",
   "created_at": "2026-10-09T20:39:00Z",
   "draft": false,
   "e_tag": "\"8b3f7a2216dd9a717a466aed849a79f779d32c43a616f87457f04e25f6232cb4\"",
   "head": {
-    "ref": "0.13.0_hdb8bcc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/atom-feedstock/pull/51",
   "id": 4805616988,
   "labels": [],
-  "last_fetched": "2026-10-09T20:52:00.188304",
+  "last_fetched": "2026-10-09T21:11:49.927359",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T21:10:03Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-09T20:40:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T21:10:04Z"
 }

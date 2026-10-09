@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"8d422cafddafd9455e0d5b8cc97b617bc99a1c08e3aa66d0ebc5952d91ae0477\"",
-  "Last-Modified": "Fri, 09 Oct 2026 18:27:28 GMT",
+  "ETag": "W/\"82fc6452ec64f250641c5e18108a8f31a84cb4104f61b67ac915b1b01d18f3a8\"",
+  "Last-Modified": "Fri, 09 Oct 2026 18:52:42 GMT",
   "base": {
     "repo": {
       "name": "rpptx-split-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-09T18:52:37Z",
   "created_at": "2026-10-09T18:21:16Z",
   "draft": false,
   "e_tag": "\"daec3452650b2c727fcabf1c796eb895a1f88a4bd5f44bfb09d0f107d9cd6266\"",
   "head": {
-    "ref": "0.14.0_hff21dc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rpptx-split-feedstock/pull/5",
   "id": 4804274140,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/rpptx-split-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-09T18:29:07.829936",
+  "last_fetched": "2026-10-09T18:54:17.822092",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-09T18:52:37Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-09T18:27:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-09T18:52:42Z"
 }

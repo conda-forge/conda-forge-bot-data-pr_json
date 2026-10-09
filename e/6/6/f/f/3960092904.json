@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"8390c6af4e2d9ba181034531e88c26d8ce53d60fa00563e2e74ba9b8c2aa02e2\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"11c632259cb4de20e60df8df151f203768eac56246216927ced3dda4e7b86f6d\"",
+  "Last-Modified": "Fri, 09 Oct 2026 09:48:40 GMT",
   "base": {
     "repo": {
       "name": "calchep-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/calchep-feedstock/pull/2",
   "id": 3960092904,
-  "labels": [],
-  "last_fetched": "2026-10-05T11:02:04.474053",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11372796467,
+      "name": "automerge",
+      "node_id": "LA_kwDOTI6dbc8AAAACpd8aMw",
+      "url": "https://api.github.com/repos/conda-forge/calchep-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-09T09:50:18.888986",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 2,
   "state": "open",
-  "updated_at": "2026-06-30T06:09:12Z"
+  "updated_at": "2026-10-09T09:48:40Z"
 }

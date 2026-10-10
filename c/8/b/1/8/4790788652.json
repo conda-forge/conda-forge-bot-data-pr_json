@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4992c07d295e6bcdf33d2dfe07587d8ee0c0aadb462b1130e238c8c60d2d13fd\"",
-  "Last-Modified": "Fri, 09 Oct 2026 00:47:02 GMT",
+  "ETag": "W/\"4712a1df9cce3ddce27d94fe209ee88b3e13e5c65a0f8acba93fb932ec5b4935\"",
+  "Last-Modified": "Sat, 10 Oct 2026 12:23:59 GMT",
   "base": {
     "repo": {
       "name": "gst-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T12:23:59Z",
   "created_at": "2026-10-08T17:55:46Z",
   "draft": false,
   "e_tag": "\"9855722059c63a7d464120ef00fa9c0245b4e5522e9a0c775b1efa5e4c2b64d7\"",
   "head": {
-    "ref": "1.28.8_hcc6fec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gst-python-feedstock/pull/110",
   "id": 4790788652,
   "labels": [],
-  "last_fetched": "2026-10-09T01:50:01.554913",
+  "last_fetched": "2026-10-10T12:25:44.167149",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T12:23:59Z",
   "number": 110,
-  "state": "open",
-  "updated_at": "2026-10-09T00:47:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T12:23:59Z"
 }

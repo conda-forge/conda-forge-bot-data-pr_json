@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"916dd9bfc8373b1303c76d469b0c187bc2bb0b810f2e63857dd98224cc903d7f\"",
-  "Last-Modified": "Sat, 10 Oct 2026 03:39:01 GMT",
+  "ETag": "W/\"702efa077e28954ef77f15e5b5432239491a31e7988d6875be69c0dc44ece4a4\"",
+  "Last-Modified": "Sat, 10 Oct 2026 13:18:48 GMT",
   "base": {
     "repo": {
       "name": "ffn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T13:18:44Z",
   "created_at": "2026-10-10T03:35:58Z",
   "draft": false,
   "e_tag": "\"4a36d853485bba82524a12f70599bed46bc63e791d26b6988b64824f49c3cca4\"",
   "head": {
-    "ref": "1.4.0_hab920a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ffn-feedstock/pull/22",
   "id": 4808413424,
-  "labels": [],
-  "last_fetched": "2026-10-10T04:52:00.755689",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2937644430,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyOTM3NjQ0NDMw",
+      "url": "https://api.github.com/repos/conda-forge/ffn-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-10T13:19:48.335204",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T13:18:44Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-10T03:39:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T13:18:48Z"
 }

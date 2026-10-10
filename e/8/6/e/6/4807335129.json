@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"aa313260625fa9b02ec80e74664e513c65e4aa974c40e2c097103ddcac1b382c\"",
+  "Last-Modified": "Sat, 10 Oct 2026 00:35:25 GMT",
   "base": {
     "repo": {
       "name": "pycparser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T00:35:25Z",
   "created_at": "2026-10-10T00:31:44Z",
   "draft": false,
   "e_tag": "\"de440d6a8141c6fc66c202805e5013886bf66c33572db4e9cc0639e5175c8084\"",
   "head": {
-    "ref": "3.11_h72ad12"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pycparser-feedstock/pull/24",
   "id": 4807335129,
   "labels": [],
-  "last_fetched": "2026-10-10T00:31:45.332808",
+  "last_fetched": "2026-10-10T00:36:58.814884",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-10T00:35:25Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-10T00:31:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T00:35:25Z"
 }

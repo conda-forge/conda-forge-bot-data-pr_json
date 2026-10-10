@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"ebb93af2233dfe9c52e5366bb33d75684f8a01a7a2220f5a161d6473c73217c6\"",
+  "Last-Modified": "Sat, 10 Oct 2026 16:38:34 GMT",
   "base": {
     "repo": {
       "name": "bt-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/bt-feedstock/pull/24",
   "id": 4812778028,
-  "labels": [],
-  "last_fetched": "2026-10-10T16:36:21.720588",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2940429095,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyOTQwNDI5MDk1",
+      "url": "https://api.github.com/repos/conda-forge/bt-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-10T16:40:07.554856",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 24,
   "state": "open",
-  "updated_at": "2026-10-10T16:36:20Z"
+  "updated_at": "2026-10-10T16:38:34Z"
 }

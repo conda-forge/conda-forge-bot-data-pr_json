@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"133dd9b74bed69826cf07c0b8ec12f8c094b2efaf9188a57ae8db6b85fef92d9\"",
+  "Last-Modified": "Sat, 10 Oct 2026 19:22:15 GMT",
   "base": {
     "repo": {
       "name": "stylua-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T19:21:02Z",
   "created_at": "2026-10-10T19:15:12Z",
   "draft": false,
   "e_tag": "\"a84905e1ecd277d62982ed3a25ea7d9c7739cff39b049e5af2064a2b8d218cdb\"",
   "head": {
-    "ref": "2.6.0_h943e76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/stylua-feedstock/pull/12",
   "id": 4813774236,
   "labels": [],
-  "last_fetched": "2026-10-10T19:15:12.647507",
+  "last_fetched": "2026-10-10T19:22:41.619586",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-10T19:21:02Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-10T19:15:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T19:22:15Z"
 }

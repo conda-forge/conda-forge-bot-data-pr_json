@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"4160a01ba4508c49a5eadcf378c25ab8fd273a1961050ee3abb8772695f47ccc\"",
+  "Last-Modified": "Sat, 10 Oct 2026 20:07:50 GMT",
   "base": {
     "repo": {
       "name": "fsautocomplete-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T20:07:46Z",
   "created_at": "2026-10-10T20:04:30Z",
   "draft": false,
   "e_tag": "\"655a0f5e86eb83c2aa5aedb94098c2d1aba98fe728e1ee76c2a17e03cf657ea1\"",
   "head": {
-    "ref": "0.85.2_h6a3498"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fsautocomplete-feedstock/pull/8",
   "id": 4814077624,
   "labels": [],
-  "last_fetched": "2026-10-10T20:04:31.261445",
+  "last_fetched": "2026-10-10T20:09:28.646077",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-10T20:07:46Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-10T20:04:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T20:07:50Z"
 }

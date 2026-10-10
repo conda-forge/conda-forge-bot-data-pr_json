@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"fdab7805b85de6ffbe205b21c6f24a5ea64d5f39881c9f26dd7b193bf8cc3986\"",
-  "Last-Modified": "Fri, 09 Oct 2026 08:24:30 GMT",
+  "ETag": "W/\"fb9f90c844e50a8e627a4760aa765d6fc9df38a4bc1fd9f2fe06c71c20fd84d9\"",
+  "Last-Modified": "Sat, 10 Oct 2026 13:13:45 GMT",
   "base": {
     "repo": {
       "name": "onnxruntime-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/onnxruntime-feedstock/pull/214",
   "id": 4797957099,
-  "labels": [],
-  "last_fetched": "2026-10-09T09:35:47.951447",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2972458096,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyOTcyNDU4MDk2",
+      "url": "https://api.github.com/repos/conda-forge/onnxruntime-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-10T13:15:26.514257",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 214,
   "state": "open",
-  "updated_at": "2026-10-09T08:24:30Z"
+  "updated_at": "2026-10-10T13:13:45Z"
 }

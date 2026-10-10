@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"696480343fe4518290c568319054edeed82e47a3e1f0a2a19b60520ccdb92ae3\"",
-  "Last-Modified": "Sat, 10 Oct 2026 01:25:45 GMT",
+  "ETag": "W/\"bf90b86792b5a16db47bfe83742135f9a350eb531dd48901da2c8ba32887d390\"",
+  "Last-Modified": "Sat, 10 Oct 2026 14:19:09 GMT",
   "base": {
     "repo": {
       "name": "imagecodecs-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/imagecodecs-feedstock/pull/169",
   "id": 4807194394,
-  "labels": [],
-  "last_fetched": "2026-10-10T05:59:47.223922",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2104217308,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMTA0MjE3MzA4",
+      "url": "https://api.github.com/repos/conda-forge/imagecodecs-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-10T14:20:49.957408",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 169,
   "state": "open",
-  "updated_at": "2026-10-10T01:25:45Z"
+  "updated_at": "2026-10-10T14:19:09Z"
 }

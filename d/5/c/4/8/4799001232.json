@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"3b769e641f9ef093a095779cbdc32914699430335ce4ad5dec782afb02fcb725\"",
-  "Last-Modified": "Fri, 09 Oct 2026 10:11:18 GMT",
+  "ETag": "W/\"5014597e9dbdf4569d9e7fb9770e8dc646f2cade5bf4a7e58c593bf069a0e2a0\"",
+  "Last-Modified": "Sat, 10 Oct 2026 05:51:31 GMT",
   "base": {
     "repo": {
       "name": "tokenizers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T05:51:31Z",
   "created_at": "2026-10-09T10:09:29Z",
   "draft": false,
   "e_tag": "\"46370f3e2fca652f217768d3cd1534ff41de1c48d66eb84da84851d277cc0cdf\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/tokenizers-feedstock/pull/89",
   "id": 4799001232,
-  "labels": [],
-  "last_fetched": "2026-10-09T19:23:07.307689",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 2217724488,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwyMjE3NzI0NDg4",
+      "url": "https://api.github.com/repos/conda-forge/tokenizers-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-10T05:51:33.221132",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-10-09T10:11:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T05:51:31Z"
 }

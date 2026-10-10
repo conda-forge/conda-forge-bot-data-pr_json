@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a705d49bdb19c90803e5cfcf639b8414f32eebdca674cfae65352d4e8163e2d2\"",
-  "Last-Modified": "Sat, 10 Oct 2026 04:09:00 GMT",
+  "ETag": "W/\"b25e9f213778819ad7ab2a167be3b126208fafd7ca7f8da3e64e494dd7c4e1cb\"",
+  "Last-Modified": "Sat, 10 Oct 2026 05:49:40 GMT",
   "base": {
     "repo": {
       "name": "tokenizers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T05:49:39Z",
   "created_at": "2026-09-03T10:13:15Z",
   "draft": false,
   "e_tag": "\"81a0a136ef098ba8ddfedba0181a9cb0bf6bc5ac9938c7671b7cb29a58a4daff\"",
   "head": {
-    "ref": "0.23.2_h34fb98"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tokenizers-feedstock/pull/88",
   "id": 4431698168,
   "labels": [],
-  "last_fetched": "2026-10-10T04:10:27.678374",
+  "last_fetched": "2026-10-10T05:51:23.820928",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T05:49:39Z",
   "number": 88,
-  "state": "open",
-  "updated_at": "2026-10-10T04:09:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T05:49:40Z"
 }

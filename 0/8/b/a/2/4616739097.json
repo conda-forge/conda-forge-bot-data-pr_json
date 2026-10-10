@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"bf0fa848de1abe42aee59e40fc8a5125291715ad85d6d1769b3a27f98834ca17\"",
-  "Last-Modified": "Wed, 23 Sep 2026 17:43:25 GMT",
+  "ETag": "W/\"fe96f7dee8712ac0319a75a48b993639c9158a680c60628fe70885a9c7c64f59\"",
+  "Last-Modified": "Sat, 10 Oct 2026 12:37:07 GMT",
   "base": {
     "repo": {
       "name": "snappy-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/snappy-feedstock/pull/45",
   "id": 4616739097,
-  "labels": [],
-  "last_fetched": "2026-10-08T02:49:53.185260",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891405569,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDA1NTY5",
+      "url": "https://api.github.com/repos/conda-forge/snappy-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-10T12:37:47.984424",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 45,
   "state": "open",
-  "updated_at": "2026-09-23T17:43:25Z"
+  "updated_at": "2026-10-10T12:37:07Z"
 }

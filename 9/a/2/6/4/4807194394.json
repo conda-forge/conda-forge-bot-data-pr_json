@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"bf90b86792b5a16db47bfe83742135f9a350eb531dd48901da2c8ba32887d390\"",
-  "Last-Modified": "Sat, 10 Oct 2026 14:19:09 GMT",
+  "ETag": "W/\"7f6a51b5aad487d4937fa767a078740a07d5ac5583131b6d34f50c9ac444d0ba\"",
+  "Last-Modified": "Sat, 10 Oct 2026 15:44:02 GMT",
   "base": {
     "repo": {
       "name": "imagecodecs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T15:44:02Z",
   "created_at": "2026-10-10T00:06:55Z",
   "draft": false,
   "e_tag": "\"80aa9d24fbc34c2720825bc6cb4ec97f8a3fbf74a462ecf46e40b05bc469b3ba\"",
   "head": {
-    "ref": "2026.10.10_h131af7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imagecodecs-feedstock/pull/169",
   "id": 4807194394,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/imagecodecs-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-10T14:20:49.957408",
+  "last_fetched": "2026-10-10T15:45:20.219847",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T15:44:02Z",
   "number": 169,
-  "state": "open",
-  "updated_at": "2026-10-10T14:19:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T15:44:02Z"
 }

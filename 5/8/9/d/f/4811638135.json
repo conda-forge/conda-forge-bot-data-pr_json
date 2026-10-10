@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"36f5d8364af8e327b345ff6adc6d8f673d938cdb9bc8d3acbd63b1c10d299bb3\"",
+  "Last-Modified": "Sat, 10 Oct 2026 13:57:15 GMT",
   "base": {
     "repo": {
       "name": "r-seqnet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T13:57:10Z",
   "created_at": "2026-10-10T13:44:12Z",
   "draft": false,
   "e_tag": "\"56250f77aeb61960392e1bdded4bf9ff19950b34c90f5e9910ecac5070bee4c8\"",
   "head": {
-    "ref": "1.1.4_h5973d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-seqnet-feedstock/pull/5",
   "id": 4811638135,
   "labels": [],
-  "last_fetched": "2026-10-10T13:44:13.197318",
+  "last_fetched": "2026-10-10T13:58:47.611305",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-10T13:57:10Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-10T13:44:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T13:57:15Z"
 }

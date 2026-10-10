@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a9436bd479c3861c6c2b6f004d8f250f30d0cb63da29af72b91c78c321ea769d\"",
-  "Last-Modified": "Sat, 10 Oct 2026 00:16:56 GMT",
+  "ETag": "W/\"a25c1ab5ad3fbbf99e1c10bf92acffdcee92ee334142c5f46c61318c4363bd1e\"",
+  "Last-Modified": "Sat, 10 Oct 2026 22:42:27 GMT",
   "base": {
     "repo": {
       "name": "geventhttpclient-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T22:42:26Z",
   "created_at": "2026-10-10T00:15:25Z",
   "draft": false,
   "e_tag": "\"b29c45770e9a8cf60aaf98c6d6e5422851ce11c89f1b0926389d037852b4e49a\"",
   "head": {
-    "ref": "2.6.1_hb7d827"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geventhttpclient-feedstock/pull/64",
   "id": 4807242030,
   "labels": [],
-  "last_fetched": "2026-10-10T04:52:00.194042",
+  "last_fetched": "2026-10-10T22:44:23.409089",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T22:42:26Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-10-10T00:16:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T22:42:27Z"
 }

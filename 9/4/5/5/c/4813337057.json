@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"25236c42e99d07e1f1b1eeba00958f30f51fa332c8bcc080c8274eab61ecfa89\"",
-  "Last-Modified": "Sat, 10 Oct 2026 18:05:16 GMT",
+  "ETag": "W/\"8235e9466a32759bb32d2db82392b780b8e25c860e0057515fb22eb9e5818039\"",
+  "Last-Modified": "Sat, 10 Oct 2026 20:19:13 GMT",
   "base": {
     "repo": {
       "name": "fluidfoam-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T20:19:13Z",
   "created_at": "2026-10-10T18:03:45Z",
   "draft": false,
   "e_tag": "\"6a521e775b666995ed1e2a82e6a79a9ebe451fdcf1e9d8e2803f0f2dcf650307\"",
   "head": {
-    "ref": "0.3.0_h2941e0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fluidfoam-feedstock/pull/15",
   "id": 4813337057,
   "labels": [],
-  "last_fetched": "2026-10-10T19:22:58.612741",
+  "last_fetched": "2026-10-10T20:20:48.497605",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T20:19:13Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-10T18:05:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T20:19:13Z"
 }

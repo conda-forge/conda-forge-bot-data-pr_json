@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"2bc356932fb9b070e9d9df396e9646244a9bf3fd54ef3f4ba41d09540dfe019b\"",
-  "Last-Modified": "Mon, 05 Oct 2026 09:46:27 GMT",
+  "ETag": "W/\"1441e0b8275218a000ce161951991e567a0d602e76e4e98472b768bb950a5f3d\"",
+  "Last-Modified": "Sat, 10 Oct 2026 18:32:38 GMT",
   "base": {
     "repo": {
       "name": "camber-toolkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T18:32:38Z",
   "created_at": "2026-10-05T09:44:39Z",
   "draft": false,
   "e_tag": "\"26fa5b4fd0f35307370c9fb8bb016a97dc453eb8fb50d374afb82d676c343674\"",
   "head": {
-    "ref": "0.101.0_h87c017"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/camber-toolkit-feedstock/pull/12",
   "id": 4743032090,
   "labels": [],
-  "last_fetched": "2026-10-05T13:10:00.882943",
+  "last_fetched": "2026-10-10T18:34:00.129911",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T18:32:38Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-05T09:46:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T18:32:38Z"
 }

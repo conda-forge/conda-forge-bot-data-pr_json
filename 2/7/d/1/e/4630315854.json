@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"9573d7b770eb075ab1c4db817297cc460cf991930d2920259075f5d042a3c0a0\"",
-  "Last-Modified": "Thu, 24 Sep 2026 19:46:55 GMT",
+  "ETag": "W/\"66733ffb11f840a0077426364e429898186ec2e8d0676b9bc5242501b9045c7f\"",
+  "Last-Modified": "Sat, 10 Oct 2026 08:44:26 GMT",
   "base": {
     "repo": {
       "name": "bayesmbar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T08:44:26Z",
   "created_at": "2026-09-24T19:45:14Z",
   "draft": false,
   "e_tag": "\"2b045700a15cc74f781b82ed17ff36da293541c7ae264f322bbe64dcaa5507f9\"",
   "head": {
-    "ref": "0.1.6_h799704"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bayesmbar-feedstock/pull/7",
   "id": 4630315854,
   "labels": [],
-  "last_fetched": "2026-10-09T05:52:16.333580",
+  "last_fetched": "2026-10-10T08:46:04.224352",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T08:44:26Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-24T19:46:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T08:44:26Z"
 }

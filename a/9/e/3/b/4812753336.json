@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"40478c7a649bb870a8014bab1a93fec3979530fe00676ed387b47afe765c37a6\"",
-  "Last-Modified": "Sat, 10 Oct 2026 16:52:34 GMT",
+  "ETag": "W/\"50628ef203594d3808420c35583f3bdbe4e2ace7733646b6c84d22cf8cbd68cc\"",
+  "Last-Modified": "Sat, 10 Oct 2026 17:32:17 GMT",
   "base": {
     "repo": {
       "name": "datui-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T17:32:13Z",
   "created_at": "2026-10-10T16:32:28Z",
   "draft": false,
   "e_tag": "\"dcbbae731b35a591d28f150a6b31b0e0498758ee175ef96bda9c757b04213822\"",
   "head": {
-    "ref": "0.4.6_hc670df"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/datui-feedstock/pull/17",
   "id": 4812753336,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/datui-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-10T16:54:06.931562",
+  "last_fetched": "2026-10-10T17:33:54.630240",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T17:32:13Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-10T16:52:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T17:32:17Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b565bc01648bf304ea918810707db67a1f559666ca4c1bbc89391922a2607208\"",
+  "Last-Modified": "Sat, 10 Oct 2026 05:17:34 GMT",
   "base": {
     "repo": {
       "name": "django-vite-plugin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T05:17:30Z",
   "created_at": "2026-10-10T05:14:29Z",
   "draft": false,
   "e_tag": "\"022a3fc763430a45b032cc2e27eaf74c736b9fcd299497cc6a3cd1d6bf3e0cff\"",
   "head": {
-    "ref": "5.0.0_h99ce98"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-vite-plugin-feedstock/pull/10",
   "id": 4808914728,
   "labels": [],
-  "last_fetched": "2026-10-10T05:14:30.484643",
+  "last_fetched": "2026-10-10T05:19:33.448334",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-10T05:17:30Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-10T05:14:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T05:17:34Z"
 }

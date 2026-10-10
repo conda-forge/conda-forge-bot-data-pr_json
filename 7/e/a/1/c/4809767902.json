@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"3cc3deb32dc6370a76297b44cda2bf1ed50ed5195f8e8b22a89e1dda14260909\"",
+  "Last-Modified": "Sat, 10 Oct 2026 08:07:51 GMT",
   "base": {
     "repo": {
       "name": "pygad-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T08:07:46Z",
   "created_at": "2026-10-10T08:04:00Z",
   "draft": false,
   "e_tag": "\"6e79544e8b30bd9777ef676e95e94dde0519cb516ebc0ca2e8f2b7cdccda36e6\"",
   "head": {
-    "ref": "3.8.0_hcced4c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pygad-feedstock/pull/22",
   "id": 4809767902,
   "labels": [],
-  "last_fetched": "2026-10-10T08:04:01.043487",
+  "last_fetched": "2026-10-10T08:09:22.819502",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-10T08:07:46Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-10T08:04:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T08:07:51Z"
 }

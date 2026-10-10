@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"11d90a035fd73ab29b0774e0a8b7707c75b71ddaddeb5ef0415e0ccbfcb44f97\"",
-  "Last-Modified": "Sat, 26 Sep 2026 22:35:36 GMT",
+  "ETag": "W/\"271f3b5cb36bd9837522d445dcf13dce0b17866625a2eb0dadddf6037340f13f\"",
+  "Last-Modified": "Sat, 10 Oct 2026 13:50:59 GMT",
   "base": {
     "repo": {
       "name": "cleopatra-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T13:50:59Z",
   "created_at": "2026-09-26T22:33:38Z",
   "draft": false,
   "e_tag": "\"fc32e2ce5182f499ccc0a7724cf779083eda4dece53862bd437815515da7a1de\"",
   "head": {
-    "ref": "0.40.0_h2ca82f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cleopatra-feedstock/pull/45",
   "id": 4650130106,
   "labels": [],
-  "last_fetched": "2026-10-04T00:13:02.849044",
+  "last_fetched": "2026-10-10T13:52:05.530713",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T13:50:59Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-09-26T22:35:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T13:50:59Z"
 }

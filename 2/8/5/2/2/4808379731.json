@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a9edfc577d8ba4ae3ba302af741b881bf5ed06734d5b17938eb68a4eaab2ad85\"",
-  "Last-Modified": "Sat, 10 Oct 2026 03:31:02 GMT",
+  "ETag": "W/\"b25db27a068ae157a728adfba5a62f17709e5d53993261c95f574132ed06f9c1\"",
+  "Last-Modified": "Sat, 10 Oct 2026 04:34:06 GMT",
   "base": {
     "repo": {
       "name": "bitarray-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T04:34:06Z",
   "created_at": "2026-10-10T03:29:13Z",
   "draft": false,
   "e_tag": "\"72432b0d286e4ba8c7da094709bc310c18802a022c51ca8fbf207b805b6534d7\"",
   "head": {
-    "ref": "3.12.0_h6de7ab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bitarray-feedstock/pull/129",
   "id": 4808379731,
   "labels": [],
-  "last_fetched": "2026-10-10T03:35:40.406761",
+  "last_fetched": "2026-10-10T04:35:38.327042",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-10T04:34:06Z",
   "number": 129,
-  "state": "open",
-  "updated_at": "2026-10-10T03:31:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T04:34:06Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"fb4b95ecdcd9582fb7b36898b99e149c11ea29dc748fc62bdc41c9e58537d617\"",
-  "Last-Modified": "Fri, 09 Oct 2026 20:35:01 GMT",
+  "ETag": "W/\"ada70ab623e57985b64b25fccf49ba56c6a43ddac2b367bc6e631d253e087ea5\"",
+  "Last-Modified": "Sat, 10 Oct 2026 22:55:05 GMT",
   "base": {
     "repo": {
       "name": "python-uv-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/python-uv-feedstock/pull/251",
   "id": 4805563633,
-  "labels": [],
-  "last_fetched": "2026-10-09T22:00:07.666724",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7833567053,
+      "name": "automerge",
+      "node_id": "LA_kwDONYV2ts8AAAAB0uq_TQ",
+      "url": "https://api.github.com/repos/conda-forge/python-uv-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-10T22:56:35.190089",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 251,
   "state": "open",
-  "updated_at": "2026-10-09T20:35:01Z"
+  "updated_at": "2026-10-10T22:55:05Z"
 }

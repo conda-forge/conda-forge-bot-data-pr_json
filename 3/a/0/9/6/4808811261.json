@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"ab9c6a5a3abf0ae738c025965681c2c092f9907fb5a24684969921d8b7c81669\"",
+  "Last-Modified": "Sat, 10 Oct 2026 06:26:11 GMT",
   "base": {
     "repo": {
       "name": "omegaconf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T06:26:11Z",
   "created_at": "2026-10-10T04:53:52Z",
   "draft": false,
   "e_tag": "\"16634f13445dab29c9326606df5731fd242af236b77824b0328486308f238f3c\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_h8c84d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/omegaconf-feedstock/pull/54",
   "id": 4808811261,
   "labels": [],
-  "last_fetched": "2026-10-10T04:53:53.470503",
+  "last_fetched": "2026-10-10T06:27:51.506727",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-10T06:26:11Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-10T04:53:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T06:26:11Z"
 }

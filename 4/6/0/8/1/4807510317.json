@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"148aed46b2461a8dc6ab55b0a48f16790fa50133b77a572657c2eecf4eb2f4df\"",
+  "Last-Modified": "Sat, 10 Oct 2026 01:14:25 GMT",
   "base": {
     "repo": {
       "name": "rosbags-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T01:14:25Z",
   "created_at": "2026-10-10T01:00:06Z",
   "draft": false,
   "e_tag": "\"19f07644497e75c34abb66e9d79b14cd7c0574baa19999041494ae2a9825e815\"",
   "head": {
-    "ref": "0.11.6_h1ceef2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rosbags-feedstock/pull/21",
   "id": 4807510317,
   "labels": [],
-  "last_fetched": "2026-10-10T01:00:06.882736",
+  "last_fetched": "2026-10-10T01:16:01.781250",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-10T01:14:25Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-10T01:00:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T01:14:25Z"
 }

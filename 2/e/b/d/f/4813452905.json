@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5cf5183e8ba8c3ce6533e5f98d228a8073e194cf00b4128075ba01232571f130\"",
+  "Last-Modified": "Sat, 10 Oct 2026 18:47:29 GMT",
   "base": {
     "repo": {
       "name": "colgrep-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-10T18:47:25Z",
   "created_at": "2026-10-10T18:22:28Z",
   "draft": false,
   "e_tag": "\"dd32a346fcafcf61de32b16c1e953bd2930cc2de2b68aa4b00da8ae462791014\"",
   "head": {
-    "ref": "1.8.5_h605d50"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/colgrep-feedstock/pull/26",
   "id": 4813452905,
   "labels": [],
-  "last_fetched": "2026-10-10T18:22:29.459503",
+  "last_fetched": "2026-10-10T18:48:36.236565",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-10T18:47:25Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-10T18:22:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-10T18:47:29Z"
 }

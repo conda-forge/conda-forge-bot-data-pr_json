@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"37dde1f83f73b91766640073f62fe131c123929ea81887c922cf0cb1affb134d\"",
-  "Last-Modified": "Sun, 06 Sep 2026 04:29:50 GMT",
+  "ETag": "W/\"f50c2172940d2575b82423ffb6453f078716dd15882795d03b5367109e3fd091\"",
+  "Last-Modified": "Sun, 11 Oct 2026 13:25:33 GMT",
   "base": {
     "repo": {
       "name": "peprs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T13:25:33Z",
   "created_at": "2026-09-06T04:28:13Z",
   "draft": false,
   "e_tag": "\"2c2c8f96e58d11e1b9a09eac1bd51bacba71929fd15177f4bc2abeed3dd4655f\"",
   "head": {
-    "ref": "0.2.5_hba17e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/peprs-feedstock/pull/9",
   "id": 4454499911,
   "labels": [],
-  "last_fetched": "2026-10-04T21:42:19.095098",
+  "last_fetched": "2026-10-11T13:27:21.986763",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T13:25:33Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-09-06T04:29:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T13:25:33Z"
 }

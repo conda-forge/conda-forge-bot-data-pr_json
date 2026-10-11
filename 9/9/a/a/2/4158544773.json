@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"56f9cf2d48875debd836a56c835b751f52a667158890171e450cf9ad17bad16d\"",
-  "Last-Modified": "Wed, 29 Jul 2026 08:28:13 GMT",
+  "ETag": "W/\"81075cad1b08b54451e4c2dff6525c7190e2c0bd7d0843d300ae3122b666b6a4\"",
+  "Last-Modified": "Sun, 11 Oct 2026 19:35:35 GMT",
   "base": {
     "repo": {
       "name": "kokkos-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T19:35:35Z",
   "created_at": "2026-07-29T08:21:58Z",
   "draft": false,
   "e_tag": "\"de5adb9fa7af6b6f42557a412d6c27e04687125eba56feb2e77afffbde067e31\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/kokkos-feedstock/pull/67",
   "id": 4158544773,
-  "labels": [],
-  "last_fetched": "2026-10-06T21:00:24.834995",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 4391644207,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOHw2Xv88AAAABBcMsLw",
+      "url": "https://api.github.com/repos/conda-forge/kokkos-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-11T19:35:38.359533",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-07-29T08:28:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T19:35:35Z"
 }

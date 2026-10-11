@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"fa5dcdd82a1101bc6acadf6d722b8da5492c66629eb4b237c2b24f603ea28392\"",
-  "Last-Modified": "Sun, 11 Oct 2026 23:24:40 GMT",
+  "ETag": "W/\"b3c7ef7f686ac9d7013707cf1a6aa491d64cdffb12e24cf548ca2d6f1d535f4e\"",
+  "Last-Modified": "Sun, 11 Oct 2026 23:22:15 GMT",
   "base": {
     "repo": {
       "name": "hatch-js-feedstock"
     }
   },
-  "closed_at": "2026-10-11T23:24:37Z",
+  "closed_at": null,
   "created_at": "2026-10-11T23:22:14Z",
   "draft": false,
   "e_tag": "\"09e31ee691d4c2531c0eea12ea408b7c194536ccc5895511260207fe4faac3d8\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "0.1.4_h6236d4"
   },
   "html_url": "https://github.com/conda-forge/hatch-js-feedstock/pull/7",
   "id": 4823166644,
   "labels": [],
-  "last_fetched": "2026-10-11T23:26:31.943087",
+  "last_fetched": "2026-10-11T23:24:31.334312",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": true,
-  "merged_at": "2026-10-11T23:24:37Z",
+  "mergeable": true,
+  "mergeable_state": "unstable",
+  "merged": false,
+  "merged_at": null,
   "number": 7,
-  "state": "closed",
-  "updated_at": "2026-10-11T23:24:40Z"
+  "state": "open",
+  "updated_at": "2026-10-11T23:23:56Z"
 }

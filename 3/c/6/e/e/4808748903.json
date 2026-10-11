@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"1b859d1f1e7439e86e9a4c2655e51526ae3ece43bd52881ab4919bf1d1f86d11\"",
-  "Last-Modified": "Sat, 10 Oct 2026 04:42:27 GMT",
+  "ETag": "W/\"0d35b364c80d87b94d3d062372a7e77ea88eaeeed4fec658edf9de13e6530ef1\"",
+  "Last-Modified": "Sun, 11 Oct 2026 07:27:13 GMT",
   "base": {
     "repo": {
       "name": "pymssql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T07:27:13Z",
   "created_at": "2026-10-10T04:40:53Z",
   "draft": false,
   "e_tag": "\"a030a9cc1a5fd001318ce8c4bbbcb4e5dc79a2511837dd5a2e3cb3334b372fc1\"",
   "head": {
-    "ref": "2.4.4_h25ef68"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pymssql-feedstock/pull/67",
   "id": 4808748903,
   "labels": [],
-  "last_fetched": "2026-10-10T05:26:46.288361",
+  "last_fetched": "2026-10-11T07:28:51.506763",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T07:27:13Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-10-10T04:42:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T07:27:13Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"f7031e5e485aa029ca25749bd9ac80ba61e37d015f2dcff305d5d1c9fd1de551\"",
-  "Last-Modified": "Sun, 11 Oct 2026 05:12:40 GMT",
+  "ETag": "W/\"5fcf17b4e33f1d26935fcdddccf240d13027c6f960ef34ca72151614fad82d49\"",
+  "Last-Modified": "Sun, 11 Oct 2026 13:13:34 GMT",
   "base": {
     "repo": {
       "name": "pytest-env-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/pytest-env-feedstock/pull/18",
   "id": 4816750173,
-  "labels": [],
-  "last_fetched": "2026-10-11T06:40:07.265156",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891112164,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTEyMTY0",
+      "url": "https://api.github.com/repos/conda-forge/pytest-env-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-11T13:13:40.284687",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-10-11T05:12:40Z"
+  "updated_at": "2026-10-11T13:13:34Z"
 }

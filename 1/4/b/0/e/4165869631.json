@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"568ac750e2c927bbfb505728ba139de416ad61a183028456253bd67cb57141a9\"",
-  "Last-Modified": "Thu, 30 Jul 2026 03:02:46 GMT",
+  "ETag": "W/\"74a91ebc836088b16a2f19bf19b1b5ff4522668bd7b05183120aed082e4e7cc9\"",
+  "Last-Modified": "Sun, 11 Oct 2026 12:42:25 GMT",
   "base": {
     "repo": {
       "name": "httpstan-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T12:42:25Z",
   "created_at": "2026-07-30T03:02:45Z",
   "draft": false,
   "e_tag": "\"8378f4c4376c4a1f7dd9fa477bca2348622e1910b9dd07813f75ee0f470b0d52\"",
   "head": {
-    "ref": "4.17.0_ha8e32c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/httpstan-feedstock/pull/30",
   "id": 4165869631,
   "labels": [],
-  "last_fetched": "2026-10-09T03:10:18.037588",
+  "last_fetched": "2026-10-11T12:44:09.778642",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T12:42:25Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-07-30T03:04:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T12:42:25Z"
 }

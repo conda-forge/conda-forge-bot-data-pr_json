@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"9928bf90660b5f3126a699393f36452ff0e09f18979dd0298c44d1e2c698288b\"",
-  "Last-Modified": "Mon, 24 Aug 2026 08:46:50 GMT",
+  "ETag": "W/\"62333d9d6b224bf231215c8db0d5a78122643b383082dda8b043d0a53576bf23\"",
+  "Last-Modified": "Sun, 11 Oct 2026 21:18:51 GMT",
   "base": {
     "repo": {
       "name": "earthlens-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T21:18:51Z",
   "created_at": "2026-08-24T08:45:02Z",
   "draft": false,
   "e_tag": "\"53527a4103ab86e6998c7b0cc6dd97d060de29328dc2b230770ca87f29afa8bd\"",
   "head": {
-    "ref": "0.18.0_h7a113b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/earthlens-feedstock/pull/18",
   "id": 4346802749,
   "labels": [],
-  "last_fetched": "2026-10-07T07:46:17.832637",
+  "last_fetched": "2026-10-11T21:20:28.616110",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T21:18:51Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-08-24T08:46:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T21:18:51Z"
 }

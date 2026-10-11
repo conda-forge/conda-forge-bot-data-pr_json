@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"587e274597e3a0bfea621e97f7bf17b2223838f28ca34647c6775a342283ff9a\"",
-  "Last-Modified": "Sun, 11 Oct 2026 09:35:42 GMT",
+  "ETag": "W/\"630f3ecb2342a03984d4638dcb205fde19a7de0efb4e261fb414505c110132e0\"",
+  "Last-Modified": "Sun, 11 Oct 2026 12:27:41 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-exporter-otlp-proto-grpc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T12:27:41Z",
   "created_at": "2026-09-26T07:16:52Z",
   "draft": false,
   "e_tag": "\"f790f6524410bc62ebbd667355617a902b2d6d2c8314beac19438446dd7cede2\"",
   "head": {
-    "ref": "1.45.0_h2a8267"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-exporter-otlp-proto-grpc-feedstock/pull/63",
   "id": 4645650271,
   "labels": [],
-  "last_fetched": "2026-10-11T09:48:44.246141",
+  "last_fetched": "2026-10-11T12:29:15.820136",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T12:27:41Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-10-11T09:35:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T12:27:41Z"
 }

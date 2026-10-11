@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e857a60bc98fd67945f39829a5e6d4b151042e6c815f0b30feb560e925e90e00\"",
+  "Last-Modified": "Sun, 11 Oct 2026 23:57:17 GMT",
   "base": {
     "repo": {
       "name": "genesis-world-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T23:57:12Z",
   "created_at": "2026-10-11T23:50:49Z",
   "draft": false,
   "e_tag": "\"e603ca27be1b3ab4f8cea95a5934d35fa54c003ac00f522c9b54fc1da8d982ac\"",
   "head": {
-    "ref": "1.4.4_ha66a4a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/genesis-world-feedstock/pull/8",
   "id": 4823314508,
   "labels": [],
-  "last_fetched": "2026-10-11T23:50:50.820614",
+  "last_fetched": "2026-10-11T23:59:01.708222",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-11T23:57:12Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-11T23:50:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T23:57:17Z"
 }

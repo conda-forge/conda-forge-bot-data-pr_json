@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"243c893f4b9404290344d94ac78b60a06cea92e5f67ec0cf0e899de68a114daf\"",
+  "Last-Modified": "Sun, 11 Oct 2026 18:15:29 GMT",
   "base": {
     "repo": {
       "name": "aioquic-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/aioquic-feedstock/pull/12",
   "id": 4821228090,
-  "labels": [],
-  "last_fetched": "2026-10-11T18:13:48.501542",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7333903555,
+      "name": "automerge",
+      "node_id": "LA_kwDOMj69RM8AAAABtSJ8ww",
+      "url": "https://api.github.com/repos/conda-forge/aioquic-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-11T18:17:00.535355",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 12,
   "state": "open",
-  "updated_at": "2026-10-11T18:13:47Z"
+  "updated_at": "2026-10-11T18:15:31Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"e26b7ea26b9f540a42262f9cafe2cd5b4df6931780f992342f8b26e164d2298e\"",
-  "Last-Modified": "Sun, 11 Oct 2026 21:37:29 GMT",
+  "ETag": "W/\"b879f3a997994b49965c2bf4b4a5ee80107ae265b215bf9f7d1770edd6eed309\"",
+  "Last-Modified": "Sun, 11 Oct 2026 21:37:27 GMT",
   "base": {
     "repo": {
       "name": "vbmicrolensing-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/vbmicrolensing-feedstock/pull/8",
   "id": 4583327791,
-  "labels": [],
-  "last_fetched": "2026-10-11T21:38:34.055413",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-11T21:37:29.911332",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 8,
   "state": "closed",
-  "updated_at": "2026-10-11T21:37:29Z"
+  "updated_at": "2026-10-11T21:37:27Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"127ddcf706a06e45e267666b00fcd16e50fc4ba185745fabd0ddbe24dbbe3c7e\"",
+  "Last-Modified": "Sun, 11 Oct 2026 11:39:05 GMT",
   "base": {
     "repo": {
       "name": "python-substrait-extensions-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T11:39:01Z",
   "created_at": "2026-10-11T11:37:00Z",
   "draft": false,
   "e_tag": "\"43a49cd6a63240976af32b7e4ab244732fdd3c268dc97f6e575611b6578666c1\"",
   "head": {
-    "ref": "0.106.0_hc09878"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-substrait-extensions-feedstock/pull/29",
   "id": 4818764019,
   "labels": [],
-  "last_fetched": "2026-10-11T11:37:00.686911",
+  "last_fetched": "2026-10-11T11:40:12.534433",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-11T11:39:01Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-11T11:37:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T11:39:05Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"d542f0accd5f77b52ef1b5bf1eeaf9168f29c8bad429710637409247d8942ef8\"",
-  "Last-Modified": "Sun, 11 Oct 2026 12:01:51 GMT",
+  "ETag": "W/\"5c354cad17ecc7d9a300799299c1e133c89fe5248b5ce151c33f5c0cd6d0bf11\"",
+  "Last-Modified": "Sun, 11 Oct 2026 12:06:36 GMT",
   "base": {
     "repo": {
       "name": "pyglet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T12:06:33Z",
   "created_at": "2026-10-11T05:58:29Z",
   "draft": false,
   "e_tag": "\"5260cbf4c32570452b99f6354d80b6984b42aa94194161ab24189c87f8d2a98e\"",
   "head": {
-    "ref": "2.1.17_hb95a72"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyglet-feedstock/pull/124",
   "id": 4816955817,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/pyglet-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-11T12:03:30.847165",
+  "last_fetched": "2026-10-11T12:08:10.759856",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T12:06:33Z",
   "number": 124,
-  "state": "open",
-  "updated_at": "2026-10-11T12:01:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T12:06:36Z"
 }

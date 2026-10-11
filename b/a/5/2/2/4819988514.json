@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"48bcf5ef673c7e463fb53608017a4a8c8e81419ac166d7cf93c4d45faa1395d5\"",
+  "Last-Modified": "Sun, 11 Oct 2026 15:04:35 GMT",
   "base": {
     "repo": {
       "name": "custodian-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T15:04:31Z",
   "created_at": "2026-10-11T15:02:13Z",
   "draft": false,
   "e_tag": "\"cfb5737232913d1bf9d14ba6a2421663cb56e26f8fb69da7f8a38e961c5bab5b\"",
   "head": {
-    "ref": "2026.10.11_h8e934f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/custodian-feedstock/pull/40",
   "id": 4819988514,
   "labels": [],
-  "last_fetched": "2026-10-11T15:02:14.256000",
+  "last_fetched": "2026-10-11T15:06:06.364847",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-11T15:04:31Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-10-11T15:02:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T15:04:35Z"
 }

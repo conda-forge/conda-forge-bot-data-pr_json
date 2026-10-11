@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"90e111c3b394271e7f3cc711626a2ab7858e4f81b2244fe4ad27fd8dc8de2714\"",
-  "Last-Modified": "Sat, 10 Oct 2026 21:49:48 GMT",
+  "ETag": "W/\"a3a4be6ad06e9ed29f086cbf2df07b938e0e585cee9feb26daa131b5649692db\"",
+  "Last-Modified": "Sun, 11 Oct 2026 06:47:26 GMT",
   "base": {
     "repo": {
       "name": "cppe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T06:47:25Z",
   "created_at": "2026-10-01T19:37:44Z",
   "draft": false,
   "e_tag": "\"52b259deb987b0d6dcc6606712916208f8ab9463c5d1b230c06bc7c113a9a8d3\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h4e982d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cppe-feedstock/pull/34",
   "id": 4708659336,
   "labels": [],
-  "last_fetched": "2026-10-10T23:59:32.337811",
+  "last_fetched": "2026-10-11T06:49:04.075081",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T06:47:25Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-10T22:14:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T06:47:26Z"
 }

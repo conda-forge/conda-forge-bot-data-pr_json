@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"990b6b0deff8da7540a528cb5cb172d9a8cc016cf8635a73723876bf53f37b97\"",
-  "Last-Modified": "Mon, 05 Oct 2026 19:45:02 GMT",
+  "ETag": "W/\"a0ae9f174e7c6d2faac3c7a66d379e4b09b28b1d68eb56e7d6546c73c6cbb63f\"",
+  "Last-Modified": "Sun, 11 Oct 2026 09:25:04 GMT",
   "base": {
     "repo": {
       "name": "rust-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T09:25:04Z",
   "created_at": "2026-10-01T18:35:53Z",
   "draft": false,
   "e_tag": "\"e1e8bb6d02246ce5a705694e81872f327defcc0a202dbda22064c74f24511b19\"",
   "head": {
-    "ref": "1.99.0_hd56853"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rust-feedstock/pull/307",
   "id": 4707952171,
   "labels": [],
-  "last_fetched": "2026-10-05T21:26:58.378929",
+  "last_fetched": "2026-10-11T09:26:10.130952",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T09:25:04Z",
   "number": 307,
-  "state": "open",
-  "updated_at": "2026-10-05T19:45:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T09:25:04Z"
 }

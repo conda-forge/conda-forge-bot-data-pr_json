@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6fdb356d25a5bd8ce5edd6097210079128524c4584a3aef8ff890b4ecaac84ec\"",
-  "Last-Modified": "Sun, 11 Oct 2026 19:52:08 GMT",
+  "ETag": "W/\"605ca43388ac2273ccda0e49e62e71fb859c4acec6e4bb00c4d71f1c7f420701\"",
+  "Last-Modified": "Sun, 11 Oct 2026 22:05:17 GMT",
   "base": {
     "repo": {
       "name": "einsums-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T22:05:17Z",
   "created_at": "2026-10-01T00:15:51Z",
   "draft": false,
   "e_tag": "\"2ed98ec3e439d03dbcbeb86aee2dd39f152eba821a00fc4c4435265c27434674\"",
   "head": {
-    "ref": "1.1.6_h9c94b0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/einsums-feedstock/pull/54",
   "id": 4697480961,
   "labels": [],
-  "last_fetched": "2026-10-11T21:58:47.493317",
+  "last_fetched": "2026-10-11T22:06:28.128818",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T22:05:17Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-11T19:52:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T22:05:17Z"
 }

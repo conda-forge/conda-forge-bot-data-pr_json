@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"58aa487447448b4e714fef59c30c5c8b13343c95d13a310858d71182d6465119\"",
+  "Last-Modified": "Sun, 11 Oct 2026 12:02:57 GMT",
   "base": {
     "repo": {
       "name": "zbar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T12:02:57Z",
   "created_at": "2026-10-11T11:06:07Z",
   "draft": false,
   "e_tag": "\"57b8356d5b35e929e9ce087cd7f2e905ac9b687286dc415474a1e5adafe81134\"",
   "head": {
-    "ref": "0.23.95_h8f0076"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zbar-feedstock/pull/19",
   "id": 4818594284,
   "labels": [],
-  "last_fetched": "2026-10-11T11:06:08.160361",
+  "last_fetched": "2026-10-11T12:04:31.238490",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-11T12:02:57Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-11T11:06:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T12:02:57Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"321464992ce29980c0a9931218c7d9385ce057b3c184f4bc5bfeafa986d7bdb4\"",
-  "Last-Modified": "Fri, 09 Oct 2026 18:45:13 GMT",
+  "ETag": "W/\"753d7712b3fbdec7b893257cca58aa0ea9e290ca6107859951bb177673097a02\"",
+  "Last-Modified": "Sun, 11 Oct 2026 22:00:42 GMT",
   "base": {
     "repo": {
       "name": "gst-libav-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T22:00:41Z",
   "created_at": "2026-10-08T18:29:33Z",
   "draft": false,
   "e_tag": "\"6d383e035693b4ad9666e79a0f54dc6d6efbf955be95a1d9f02e2695fdc29cf2\"",
   "head": {
-    "ref": "1.28.8_h8f4c1e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gst-libav-feedstock/pull/102",
   "id": 4791153983,
   "labels": [],
-  "last_fetched": "2026-10-09T20:27:21.341837",
+  "last_fetched": "2026-10-11T22:01:54.148961",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T22:00:41Z",
   "number": 102,
-  "state": "open",
-  "updated_at": "2026-10-09T18:45:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T22:00:42Z"
 }

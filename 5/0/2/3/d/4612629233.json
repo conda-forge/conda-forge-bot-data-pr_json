@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"915df81596bda86d1fc172ad35eb2552af88831de0d47b489dea403d115186fa\"",
-  "Last-Modified": "Wed, 23 Sep 2026 10:50:16 GMT",
+  "ETag": "W/\"747cf89e4b065ed69d8e1aba14e8bd460b65b6a982fa27914d49234a3bd66ff6\"",
+  "Last-Modified": "Sun, 11 Oct 2026 04:53:59 GMT",
   "base": {
     "repo": {
       "name": "flang-activation-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T04:53:59Z",
   "created_at": "2026-09-23T10:48:23Z",
   "draft": false,
   "e_tag": "\"b42d8a6cc43bba2ebf86a9e5b5254ef58763965afcc94dafa7a18a32bb0ac7cf\"",
   "head": {
-    "ref": "23.1.2_h2fa086"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flang-activation-feedstock/pull/63",
   "id": 4612629233,
   "labels": [],
-  "last_fetched": "2026-10-08T01:04:24.051782",
+  "last_fetched": "2026-10-11T04:55:35.335746",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T04:53:58Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-09-23T10:50:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T04:53:59Z"
 }

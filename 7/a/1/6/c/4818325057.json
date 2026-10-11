@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"00eb5358b4d923d4c5ab31b9589e80ed982131beffd4423c45ee56589e6c5c03\"",
-  "Last-Modified": "Sun, 11 Oct 2026 10:18:20 GMT",
+  "ETag": "W/\"f605dd8b044cd220ecf62e2c3c6f73d594e632e94e3e20a80b43b8767adbbbc7\"",
+  "Last-Modified": "Sun, 11 Oct 2026 14:50:12 GMT",
   "base": {
     "repo": {
       "name": "pylsqpack-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pylsqpack-feedstock/pull/14",
   "id": 4818325057,
-  "labels": [],
-  "last_fetched": "2026-10-11T12:36:28.855221",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6008910570,
+      "name": "automerge",
+      "node_id": "LA_kwDOKYaBDc8AAAABZiiy6g",
+      "url": "https://api.github.com/repos/conda-forge/pylsqpack-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-11T14:51:48.383254",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 14,
   "state": "open",
-  "updated_at": "2026-10-11T10:18:20Z"
+  "updated_at": "2026-10-11T14:50:12Z"
 }

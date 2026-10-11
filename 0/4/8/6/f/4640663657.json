@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"615676754c0f9b45deec9e906f9a18b89d53bd0ba6310f7ca74d1b4bfc249af1\"",
-  "Last-Modified": "Fri, 25 Sep 2026 17:13:02 GMT",
+  "ETag": "W/\"1100d0c30468038dfb9a41d7c80c2d9a7651810a26cfa63c5f1192b50c36c1bd\"",
+  "Last-Modified": "Sun, 11 Oct 2026 07:17:23 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-aiokafka-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T07:17:22Z",
   "created_at": "2026-09-25T17:13:01Z",
   "draft": false,
   "e_tag": "\"79792bd0231f5a1a68fbc818e4f1ee66e38439864965eeb126611e45e7be52ff\"",
   "head": {
-    "ref": "0.66b0_h3a3ac9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-aiokafka-feedstock/pull/4",
   "id": 4640663657,
   "labels": [],
-  "last_fetched": "2026-10-10T03:55:31.729274",
+  "last_fetched": "2026-10-11T07:19:02.637734",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T07:17:22Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-09-25T17:14:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T07:17:23Z"
 }

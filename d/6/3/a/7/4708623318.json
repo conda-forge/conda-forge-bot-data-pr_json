@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"761b5c08ecdf9b38eb1ad24230a6058a3f0dfeebe0d94ded18aa1d21aa46cd47\"",
-  "Last-Modified": "Sun, 11 Oct 2026 16:47:53 GMT",
+  "ETag": "W/\"ce4e707126220be6f15f1b7378c2f2b93f6b889904d1ef193efcaff14e0889e1\"",
+  "Last-Modified": "Sun, 11 Oct 2026 17:12:16 GMT",
   "base": {
     "repo": {
       "name": "adcc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T17:12:16Z",
   "created_at": "2026-10-01T19:34:04Z",
   "draft": false,
   "e_tag": "\"0a490f0e3e5c4cde287947250eb169537ef38292ce7b9b226ceabf9757dcb591\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h9233bb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/adcc-feedstock/pull/27",
   "id": 4708623318,
   "labels": [],
-  "last_fetched": "2026-10-11T17:01:15.670741",
+  "last_fetched": "2026-10-11T17:13:54.088115",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T17:12:16Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-11T16:47:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T17:12:16Z"
 }

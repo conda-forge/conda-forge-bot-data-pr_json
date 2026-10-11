@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"0993274eaf2437555647435cb4f3fd8188108b05f721440dbee15ca80c0a1e73\"",
-  "Last-Modified": "Sat, 10 Oct 2026 23:29:17 GMT",
+  "ETag": "W/\"648f266e42559969ecdffbdd0fb440f6ea171bb1dd024240a67501c34bd1cbbf\"",
+  "Last-Modified": "Sun, 11 Oct 2026 08:14:31 GMT",
   "base": {
     "repo": {
       "name": "pcmsolver-split-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T08:14:31Z",
   "created_at": "2026-04-24T10:44:28Z",
   "draft": false,
   "e_tag": "\"80463863eb50e870643c2cf5f82565183235b82d0420965981b21a8199cb41c3\"",
   "head": {
-    "ref": "rebuild-libboost190-0-1_h3cd6cf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pcmsolver-split-feedstock/pull/39",
   "id": 3578640687,
   "labels": [],
-  "last_fetched": "2026-10-10T23:59:20.833433",
+  "last_fetched": "2026-10-11T08:15:38.539068",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T08:14:31Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-10-10T23:29:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T08:14:31Z"
 }

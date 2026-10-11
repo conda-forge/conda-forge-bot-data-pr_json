@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6eafaa76d9e8a11c3e1bb5dddde2849927ac4769b61539335c5b1d961c3ad8bb\"",
-  "Last-Modified": "Sun, 11 Oct 2026 09:58:29 GMT",
+  "ETag": "W/\"4a92834664b16c63ef8415f2a6ce97b1c5decfb4f3b33eb896140b5aedecb38d\"",
+  "Last-Modified": "Sun, 11 Oct 2026 10:04:10 GMT",
   "base": {
     "repo": {
       "name": "libvalkey-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T10:04:06Z",
   "created_at": "2026-10-11T09:56:51Z",
   "draft": false,
   "e_tag": "\"6390fdda8c86635b3c02ecb0769357bf510e1afb7b205c339226d7146c8580a3\"",
   "head": {
-    "ref": "4.2.0_ha3e432"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libvalkey-py-feedstock/pull/17",
   "id": 4818207454,
   "labels": [],
-  "last_fetched": "2026-10-11T10:01:33.050659",
+  "last_fetched": "2026-10-11T10:05:15.365653",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T10:04:06Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-11T09:58:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T10:04:10Z"
 }

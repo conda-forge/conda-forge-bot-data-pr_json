@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"2670bc3d2570bee85866bef681acf2923bf6d9c21f4d2cdd034bbb284c515201\"",
-  "Last-Modified": "Sun, 11 Oct 2026 11:56:19 GMT",
+  "ETag": "W/\"d542f0accd5f77b52ef1b5bf1eeaf9168f29c8bad429710637409247d8942ef8\"",
+  "Last-Modified": "Sun, 11 Oct 2026 12:01:51 GMT",
   "base": {
     "repo": {
       "name": "pyglet-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/pyglet-feedstock/pull/124",
   "id": 4816955817,
-  "labels": [],
-  "last_fetched": "2026-10-11T11:58:33.222573",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891104207,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTA0MjA3",
+      "url": "https://api.github.com/repos/conda-forge/pyglet-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-11T12:03:30.847165",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 124,
   "state": "open",
-  "updated_at": "2026-10-11T11:56:19Z"
+  "updated_at": "2026-10-11T12:01:51Z"
 }

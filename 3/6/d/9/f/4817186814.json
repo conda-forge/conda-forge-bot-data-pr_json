@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"45dbd43a1b17fd484e9deb6a3713a46bc614a25bea20e5058ac1dd64beb32a7f\"",
+  "Last-Modified": "Sun, 11 Oct 2026 06:53:50 GMT",
   "base": {
     "repo": {
       "name": "petl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T06:53:46Z",
   "created_at": "2026-10-11T06:48:57Z",
   "draft": false,
   "e_tag": "\"0f5ce9d2d675f8739880908f4e8a93daac754623b1ff5a692d43271fd6e119fc\"",
   "head": {
-    "ref": "1.7.29_h0e0592"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/petl-feedstock/pull/58",
   "id": 4817186814,
   "labels": [],
-  "last_fetched": "2026-10-11T06:48:58.200271",
+  "last_fetched": "2026-10-11T06:54:57.061801",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-11T06:53:46Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-11T06:48:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T06:53:50Z"
 }

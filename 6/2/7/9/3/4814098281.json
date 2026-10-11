@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"fd380612a33ca88c8bdfc008a12b51c00363e14ba1725d7675f490e7ad086d00\"",
-  "Last-Modified": "Sat, 10 Oct 2026 20:09:40 GMT",
+  "ETag": "W/\"70ceeed67230d17fe9e1191031bcbe22f03368e488e4e3c016efc5f17c174df3\"",
+  "Last-Modified": "Sun, 11 Oct 2026 06:02:25 GMT",
   "base": {
     "repo": {
       "name": "smartg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T06:02:25Z",
   "created_at": "2026-10-10T20:07:55Z",
   "draft": false,
   "e_tag": "\"0854eded6af1bf1bc4c3675ff7ed55ffaf3900da158ae71567591912fa1d0a58\"",
   "head": {
-    "ref": "2.0.3_h528633"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/smartg-feedstock/pull/10",
   "id": 4814098281,
   "labels": [],
-  "last_fetched": "2026-10-11T01:11:31.529437",
+  "last_fetched": "2026-10-11T06:03:38.079319",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T06:02:25Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-10T20:09:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T06:02:25Z"
 }

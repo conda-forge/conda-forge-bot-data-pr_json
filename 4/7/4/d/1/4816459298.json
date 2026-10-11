@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"bfc1c928fff57396e3d1f15c686c2279a19c84f8717e491d59b48b4f62344dad\"",
+  "Last-Modified": "Sun, 11 Oct 2026 04:18:10 GMT",
   "base": {
     "repo": {
       "name": "wxwidgets-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/wxwidgets-feedstock/pull/72",
   "id": 4816459298,
-  "labels": [],
-  "last_fetched": "2026-10-11T04:06:41.433062",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2157325658,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMTU3MzI1NjU4",
+      "url": "https://api.github.com/repos/conda-forge/wxwidgets-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-11T04:19:25.086394",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 72,
   "state": "open",
-  "updated_at": "2026-10-11T04:06:40Z"
+  "updated_at": "2026-10-11T04:18:10Z"
 }

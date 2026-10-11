@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"9ef0b80cad7f607bf551b3fa4bf0c74a9092b27a3e159deb8506670c6c3b357a\"",
-  "Last-Modified": "Sun, 11 Oct 2026 12:10:15 GMT",
+  "ETag": "W/\"f05371ec4ec57f12091dacc2451ed5999ec1b35fe8d9e7fe8d823398d647c49d\"",
+  "Last-Modified": "Sun, 11 Oct 2026 12:26:48 GMT",
   "base": {
     "repo": {
       "name": "cargo-c-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T12:26:44Z",
   "created_at": "2026-10-11T11:55:37Z",
   "draft": false,
   "e_tag": "\"f762c09df7d50c2d77b9609f23aabee5e45136c67a6e3704fdf9e2c847565fa4\"",
   "head": {
-    "ref": "0.10.26_h4063c3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cargo-c-feedstock/pull/37",
   "id": 4818864077,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/cargo-c-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-11T12:11:30.287569",
+  "last_fetched": "2026-10-11T12:28:16.887616",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T12:26:44Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-10-11T12:10:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T12:26:48Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"d36a6d4fb5c741bf0a9e91ab1bedbe47a76429ea19cde7216635eae580155ab8\"",
-  "Last-Modified": "Sun, 11 Oct 2026 04:04:46 GMT",
+  "ETag": "W/\"3418978e8b5569e8cbfc7a68927153e309325562ae1d0b35f05e61010b644c09\"",
+  "Last-Modified": "Sun, 11 Oct 2026 14:04:03 GMT",
   "base": {
     "repo": {
       "name": "devpi-process-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/devpi-process-feedstock/pull/9",
   "id": 4816441596,
-  "labels": [],
-  "last_fetched": "2026-10-11T04:53:41.676719",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4900869141,
+      "name": "automerge",
+      "node_id": "LA_kwDOImf0iM8AAAABJB1UFQ",
+      "url": "https://api.github.com/repos/conda-forge/devpi-process-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-11T14:05:45.829220",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 9,
   "state": "open",
-  "updated_at": "2026-10-11T04:04:46Z"
+  "updated_at": "2026-10-11T14:04:03Z"
 }

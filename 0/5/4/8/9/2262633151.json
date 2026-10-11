@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"64494e2ad5dc52aca19bebe3f1ae94ea4bcc720bdf7850cce516cc765a7bf554\"",
-  "Last-Modified": "Sun, 11 Oct 2026 21:49:09 GMT",
+  "ETag": "W/\"483abe093fa3ce25a67fd6820cce6753653727d0fada1e10778da3db1d69db34\"",
+  "Last-Modified": "Sun, 11 Oct 2026 21:49:07 GMT",
   "base": {
     "repo": {
       "name": "archinfo-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/archinfo-feedstock/pull/71",
   "id": 2262633151,
-  "labels": [],
-  "last_fetched": "2026-10-11T21:50:22.886401",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-11T21:49:09.906208",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 71,
   "state": "closed",
-  "updated_at": "2026-10-11T21:49:09Z"
+  "updated_at": "2026-10-11T21:49:07Z"
 }

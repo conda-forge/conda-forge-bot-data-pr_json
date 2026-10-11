@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"bfc1c928fff57396e3d1f15c686c2279a19c84f8717e491d59b48b4f62344dad\"",
-  "Last-Modified": "Sun, 11 Oct 2026 04:18:10 GMT",
+  "ETag": "W/\"b3ae670911b4b3b040743341f6427cb10e042949ccba47097894e25aa68c7c17\"",
+  "Last-Modified": "Sun, 11 Oct 2026 04:34:42 GMT",
   "base": {
     "repo": {
       "name": "wxwidgets-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T04:34:38Z",
   "created_at": "2026-10-11T04:06:40Z",
   "draft": false,
   "e_tag": "\"facb01495073703a13d275cf474e5867d5a07829534ca644521ccd5597f9a8f3\"",
   "head": {
-    "ref": "3.3.4_h9bf18e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wxwidgets-feedstock/pull/72",
   "id": 4816459298,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/wxwidgets-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-11T04:19:25.086394",
+  "last_fetched": "2026-10-11T04:36:10.889270",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-11T04:34:38Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-10-11T04:18:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T04:34:42Z"
 }

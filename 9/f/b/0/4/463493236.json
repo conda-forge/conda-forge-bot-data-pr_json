@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"2507ed63ccb48d808fa52df833487b70f335e6d3f63a2f534bca4d136ccfd536\"",
-  "Last-Modified": "Sun, 11 Oct 2026 22:47:19 GMT",
+  "ETag": "W/\"baec420e92b4d5eb78c721f742aa0a3faa4e93cdcfcf5683d851ef9ab326c4e8\"",
+  "Last-Modified": "Sun, 11 Oct 2026 22:47:17 GMT",
   "base": {
     "repo": {
       "name": "pytest-testmon-feedstock"
@@ -14,13 +14,17 @@
   },
   "html_url": "https://github.com/conda-forge/pytest-testmon-feedstock/pull/15",
   "id": 463493236,
-  "labels": [],
-  "last_fetched": "2026-10-11T22:48:24.451162",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-11T22:47:19.886421",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 15,
   "state": "closed",
-  "updated_at": "2026-10-11T22:47:19Z"
+  "updated_at": "2026-10-11T22:47:17Z"
 }

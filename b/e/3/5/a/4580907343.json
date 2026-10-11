@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"ba0780455e38948acf6f2bd2813c7de0ff69aba16f4af4ea72b36906ab5fa35b\"",
-  "Last-Modified": "Sun, 11 Oct 2026 17:23:16 GMT",
+  "ETag": "W/\"d898aa1e8f457e974be9c8bf1177316530e327a90574906f8ddf1993304260d5\"",
+  "Last-Modified": "Sun, 11 Oct 2026 17:23:13 GMT",
   "base": {
     "repo": {
       "name": "gfnff-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/gfnff-feedstock/pull/2",
   "id": 4580907343,
-  "labels": [],
-  "last_fetched": "2026-10-11T17:24:53.546648",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-11T17:23:16.051168",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 2,
   "state": "closed",
-  "updated_at": "2026-10-11T17:23:16Z"
+  "updated_at": "2026-10-11T17:23:13Z"
 }

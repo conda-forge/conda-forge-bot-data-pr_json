@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"88ec2cf092f5f8fb040f569e0c741dbc8076c7ef19c27039c101e705afa2a975\"",
+  "Last-Modified": "Sun, 11 Oct 2026 09:41:39 GMT",
   "base": {
     "repo": {
       "name": "lapy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-11T09:41:34Z",
   "created_at": "2026-10-11T09:37:49Z",
   "draft": false,
   "e_tag": "\"402a8cd179cd5d4a88fb1c02e2ae08b3575f858dd895436421ddcb573242f732\"",
   "head": {
-    "ref": "1.7.0_hf22ca8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lapy-feedstock/pull/20",
   "id": 4818104904,
   "labels": [],
-  "last_fetched": "2026-10-11T09:37:50.679548",
+  "last_fetched": "2026-10-11T09:43:09.813501",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-11T09:41:34Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-11T09:37:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-11T09:41:39Z"
 }

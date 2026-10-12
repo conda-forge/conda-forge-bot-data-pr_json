@@ -1,10 +1,12 @@
 {
+  "ETag": "W/\"9f80bc28cee14d43d24a8fe47601d99f5b559c7fe52b51ef2f0702bbbc7576a0\"",
+  "Last-Modified": "Mon, 12 Oct 2026 13:25:04 GMT",
   "base": {
     "repo": {
       "name": "solarmach-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T13:25:04Z",
   "created_at": "2026-10-12T12:20:02Z",
   "draft": false,
   "e_tag": "\"63ff90fd3ba2d69319ff151adb3649ab5a92e65180aa60fa17f901b3f599d943\"",
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/solarmach-feedstock/pull/28",
   "id": 4829305916,
-  "labels": [],
-  "last_fetched": "2026-10-12T12:20:03.561452",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3966832557,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOHEKqu87scQ-t",
+      "url": "https://api.github.com/repos/conda-forge/solarmach-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-12T13:25:07.705244",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-12T12:20:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T13:25:04Z"
 }

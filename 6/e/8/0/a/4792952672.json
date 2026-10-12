@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"9b017e6ce01b1136c85f8e368fc759ead8eb37d25020d40944c5050d23fa0653\"",
-  "Last-Modified": "Thu, 08 Oct 2026 21:24:04 GMT",
+  "ETag": "W/\"26207f9065976339d124700bd14bc6517c6ef821d683248cbab05e981ef30a3e\"",
+  "Last-Modified": "Mon, 12 Oct 2026 12:24:52 GMT",
   "base": {
     "repo": {
       "name": "disnake-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T12:24:52Z",
   "created_at": "2026-10-08T21:22:28Z",
   "draft": false,
   "e_tag": "\"760022aa08c9184191d1aa6053e8d70ac94f47afbabfad7a6fd56aa2ce838786\"",
   "head": {
-    "ref": "2.12.2_h96977f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/disnake-feedstock/pull/7",
   "id": 4792952672,
   "labels": [],
-  "last_fetched": "2026-10-08T23:00:38.664952",
+  "last_fetched": "2026-10-12T12:26:31.757106",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T12:24:52Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-08T21:24:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T12:24:52Z"
 }

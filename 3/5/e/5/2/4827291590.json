@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"2f4a749881ee55b23598141a388d09c9920dd56312e8a9de6ca2155ecefec695\"",
+  "Last-Modified": "Mon, 12 Oct 2026 13:18:05 GMT",
   "base": {
     "repo": {
       "name": "update_checker-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/update_checker-feedstock/pull/11",
   "id": 4827291590,
-  "labels": [],
-  "last_fetched": "2026-10-12T09:13:10.653991",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891422697,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDIyNjk3",
+      "url": "https://api.github.com/repos/conda-forge/update_checker-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-12T13:19:13.202961",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 11,
   "state": "open",
-  "updated_at": "2026-10-12T09:13:09Z"
+  "updated_at": "2026-10-12T13:18:05Z"
 }

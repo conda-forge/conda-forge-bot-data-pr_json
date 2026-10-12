@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"178bba44bca8462609b78716b370345b4816d7471c5c16fb711bcb9233718877\"",
+  "Last-Modified": "Mon, 12 Oct 2026 09:33:43 GMT",
   "base": {
     "repo": {
       "name": "pipenv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T09:33:40Z",
   "created_at": "2026-10-12T09:30:22Z",
   "draft": false,
   "e_tag": "\"130830c275c0c8020e731e78c4d53e89ff2a0bb448c797d4d29b4da341429c31\"",
   "head": {
-    "ref": "2026.9.1_hfd62ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pipenv-feedstock/pull/149",
   "id": 4827490051,
   "labels": [],
-  "last_fetched": "2026-10-12T09:30:23.885390",
+  "last_fetched": "2026-10-12T09:34:47.409989",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T09:33:39Z",
   "number": 149,
-  "state": "open",
-  "updated_at": "2026-10-12T09:30:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T09:33:43Z"
 }

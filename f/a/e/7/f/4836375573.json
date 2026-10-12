@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"76ba884f2526cc76fad6136be5efffcb1271824b8fa8d7535a194ea6d8817d1f\"",
+  "Last-Modified": "Mon, 12 Oct 2026 23:56:43 GMT",
   "base": {
     "repo": {
       "name": "langgraph-checkpoint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T23:56:39Z",
   "created_at": "2026-10-12T23:54:44Z",
   "draft": false,
   "e_tag": "\"0b5f1dc86d8db8e9e403986c223d156c9d8c2a660a22f6c3897152fca31b13d4\"",
   "head": {
-    "ref": "4.3.0_h96b3ee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langgraph-checkpoint-feedstock/pull/53",
   "id": 4836375573,
   "labels": [],
-  "last_fetched": "2026-10-12T23:54:45.328431",
+  "last_fetched": "2026-10-12T23:57:47.138664",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T23:56:39Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-10-12T23:54:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T23:56:43Z"
 }

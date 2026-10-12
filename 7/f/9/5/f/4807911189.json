@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"fc47d3e37091b492dae29eb9ea0a9d24ab428015144d56d14b07ff875f93f732\"",
-  "Last-Modified": "Sun, 11 Oct 2026 19:04:30 GMT",
+  "ETag": "W/\"9f8ea677ec555167c2ff275bb5db2ced63dc3218f1c860d4528c1086886ba00d\"",
+  "Last-Modified": "Mon, 12 Oct 2026 18:17:59 GMT",
   "base": {
     "repo": {
       "name": "sqlglot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T18:17:59Z",
   "created_at": "2026-10-10T02:06:58Z",
   "draft": false,
   "e_tag": "\"e54cb06129797759cd7cb2cd69c834402be4e7b9f65c8937e72733db57d26507\"",
   "head": {
-    "ref": "30.22.0_h049f09"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sqlglot-feedstock/pull/593",
   "id": 4807911189,
   "labels": [],
-  "last_fetched": "2026-10-11T21:37:40.318759",
+  "last_fetched": "2026-10-12T18:19:36.007841",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T18:17:59Z",
   "number": 593,
-  "state": "open",
-  "updated_at": "2026-10-11T19:04:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T18:17:59Z"
 }

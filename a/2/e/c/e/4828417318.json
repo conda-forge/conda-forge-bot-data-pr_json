@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9dbf6b39930b62c95a5c58391b54a64a5a055ab81c8d1039bd99f837e65c413d\"",
+  "Last-Modified": "Mon, 12 Oct 2026 11:04:42 GMT",
   "base": {
     "repo": {
       "name": "wifit3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T11:04:38Z",
   "created_at": "2026-10-12T10:58:45Z",
   "draft": false,
   "e_tag": "\"212ca10a28034c7f824d80044b978a580b3b87d5705362942e8742c790467465\"",
   "head": {
-    "ref": "0.4.4_hd104cf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wifit3-feedstock/pull/2",
   "id": 4828417318,
   "labels": [],
-  "last_fetched": "2026-10-12T10:58:45.990320",
+  "last_fetched": "2026-10-12T11:06:15.064721",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T11:04:38Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-12T10:58:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T11:04:42Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"cc06d872fb762b18f4eea5ba5f88faea4ca37ce866f33f083f94ef68331eb9de\"",
-  "Last-Modified": "Fri, 09 Oct 2026 10:17:15 GMT",
+  "ETag": "W/\"a8d981b4886155327956aff578f7c907de0f316e89736889cd8be0648e3485d2\"",
+  "Last-Modified": "Mon, 12 Oct 2026 12:59:13 GMT",
   "base": {
     "repo": {
       "name": "crispy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T12:59:13Z",
   "created_at": "2026-10-09T10:15:41Z",
   "draft": false,
   "e_tag": "\"1c49e1fda8ed19d15561a3f65ceff306a741e7157d2848609102447ddc364938\"",
   "head": {
-    "ref": "2026.2_he85ffb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/crispy-feedstock/pull/9",
   "id": 4799062846,
   "labels": [],
-  "last_fetched": "2026-10-09T11:48:27.203827",
+  "last_fetched": "2026-10-12T13:00:26.738806",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T12:59:13Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-09T10:17:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T12:59:13Z"
 }

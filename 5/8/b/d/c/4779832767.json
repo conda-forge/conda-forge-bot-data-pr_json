@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"7753882f0bdd84fa73b4bf3d46cbe723aea7ebb88f5fe81fcd0a1f875e6e95bc\"",
-  "Last-Modified": "Wed, 07 Oct 2026 23:51:54 GMT",
+  "ETag": "W/\"014544bf36d4379470f879a176bc60e4ccfe12345642bb4e33fec6495b1bf715\"",
+  "Last-Modified": "Mon, 12 Oct 2026 16:51:08 GMT",
   "base": {
     "repo": {
       "name": "ofiber-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T16:50:52Z",
   "created_at": "2026-10-07T23:45:05Z",
   "draft": false,
   "e_tag": "\"d3e34ab6fa6248b7823d149eaee5e978d862d18039f97e804722a904f96ac83d\"",
   "head": {
-    "ref": "1.0.1_h13ec90"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ofiber-feedstock/pull/7",
   "id": 4779832767,
   "labels": [],
-  "last_fetched": "2026-10-08T03:58:07.531483",
+  "last_fetched": "2026-10-12T16:52:34.608141",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T16:50:52Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-07T23:51:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T16:51:08Z"
 }

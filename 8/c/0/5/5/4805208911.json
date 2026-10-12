@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"3316dfbc4e0d5ade6cac801bf442f40a072f2437241e2496cefcc74521cafea3\"",
-  "Last-Modified": "Mon, 12 Oct 2026 10:49:22 GMT",
+  "ETag": "W/\"d800a1b193cabcddcf07b704d9c7d379a7ef0290791cb10627cd796622aa3502\"",
+  "Last-Modified": "Mon, 12 Oct 2026 14:20:08 GMT",
   "base": {
     "repo": {
       "name": "absl-py-feedstock"
@@ -8,21 +8,33 @@
   },
   "closed_at": null,
   "created_at": "2026-10-09T19:55:26Z",
-  "draft": true,
+  "draft": false,
   "e_tag": "\"4d4508b7f4c69add2ba1773bf0f7909cb3b592d30ad7ea6a62fd5a99e2e0c0e3\"",
   "head": {
     "ref": "2.5.1_h8aea9f"
   },
   "html_url": "https://github.com/conda-forge/absl-py-feedstock/pull/48",
   "id": 4805208911,
-  "labels": [],
-  "last_fetched": "2026-10-12T11:52:06.681062",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890790406,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwNzkwNDA2",
+      "url": "https://api.github.com/repos/conda-forge/absl-py-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-12T14:21:22.231458",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 48,
   "state": "open",
-  "updated_at": "2026-10-12T10:49:22Z"
+  "updated_at": "2026-10-12T14:20:08Z"
 }

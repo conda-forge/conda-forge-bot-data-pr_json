@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"9d75ceb07505cabb5d0ac6212f45b18e4a57f7e169f26d365c3d757d247118dc\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"399e7f591011e913213c3554cc9a82004054dbb4968a0661a79cab68522192cb\"",
+  "Last-Modified": "Mon, 12 Oct 2026 16:31:45 GMT",
   "base": {
     "repo": {
       "name": "auto3d-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T16:31:45Z",
   "created_at": "2025-01-10T08:13:40Z",
   "draft": false,
   "e_tag": "\"b7fb395b14f87c8e5b16fe79c7bbc81b7c651a3018d3ab39e7f5873ef7ddabda\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/auto3d-feedstock/pull/11",
   "id": 2269939237,
-  "labels": [],
-  "last_fetched": "2026-10-05T14:52:57.759748",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-12T16:31:48.872806",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 11,
-  "state": "open",
-  "updated_at": "2025-01-10T08:15:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T16:31:45Z"
 }

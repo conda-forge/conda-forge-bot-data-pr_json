@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e6ef016ec4f11457a8dd4aeaef87a1326aab5336a3e1806a5ef28813ba0d07c8\"",
+  "Last-Modified": "Mon, 12 Oct 2026 09:19:26 GMT",
   "base": {
     "repo": {
       "name": "zodb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T09:19:20Z",
   "created_at": "2026-10-12T09:17:14Z",
   "draft": false,
   "e_tag": "\"96411614e44aceaa164c58f2976534a184660338e3ba943210f02a841e97a083\"",
   "head": {
-    "ref": "6.4_h4cd44f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zodb-feedstock/pull/20",
   "id": 4827336147,
   "labels": [],
-  "last_fetched": "2026-10-12T09:17:15.307474",
+  "last_fetched": "2026-10-12T09:21:02.065830",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T09:19:20Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-12T09:17:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T09:19:26Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"b6e634820a735763b886c867de0f893ecf34449b0d651beb3d230a66f28f454c\"",
-  "Last-Modified": "Sat, 10 Oct 2026 00:11:03 GMT",
+  "ETag": "W/\"842c02307b4f202d456818a1bf585c26e80075ef39fdd0c61bbbc0ed3cde909d\"",
+  "Last-Modified": "Mon, 12 Oct 2026 11:36:42 GMT",
   "base": {
     "repo": {
       "name": "cf-plot-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/cf-plot-feedstock/pull/36",
   "id": 4807207855,
-  "labels": [],
-  "last_fetched": "2026-10-10T05:03:45.900591",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2105504605,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMTA1NTA0NjA1",
+      "url": "https://api.github.com/repos/conda-forge/cf-plot-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-12T11:37:49.511916",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 36,
   "state": "open",
-  "updated_at": "2026-10-10T00:11:03Z"
+  "updated_at": "2026-10-12T11:36:42Z"
 }

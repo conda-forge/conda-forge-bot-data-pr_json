@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9b8d8f1cc91fc33bc26345822e7e9c7c63f216b2a45702a3599a61025318cc9e\"",
+  "Last-Modified": "Mon, 12 Oct 2026 00:47:31 GMT",
   "base": {
     "repo": {
       "name": "kache-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T00:47:28Z",
   "created_at": "2026-10-12T00:15:59Z",
   "draft": false,
   "e_tag": "\"e48179e45f3e20c551dda185f1ae395b86d554b921ba8265bbce027e48806eb4\"",
   "head": {
-    "ref": "1.1.0_h397b97"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kache-feedstock/pull/24",
   "id": 4823445816,
   "labels": [],
-  "last_fetched": "2026-10-12T00:16:00.945633",
+  "last_fetched": "2026-10-12T00:48:41.192891",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T00:47:28Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-12T00:16:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T00:47:31Z"
 }

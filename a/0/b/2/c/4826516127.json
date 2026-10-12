@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"44194491d1bfc85892a2154480524edf28ccd8768ec488ab53ae0d0787ca7e24\"",
-  "Last-Modified": "Mon, 12 Oct 2026 07:57:00 GMT",
+  "ETag": "W/\"57e15e4d847d5b566c261e037483745aa8ae31bbb42e537e88151602c18cfd7b\"",
+  "Last-Modified": "Mon, 12 Oct 2026 18:15:23 GMT",
   "base": {
     "repo": {
       "name": "rtoml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T18:15:23Z",
   "created_at": "2026-10-12T07:55:17Z",
   "draft": false,
   "e_tag": "\"f5e617ea6b870688362d12aa1a079105843fbe1a832e2ada703be4cf5ec1cf35\"",
   "head": {
-    "ref": "0.14.0_h9b0ad9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rtoml-feedstock/pull/14",
   "id": 4826516127,
   "labels": [],
-  "last_fetched": "2026-10-12T11:31:04.372327",
+  "last_fetched": "2026-10-12T18:17:01.304460",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T18:15:23Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-12T07:57:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T18:15:23Z"
 }

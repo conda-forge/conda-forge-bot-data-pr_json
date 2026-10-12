@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"5ea4a77b1b0a3ef1cfe62533f60dc9ca4f5549cc7455fcb2a97ac2c830087e4d\"",
-  "Last-Modified": "Mon, 12 Oct 2026 12:46:18 GMT",
+  "ETag": "W/\"b8a8d0e4396ec050ac440ab063a80f38f77b3071866f3455132acaee9c9a4671\"",
+  "Last-Modified": "Mon, 12 Oct 2026 14:12:45 GMT",
   "base": {
     "repo": {
       "name": "coastsat-package-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T14:12:45Z",
   "created_at": "2026-10-10T10:33:53Z",
   "draft": false,
   "e_tag": "\"6d477146966930310578affc17c848d7761f281880e82d8305deb172a0199d26\"",
   "head": {
-    "ref": "0.5.1_h34df97"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/coastsat-package-feedstock/pull/71",
   "id": 4810552223,
   "labels": [],
-  "last_fetched": "2026-10-12T14:06:49.242962",
+  "last_fetched": "2026-10-12T14:15:01.213647",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T14:12:45Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-10-12T12:46:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T14:12:45Z"
 }

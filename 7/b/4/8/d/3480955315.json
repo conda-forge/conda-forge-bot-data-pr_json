@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c36cabe80d3c0d4d1c628e5a91263dc63b19e72852943793a9709cadac9df86f\"",
-  "Last-Modified": "Mon, 12 Oct 2026 10:37:00 GMT",
+  "ETag": "W/\"f1d7931418a56c8cfb2600a16af97d2afa0afe2e29d71962f6125c916d50fa5f\"",
+  "Last-Modified": "Mon, 12 Oct 2026 10:36:57 GMT",
   "base": {
     "repo": {
       "name": "tango-atk-panel-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/tango-atk-panel-feedstock/pull/2",
   "id": 3480955315,
-  "labels": [],
-  "last_fetched": "2026-10-12T10:38:33.935994",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-12T10:37:00.035694",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 2,
   "state": "closed",
-  "updated_at": "2026-10-12T10:37:00Z"
+  "updated_at": "2026-10-12T10:36:57Z"
 }

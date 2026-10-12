@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"263cd519eb7c97e06405a0c19fb6a96b0b7fdb430746ae3fad7e244c73d3a12c\"",
+  "Last-Modified": "Mon, 12 Oct 2026 17:03:09 GMT",
   "base": {
     "repo": {
       "name": "financedatabase-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T17:03:09Z",
   "created_at": "2026-10-12T12:25:53Z",
   "draft": false,
   "e_tag": "\"f1ee340a3fea310cd34e2c90c2b67e318003073754ef9fa678462baf3a8118c4\"",
   "head": {
-    "ref": "2.5.1_haf9b41"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/financedatabase-feedstock/pull/9",
   "id": 4829373932,
   "labels": [],
-  "last_fetched": "2026-10-12T12:25:55.534549",
+  "last_fetched": "2026-10-12T17:04:20.215960",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T17:03:09Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-12T12:25:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T17:03:09Z"
 }

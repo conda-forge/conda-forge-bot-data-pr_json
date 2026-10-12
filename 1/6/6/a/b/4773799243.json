@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d9f750fd504a69bfa7114c7a97fecda9bd67b429a372582fbe1dce375dfdd3f7\"",
-  "Last-Modified": "Sat, 10 Oct 2026 19:01:42 GMT",
+  "ETag": "W/\"bee26d2cdd3a7f63a0eeeeeab9fd2a555c2cc1e07e5f656799648ef7b39bd557\"",
+  "Last-Modified": "Mon, 12 Oct 2026 14:56:10 GMT",
   "base": {
     "repo": {
       "name": "napari-ome-zarr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T14:56:10Z",
   "created_at": "2026-10-07T14:03:55Z",
   "draft": false,
   "e_tag": "\"fd0bc6d409a6426a3cf23b703412e10a23bd000c0ec3f853f2dfd7fb0053fa8e\"",
   "head": {
-    "ref": "0.11.0_h780a82"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/napari-ome-zarr-feedstock/pull/24",
   "id": 4773799243,
   "labels": [],
-  "last_fetched": "2026-10-10T19:22:40.029422",
+  "last_fetched": "2026-10-12T14:57:38.244171",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T14:56:10Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-10T19:01:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T14:56:10Z"
 }

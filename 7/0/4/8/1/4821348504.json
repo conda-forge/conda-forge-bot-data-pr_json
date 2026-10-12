@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"48e47897884fc057218100a15ba4b7b39c237344f6527880929de7fb31e53ab3\"",
-  "Last-Modified": "Sun, 11 Oct 2026 18:33:59 GMT",
+  "ETag": "W/\"0bb7fa443f2d6a75050f7951dd0a7352c8b0a2d98e88d3d6263cf29276b3bf5f\"",
+  "Last-Modified": "Mon, 12 Oct 2026 06:48:21 GMT",
   "base": {
     "repo": {
       "name": "devtools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T06:48:20Z",
   "created_at": "2026-10-11T18:32:38Z",
   "draft": false,
   "e_tag": "\"c7ae80bcef7c28e95841365190a9b1a7548762f9c876801ce8ff1250f6d7a048\"",
   "head": {
-    "ref": "0.13.0_hf467b5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/devtools-feedstock/pull/2",
   "id": 4821348504,
   "labels": [],
-  "last_fetched": "2026-10-11T22:49:35.652648",
+  "last_fetched": "2026-10-12T06:49:57.908402",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T06:48:20Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-11T18:33:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T06:48:21Z"
 }

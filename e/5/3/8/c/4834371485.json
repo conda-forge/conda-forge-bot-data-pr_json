@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"eed0a35ead6bf468869c74d7a4c1c05ce136955b4e0f76c6fc44926b0d86cace\"",
+  "Last-Modified": "Mon, 12 Oct 2026 20:16:28 GMT",
   "base": {
     "repo": {
       "name": "fenicsx-pulse-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T20:16:28Z",
   "created_at": "2026-10-12T20:00:44Z",
   "draft": false,
   "e_tag": "\"5691ba9306b03d6a64cea789a88ecd3211038c26bea6d03f8468cddbce97a743\"",
   "head": {
-    "ref": "0.12.0_hab369f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fenicsx-pulse-feedstock/pull/16",
   "id": 4834371485,
   "labels": [],
-  "last_fetched": "2026-10-12T20:00:44.926538",
+  "last_fetched": "2026-10-12T20:17:35.911857",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T20:16:28Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-12T20:00:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T20:16:28Z"
 }

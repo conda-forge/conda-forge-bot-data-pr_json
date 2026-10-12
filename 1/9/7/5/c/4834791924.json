@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"15dbe5bef63eeaf0e4bfa41c4df471ae42de40839f692027e1c50e14994c27e2\"",
+  "Last-Modified": "Mon, 12 Oct 2026 20:48:23 GMT",
   "base": {
     "repo": {
       "name": "python-installer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T20:48:19Z",
   "created_at": "2026-10-12T20:44:55Z",
   "draft": false,
   "e_tag": "\"7a10ec8cfa60b35b3b5638919796dcb1abb7440b41a978cc7c51a8c6f6409872\"",
   "head": {
-    "ref": "1.1.0_hd853a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-installer-feedstock/pull/16",
   "id": 4834791924,
   "labels": [],
-  "last_fetched": "2026-10-12T20:44:56.658882",
+  "last_fetched": "2026-10-12T20:50:15.962006",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T20:48:19Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-12T20:44:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T20:48:23Z"
 }

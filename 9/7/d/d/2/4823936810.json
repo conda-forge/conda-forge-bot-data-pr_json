@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"367fb3ceb9746ae9f734ad7bac9827d6a5c113759e7d582cc0089af56687f125\"",
-  "Last-Modified": "Mon, 12 Oct 2026 01:42:56 GMT",
+  "ETag": "W/\"1e27e1770f04db65bc68e6a426b0245119702ea73f515f3dba491f1cb9e52f33\"",
+  "Last-Modified": "Mon, 12 Oct 2026 18:17:33 GMT",
   "base": {
     "repo": {
       "name": "pydoclint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T18:17:33Z",
   "created_at": "2026-10-12T01:41:05Z",
   "draft": false,
   "e_tag": "\"81c117120fb248d739e073157e7e20af83b7d13c1af94d7538b5e86e383c30ee\"",
   "head": {
-    "ref": "0.11.1_h9237c4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pydoclint-feedstock/pull/12",
   "id": 4823936810,
   "labels": [],
-  "last_fetched": "2026-10-12T05:35:34.762674",
+  "last_fetched": "2026-10-12T18:19:19.009845",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T18:17:33Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-12T01:42:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T18:17:33Z"
 }

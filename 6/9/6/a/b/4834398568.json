@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b183e22c0e4a6cb7b84ef573ca8327057c6fc453f566dbe7f93ef1baa6a32d06\"",
-  "Last-Modified": "Mon, 12 Oct 2026 20:04:56 GMT",
+  "ETag": "W/\"d19a4c13cd4b06e93fa42b61bc82f62781fc8aef596ca16af8ee6b233849fd29\"",
+  "Last-Modified": "Mon, 12 Oct 2026 23:43:33 GMT",
   "base": {
     "repo": {
       "name": "ast-serialize-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T23:43:33Z",
   "created_at": "2026-10-12T20:03:26Z",
   "draft": false,
   "e_tag": "\"d5a3b1099c940c80fcf3e6875f5aaf95fd3b3896df2700d46c1b92b91c9f3332\"",
   "head": {
-    "ref": "0.13.0_h030d60"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ast-serialize-feedstock/pull/17",
   "id": 4834398568,
   "labels": [],
-  "last_fetched": "2026-10-12T23:26:04.229090",
+  "last_fetched": "2026-10-12T23:45:11.207112",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T23:43:33Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-12T20:04:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T23:43:33Z"
 }

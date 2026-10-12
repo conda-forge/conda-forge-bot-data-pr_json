@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"d800a1b193cabcddcf07b704d9c7d379a7ef0290791cb10627cd796622aa3502\"",
-  "Last-Modified": "Mon, 12 Oct 2026 14:20:08 GMT",
+  "ETag": "W/\"62428172400796306ea44e24f02eac92b70ce7facd051a78217da7c006e83b99\"",
+  "Last-Modified": "Mon, 12 Oct 2026 14:22:15 GMT",
   "base": {
     "repo": {
       "name": "absl-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T14:22:10Z",
   "created_at": "2026-10-09T19:55:26Z",
   "draft": false,
   "e_tag": "\"4d4508b7f4c69add2ba1773bf0f7909cb3b592d30ad7ea6a62fd5a99e2e0c0e3\"",
   "head": {
-    "ref": "2.5.1_h8aea9f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/absl-py-feedstock/pull/48",
   "id": 4805208911,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/absl-py-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-12T14:21:22.231458",
+  "last_fetched": "2026-10-12T14:23:26.421850",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T14:22:10Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-12T14:20:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T14:22:15Z"
 }

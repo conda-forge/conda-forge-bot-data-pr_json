@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b47d9bad4ef733259d9fbf35b1c23cac9316444405be7744ae2ad9ae1b2de3c4\"",
-  "Last-Modified": "Mon, 12 Oct 2026 18:51:37 GMT",
+  "ETag": "W/\"b700d1f142a64c12b9adac729854dc8ff3e51a1271ff43f661b5ac2836049269\"",
+  "Last-Modified": "Mon, 12 Oct 2026 21:15:29 GMT",
   "base": {
     "repo": {
       "name": "coastseg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T21:15:29Z",
   "created_at": "2026-10-10T01:22:39Z",
   "draft": false,
   "e_tag": "\"cf4f57eb935a7147d19d51bb8f14d6904f2e3e24f6ab34b8c364f9e515b4e381\"",
   "head": {
-    "ref": "2.1.2_h2dc02a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/coastseg-feedstock/pull/91",
   "id": 4807653084,
   "labels": [],
-  "last_fetched": "2026-10-12T18:57:53.379447",
+  "last_fetched": "2026-10-12T21:17:03.943592",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T21:15:29Z",
   "number": 91,
-  "state": "open",
-  "updated_at": "2026-10-12T18:51:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T21:15:29Z"
 }

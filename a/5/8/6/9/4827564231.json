@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f29449773f8363415ffa6c5c73bc8d8118e4caa9704b7574a245768a48826c6f\"",
+  "Last-Modified": "Mon, 12 Oct 2026 09:40:52 GMT",
   "base": {
     "repo": {
       "name": "auxiliary-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T09:40:47Z",
   "created_at": "2026-10-12T09:36:43Z",
   "draft": false,
   "e_tag": "\"96608fa6d4a9c1c7c1d5635b089ca27510a7967b400ec9bfce642bb932766bb7\"",
   "head": {
-    "ref": "0.4.3_h343d7b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/auxiliary-feedstock/pull/11",
   "id": 4827564231,
   "labels": [],
-  "last_fetched": "2026-10-12T09:36:45.069253",
+  "last_fetched": "2026-10-12T09:42:21.604653",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T09:40:47Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-12T09:36:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T09:40:52Z"
 }

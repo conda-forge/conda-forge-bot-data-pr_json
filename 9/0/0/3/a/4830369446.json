@@ -1,26 +1,40 @@
 {
+  "ETag": "W/\"7ae06900b24aff3a83bf7fc5a57ef492d0167df8f29846e208db5c90ed255d8d\"",
+  "Last-Modified": "Mon, 12 Oct 2026 14:12:13 GMT",
   "base": {
     "repo": {
       "name": "spatialpandas-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T14:12:08Z",
   "created_at": "2026-10-12T13:50:35Z",
   "draft": false,
   "e_tag": "\"ed2388c28890eeeda7005ebe1e1a9f767ae8c1667ea2e87d214f3fbde4fddbbe\"",
   "head": {
-    "ref": "0.6.0_hb031c4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spatialpandas-feedstock/pull/24",
   "id": 4830369446,
-  "labels": [],
-  "last_fetched": "2026-10-12T13:50:36.566671",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2203652917,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMjAzNjUyOTE3",
+      "url": "https://api.github.com/repos/conda-forge/spatialpandas-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-12T14:13:17.677749",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T14:12:08Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-12T13:50:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T14:12:13Z"
 }

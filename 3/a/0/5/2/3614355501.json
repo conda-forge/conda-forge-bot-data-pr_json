@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9a492c8421b4595722fdf52b856cf74823c81f60f5f3e18ebdce35ea831c707d\"",
-  "Last-Modified": "Mon, 12 Oct 2026 22:25:10 GMT",
+  "ETag": "W/\"05bd7130a9d2954f249393c98ecfc75d9c1860e3f58a0f15b23a3e1fcbdfd732\"",
+  "Last-Modified": "Mon, 12 Oct 2026 22:25:07 GMT",
   "base": {
     "repo": {
       "name": "pyshexc-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyshexc-feedstock/pull/2",
   "id": 3614355501,
-  "labels": [],
-  "last_fetched": "2026-10-12T22:26:41.113634",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-12T22:25:10.331893",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 2,
   "state": "closed",
-  "updated_at": "2026-10-12T22:25:10Z"
+  "updated_at": "2026-10-12T22:25:07Z"
 }

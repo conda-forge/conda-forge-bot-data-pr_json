@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f09f3a5ca27930e2c852f2c5326a6048fef981c608ce67983ca3ebd8862d0df3\"",
-  "Last-Modified": "Thu, 08 Oct 2026 20:16:24 GMT",
+  "ETag": "W/\"62e10aab03fc5017b277a7d8c0781d3a6f4ad6377aacc4505360661b9012da5d\"",
+  "Last-Modified": "Mon, 12 Oct 2026 16:50:36 GMT",
   "base": {
     "repo": {
       "name": "opera-utils-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T16:50:36Z",
   "created_at": "2026-10-08T20:14:40Z",
   "draft": false,
   "e_tag": "\"653425216f48092f165091294bdd113e6b85fb01b03f8067042426d05b79b489\"",
   "head": {
-    "ref": "0.25.9_h1dc05b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opera-utils-feedstock/pull/50",
   "id": 4792271078,
   "labels": [],
-  "last_fetched": "2026-10-08T21:59:30.605487",
+  "last_fetched": "2026-10-12T16:52:16.006463",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T16:50:36Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-10-08T20:16:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T16:50:36Z"
 }

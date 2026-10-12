@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"811abf126f0813a029be4c9c8c054a9cb79dcd834cd904681dbe2512cb86b782\"",
-  "Last-Modified": "Mon, 31 Aug 2026 06:53:46 GMT",
+  "ETag": "W/\"cfa167f0601f744d062ddde6143827f8b8a8627487d1a46f4ee78c3f02d1d006\"",
+  "Last-Modified": "Mon, 12 Oct 2026 19:43:32 GMT",
   "base": {
     "repo": {
       "name": "ntfy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T19:43:32Z",
   "created_at": "2026-08-31T06:51:59Z",
   "draft": false,
   "e_tag": "\"05c23cf67bb4060019edfcec55bfa62008de789dbf6b0d1cca1e48674b714eac\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/ntfy-feedstock/pull/21",
   "id": 4399935799,
-  "labels": [],
-  "last_fetched": "2026-10-06T22:27:31.673677",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 10160453870,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDORLPOV88AAAACXZw47g",
+      "url": "https://api.github.com/repos/conda-forge/ntfy-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-12T19:43:35.021728",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-08-31T06:53:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T19:43:32Z"
 }

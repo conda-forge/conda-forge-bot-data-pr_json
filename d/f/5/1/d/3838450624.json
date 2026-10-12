@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"f81416d67d26127fa4f72479d0b2c36b792c20c390c060c17845fb3cbc1d7ad4\"",
-  "Last-Modified": "Mon, 12 Oct 2026 01:12:28 GMT",
+  "ETag": "W/\"deac53a4476a4103462a1ce4648a12b8a254c9a8eff212e6c5ff5e6f389d311d\"",
+  "Last-Modified": "Mon, 12 Oct 2026 01:12:25 GMT",
   "base": {
     "repo": {
       "name": "adcc-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/adcc-feedstock/pull/25",
   "id": 3838450624,
-  "labels": [],
-  "last_fetched": "2026-10-12T01:14:11.395778",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-12T01:12:28.653022",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 25,
   "state": "closed",
-  "updated_at": "2026-10-12T01:12:28Z"
+  "updated_at": "2026-10-12T01:12:25Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"09638cfc33be6dff1138fb99b73bf9fb0f78af3e6c8a3d05c7755c4432c124b0\"",
+  "Last-Modified": "Mon, 12 Oct 2026 19:26:52 GMT",
   "base": {
     "repo": {
       "name": "earthkit-data-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T19:26:52Z",
   "created_at": "2026-10-12T18:50:05Z",
   "draft": false,
   "e_tag": "\"a9f664d76c11c9b886a781ff4af2320f2a582c2e967339721966de9d8fad222d\"",
   "head": {
-    "ref": "1.2.5_h204e49"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/earthkit-data-feedstock/pull/95",
   "id": 4833663632,
   "labels": [],
-  "last_fetched": "2026-10-12T18:50:07.032430",
+  "last_fetched": "2026-10-12T19:28:36.237613",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T19:26:52Z",
   "number": 95,
-  "state": "open",
-  "updated_at": "2026-10-12T18:50:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T19:26:52Z"
 }

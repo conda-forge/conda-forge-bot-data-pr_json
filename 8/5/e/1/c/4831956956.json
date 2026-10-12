@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"0c730573141618b257471b51f6826449b2fb711d728a1af69bae2503710fe505\"",
+  "Last-Modified": "Mon, 12 Oct 2026 18:45:55 GMT",
   "base": {
     "repo": {
       "name": "zapros-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T18:45:54Z",
   "created_at": "2026-10-12T16:04:47Z",
   "draft": false,
   "e_tag": "\"961ba32a8fbe3818eeb8fe7a03814fb8134d6b7bb30dd1d2391815bea1815103\"",
   "head": {
-    "ref": "0.21.0_h5aff07"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zapros-feedstock/pull/3",
   "id": 4831956956,
   "labels": [],
-  "last_fetched": "2026-10-12T16:04:47.833991",
+  "last_fetched": "2026-10-12T18:47:28.861386",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T18:45:54Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-12T16:04:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T18:45:55Z"
 }

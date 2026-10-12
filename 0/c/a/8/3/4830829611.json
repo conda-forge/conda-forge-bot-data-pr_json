@@ -1,40 +1,28 @@
 {
-  "ETag": "W/\"46bbb588f36897b904de1164a0aff051a654ecac1b4837296ae886ea3e24f037\"",
-  "Last-Modified": "Mon, 12 Oct 2026 17:28:49 GMT",
+  "ETag": "W/\"a38e631b1789dc5b653187087be3fc3328cdb27080f422149f9196f595bddac7\"",
+  "Last-Modified": "Mon, 12 Oct 2026 17:30:40 GMT",
   "base": {
     "repo": {
       "name": "valkey-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T17:30:40Z",
   "created_at": "2026-10-12T14:28:16Z",
   "draft": false,
   "e_tag": "\"993908f10b93d969b34dc940658b2ec15308d2057bc977432a76aed6dfd9c37a\"",
   "head": {
-    "ref": "6.2.0_hc787e7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/valkey-py-feedstock/pull/5",
   "id": 4830829611,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 8602611434,
-      "name": "automerge",
-      "node_id": "LA_kwDOOo3R9c8AAAACAMFu6g",
-      "url": "https://api.github.com/repos/conda-forge/valkey-py-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-10-12T17:28:57.571318",
+  "labels": [],
+  "last_fetched": "2026-10-12T17:32:17.486431",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T17:30:40Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-12T17:28:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T17:30:40Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f444d5aca65560164513c76bff876ccd99258cd5220b38841254aeaa8ac34ccc\"",
+  "Last-Modified": "Mon, 12 Oct 2026 10:04:27 GMT",
   "base": {
     "repo": {
       "name": "tree-sitter-language-pack-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T10:04:24Z",
   "created_at": "2026-10-12T09:31:42Z",
   "draft": false,
   "e_tag": "\"dfd1b6385e34b795640420dc39a7cfdd62bedd4a1bedf80df2fda3cb0d7a46e0\"",
   "head": {
-    "ref": "1.22.0_hf3e02c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tree-sitter-language-pack-feedstock/pull/58",
   "id": 4827504966,
   "labels": [],
-  "last_fetched": "2026-10-12T09:31:42.854725",
+  "last_fetched": "2026-10-12T10:06:50.280138",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T10:04:24Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-12T09:31:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T10:04:27Z"
 }

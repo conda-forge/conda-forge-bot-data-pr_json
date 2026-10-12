@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9e63ca3d57692999d41281fd56727f79984448d57d2ad73400dccd6acbf9f8d0\"",
-  "Last-Modified": "Mon, 12 Oct 2026 20:48:49 GMT",
+  "ETag": "W/\"375570c98eebaec3b6524808a82e2e892766bd9f4cdd954311ea28ca315f1413\"",
+  "Last-Modified": "Mon, 12 Oct 2026 23:47:11 GMT",
   "base": {
     "repo": {
       "name": "async-lru-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/async-lru-feedstock/pull/13",
   "id": 4834812070,
-  "labels": [],
-  "last_fetched": "2026-10-12T21:51:34.180475",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2447119263,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNDQ3MTE5MjYz",
+      "url": "https://api.github.com/repos/conda-forge/async-lru-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-12T23:48:23.413894",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 13,
   "state": "open",
-  "updated_at": "2026-10-12T20:48:49Z"
+  "updated_at": "2026-10-12T23:47:11Z"
 }

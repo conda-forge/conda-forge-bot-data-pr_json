@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6b296247c1b6b79897d0b7a0596879e94f1111170aaac7bbe204f618cf8631d4\"",
-  "Last-Modified": "Sun, 11 Oct 2026 23:57:15 GMT",
+  "ETag": "W/\"ab8fab51245592a509a97e6683cb712228dd5ce3220508c1bd10d5339275fcb8\"",
+  "Last-Modified": "Mon, 12 Oct 2026 06:36:55 GMT",
   "base": {
     "repo": {
       "name": "ntpstats-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T06:36:55Z",
   "created_at": "2026-10-11T23:55:34Z",
   "draft": false,
   "e_tag": "\"12a2e9b0e72ae8d263a54b5ce5ebb64cd7f6b3f301c806ef25d0190df17a34f4\"",
   "head": {
-    "ref": "3.7.0_h708f12"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ntpstats-feedstock/pull/2",
   "id": 4823338601,
   "labels": [],
-  "last_fetched": "2026-10-12T02:03:14.624935",
+  "last_fetched": "2026-10-12T06:37:59.700288",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T06:36:55Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-11T23:57:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T06:36:55Z"
 }

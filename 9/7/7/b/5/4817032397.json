@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f31e56b0662087916e860070ebdc348988e25255cc4d04e031748692126d9f80\"",
-  "Last-Modified": "Sun, 11 Oct 2026 06:16:52 GMT",
+  "ETag": "W/\"a33182863f63f252e0cc06d0539e2b015b339fef2de726e44f1e8d9fdd5f4bd0\"",
+  "Last-Modified": "Mon, 12 Oct 2026 18:03:57 GMT",
   "base": {
     "repo": {
       "name": "datafiles-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T18:03:57Z",
   "created_at": "2026-10-11T06:14:28Z",
   "draft": false,
   "e_tag": "\"9c2117cd933c957f14a8a9026a0d4dda9c5beba42a2ba2b51bfd6997f350226f\"",
   "head": {
-    "ref": "2.6_h442fdd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/datafiles-feedstock/pull/8",
   "id": 4817032397,
   "labels": [],
-  "last_fetched": "2026-10-11T09:27:57.995581",
+  "last_fetched": "2026-10-12T18:05:32.701111",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T18:03:57Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-11T06:16:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T18:03:57Z"
 }

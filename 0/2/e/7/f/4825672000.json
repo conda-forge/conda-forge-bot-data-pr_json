@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"422fae1db1b903193bb620bd87d4b30e7070d8d9c4a6fa761b422d868b3bd188\"",
+  "Last-Modified": "Mon, 12 Oct 2026 06:28:45 GMT",
   "base": {
     "repo": {
       "name": "scorecard-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T06:28:41Z",
   "created_at": "2026-10-12T06:19:09Z",
   "draft": false,
   "e_tag": "\"0023f1003fadcb18e5f3e2e3ba8e66a57e138c96d677f3bd0c2babad421bdbb8\"",
   "head": {
-    "ref": "5.6.0_h7ecb05"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scorecard-feedstock/pull/8",
   "id": 4825672000,
   "labels": [],
-  "last_fetched": "2026-10-12T06:19:10.272533",
+  "last_fetched": "2026-10-12T06:30:13.793842",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T06:28:41Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-12T06:19:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T06:28:45Z"
 }

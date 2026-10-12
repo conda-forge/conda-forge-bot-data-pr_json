@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"9607109bf48c838d1a55cced45aebd85091ccd44f478e6ed2b3e77ed5e888266\"",
+  "Last-Modified": "Mon, 12 Oct 2026 16:05:58 GMT",
   "base": {
     "repo": {
       "name": "genai-prices-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T16:05:58Z",
   "created_at": "2026-10-12T16:03:43Z",
   "draft": false,
   "e_tag": "\"dc940e1b481735ce64597413da5d18a4d52ac4925fd1fb63d842130606a3c4bc\"",
   "head": {
-    "ref": "0.1.11_h5da873"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/genai-prices-feedstock/pull/60",
   "id": 4831944306,
   "labels": [],
-  "last_fetched": "2026-10-12T16:03:44.829155",
+  "last_fetched": "2026-10-12T16:07:20.922728",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T16:05:58Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-12T16:03:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T16:06:03Z"
 }

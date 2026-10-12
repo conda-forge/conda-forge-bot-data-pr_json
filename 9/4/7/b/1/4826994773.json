@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"211b16cf8b49723715848bcd0d6f8c8e953951b45f749f485064dc52e5e2a86e\"",
+  "Last-Modified": "Mon, 12 Oct 2026 11:28:48 GMT",
   "base": {
     "repo": {
       "name": "tango-atk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T11:28:48Z",
   "created_at": "2026-10-12T08:43:31Z",
   "draft": false,
   "e_tag": "\"511bee7dc3b8af34191a1b0f1e26d4497b3b66de5cb0681e8accdd4acceb7798\"",
   "head": {
-    "ref": "10.0.2_hd15cac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tango-atk-feedstock/pull/33",
   "id": 4826994773,
   "labels": [],
-  "last_fetched": "2026-10-12T08:43:32.316809",
+  "last_fetched": "2026-10-12T11:30:02.726459",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T11:28:48Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-12T08:43:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T11:28:48Z"
 }

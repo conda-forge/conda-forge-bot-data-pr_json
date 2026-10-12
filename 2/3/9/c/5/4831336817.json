@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"e71e8d786d2351e3b0a04c6ff6bd55a00e99e262aa2f2fa51ea8f4b4c8c4272e\"",
+  "Last-Modified": "Mon, 12 Oct 2026 16:00:31 GMT",
   "base": {
     "repo": {
       "name": "cylc-flow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T16:00:31Z",
   "created_at": "2026-10-12T15:11:11Z",
   "draft": false,
   "e_tag": "\"bfd708d1014a75a83161e7a95034e2784bec78622c4a86c035148f86dd5ce294\"",
   "head": {
-    "ref": "8.7.0_h80a2e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cylc-flow-feedstock/pull/134",
   "id": 4831336817,
   "labels": [],
-  "last_fetched": "2026-10-12T15:11:12.806548",
+  "last_fetched": "2026-10-12T16:01:43.248843",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-12T16:00:31Z",
   "number": 134,
-  "state": "open",
-  "updated_at": "2026-10-12T15:11:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T16:00:31Z"
 }

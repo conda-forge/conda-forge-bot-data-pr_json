@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9e98985808d2a2cf0d00dc41ecf482746d9f4cbdfff01ea7f4e2bdfabd631763\"",
-  "Last-Modified": "Mon, 12 Oct 2026 10:35:43 GMT",
+  "ETag": "W/\"2909645ae40f2ed22d420889853f5e8cce83530d00d0d80c443ceaff83931bfb\"",
+  "Last-Modified": "Mon, 12 Oct 2026 10:35:41 GMT",
   "base": {
     "repo": {
       "name": "snowflake-snowpark-python-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/snowflake-snowpark-python-feedstock/pull/142",
   "id": 4519597430,
-  "labels": [],
-  "last_fetched": "2026-10-12T10:37:21.804062",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-12T10:35:43.965594",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 142,
   "state": "closed",
-  "updated_at": "2026-10-12T10:35:43Z"
+  "updated_at": "2026-10-12T10:35:41Z"
 }

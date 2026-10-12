@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a4bd372de7dae8f081c39ba8d6fc0f569d3defc0ceee2d9ef94dfec022e6ec33\"",
-  "Last-Modified": "Fri, 09 Oct 2026 14:27:35 GMT",
+  "ETag": "W/\"79a343f84bd47b19defa76d9da32c07aaeebca146b2dc18ee3b5fc9f1200d036\"",
+  "Last-Modified": "Mon, 12 Oct 2026 09:41:01 GMT",
   "base": {
     "repo": {
       "name": "pypsa-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T09:41:00Z",
   "created_at": "2026-10-09T14:25:50Z",
   "draft": false,
   "e_tag": "\"03a031f8ef30357f76f2370626b0bc3dc60fc791d22a2392a52f3f69dd53b236\"",
   "head": {
-    "ref": "1.4.0_ha11cd3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pypsa-feedstock/pull/89",
   "id": 4801760034,
   "labels": [],
-  "last_fetched": "2026-10-09T20:28:24.134652",
+  "last_fetched": "2026-10-12T09:42:39.009706",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-12T09:41:00Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-10-09T14:27:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T09:41:01Z"
 }

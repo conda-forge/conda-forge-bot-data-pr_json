@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"a919bd35bd99ddfe7a2a18614558fc0b26bee54a9efad29118a852b3d7fabd3e\"",
-  "Last-Modified": "Mon, 05 Oct 2026 19:26:43 GMT",
+  "ETag": "W/\"3924b53589d1d680e63e855557ea95fbbabb501098dbe005d96b320cef08bcbe\"",
+  "Last-Modified": "Mon, 12 Oct 2026 15:03:43 GMT",
   "base": {
     "repo": {
       "name": "mdtraj-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-12T15:03:43Z",
   "created_at": "2026-10-05T18:38:57Z",
   "draft": false,
   "e_tag": "\"9f9919c61bfe9f335783594a5d806ab104e8ca09744a2234920e1a21967dde40\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/mdtraj-feedstock/pull/92",
   "id": 4749337453,
-  "labels": [],
-  "last_fetched": "2026-10-05T23:47:37.592011",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891017399,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMDE3Mzk5",
+      "url": "https://api.github.com/repos/conda-forge/mdtraj-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-12T15:03:45.865431",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 92,
-  "state": "open",
-  "updated_at": "2026-10-05T19:26:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-12T15:03:43Z"
 }

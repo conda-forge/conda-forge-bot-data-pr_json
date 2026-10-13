@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"dd2cb596eae23e56ce8cbd6f26fff1371dda29ae827cc8e223b6ffdcbbbd1e77\"",
-  "Last-Modified": "Tue, 13 Oct 2026 20:00:33 GMT",
+  "ETag": "W/\"1de567af5f8c16f9e4461dfd550826dd7dde745710b8d68650e37342a1175f09\"",
+  "Last-Modified": "Tue, 13 Oct 2026 20:02:50 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-slack-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T20:02:45Z",
   "created_at": "2026-10-13T18:23:54Z",
   "draft": false,
   "e_tag": "\"3764569259c00e4aaa98ae0583df7e4b8cd3f5a77ba57e63dfcb8e9d4ef6e171\"",
   "head": {
-    "ref": "9.11.1_hd57c9b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-slack-feedstock/pull/61",
   "id": 4847623958,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-slack-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T20:01:47.852511",
+  "last_fetched": "2026-10-13T20:04:04.070154",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T20:02:45Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-10-13T20:00:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T20:02:50Z"
 }

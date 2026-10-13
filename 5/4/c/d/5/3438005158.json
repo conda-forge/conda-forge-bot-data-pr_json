@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"51d13077efc2c2dc54edcd1a45e8df38047ba1ce88ff235e91ef8ae60fe08ce3\"",
-  "Last-Modified": "Tue, 13 Oct 2026 21:24:22 GMT",
+  "ETag": "W/\"9a34cff7ce3cc06ef19f0231aa8db7bd6d412d975faa62ce2172833d197ce9de\"",
+  "Last-Modified": "Tue, 13 Oct 2026 21:24:20 GMT",
   "base": {
     "repo": {
       "name": "gdma-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/gdma-feedstock/pull/18",
   "id": 3438005158,
-  "labels": [],
-  "last_fetched": "2026-10-13T21:25:55.319926",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T21:24:22.733222",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 18,
   "state": "closed",
-  "updated_at": "2026-10-13T21:24:22Z"
+  "updated_at": "2026-10-13T21:24:20Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c8403c79ba493476633b1a6ca67ab2942b810c4312741f95ec32a5bd256ac5f9\"",
-  "Last-Modified": "Tue, 13 Oct 2026 17:39:18 GMT",
+  "ETag": "W/\"584883afe7dba340f1f162c949594ff15e20a3491116b96385ef5a8e59eddd4a\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:54:36 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-arangodb-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-arangodb-feedstock/pull/25",
   "id": 4847090598,
-  "labels": [],
-  "last_fetched": "2026-10-13T19:25:31.119720",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5863182136,
+      "name": "automerge",
+      "node_id": "LA_kwDOKJAOss8AAAABXXkPOA",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-arangodb-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T19:56:10.572410",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 25,
   "state": "open",
-  "updated_at": "2026-10-13T17:39:18Z"
+  "updated_at": "2026-10-13T19:54:36Z"
 }

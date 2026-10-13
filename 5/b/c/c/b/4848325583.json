@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"d74ac34d3cfdb85f546058780cebb76d38447e662fcd5903a4f407e435cfb435\"",
+  "Last-Modified": "Tue, 13 Oct 2026 20:20:27 GMT",
   "base": {
     "repo": {
       "name": "microsoft-kiota-abstractions-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/microsoft-kiota-abstractions-feedstock/pull/48",
   "id": 4848325583,
-  "labels": [],
-  "last_fetched": "2026-10-13T19:23:37.124206",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6977573752,
+      "name": "automerge",
+      "node_id": "LA_kwDOL-a_t88AAAABn-VTeA",
+      "url": "https://api.github.com/repos/conda-forge/microsoft-kiota-abstractions-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T20:22:08.416581",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 48,
   "state": "open",
-  "updated_at": "2026-10-13T19:23:35Z"
+  "updated_at": "2026-10-13T20:20:27Z"
 }

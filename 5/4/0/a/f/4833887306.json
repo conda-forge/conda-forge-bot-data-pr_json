@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"3e50bc35d4a270f554208b67fb493b3943e17585988a2ef53fb8c166a13e6df4\"",
-  "Last-Modified": "Mon, 12 Oct 2026 19:17:30 GMT",
+  "ETag": "W/\"26ad855df79f017946ddc6095cff6220525ff26a551adf0aa6de87afbf6b0921\"",
+  "Last-Modified": "Tue, 13 Oct 2026 12:00:22 GMT",
   "base": {
     "repo": {
       "name": "ta-lib-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/ta-lib-feedstock/pull/65",
   "id": 4833887306,
-  "labels": [],
-  "last_fetched": "2026-10-12T19:23:58.443552",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2386086452,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMzg2MDg2NDUy",
+      "url": "https://api.github.com/repos/conda-forge/ta-lib-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T12:02:01.100843",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 65,
   "state": "open",
-  "updated_at": "2026-10-12T19:17:30Z"
+  "updated_at": "2026-10-13T12:00:22Z"
 }

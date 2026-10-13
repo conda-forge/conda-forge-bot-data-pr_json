@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"d74d4d143fe45d6800968e5c3d86b0453a3328988ab2855dc0b7718703782e97\"",
-  "Last-Modified": "Tue, 13 Oct 2026 19:15:10 GMT",
+  "ETag": "W/\"d8c540dc8a72bb5f4fed874359c41cea3093783a3b697824693e455f0bd365f0\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:57:09 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-influxdb-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-influxdb-feedstock/pull/31",
   "id": 4848209968,
-  "labels": [],
-  "last_fetched": "2026-10-13T19:47:33.706179",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3972497817,
+      "name": "automerge",
+      "node_id": "LA_kwDOHEwrL87sx4GZ",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-influxdb-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T19:58:44.090622",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 31,
   "state": "open",
-  "updated_at": "2026-10-13T19:15:10Z"
+  "updated_at": "2026-10-13T19:57:09Z"
 }

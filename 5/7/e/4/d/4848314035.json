@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"31ab2b6a0d8c1322ed9d0c96f2e37beb1c5f9731e4317a49372acca1749f6c5d\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:24:46 GMT",
   "base": {
     "repo": {
       "name": "ufolib2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T19:24:42Z",
   "created_at": "2026-10-13T19:22:32Z",
   "draft": false,
   "e_tag": "\"68ab3ceaba8d22f9092b007bca4b0daf5cdab847fc74a7fc0ad6772f17cbaccc\"",
   "head": {
-    "ref": "0.19.1_hb9fcb8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ufolib2-feedstock/pull/13",
   "id": 4848314035,
   "labels": [],
-  "last_fetched": "2026-10-13T19:22:32.974159",
+  "last_fetched": "2026-10-13T19:26:21.300386",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T19:24:42Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-13T19:22:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T19:24:46Z"
 }

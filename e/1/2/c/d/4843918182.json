@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"947114a9af9f999ea2c34f2bc10dc135e5f1698308333be0c2e3124c22609caa\"",
-  "Last-Modified": "Tue, 13 Oct 2026 13:26:02 GMT",
+  "ETag": "W/\"26c06bc4ffdbac1b852f198fd6863363bbb2f6afcd85c208c767c5f9238297fe\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:19:50 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-trino-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-trino-feedstock/pull/59",
   "id": 4843918182,
-  "labels": [],
-  "last_fetched": "2026-10-13T15:30:06.228122",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3147486755,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMTQ3NDg2NzU1",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-trino-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:20:59.657542",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 59,
   "state": "open",
-  "updated_at": "2026-10-13T13:26:02Z"
+  "updated_at": "2026-10-13T16:19:54Z"
 }

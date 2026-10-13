@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"ee1c0ed1c0916b2684194618b5f07d017550b3b9d6d5996cb802a178e2fcd147\"",
-  "Last-Modified": "Tue, 13 Oct 2026 11:27:37 GMT",
+  "ETag": "W/\"918a556dd52733a8137341316197643926a0b7b8f49f008585cbe973baa08cd2\"",
+  "Last-Modified": "Tue, 13 Oct 2026 11:27:35 GMT",
   "base": {
     "repo": {
       "name": "scinumtools3-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/scinumtools3-feedstock/pull/12",
   "id": 4595917892,
-  "labels": [],
-  "last_fetched": "2026-10-13T11:28:57.425011",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T11:27:38.163040",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 12,
   "state": "closed",
-  "updated_at": "2026-10-13T11:27:37Z"
+  "updated_at": "2026-10-13T11:27:35Z"
 }

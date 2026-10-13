@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"0ee74d2799aa616ba5a2819a857bc6799fff3c89b47743c256a27454c8090a12\"",
-  "Last-Modified": "Tue, 13 Oct 2026 19:58:45 GMT",
+  "ETag": "W/\"94d45653b60d5c776aa43fb14621f20a0f6830f65472e382f2af007279e54ae6\"",
+  "Last-Modified": "Tue, 13 Oct 2026 20:02:27 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-pagerduty-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T20:02:22Z",
   "created_at": "2026-10-13T19:14:31Z",
   "draft": false,
   "e_tag": "\"311510dc65f010508bfedd3bab19729064b296c8d77111f545924ac6a023d4af\"",
   "head": {
-    "ref": "5.3.1_hce5a23"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-pagerduty-feedstock/pull/41",
   "id": 4848223999,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-pagerduty-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T19:59:54.262625",
+  "last_fetched": "2026-10-13T20:04:40.988042",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T20:02:22Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-13T19:58:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T20:02:27Z"
 }

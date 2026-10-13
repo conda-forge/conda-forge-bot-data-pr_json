@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b76900042bbcf6c24d05fd123424b9e21394f9e83a08d09380c956c3dc8ac443\"",
+  "Last-Modified": "Tue, 13 Oct 2026 23:15:32 GMT",
   "base": {
     "repo": {
       "name": "metaflow-netflixext-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T23:15:27Z",
   "created_at": "2026-10-13T23:11:39Z",
   "draft": false,
   "e_tag": "\"33a91c65ce46583dbc354d02bf071c789c1bb16f43bc8f67b4cb0d557222b545\"",
   "head": {
-    "ref": "1.3.17_hce78de"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/metaflow-netflixext-feedstock/pull/20",
   "id": 4850647664,
   "labels": [],
-  "last_fetched": "2026-10-13T23:11:40.754449",
+  "last_fetched": "2026-10-13T23:16:33.246715",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T23:15:27Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-13T23:11:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T23:15:32Z"
 }

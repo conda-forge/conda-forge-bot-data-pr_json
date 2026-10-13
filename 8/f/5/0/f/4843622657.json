@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"4fe79611ab620d09e6bdd118d90f8ed376726c9fe24ef2c5de90f8d48c12808e\"",
-  "Last-Modified": "Tue, 13 Oct 2026 16:10:05 GMT",
+  "ETag": "W/\"1d6513f75bf2ec7028ee52554855d3c8969b77db4fc708b0da3ed8f599ce24f4\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:12:22 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-discord-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T16:12:17Z",
   "created_at": "2026-10-13T13:01:11Z",
   "draft": false,
   "e_tag": "\"b1acbaab24cfa5e5e9c1abe2f3fcb6ddcb65ba176968fb496649ced843fb795f\"",
   "head": {
-    "ref": "3.12.4_h7c9d80"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-discord-feedstock/pull/34",
   "id": 4843622657,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-discord-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T16:11:50.295632",
+  "last_fetched": "2026-10-13T16:13:53.525788",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T16:12:17Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-13T16:10:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T16:12:22Z"
 }

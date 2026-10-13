@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b0f26c0b0ac33f521aacd449d4d297c391da55ea9d206c7994e5024beefbbec0\"",
-  "Last-Modified": "Mon, 12 Oct 2026 21:58:54 GMT",
+  "ETag": "W/\"c78efe2fb8f7edfc0a01e37d199f1b4ab1aac08273fe1983091142bf611d57c9\"",
+  "Last-Modified": "Tue, 13 Oct 2026 02:44:50 GMT",
   "base": {
     "repo": {
       "name": "openmmtools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T02:44:50Z",
   "created_at": "2026-10-10T16:14:31Z",
   "draft": false,
   "e_tag": "\"43990456d0279c070d358e1011f174c2bb939dca6afabfa69a2f49f776968df1\"",
   "head": {
-    "ref": "0.27.0_he26cdb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openmmtools-feedstock/pull/43",
   "id": 4812639100,
   "labels": [],
-  "last_fetched": "2026-10-12T23:49:23.849984",
+  "last_fetched": "2026-10-13T02:46:29.066949",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T02:44:50Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-10-12T21:58:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T02:44:50Z"
 }

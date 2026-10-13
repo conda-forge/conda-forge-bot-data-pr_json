@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"58cb863a273c05a8ce7af3533c84891c493de7dff89f7c46ae302c1ff23406d5\"",
-  "Last-Modified": "Tue, 13 Oct 2026 14:04:47 GMT",
+  "ETag": "W/\"ff7b7772aa5958165065f73df94cd073a8a216af41d1f7fe4358788b21b22262\"",
+  "Last-Modified": "Tue, 13 Oct 2026 14:04:43 GMT",
   "base": {
     "repo": {
       "name": "ms_entropy-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/ms_entropy-feedstock/pull/17",
   "id": 4593731203,
-  "labels": [],
-  "last_fetched": "2026-10-13T14:06:28.015453",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T14:04:47.208404",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 17,
   "state": "closed",
-  "updated_at": "2026-10-13T14:04:47Z"
+  "updated_at": "2026-10-13T14:04:43Z"
 }

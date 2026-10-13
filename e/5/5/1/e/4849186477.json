@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"ad8493af154261086a25f27628deb32e9fba8a1ee4bc9bebe1ec0811e24a724b\"",
-  "Last-Modified": "Tue, 13 Oct 2026 20:41:25 GMT",
+  "ETag": "W/\"83194280ee2d5731b4b94584aaafc6b7f2e3529d9b5c3fb7a7e3d11e9c6af754\"",
+  "Last-Modified": "Tue, 13 Oct 2026 20:44:33 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-mysql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T20:44:33Z",
   "created_at": "2026-10-13T20:39:18Z",
   "draft": false,
   "e_tag": "\"035ce24b97b4c82a3226a25e74382d74ba8da155a11b5ed487d7accf94cf3349\"",
   "head": {
-    "ref": "6.7.1_ha6b373"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-mysql-feedstock/pull/64",
   "id": 4849186477,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-mysql-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T20:42:39.661342",
+  "last_fetched": "2026-10-13T20:46:12.143331",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T20:44:33Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-10-13T20:41:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T20:44:37Z"
 }

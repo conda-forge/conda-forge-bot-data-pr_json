@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"2768da81de51b6e01e3c9a36426a8293764c8705584f9632566f022117ddd9b5\"",
-  "Last-Modified": "Tue, 13 Oct 2026 11:53:33 GMT",
+  "ETag": "W/\"ccba6391079192332a60b1501ab83e55731b188b685d3fba7291960195158e1b\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:03:59 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-drill-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-drill-feedstock/pull/38",
   "id": 4842783068,
-  "labels": [],
-  "last_fetched": "2026-10-13T15:52:47.821081",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3447660129,
+      "name": "automerge",
+      "node_id": "LA_kwDOGNhbN87Nfx5h",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-drill-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:05:42.030581",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 38,
   "state": "open",
-  "updated_at": "2026-10-13T11:53:33Z"
+  "updated_at": "2026-10-13T16:03:59Z"
 }

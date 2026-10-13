@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"d54a1ad4203440897fbe0c91fdeac0cd39b760c3873b82a6a09176a6580092e6\"",
-  "Last-Modified": "Tue, 13 Oct 2026 00:29:02 GMT",
+  "ETag": "W/\"d1c3b9590acad93cd2a346592568384df38f30b022e63b69cccbd8c90bdcc47d\"",
+  "Last-Modified": "Tue, 13 Oct 2026 05:32:23 GMT",
   "base": {
     "repo": {
       "name": "typeshed-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T05:32:23Z",
   "created_at": "2026-10-13T00:27:17Z",
   "draft": false,
   "e_tag": "\"f75918d338dbaac733063fc716d5a2985c11046415caff3604ce081538d37077\"",
   "head": {
-    "ref": "2.14.0_h280d8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/typeshed-client-feedstock/pull/16",
   "id": 4836612667,
   "labels": [],
-  "last_fetched": "2026-10-13T02:58:36.903420",
+  "last_fetched": "2026-10-13T05:34:01.440249",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T05:32:23Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-13T00:29:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T05:32:23Z"
 }

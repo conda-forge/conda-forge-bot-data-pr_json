@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"4af172632d91bbd4ba887e4fd0b4918d6cf97722df1ca6716271d71531368343\"",
-  "Last-Modified": "Tue, 13 Oct 2026 18:27:31 GMT",
+  "ETag": "W/\"fac2104be5f1edf4218d01297285d384606214b3f6afac6fe40f0fdd4bbe6d74\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:56:21 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-docker-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-docker-feedstock/pull/68",
   "id": 4847666189,
-  "labels": [],
-  "last_fetched": "2026-10-13T19:48:56.486862",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746836999,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM2OTk5",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-docker-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T19:57:55.073380",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 68,
   "state": "open",
-  "updated_at": "2026-10-13T18:29:01Z"
+  "updated_at": "2026-10-13T19:56:24Z"
 }

@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"e0d3952e1f6e585b154af83157a5e20854f511b5920bceabffbef045fcf3f386\"",
-  "Last-Modified": "Sat, 08 Aug 2026 07:51:39 GMT",
+  "ETag": "W/\"a6ab6aa3b46e9543229d6210b9e93af965d72a8d7c2e51728e718d30ea722815\"",
+  "Last-Modified": "Tue, 13 Oct 2026 11:27:46 GMT",
   "base": {
     "repo": {
       "name": "crun-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T11:27:46Z",
   "created_at": "2026-08-08T07:50:04Z",
   "draft": false,
   "e_tag": "\"e5fe5318f7ae95731ca57c1b355d328a3ba02b07c5c87ca7deb72abcea9de528\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/crun-feedstock/pull/21",
   "id": 4233738967,
-  "labels": [],
-  "last_fetched": "2026-10-06T04:31:15.230953",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T11:27:49.279695",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-08-08T07:51:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T11:27:46Z"
 }

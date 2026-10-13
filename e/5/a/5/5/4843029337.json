@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"d3db338e8418c8593ee2ec7d8625a6bacb6d26437616aa345678176192875406\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:18:13 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-sqlite-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-sqlite-feedstock/pull/42",
   "id": 4843029337,
-  "labels": [],
-  "last_fetched": "2026-10-13T12:12:34.429307",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2739092171,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzM5MDkyMTcx",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-sqlite-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:19:48.524131",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 42,
   "state": "open",
-  "updated_at": "2026-10-13T12:12:33Z"
+  "updated_at": "2026-10-13T16:18:13Z"
 }

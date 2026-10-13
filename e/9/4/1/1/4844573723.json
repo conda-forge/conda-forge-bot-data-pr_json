@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"fcf4799ccec1f9dd3d819773c8ec7ee3cdd4509506d9e4b7f5fde0a9ba814cbf\"",
-  "Last-Modified": "Tue, 13 Oct 2026 16:05:50 GMT",
+  "ETag": "W/\"984e87fc7a6014ee20d0af260078a36c8369ba83a7b8061601fe5aa1a6929a94\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:08:06 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-kylin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T16:08:00Z",
   "created_at": "2026-10-13T14:14:18Z",
   "draft": false,
   "e_tag": "\"d9e14d0aa1d50a3366981e259c1b38d563333af8a413bc1b9c747bf38ddf2ea8\"",
   "head": {
-    "ref": "3.11.1_h143f37"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-kylin-feedstock/pull/32",
   "id": 4844573723,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-kylin-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T16:07:39.838484",
+  "last_fetched": "2026-10-13T16:09:52.905258",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T16:07:59Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-10-13T16:05:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T16:08:06Z"
 }

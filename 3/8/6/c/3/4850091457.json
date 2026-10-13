@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"c050cbb3b53195e72f32b2d231a98082bed35cbc95de59b2c34d94038b1347fd\"",
+  "Last-Modified": "Tue, 13 Oct 2026 22:10:10 GMT",
   "base": {
     "repo": {
       "name": "pcdswidgets-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T22:10:10Z",
   "created_at": "2026-10-13T22:06:40Z",
   "draft": false,
   "e_tag": "\"c25e021b0c3f41b01793e95c737a97e75c40a3f87207e633e39f317f48b7fd61\"",
   "head": {
-    "ref": "2.4.2_h443a73"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pcdswidgets-feedstock/pull/36",
   "id": 4850091457,
   "labels": [],
-  "last_fetched": "2026-10-13T22:06:41.675483",
+  "last_fetched": "2026-10-13T22:12:25.598543",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T22:10:10Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-13T22:06:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T22:10:10Z"
 }

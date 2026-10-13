@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"fc5b61a15ff500c6bde3926fc3e7c787159f4cfb5bd631b0d9bd8d646af12727\"",
+  "Last-Modified": "Tue, 13 Oct 2026 18:47:08 GMT",
   "base": {
     "repo": {
       "name": "ast-grep-py-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/ast-grep-py-feedstock/pull/18",
   "id": 4847856483,
-  "labels": [],
-  "last_fetched": "2026-10-13T18:43:55.858158",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10307775305,
+      "name": "automerge",
+      "node_id": "LA_kwDORaku_c8AAAACZmQrSQ",
+      "url": "https://api.github.com/repos/conda-forge/ast-grep-py-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T18:49:03.851675",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-10-13T18:43:54Z"
+  "updated_at": "2026-10-13T18:47:08Z"
 }

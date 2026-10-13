@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"87b68fad1f88c27232f24e7a96b774e56944e0843ca15b0e920bbf133c1725c9\"",
-  "Last-Modified": "Tue, 13 Oct 2026 16:03:39 GMT",
+  "ETag": "W/\"f8ee4687d78468e75e7dd0a71bb648fbd5d2ce59ee0e0e298a1519ba6fe2207a\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:03:36 GMT",
   "base": {
     "repo": {
       "name": "memray-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/memray-feedstock/pull/65",
   "id": 4597497482,
-  "labels": [],
-  "last_fetched": "2026-10-13T16:05:04.404179",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:03:39.267359",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 65,
   "state": "closed",
-  "updated_at": "2026-10-13T16:03:39Z"
+  "updated_at": "2026-10-13T16:03:36Z"
 }

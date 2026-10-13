@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"dd72261afbb1042dffe8d1de5d476caab7c8fd09b2e5cda5d95bffc2e27d705d\"",
-  "Last-Modified": "Sun, 11 Oct 2026 08:54:18 GMT",
+  "ETag": "W/\"f8979934badc6542b92ee0dfa9313539a5db9f5e7cf1b08cc434cc3b072d4c01\"",
+  "Last-Modified": "Tue, 13 Oct 2026 09:29:32 GMT",
   "base": {
     "repo": {
       "name": "pyddx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T09:29:32Z",
   "created_at": "2026-09-22T00:27:29Z",
   "draft": false,
   "e_tag": "\"3c3514309082bc42e2e7ebc0488e623ffa15364099dabd0b6545319d29f4cc44\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h2f1a8a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyddx-feedstock/pull/36",
   "id": 4597350207,
   "labels": [],
-  "last_fetched": "2026-10-11T17:01:35.313757",
+  "last_fetched": "2026-10-13T09:31:50.626836",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T09:29:32Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-11T08:54:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T09:29:32Z"
 }

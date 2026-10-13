@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"60043c0b631c52d40418ada50455cf2ae5ef11c95879dc8f19cd549a1d5a8ad6\"",
-  "Last-Modified": "Tue, 13 Oct 2026 14:41:28 GMT",
+  "ETag": "W/\"f05cb3542f07d0b9c4d4e6d4360d8e508319fe425f86a4ed36531b479780ad38\"",
+  "Last-Modified": "Tue, 13 Oct 2026 14:50:05 GMT",
   "base": {
     "repo": {
       "name": "ta-lib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T14:50:01Z",
   "created_at": "2026-10-12T19:10:51Z",
   "draft": false,
   "e_tag": "\"49db87237008f7b6e74835d77bc436b85f9c09621b4d54db0d421002a0d7275a\"",
   "head": {
-    "ref": "0.8.2_h615fa3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ta-lib-feedstock/pull/65",
   "id": 4833887306,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/ta-lib-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T14:43:20.530872",
+  "last_fetched": "2026-10-13T14:51:43.200110",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T14:50:01Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-13T14:41:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T14:50:05Z"
 }

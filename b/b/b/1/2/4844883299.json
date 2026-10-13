@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"d8700d2e56efaf326165cf2da6f5b00feca3d773bdb415dfb035e7d947e65274\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:04:45 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-iceberg-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-iceberg-feedstock/pull/19",
   "id": 4844883299,
-  "labels": [],
-  "last_fetched": "2026-10-13T14:37:54.123764",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6975127144,
+      "name": "automerge",
+      "node_id": "LA_kwDOL-KiQM8AAAABn7_-aA",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-iceberg-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:06:05.713927",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 19,
   "state": "open",
-  "updated_at": "2026-10-13T14:37:53Z"
+  "updated_at": "2026-10-13T16:04:45Z"
 }

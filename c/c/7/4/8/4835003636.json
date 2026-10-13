@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"4fe55d226fe958b94947d9b365d5f380ee651eb59e52f7f81509a4f9ca041b81\"",
-  "Last-Modified": "Tue, 13 Oct 2026 02:33:27 GMT",
+  "ETag": "W/\"e85975e42561630dcab8ff22aa08556f375192950b48c4d196f90fa48e42c5eb\"",
+  "Last-Modified": "Tue, 13 Oct 2026 02:41:31 GMT",
   "base": {
     "repo": {
       "name": "libipld-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T02:41:26Z",
   "created_at": "2026-10-12T21:08:06Z",
   "draft": false,
   "e_tag": "\"b73f66971e8beb136594866f8a3de455da353025c4e56e8c2b940b6793aca6d1\"",
   "head": {
-    "ref": "3.5.0_ha53211"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libipld-feedstock/pull/18",
   "id": 4835003636,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/libipld-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T02:35:11.770608",
+  "last_fetched": "2026-10-13T02:43:05.796512",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T02:41:26Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-13T02:33:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T02:41:31Z"
 }

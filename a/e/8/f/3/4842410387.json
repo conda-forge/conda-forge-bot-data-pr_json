@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"de622b865c1c8648c157de3689200dd10a9e375066dee2d194bfba021df7cb71\"",
+  "Last-Modified": "Tue, 13 Oct 2026 11:25:01 GMT",
   "base": {
     "repo": {
       "name": "cylc-uiserver-feedstock"
@@ -6,7 +8,7 @@
   },
   "closed_at": null,
   "created_at": "2026-10-13T11:19:13Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"ec41b0ae44e4c5009a12b19e15ab641e7b0eb0445b6ab1aecf2be5ee4674b92b\"",
   "head": {
     "ref": "1.10.0_h5349ac"
@@ -14,13 +16,13 @@
   "html_url": "https://github.com/conda-forge/cylc-uiserver-feedstock/pull/96",
   "id": 4842410387,
   "labels": [],
-  "last_fetched": "2026-10-13T11:19:14.921872",
+  "last_fetched": "2026-10-13T11:26:29.349680",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 96,
   "state": "open",
-  "updated_at": "2026-10-13T11:19:13Z"
+  "updated_at": "2026-10-13T11:25:01Z"
 }

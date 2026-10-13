@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"340cd8b3aed06a3e4f0a5ee7d8f9899df24c5680ef9342d3d560e816c478707d\"",
+  "Last-Modified": "Tue, 13 Oct 2026 11:54:52 GMT",
   "base": {
     "repo": {
       "name": "starlette-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T11:54:52Z",
   "created_at": "2026-10-13T08:14:46Z",
   "draft": false,
   "e_tag": "\"1bf54f1be84891cc51220db4ead94a8a4ca990d7103da1fb8b04611d8f2fad41\"",
   "head": {
-    "ref": "1.8.0_h1d0067"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/starlette-feedstock/pull/161",
   "id": 4840365545,
   "labels": [],
-  "last_fetched": "2026-10-13T08:14:46.788660",
+  "last_fetched": "2026-10-13T11:56:09.752831",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T11:54:52Z",
   "number": 161,
-  "state": "open",
-  "updated_at": "2026-10-13T08:14:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T11:54:52Z"
 }

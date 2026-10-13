@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8401e2271bde50b04e5442685fc63f570b2a7d54d45450265a249eba1a436f23\"",
+  "Last-Modified": "Tue, 13 Oct 2026 11:03:21 GMT",
   "base": {
     "repo": {
       "name": "hatchet-migrate-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T11:03:16Z",
   "created_at": "2026-10-13T10:58:55Z",
   "draft": false,
   "e_tag": "\"61d129f255202a160c1b5b6c9810aaa06fa9db1b2872ea058a3939faf416db00\"",
   "head": {
-    "ref": "0.111.1_hf45906"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hatchet-migrate-feedstock/pull/67",
   "id": 4842189931,
   "labels": [],
-  "last_fetched": "2026-10-13T10:58:56.917428",
+  "last_fetched": "2026-10-13T11:05:03.332067",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T11:03:16Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-10-13T10:58:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T11:03:21Z"
 }

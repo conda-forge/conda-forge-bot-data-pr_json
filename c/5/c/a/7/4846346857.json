@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"5ffc0e2be4117e3c5d607ceb9893fa9685dda08f40a7afd45fda807b5584562b\"",
-  "Last-Modified": "Tue, 13 Oct 2026 16:34:27 GMT",
+  "ETag": "W/\"c00c903e61c843d006e3bc38fa74a5453bea31f8a83353b3f7ff8b9cf203eea4\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:55:25 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-common-messaging-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-common-messaging-feedstock/pull/15",
   "id": 4846346857,
-  "labels": [],
-  "last_fetched": "2026-10-13T17:48:37.143107",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8645140668,
+      "name": "automerge",
+      "node_id": "LA_kwDOOtT3zM8AAAACA0pgvA",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-common-messaging-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T19:57:06.884682",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 15,
   "state": "open",
-  "updated_at": "2026-10-13T16:34:27Z"
+  "updated_at": "2026-10-13T19:55:28Z"
 }

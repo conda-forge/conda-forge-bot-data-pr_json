@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"28f21a309a7b52888756d09e4a69f58c58e1261d6292532a8619f9712493e673\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:54:54 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-asana-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-asana-feedstock/pull/27",
   "id": 4846302792,
-  "labels": [],
-  "last_fetched": "2026-10-13T16:29:02.337238",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4004042722,
+      "name": "automerge",
+      "node_id": "LA_kwDOHIEuW87uqNfi",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-asana-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T19:57:04.627546",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 27,
   "state": "open",
-  "updated_at": "2026-10-13T16:29:01Z"
+  "updated_at": "2026-10-13T19:54:54Z"
 }

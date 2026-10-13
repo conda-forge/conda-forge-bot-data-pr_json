@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"f8998f7438944f7e531b310d267e5f61b43acb36209f269129631594d6f89297\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:54:13 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-livy-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-livy-feedstock/pull/51",
   "id": 4847679052,
-  "labels": [],
-  "last_fetched": "2026-10-13T18:28:40.193424",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746834036,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM0MDM2",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-livy-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T19:55:24.800596",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 51,
   "state": "open",
-  "updated_at": "2026-10-13T18:28:39Z"
+  "updated_at": "2026-10-13T19:54:13Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"cbc101cf5c8755ca6fec12521f9ac752862b8368fb9152d60865de8084103905\"",
+  "Last-Modified": "Tue, 13 Oct 2026 10:31:01 GMT",
   "base": {
     "repo": {
       "name": "pendulum-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T10:31:01Z",
   "created_at": "2026-10-13T09:49:00Z",
   "draft": false,
   "e_tag": "\"8a0edbeba34229a1d05385e8d194268d93aa88b7abd5066a3aee632443a921d6\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h2541e5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pendulum-feedstock/pull/49",
   "id": 4841414171,
   "labels": [],
-  "last_fetched": "2026-10-13T09:49:01.316505",
+  "last_fetched": "2026-10-13T10:32:42.658275",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T10:31:01Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-13T09:49:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T10:31:01Z"
 }

@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"a742f1edc637f23fe087c4653b0b7785ba01719fe5f90aa94383b11d8722cfe6\"",
-  "Last-Modified": "Sun, 23 Aug 2026 12:40:29 GMT",
+  "ETag": "W/\"ce0c7efacaff86c235541a4896b4173ca5cd9be4b245680a552858d898f61908\"",
+  "Last-Modified": "Tue, 13 Oct 2026 22:35:42 GMT",
   "base": {
     "repo": {
       "name": "dataeval-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T22:35:42Z",
   "created_at": "2026-08-23T12:38:52Z",
   "draft": false,
   "e_tag": "\"5d3148ea532f87a591256bee70606d5902520f05bf4a8d239c62df79a206bc0a\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/dataeval-feedstock/pull/59",
   "id": 4342085540,
-  "labels": [],
-  "last_fetched": "2026-10-06T22:26:32.866337",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T22:35:45.650874",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-08-23T12:40:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T22:35:42Z"
 }

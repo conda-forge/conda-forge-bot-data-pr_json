@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"bf4a1f1bb4a87cce99d9ec180e5411d60f5845f28aeb7b4d91b6828e49ceb91b\"",
-  "Last-Modified": "Tue, 13 Oct 2026 00:25:51 GMT",
+  "ETag": "W/\"02c714197ab1533d048216256556657581dee88c623e32409e81dde26bd58a7c\"",
+  "Last-Modified": "Tue, 13 Oct 2026 08:21:41 GMT",
   "base": {
     "repo": {
       "name": "parsl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T08:21:41Z",
   "created_at": "2026-10-13T00:24:04Z",
   "draft": false,
   "e_tag": "\"a1f7ab2aecf47fd7b63d4b1aa5a39df52edd30eb87789205944adc8e21c883f3\"",
   "head": {
-    "ref": "2026.10.12_h2f07b6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/parsl-feedstock/pull/196",
   "id": 4836587559,
   "labels": [],
-  "last_fetched": "2026-10-13T01:52:05.325432",
+  "last_fetched": "2026-10-13T08:23:19.828245",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T08:21:41Z",
   "number": 196,
-  "state": "open",
-  "updated_at": "2026-10-13T00:25:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T08:21:41Z"
 }

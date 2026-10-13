@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"912717fb5758423c6bce9c66178d3258ccd1ac77e53a6d4ffd14cfd64ca9c1ed\"",
+  "Last-Modified": "Tue, 13 Oct 2026 18:27:43 GMT",
   "base": {
     "repo": {
       "name": "jfrog-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T18:27:39Z",
   "created_at": "2026-10-13T18:20:36Z",
   "draft": false,
   "e_tag": "\"2c07262717754195e387a9213f5809491e6b1b495ec792719874f347029adf5f\"",
   "head": {
-    "ref": "2.127.0_hafd6e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jfrog-cli-feedstock/pull/90",
   "id": 4847586325,
   "labels": [],
-  "last_fetched": "2026-10-13T18:20:37.529133",
+  "last_fetched": "2026-10-13T18:28:49.905797",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T18:27:39Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-10-13T18:20:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T18:27:43Z"
 }

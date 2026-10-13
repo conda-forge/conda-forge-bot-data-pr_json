@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"f1fb5660baf8250bcd08f9fd2b96e57d61ab6a5651308650cfe4d2387954f6c0\"",
-  "Last-Modified": "Tue, 13 Oct 2026 16:13:09 GMT",
+  "ETag": "W/\"c7fc35e59426e0e347df158764dbc5946c16066bf69dca7192cc0db037c9630b\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:15:28 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-jenkins-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T16:15:24Z",
   "created_at": "2026-10-13T11:52:55Z",
   "draft": false,
   "e_tag": "\"f72fb8a8e74f1fba6a324d9b4795e3f184caad8538138c1f8a04a0e120409ca1\"",
   "head": {
-    "ref": "4.2.7_h7d9797"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-jenkins-feedstock/pull/43",
   "id": 4842795823,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-jenkins-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T16:14:40.515777",
+  "last_fetched": "2026-10-13T16:16:35.249567",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T16:15:24Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-10-13T16:13:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T16:15:28Z"
 }

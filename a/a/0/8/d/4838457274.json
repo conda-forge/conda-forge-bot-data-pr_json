@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"0a737700ca301c3501d2d53525cc40e648d71e70a8cb2585cee3eded9aa9c6d7\"",
+  "Last-Modified": "Tue, 13 Oct 2026 06:04:04 GMT",
   "base": {
     "repo": {
       "name": "liteparse-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T06:04:00Z",
   "created_at": "2026-10-13T04:41:43Z",
   "draft": false,
   "e_tag": "\"934ba10fd4156a025ea6e3cb75425d1c0e34b40a1320ab576bfbf9114e795cea\"",
   "head": {
-    "ref": "2.16.0_h912894"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/liteparse-feedstock/pull/46",
   "id": 4838457274,
   "labels": [],
-  "last_fetched": "2026-10-13T04:41:44.314447",
+  "last_fetched": "2026-10-13T06:05:32.546942",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T06:04:00Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-10-13T04:41:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T06:04:04Z"
 }

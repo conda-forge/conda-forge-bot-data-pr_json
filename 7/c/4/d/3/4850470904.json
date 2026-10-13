@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"3c3c843093758e0f3c71652b26fb5cd1a4bf071e08af6df6131bd300031a17b2\"",
+  "Last-Modified": "Tue, 13 Oct 2026 22:53:12 GMT",
   "base": {
     "repo": {
       "name": "pins-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T22:53:08Z",
   "created_at": "2026-10-13T22:49:39Z",
   "draft": false,
   "e_tag": "\"1d9f489d1d6cb82169889d5764c8ba2b318e49baf82058b52e772736bab4e030\"",
   "head": {
-    "ref": "0.9.2_h51a049"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pins-feedstock/pull/10",
   "id": 4850470904,
   "labels": [],
-  "last_fetched": "2026-10-13T22:49:40.869315",
+  "last_fetched": "2026-10-13T22:54:18.086729",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T22:53:08Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-13T22:49:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T22:53:12Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"99b7dfa68894bc84942c80e95ebe9499d65384681b7aca7af2267a132ab28d91\"",
-  "Last-Modified": "Tue, 13 Oct 2026 17:33:55 GMT",
+  "ETag": "W/\"95f369dd5bc5c79b44767b7f7ed0c5617b7b0493b5bfb84d8d56518a88d5a148\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:53:51 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-hive-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-hive-feedstock/pull/72",
   "id": 4847029320,
-  "labels": [],
-  "last_fetched": "2026-10-13T19:23:40.397547",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746835249,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM1MjQ5",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-hive-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T19:55:26.106430",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 72,
   "state": "open",
-  "updated_at": "2026-10-13T17:33:55Z"
+  "updated_at": "2026-10-13T19:53:51Z"
 }

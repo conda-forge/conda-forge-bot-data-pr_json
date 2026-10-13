@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"790b76d9e90c3bf2b636ac0c7ec2a96d9cbf1fd8667e74f9419f7182c6f1fc9f\"",
+  "Last-Modified": "Tue, 13 Oct 2026 15:03:07 GMT",
   "base": {
     "repo": {
       "name": "matscipy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T15:03:07Z",
   "created_at": "2026-10-13T14:56:41Z",
   "draft": false,
   "e_tag": "\"62bef05f4f1397a58a39e60e37035db615afbef2200859f81afe890e92dec7c7\"",
   "head": {
-    "ref": "1.3.1_h0aace5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/matscipy-feedstock/pull/31",
   "id": 4845145972,
   "labels": [],
-  "last_fetched": "2026-10-13T14:56:42.439120",
+  "last_fetched": "2026-10-13T15:04:54.685869",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T15:03:07Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-13T14:56:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T15:03:12Z"
 }

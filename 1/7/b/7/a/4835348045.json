@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b54f9c03912a1ea8b6bbb35650a56bd3e5e6af00235bed5f3905191c12ebacd0\"",
-  "Last-Modified": "Mon, 12 Oct 2026 21:46:47 GMT",
+  "ETag": "W/\"85383ab49e8f585c7101249fc905f26eb9a27cee64f94855d8410fd153b69251\"",
+  "Last-Modified": "Tue, 13 Oct 2026 06:19:09 GMT",
   "base": {
     "repo": {
       "name": "texttable-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T06:19:09Z",
   "created_at": "2026-10-12T21:44:56Z",
   "draft": false,
   "e_tag": "\"9c9984170ed832678aa4df8249242fb0a2afe72370e41f1df00b615cbd4fb7c4\"",
   "head": {
-    "ref": "1.7.1_h98bc70"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/texttable-feedstock/pull/19",
   "id": 4835348045,
   "labels": [],
-  "last_fetched": "2026-10-12T23:00:55.641129",
+  "last_fetched": "2026-10-13T06:20:22.001549",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T06:19:09Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-12T21:46:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T06:19:09Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"a7cd0178ae036f1847507038bcb314e3e178c9a2b7353ee39f9fb067098caf93\"",
-  "Last-Modified": "Tue, 13 Oct 2026 17:02:50 GMT",
+  "ETag": "W/\"db289622398a65cc104c11ab02f5da84373b26628555fb6afdf46930c384fa2d\"",
+  "Last-Modified": "Tue, 13 Oct 2026 17:02:48 GMT",
   "base": {
     "repo": {
       "name": "ast-grep-py-feedstock"
@@ -26,9 +26,12 @@
       "name": "automerge",
       "node_id": "LA_kwDORaku_c8AAAACZmQrSQ",
       "url": "https://api.github.com/repos/conda-forge/ast-grep-py-feedstock/labels/automerge"
+    },
+    {
+      "name": "bot-rerun"
     }
   ],
-  "last_fetched": "2026-10-13T17:04:26.481848",
+  "last_fetched": "2026-10-13T17:02:51.292465",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -36,5 +39,5 @@
   "merged_at": null,
   "number": 16,
   "state": "closed",
-  "updated_at": "2026-10-13T17:02:50Z"
+  "updated_at": "2026-10-13T17:02:48Z"
 }

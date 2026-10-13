@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"2d7c78b2a34f46a908f01e9c6ccc90e4212ba7416686cb026d84ae282571f0cc\"",
-  "Last-Modified": "Tue, 13 Oct 2026 19:56:43 GMT",
+  "ETag": "W/\"b2067a8d3321e38f60b33d7ac3f72d74b973a4046a3b80d2355a92119aa571ae\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:59:01 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-edge3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T19:58:56Z",
   "created_at": "2026-10-13T18:15:57Z",
   "draft": false,
   "e_tag": "\"3e6d050bf72ab1c63822a59d1c4be141a640e7ca427790a92dcd335ccf5fa60f\"",
   "head": {
-    "ref": "5.0.0_hc4264f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-edge3-feedstock/pull/30",
   "id": 4847533140,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-edge3-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T19:58:22.848132",
+  "last_fetched": "2026-10-13T20:00:07.451938",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T19:58:56Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-13T19:56:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T19:59:01Z"
 }

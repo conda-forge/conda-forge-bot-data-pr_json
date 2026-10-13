@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"60975875d840b9a10a663f12c2a3a3c41e66b6fe85403bbfcb347debb5901950\"",
-  "Last-Modified": "Tue, 13 Oct 2026 10:07:07 GMT",
+  "ETag": "W/\"54e9ae3c507df183cb4a61ac02e25e4ce1e50dcef3c8c9ab399b952f9621bee4\"",
+  "Last-Modified": "Tue, 13 Oct 2026 12:32:18 GMT",
   "base": {
     "repo": {
       "name": "flory-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T12:32:18Z",
   "created_at": "2026-10-13T10:05:25Z",
   "draft": false,
   "e_tag": "\"e870b6401ad29e1cb743f832ea06f0c1c643384d587943f91aa44d447abba9ea\"",
   "head": {
-    "ref": "0.3.2_hc7ad6c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flory-feedstock/pull/7",
   "id": 4841600513,
   "labels": [],
-  "last_fetched": "2026-10-13T10:53:03.395078",
+  "last_fetched": "2026-10-13T12:33:58.301877",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T12:32:18Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-13T10:07:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T12:32:18Z"
 }

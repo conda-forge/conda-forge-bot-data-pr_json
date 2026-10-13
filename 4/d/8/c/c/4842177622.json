@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"1ae0309db611a179da175c7a4550328048b229d474639ad0e5e7e42d402ab573\"",
+  "Last-Modified": "Tue, 13 Oct 2026 11:05:30 GMT",
   "base": {
     "repo": {
       "name": "hatchet-admin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T11:05:25Z",
   "created_at": "2026-10-13T10:57:47Z",
   "draft": false,
   "e_tag": "\"7428abc19fb81a315437a994a143f5d4453f7aa934f8ada6918d5e1372623c33\"",
   "head": {
-    "ref": "0.111.1_hf198ae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hatchet-admin-feedstock/pull/69",
   "id": 4842177622,
   "labels": [],
-  "last_fetched": "2026-10-13T10:57:48.588184",
+  "last_fetched": "2026-10-13T11:07:07.409494",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T11:05:25Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-10-13T10:57:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T11:05:30Z"
 }

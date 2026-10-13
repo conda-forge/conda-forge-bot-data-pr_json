@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"8210ddebadecd3d53ab6ec99586fd60eda5401cbb6ece7746603bb6015a404c1\"",
-  "Last-Modified": "Tue, 13 Oct 2026 08:19:40 GMT",
+  "ETag": "W/\"736615e796bcdf74b2747b0ce21bf622d6934384dfe3a1bb73f1a3f610020049\"",
+  "Last-Modified": "Tue, 13 Oct 2026 08:44:35 GMT",
   "base": {
     "repo": {
       "name": "pendulum-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T08:44:31Z",
   "created_at": "2026-10-12T22:19:53Z",
   "draft": false,
   "e_tag": "\"97cafe70adff09a9dbf360359ec3abfcc0926524d25065988e9ca394602f0915\"",
   "head": {
-    "ref": "3.3.0_he3c9a8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pendulum-feedstock/pull/48",
   "id": 4835650203,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/pendulum-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T08:21:12.656654",
+  "last_fetched": "2026-10-13T08:46:29.166733",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T08:44:31Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-13T08:19:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T08:44:35Z"
 }

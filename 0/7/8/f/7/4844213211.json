@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"673237f64caca1929647e72682edaaf196d30a76899adecf93d22a1f9613013a\"",
-  "Last-Modified": "Tue, 13 Oct 2026 13:48:34 GMT",
+  "ETag": "W/\"f542b6648a6df85cc19c407fd387a8d579a1c77bb64410fceb5ee5850a51d1c1\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:10:45 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-facebook-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-facebook-feedstock/pull/34",
   "id": 4844213211,
-  "labels": [],
-  "last_fetched": "2026-10-13T15:29:54.669671",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746829498,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODI5NDk4",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-facebook-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:11:54.171062",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 34,
   "state": "open",
-  "updated_at": "2026-10-13T13:48:34Z"
+  "updated_at": "2026-10-13T16:10:45Z"
 }

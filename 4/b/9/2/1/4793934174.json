@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b1091f52ad7399d6cf17277e1e4a09863f9cf826f4d7050c55a85302aa49749b\"",
-  "Last-Modified": "Mon, 12 Oct 2026 21:57:58 GMT",
+  "ETag": "W/\"f40ba0c713bdff461fba57f5882086322698b52e81da0df3439e325ec2bb2e0a\"",
+  "Last-Modified": "Tue, 13 Oct 2026 02:44:47 GMT",
   "base": {
     "repo": {
       "name": "mpiplus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T02:44:47Z",
   "created_at": "2026-10-08T23:18:09Z",
   "draft": false,
   "e_tag": "\"0ab366722d39899dffa90dca50ced9d0100bf1504e3a112c122377f7ec1346c6\"",
   "head": {
-    "ref": "0.0.3_h0630d2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mpiplus-feedstock/pull/16",
   "id": 4793934174,
   "labels": [],
-  "last_fetched": "2026-10-13T01:07:57.273724",
+  "last_fetched": "2026-10-13T02:46:16.796909",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T02:44:47Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-12T21:57:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T02:44:47Z"
 }

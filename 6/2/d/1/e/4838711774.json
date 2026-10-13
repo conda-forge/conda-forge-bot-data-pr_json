@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e708fb8ffbd3b433eaa51eb89a4fcd1b79afe60ac43d9c661aa74488c65c97a9\"",
-  "Last-Modified": "Tue, 13 Oct 2026 05:17:58 GMT",
+  "ETag": "W/\"90db801900c89a293710fd38e8de60798e60d26ccbf5c83748ebcc05e7f6878f\"",
+  "Last-Modified": "Tue, 13 Oct 2026 05:33:34 GMT",
   "base": {
     "repo": {
       "name": "pi-coding-agent-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T05:33:29Z",
   "created_at": "2026-10-13T05:16:08Z",
   "draft": false,
   "e_tag": "\"b511ece88966d6d0dda65b2f714d8418c716e4a2413ab3711e12565cf1a7aadd\"",
   "head": {
-    "ref": "1.2.0_hc16df5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pi-coding-agent-feedstock/pull/97",
   "id": 4838711774,
   "labels": [],
-  "last_fetched": "2026-10-13T05:31:14.245888",
+  "last_fetched": "2026-10-13T05:34:43.553049",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T05:33:29Z",
   "number": 97,
-  "state": "open",
-  "updated_at": "2026-10-13T05:17:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T05:33:34Z"
 }

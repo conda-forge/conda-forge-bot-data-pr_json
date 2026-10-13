@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"aa6a6597614671f76e557cc38391827abddfc1d5f8ce5eb72fc471ad0c3ad720\"",
+  "Last-Modified": "Tue, 13 Oct 2026 03:37:23 GMT",
   "base": {
     "repo": {
       "name": "types-s3transfer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T03:37:23Z",
   "created_at": "2026-10-13T03:35:09Z",
   "draft": false,
   "e_tag": "\"4fe16048f34d8a8adbf673caf9329974f64cfcd27d2f9b47f4f1893c379de1bd\"",
   "head": {
-    "ref": "0.19.2_hbd60c6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-s3transfer-feedstock/pull/34",
   "id": 4837973112,
   "labels": [],
-  "last_fetched": "2026-10-13T03:35:10.468931",
+  "last_fetched": "2026-10-13T03:39:44.766582",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T03:37:23Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-13T03:35:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T03:37:27Z"
 }

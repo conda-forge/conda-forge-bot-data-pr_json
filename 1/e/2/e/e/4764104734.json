@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"3c8abbe9a105ddd02ed038c94988546c6b7cd3156312b92b8996f5126605155f\"",
-  "Last-Modified": "Tue, 13 Oct 2026 22:34:51 GMT",
+  "ETag": "W/\"0fd50d6317a4bd4536eaea38de4cac59ebe9593c6d3e6c6a8279bdbd30690dee\"",
+  "Last-Modified": "Tue, 13 Oct 2026 22:34:49 GMT",
   "base": {
     "repo": {
       "name": "fleur-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/fleur-feedstock/pull/36",
   "id": 4764104734,
-  "labels": [],
-  "last_fetched": "2026-10-13T22:36:16.880458",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T22:34:51.662270",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 36,
   "state": "closed",
-  "updated_at": "2026-10-13T22:34:51Z"
+  "updated_at": "2026-10-13T22:34:49Z"
 }

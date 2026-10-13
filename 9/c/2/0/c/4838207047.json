@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"ea88789807aa8be9a7caed65508008287730b0e404deba78cc9d0cabdbdbda12\"",
-  "Last-Modified": "Tue, 13 Oct 2026 12:14:10 GMT",
+  "ETag": "W/\"45e3e726c1ec2e93e2b43cc5b37ebfa18397448fb8d66317e0f99621f03c222c\"",
+  "Last-Modified": "Tue, 13 Oct 2026 12:22:34 GMT",
   "base": {
     "repo": {
       "name": "aioquic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T12:22:34Z",
   "created_at": "2026-10-13T04:05:43Z",
   "draft": false,
   "e_tag": "\"33def683a2614ef86c148134b914a8a7610d523d4a13633f7b4ebd286d0da4a2\"",
   "head": {
-    "ref": "1.6.1_h171c1c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aioquic-feedstock/pull/14",
   "id": 4838207047,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/aioquic-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T12:15:26.517488",
+  "last_fetched": "2026-10-13T12:23:47.311180",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T12:22:34Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-13T12:14:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T12:22:38Z"
 }

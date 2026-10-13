@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"0c98dce6de6f5cf523d4f599cc6b2a58ab2eb27d3e39d7914b97f976cd581713\"",
-  "Last-Modified": "Sat, 10 Oct 2026 16:03:19 GMT",
+  "ETag": "W/\"726459603e5a160a407b9e4276163aae99dad5f038f6164d99f368839236cd8e\"",
+  "Last-Modified": "Tue, 13 Oct 2026 12:28:25 GMT",
   "base": {
     "repo": {
       "name": "executing-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T12:28:25Z",
   "created_at": "2026-10-10T16:01:45Z",
   "draft": false,
   "e_tag": "\"5af65ba5cb80bfc7be19764c8492be781a7d0a30e731d85defcfb717ab80edf0\"",
   "head": {
-    "ref": "2.3.0_ha49774"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/executing-feedstock/pull/25",
   "id": 4812547248,
   "labels": [],
-  "last_fetched": "2026-10-11T07:09:30.957257",
+  "last_fetched": "2026-10-13T12:30:54.840953",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T12:28:25Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-10-10T16:03:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T12:28:25Z"
 }

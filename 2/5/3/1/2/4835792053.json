@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4e7f49531b6d67a33b53cf939fb7fde900994d8a4d72aa796c9071c725370f03\"",
-  "Last-Modified": "Mon, 12 Oct 2026 22:37:47 GMT",
+  "ETag": "W/\"6a44958902c3d4c0ad9c429122436768267813e04bc2f992b005322c6401a131\"",
+  "Last-Modified": "Tue, 13 Oct 2026 02:50:23 GMT",
   "base": {
     "repo": {
       "name": "together-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T02:50:23Z",
   "created_at": "2026-10-12T22:35:49Z",
   "draft": false,
   "e_tag": "\"931b6b24d2aecd21aa14940a532231cf7096b7dc21a68c90ba9be5422b6fd603\"",
   "head": {
-    "ref": "2.41.0_hb08746"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/together-feedstock/pull/58",
   "id": 4835792053,
   "labels": [],
-  "last_fetched": "2026-10-13T01:52:10.940222",
+  "last_fetched": "2026-10-13T02:52:06.070775",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T02:50:23Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-12T22:37:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T02:50:23Z"
 }

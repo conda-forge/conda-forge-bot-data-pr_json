@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"36e46ec94645e612e6da36923392f1d8cc5165adfabc400a25b0bafb81fbf41e\"",
+  "Last-Modified": "Tue, 13 Oct 2026 22:21:23 GMT",
   "base": {
     "repo": {
       "name": "ncbi-datasets-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T22:21:20Z",
   "created_at": "2026-10-13T22:02:12Z",
   "draft": false,
   "e_tag": "\"39c8a850b2b68d6d4547d365cbdff624518de1d62ea24beb0feef498f6c345b1\"",
   "head": {
-    "ref": "18.39.0_h845476"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ncbi-datasets-cli-feedstock/pull/392",
   "id": 4850047806,
   "labels": [],
-  "last_fetched": "2026-10-13T22:02:13.492062",
+  "last_fetched": "2026-10-13T22:22:59.252376",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T22:21:20Z",
   "number": 392,
-  "state": "open",
-  "updated_at": "2026-10-13T22:02:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T22:21:23Z"
 }

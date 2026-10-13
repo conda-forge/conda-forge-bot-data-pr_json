@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"ad8493af154261086a25f27628deb32e9fba8a1ee4bc9bebe1ec0811e24a724b\"",
+  "Last-Modified": "Tue, 13 Oct 2026 20:41:25 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-mysql-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-mysql-feedstock/pull/64",
   "id": 4849186477,
-  "labels": [],
-  "last_fetched": "2026-10-13T20:39:19.340077",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746831343,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODMxMzQz",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-mysql-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T20:42:39.661342",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 64,
   "state": "open",
-  "updated_at": "2026-10-13T20:39:18Z"
+  "updated_at": "2026-10-13T20:41:28Z"
 }

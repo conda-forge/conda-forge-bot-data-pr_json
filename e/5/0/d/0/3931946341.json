@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"5af6cbc14907021d4b0269d9a75bd65041a6827855fec0a7b73fc7ab8a491342\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"4d9f8815b742ff4d14d7aa3d06159cfa6fc930b1cb47b99c64bbd6b4379fb87f\"",
+  "Last-Modified": "Tue, 13 Oct 2026 21:35:30 GMT",
   "base": {
     "repo": {
       "name": "podman-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T21:35:30Z",
   "created_at": "2026-06-25T01:43:18Z",
   "draft": false,
   "e_tag": "\"aa0fe10d6010ede85c575d3faebeffc42a6fa96a42941e4ac30556d88153a437\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/podman-feedstock/pull/104",
   "id": 3931946341,
-  "labels": [],
-  "last_fetched": "2026-10-06T18:53:18.317632",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T21:35:34.064478",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 104,
-  "state": "open",
-  "updated_at": "2026-06-25T23:42:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T21:35:30Z"
 }

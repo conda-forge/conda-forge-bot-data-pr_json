@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"6a6333d8dd182fe6b7f8310eabbb02da89fa51ba658aea30aa2811fec9e0f8f5\"",
-  "Last-Modified": "Tue, 13 Oct 2026 16:32:46 GMT",
+  "ETag": "W/\"df48ce6748617f511ea050975cf8618e82477ecd2dc1a25071f127225e43d711\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:32:43 GMT",
   "base": {
     "repo": {
       "name": "yt-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/yt-feedstock/pull/114",
   "id": 4242229558,
-  "labels": [],
-  "last_fetched": "2026-10-13T16:34:20.374089",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:32:46.601772",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 114,
   "state": "closed",
-  "updated_at": "2026-10-13T16:32:46Z"
+  "updated_at": "2026-10-13T16:32:43Z"
 }

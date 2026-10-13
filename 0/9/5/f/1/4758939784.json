@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"743e55f97b10181da163feb5af2c0d2f09a05dc97f615d5d23c52c7fe90901c3\"",
-  "Last-Modified": "Tue, 13 Oct 2026 04:22:16 GMT",
+  "ETag": "W/\"d4982194ffa2e99b79bfeebccdbb21f57d7f5223abbf1d7f17add9d6d760a373\"",
+  "Last-Modified": "Tue, 13 Oct 2026 04:59:10 GMT",
   "base": {
     "repo": {
       "name": "lld-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T04:59:07Z",
   "created_at": "2026-10-06T12:48:42Z",
   "draft": false,
   "e_tag": "\"9d198b99c068ceeb2de95f5448611111e4477e2ef81124fa06140f3f7b271302\"",
   "head": {
-    "ref": "23.1.3_h6ea1df"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lld-feedstock/pull/170",
   "id": 4758939784,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/lld-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-13T04:23:47.621728",
+  "last_fetched": "2026-10-13T05:00:19.082682",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T04:59:07Z",
   "number": 170,
-  "state": "open",
-  "updated_at": "2026-10-13T04:22:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T04:59:10Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"7156ae225afe75ea1071caeda67a71ab4898abc8a950757aa3ea6831e31dfaa1\"",
+  "Last-Modified": "Tue, 13 Oct 2026 19:57:54 GMT",
   "base": {
     "repo": {
       "name": "markdown-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T19:57:50Z",
   "created_at": "2026-10-13T19:55:12Z",
   "draft": false,
   "e_tag": "\"bd6c0f9c226332694150d73d4188db557db6042862e825193a10bbd58b59014c\"",
   "head": {
-    "ref": "3.11.1_he59d09"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/markdown-feedstock/pull/43",
   "id": 4848682514,
   "labels": [],
-  "last_fetched": "2026-10-13T19:55:13.187498",
+  "last_fetched": "2026-10-13T19:59:05.247943",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-13T19:57:50Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-10-13T19:55:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T19:57:54Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"982a6899294ef887fdbcbc6e3678059e1341bc2220d0c962b77b04b9c48f79c5\"",
-  "Last-Modified": "Tue, 13 Oct 2026 06:53:24 GMT",
+  "ETag": "W/\"ee3177a1d0f52948462a604d47da728b7829439409a7eb27c6e19ba73135e7fa\"",
+  "Last-Modified": "Tue, 13 Oct 2026 11:17:26 GMT",
   "base": {
     "repo": {
       "name": "easydev-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T11:17:26Z",
   "created_at": "2026-10-13T06:51:54Z",
   "draft": false,
   "e_tag": "\"0c8c44dd96c37b881ca217c3f0467d064c3379276d349f768cdea025444222e8\"",
   "head": {
-    "ref": "0.15.0_hc1a4a2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/easydev-feedstock/pull/23",
   "id": 4839518670,
   "labels": [],
-  "last_fetched": "2026-10-13T09:08:33.245727",
+  "last_fetched": "2026-10-13T11:18:29.302726",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T11:17:26Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-13T06:53:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T11:17:26Z"
 }

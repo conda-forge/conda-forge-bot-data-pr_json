@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"724bdf6efc21f0a466e30c512acb5f762a567c36b2dbc3a946102427cfbf6afa\"",
-  "Last-Modified": "Tue, 13 Oct 2026 13:18:03 GMT",
+  "ETag": "W/\"fa869256688cee3d98015d6609f07bf333330cb6f00c87ceb923dd87d85de03b\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:05:08 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-impala-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-impala-feedstock/pull/11",
   "id": 4843814476,
-  "labels": [],
-  "last_fetched": "2026-10-13T14:32:13.270074",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8645139105,
+      "name": "automerge",
+      "node_id": "LA_kwDOOtT3JM8AAAACA0paoQ",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-impala-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:06:42.683095",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 11,
   "state": "open",
-  "updated_at": "2026-10-13T13:18:03Z"
+  "updated_at": "2026-10-13T16:05:08Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a63d60a54182f7dc6626ffdecb9ae0c90f2003a9de6d003e4dc6328e6a434fa3\"",
-  "Last-Modified": "Tue, 13 Oct 2026 02:40:20 GMT",
+  "ETag": "W/\"89aa953f7abf584bdd5e79ec9095dd11d3dda458bec64735aff041bcd47ff5d4\"",
+  "Last-Modified": "Tue, 13 Oct 2026 07:25:58 GMT",
   "base": {
     "repo": {
       "name": "atpublic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T07:25:57Z",
   "created_at": "2026-10-13T02:38:27Z",
   "draft": false,
   "e_tag": "\"52a0989b62ef6a77be2d62072da20398bc7c45851d4e433bcd3a2f091415b3bb\"",
   "head": {
-    "ref": "9.0.0_h179d92"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/atpublic-feedstock/pull/32",
   "id": 4837561771,
   "labels": [],
-  "last_fetched": "2026-10-13T04:58:29.897759",
+  "last_fetched": "2026-10-13T07:27:09.381547",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T07:25:57Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-10-13T02:40:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T07:25:58Z"
 }

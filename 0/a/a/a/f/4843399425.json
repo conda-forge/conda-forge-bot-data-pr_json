@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"49e17fe121ea14ca90266aac6c55e506dab477861178b77360d4c563c03a244c\"",
-  "Last-Modified": "Tue, 13 Oct 2026 12:44:53 GMT",
+  "ETag": "W/\"f9f27622ed207ed7f6f63169b5ee4b02c7bb1b1b5e0cc97145cc9f75607dfedd\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:08:15 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-cloudant-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-cloudant-feedstock/pull/34",
   "id": 4843399425,
-  "labels": [],
-  "last_fetched": "2026-10-13T14:33:00.977755",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746836256,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM2MjU2",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-cloudant-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:09:52.866155",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 34,
   "state": "open",
-  "updated_at": "2026-10-13T12:44:53Z"
+  "updated_at": "2026-10-13T16:08:15Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"84ae50862f51414699ade48393857944839f0fac7cc4fd6aa10f4f5a8a274bc3\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:17:05 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-singularity-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-singularity-feedstock/pull/28",
   "id": 4844558331,
-  "labels": [],
-  "last_fetched": "2026-10-13T14:13:08.318695",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746833369,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODMzMzY5",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-singularity-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:18:18.974506",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 28,
   "state": "open",
-  "updated_at": "2026-10-13T14:13:07Z"
+  "updated_at": "2026-10-13T16:17:05Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"0943245c90ae3dd3b172fed94ddfee940cd3396177213c9debe0228fc6a34f94\"",
-  "Last-Modified": "Tue, 13 Oct 2026 19:56:23 GMT",
+  "ETag": "W/\"3fdffaf6e98b5d3d7b83c3f3798f2b7dfd9b38f5649bc77f5e07f3553354939f\"",
+  "Last-Modified": "Tue, 13 Oct 2026 20:58:50 GMT",
   "base": {
     "repo": {
       "name": "anycrc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T20:58:49Z",
   "created_at": "2026-10-13T19:54:00Z",
   "draft": false,
   "e_tag": "\"a967d578d1ae92690a7f6b696ab2e52932a4ae80339c7cb2bb18e13a1bbb9909\"",
   "head": {
-    "ref": "2.1.0_h71fe12"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anycrc-feedstock/pull/4",
   "id": 4848669035,
   "labels": [],
-  "last_fetched": "2026-10-13T19:59:23.303579",
+  "last_fetched": "2026-10-13T21:00:33.019445",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-13T20:58:49Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-13T19:56:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T20:58:50Z"
 }

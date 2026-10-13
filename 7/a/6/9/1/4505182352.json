@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"273666fe341bacec1c0ee695f6ba4df3532e2b9b7e96ef59b1ec4991b211de69\"",
-  "Last-Modified": "Fri, 11 Sep 2026 11:38:22 GMT",
+  "ETag": "W/\"319cccd2413697d6c9806810ffb94aa1ad6b6baf62857ee91ee20bda9c901593\"",
+  "Last-Modified": "Tue, 13 Oct 2026 08:46:43 GMT",
   "base": {
     "repo": {
       "name": "pendulum-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-13T08:46:43Z",
   "created_at": "2026-09-11T11:00:10Z",
   "draft": true,
   "e_tag": "\"1d7b61e3fe3b13f2b2014d1fa6480e81c1321b3d10c9749374631bfa6a51dd0b\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pendulum-feedstock/pull/47",
   "id": 4505182352,
-  "labels": [],
-  "last_fetched": "2026-10-10T09:48:28.685993",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891094194,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMDk0MTk0",
+      "url": "https://api.github.com/repos/conda-forge/pendulum-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-13T08:46:46.142389",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-09-11T11:38:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-13T08:46:43Z"
 }

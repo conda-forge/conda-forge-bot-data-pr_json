@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"5208247027d25b54762a87994e2ed5f9f208ddf437f1eee1bf8a4ffe64ad1619\"",
+  "Last-Modified": "Tue, 13 Oct 2026 16:11:05 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-ftp-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-ftp-feedstock/pull/44",
   "id": 4844228571,
-  "labels": [],
-  "last_fetched": "2026-10-13T13:48:01.009715",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2739091723,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzM5MDkxNzIz",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-ftp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-13T16:12:56.893344",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 44,
   "state": "open",
-  "updated_at": "2026-10-13T13:47:59Z"
+  "updated_at": "2026-10-13T16:11:05Z"
 }

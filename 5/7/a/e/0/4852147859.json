@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"8db246796c645c40507eb230bf2dc583d786ca22c64a2c0f20d3adc2d368fe1d\"",
-  "Last-Modified": "Wed, 14 Oct 2026 02:50:34 GMT",
+  "ETag": "W/\"285b2d4e6b7343a830c4a9f243dd20fe2303955dfac6324e9b7386e61af07bd5\"",
+  "Last-Modified": "Wed, 14 Oct 2026 02:52:31 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-hashicorp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T02:52:26Z",
   "created_at": "2026-10-14T02:36:08Z",
   "draft": false,
   "e_tag": "\"ac65f044fced9857aaff5e04a7d748de1dde90c89dadc3ea01963bc848c2c9e8\"",
   "head": {
-    "ref": "4.8.3_h851054"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-hashicorp-feedstock/pull/51",
   "id": 4852147859,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-hashicorp-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-14T02:52:15.742892",
+  "last_fetched": "2026-10-14T02:53:59.285815",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T02:52:26Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-14T02:50:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T02:52:31Z"
 }

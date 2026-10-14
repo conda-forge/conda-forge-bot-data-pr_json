@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"2a4502460c61f3531b732fdc466e522f703a2c93bbb881322702eb6b4c0e23b2\"",
-  "Last-Modified": "Thu, 01 Oct 2026 21:10:31 GMT",
+  "ETag": "W/\"34538ccea9b8c044a9fa13f6a353a5270af47d30ef59322517e6a30a1e83484f\"",
+  "Last-Modified": "Wed, 14 Oct 2026 06:54:47 GMT",
   "base": {
     "repo": {
       "name": "scipp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T06:54:47Z",
   "created_at": "2026-10-01T21:08:51Z",
   "draft": false,
   "e_tag": "\"3bcc30986b8e28931f1aec2236361c1a7d66fce0e06bacd1da1f612c2a388474\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hdfe410"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scipp-feedstock/pull/37",
   "id": 4709632437,
   "labels": [],
-  "last_fetched": "2026-10-09T04:36:18.388713",
+  "last_fetched": "2026-10-14T06:56:21.283244",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T06:54:47Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-10-01T21:10:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T06:54:47Z"
 }

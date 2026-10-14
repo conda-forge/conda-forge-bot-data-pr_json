@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"57ef744e5d51ec580e66120e219dcb150d8b6950801c4de1d8432821d98aa4f2\"",
+  "Last-Modified": "Wed, 14 Oct 2026 18:10:32 GMT",
   "base": {
     "repo": {
       "name": "libzip-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T18:10:31Z",
   "created_at": "2026-10-14T15:03:48Z",
   "draft": false,
   "e_tag": "\"04840f335b568bd16848ec8c1afa71b5df8ef1312991bfaeed6ae6631ef74fd7\"",
   "head": {
-    "ref": "1.12.1_h9cd40f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libzip-feedstock/pull/50",
   "id": 4859921183,
   "labels": [],
-  "last_fetched": "2026-10-14T15:03:50.653517",
+  "last_fetched": "2026-10-14T18:11:40.047986",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T18:10:31Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-10-14T15:03:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T18:10:32Z"
 }

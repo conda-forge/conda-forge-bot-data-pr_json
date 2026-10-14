@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"fa1a178dfda617d60552f7f7a8cfe61b7dc2d84d36503fffb111954029dfa992\"",
-  "Last-Modified": "Wed, 14 Oct 2026 02:23:42 GMT",
+  "ETag": "W/\"b5afd49697638dceca1b5ab34de559728cfb4223cae2911d2f6982143ae79eab\"",
+  "Last-Modified": "Wed, 14 Oct 2026 02:25:54 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-weaviate-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T02:25:50Z",
   "created_at": "2026-10-13T22:45:41Z",
   "draft": false,
   "e_tag": "\"245e57fca99a5962bde745c80d87d456aea9a0abc6227fa86ef1dbbaec3d8b23\"",
   "head": {
-    "ref": "3.5.1_h5f9714"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-weaviate-feedstock/pull/16",
   "id": 4850438652,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-weaviate-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-14T02:25:13.443338",
+  "last_fetched": "2026-10-14T02:27:22.084008",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T02:25:50Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-14T02:23:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T02:25:54Z"
 }

@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"d8e63f4ff4514a0dad87e88b7b8fad88fbe85a4e9dba122cb8f47562ece817a3\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"659b820171fcbcf5a9afc2e581821d8e94be7885cb48a3efee87b6036f8a0cc4\"",
+  "Last-Modified": "Wed, 14 Oct 2026 19:24:28 GMT",
   "base": {
     "repo": {
       "name": "sagemaker-mlops-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T19:24:28Z",
   "created_at": "2026-06-27T06:17:03Z",
   "draft": false,
   "e_tag": "\"b961d0de18f69a04c1ef4f03e43e7f2eb1074907a5198f98218fa7c4cb2bd837\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/sagemaker-mlops-feedstock/pull/19",
   "id": 3946575212,
-  "labels": [],
-  "last_fetched": "2026-10-07T18:34:28.108486",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-14T19:24:30.991457",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-06-27T06:18:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T19:24:28Z"
 }

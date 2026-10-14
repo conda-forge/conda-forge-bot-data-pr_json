@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"688b4264fa00e1ba98a558eeca69cca2d595a6d6b452e5b3999709d6a7ab838e\"",
+  "Last-Modified": "Wed, 14 Oct 2026 09:15:59 GMT",
   "base": {
     "repo": {
       "name": "fastfetch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T09:15:54Z",
   "created_at": "2026-10-14T09:07:58Z",
   "draft": false,
   "e_tag": "\"959db038d27addee80b75f0ee76fd87c3537dff1bdae48d8629af0624f198353\"",
   "head": {
-    "ref": "2.70.0_hd3bd73"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fastfetch-feedstock/pull/34",
   "id": 4855546705,
   "labels": [],
-  "last_fetched": "2026-10-14T09:07:59.655516",
+  "last_fetched": "2026-10-14T09:17:34.115863",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T09:15:54Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-14T09:07:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T09:15:59Z"
 }

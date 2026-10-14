@@ -1,28 +1,40 @@
 {
-  "ETag": "W/\"90cbeb1fa2857e413b2d428a744ecd203c397fba08b038d7dc6c250b51a7f308\"",
-  "Last-Modified": "Tue, 13 Oct 2026 22:19:26 GMT",
+  "ETag": "W/\"b132f2f629088969dab2399fcabe43c98fc09fdd11052f3a8724cb2d941fb9a4\"",
+  "Last-Modified": "Wed, 14 Oct 2026 02:30:34 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-ydb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T02:30:30Z",
   "created_at": "2026-10-13T22:17:40Z",
   "draft": false,
   "e_tag": "\"b5d4fbbdb965fda895bf42c8c14b3f06e964aa804109e49becb406576e631912\"",
   "head": {
-    "ref": "2.6.1_hc8214e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-ydb-feedstock/pull/13",
   "id": 4850196110,
-  "labels": [],
-  "last_fetched": "2026-10-14T00:55:15.851221",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8653627404,
+      "name": "automerge",
+      "node_id": "LA_kwDOOuMm-88AAAACA8vgDA",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-ydb-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-14T02:30:38.360705",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T02:30:30Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-13T22:19:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T02:30:34Z"
 }

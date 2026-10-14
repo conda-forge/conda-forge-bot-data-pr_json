@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a0227a5f7beb91f55d629464aaabb2e3333c9cf9ce6e9953506bee6ef415e75d\"",
-  "Last-Modified": "Sun, 04 Oct 2026 17:48:02 GMT",
+  "ETag": "W/\"7fd7aaa7b27f8061a4d843a9e0c13949703ec28aa33737bf37a24247b68e2165\"",
+  "Last-Modified": "Wed, 14 Oct 2026 05:57:26 GMT",
   "base": {
     "repo": {
       "name": "orekit_jpype-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T05:57:26Z",
   "created_at": "2026-10-04T17:46:24Z",
   "draft": false,
   "e_tag": "\"db09649c8e171251376410479fe55af065a2ff509619aac0813966fdaecb7aa5\"",
   "head": {
-    "ref": "13.1.9.0_h2685ec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/orekit_jpype-feedstock/pull/23",
   "id": 4736347104,
   "labels": [],
-  "last_fetched": "2026-10-12T09:44:27.426517",
+  "last_fetched": "2026-10-14T05:59:02.945907",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T05:57:25Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-04T17:48:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T05:57:26Z"
 }

@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"b6512a21905f8ac4d10827407b3c99baf818251311d2c5f37a97752a88d8d7da\"",
-  "Last-Modified": "Thu, 01 Oct 2026 09:06:55 GMT",
+  "ETag": "W/\"e56903519bd8c735c38ded156cf511c3e8c8692236fa63e439154d04db1cb456\"",
+  "Last-Modified": "Wed, 14 Oct 2026 14:29:20 GMT",
   "base": {
     "repo": {
       "name": "pybsm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T14:29:20Z",
   "created_at": "2026-10-01T09:05:12Z",
   "draft": false,
   "e_tag": "\"57b81d02d0b532ca82564dbf374a0ba0b7119983f8cdc8f5f9d676659527e577\"",
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pybsm-feedstock/pull/48",
   "id": 4701605028,
-  "labels": [],
-  "last_fetched": "2026-10-08T13:32:28.599847",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6295756038,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOK2nBUc8AAAABd0GdBg",
+      "url": "https://api.github.com/repos/conda-forge/pybsm-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-14T14:29:23.849389",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-01T09:06:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T14:29:20Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"dc4114196983357011a9974d682511c496b21f910e5abf3eec31b47815a524ab\"",
-  "Last-Modified": "Wed, 14 Oct 2026 03:01:55 GMT",
+  "ETag": "W/\"495cbac9c5e4381a78ec5044e30cbfcc11690b71a6c96d700e6f754dcfa160c5\"",
+  "Last-Modified": "Wed, 14 Oct 2026 03:01:52 GMT",
   "base": {
     "repo": {
       "name": "libusb1-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/libusb1-feedstock/pull/8",
   "id": 4760230770,
-  "labels": [],
-  "last_fetched": "2026-10-14T03:03:36.658198",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-14T03:01:55.206004",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 8,
   "state": "closed",
-  "updated_at": "2026-10-14T03:01:55Z"
+  "updated_at": "2026-10-14T03:01:52Z"
 }

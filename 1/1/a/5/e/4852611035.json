@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"cbaad3b5545df03f09e82da3b03fa363ffb84da4f350e0af04f6da3e7ad5b02d\"",
+  "Last-Modified": "Wed, 14 Oct 2026 06:05:14 GMT",
   "base": {
     "repo": {
       "name": "dsgp4-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T06:05:14Z",
   "created_at": "2026-10-14T03:40:46Z",
   "draft": false,
   "e_tag": "\"ac80c93403bbbc7764e51792f5e8b0e0e8581e4563bff32c2aad39420963e4a2\"",
   "head": {
-    "ref": "1.5.0_h073ed9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dsgp4-feedstock/pull/14",
   "id": 4852611035,
   "labels": [],
-  "last_fetched": "2026-10-14T03:40:47.037588",
+  "last_fetched": "2026-10-14T06:06:54.377056",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T06:05:14Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-14T03:40:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T06:05:14Z"
 }

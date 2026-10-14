@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5655fdb1d7725d88d3598423201fbb6edc0f14c7788f62e77c04e2cf92548bbf\"",
+  "Last-Modified": "Wed, 14 Oct 2026 10:41:40 GMT",
   "base": {
     "repo": {
       "name": "ffmpeg-normalize-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T10:41:40Z",
   "created_at": "2026-10-14T10:38:35Z",
   "draft": false,
   "e_tag": "\"552adba353a5b6c6620b54e8e252a2a9a40dc4401e801fdb19ced231581ccd99\"",
   "head": {
-    "ref": "1.43.0_h1619da"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ffmpeg-normalize-feedstock/pull/74",
   "id": 4856609043,
   "labels": [],
-  "last_fetched": "2026-10-14T10:38:36.919059",
+  "last_fetched": "2026-10-14T10:43:19.315425",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T10:41:40Z",
   "number": 74,
-  "state": "open",
-  "updated_at": "2026-10-14T10:38:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T10:41:40Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"26129d0a37f22b6f1fc2184002220b2ef42bb3135b9552049bf7649c9b06f73f\"",
-  "Last-Modified": "Wed, 14 Oct 2026 21:22:45 GMT",
+  "ETag": "W/\"653512a26f7b377e4dabacaa399ad71451665de425e6a528bb2cefe69fbddfe8\"",
+  "Last-Modified": "Wed, 14 Oct 2026 21:22:42 GMT",
   "base": {
     "repo": {
       "name": "openmc-feedstock"
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/openmc-feedstock/pull/92",
   "id": 4543559567,
-  "labels": [],
-  "last_fetched": "2026-10-14T21:24:28.649933",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-14T21:22:45.495115",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -24,5 +28,5 @@
   "merged_at": null,
   "number": 92,
   "state": "closed",
-  "updated_at": "2026-10-14T21:22:45Z"
+  "updated_at": "2026-10-14T21:22:42Z"
 }

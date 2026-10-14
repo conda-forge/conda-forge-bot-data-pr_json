@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"55c6c236f3bdcdb187e0f0cb3ea189cab13f0b964f67b4de0550e0b6b147f880\"",
+  "Last-Modified": "Wed, 14 Oct 2026 19:20:38 GMT",
   "base": {
     "repo": {
       "name": "cypress-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T19:20:33Z",
   "created_at": "2026-10-14T19:18:15Z",
   "draft": false,
   "e_tag": "\"851f07bfb99f805254937a9e3d4432faf25dd89376d72d9bd416fc5bbcbc3fe8\"",
   "head": {
-    "ref": "16.2.0_hbeab5f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cypress-feedstock/pull/55",
   "id": 4863220645,
   "labels": [],
-  "last_fetched": "2026-10-14T19:18:15.995130",
+  "last_fetched": "2026-10-14T19:21:44.267356",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T19:20:33Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-10-14T19:18:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T19:20:38Z"
 }

@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8d677197e18172d30d11e719d1badfa7ab2551fcbb25496d89f43ad60a952f62\"",
+  "Last-Modified": "Wed, 14 Oct 2026 00:34:34 GMT",
   "base": {
     "repo": {
       "name": "mypy-boto3-glue-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T00:34:34Z",
   "created_at": "2026-10-14T00:30:55Z",
   "draft": false,
   "e_tag": "\"b91908ab3c255a1a507f35245057e87dee45c3c9e78d7fea08b037f841adf893\"",
   "head": {
-    "ref": "1.43.113_hfa5678"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mypy-boto3-glue-feedstock/pull/89",
   "id": 4851241465,
   "labels": [],
-  "last_fetched": "2026-10-14T00:30:56.541046",
+  "last_fetched": "2026-10-14T00:36:18.809184",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T00:34:34Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-10-14T00:30:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T00:34:38Z"
 }

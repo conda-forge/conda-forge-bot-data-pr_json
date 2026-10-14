@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"951e0799ae9d94b70d8c362a19feb1b6267c2bffb0c1711abe8907728c358147\"",
+  "Last-Modified": "Wed, 14 Oct 2026 21:42:52 GMT",
   "base": {
     "repo": {
       "name": "mypy_boto3_lambda-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T21:42:48Z",
   "created_at": "2026-10-14T21:40:49Z",
   "draft": false,
   "e_tag": "\"f1798e9998ed807f0de465b1492c2167fba4d6a3286bb2a62fad6da0099de191\"",
   "head": {
-    "ref": "1.43.114_h0a19f0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mypy_boto3_lambda-feedstock/pull/245",
   "id": 4864926567,
   "labels": [],
-  "last_fetched": "2026-10-14T21:40:51.046773",
+  "last_fetched": "2026-10-14T21:44:16.740851",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T21:42:48Z",
   "number": 245,
-  "state": "open",
-  "updated_at": "2026-10-14T21:40:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T21:42:52Z"
 }

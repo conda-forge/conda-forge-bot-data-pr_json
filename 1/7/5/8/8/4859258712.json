@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f0fcbbd54b42ee70308f756b22640051704c82e2641e2c9432cadb8035f12694\"",
+  "Last-Modified": "Wed, 14 Oct 2026 14:19:49 GMT",
   "base": {
     "repo": {
       "name": "r-flextable-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T14:19:43Z",
   "created_at": "2026-10-14T14:15:02Z",
   "draft": false,
   "e_tag": "\"2f1b22e1b22e9c709ad37f517d9a3bdfab6882fc2a4194d60647919aeddd5478\"",
   "head": {
-    "ref": "0.10.3_hbd9001"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-flextable-feedstock/pull/56",
   "id": 4859258712,
   "labels": [],
-  "last_fetched": "2026-10-14T14:15:03.876374",
+  "last_fetched": "2026-10-14T14:21:29.078329",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T14:19:43Z",
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-10-14T14:15:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T14:19:49Z"
 }

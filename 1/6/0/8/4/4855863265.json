@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"5a6ad4c1cdf62046bdd34aa825a769e0a07c848ccaa93032603d370ba9ec6190\"",
+  "Last-Modified": "Wed, 14 Oct 2026 09:41:52 GMT",
   "base": {
     "repo": {
       "name": "patiencediff-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T09:41:48Z",
   "created_at": "2026-10-14T09:35:16Z",
   "draft": false,
   "e_tag": "\"50c40fd01686aef551ef41c9a2f053808e3ac5fa2b5ac64ec0380f1ad37387dc\"",
   "head": {
-    "ref": "1.0.1_h47664d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/patiencediff-feedstock/pull/13",
   "id": 4855863265,
   "labels": [],
-  "last_fetched": "2026-10-14T09:35:16.771713",
+  "last_fetched": "2026-10-14T09:43:21.929384",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T09:41:48Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-14T09:35:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T09:41:52Z"
 }

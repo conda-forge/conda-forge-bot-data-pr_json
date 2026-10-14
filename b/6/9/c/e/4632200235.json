@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"23fee4092f8f4913b4de52c4d2b25025f8ab58c371f921112aac0e1a1b7e72db\"",
-  "Last-Modified": "Thu, 24 Sep 2026 23:34:02 GMT",
+  "ETag": "W/\"eff8b74af378bf4be58665eeac4c9051b289e303a9bd805357fab0d4afe1c6f7\"",
+  "Last-Modified": "Wed, 14 Oct 2026 13:00:15 GMT",
   "base": {
     "repo": {
       "name": "aiida-quantumespresso-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T13:00:14Z",
   "created_at": "2026-09-24T23:32:22Z",
   "draft": false,
   "e_tag": "\"1147f3f2db095ec801080cce75194e53cc7f502e74797c3e8263a6a491122665\"",
   "head": {
-    "ref": "5.1.0_h915c73"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aiida-quantumespresso-feedstock/pull/30",
   "id": 4632200235,
   "labels": [],
-  "last_fetched": "2026-10-09T09:00:40.483842",
+  "last_fetched": "2026-10-14T13:02:13.669302",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T13:00:14Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-09-24T23:34:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T13:00:15Z"
 }

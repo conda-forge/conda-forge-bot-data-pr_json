@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"d5601870e1ec4fa90bd870b8c87ecdc81e1352937d4dec8587bc9c2fabad8d92\"",
+  "Last-Modified": "Wed, 14 Oct 2026 16:03:04 GMT",
   "base": {
     "repo": {
       "name": "exoscale-cli-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/exoscale-cli-feedstock/pull/22",
   "id": 4860701839,
-  "labels": [],
-  "last_fetched": "2026-10-14T16:02:31.475793",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10391741331,
+      "name": "automerge",
+      "node_id": "LA_kwDORjTJpc8AAAACa2Vjkw",
+      "url": "https://api.github.com/repos/conda-forge/exoscale-cli-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-14T16:04:24.150526",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 22,
   "state": "open",
-  "updated_at": "2026-10-14T16:02:30Z"
+  "updated_at": "2026-10-14T16:04:03Z"
 }

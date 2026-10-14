@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"f5fa35607c39a855aaadb32f64e83859da19cb554938581486879f04831ec7a3\"",
+  "Last-Modified": "Wed, 14 Oct 2026 17:56:52 GMT",
   "base": {
     "repo": {
       "name": "r-dataretrieval-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T17:56:48Z",
   "created_at": "2026-10-14T17:52:12Z",
   "draft": false,
   "e_tag": "\"595dd13fe4a3986b9b47e1efd163d3024bd9cd6e0cd212207def1aba62a2158d\"",
   "head": {
-    "ref": "2.7.27_h42fcea"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-dataretrieval-feedstock/pull/19",
   "id": 4862111692,
   "labels": [],
-  "last_fetched": "2026-10-14T17:52:13.522492",
+  "last_fetched": "2026-10-14T17:59:19.722726",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T17:56:48Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-14T17:52:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T17:56:52Z"
 }

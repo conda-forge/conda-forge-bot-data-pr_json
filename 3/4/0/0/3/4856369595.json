@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"c76e8d8300cee82b4e32132c3e036aaed6cdca51e3ab80446a72f2ca9b113dbc\"",
-  "Last-Modified": "Wed, 14 Oct 2026 10:21:37 GMT",
+  "ETag": "W/\"877f98ed98e59004b445eb8596cfc1834af8d5dd8a1c9113d06858a998e3af7b\"",
+  "Last-Modified": "Wed, 14 Oct 2026 14:14:25 GMT",
   "base": {
     "repo": {
       "name": "iwopy-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/iwopy-feedstock/pull/21",
   "id": 4856369595,
-  "labels": [],
-  "last_fetched": "2026-10-14T12:37:23.274452",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4863635195,
+      "name": "automerge",
+      "node_id": "LA_kwDOIik-Oc8AAAABIeUu-w",
+      "url": "https://api.github.com/repos/conda-forge/iwopy-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-14T14:16:43.882817",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 21,
   "state": "open",
-  "updated_at": "2026-10-14T10:21:37Z"
+  "updated_at": "2026-10-14T14:14:25Z"
 }

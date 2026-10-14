@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"49481368c187f971cd037bb7cf0ec18258b1013fdd5e8a5913bc181bc623168d\"",
-  "Last-Modified": "Wed, 14 Oct 2026 09:33:35 GMT",
+  "ETag": "W/\"6d8144eac30a0cb2ac9e3eaa2d99f7eb4134df144dc149437d59051e7cb07152\"",
+  "Last-Modified": "Wed, 14 Oct 2026 14:20:11 GMT",
   "base": {
     "repo": {
       "name": "ptychodus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T14:20:11Z",
   "created_at": "2026-10-14T09:31:47Z",
   "draft": false,
   "e_tag": "\"463551f9819454c27d767e3ce0d0d6c7a496457d504b7e22208f6886162b576f\"",
   "head": {
-    "ref": "1.7.0_h515d04"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ptychodus-feedstock/pull/44",
   "id": 4855821406,
   "labels": [],
-  "last_fetched": "2026-10-14T10:00:21.138201",
+  "last_fetched": "2026-10-14T14:21:22.693170",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T14:20:11Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-14T09:33:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T14:20:11Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"28796c603b33bff3298787d68791d26c7589432aff1ea72d96cfb17293507419\"",
-  "Last-Modified": "Wed, 14 Oct 2026 02:22:21 GMT",
+  "ETag": "W/\"bfc6bbcc3cbf5c7ca492c49ccca124a58460ea97f56a30124b49a2763d83fe02\"",
+  "Last-Modified": "Wed, 14 Oct 2026 02:24:36 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-microsoft-mssql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T02:24:33Z",
   "created_at": "2026-10-13T22:12:29Z",
   "draft": false,
   "e_tag": "\"0cc39a88e16749e5a70eb05b20fb8b3bc5fcdfbce0792dece0429f333a66d0ee\"",
   "head": {
-    "ref": "4.7.2_hf4625e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-microsoft-mssql-feedstock/pull/45",
   "id": 4850146346,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-microsoft-mssql-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-14T02:23:56.450084",
+  "last_fetched": "2026-10-14T02:26:02.333653",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T02:24:33Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-10-14T02:22:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T02:24:36Z"
 }

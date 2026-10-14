@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"fa1a178dfda617d60552f7f7a8cfe61b7dc2d84d36503fffb111954029dfa992\"",
+  "Last-Modified": "Wed, 14 Oct 2026 02:23:42 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-weaviate-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-weaviate-feedstock/pull/16",
   "id": 4850438652,
-  "labels": [],
-  "last_fetched": "2026-10-13T22:45:42.472878",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8653625681,
+      "name": "automerge",
+      "node_id": "LA_kwDOOuMmO88AAAACA8vZUQ",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-weaviate-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-14T02:25:13.443338",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 16,
   "state": "open",
-  "updated_at": "2026-10-13T22:45:41Z"
+  "updated_at": "2026-10-14T02:23:42Z"
 }

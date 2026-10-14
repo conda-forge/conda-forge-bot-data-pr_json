@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"b4137cac962f6208d31434b568a1d0d83633e9b5cf8804a611a1a315c9f65ac8\"",
+  "Last-Modified": "Wed, 14 Oct 2026 22:34:48 GMT",
   "base": {
     "repo": {
       "name": "imap-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T22:34:44Z",
   "closed_by": null,
   "created_at": "2026-10-14T22:30:47Z",
   "draft": false,
   "e_tag": "\"2b11bd3e0ea5d527e443895294409394bbfad8d61a497532e7e5e969e6905be6\"",
   "head": {
-    "ref": "1.16.0_h1d9f7d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imap-tools-feedstock/pull/31",
   "id": 4865464486,
   "labels": [],
-  "last_fetched": "2026-10-14T22:30:48.605185",
+  "last_fetched": "2026-10-14T22:36:17.255210",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T22:34:44Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-14T22:30:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T22:34:48Z"
 }

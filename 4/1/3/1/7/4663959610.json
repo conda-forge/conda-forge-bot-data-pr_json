@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"3e766be823c5bc62b4ecd4263687653b2120667b70e3ef58f46088e0a85922e3\"",
-  "Last-Modified": "Mon, 28 Sep 2026 12:58:27 GMT",
+  "ETag": "W/\"735df4ef3cf0f5e05e98bd7c527a3219407c3951c176c2446dde38bb7e978b27\"",
+  "Last-Modified": "Wed, 14 Oct 2026 04:53:16 GMT",
   "base": {
     "repo": {
       "name": "felupe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T04:53:16Z",
   "created_at": "2026-09-28T12:56:40Z",
   "draft": false,
   "e_tag": "\"f1b945f5c33f30231ebb87e4a61ee64ba31678faf7c7d3e73612e429b1f2168a\"",
   "head": {
-    "ref": "11.1.3_h987db9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/felupe-feedstock/pull/11",
   "id": 4663959610,
   "labels": [],
-  "last_fetched": "2026-10-12T17:59:59.659288",
+  "last_fetched": "2026-10-14T04:54:50.616056",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T04:53:16Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-09-28T12:58:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T04:53:16Z"
 }

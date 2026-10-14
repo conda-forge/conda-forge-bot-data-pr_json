@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"8694e81308907a9dd8d82274624677332c2723dd239fcbb682b003449a9dab02\"",
-  "Last-Modified": "Tue, 13 Oct 2026 19:28:17 GMT",
+  "ETag": "W/\"078423c80ee24bd64687d42449936cbdea1631586d17849a4024086e585127ca\"",
+  "Last-Modified": "Wed, 14 Oct 2026 16:47:20 GMT",
   "base": {
     "repo": {
       "name": "huracanpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T16:47:20Z",
   "created_at": "2026-10-13T19:26:13Z",
   "draft": false,
   "e_tag": "\"5a12217ab2d60389eb832b87872d21edf3409d9a0142eda99cee136613648ae2\"",
   "head": {
-    "ref": "1.5.0_h4d9a54"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/huracanpy-feedstock/pull/4",
   "id": 4848355744,
   "labels": [],
-  "last_fetched": "2026-10-13T20:47:37.074891",
+  "last_fetched": "2026-10-14T16:48:53.459154",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T16:47:20Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-13T19:28:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T16:47:20Z"
 }

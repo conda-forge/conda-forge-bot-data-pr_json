@@ -1,12 +1,12 @@
 {
-  "ETag": "W/\"25e86942caa4ae7c8251757841f199d0aa0ca18801eb18df1f5335b37809b250\"",
-  "Last-Modified": "Sat, 08 Aug 2026 05:21:26 GMT",
+  "ETag": "W/\"d6d86cf24170a80102bb69fb95a601220acac77751123387bb8c27ae3db3f118\"",
+  "Last-Modified": "Wed, 14 Oct 2026 16:27:57 GMT",
   "base": {
     "repo": {
       "name": "spacy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T16:27:57Z",
   "created_at": "2026-08-08T05:19:13Z",
   "draft": false,
   "e_tag": "\"136932c6ad40c57e7d87693ae1dc25ea0dc0d7d37b05c8ae81063b2d0e1ea46a\"",
@@ -15,14 +15,18 @@
   },
   "html_url": "https://github.com/conda-forge/spacy-feedstock/pull/175",
   "id": 4233320364,
-  "labels": [],
-  "last_fetched": "2026-10-07T09:54:32.378658",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-14T16:28:00.001221",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 175,
-  "state": "open",
-  "updated_at": "2026-08-08T05:21:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T16:27:57Z"
 }

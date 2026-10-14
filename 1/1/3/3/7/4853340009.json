@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"8d9164d91ea48cb9b493fe52a9144b6e146085b0f68a9e2832010fc21e62f89f\"",
-  "Last-Modified": "Wed, 14 Oct 2026 13:33:54 GMT",
+  "ETag": "W/\"ccde3b5566afa4397b63f094d68c3ef84df6b5d471a92a55a05ff132f90eb036\"",
+  "Last-Modified": "Wed, 14 Oct 2026 13:53:51 GMT",
   "base": {
     "repo": {
       "name": "pybsm-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/pybsm-feedstock/pull/49",
   "id": 4853340009,
-  "labels": [],
-  "last_fetched": "2026-10-14T13:50:13.461808",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6295756033,
+      "name": "automerge",
+      "node_id": "LA_kwDOK2nBUc8AAAABd0GdAQ",
+      "url": "https://api.github.com/repos/conda-forge/pybsm-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-14T13:55:39.686278",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 49,
   "state": "open",
-  "updated_at": "2026-10-14T13:33:54Z"
+  "updated_at": "2026-10-14T13:53:51Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"a52c3f9ec4b05af5103beadd10901ffb3bd311cb33b8975bc60ea47223e11994\"",
+  "Last-Modified": "Wed, 14 Oct 2026 23:29:54 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-oci-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T23:29:50Z",
   "closed_by": null,
   "created_at": "2026-10-14T22:59:24Z",
   "draft": false,
   "e_tag": "\"8c96dde9da0ad81f3204b2512d8db155472dd4ea4d3ee9278bbc1669ee134bf7\"",
   "head": {
-    "ref": "9.10.0_ha4a76a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-oci-feedstock/pull/79",
   "id": 4865704373,
   "labels": [],
-  "last_fetched": "2026-10-14T22:59:25.236270",
+  "last_fetched": "2026-10-14T23:31:26.027668",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T23:29:50Z",
   "number": 79,
-  "state": "open",
-  "updated_at": "2026-10-14T22:59:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T23:29:54Z"
 }

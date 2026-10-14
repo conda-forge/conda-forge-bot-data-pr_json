@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"681a4849cff683fb9c3cc982ddf3b0cf0c2d0b7b279dbf4941eece311ae285c6\"",
-  "Last-Modified": "Wed, 14 Oct 2026 18:34:13 GMT",
+  "ETag": "W/\"f913a44cc7b73a912aa4d4b7f334d4fc3a6891e2e842b6bc6fe6ff38cc86964c\"",
+  "Last-Modified": "Wed, 14 Oct 2026 20:22:42 GMT",
   "base": {
     "repo": {
       "name": "zed-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T20:22:41Z",
   "created_at": "2026-10-14T18:31:53Z",
   "draft": false,
   "e_tag": "\"407c0ce792b1d371705bde059a618561605c8fb77a60736324a68a1fa7be9c08\"",
   "head": {
-    "ref": "1.24.2_hea808b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zed-feedstock/pull/194",
   "id": 4862621103,
   "labels": [],
-  "last_fetched": "2026-10-14T19:37:02.401957",
+  "last_fetched": "2026-10-14T20:25:16.579970",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T20:22:41Z",
   "number": 194,
-  "state": "open",
-  "updated_at": "2026-10-14T18:34:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T20:22:47Z"
 }

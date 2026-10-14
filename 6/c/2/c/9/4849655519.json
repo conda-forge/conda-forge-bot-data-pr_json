@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"a222d27c9f623c30b4839dbf136dd2ff8d7faeccf243f3dd8fa3fb52fa02d9dc\"",
-  "Last-Modified": "Tue, 13 Oct 2026 21:25:20 GMT",
+  "ETag": "W/\"2528fcbb0a5fb575ef9a739c7fe08adfb03691d3fb977281dd45c86450a99e6b\"",
+  "Last-Modified": "Wed, 14 Oct 2026 10:43:19 GMT",
   "base": {
     "repo": {
       "name": "ansible-builder-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/ansible-builder-feedstock/pull/1",
   "id": 4849655519,
-  "labels": [],
-  "last_fetched": "2026-10-13T21:46:32.278458",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11552460895,
+      "name": "automerge",
+      "node_id": "LA_kwDOTbhn8M8AAAACsJSQXw",
+      "url": "https://api.github.com/repos/conda-forge/ansible-builder-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-14T10:44:54.788411",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 1,
   "state": "open",
-  "updated_at": "2026-10-13T21:25:20Z"
+  "updated_at": "2026-10-14T10:43:19Z"
 }

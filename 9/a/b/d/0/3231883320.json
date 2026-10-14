@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"f488e7372b844e6d3b1d67114336a11f07630335176468a6b7dae7918dce993c\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"d2a92bb32ceb6fd1cd266b954c28ea9610042ff2a269efe8058ddcfaead04cde\"",
+  "Last-Modified": "Wed, 14 Oct 2026 08:37:53 GMT",
   "base": {
     "repo": {
       "name": "gstlal-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/gstlal-feedstock/pull/47",
   "id": 3231883320,
-  "labels": [],
-  "last_fetched": "2026-10-13T20:49:24.854300",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890940065,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTQwMDY1",
+      "url": "https://api.github.com/repos/conda-forge/gstlal-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-14T08:39:10.804931",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 47,
   "state": "open",
-  "updated_at": "2026-02-01T00:18:35Z"
+  "updated_at": "2026-10-14T08:37:53Z"
 }

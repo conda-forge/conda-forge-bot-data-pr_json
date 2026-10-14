@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"38568e889c5d2eea780531ffc5c0d061166b00eb055d3187e6f5e2dcc9ed20bd\"",
+  "Last-Modified": "Wed, 14 Oct 2026 14:45:37 GMT",
   "base": {
     "repo": {
       "name": "undoc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T14:45:33Z",
   "created_at": "2026-10-14T14:36:02Z",
   "draft": false,
   "e_tag": "\"06ecf6c573681b66be52933a8d66ba43c945fe9af7ddf726448a6a2d09f48990\"",
   "head": {
-    "ref": "0.25.0_h0bffac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/undoc-feedstock/pull/41",
   "id": 4859543355,
   "labels": [],
-  "last_fetched": "2026-10-14T14:36:04.226780",
+  "last_fetched": "2026-10-14T14:46:49.712049",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T14:45:33Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-14T14:36:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T14:45:37Z"
 }

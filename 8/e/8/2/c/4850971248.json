@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"30f640d81ca5f09470a1e0b815db9d264537107099af143d90171ddaae3b3cf9\"",
+  "Last-Modified": "Wed, 14 Oct 2026 01:24:04 GMT",
   "base": {
     "repo": {
       "name": "trame-pyvista-feedstock"
@@ -13,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/trame-pyvista-feedstock/pull/8",
   "id": 4850971248,
-  "labels": [],
-  "last_fetched": "2026-10-13T23:53:57.331682",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10924821623,
+      "name": "automerge",
+      "node_id": "LA_kwDOSaomI88AAAACiyuMdw",
+      "url": "https://api.github.com/repos/conda-forge/trame-pyvista-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-14T01:25:43.340362",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 8,
   "state": "open",
-  "updated_at": "2026-10-13T23:53:56Z"
+  "updated_at": "2026-10-14T01:24:04Z"
 }

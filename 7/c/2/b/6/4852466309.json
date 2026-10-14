@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"8b7926c9e04eeb6318c0dddd2f9617ce78ee3cb215a73cdd28c158be56ba99ec\"",
+  "Last-Modified": "Wed, 14 Oct 2026 03:51:03 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T03:51:00Z",
   "created_at": "2026-10-14T03:20:37Z",
   "draft": false,
   "e_tag": "\"ddd3fbd48d9abec664ed56009a55578cc04805531217b94fa32bf3533379045a\"",
   "head": {
-    "ref": "589.0.0_h1bf995"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-sdk-feedstock/pull/442",
   "id": 4852466309,
   "labels": [],
-  "last_fetched": "2026-10-14T03:20:37.931811",
+  "last_fetched": "2026-10-14T03:52:41.255670",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T03:51:00Z",
   "number": 442,
-  "state": "open",
-  "updated_at": "2026-10-14T03:20:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T03:51:03Z"
 }

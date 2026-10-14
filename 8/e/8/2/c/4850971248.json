@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"30f640d81ca5f09470a1e0b815db9d264537107099af143d90171ddaae3b3cf9\"",
-  "Last-Modified": "Wed, 14 Oct 2026 01:24:04 GMT",
+  "ETag": "W/\"1f78b7e0f73860bfa9521e2ae02af8a6d6edbf37e4561c94b03702c8ab26c43a\"",
+  "Last-Modified": "Wed, 14 Oct 2026 01:28:14 GMT",
   "base": {
     "repo": {
       "name": "trame-pyvista-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T01:28:13Z",
   "created_at": "2026-10-13T23:53:56Z",
   "draft": false,
   "e_tag": "\"ebaf3e7c3112c7e9c8edd48fbc4026a8a694cd4ef971f4f9f6f8a07ad5900ea8\"",
   "head": {
-    "ref": "0.2.1_ha913fd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trame-pyvista-feedstock/pull/8",
   "id": 4850971248,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/trame-pyvista-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-14T01:25:43.340362",
+  "last_fetched": "2026-10-14T01:29:26.332342",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T01:28:13Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-14T01:24:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T01:28:18Z"
 }

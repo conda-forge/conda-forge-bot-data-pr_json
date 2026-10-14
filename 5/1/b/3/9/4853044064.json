@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"6abdc1d365298bf638d1ce2c58dd047502bec99e5bab9989d7b544cdf93d1570\"",
-  "Last-Modified": "Wed, 14 Oct 2026 04:41:40 GMT",
+  "ETag": "W/\"988a614a9c9f3913ec9a723318a956e5e42ba6ca3a88b3d3405931528c024fd9\"",
+  "Last-Modified": "Wed, 14 Oct 2026 17:50:40 GMT",
   "base": {
     "repo": {
       "name": "sagemaker-train-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T17:50:40Z",
   "created_at": "2026-10-14T04:40:04Z",
   "draft": false,
   "e_tag": "\"b3c58eca55bb1f7a05b4dbea0df9afc6a5261210080d2082a47fc78ec47542dc\"",
   "head": {
-    "ref": "1.25.0_he032ba"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sagemaker-train-feedstock/pull/22",
   "id": 4853044064,
   "labels": [],
-  "last_fetched": "2026-10-14T08:02:56.233767",
+  "last_fetched": "2026-10-14T17:50:41.977664",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T17:50:40Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-14T04:41:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T17:50:40Z"
 }

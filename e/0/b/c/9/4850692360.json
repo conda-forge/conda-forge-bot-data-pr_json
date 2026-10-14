@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"170bb526b8948b982a2afbec59996ab0c801536d9d45d30db998b60bb0d5a8c4\"",
-  "Last-Modified": "Wed, 14 Oct 2026 05:18:04 GMT",
+  "ETag": "W/\"6a3f895e23f6e9913bd383a435d2a9bd4a4bd39ba681117b1ecdbf9ca937ea89\"",
+  "Last-Modified": "Wed, 14 Oct 2026 16:45:44 GMT",
   "base": {
     "repo": {
       "name": "versitygw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T16:45:41Z",
   "created_at": "2026-10-13T23:16:55Z",
   "draft": false,
   "e_tag": "\"d971b5e9cda413f5007ef1c7200700f4d55d7b022c2e6455f5e7b88eced508a1\"",
   "head": {
-    "ref": "1.9.0_h89f110"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/versitygw-feedstock/pull/9",
   "id": 4850692360,
   "labels": [],
-  "last_fetched": "2026-10-14T05:47:25.665722",
+  "last_fetched": "2026-10-14T16:47:16.550036",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-14T16:45:41Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-14T05:18:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T16:45:44Z"
 }

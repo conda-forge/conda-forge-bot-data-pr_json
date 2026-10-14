@@ -1,26 +1,28 @@
 {
+  "ETag": "W/\"b0cfc449cb2d78cdd464561ab8fc7e312ecd8248fdd6823c8abda94d1bcb5452\"",
+  "Last-Modified": "Wed, 14 Oct 2026 21:51:05 GMT",
   "base": {
     "repo": {
       "name": "czifile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-14T21:51:05Z",
   "created_at": "2026-10-14T21:42:27Z",
   "draft": false,
   "e_tag": "\"edb4a47d6537909e77bcfeb6719291608f310d580201278f219abbdc70d44660\"",
   "head": {
-    "ref": "2026.10.14_h89c8fc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/czifile-feedstock/pull/14",
   "id": 4864945937,
   "labels": [],
-  "last_fetched": "2026-10-14T21:42:28.561731",
+  "last_fetched": "2026-10-14T21:52:40.471840",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-14T21:51:05Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-14T21:42:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-14T21:51:05Z"
 }

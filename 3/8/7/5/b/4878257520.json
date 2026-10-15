@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"3f73fe9b9d28f09af0da3dc87c7eacfcb38f5a9a8a7cba78d95af0c8c22f34ac\"",
+  "Last-Modified": "Thu, 15 Oct 2026 18:55:09 GMT",
   "base": {
     "repo": {
       "name": "zk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T18:55:05Z",
   "closed_by": null,
   "created_at": "2026-10-15T18:50:13Z",
   "draft": false,
   "e_tag": "\"f625fc5847c2f4d35b855af734afa481c894381d7704ac187b3506eb25cd8376\"",
   "head": {
-    "ref": "0.15.7_hdc267f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zk-feedstock/pull/15",
   "id": 4878257520,
   "labels": [],
-  "last_fetched": "2026-10-15T18:50:14.154417",
+  "last_fetched": "2026-10-15T18:56:35.981561",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T18:55:05Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-15T18:50:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T18:55:09Z"
 }

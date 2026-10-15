@@ -1,18 +1,18 @@
 {
-  "ETag": "W/\"22310947b774f0a9401725d0a144bc31c8335a347028e5766b0042d51a0335fc\"",
-  "Last-Modified": "Thu, 15 Oct 2026 16:41:12 GMT",
+  "ETag": "W/\"249e18d3cdc01255da9a590b4deabf03e4b85675a0021d8212465145f52faaec\"",
+  "Last-Modified": "Thu, 15 Oct 2026 17:16:59 GMT",
   "base": {
     "repo": {
       "name": "ast-grep-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T17:16:57Z",
   "closed_by": null,
   "created_at": "2026-10-15T16:36:08Z",
   "draft": false,
   "e_tag": "\"245f84455dbbbf06e34183a994e090e65afe45319ec34db216832e04e5fad51e\"",
   "head": {
-    "ref": "0.51.0_hd8e105"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ast-grep-py-feedstock/pull/19",
   "id": 4876608402,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/ast-grep-py-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-15T16:43:02.243685",
+  "last_fetched": "2026-10-15T17:18:13.047180",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T17:16:56Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-15T16:41:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T17:16:59Z"
 }

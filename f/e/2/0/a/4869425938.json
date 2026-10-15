@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"ea79afefd0385085e769268889b752c12b238fc0382072097492c13addfaaf71\"",
-  "Last-Modified": "Thu, 15 Oct 2026 06:54:48 GMT",
+  "ETag": "W/\"321d2f38832d2c57605b669652017c863861bc4904f1183eb44d1c84d97967cc\"",
+  "Last-Modified": "Thu, 15 Oct 2026 08:06:27 GMT",
   "base": {
     "repo": {
       "name": "panel-material-ui-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T08:06:27Z",
   "closed_by": null,
   "created_at": "2026-10-15T06:53:12Z",
   "draft": false,
   "e_tag": "\"a2d4fb4cf4ba7fd666cff2e62a38903859f09bbbe902b93439f4069ba7a50bcb\"",
   "head": {
-    "ref": "0.16.3_h5fd0da"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/panel-material-ui-feedstock/pull/37",
   "id": 4869425938,
   "labels": [],
-  "last_fetched": "2026-10-15T07:51:34.321035",
+  "last_fetched": "2026-10-15T08:07:36.043315",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T08:06:27Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-10-15T06:54:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T08:06:27Z"
 }

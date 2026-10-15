@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"562346fc73fa9bff239067d576144e6f28c4af520db492720ca2c8e79ba21de4\"",
+  "Last-Modified": "Thu, 15 Oct 2026 04:10:03 GMT",
   "base": {
     "repo": {
       "name": "openai-agents-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T04:09:59Z",
   "closed_by": null,
   "created_at": "2026-10-15T04:07:53Z",
   "draft": false,
   "e_tag": "\"925a54a75f379708bf19491ebc98097cecd0a0dfd3075e4409666b382fa37626\"",
   "head": {
-    "ref": "0.24.0_h8ae04a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openai-agents-feedstock/pull/122",
   "id": 4868036713,
   "labels": [],
-  "last_fetched": "2026-10-15T04:07:54.310728",
+  "last_fetched": "2026-10-15T04:11:05.080066",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T04:09:59Z",
   "number": 122,
-  "state": "open",
-  "updated_at": "2026-10-15T04:07:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T04:10:03Z"
 }

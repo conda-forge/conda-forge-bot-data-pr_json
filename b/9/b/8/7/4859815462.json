@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"243ba4202af98a8bcb6a26658cce0ccf1fbfa32dec2562614208e0fa39977727\"",
-  "Last-Modified": "Wed, 14 Oct 2026 21:22:08 GMT",
+  "ETag": "W/\"69abfb8e91eee203e984bcf65edeb1e828ecbf94c3482efb7543e8ef28d498c8\"",
+  "Last-Modified": "Thu, 15 Oct 2026 05:00:10 GMT",
   "base": {
     "repo": {
       "name": "ccusage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T05:00:09Z",
   "created_at": "2026-10-14T14:55:47Z",
   "draft": false,
   "e_tag": "\"31c7478cdd2c3d4aaf23b5859bb5eade5e6bc7be103750965bf6b2f34f413624\"",
   "head": {
-    "ref": "20.0.32_h4ea5c6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ccusage-feedstock/pull/8",
   "id": 4859815462,
   "labels": [],
-  "last_fetched": "2026-10-14T21:49:45.626776",
+  "last_fetched": "2026-10-15T05:01:23.820359",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T05:00:09Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-14T21:22:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T05:00:10Z"
 }

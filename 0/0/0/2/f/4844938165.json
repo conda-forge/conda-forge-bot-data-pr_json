@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"5b42098271734419649a727ae810ea3a17340edd24e2f69fcf1826c230075632\"",
-  "Last-Modified": "Wed, 14 Oct 2026 20:22:36 GMT",
+  "ETag": "W/\"f63bea144bce430afb6c9b896e4ea63f5d05b147ea91fb2db33403aac3aa2b44\"",
+  "Last-Modified": "Thu, 15 Oct 2026 14:11:41 GMT",
   "base": {
     "repo": {
       "name": "mapcat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T14:11:40Z",
   "created_at": "2026-10-13T14:41:52Z",
   "draft": false,
   "e_tag": "\"3f2a9256fc5e6c8d1356c98bbe9ddd570e908c6ce840524a5a4d3742afc046bf\"",
   "head": {
-    "ref": "1.0.0_hade451"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mapcat-feedstock/pull/8",
   "id": 4844938165,
   "labels": [],
-  "last_fetched": "2026-10-14T22:36:04.186508",
+  "last_fetched": "2026-10-15T14:13:58.117880",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T14:11:40Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-14T20:22:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T14:11:41Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"404e91e8e2f5f070069e18cae6aeb2d4c86695f8eb06b6f6c866aa52299570a1\"",
-  "Last-Modified": "Wed, 14 Oct 2026 21:48:46 GMT",
+  "ETag": "W/\"7571e92bf032671a290b010f102b434fe01ec6735f84dc70ff12f7166a643632\"",
+  "Last-Modified": "Thu, 15 Oct 2026 06:56:36 GMT",
   "base": {
     "repo": {
       "name": "bioio-lif-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T06:56:29Z",
   "created_at": "2026-10-14T21:47:13Z",
   "draft": false,
   "e_tag": "\"ba1d0e8d34841bf0c4cea1aac0b53f3ffae715746160603892c4a5fc8ec7ae46\"",
   "head": {
-    "ref": "2.0.1_had0e41"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bioio-lif-feedstock/pull/4",
   "id": 4865000173,
   "labels": [],
-  "last_fetched": "2026-10-15T04:28:26.479626",
+  "last_fetched": "2026-10-15T06:58:04.743114",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T06:56:29Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-14T21:48:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T06:56:36Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"88c568a425dbbcbbb8f706c5dbf8d9633c4334304f73669e071ae4cec5454ac7\"",
+  "Last-Modified": "Thu, 15 Oct 2026 18:23:30 GMT",
   "base": {
     "repo": {
       "name": "jsonpickle-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T18:23:30Z",
   "closed_by": null,
   "created_at": "2026-10-15T18:08:59Z",
   "draft": false,
   "e_tag": "\"6dcb9eab1ef85934ef10b35cf0fb4d75c33de1eb4d09bb7f1355b55907d446a8\"",
   "head": {
-    "ref": "4.1.4_h3fbe67"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jsonpickle-feedstock/pull/39",
   "id": 4877768209,
   "labels": [],
-  "last_fetched": "2026-10-15T18:09:00.651938",
+  "last_fetched": "2026-10-15T18:25:08.872624",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T18:23:30Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-10-15T18:08:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T18:23:30Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e9da4a9bf589da4e32a62b4d300fb7b63baa85e89a1e40ded1d0f5763cee0cc3\"",
-  "Last-Modified": "Thu, 15 Oct 2026 02:45:29 GMT",
+  "ETag": "W/\"a831aa5de94045580d233f4b6d1540a6602016e12ccd68cd8746d0904c330815\"",
+  "Last-Modified": "Thu, 15 Oct 2026 03:16:12 GMT",
   "base": {
     "repo": {
       "name": "mesalib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T03:16:12Z",
   "created_at": "2026-10-14T16:50:20Z",
   "draft": false,
   "e_tag": "\"1a9692d7699df659c50a709610d51b6aeba30368f7d51c8d8b2bc1106615e3bb\"",
   "head": {
-    "ref": "26.2.5_h32305b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mesalib-feedstock/pull/157",
   "id": 4861307034,
   "labels": [],
-  "last_fetched": "2026-10-15T03:03:31.721645",
+  "last_fetched": "2026-10-15T03:17:49.712260",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T03:16:12Z",
   "number": 157,
-  "state": "open",
-  "updated_at": "2026-10-15T02:45:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T03:16:12Z"
 }

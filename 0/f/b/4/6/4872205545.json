@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"7faea030b0855684e30ea7d3f085cf0aea64f53d8474a18e5bab72aaa945c25c\"",
+  "Last-Modified": "Thu, 15 Oct 2026 11:12:29 GMT",
   "base": {
     "repo": {
       "name": "kuva-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T11:12:24Z",
   "closed_by": null,
   "created_at": "2026-10-15T11:02:13Z",
   "draft": false,
   "e_tag": "\"cc73eedcc6674727ebc7f3484effe263cdb3fe9c2fccdc62a2ca5d98ce1beb7d\"",
   "head": {
-    "ref": "0.6.0_h3a5a80"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kuva-feedstock/pull/9",
   "id": 4872205545,
   "labels": [],
-  "last_fetched": "2026-10-15T11:02:14.506057",
+  "last_fetched": "2026-10-15T11:14:01.063512",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T11:12:24Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-15T11:02:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T11:12:29Z"
 }

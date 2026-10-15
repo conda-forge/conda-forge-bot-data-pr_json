@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"82d7a4ff93150a73f958eac221baa4ce7da101073f8f08a787487d41dca3eb93\"",
+  "Last-Modified": "Thu, 15 Oct 2026 09:35:07 GMT",
   "base": {
     "repo": {
       "name": "just-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T09:35:03Z",
   "closed_by": null,
   "created_at": "2026-10-15T09:25:43Z",
   "draft": false,
   "e_tag": "\"b1b8c4920c9ebd6bd58635f9b52d4e1e807d94b3085e28416b47683bc38d565f\"",
   "head": {
-    "ref": "1.59.0_h618e7a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/just-feedstock/pull/94",
   "id": 4871074234,
   "labels": [],
-  "last_fetched": "2026-10-15T09:25:44.566538",
+  "last_fetched": "2026-10-15T09:37:10.903605",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T09:35:03Z",
   "number": 94,
-  "state": "open",
-  "updated_at": "2026-10-15T09:25:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T09:35:07Z"
 }

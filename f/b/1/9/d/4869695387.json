@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"b9f962f63cb6e0db8b08292705806fa1ec92f0cb306df06e8866f6b5f4c407ba\"",
+  "Last-Modified": "Thu, 15 Oct 2026 13:58:07 GMT",
   "base": {
     "repo": {
       "name": "glasbey-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T13:58:07Z",
   "closed_by": null,
   "created_at": "2026-10-15T07:19:42Z",
   "draft": false,
   "e_tag": "\"138e166fc7df4ebd29326b1f3297cf965333d5ebfe9bffcaac561833cc41ad95\"",
   "head": {
-    "ref": "0.4.0_h3bd0e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/glasbey-feedstock/pull/6",
   "id": 4869695387,
   "labels": [],
-  "last_fetched": "2026-10-15T07:19:43.316371",
+  "last_fetched": "2026-10-15T13:59:57.681539",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T13:58:07Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-15T07:19:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T13:58:07Z"
 }

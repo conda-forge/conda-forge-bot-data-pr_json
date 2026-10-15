@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"27f55a796719e448d49ddd34904c240ea9d1ec1862d780343504aa1851e65484\"",
+  "Last-Modified": "Thu, 15 Oct 2026 01:06:07 GMT",
   "base": {
     "repo": {
       "name": "module-qc-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T01:06:07Z",
   "closed_by": null,
   "created_at": "2026-10-15T00:56:38Z",
   "draft": false,
   "e_tag": "\"36401ee4ff16a40aa29c4b08d52573189c06efc47e0770c4a5d0cedb1a633785\"",
   "head": {
-    "ref": "2.9.6_h237d59"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/module-qc-tools-feedstock/pull/12",
   "id": 4866608395,
   "labels": [],
-  "last_fetched": "2026-10-15T00:56:38.793849",
+  "last_fetched": "2026-10-15T01:07:54.420817",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T01:06:07Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-15T00:56:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T01:06:07Z"
 }

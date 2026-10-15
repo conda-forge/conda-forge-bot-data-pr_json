@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"e93415e4052671fccb4edca5a6aec13b91435fb18e38c925420b32a8b2348b4c\"",
+  "Last-Modified": "Thu, 15 Oct 2026 14:04:35 GMT",
   "base": {
     "repo": {
       "name": "polyxios-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T14:04:35Z",
   "closed_by": null,
   "created_at": "2026-10-15T06:32:08Z",
   "draft": false,
   "e_tag": "\"01e832c3b8142d3d8993371d008b8a75e78c9f6a7c1ba42e4aaf26e4ed77cb1c\"",
   "head": {
-    "ref": "0.5.1_h9757ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/polyxios-feedstock/pull/6",
   "id": 4869233098,
   "labels": [],
-  "last_fetched": "2026-10-15T06:32:09.785191",
+  "last_fetched": "2026-10-15T14:06:11.429706",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T14:04:34Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-15T06:32:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T14:04:35Z"
 }

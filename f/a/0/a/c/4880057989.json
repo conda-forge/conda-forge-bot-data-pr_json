@@ -1,29 +1,41 @@
 {
-  "ETag": "W/\"5adc0947260f2b830bb40d091de28d28a9d68f2661a1fd12a8014664d11b366b\"",
-  "Last-Modified": "Thu, 15 Oct 2026 21:26:41 GMT",
+  "ETag": "W/\"8e255583099ec7ed7521b40210f68fa33a1259229bc2f648dbf59ebf15691d91\"",
+  "Last-Modified": "Thu, 15 Oct 2026 23:27:28 GMT",
   "base": {
     "repo": {
       "name": "unsloth_zoo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T23:27:25Z",
   "closed_by": null,
   "created_at": "2026-10-15T21:24:26Z",
   "draft": false,
   "e_tag": "\"b165044e4a13c443491f7a7131395d4a67585e024fe37f185dc3c0b56e656a78\"",
   "head": {
-    "ref": "2026.10.6_hac8168"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/unsloth_zoo-feedstock/pull/147",
   "id": 4880057989,
-  "labels": [],
-  "last_fetched": "2026-10-15T21:47:12.462963",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8144354352,
+      "name": "automerge",
+      "node_id": "LA_kwDON47aP88AAAAB5XD8MA",
+      "url": "https://api.github.com/repos/conda-forge/unsloth_zoo-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-15T23:28:13.902744",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T23:27:25Z",
   "number": 147,
-  "state": "open",
-  "updated_at": "2026-10-15T21:26:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T23:27:28Z"
 }

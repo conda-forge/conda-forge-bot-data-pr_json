@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"9c0a4220488a876cba2586c1d4dd131e4eddbcf94164af1941282f69b6a432f5\"",
+  "Last-Modified": "Thu, 15 Oct 2026 07:26:22 GMT",
   "base": {
     "repo": {
       "name": "cache-dit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T07:26:18Z",
   "closed_by": null,
   "created_at": "2026-10-15T07:22:45Z",
   "draft": false,
   "e_tag": "\"52dc8bf21d8394fc987dab37f1307934434ed5992f1ca4551f28408f7f66739f\"",
   "head": {
-    "ref": "1.5.3_ha3f174"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cache-dit-feedstock/pull/3",
   "id": 4869727101,
   "labels": [],
-  "last_fetched": "2026-10-15T07:22:46.149694",
+  "last_fetched": "2026-10-15T07:27:39.039696",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T07:26:18Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-15T07:22:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T07:26:22Z"
 }

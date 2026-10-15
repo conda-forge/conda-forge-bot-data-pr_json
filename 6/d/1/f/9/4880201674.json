@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"03f90d14373c9aeb413fa4752f54472f970bc650f938bcbd7f59b8648e2fc103\"",
+  "Last-Modified": "Thu, 15 Oct 2026 21:53:47 GMT",
   "base": {
     "repo": {
       "name": "pywinpty-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T21:53:47Z",
   "closed_by": null,
   "created_at": "2026-10-15T21:38:30Z",
   "draft": false,
   "e_tag": "\"926ed7cba57b9f3a36d312746b8643ea180626894ccb28cf761c715b100b6a37\"",
   "head": {
-    "ref": "3.1.0_h86cdce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pywinpty-feedstock/pull/81",
   "id": 4880201674,
   "labels": [],
-  "last_fetched": "2026-10-15T21:38:31.208548",
+  "last_fetched": "2026-10-15T21:55:23.174435",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T21:53:47Z",
   "number": 81,
-  "state": "open",
-  "updated_at": "2026-10-15T21:38:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T21:53:47Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"b58ce70ff1f2e7518e8df2c61fa92c7cd39a9bcd1952d1e5550922c82b6509ea\"",
+  "Last-Modified": "Thu, 15 Oct 2026 12:16:26 GMT",
   "base": {
     "repo": {
       "name": "python-eccodes-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T12:16:26Z",
   "closed_by": null,
   "created_at": "2026-10-15T10:41:25Z",
   "draft": false,
   "e_tag": "\"e4203e2f9d732941a79230feb4c4af49ef58f819a0abad84a5697fab7b3304ae\"",
   "head": {
-    "ref": "2.50.0_h56bb12"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-eccodes-feedstock/pull/117",
   "id": 4871963579,
   "labels": [],
-  "last_fetched": "2026-10-15T10:41:26.404881",
+  "last_fetched": "2026-10-15T12:17:56.383553",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T12:16:26Z",
   "number": 117,
-  "state": "open",
-  "updated_at": "2026-10-15T10:41:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T12:16:26Z"
 }

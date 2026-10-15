@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"72a3a40167f8ebf076829041b80e94be4e34adaffca837e80337e31267fe5490\"",
+  "Last-Modified": "Thu, 15 Oct 2026 20:56:40 GMT",
   "base": {
     "repo": {
       "name": "hdx-python-api-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T20:56:40Z",
   "closed_by": null,
   "created_at": "2026-10-15T12:01:39Z",
   "draft": false,
   "e_tag": "\"5648dfd3dc598789bedcfc03044fe5a5166fed8c832767d2693356cdf05bea2c\"",
   "head": {
-    "ref": "6.7.3_h002515"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hdx-python-api-feedstock/pull/71",
   "id": 4872909070,
   "labels": [],
-  "last_fetched": "2026-10-15T12:01:40.493983",
+  "last_fetched": "2026-10-15T20:58:19.468943",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T20:56:40Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-10-15T12:01:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T20:56:40Z"
 }

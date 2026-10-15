@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"ac3fd4f64cbf9f3af1d09e27cb1e71cd22f1fe65740423520c572f929be26033\"",
-  "Last-Modified": "Thu, 15 Oct 2026 11:41:53 GMT",
+  "ETag": "W/\"36aa4ede6e1c014d6f9c49696e006c7688ee0948ac682e13628ba02cb4fcaece\"",
+  "Last-Modified": "Thu, 15 Oct 2026 17:56:37 GMT",
   "base": {
     "repo": {
       "name": "r-moire-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T17:55:35Z",
   "closed_by": null,
   "created_at": "2026-10-15T11:40:19Z",
   "draft": false,
   "e_tag": "\"883c140eeece125a25241aaafe725229e3a99925648deb14decd0c922bc788aa\"",
   "head": {
-    "ref": "bot-pr_arm_osx_h1b104c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-moire-feedstock/pull/1",
   "id": 4872659556,
   "labels": [],
-  "last_fetched": "2026-10-15T15:04:49.941245",
+  "last_fetched": "2026-10-15T17:57:51.896995",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T17:55:35Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-15T11:41:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T17:56:37Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"d7e152c01d4319c37654483d12125dc8ad7ca1fea30b8c6d4b67bb9b665ae9a5\"",
-  "Last-Modified": "Thu, 15 Oct 2026 00:37:47 GMT",
+  "ETag": "W/\"e29b16c56adfc0e8f46399707a5bb7f867c0b85e6cabc1e16cc048f7977d90d7\"",
+  "Last-Modified": "Thu, 15 Oct 2026 09:11:08 GMT",
   "base": {
     "repo": {
       "name": "entrypoints-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T09:11:08Z",
   "closed_by": null,
   "created_at": "2026-10-15T00:35:51Z",
   "draft": false,
   "e_tag": "\"cf0f61134761689011c0d1fbd3884f805293ccd4f9ee72fa594868cf7281bfd6\"",
   "head": {
-    "ref": "0.4.1_h67d5a7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/entrypoints-feedstock/pull/23",
   "id": 4866445651,
   "labels": [],
-  "last_fetched": "2026-10-15T01:16:50.229119",
+  "last_fetched": "2026-10-15T09:12:23.238266",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T09:11:08Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-15T00:37:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T09:11:08Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"ae147ebae4e55827012e786c062a492f3863e9017c132f889982bd0fa1f220c3\"",
+  "Last-Modified": "Thu, 15 Oct 2026 11:17:17 GMT",
   "base": {
     "repo": {
       "name": "linux-perf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T11:17:13Z",
   "closed_by": null,
   "created_at": "2026-10-15T11:11:58Z",
   "draft": false,
   "e_tag": "\"1397ae7ced46c8601f2186bab5f05f91f2807c65a47b60e3b0ef904d1443e36f\"",
   "head": {
-    "ref": "7.2.11_hb581c2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/linux-perf-feedstock/pull/95",
   "id": 4872321304,
   "labels": [],
-  "last_fetched": "2026-10-15T11:11:59.565616",
+  "last_fetched": "2026-10-15T11:18:47.337628",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T11:17:13Z",
   "number": 95,
-  "state": "open",
-  "updated_at": "2026-10-15T11:11:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T11:17:17Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"c19c1e643e108568122ae5749ffb3cdcb2fc845e2fc7f32e5cdcbc698645c5d6\"",
+  "Last-Modified": "Thu, 15 Oct 2026 19:28:01 GMT",
   "base": {
     "repo": {
       "name": "gen3-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T19:28:01Z",
   "closed_by": null,
   "created_at": "2026-10-15T19:23:07Z",
   "draft": false,
   "e_tag": "\"f10fcbfa8a099fe5fdd42b15a04bef91e24c49b413e002ca01f023f0a2531001\"",
   "head": {
-    "ref": "2026.11_h743a1d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gen3-client-feedstock/pull/29",
   "id": 4878663456,
   "labels": [],
-  "last_fetched": "2026-10-15T19:23:08.581204",
+  "last_fetched": "2026-10-15T19:29:33.757840",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T19:28:01Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-15T19:23:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T19:28:05Z"
 }

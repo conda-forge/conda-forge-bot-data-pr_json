@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"82ba9ebb3afacabca0dd0b25454f781c69b679796b447bfc4d0375cf3a34675c\"",
+  "Last-Modified": "Thu, 15 Oct 2026 02:13:28 GMT",
   "base": {
     "repo": {
       "name": "virtualizarr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T02:13:27Z",
   "closed_by": null,
   "created_at": "2026-10-15T02:09:39Z",
   "draft": false,
   "e_tag": "\"d7ee0ecc248f4b8f0ecff785476d6230074f94aed188295b7697e1375561f182\"",
   "head": {
-    "ref": "2.8.0_hcc546f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/virtualizarr-feedstock/pull/26",
   "id": 4867168518,
   "labels": [],
-  "last_fetched": "2026-10-15T02:09:40.404204",
+  "last_fetched": "2026-10-15T02:15:01.005995",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T02:13:27Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-15T02:09:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T02:13:28Z"
 }

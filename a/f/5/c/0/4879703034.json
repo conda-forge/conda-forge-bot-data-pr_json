@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"c66b304a84082775e43f3b933bb1234cc828845c071e5c094d63b3ad7cc5e3af\"",
+  "Last-Modified": "Thu, 15 Oct 2026 20:55:36 GMT",
   "base": {
     "repo": {
       "name": "supabase-functions-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T20:55:32Z",
   "closed_by": null,
   "created_at": "2026-10-15T20:53:35Z",
   "draft": false,
   "e_tag": "\"84df9e55111415c6e5eafbba384426359c679497d68b12af84b6168e999e5c7f\"",
   "head": {
-    "ref": "2.33.0_h6dc298"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/supabase-functions-feedstock/pull/38",
   "id": 4879703034,
   "labels": [],
-  "last_fetched": "2026-10-15T20:53:36.477701",
+  "last_fetched": "2026-10-15T20:57:49.601933",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T20:55:32Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-15T20:53:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T20:55:36Z"
 }

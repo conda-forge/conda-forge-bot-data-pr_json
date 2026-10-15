@@ -1,18 +1,18 @@
 {
-  "ETag": "W/\"30c7488f6be486ed3f41dabf41652eed8b7b1659a430c0f85c5cf2aeaeca5e6f\"",
-  "Last-Modified": "Thu, 15 Oct 2026 19:16:16 GMT",
+  "ETag": "W/\"38def550a1412d64a00dae2e86c11a7669000a117ca452b56766335b8dab9508\"",
+  "Last-Modified": "Thu, 15 Oct 2026 19:20:00 GMT",
   "base": {
     "repo": {
       "name": "catalystcoop.ferc-xbrl-extractor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T19:20:00Z",
   "closed_by": null,
   "created_at": "2026-10-15T18:11:05Z",
   "draft": false,
   "e_tag": "\"d19e9033aeb6eb2333b518a274a0c3641b365793620206d6397f14ba91ad154b\"",
   "head": {
-    "ref": "1.11.2_h7a9373"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/catalystcoop.ferc-xbrl-extractor-feedstock/pull/51",
   "id": 4877793534,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/catalystcoop.ferc-xbrl-extractor-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-15T19:18:06.892722",
+  "last_fetched": "2026-10-15T19:21:14.572372",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T19:19:59Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-15T19:16:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T19:20:04Z"
 }

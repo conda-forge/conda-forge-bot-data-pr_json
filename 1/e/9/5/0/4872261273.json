@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"c639bb7f8100ce02dd03abdbe9c89e420e3d05b37e5d32a5cd9c0fd15e134f55\"",
+  "Last-Modified": "Thu, 15 Oct 2026 11:55:19 GMT",
   "base": {
     "repo": {
       "name": "foxes-opt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T11:55:19Z",
   "closed_by": null,
   "created_at": "2026-10-15T11:06:53Z",
   "draft": false,
   "e_tag": "\"5c8ce6737fe6420b5e03f4ece6148709bde806053cb09ca3dfb553a25c061754\"",
   "head": {
-    "ref": "0.9.1_hffd297"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/foxes-opt-feedstock/pull/20",
   "id": 4872261273,
   "labels": [],
-  "last_fetched": "2026-10-15T11:06:54.621289",
+  "last_fetched": "2026-10-15T11:56:48.137731",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T11:55:19Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-15T11:06:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T11:55:19Z"
 }

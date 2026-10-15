@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"20d8de91c531039ce51585dc6a25bd8adf62cd0de1377141ea49a64f2410ca7e\"",
+  "Last-Modified": "Thu, 15 Oct 2026 18:56:27 GMT",
   "base": {
     "repo": {
       "name": "runpodctl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T18:56:23Z",
   "closed_by": null,
   "created_at": "2026-10-15T18:51:32Z",
   "draft": false,
   "e_tag": "\"04af0d2dcb7b303d26ff46e4fbaa84e57c640884443d76a640978c7ac8a09ebb\"",
   "head": {
-    "ref": "3.0.0_hcdf86a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/runpodctl-feedstock/pull/28",
   "id": 4878274218,
   "labels": [],
-  "last_fetched": "2026-10-15T18:51:33.764662",
+  "last_fetched": "2026-10-15T18:57:29.886711",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T18:56:23Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-15T18:51:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T18:56:27Z"
 }

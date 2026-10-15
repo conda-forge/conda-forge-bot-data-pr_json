@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"10989303cc434b78432037a17da2b9019e9cd78e9d0b8efb707d6efb886635e0\"",
-  "Last-Modified": "Thu, 15 Oct 2026 17:43:50 GMT",
+  "ETag": "W/\"d3b11a29faaa9085ef4cd189400e7e5d053170e7f0aab82dc34e5b160d0540e1\"",
+  "Last-Modified": "Thu, 15 Oct 2026 18:57:58 GMT",
   "base": {
     "repo": {
       "name": "anaconda-cli-base-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T18:57:58Z",
   "created_at": "2026-06-11T04:16:21Z",
   "draft": false,
   "e_tag": "\"6e35b8b16a98f2aec4f9fd78ebf83e633f0c8abd735c6318999fbf2e4fe8e3fd\"",
   "head": {
-    "ref": "0.9.1_h9e4847"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anaconda-cli-base-feedstock/pull/30",
   "id": 3844500545,
   "labels": [],
-  "last_fetched": "2026-10-15T18:29:23.873935",
+  "last_fetched": "2026-10-15T18:59:18.312083",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T18:57:58Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-15T17:43:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T18:57:58Z"
 }

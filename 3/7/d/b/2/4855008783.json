@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"e4865c55b553235f645dba8aea8f5f2b99947169db3fa9fa9b977f4d5d2686de\"",
-  "Last-Modified": "Wed, 14 Oct 2026 08:20:58 GMT",
+  "ETag": "W/\"5ff6cc1ef9df5f9cd71b6ca6dc5dcee039d0226e116b4be7abe96ec92a0d5d03\"",
+  "Last-Modified": "Thu, 15 Oct 2026 16:31:33 GMT",
   "base": {
     "repo": {
       "name": "veros-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/veros-feedstock/pull/9",
   "id": 4855008783,
-  "labels": [],
-  "last_fetched": "2026-10-14T09:51:01.482362",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6071806270,
+      "name": "automerge",
+      "node_id": "LA_kwDOKfBT5c8AAAABaehpPg",
+      "url": "https://api.github.com/repos/conda-forge/veros-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-15T16:32:39.800784",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 9,
   "state": "open",
-  "updated_at": "2026-10-14T08:20:58Z"
+  "updated_at": "2026-10-15T16:31:33Z"
 }

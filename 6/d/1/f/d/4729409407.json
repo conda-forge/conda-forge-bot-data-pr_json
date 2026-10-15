@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"c566976872dc0abb52da36fb0c4f555faecf87caa881ce989840faf3bb4a492a\"",
-  "Last-Modified": "Sat, 03 Oct 2026 20:20:04 GMT",
+  "ETag": "W/\"ca676b84c702f9410ef249eecdde20fb3e2069b332f551d1e0c37782ae4b8287\"",
+  "Last-Modified": "Thu, 15 Oct 2026 09:38:54 GMT",
   "base": {
     "repo": {
       "name": "mamba-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T09:38:54Z",
   "created_at": "2026-10-03T20:18:24Z",
   "draft": false,
   "e_tag": "\"c1ff2926eec22273eb3fe27e31adf5b44745883909f9ffb863d68c11b9f1bb1e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hfd51ed"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mamba-feedstock/pull/402",
   "id": 4729409407,
   "labels": [],
-  "last_fetched": "2026-10-12T10:37:20.192643",
+  "last_fetched": "2026-10-15T09:40:00.587048",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T09:38:54Z",
   "number": 402,
-  "state": "open",
-  "updated_at": "2026-10-03T20:20:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T09:38:54Z"
 }

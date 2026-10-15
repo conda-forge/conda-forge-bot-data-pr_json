@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"f0f1eead2f1fcf614c24bacb96a504455485257ac09c00f6c7fe52c77c4f66b0\"",
+  "Last-Modified": "Thu, 15 Oct 2026 13:48:39 GMT",
   "base": {
     "repo": {
       "name": "ibmcloudant-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/ibmcloudant-feedstock/pull/24",
   "id": 4873942445,
-  "labels": [],
-  "last_fetched": "2026-10-15T13:20:56.937378",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7515108018,
+      "name": "automerge",
+      "node_id": "LA_kwDOM298U88AAAABv-9ysg",
+      "url": "https://api.github.com/repos/conda-forge/ibmcloudant-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-15T13:50:20.315603",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 24,
   "state": "open",
-  "updated_at": "2026-10-15T13:20:56Z"
+  "updated_at": "2026-10-15T13:48:39Z"
 }

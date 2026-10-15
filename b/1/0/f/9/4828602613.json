@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"15202198d02c12c65f8ae034f362857fb2d56b7e61701e3eaf1d84f5d999b11a\"",
-  "Last-Modified": "Mon, 12 Oct 2026 20:19:49 GMT",
+  "ETag": "W/\"7928b60109976bd5f5591d4a2aa9b345fa466b669e26cdb8ff6f558181ef7c97\"",
+  "Last-Modified": "Thu, 15 Oct 2026 08:18:31 GMT",
   "base": {
     "repo": {
       "name": "hk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T08:18:31Z",
   "created_at": "2026-10-12T11:16:14Z",
   "draft": false,
   "e_tag": "\"82b687edef285f1e2f8385d681c64a597c10d7d46f6418545fe3d23e54c64d1b\"",
   "head": {
-    "ref": "2.6.0_hecbbb4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hk-feedstock/pull/29",
   "id": 4828602613,
   "labels": [],
-  "last_fetched": "2026-10-12T21:50:01.769705",
+  "last_fetched": "2026-10-15T08:19:52.779579",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T08:18:30Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-12T20:19:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T08:18:31Z"
 }

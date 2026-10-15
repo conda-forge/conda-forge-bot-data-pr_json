@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"b55f384c8ccffe4156984a5a2b284ac859cea995a871d7d065a46b6a90eff740\"",
+  "Last-Modified": "Thu, 15 Oct 2026 02:01:11 GMT",
   "base": {
     "repo": {
       "name": "large_image_source_rasterio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T02:01:07Z",
   "closed_by": null,
   "created_at": "2026-10-15T01:57:18Z",
   "draft": false,
   "e_tag": "\"67ffbe3d2399c476d628742ba13d9a76a2cdae4f784778867f6192b9ad7a6192\"",
   "head": {
-    "ref": "1.35.6_h9f67b4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/large_image_source_rasterio-feedstock/pull/79",
   "id": 4867068753,
   "labels": [],
-  "last_fetched": "2026-10-15T01:57:19.739009",
+  "last_fetched": "2026-10-15T02:02:48.498846",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T02:01:07Z",
   "number": 79,
-  "state": "open",
-  "updated_at": "2026-10-15T01:57:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T02:01:11Z"
 }

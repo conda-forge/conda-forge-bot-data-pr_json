@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"eac4e3591e9023cfece568c3320ea01323592f031d61c8a4a85cdc553f3d84af\"",
+  "Last-Modified": "Thu, 15 Oct 2026 21:42:25 GMT",
   "base": {
     "repo": {
       "name": "transformers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T21:42:20Z",
   "closed_by": null,
   "created_at": "2026-10-15T21:39:56Z",
   "draft": false,
   "e_tag": "\"7fc77d6d1ada4ff9a805494349c836953a03b5b0dac5e0b3ff5b7696b4515fce\"",
   "head": {
-    "ref": "5.20.0_h16d042"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/transformers-feedstock/pull/267",
   "id": 4880215252,
   "labels": [],
-  "last_fetched": "2026-10-15T21:39:57.944469",
+  "last_fetched": "2026-10-15T21:43:52.224573",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T21:42:20Z",
   "number": 267,
-  "state": "open",
-  "updated_at": "2026-10-15T21:39:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T21:42:25Z"
 }

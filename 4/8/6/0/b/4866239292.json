@@ -1,11 +1,13 @@
 {
+  "ETag": "W/\"ef0e348cc7e0559c66007d918929ca95f2c7b2569d47457f3626d22904675a07\"",
+  "Last-Modified": "Thu, 15 Oct 2026 03:42:11 GMT",
   "base": {
     "repo": {
       "name": "gpcam-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-15T03:42:11Z",
+  "closed_by": "jan-janssen",
   "created_at": "2026-10-15T00:08:31Z",
   "draft": false,
   "e_tag": "\"0311a081124154ac0967004da70623e981e816fbeee702fd328b95f059a26fc8\"",
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/gpcam-feedstock/pull/22",
   "id": 4866239292,
   "labels": [],
-  "last_fetched": "2026-10-15T00:08:32.660883",
+  "last_fetched": "2026-10-15T03:44:04.850264",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-15T00:08:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T03:42:11Z"
 }

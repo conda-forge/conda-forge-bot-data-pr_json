@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"8ee33da2186ac553d6843838b53fc8b62a06ace5320f4fe491e7c5f6e3552c34\"",
+  "Last-Modified": "Thu, 15 Oct 2026 17:10:41 GMT",
   "base": {
     "repo": {
       "name": "ast-grep-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T17:10:36Z",
   "closed_by": null,
   "created_at": "2026-10-15T17:00:24Z",
   "draft": false,
   "e_tag": "\"3b5faf7910fe3db6484fec98fad8e4dce168f35e831ef1cdd4c69497ed9ab9ea\"",
   "head": {
-    "ref": "0.51.0_h7dd39e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ast-grep-feedstock/pull/72",
   "id": 4876928445,
   "labels": [],
-  "last_fetched": "2026-10-15T17:00:25.644311",
+  "last_fetched": "2026-10-15T17:12:56.329469",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T17:10:36Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-10-15T17:00:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T17:10:41Z"
 }

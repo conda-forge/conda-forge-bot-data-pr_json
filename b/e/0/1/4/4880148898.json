@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"75b35db5cf524bc6b074b92280064db39045396c6172905b0ca6fca48c687958\"",
+  "Last-Modified": "Thu, 15 Oct 2026 21:37:16 GMT",
   "base": {
     "repo": {
       "name": "r-officedown-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T21:37:12Z",
   "closed_by": null,
   "created_at": "2026-10-15T21:33:11Z",
   "draft": false,
   "e_tag": "\"8293a4d40782f186c2e54933b7db0b480155af15456fedfc928810a09c70862d\"",
   "head": {
-    "ref": "0.4.3_h777868"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-officedown-feedstock/pull/17",
   "id": 4880148898,
   "labels": [],
-  "last_fetched": "2026-10-15T21:33:13.032372",
+  "last_fetched": "2026-10-15T21:38:20.939250",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T21:37:12Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-15T21:33:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T21:37:16Z"
 }

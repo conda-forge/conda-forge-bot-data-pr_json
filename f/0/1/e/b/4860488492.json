@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"90b11a061489c9362c314e6b3d904ae0a3ebfb379f76147caef2b4faf0eccf73\"",
-  "Last-Modified": "Wed, 14 Oct 2026 15:46:35 GMT",
+  "ETag": "W/\"76e5b3de04c1fd5d0915e8aab6a50240a3bb0b94d75ac7ece46c6b95312b12e2\"",
+  "Last-Modified": "Thu, 15 Oct 2026 01:57:58 GMT",
   "base": {
     "repo": {
       "name": "pybsm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T01:57:58Z",
   "created_at": "2026-10-14T15:46:33Z",
   "draft": false,
   "e_tag": "\"490171720e4f014356e2b35ee1e0074f6943f53d3aa30ba26eef431622e4a140\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h6c17ae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pybsm-feedstock/pull/50",
   "id": 4860488492,
   "labels": [],
-  "last_fetched": "2026-10-14T16:03:45.779873",
+  "last_fetched": "2026-10-15T01:59:37.148614",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-15T01:57:58Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-10-14T15:48:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T01:57:58Z"
 }

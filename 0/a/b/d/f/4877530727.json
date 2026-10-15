@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"65966483041f1053d95de9d5ba9ba7bdacd384c9a672da7b94ad4110d2552d3c\"",
+  "Last-Modified": "Thu, 15 Oct 2026 17:54:01 GMT",
   "base": {
     "repo": {
       "name": "netpbmfile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-15T17:54:01Z",
   "closed_by": null,
   "created_at": "2026-10-15T17:49:12Z",
   "draft": false,
   "e_tag": "\"029e56e2f67646bd18fe5d31fa13f15bcd5dfc81361d33d19a831f3c260a823f\"",
   "head": {
-    "ref": "2026.10.15_h714457"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/netpbmfile-feedstock/pull/19",
   "id": 4877530727,
   "labels": [],
-  "last_fetched": "2026-10-15T17:49:13.984751",
+  "last_fetched": "2026-10-15T17:55:33.099785",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-15T17:54:01Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-15T17:49:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-15T17:54:01Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"3d7134a20b0a9e504b9602b18a7b8eaf0fc3279e7163dd1e049f3ef7740b1b4d\"",
+  "Last-Modified": "Thu, 15 Oct 2026 11:21:40 GMT",
   "base": {
     "repo": {
       "name": "stackvana-core-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/stackvana-core-feedstock/pull/343",
   "id": 4872244752,
-  "labels": [],
-  "last_fetched": "2026-10-15T11:05:36.031891",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2720792633,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzIwNzkyNjMz",
+      "url": "https://api.github.com/repos/conda-forge/stackvana-core-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-15T11:23:20.774812",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 343,
   "state": "open",
-  "updated_at": "2026-10-15T11:05:34Z"
+  "updated_at": "2026-10-15T11:21:40Z"
 }

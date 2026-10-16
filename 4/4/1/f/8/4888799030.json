@@ -1,41 +1,29 @@
 {
-  "ETag": "W/\"0f4c7e11b840ffa5711e871740b0621282f1e1ca88bd0bcfa670137027ef6541\"",
-  "Last-Modified": "Fri, 16 Oct 2026 20:12:29 GMT",
+  "ETag": "W/\"4cb8297db910b9411040bdcdb064531b8cb080f7d735deb34d2478969e756081\"",
+  "Last-Modified": "Fri, 16 Oct 2026 20:18:34 GMT",
   "base": {
     "repo": {
       "name": "golangci-lint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T20:18:31Z",
   "closed_by": null,
   "created_at": "2026-10-16T13:05:59Z",
   "draft": false,
   "e_tag": "\"a1e849690f944310a3c76cb35d57a0ab24599fbb59c03508c471c4a2f5a4af5d\"",
   "head": {
-    "ref": "2.15.0_h288e34"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/golangci-lint-feedstock/pull/61",
   "id": 4888799030,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 7346926509,
-      "name": "automerge",
-      "node_id": "LA_kwDOMlSxy88AAAABtekzrQ",
-      "url": "https://api.github.com/repos/conda-forge/golangci-lint-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-10-16T20:14:12.199899",
+  "labels": [],
+  "last_fetched": "2026-10-16T20:20:03.411194",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T20:18:31Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-10-16T20:12:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T20:18:34Z"
 }

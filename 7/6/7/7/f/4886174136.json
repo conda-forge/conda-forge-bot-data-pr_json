@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"5a8bae3bd19064018e9a5d7399c39934bc869509986a9324be050f6960620cc2\"",
-  "Last-Modified": "Fri, 16 Oct 2026 09:18:01 GMT",
+  "ETag": "W/\"742cbfbdec94d73b99a274676f2de9217f1d73a0c3347593937ff9c9116d2edf\"",
+  "Last-Modified": "Fri, 16 Oct 2026 20:34:31 GMT",
   "base": {
     "repo": {
       "name": "pyceres-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T20:34:31Z",
   "closed_by": null,
   "created_at": "2026-10-16T09:16:30Z",
   "draft": false,
   "e_tag": "\"9caadfdf2cb13d3b18723d6a82a1a74027eea825fbc3eb5dd5cbf6ddd1423cb6\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h138ef7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyceres-feedstock/pull/36",
   "id": 4886174136,
   "labels": [],
-  "last_fetched": "2026-10-16T12:36:29.054588",
+  "last_fetched": "2026-10-16T20:35:42.871579",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T20:34:31Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-16T09:18:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T20:34:31Z"
 }

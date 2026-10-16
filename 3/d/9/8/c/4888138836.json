@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"127cb78b6cf3e410b896d2dd973e2cdeb200bbe86c5031a0eebafbfe5392e83c\"",
+  "Last-Modified": "Fri, 16 Oct 2026 12:33:10 GMT",
   "base": {
     "repo": {
       "name": "reactivex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T12:33:10Z",
   "closed_by": null,
   "created_at": "2026-10-16T12:08:16Z",
   "draft": false,
   "e_tag": "\"a7b2659fe12108e1c87d2813c6096a2f9ee8fbbdbc0fad6af4371e1979b5a356\"",
   "head": {
-    "ref": "6.0.0_hfddd14"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/reactivex-feedstock/pull/7",
   "id": 4888138836,
   "labels": [],
-  "last_fetched": "2026-10-16T12:08:16.825283",
+  "last_fetched": "2026-10-16T12:35:08.363674",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T12:33:10Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-16T12:08:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T12:33:10Z"
 }

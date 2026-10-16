@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"f81e9b8da638bcd03bdfb1c5caf9212df769df38eb80362bfcbf865589454308\"",
-  "Last-Modified": "Thu, 15 Oct 2026 00:31:37 GMT",
+  "ETag": "W/\"4b5c3a51032340fb8d9e54f23a1358f8d3fef419925412311662f2ebeb62aa21\"",
+  "Last-Modified": "Fri, 16 Oct 2026 17:43:17 GMT",
   "base": {
     "repo": {
       "name": "awscli2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T17:43:16Z",
   "closed_by": null,
   "created_at": "2026-10-15T00:29:54Z",
   "draft": false,
   "e_tag": "\"e25e519684d2a3777e414fa2939c6a05e56cd39b98f41da895bfd593486c6a54\"",
   "head": {
-    "ref": "2.38.1_h4eeb33"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/awscli2-feedstock/pull/728",
   "id": 4866400625,
   "labels": [],
-  "last_fetched": "2026-10-15T00:53:40.793067",
+  "last_fetched": "2026-10-16T17:44:30.693208",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T17:43:16Z",
   "number": 728,
-  "state": "open",
-  "updated_at": "2026-10-15T00:31:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T17:43:17Z"
 }

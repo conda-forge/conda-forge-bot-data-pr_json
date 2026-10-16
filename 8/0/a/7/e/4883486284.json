@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"7ae57b14b05f19694e4fd654def78f434eac6603cd4942e8bda9de71ad4970fb\"",
+  "Last-Modified": "Fri, 16 Oct 2026 04:38:45 GMT",
   "base": {
     "repo": {
       "name": "croaring-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T04:38:40Z",
   "closed_by": null,
   "created_at": "2026-10-16T04:28:14Z",
   "draft": false,
   "e_tag": "\"5375b8258c17ba0a6beee69446c6fadb13f840050024a26822c21f8c1f866a70\"",
   "head": {
-    "ref": "5.3.0_haebe90"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/croaring-feedstock/pull/44",
   "id": 4883486284,
   "labels": [],
-  "last_fetched": "2026-10-16T04:28:15.425037",
+  "last_fetched": "2026-10-16T04:40:08.934706",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T04:38:40Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-16T04:28:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T04:38:45Z"
 }

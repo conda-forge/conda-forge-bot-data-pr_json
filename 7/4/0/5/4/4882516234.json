@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"befef9e59fa563bdaeb6a55958fdd348f048fabfe906b2b4e9165e3dadaa059c\"",
+  "Last-Modified": "Fri, 16 Oct 2026 02:23:04 GMT",
   "base": {
     "repo": {
       "name": "dspeed-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T02:23:01Z",
   "closed_by": null,
   "created_at": "2026-10-16T02:20:50Z",
   "draft": false,
   "e_tag": "\"43b02c4773f46e810b1a1ee60490eddfb97001ef46143dfdfbea04ef4f106858\"",
   "head": {
-    "ref": "2.4.3_h6ebdaf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dspeed-feedstock/pull/21",
   "id": 4882516234,
   "labels": [],
-  "last_fetched": "2026-10-16T02:20:51.239443",
+  "last_fetched": "2026-10-16T02:24:08.362310",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T02:23:01Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-16T02:20:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T02:23:04Z"
 }

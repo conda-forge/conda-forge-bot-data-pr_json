@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"3ca97ea43ce8b6235823d916eb2e4d88dfcecd37062f695b950ddbc4956e1f0b\"",
+  "Last-Modified": "Fri, 16 Oct 2026 01:35:51 GMT",
   "base": {
     "repo": {
       "name": "ultralytics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T01:35:47Z",
   "closed_by": null,
   "created_at": "2026-10-16T01:23:02Z",
   "draft": false,
   "e_tag": "\"6226428cd314e7cf99409396a6d1938e5e07cf0805d941fc508b857df950c397\"",
   "head": {
-    "ref": "8.4.178_h5552ec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ultralytics-feedstock/pull/672",
   "id": 4882048352,
   "labels": [],
-  "last_fetched": "2026-10-16T01:23:03.187310",
+  "last_fetched": "2026-10-16T01:37:25.159844",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T01:35:47Z",
   "number": 672,
-  "state": "open",
-  "updated_at": "2026-10-16T01:23:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T01:35:51Z"
 }

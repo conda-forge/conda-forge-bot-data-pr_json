@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"a093f85c6fa740142632ca8f19a445cc20e295aec425f2aef186c25da6153402\"",
+  "Last-Modified": "Fri, 16 Oct 2026 06:20:06 GMT",
   "base": {
     "repo": {
       "name": "supabase-auth-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T06:20:01Z",
   "closed_by": null,
   "created_at": "2026-10-16T06:18:04Z",
   "draft": false,
   "e_tag": "\"e5b77f4c9313420a0097277bfd109605a45bafc9c257bb115f6110040acb1c53\"",
   "head": {
-    "ref": "2.33.0_h6f6cd9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/supabase-auth-feedstock/pull/36",
   "id": 4884345178,
   "labels": [],
-  "last_fetched": "2026-10-16T06:18:05.023863",
+  "last_fetched": "2026-10-16T06:21:42.513558",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T06:20:01Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-16T06:18:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T06:20:06Z"
 }

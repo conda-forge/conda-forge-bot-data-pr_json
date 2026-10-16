@@ -1,29 +1,32 @@
 {
-  "ETag": "W/\"5fcc66b3d49df8e5fb710eaa279aa38a92a9d109dbba40a46f5d1b3ee342f8f5\"",
-  "Last-Modified": "Fri, 16 Oct 2026 11:23:31 GMT",
+  "ETag": "W/\"4104db270e59115194dcc75b3d95660c862b73dc9b53dca758cd9d252b8e6fbb\"",
+  "Last-Modified": "Fri, 09 Oct 2026 08:31:24 GMT",
   "base": {
     "repo": {
       "name": "tensordict-feedstock"
     }
   },
-  "closed_at": "2026-10-16T11:23:31Z",
-  "closed_by": "regro-cf-autotick-bot",
+  "closed_at": null,
   "created_at": "2026-10-09T08:29:45Z",
   "draft": false,
   "e_tag": "\"100d6e4133d366a524524e2f74c3e22c6b95ecb730bc4ebf46d674afe6fce17e\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_h17a4cd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tensordict-feedstock/pull/61",
   "id": 4798020326,
-  "labels": [],
-  "last_fetched": "2026-10-16T11:25:01.137811",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-16T11:23:29.280155",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 61,
-  "state": "closed",
-  "updated_at": "2026-10-16T11:23:31Z"
+  "state": "open",
+  "updated_at": "2026-10-09T08:31:24Z"
 }

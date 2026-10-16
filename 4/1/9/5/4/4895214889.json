@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"22565a91df2136d7d2d26720adcacbafc2c6aaeda3bd057f77964f2442ff18e4\"",
+  "Last-Modified": "Fri, 16 Oct 2026 23:06:20 GMT",
   "base": {
     "repo": {
       "name": "hatchet-lite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T23:06:17Z",
   "closed_by": null,
   "created_at": "2026-10-16T22:57:42Z",
   "draft": false,
   "e_tag": "\"59a5cdf6cdf63c8f183281647a2c88a3898c9c6fe377616009b8623d60874c66\"",
   "head": {
-    "ref": "0.112.10_h5348fc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hatchet-lite-feedstock/pull/71",
   "id": 4895214889,
   "labels": [],
-  "last_fetched": "2026-10-16T22:57:43.198626",
+  "last_fetched": "2026-10-16T23:07:47.862475",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T23:06:17Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-10-16T22:57:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T23:06:20Z"
 }

@@ -1,29 +1,41 @@
 {
-  "ETag": "W/\"976e84973b10fe181093e76a359a7826d1bd2e1d6be3e9ff50752610a21d9f36\"",
-  "Last-Modified": "Thu, 15 Oct 2026 23:37:07 GMT",
+  "ETag": "W/\"22bc4470e449d52f3f6ad0ef8c6934417a47417e516c77b23774e5bd22c426ac\"",
+  "Last-Modified": "Fri, 16 Oct 2026 14:07:17 GMT",
   "base": {
     "repo": {
       "name": "ixwebsocket-split-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T14:07:14Z",
   "closed_by": null,
   "created_at": "2026-10-15T03:08:04Z",
   "draft": false,
   "e_tag": "\"0c8a54f1eda50ffe6e0a23e6a0e38b33d35febc3620bfba04bd97982c9964feb\"",
   "head": {
-    "ref": "12.1.0_h3932a4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ixwebsocket-split-feedstock/pull/8",
   "id": 4867606939,
-  "labels": [],
-  "last_fetched": "2026-10-16T01:14:51.692181",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7571594051,
+      "name": "automerge",
+      "node_id": "LA_kwDOM842A88AAAABw01bQw",
+      "url": "https://api.github.com/repos/conda-forge/ixwebsocket-split-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-16T14:08:45.650593",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T14:07:14Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-15T23:37:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T14:07:17Z"
 }

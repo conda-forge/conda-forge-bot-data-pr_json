@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"71212db7911b4f48986771facf7bb84bd984af74faeda73bb69347e74e1df59b\"",
+  "Last-Modified": "Fri, 16 Oct 2026 16:38:47 GMT",
   "base": {
     "repo": {
       "name": "draftjs_exporter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T16:38:43Z",
   "closed_by": null,
   "created_at": "2026-10-16T16:35:52Z",
   "draft": false,
   "e_tag": "\"6182abd8eede9a97fe453e4a44924e8a9bbc3b1ece4ef2955b6bd532305cd5c2\"",
   "head": {
-    "ref": "7.2.0_he120b5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/draftjs_exporter-feedstock/pull/33",
   "id": 4891375500,
   "labels": [],
-  "last_fetched": "2026-10-16T16:35:53.304375",
+  "last_fetched": "2026-10-16T16:40:22.974203",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T16:38:43Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-16T16:35:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T16:38:47Z"
 }

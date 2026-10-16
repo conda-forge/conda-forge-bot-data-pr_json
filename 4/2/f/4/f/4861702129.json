@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"743f70f526d1ce4673c261822375a21b8839dfa53aca1e72140b955dacc0780d\"",
-  "Last-Modified": "Wed, 14 Oct 2026 17:22:44 GMT",
+  "ETag": "W/\"a51ce9738f9163f13bee2ce357032ed45172d9bb858c65afeb1e4163ceaf2ffe\"",
+  "Last-Modified": "Fri, 16 Oct 2026 17:50:22 GMT",
   "base": {
     "repo": {
       "name": "gpp-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T17:50:22Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-14T17:20:48Z",
   "draft": false,
   "e_tag": "\"b913c3728d9a937fd89f18bb76b1c016d7a2e874750b3d2c23880c1210d2fbc0\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/gpp-client-feedstock/pull/36",
   "id": 4861702129,
-  "labels": [],
-  "last_fetched": "2026-10-14T18:52:28.198620",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 8850840227,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOPC01-s8AAAACD40aow",
+      "url": "https://api.github.com/repos/conda-forge/gpp-client-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-16T17:50:26.123733",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-14T17:22:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T17:50:22Z"
 }

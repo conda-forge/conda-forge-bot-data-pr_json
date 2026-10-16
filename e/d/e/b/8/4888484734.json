@@ -1,27 +1,41 @@
 {
+  "ETag": "W/\"8ae7c54b4c199e292ba380ba3adc71161ce7debcd5dd0a7b92b5062c398fd350\"",
+  "Last-Modified": "Fri, 16 Oct 2026 15:16:18 GMT",
   "base": {
     "repo": {
       "name": "auto-round-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T15:16:15Z",
   "closed_by": null,
   "created_at": "2026-10-16T12:39:10Z",
   "draft": false,
   "e_tag": "\"cec4df795a7689adc6ed52159b52030f2984519abae68160fa280be53c65cc67\"",
   "head": {
-    "ref": "0.16.1_h97401d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/auto-round-feedstock/pull/18",
   "id": 4888484734,
-  "labels": [],
-  "last_fetched": "2026-10-16T12:39:11.529191",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10053688116,
+      "name": "automerge",
+      "node_id": "LA_kwDORAFTmM8AAAACVz8bNA",
+      "url": "https://api.github.com/repos/conda-forge/auto-round-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-16T15:16:48.006080",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T15:16:15Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-16T12:39:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T15:16:18Z"
 }

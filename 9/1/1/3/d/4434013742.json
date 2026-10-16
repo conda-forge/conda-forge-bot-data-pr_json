@@ -1,5 +1,5 @@
 {
-  "ETag": "W/\"ec94ff5b80a225c47576e2f7311908ec441f39dbda3b331d28a0457347a469a4\"",
+  "ETag": "W/\"dd2e6e4da80c8dedd7f6b1720938b14231cca13968f3f27b65a40b827622b9a2\"",
   "Last-Modified": "Thu, 03 Sep 2026 14:43:59 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"4f06bdc764673c37b3164db6e61b22d53647ab2a26f9e07225614908f6e385fd\"",
   "head": {
-    "ref": "rebuild-flang21-0-1_hd5923d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/go-feedstock/pull/347",
   "id": 4434013742,
-  "labels": [],
-  "last_fetched": "2026-10-09T21:23:58.009685",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-16T21:33:37.782245",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 347,

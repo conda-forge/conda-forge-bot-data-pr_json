@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"3f566ccdab7c653218d3bab52741deb80903fb2702eaea694db63533e14aca7f\"",
-  "Last-Modified": "Thu, 03 Sep 2026 14:26:12 GMT",
+  "ETag": "W/\"bb29c765c183990d31801fef237c702751c07a24cf311489d46893e5b3d4da1a\"",
+  "Last-Modified": "Fri, 16 Oct 2026 22:34:46 GMT",
   "base": {
     "repo": {
       "name": "go-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T22:34:46Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-03T14:24:18Z",
   "draft": false,
   "e_tag": "\"4453e97b6f06a97d060cfb933e6efe268a213a70ff79b7779c89139361c7afa5\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/go-feedstock/pull/344",
   "id": 4433872609,
   "labels": [],
-  "last_fetched": "2026-10-09T20:25:54.975189",
+  "last_fetched": "2026-10-16T22:36:25.131988",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 344,
-  "state": "open",
-  "updated_at": "2026-09-03T14:26:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T22:34:46Z"
 }

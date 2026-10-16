@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"15a6be2d05725afeab43b6d6de1171d16f3d72e9f6ba14aca8e0ffd94a6bd7fe\"",
-  "Last-Modified": "Thu, 24 Sep 2026 16:22:50 GMT",
+  "ETag": "W/\"76deec8dc15bb498672468b3162616da0d832954f08e75556601c41695f8076f\"",
+  "Last-Modified": "Fri, 16 Oct 2026 18:59:17 GMT",
   "base": {
     "repo": {
       "name": "crun-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T18:59:17Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-24T16:20:37Z",
   "draft": false,
   "e_tag": "\"9313732cd1648368e46fe9d2ec090a0ef23cc6de007b4f1e42a69fdc6a0a4dc1\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/crun-feedstock/pull/23",
   "id": 4628339978,
   "labels": [],
-  "last_fetched": "2026-10-09T15:05:27.866558",
+  "last_fetched": "2026-10-16T19:01:02.374487",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-09-24T16:22:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T18:59:17Z"
 }

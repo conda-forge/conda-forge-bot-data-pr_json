@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"747ef1cbf6044621b710d683582884593a42e0af9bbadbcd4b6c3be0673f908f\"",
+  "Last-Modified": "Fri, 16 Oct 2026 10:02:56 GMT",
   "base": {
     "repo": {
       "name": "causal-testing-framework-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T10:02:55Z",
   "closed_by": null,
   "created_at": "2026-10-16T09:59:15Z",
   "draft": false,
   "e_tag": "\"f9f8dd48a26c3c7b2caa28eb7b46c1a1f77199916dd3acaaad2c7b8742be096d\"",
   "head": {
-    "ref": "16.0.0_hcfef9b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/causal-testing-framework-feedstock/pull/15",
   "id": 4886669747,
   "labels": [],
-  "last_fetched": "2026-10-16T09:59:15.948722",
+  "last_fetched": "2026-10-16T10:04:06.911868",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T10:02:55Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-16T09:59:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T10:02:56Z"
 }

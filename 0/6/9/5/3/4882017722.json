@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"79dadbb066f8265a6f61f99b86fdfc08c420d95b0e36f8c667480f533f0c464a\"",
-  "Last-Modified": "Fri, 16 Oct 2026 01:20:19 GMT",
+  "ETag": "W/\"fc2e6d18cf1e460dabbe33118b440db8640642f818c8ecf9c3dae8325a60763e\"",
+  "Last-Modified": "Fri, 16 Oct 2026 12:14:29 GMT",
   "base": {
     "repo": {
       "name": "pyproject-api-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyproject-api-feedstock/pull/23",
   "id": 4882017722,
-  "labels": [],
-  "last_fetched": "2026-10-16T04:02:44.811931",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4888268405,
+      "name": "automerge",
+      "node_id": "LA_kwDOIlKiGs8AAAABI10OdQ",
+      "url": "https://api.github.com/repos/conda-forge/pyproject-api-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-16T12:15:53.612428",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 23,
   "state": "open",
-  "updated_at": "2026-10-16T01:20:19Z"
+  "updated_at": "2026-10-16T12:14:29Z"
 }

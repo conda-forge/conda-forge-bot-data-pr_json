@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"f82dfe1375747b59c3d1ac5458b9f771305d7bf8864d750ab4d219312468cb5e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"0b2f552fe2f661aa5b9475b51accfd9da98f023bcd4252c186434478f37c54ad\"",
+  "Last-Modified": "Fri, 16 Oct 2026 19:00:58 GMT",
   "base": {
     "repo": {
       "name": "postal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T19:00:58Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-10-29T07:03:37Z",
   "draft": false,
   "e_tag": "\"9bb747877a2aee9ca0c5d75fe8afd3084e3fa13dc348254e075b69d15693dc6f\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/postal-feedstock/pull/27",
   "id": 2957839910,
-  "labels": [],
-  "last_fetched": "2026-10-09T18:54:39.616292",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-16T19:01:00.572784",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 27,
-  "state": "open",
-  "updated_at": "2025-10-29T07:05:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T19:00:58Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"f72c140c02dec88db687fe9d3e37de0f0321cc3e247554d669f3adbb7288acd8\"",
-  "Last-Modified": "Fri, 16 Oct 2026 21:10:30 GMT",
+  "ETag": "W/\"b8851744018e286cc6164c846547c67b755cdaf7290224184c46521226038b7a\"",
+  "Last-Modified": "Fri, 16 Oct 2026 22:43:03 GMT",
   "base": {
     "repo": {
       "name": "asv_runner-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T22:43:03Z",
   "closed_by": null,
   "created_at": "2026-10-16T21:08:58Z",
   "draft": false,
   "e_tag": "\"f8bcafef6a8ef10c3fa1fb94948652f688e9aea5eca507b4a0b3fba193e7ffd4\"",
   "head": {
-    "ref": "0.3.2_h40e97a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/asv_runner-feedstock/pull/15",
   "id": 4894300095,
   "labels": [],
-  "last_fetched": "2026-10-16T21:57:26.714660",
+  "last_fetched": "2026-10-16T22:44:10.403733",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T22:43:03Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-16T21:10:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T22:43:03Z"
 }

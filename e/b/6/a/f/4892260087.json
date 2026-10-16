@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"6cdbbf5ff0804c9fd650a34313bd3103d5519f97af03be8d479b7ff833116d50\"",
+  "Last-Modified": "Fri, 16 Oct 2026 17:57:52 GMT",
   "base": {
     "repo": {
       "name": "eslint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T17:57:47Z",
   "closed_by": null,
   "created_at": "2026-10-16T17:55:44Z",
   "draft": false,
   "e_tag": "\"d267bcebf719f01b11d004ba01c8b42de2dc2e8b72cf2c0a7b2115ce791573f5\"",
   "head": {
-    "ref": "10.13.0_h9e9049"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/eslint-feedstock/pull/125",
   "id": 4892260087,
   "labels": [],
-  "last_fetched": "2026-10-16T17:55:44.864097",
+  "last_fetched": "2026-10-16T17:59:52.841615",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T17:57:47Z",
   "number": 125,
-  "state": "open",
-  "updated_at": "2026-10-16T17:55:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T17:57:52Z"
 }

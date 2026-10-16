@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"162e4a67d967b99ab76e8b6c97c5fa42038ae3684b437a6dbc7a32bba4d138dd\"",
+  "Last-Modified": "Fri, 16 Oct 2026 14:43:29 GMT",
   "base": {
     "repo": {
       "name": "svelte-language-server-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T14:43:25Z",
   "closed_by": null,
   "created_at": "2026-10-16T14:41:05Z",
   "draft": false,
   "e_tag": "\"3111bf58cb224bbe017fee4fbe212d9983b8959dcdd319238ee40a572d80befb\"",
   "head": {
-    "ref": "0.18.5_h91a21f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/svelte-language-server-feedstock/pull/29",
   "id": 4889968517,
   "labels": [],
-  "last_fetched": "2026-10-16T14:41:06.401452",
+  "last_fetched": "2026-10-16T14:44:33.153808",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T14:43:24Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-16T14:41:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T14:43:29Z"
 }

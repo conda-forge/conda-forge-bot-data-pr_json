@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"7be697550b144285b211c3c32cf2da80f9987c917bb576bdfa3c91f9f4ad19ea\"",
+  "Last-Modified": "Fri, 16 Oct 2026 04:20:47 GMT",
   "base": {
     "repo": {
       "name": "yaml-language-server-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T04:20:47Z",
   "closed_by": null,
   "created_at": "2026-10-16T04:18:31Z",
   "draft": false,
   "e_tag": "\"f276dc0b3504507c0f0a7ea655542cc2d1f2b0909c38901037bf1e01e0c792b0\"",
   "head": {
-    "ref": "2.0.0_he2dab7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yaml-language-server-feedstock/pull/16",
   "id": 4883415815,
   "labels": [],
-  "last_fetched": "2026-10-16T04:18:31.675369",
+  "last_fetched": "2026-10-16T04:21:53.887974",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T04:20:47Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-16T04:18:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T04:20:52Z"
 }

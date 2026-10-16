@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"1c137a7ef3ec21961e719c6ded16fefb28803c9237ddc49aabb5256c6e69c7b3\"",
+  "Last-Modified": "Fri, 16 Oct 2026 14:44:55 GMT",
   "base": {
     "repo": {
       "name": "ibm-quantum-schemas-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T14:44:51Z",
   "closed_by": null,
   "created_at": "2026-10-16T14:42:45Z",
   "draft": false,
   "e_tag": "\"d0309f055d877ab7dd0ccdb4c477145217cf991463efe93a83fefa633d0605d0\"",
   "head": {
-    "ref": "0.13.20261016_hc083ae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ibm-quantum-schemas-feedstock/pull/9",
   "id": 4889990274,
   "labels": [],
-  "last_fetched": "2026-10-16T14:42:46.605144",
+  "last_fetched": "2026-10-16T14:46:11.825279",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T14:44:51Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-16T14:42:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T14:44:55Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"6679fd0bac980bd5491657a56a4f7fb1eebabe6834e2d99efe4e3591616a48d0\"",
+  "Last-Modified": "Fri, 16 Oct 2026 15:18:55 GMT",
   "base": {
     "repo": {
       "name": "genno-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T15:18:51Z",
   "closed_by": null,
   "created_at": "2026-10-16T15:14:24Z",
   "draft": false,
   "e_tag": "\"71a347bf4b92cae1cade36eeb0fb38d33ee780fa1aca7245edba251deb49738c\"",
   "head": {
-    "ref": "1.31.0_h628800"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/genno-feedstock/pull/47",
   "id": 4890388064,
   "labels": [],
-  "last_fetched": "2026-10-16T15:14:24.963203",
+  "last_fetched": "2026-10-16T15:21:20.556196",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T15:18:51Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-10-16T15:14:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T15:18:55Z"
 }

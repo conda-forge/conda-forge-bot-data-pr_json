@@ -1,18 +1,18 @@
 {
-  "ETag": "W/\"1c9483ec6eb76afd1e17ba46bddcf1d6c91c6543d1797497ceb1ad8aaf61e4d1\"",
-  "Last-Modified": "Fri, 16 Oct 2026 00:42:33 GMT",
+  "ETag": "W/\"61289d96b983af9331ab0e1199771048dd202fcea2d1df31dc404cdd4eedb17a\"",
+  "Last-Modified": "Fri, 16 Oct 2026 02:01:16 GMT",
   "base": {
     "repo": {
       "name": "imp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T02:01:12Z",
   "closed_by": null,
   "created_at": "2026-10-15T23:53:35Z",
   "draft": false,
   "e_tag": "\"24bf3aa987cde69e7c8075a3c13bab30a12c18acb5e0cebc7ff15a37d07e6cd4\"",
   "head": {
-    "ref": "rebuild-python315-0-1_he8367b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imp-feedstock/pull/87",
   "id": 4881381911,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/imp-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-16T00:43:40.888890",
+  "last_fetched": "2026-10-16T02:03:09.726249",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T02:01:12Z",
   "number": 87,
-  "state": "open",
-  "updated_at": "2026-10-16T00:42:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T02:01:16Z"
 }

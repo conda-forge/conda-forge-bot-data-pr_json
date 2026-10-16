@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"9ffec6c700c903a9caa6e4efbc2bc95e1c1053dca9838d646b38707914dc26f9\"",
-  "Last-Modified": "Fri, 16 Oct 2026 15:23:05 GMT",
+  "ETag": "W/\"2105f6dd0637424f557fd94ddd502b550c92b1d96b8d443eded0c796e00ccd4d\"",
+  "Last-Modified": "Fri, 16 Oct 2026 17:38:24 GMT",
   "base": {
     "repo": {
       "name": "biotite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T17:38:24Z",
   "closed_by": null,
   "created_at": "2026-10-16T15:00:42Z",
   "draft": false,
   "e_tag": "\"e78c3995240d729344709d37a5c1805f3f39f6c35c6984ead6d598c615b63009\"",
   "head": {
-    "ref": "1.8.0_h704c77"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/biotite-feedstock/pull/89",
   "id": 4890215118,
   "labels": [],
-  "last_fetched": "2026-10-16T15:24:18.698308",
+  "last_fetched": "2026-10-16T17:39:54.441730",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T17:38:23Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-10-16T15:23:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T17:38:24Z"
 }

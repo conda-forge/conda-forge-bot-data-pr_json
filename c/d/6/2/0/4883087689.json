@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"2d7880b4571f0ce608d59c39354e0fbad943e78498612a976c25f09ae3d006fc\"",
+  "Last-Modified": "Fri, 16 Oct 2026 03:37:34 GMT",
   "base": {
     "repo": {
       "name": "tritonclient-split-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T03:37:30Z",
   "closed_by": null,
   "created_at": "2026-10-16T03:33:27Z",
   "draft": false,
   "e_tag": "\"d8eeb764b965e2a0733cb66f8058a7fdf37a9a106a02321528dc8c1c9c1c144f\"",
   "head": {
-    "ref": "2.73.0_h5c041c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tritonclient-split-feedstock/pull/58",
   "id": 4883087689,
   "labels": [],
-  "last_fetched": "2026-10-16T03:33:28.641791",
+  "last_fetched": "2026-10-16T03:39:09.506859",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T03:37:30Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-16T03:33:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T03:37:34Z"
 }

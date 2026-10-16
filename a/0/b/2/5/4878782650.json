@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"eafc4872026af2751af1f6691f2514df21f1de55fb5b09c67000d4b0d1bd52ff\"",
-  "Last-Modified": "Thu, 15 Oct 2026 19:35:10 GMT",
+  "ETag": "W/\"f69bc1ad8c004f7611de47ebcbaf72432b2a19b3f95286d0f41010cb1fd2cce3\"",
+  "Last-Modified": "Fri, 16 Oct 2026 09:52:32 GMT",
   "base": {
     "repo": {
       "name": "django-import-export-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/django-import-export-feedstock/pull/63",
   "id": 4878782650,
-  "labels": [],
-  "last_fetched": "2026-10-15T19:45:03.646610",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890868738,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODY4NzM4",
+      "url": "https://api.github.com/repos/conda-forge/django-import-export-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-16T09:52:41.908013",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 63,
   "state": "open",
-  "updated_at": "2026-10-15T19:35:10Z"
+  "updated_at": "2026-10-16T09:52:32Z"
 }

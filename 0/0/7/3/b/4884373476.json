@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"117260c0acd74589f61d15082f4f1c281a7a7bf4792b2aad7945070fd8ccf24d\"",
+  "Last-Modified": "Fri, 16 Oct 2026 06:47:53 GMT",
   "base": {
     "repo": {
       "name": "tzcode-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T06:47:53Z",
   "closed_by": null,
   "created_at": "2026-10-16T06:21:27Z",
   "draft": false,
   "e_tag": "\"750b07818a0f555f387d6c412c1e2fe1ed3136300a63ffb48455a1d9af1eade0\"",
   "head": {
-    "ref": "bot-pr_arm64_win_h1a4e40"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tzcode-feedstock/pull/42",
   "id": 4884373476,
   "labels": [],
-  "last_fetched": "2026-10-16T06:21:27.964612",
+  "last_fetched": "2026-10-16T06:48:58.717443",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T06:47:53Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-10-16T06:21:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T06:47:53Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"69fe0705c8b08e7b691c7d651e1a9f6dbe637b60af5737e243756c8bb2376528\"",
+  "Last-Modified": "Fri, 16 Oct 2026 23:43:29 GMT",
   "base": {
     "repo": {
       "name": "jsonpath-ng-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T23:43:25Z",
   "closed_by": null,
   "created_at": "2026-10-16T23:41:17Z",
   "draft": false,
   "e_tag": "\"04045f630705cdefb5e9e428f51fe237b7524c569b2a2d0c325ad94e6dad6cf5\"",
   "head": {
-    "ref": "1.11.0_hb729eb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jsonpath-ng-feedstock/pull/22",
   "id": 4895515690,
   "labels": [],
-  "last_fetched": "2026-10-16T23:41:18.187010",
+  "last_fetched": "2026-10-16T23:45:09.481513",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T23:43:25Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-16T23:41:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T23:43:29Z"
 }

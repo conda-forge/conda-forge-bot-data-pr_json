@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"10c3f7c587619fd05425886d8281f73d2c8cacd28cfc103529ab6de26ce203e1\"",
-  "Last-Modified": "Fri, 16 Oct 2026 15:36:48 GMT",
+  "ETag": "W/\"a0eabe0d8730f7d55db6776f431c6cc6f5b852bf292bf71750e278fa40af4546\"",
+  "Last-Modified": "Fri, 16 Oct 2026 17:47:39 GMT",
   "base": {
     "repo": {
       "name": "htcondor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T17:47:39Z",
   "created_at": "2026-09-24T19:21:47Z",
   "draft": false,
   "e_tag": "\"dc07269e83f371f9da9dd6d6c3181ad19791fa02671df6cd550ff508da8241da\"",
   "head": {
-    "ref": "25.14.1_he2c81b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/htcondor-feedstock/pull/402",
   "id": 4630089883,
   "labels": [],
-  "last_fetched": "2026-10-16T16:48:30.359616",
+  "last_fetched": "2026-10-16T17:48:52.287761",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T17:47:39Z",
   "number": 402,
-  "state": "open",
-  "updated_at": "2026-10-16T15:36:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T17:47:39Z"
 }

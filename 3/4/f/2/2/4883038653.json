@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"75a234de00d5b7181da0c7cd5fbb6fa331ba4f4d2eabbc9a53000f4a2890c9b9\"",
-  "Last-Modified": "Fri, 16 Oct 2026 03:28:11 GMT",
+  "ETag": "W/\"1fa0b115a8319493d7d5562f9e70a7721774b3fe57d998d53214efafe19c6ff8\"",
+  "Last-Modified": "Fri, 16 Oct 2026 13:28:40 GMT",
   "base": {
     "repo": {
       "name": "solidocean-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T13:28:40Z",
   "closed_by": null,
   "created_at": "2026-10-16T03:26:31Z",
   "draft": false,
   "e_tag": "\"2748dea5c3846c839dd9c082f1be28728cda53db43f027b808dade9c0a4a2f1f\"",
   "head": {
-    "ref": "0.2.0_h0fb603"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/solidocean-feedstock/pull/1",
   "id": 4883038653,
   "labels": [],
-  "last_fetched": "2026-10-16T04:51:29.739088",
+  "last_fetched": "2026-10-16T13:30:19.827748",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T13:28:40Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-16T03:28:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T13:28:40Z"
 }

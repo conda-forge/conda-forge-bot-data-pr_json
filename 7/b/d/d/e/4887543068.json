@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"b2fbd751ce6562b55172f3abdda4036b28424c17b6d2e0ae5f511f4a25b1a63f\"",
+  "Last-Modified": "Fri, 16 Oct 2026 11:18:30 GMT",
   "base": {
     "repo": {
       "name": "anemoi-transform-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T11:18:26Z",
   "closed_by": null,
   "created_at": "2026-10-16T11:13:21Z",
   "draft": false,
   "e_tag": "\"147e99f7ea11eb086392d8aebdbe55a725a4da193c773ee63cee056f99604aff\"",
   "head": {
-    "ref": "0.5.1_hc15522"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anemoi-transform-feedstock/pull/12",
   "id": 4887543068,
   "labels": [],
-  "last_fetched": "2026-10-16T11:13:22.476031",
+  "last_fetched": "2026-10-16T11:19:57.357086",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T11:18:26Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-16T11:13:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T11:18:30Z"
 }

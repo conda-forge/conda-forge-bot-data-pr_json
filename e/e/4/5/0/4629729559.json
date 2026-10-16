@@ -1,17 +1,17 @@
 {
-  "ETag": "W/\"5e0f8d59865a8737456553ae7c7d416e2f5bac4d8ff125019deae837a1fe5cf1\"",
-  "Last-Modified": "Thu, 24 Sep 2026 19:37:50 GMT",
+  "ETag": "W/\"434bf18936ae4c5e1959367d3a80bd0ba522c6cab1dccbfa15b85384dbee8ad9\"",
+  "Last-Modified": "Fri, 16 Oct 2026 18:07:16 GMT",
   "base": {
     "repo": {
       "name": "pygetm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T18:07:14Z",
   "created_at": "2026-09-24T18:44:46Z",
   "draft": false,
   "e_tag": "\"fab1313e5d965bc3cbe9897f2c6e01c27dfe4a4573b5b19017719cfe51614ae7\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h41d686"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pygetm-feedstock/pull/41",
   "id": 4629729559,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/pygetm-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-16T10:48:14.294961",
+  "last_fetched": "2026-10-16T18:09:24.975914",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T18:07:14Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-09-24T19:37:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T18:07:16Z"
 }

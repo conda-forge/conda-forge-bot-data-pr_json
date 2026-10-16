@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"c1b729a2cd29849f9f591c7f56fea1c30e4c2f1d918a9d83e1ff3ae0a7f0967b\"",
+  "Last-Modified": "Fri, 16 Oct 2026 11:53:24 GMT",
   "base": {
     "repo": {
       "name": "zizmor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T11:53:20Z",
   "closed_by": null,
   "created_at": "2026-10-16T11:36:51Z",
   "draft": false,
   "e_tag": "\"a4af1c94376d1c09ea0263c78b8bb41300a06fc97c7da00ea9dce6b61d9fd6b0\"",
   "head": {
-    "ref": "1.31.1_h558024"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zizmor-feedstock/pull/60",
   "id": 4887793333,
   "labels": [],
-  "last_fetched": "2026-10-16T11:36:52.754901",
+  "last_fetched": "2026-10-16T11:54:54.170464",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T11:53:20Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-16T11:36:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T11:53:24Z"
 }

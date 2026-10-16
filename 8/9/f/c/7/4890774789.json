@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"05185d890173067d147165db2f6598db6150c7203290062e1bf4b92c82c37416\"",
-  "Last-Modified": "Fri, 16 Oct 2026 15:47:52 GMT",
+  "ETag": "W/\"4f15f818eb12350716c250b2dced2684e71ddfef51dc35b9b8c15d04c011629d\"",
+  "Last-Modified": "Fri, 16 Oct 2026 16:22:59 GMT",
   "base": {
     "repo": {
       "name": "mkl_fft-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T16:22:59Z",
   "closed_by": null,
   "created_at": "2026-10-16T15:46:13Z",
   "draft": false,
   "e_tag": "\"39dd4c44004d3063fd1e40eb79537548cb93c641afa5b71f00f49830a4c9ba5d\"",
   "head": {
-    "ref": "2.4.0_h001052"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mkl_fft-feedstock/pull/100",
   "id": 4890774789,
   "labels": [],
-  "last_fetched": "2026-10-16T15:50:57.492065",
+  "last_fetched": "2026-10-16T16:24:20.582974",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T16:22:58Z",
   "number": 100,
-  "state": "open",
-  "updated_at": "2026-10-16T15:47:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T16:22:59Z"
 }

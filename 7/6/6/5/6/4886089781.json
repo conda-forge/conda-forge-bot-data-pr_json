@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"214f59d817d7fa7c9aaebf7dbf4b3290f343967be991c49fbe45697a16b99844\"",
+  "Last-Modified": "Fri, 16 Oct 2026 09:17:27 GMT",
   "base": {
     "repo": {
       "name": "conda-deny-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/conda-deny-feedstock/pull/30",
   "id": 4886089781,
-  "labels": [],
-  "last_fetched": "2026-10-16T09:09:10.418499",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7651491435,
+      "name": "automerge",
+      "node_id": "LA_kwDONFQvUM8AAAAByBB-aw",
+      "url": "https://api.github.com/repos/conda-forge/conda-deny-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-16T09:19:00.161162",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 30,
   "state": "open",
-  "updated_at": "2026-10-16T09:09:09Z"
+  "updated_at": "2026-10-16T09:17:27Z"
 }

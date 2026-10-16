@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"1e5169484f4c92ddd1100f61299258af782e1d1854758188b0afb5772dbb632e\"",
+  "Last-Modified": "Fri, 16 Oct 2026 04:06:20 GMT",
   "base": {
     "repo": {
       "name": "patch-feedstock"
@@ -7,7 +9,7 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-10-16T01:38:10Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"c333d06db3c91f5d82a5fd3d00be8380e2c994fefdcfbeaf2c446f6db01f7886\"",
   "head": {
     "ref": "bot-pr_arm64_win_h4283b6"
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/patch-feedstock/pull/16",
   "id": 4882157999,
   "labels": [],
-  "last_fetched": "2026-10-16T01:38:10.946130",
+  "last_fetched": "2026-10-16T07:02:38.981062",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 16,
   "state": "open",
-  "updated_at": "2026-10-16T01:38:10Z"
+  "updated_at": "2026-10-16T04:06:20Z"
 }

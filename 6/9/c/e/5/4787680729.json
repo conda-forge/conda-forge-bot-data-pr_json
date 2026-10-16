@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"453a1459cfd2a09a175477a473c2fd31c4f7d5956a9885b002857c115a63f019\"",
-  "Last-Modified": "Thu, 08 Oct 2026 13:41:50 GMT",
+  "ETag": "W/\"aef622034bbb1dc23fb31d9b0b20f81ccc92ff8484a5b5dfd1de2d90df24089c\"",
+  "Last-Modified": "Fri, 16 Oct 2026 00:53:49 GMT",
   "base": {
     "repo": {
       "name": "sagemaker-studio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T00:53:49Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-08T13:40:05Z",
   "draft": false,
   "e_tag": "\"f6b45685009ae862047b84bac413b6e95f56097e4567bf428393caf1c1f605c8\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/sagemaker-studio-feedstock/pull/109",
   "id": 4787680729,
   "labels": [],
-  "last_fetched": "2026-10-08T22:27:21.289507",
+  "last_fetched": "2026-10-16T00:55:19.896023",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 109,
-  "state": "open",
-  "updated_at": "2026-10-08T13:41:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T00:53:49Z"
 }

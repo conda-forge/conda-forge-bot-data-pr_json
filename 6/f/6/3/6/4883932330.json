@@ -1,29 +1,41 @@
 {
-  "ETag": "W/\"c498163614ed547450b2159ea194082ca4dd2fbc83e2e1cc5f3ee6f91c4a63b7\"",
-  "Last-Modified": "Fri, 16 Oct 2026 14:10:16 GMT",
+  "ETag": "W/\"a0158ba474d6b93133a4175ecc228db1e185910dd478b4729071f7793f60a55b\"",
+  "Last-Modified": "Fri, 16 Oct 2026 15:16:30 GMT",
   "base": {
     "repo": {
       "name": "dau-sim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T15:16:26Z",
   "closed_by": null,
   "created_at": "2026-10-16T05:26:30Z",
   "draft": false,
   "e_tag": "\"b2599f8d8f51768c6e1da0dd5745498f0cd9412a11991132d296a2f584f7ce8f\"",
   "head": {
-    "ref": "0.3.0_h083a58"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dau-sim-feedstock/pull/1",
   "id": 4883932330,
-  "labels": [],
-  "last_fetched": "2026-10-16T14:26:49.376096",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11831568953,
+      "name": "automerge",
+      "node_id": "LA_kwDOT4SAYc8AAAACwTdqOQ",
+      "url": "https://api.github.com/repos/conda-forge/dau-sim-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-16T15:17:12.856253",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T15:16:26Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-16T14:10:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T15:16:30Z"
 }

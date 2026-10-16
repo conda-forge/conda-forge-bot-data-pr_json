@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"d1633b1a5e67ce3147af3b97bf8724c51d564ba3682e8497710c32a40a55b557\"",
-  "Last-Modified": "Wed, 14 Oct 2026 10:59:08 GMT",
+  "ETag": "W/\"844f4baa393e6425ddb14dbd5331857a2d15c6926282d4d15b4286007c4f1403\"",
+  "Last-Modified": "Fri, 16 Oct 2026 08:08:03 GMT",
   "base": {
     "repo": {
       "name": "mujoco-warp-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/mujoco-warp-feedstock/pull/26",
   "id": 4856823488,
-  "labels": [],
-  "last_fetched": "2026-10-14T11:58:40.655232",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10342958750,
+      "name": "automerge",
+      "node_id": "LA_kwDOReO6Vs8AAAACaH0Gng",
+      "url": "https://api.github.com/repos/conda-forge/mujoco-warp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-16T08:09:18.732592",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 26,
   "state": "open",
-  "updated_at": "2026-10-14T10:59:08Z"
+  "updated_at": "2026-10-16T08:08:03Z"
 }

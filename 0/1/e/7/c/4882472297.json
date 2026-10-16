@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"2c9e681d8e5269cdbf79709b4c66ff55742851994ecbebed928cdbf94b40f38a\"",
-  "Last-Modified": "Fri, 16 Oct 2026 02:17:18 GMT",
+  "ETag": "W/\"9cc8b8ee89281b4f3fc810e3600dce30292bdc4d2d0f198478141134e814800f\"",
+  "Last-Modified": "Fri, 16 Oct 2026 09:23:19 GMT",
   "base": {
     "repo": {
       "name": "memory_graph-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T09:23:18Z",
   "closed_by": null,
   "created_at": "2026-10-16T02:15:37Z",
   "draft": false,
   "e_tag": "\"a6abcf1f33aa70cdee0d486ad5d7fda54718147d67b9066fee491d76bae40e42\"",
   "head": {
-    "ref": "0.3.88_h29c1e8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/memory_graph-feedstock/pull/38",
   "id": 4882472297,
   "labels": [],
-  "last_fetched": "2026-10-16T06:38:55.039806",
+  "last_fetched": "2026-10-16T09:24:29.908859",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T09:23:18Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-16T02:17:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T09:23:19Z"
 }

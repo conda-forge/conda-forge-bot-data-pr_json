@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"a1603d02b016275efead7680d763e58e4d7b80ca2514f235cd969f216f0b152b\"",
-  "Last-Modified": "Wed, 14 Oct 2026 04:11:28 GMT",
+  "ETag": "W/\"1a0ffc10603d4a01d5fa12fa506fb4a0d3c62eb8955d6d86d5197101b595532f\"",
+  "Last-Modified": "Fri, 16 Oct 2026 21:20:56 GMT",
   "base": {
     "repo": {
       "name": "deepagents-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T21:20:56Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-14T04:09:55Z",
   "draft": false,
   "e_tag": "\"450881dd6392ec31bcf1deaaea8c551d7e54fd72a0d814a651f20b4945dc9b38\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/deepagents-feedstock/pull/38",
   "id": 4852822446,
-  "labels": [],
-  "last_fetched": "2026-10-14T08:03:40.889982",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 10963372981,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOSemygs8AAAACjXfLtQ",
+      "url": "https://api.github.com/repos/conda-forge/deepagents-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-16T21:20:58.642100",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-14T04:11:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T21:20:56Z"
 }

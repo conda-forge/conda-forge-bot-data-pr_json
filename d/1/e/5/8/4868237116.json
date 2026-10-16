@@ -1,18 +1,18 @@
 {
-  "ETag": "W/\"d9465e8316a4f96fd1ca820f7ff27b1620c3e4bd6585c92b3a865e4a780c19b7\"",
-  "Last-Modified": "Fri, 16 Oct 2026 16:14:47 GMT",
+  "ETag": "W/\"be6977968cb5a4d9404bd551791640437a0b5ba30e1ec9d7da7de4d0e7decd55\"",
+  "Last-Modified": "Fri, 16 Oct 2026 16:42:16 GMT",
   "base": {
     "repo": {
       "name": "newton-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T16:42:13Z",
   "closed_by": null,
   "created_at": "2026-10-15T04:34:56Z",
   "draft": false,
   "e_tag": "\"589ff6b08f4fe8ab2362529381de7ddc1c6c15513bc530c9ce343b4f05650939\"",
   "head": {
-    "ref": "1.7.0_h226233"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/newton-feedstock/pull/12",
   "id": 4868237116,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/newton-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-16T16:15:19.989080",
+  "last_fetched": "2026-10-16T16:44:00.663739",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T16:42:13Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-16T16:14:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T16:42:16Z"
 }

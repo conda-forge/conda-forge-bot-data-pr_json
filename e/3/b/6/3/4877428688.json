@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"88aa1dc507c7a36343ae060a82117c3dc657f0cf05db96ab3b61028a009ac6d7\"",
+  "Last-Modified": "Fri, 16 Oct 2026 05:29:49 GMT",
   "base": {
     "repo": {
       "name": "xinvert-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T05:29:49Z",
   "closed_by": null,
   "created_at": "2026-10-15T17:40:21Z",
   "draft": false,
   "e_tag": "\"068b480358b624d35b190635b507c3d4d583a997c6e51d010581b033839a48c6\"",
   "head": {
-    "ref": "0.3.2_h5f6230"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xinvert-feedstock/pull/8",
   "id": 4877428688,
   "labels": [],
-  "last_fetched": "2026-10-15T17:40:22.361482",
+  "last_fetched": "2026-10-16T05:31:43.331270",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T05:29:49Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-15T17:40:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T05:29:49Z"
 }

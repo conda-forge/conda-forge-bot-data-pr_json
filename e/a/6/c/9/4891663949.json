@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"a7d3b412cb4cf29eeb4be07c808187d8966b57043e507c0c3e712645358c11eb\"",
+  "Last-Modified": "Fri, 16 Oct 2026 18:30:14 GMT",
   "base": {
     "repo": {
       "name": "sqlite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T18:30:14Z",
   "closed_by": null,
   "created_at": "2026-10-16T17:02:38Z",
   "draft": false,
   "e_tag": "\"145fb919a6380842d697b8947d8fc1a8adbac9a5c6575d4272a82e4c6d383c00\"",
   "head": {
-    "ref": "3.54.1_hfa89e8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sqlite-feedstock/pull/177",
   "id": 4891663949,
   "labels": [],
-  "last_fetched": "2026-10-16T17:02:39.826388",
+  "last_fetched": "2026-10-16T18:32:00.818167",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T18:30:14Z",
   "number": 177,
-  "state": "open",
-  "updated_at": "2026-10-16T17:02:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T18:30:14Z"
 }

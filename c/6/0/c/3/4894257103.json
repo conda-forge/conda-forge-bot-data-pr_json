@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"96247e298e2a120910cb140496862361f7f517106e94b27b1ed1c863e9d9d4e6\"",
+  "Last-Modified": "Fri, 16 Oct 2026 21:07:28 GMT",
   "base": {
     "repo": {
       "name": "openxr-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T21:07:27Z",
   "closed_by": null,
   "created_at": "2026-10-16T21:04:24Z",
   "draft": false,
   "e_tag": "\"f43ecb71ff67676a770957a86415d71df0d263c29d15250b5794a880ba81701c\"",
   "head": {
-    "ref": "1.1.65_h90e07f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openxr-sdk-feedstock/pull/58",
   "id": 4894257103,
   "labels": [],
-  "last_fetched": "2026-10-16T21:04:25.424519",
+  "last_fetched": "2026-10-16T21:08:43.845113",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T21:07:27Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-16T21:04:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T21:07:32Z"
 }

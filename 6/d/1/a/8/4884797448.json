@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"2b2a2a38c10168eb2b41c827acbe5242c062b80b0ea3d687377afb391c7df3ee\"",
+  "Last-Modified": "Fri, 16 Oct 2026 08:20:44 GMT",
   "base": {
     "repo": {
       "name": "cherab-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T08:20:44Z",
   "closed_by": null,
   "created_at": "2026-10-16T07:07:58Z",
   "draft": false,
   "e_tag": "\"7ab720b7f6f9ea7da05cebf077c11f92b2deff6fb23694263c975dbc3d851f6f\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h4fff27"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cherab-feedstock/pull/8",
   "id": 4884797448,
   "labels": [],
-  "last_fetched": "2026-10-16T07:07:59.831394",
+  "last_fetched": "2026-10-16T08:22:24.032922",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T08:20:44Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-16T07:07:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T08:20:44Z"
 }

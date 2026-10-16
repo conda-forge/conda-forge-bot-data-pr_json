@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"5ebaaf40b2b604290876c18b0f32282c41650d37af558857ef13040bcdd351de\"",
-  "Last-Modified": "Sun, 11 Oct 2026 11:41:28 GMT",
+  "ETag": "W/\"cb7e876a97a969d6fb2eaabf339d9fc6711b58d61872a9296f86eef414fbbb7c\"",
+  "Last-Modified": "Fri, 16 Oct 2026 13:30:05 GMT",
   "base": {
     "repo": {
       "name": "model2vec-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T13:30:05Z",
   "created_at": "2026-10-11T11:39:33Z",
   "draft": false,
   "e_tag": "\"e312cc98f262427f42a1461183ee6b19265affad9da3556b35e259aaf8bc92cb\"",
   "head": {
-    "ref": "0.10.0_h002639"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/model2vec-feedstock/pull/7",
   "id": 4818777613,
   "labels": [],
-  "last_fetched": "2026-10-11T12:00:39.966993",
+  "last_fetched": "2026-10-16T13:31:45.893377",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T13:30:05Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-11T11:41:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T13:30:05Z"
 }

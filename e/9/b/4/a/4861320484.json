@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"dfe8841a35363f03a928fa970d174e9255a03ea27bccd3321b15532d9ced608a\"",
-  "Last-Modified": "Wed, 14 Oct 2026 16:52:52 GMT",
+  "ETag": "W/\"fb13ca2aad2971dc3656b6bd83d8177c65911d251a1be6a5de6b27914a3ccb9f\"",
+  "Last-Modified": "Fri, 16 Oct 2026 08:59:21 GMT",
   "base": {
     "repo": {
       "name": "rustypot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T08:59:20Z",
   "created_at": "2026-10-14T16:51:20Z",
   "draft": false,
   "e_tag": "\"25a0078660e8ac310a73c46c47ee946f61fcf00eb0c0cac52f32e8a8ccb07e3a\"",
   "head": {
-    "ref": "1.13.1_h4e2302"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rustypot-feedstock/pull/12",
   "id": 4861320484,
   "labels": [],
-  "last_fetched": "2026-10-14T20:59:13.914715",
+  "last_fetched": "2026-10-16T09:00:50.802477",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-16T08:59:20Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-14T16:52:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T08:59:21Z"
 }

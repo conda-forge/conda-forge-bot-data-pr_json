@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"75fd4f736a24f68cc6f0fa3503b08095a3ea9eb50d88eb95c0a3670173c19144\"",
+  "Last-Modified": "Fri, 16 Oct 2026 19:26:33 GMT",
   "base": {
     "repo": {
       "name": "pydtmc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-16T19:26:33Z",
   "closed_by": null,
   "created_at": "2026-10-16T19:22:37Z",
   "draft": false,
   "e_tag": "\"78d51d706cc2388426c61a3dcb7144ec9e35c5ee2b977629cb4968c94a9ab3fe\"",
   "head": {
-    "ref": "10.0.0_ha19bdf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pydtmc-feedstock/pull/23",
   "id": 4893207478,
   "labels": [],
-  "last_fetched": "2026-10-16T19:22:38.171967",
+  "last_fetched": "2026-10-16T19:28:36.210555",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-16T19:26:33Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-16T19:22:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-16T19:26:33Z"
 }

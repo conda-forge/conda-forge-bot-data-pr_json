@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"c9cd2683d0fc5510bc2e0a75a7e5e120ebd1c629fb79de59b4642aef11988cc0\"",
-  "Last-Modified": "Sat, 17 Oct 2026 21:00:00 GMT",
+  "ETag": "W/\"2895cddafad9ea97d1b2bc83849cfa0326792fe769abbfe76888246d9b6c52cd\"",
+  "Last-Modified": "Sat, 17 Oct 2026 23:45:22 GMT",
   "base": {
     "repo": {
       "name": "ormsgpack-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T23:45:22Z",
   "closed_by": null,
   "created_at": "2026-10-17T20:58:27Z",
   "draft": false,
   "e_tag": "\"9f06207759ceaa4ee1efb957a2addd40d4206788a50c67422d037a57f79e14f8\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hcfcd91"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ormsgpack-feedstock/pull/24",
   "id": 4903873612,
   "labels": [],
-  "last_fetched": "2026-10-17T21:32:41.844761",
+  "last_fetched": "2026-10-17T23:47:24.212128",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T23:45:22Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-17T21:00:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T23:45:22Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"a59d085b49d81978d2a56dcafb790da282d15c25e39dc69a0ecf21634d0520e9\"",
-  "Last-Modified": "Fri, 31 Jul 2026 01:25:23 GMT",
+  "ETag": "W/\"1ce616c1064d4405d825b937e8092088463e8857b3ab5c893ccd9d0924112bcb\"",
+  "Last-Modified": "Sat, 17 Oct 2026 00:16:04 GMT",
   "base": {
     "repo": {
       "name": "buildah-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T00:16:04Z",
+  "closed_by": "dhirschfeld",
   "created_at": "2026-07-31T01:23:37Z",
   "draft": false,
   "e_tag": "\"3ec214e88eb38d5096007a4c38976623a749c469ebd28ad667a657d16d844f68\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/buildah-feedstock/pull/37",
   "id": 4174221057,
   "labels": [],
-  "last_fetched": "2026-10-12T14:06:51.794376",
+  "last_fetched": "2026-10-17T00:17:13.062613",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-07-31T01:25:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T00:16:04Z"
 }

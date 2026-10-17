@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"f0d32033b4aad8676741456bd4957f1069e684cc19e700537f2fc9e1f21fd437\"",
-  "Last-Modified": "Sat, 17 Oct 2026 09:09:22 GMT",
+  "ETag": "W/\"36699c0cbb8da1fbd095e9347c241b13b59ba999744c3fefa500d87d833e3788\"",
+  "Last-Modified": "Sat, 17 Oct 2026 10:57:43 GMT",
   "base": {
     "repo": {
       "name": "pystow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T10:57:43Z",
   "closed_by": null,
   "created_at": "2026-10-17T09:07:44Z",
   "draft": false,
   "e_tag": "\"8cd8b9c0e201d86d1b2e03df708398a46a334cd0d6249e4ceb143fbab959a7e7\"",
   "head": {
-    "ref": "0.10.3_hb140e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pystow-feedstock/pull/26",
   "id": 4898835031,
   "labels": [],
-  "last_fetched": "2026-10-17T09:22:54.959890",
+  "last_fetched": "2026-10-17T10:58:50.159723",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T10:57:43Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-17T09:09:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T10:57:43Z"
 }

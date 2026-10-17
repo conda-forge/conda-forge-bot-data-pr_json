@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"827dbd4a6996af954291d6baf9d63a74746ba5758744150148cdb431b6465901\"",
-  "Last-Modified": "Thu, 15 Oct 2026 03:36:26 GMT",
+  "ETag": "W/\"87d595d6295b933b55a978fb1d7709dd63a983472b0826f8a8dc5f380ecda919\"",
+  "Last-Modified": "Sat, 17 Oct 2026 15:40:22 GMT",
   "base": {
     "repo": {
       "name": "liffile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T15:40:22Z",
   "closed_by": null,
   "created_at": "2026-10-15T03:34:49Z",
   "draft": false,
   "e_tag": "\"6711cc588f0eedc07152d8a6992e15f549838a29805b221ee578541334b53d7f\"",
   "head": {
-    "ref": "2026.10.14_hf12129"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/liffile-feedstock/pull/33",
   "id": 4867798428,
   "labels": [],
-  "last_fetched": "2026-10-15T06:01:09.640020",
+  "last_fetched": "2026-10-17T15:41:53.231833",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T15:40:22Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-15T03:36:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T15:40:22Z"
 }

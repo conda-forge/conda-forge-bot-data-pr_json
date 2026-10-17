@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9a8e12447ef490e598a66d503f44ae0648f3a586cdb2c525425a042ca3b5ee69\"",
-  "Last-Modified": "Fri, 16 Oct 2026 19:21:01 GMT",
+  "ETag": "W/\"6d6e2c6a2736463b3587a62a25cefafa7ad0872d3ab3b6ad1f8e3267c461b06e\"",
+  "Last-Modified": "Sat, 17 Oct 2026 06:06:14 GMT",
   "base": {
     "repo": {
       "name": "fnox-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/fnox-feedstock/pull/24",
   "id": 4892802770,
-  "labels": [],
-  "last_fetched": "2026-10-16T20:26:45.060784",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11391295184,
+      "name": "automerge",
+      "node_id": "LA_kwDOTK0SF88AAAACpvle0A",
+      "url": "https://api.github.com/repos/conda-forge/fnox-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-17T06:07:49.689746",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 24,
   "state": "open",
-  "updated_at": "2026-10-16T19:21:01Z"
+  "updated_at": "2026-10-17T06:06:14Z"
 }

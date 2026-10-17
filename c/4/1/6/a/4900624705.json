@@ -1,29 +1,41 @@
 {
-  "ETag": "W/\"c28342e8c34809e10121c33a96c9c5b1cd5bee1eeeb9224f7900def0e9d8dccc\"",
-  "Last-Modified": "Sat, 17 Oct 2026 13:57:12 GMT",
+  "ETag": "W/\"eb5967cdb8919583695fbc3a5e680eccf523bf1b13ea7ba337da97b905ae4327\"",
+  "Last-Modified": "Sat, 17 Oct 2026 18:48:27 GMT",
   "base": {
     "repo": {
       "name": "python-jsonpath-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T18:48:24Z",
   "closed_by": null,
   "created_at": "2026-10-17T13:53:45Z",
   "draft": false,
   "e_tag": "\"d6bbe48459f4eba812544425c9d0e43e2c88dc2b310702a7d90ccf372200024c\"",
   "head": {
-    "ref": "2.2.2_h2738a6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-jsonpath-feedstock/pull/26",
   "id": 4900624705,
-  "labels": [],
-  "last_fetched": "2026-10-17T16:36:23.389905",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5669836306,
+      "name": "automerge",
+      "node_id": "LA_kwDOJ0qP7M8AAAABUfLWEg",
+      "url": "https://api.github.com/repos/conda-forge/python-jsonpath-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-17T18:49:41.484173",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T18:48:24Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-17T13:57:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T18:48:27Z"
 }

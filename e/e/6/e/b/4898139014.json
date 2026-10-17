@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"3f4a537042c8290b9e907174ec4219bb7baa77ec351685ac5662687407ff5a89\"",
+  "Last-Modified": "Sat, 17 Oct 2026 07:16:45 GMT",
   "base": {
     "repo": {
       "name": "netwatch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T07:16:41Z",
   "closed_by": null,
   "created_at": "2026-10-17T07:06:49Z",
   "draft": false,
   "e_tag": "\"bd38480ad9ee8c45067dc4ef558e44e1dc0b838d212095950d782519faa59590\"",
   "head": {
-    "ref": "0.35.4_h7576af"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/netwatch-feedstock/pull/69",
   "id": 4898139014,
   "labels": [],
-  "last_fetched": "2026-10-17T07:06:50.634211",
+  "last_fetched": "2026-10-17T07:18:19.060403",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-17T07:16:41Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-10-17T07:06:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T07:16:45Z"
 }

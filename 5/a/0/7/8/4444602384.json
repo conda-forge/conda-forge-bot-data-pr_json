@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"e91a5f22a9cfc2289e2cc2423099920d4027159332e30ae77beea32292da8b10\"",
-  "Last-Modified": "Fri, 04 Sep 2026 16:36:51 GMT",
+  "ETag": "W/\"12a67d02b3b1b0b8593cfab35e9ac72244c1c27eebbfe8c9a92716207b4ab05a\"",
+  "Last-Modified": "Sat, 17 Oct 2026 19:05:23 GMT",
   "base": {
     "repo": {
       "name": "jellyfish-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T19:05:23Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-04T16:33:40Z",
   "draft": false,
   "e_tag": "\"df2da2326ccfa0d2f5f22242f116412c2dbbb1130a682735ec2e6ef0b5006ad7\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/jellyfish-feedstock/pull/60",
   "id": 4444602384,
-  "labels": [],
-  "last_fetched": "2026-10-17T01:55:42.144615",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "ededed",
+      "default": false,
+      "description": null,
+      "id": 1933952794,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxOTMzOTUyNzk0",
+      "url": "https://api.github.com/repos/conda-forge/jellyfish-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-17T19:05:25.911232",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-09-04T16:36:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T19:05:23Z"
 }

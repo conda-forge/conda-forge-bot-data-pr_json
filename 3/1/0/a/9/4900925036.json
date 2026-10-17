@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"1928c2dc55ff67433f5d197f1114d6480543837685a2b4e3ecbb3fec2f8bc6d7\"",
+  "Last-Modified": "Sat, 17 Oct 2026 14:37:02 GMT",
   "base": {
     "repo": {
       "name": "csvw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T14:36:58Z",
   "closed_by": null,
   "created_at": "2026-10-17T14:33:17Z",
   "draft": false,
   "e_tag": "\"fa1e162776d364c45b613d396bef169af848a29e68d45b3c8026da98f9890f7f\"",
   "head": {
-    "ref": "4.1.1_h7b6678"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/csvw-feedstock/pull/5",
   "id": 4900925036,
   "labels": [],
-  "last_fetched": "2026-10-17T14:33:18.478642",
+  "last_fetched": "2026-10-17T14:38:37.705951",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-17T14:36:58Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-17T14:33:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T14:37:02Z"
 }

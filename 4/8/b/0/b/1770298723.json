@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"9143c8dc2df6e9827ab3da0e60c9b422c5b2381f147db40a0a0aec8804933305\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"3c8a4c4843d18603844a3c926534158ea89498f48da781cefc84d4b23352f84b\"",
+  "Last-Modified": "Sat, 17 Oct 2026 15:52:32 GMT",
   "base": {
     "repo": {
       "name": "curies-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T15:52:32Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2024-03-13T14:58:19Z",
   "draft": false,
   "head": {
@@ -14,13 +15,25 @@
   },
   "html_url": "https://github.com/conda-forge/curies-feedstock/pull/4",
   "id": 1770298723,
-  "labels": [],
-  "last_fetched": "2026-10-13T03:35:24.645215",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6383597210,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOK_4D-M8AAAABfH32mg",
+      "url": "https://api.github.com/repos/conda-forge/curies-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-17T15:52:35.692392",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 4,
-  "state": "open",
-  "updated_at": "2024-03-13T14:58:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T15:52:32Z"
 }

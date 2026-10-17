@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"aad92506644f1dfc499e934fd7449bae70d7de6b6f1742778d7a55982be5a53a\"",
-  "Last-Modified": "Sat, 17 Oct 2026 12:34:07 GMT",
+  "ETag": "W/\"1c760edd794d049500769da7b3d0950e6ff56ff78abb97fd47d00d47fa8cf919\"",
+  "Last-Modified": "Sat, 17 Oct 2026 18:40:21 GMT",
   "base": {
     "repo": {
       "name": "getdaft-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T18:40:21Z",
   "closed_by": null,
   "created_at": "2026-10-17T12:32:28Z",
   "draft": false,
   "e_tag": "\"722f3c6c667d2a1d4f8c47da90d3127da48a02eb3af13ebbc93e5858600e567f\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h624d5d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/getdaft-feedstock/pull/76",
   "id": 4900068029,
   "labels": [],
-  "last_fetched": "2026-10-17T15:59:25.614048",
+  "last_fetched": "2026-10-17T18:41:56.078665",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T18:40:21Z",
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-10-17T12:34:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T18:40:21Z"
 }

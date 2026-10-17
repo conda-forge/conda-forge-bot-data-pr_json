@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"44d3c907e2b3444abaad0336b7d7e122df4e0e8486c8fdb0587df80b86c898b9\"",
-  "Last-Modified": "Tue, 06 Oct 2026 12:37:24 GMT",
+  "ETag": "W/\"ab7b540cba407334786ae0bc1f86e525d777b5fd218304ccb1088ab820d8aa74\"",
+  "Last-Modified": "Sat, 17 Oct 2026 00:18:59 GMT",
   "base": {
     "repo": {
       "name": "pyspnego-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyspnego-feedstock/pull/55",
   "id": 4758801438,
-  "labels": [],
-  "last_fetched": "2026-10-13T18:02:49.679442",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2304475821,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMzA0NDc1ODIx",
+      "url": "https://api.github.com/repos/conda-forge/pyspnego-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-17T00:20:37.381513",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 55,
   "state": "open",
-  "updated_at": "2026-10-06T12:39:02Z"
+  "updated_at": "2026-10-17T00:18:59Z"
 }

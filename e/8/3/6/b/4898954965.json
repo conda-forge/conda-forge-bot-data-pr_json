@@ -1,11 +1,13 @@
 {
+  "ETag": "W/\"5d958e08d6b88cd920a53f3f15f793854ea8baa9360e2a92188f257b161a681f\"",
+  "Last-Modified": "Sat, 17 Oct 2026 10:44:21 GMT",
   "base": {
     "repo": {
       "name": "rocm-smi-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-17T10:44:21Z",
+  "closed_by": "traversaro",
   "created_at": "2026-10-17T09:29:13Z",
   "draft": false,
   "e_tag": "\"f34816398d4485cbd08042c1bda2267d6b00c3ab1aa49a3165b312e7d8883b1e\"",
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/rocm-smi-feedstock/pull/27",
   "id": 4898954965,
   "labels": [],
-  "last_fetched": "2026-10-17T09:29:14.522180",
+  "last_fetched": "2026-10-17T10:45:54.922699",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-17T09:29:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T10:44:21Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"9d4a1b1ee1481627f1e76ab4f1cc697930dc08d02935afa13f53a8be1b5b0f9d\"",
-  "Last-Modified": "Sat, 17 Oct 2026 13:16:34 GMT",
+  "ETag": "W/\"7219fa06f043eb3c2726d21aed6fc21120c68879f65888201abedec13d407d29\"",
+  "Last-Modified": "Sat, 17 Oct 2026 15:13:31 GMT",
   "base": {
     "repo": {
       "name": "plantuml-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/plantuml-feedstock/pull/82",
   "id": 4900352033,
-  "labels": [],
-  "last_fetched": "2026-10-17T13:33:41.689235",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3927864956,
+      "name": "automerge",
+      "node_id": "LA_kwDOHAEqcs7qHnZ8",
+      "url": "https://api.github.com/repos/conda-forge/plantuml-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-17T15:15:07.985748",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 82,
   "state": "open",
-  "updated_at": "2026-10-17T13:16:34Z"
+  "updated_at": "2026-10-17T15:13:31Z"
 }

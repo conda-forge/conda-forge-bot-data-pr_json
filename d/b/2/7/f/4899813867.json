@@ -1,18 +1,18 @@
 {
-  "ETag": "W/\"6e92ae93065f2d30e14efd145715f358b70809254e12b0af9c63233ca9e082bc\"",
-  "Last-Modified": "Sat, 17 Oct 2026 12:13:53 GMT",
+  "ETag": "W/\"a21360a300f75bafabebe4e229cc4155b32fd21d41f4ac8646cdc2c944b7b493\"",
+  "Last-Modified": "Sat, 17 Oct 2026 13:52:12 GMT",
   "base": {
     "repo": {
       "name": "dora-rs-suite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T13:52:07Z",
   "closed_by": null,
   "created_at": "2026-10-17T11:52:03Z",
   "draft": false,
   "e_tag": "\"e482a6ff3d3fb85b44db2dd157fec0235b3dad620362049bd9db96136f519725\"",
   "head": {
-    "ref": "rebuild-python315-0-1_he6a24a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dora-rs-suite-feedstock/pull/6",
   "id": 4899813867,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/dora-rs-suite-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-17T12:15:26.379647",
+  "last_fetched": "2026-10-17T13:53:14.203810",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T13:52:07Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-17T12:13:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T13:52:12Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"bffb7ab7a88bf6a10b8652b9e90f55db6e5ab257a810d46faabdc6ebe62d682a\"",
-  "Last-Modified": "Fri, 16 Oct 2026 21:38:58 GMT",
+  "ETag": "W/\"62dd9c213e85f49b68f1de88f24e8b980cb1c3829cf75857107a740234562198\"",
+  "Last-Modified": "Sat, 17 Oct 2026 23:22:38 GMT",
   "base": {
     "repo": {
       "name": "talosctl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T23:22:38Z",
   "closed_by": null,
   "created_at": "2026-10-16T21:37:22Z",
   "draft": false,
   "e_tag": "\"f0b6ab39817fe4767b0e53b5581a6c721360cefb7b291c4adba14d9791258154\"",
   "head": {
-    "ref": "1.14.4_hc44de4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/talosctl-feedstock/pull/20",
   "id": 4894564846,
   "labels": [],
-  "last_fetched": "2026-10-16T23:58:57.414487",
+  "last_fetched": "2026-10-17T23:24:10.556838",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T23:22:38Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-16T21:38:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T23:22:38Z"
 }

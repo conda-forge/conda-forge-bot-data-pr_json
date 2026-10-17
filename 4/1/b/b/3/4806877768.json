@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"dd6addd9b52209ae917d8316479b8cabcbd99cf26f5bc32d32d9ebaaf85331b0\"",
-  "Last-Modified": "Fri, 09 Oct 2026 23:18:30 GMT",
+  "ETag": "W/\"b87ef6ca6f77e880d414a5a1ce4b1cf3b8b9b4fc54a531740a0820eb24741e1c\"",
+  "Last-Modified": "Sat, 17 Oct 2026 20:50:10 GMT",
   "base": {
     "repo": {
       "name": "pyccolo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T20:50:10Z",
   "created_at": "2026-10-09T23:16:51Z",
   "draft": false,
   "e_tag": "\"fa38128617095200a85534fddb038048ef71ccdfec0e5bc5cb65f3ea9072e4f5\"",
   "head": {
-    "ref": "0.0.96_h3190ac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyccolo-feedstock/pull/61",
   "id": 4806877768,
   "labels": [],
-  "last_fetched": "2026-10-17T08:28:14.897828",
+  "last_fetched": "2026-10-17T20:51:46.496697",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T20:50:10Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-10-09T23:18:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T20:50:10Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"34bedcdf233943cd30e9dff41b4154eede33a8311d7aebc3db15709a8bc09ae0\"",
+  "Last-Modified": "Sat, 17 Oct 2026 22:10:45 GMT",
   "base": {
     "repo": {
       "name": "ngio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T22:10:40Z",
   "closed_by": null,
   "created_at": "2026-10-17T22:06:38Z",
   "draft": false,
   "e_tag": "\"d19ed0e022934ff49b14437119739608127d52862e034dfa88940b79a5ee0adb\"",
   "head": {
-    "ref": "1.1.3_h70b179"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ngio-feedstock/pull/54",
   "id": 4904319134,
   "labels": [],
-  "last_fetched": "2026-10-17T22:06:39.030420",
+  "last_fetched": "2026-10-17T22:12:08.364351",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-17T22:10:40Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-17T22:06:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T22:10:45Z"
 }

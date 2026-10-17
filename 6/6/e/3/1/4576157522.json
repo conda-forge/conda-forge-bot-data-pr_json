@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"da89f191b9c4c4e98fb71a678f10ea788f0bbd010cf8023a778fa0e58daf0315\"",
-  "Last-Modified": "Sat, 17 Oct 2026 09:40:48 GMT",
+  "ETag": "W/\"422138ad538acf7163b74d03e9d51cfe46e7b6f6a8626acb5ffabf3560bb52d6\"",
+  "Last-Modified": "Sat, 17 Oct 2026 17:25:46 GMT",
   "base": {
     "repo": {
       "name": "psrchive-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T17:25:45Z",
   "created_at": "2026-09-19T06:26:20Z",
   "draft": false,
   "e_tag": "\"ef7ce199ac31b80b741a17c2bb06f727403071ba642008aa0ad189d110ad6b7c\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hed33b2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/psrchive-feedstock/pull/80",
   "id": 4576157522,
   "labels": [],
-  "last_fetched": "2026-10-17T09:45:53.223818",
+  "last_fetched": "2026-10-17T17:27:24.841107",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T17:25:45Z",
   "number": 80,
-  "state": "open",
-  "updated_at": "2026-10-17T09:40:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T17:25:46Z"
 }

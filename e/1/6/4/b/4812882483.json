@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"4b7ec1186c7a4831b6d8033225ad699af7e1b359e087076e843e59de6e7d6b72\"",
-  "Last-Modified": "Sat, 10 Oct 2026 16:53:44 GMT",
+  "ETag": "W/\"b5e58b12f9105e994f071108dea3356203777caee767249da3322f93a94bb46b\"",
+  "Last-Modified": "Sat, 17 Oct 2026 19:43:41 GMT",
   "base": {
     "repo": {
       "name": "fastapi-guard-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T19:43:41Z",
   "created_at": "2026-10-10T16:52:16Z",
   "draft": false,
   "e_tag": "\"470cd586cdbc90096e9a2e8c53d511af72ab204abba20842766ebb3750fb0d8e\"",
   "head": {
-    "ref": "8.1.0_h41ca39"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fastapi-guard-feedstock/pull/28",
   "id": 4812882483,
   "labels": [],
-  "last_fetched": "2026-10-10T20:27:00.765654",
+  "last_fetched": "2026-10-17T19:44:52.046521",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T19:43:40Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-10T16:53:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T19:43:41Z"
 }

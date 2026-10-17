@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"c7ae0e1064a6f41c8e17a4932ecb303092b4b29892c42f53d0433c0e50f6e43f\"",
+  "Last-Modified": "Sat, 17 Oct 2026 07:55:30 GMT",
   "base": {
     "repo": {
       "name": "pixi-sbom-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T07:55:25Z",
   "closed_by": null,
   "created_at": "2026-10-17T07:37:46Z",
   "draft": false,
   "e_tag": "\"031e9c8876faedfb3e8a8461f3c8bc5383d658bcf72d8be1d6f89b109799bfaf\"",
   "head": {
-    "ref": "1.15.0_hf1ed86"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pixi-sbom-feedstock/pull/47",
   "id": 4898310395,
   "labels": [],
-  "last_fetched": "2026-10-17T07:37:47.464050",
+  "last_fetched": "2026-10-17T07:57:04.069655",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-17T07:55:25Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-10-17T07:37:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T07:55:30Z"
 }

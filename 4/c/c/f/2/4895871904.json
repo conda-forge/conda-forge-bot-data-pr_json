@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"e1042a23d560bc2901fd121704699ed1fe2137cbb7b97100498b2ddf32d67415\"",
+  "Last-Modified": "Sat, 17 Oct 2026 00:54:46 GMT",
   "base": {
     "repo": {
       "name": "photutils-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T00:54:46Z",
   "closed_by": null,
   "created_at": "2026-10-17T00:34:23Z",
   "draft": false,
   "e_tag": "\"b6c23d6b98246935b56f9ea32fb1ee02e7c72602ee4bf394ce531ba829f9288b\"",
   "head": {
-    "ref": "3.1.1_h7b30dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/photutils-feedstock/pull/67",
   "id": 4895871904,
   "labels": [],
-  "last_fetched": "2026-10-17T00:34:23.928058",
+  "last_fetched": "2026-10-17T00:56:11.417970",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-17T00:54:46Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-10-17T00:34:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T00:54:46Z"
 }

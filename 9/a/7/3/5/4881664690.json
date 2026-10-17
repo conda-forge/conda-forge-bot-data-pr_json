@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"8b60271969547380ae3a2ee9af15b71026e16eedd06d065a895b486913ae3a0e\"",
-  "Last-Modified": "Fri, 16 Oct 2026 00:32:31 GMT",
+  "ETag": "W/\"35dda7712c19b37685c89443fb8b37f645b534f387cc1f59f37df9e270efe83d\"",
+  "Last-Modified": "Sat, 17 Oct 2026 19:35:21 GMT",
   "base": {
     "repo": {
       "name": "copykitten-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T19:35:21Z",
   "closed_by": null,
   "created_at": "2026-10-16T00:30:46Z",
   "draft": false,
   "e_tag": "\"b8456bbedb141508ffece2bca00ab11c54bd850054960fbd63e128c3dda50283\"",
   "head": {
-    "ref": "2.1.0_h76d432"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/copykitten-feedstock/pull/8",
   "id": 4881664690,
   "labels": [],
-  "last_fetched": "2026-10-16T02:03:22.440699",
+  "last_fetched": "2026-10-17T19:36:49.905838",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T19:35:21Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-16T00:32:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T19:35:21Z"
 }

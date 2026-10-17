@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"22ac00ebd886ef3cb58dc5bb5e03be7a5162c3ec7c908433ec07a693a207a5ce\"",
-  "Last-Modified": "Mon, 05 Oct 2026 02:31:34 GMT",
+  "ETag": "W/\"ff47c680b74a4ce288a5a192a8331a963fd7f4d1c3852661b3fe10d7e52e7428\"",
+  "Last-Modified": "Sat, 17 Oct 2026 21:03:59 GMT",
   "base": {
     "repo": {
       "name": "dashlab-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T21:03:59Z",
   "created_at": "2026-10-05T02:29:54Z",
   "draft": false,
   "e_tag": "\"57d35c6993b348b92c4f49c08a50ce62151d2f285ad42379dbdefa1c0257d8c0\"",
   "head": {
-    "ref": "0.3.24_h7d0623"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dashlab-feedstock/pull/24",
   "id": 4739465842,
   "labels": [],
-  "last_fetched": "2026-10-12T05:04:57.197165",
+  "last_fetched": "2026-10-17T21:05:39.826806",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T21:03:59Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-05T02:31:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T21:03:59Z"
 }

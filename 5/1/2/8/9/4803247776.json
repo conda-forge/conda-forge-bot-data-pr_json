@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"4b0e51cf5958fd3c2e6d17e43bf2e0060465b46fc269a6eb3fa4632e23c85a74\"",
-  "Last-Modified": "Fri, 09 Oct 2026 16:42:12 GMT",
+  "ETag": "W/\"39705324f1c5e6cf1f9152e302ef760220e59614bcecf3ec054d2b1cc5fa6eb8\"",
+  "Last-Modified": "Sat, 17 Oct 2026 09:04:51 GMT",
   "base": {
     "repo": {
       "name": "pyarrow-feedstock"
@@ -8,7 +8,7 @@
   },
   "closed_at": null,
   "created_at": "2026-10-09T16:40:28Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"ec3eb01b6417a3d25ca6028691f0e7f67e3866af9bc981bb58a243c91a30a74a\"",
   "head": {
     "ref": "26.0.0_hf7ef61"
@@ -16,13 +16,13 @@
   "html_url": "https://github.com/conda-forge/pyarrow-feedstock/pull/185",
   "id": 4803247776,
   "labels": [],
-  "last_fetched": "2026-10-16T20:49:21.704497",
+  "last_fetched": "2026-10-17T12:30:50.771299",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 185,
   "state": "open",
-  "updated_at": "2026-10-09T16:42:12Z"
+  "updated_at": "2026-10-17T09:04:51Z"
 }

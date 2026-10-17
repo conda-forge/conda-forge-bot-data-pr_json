@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"54e604145df83b737fa7bcc17f046e28efbd6aa1acfd76df3ddc2118c46a6699\"",
+  "Last-Modified": "Sat, 17 Oct 2026 01:04:50 GMT",
   "base": {
     "repo": {
       "name": "pyglfw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T01:04:45Z",
   "closed_by": null,
   "created_at": "2026-10-17T01:00:32Z",
   "draft": false,
   "e_tag": "\"2cc4a348f612bef76c7901c611f161fccaf9ed46e4180e7ad0612053ca40e19a\"",
   "head": {
-    "ref": "2.11.0_hfaa803"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyglfw-feedstock/pull/57",
   "id": 4896034258,
   "labels": [],
-  "last_fetched": "2026-10-17T01:00:32.969411",
+  "last_fetched": "2026-10-17T01:06:13.319295",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-17T01:04:45Z",
   "number": 57,
-  "state": "open",
-  "updated_at": "2026-10-17T01:00:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T01:04:50Z"
 }

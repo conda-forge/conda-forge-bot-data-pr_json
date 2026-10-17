@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"d6e516ecb61825738fa87103521d5d86825c00d0fdf9cea2794708c08ff5214d\"",
-  "Last-Modified": "Sat, 17 Oct 2026 09:44:03 GMT",
+  "ETag": "W/\"c19637ece3148c53ea1da8bcd7a9947ba4a0467472179af1fe983abecc439917\"",
+  "Last-Modified": "Sat, 17 Oct 2026 09:48:20 GMT",
   "base": {
     "repo": {
       "name": "millet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T09:48:20Z",
   "closed_by": null,
   "created_at": "2026-10-17T09:42:33Z",
   "draft": false,
   "e_tag": "\"248a6ef7438aa01c80353180aec994a4ab8491b7d948575f7fdad7f8e5ae10fa\"",
   "head": {
-    "ref": "0.15.3_h514510"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/millet-feedstock/pull/6",
   "id": 4899034046,
   "labels": [],
-  "last_fetched": "2026-10-17T09:46:37.737078",
+  "last_fetched": "2026-10-17T09:49:53.952511",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T09:48:20Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-17T09:44:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T09:48:24Z"
 }

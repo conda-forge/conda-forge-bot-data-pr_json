@@ -1,18 +1,18 @@
 {
-  "ETag": "W/\"aeefac4c124d8b5584b11e1bd8a1c00c56dcce007f67d557711f30a9f4bc722c\"",
-  "Last-Modified": "Sat, 17 Oct 2026 15:43:10 GMT",
+  "ETag": "W/\"fd87350f9730c9fc8d322a33e147af200c947cc66c11a038c10f1f72d30fcf12\"",
+  "Last-Modified": "Sat, 17 Oct 2026 16:05:56 GMT",
   "base": {
     "repo": {
       "name": "python-infomap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T16:05:52Z",
   "closed_by": null,
   "created_at": "2026-10-17T14:12:51Z",
   "draft": false,
   "e_tag": "\"ea8bdf207648dcd39f339e09eccdefd8baa23d8390bd1df283fdb7622f8f4ea2\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h360627"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-infomap-feedstock/pull/52",
   "id": 4900773900,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/python-infomap-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-17T15:43:26.505546",
+  "last_fetched": "2026-10-17T16:07:25.542831",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T16:05:52Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-10-17T15:43:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T16:05:56Z"
 }

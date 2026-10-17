@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"db85909838a54cdb8b5eee0c9844bb8ab3bb5ef2de3be706530a06d707d0e86d\"",
-  "Last-Modified": "Sat, 17 Oct 2026 14:43:32 GMT",
+  "ETag": "W/\"8249cd202d2536f856e1f82332cb5815eb5add31591fbdc4ee7c11bf2948cd20\"",
+  "Last-Modified": "Sat, 17 Oct 2026 15:45:30 GMT",
   "base": {
     "repo": {
       "name": "pyramids-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T15:45:29Z",
   "closed_by": null,
   "created_at": "2026-10-17T03:18:19Z",
   "draft": false,
   "e_tag": "\"bee96ebb20bd5bf94d5f99cc9a4e47e817a0005377260069b7d76b1991f470f3\"",
   "head": {
-    "ref": "0.69.0_ha0987c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyramids-feedstock/pull/82",
   "id": 4896809394,
   "labels": [],
-  "last_fetched": "2026-10-17T15:34:24.372600",
+  "last_fetched": "2026-10-17T15:46:46.972525",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T15:45:29Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-10-17T14:43:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T15:45:30Z"
 }

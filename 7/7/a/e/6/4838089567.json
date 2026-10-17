@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"b6d88fae69f47b5e31f76574212f8d5f893f2acb965f6da09304ff55cfedb4ee\"",
-  "Last-Modified": "Tue, 13 Oct 2026 03:51:46 GMT",
+  "ETag": "W/\"0d5f4c27207d63ed153d3bcd3af946bb2c9bf887fbf1ce1666813cd483ecb6ba\"",
+  "Last-Modified": "Sat, 17 Oct 2026 20:43:38 GMT",
   "base": {
     "repo": {
       "name": "readerwriterlock-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T20:43:37Z",
   "created_at": "2026-10-13T03:50:05Z",
   "draft": false,
   "e_tag": "\"15f1f5391bfd812104f98744d725cd415eb28173a667efb874808be5c5227355\"",
   "head": {
-    "ref": "1.0.10_he94ee4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/readerwriterlock-feedstock/pull/2",
   "id": 4838089567,
   "labels": [],
-  "last_fetched": "2026-10-13T04:03:33.632271",
+  "last_fetched": "2026-10-17T20:45:09.768331",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T20:43:37Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-13T03:51:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T20:43:38Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"b205566867ff7869af9ea8528b815e269eaa421664097a5d38624d11653dce9b\"",
+  "Last-Modified": "Sat, 17 Oct 2026 00:28:21 GMT",
   "base": {
     "repo": {
       "name": "pymatgen-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T00:28:17Z",
   "closed_by": null,
   "created_at": "2026-10-17T00:11:54Z",
   "draft": false,
   "e_tag": "\"944c69b582dfd2565806c25e251536356e51dc6a33a7d8b024b4782f860566e7\"",
   "head": {
-    "ref": "2026.10.16_h6576fc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pymatgen-core-feedstock/pull/26",
   "id": 4895736034,
   "labels": [],
-  "last_fetched": "2026-10-17T00:11:54.994343",
+  "last_fetched": "2026-10-17T00:29:28.015509",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-17T00:28:17Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-17T00:11:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T00:28:21Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"d2bcf8690a5a07a87819d1dcab1b503c6fd845620d27709cb4d51bfbee8715c9\"",
-  "Last-Modified": "Sat, 17 Oct 2026 04:00:12 GMT",
+  "ETag": "W/\"3d4f6965da798ea2f0fc8e782837ede3be699497cd314ac99109650d1c4002fe\"",
+  "Last-Modified": "Sat, 17 Oct 2026 08:29:48 GMT",
   "base": {
     "repo": {
       "name": "sqlalchemy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T08:29:48Z",
   "closed_by": null,
   "created_at": "2026-10-17T03:58:18Z",
   "draft": false,
   "e_tag": "\"8f77bfe3367040859f9814f5cbe53fbe04b7516de898d78937ac112955f44ae3\"",
   "head": {
-    "ref": "2.1.5_h709526"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sqlalchemy-feedstock/pull/212",
   "id": 4897051005,
   "labels": [],
-  "last_fetched": "2026-10-17T04:26:23.889505",
+  "last_fetched": "2026-10-17T08:31:21.186690",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T08:29:48Z",
   "number": 212,
-  "state": "open",
-  "updated_at": "2026-10-17T04:00:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T08:29:48Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"0b01bc433220efcaaad99de8e2a34095e028baaa4b24cd842c14dd507b912a1a\"",
-  "Last-Modified": "Sun, 04 Oct 2026 02:57:43 GMT",
+  "ETag": "W/\"489af85171416dd3d777d029f36b0b53bd46bbec9c03af10087a411c0ab0d141\"",
+  "Last-Modified": "Sat, 17 Oct 2026 21:12:02 GMT",
   "base": {
     "repo": {
       "name": "apprise-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T21:12:02Z",
   "created_at": "2026-10-04T02:55:46Z",
   "draft": false,
   "e_tag": "\"b6ca0c124e2e083bb54c1275f29b299d4911f60f3c8647fe81be1befd35f7e22\"",
   "head": {
-    "ref": "2.0.1_hd7ca0a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apprise-feedstock/pull/35",
   "id": 4731461685,
   "labels": [],
-  "last_fetched": "2026-10-12T14:09:07.869864",
+  "last_fetched": "2026-10-17T21:13:44.853304",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T21:12:02Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-04T02:57:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T21:12:02Z"
 }

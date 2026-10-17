@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"344e1e5f0619680fd79761e24af1a33ca6177a2ea1aca49173614348034db64e\"",
+  "Last-Modified": "Sat, 17 Oct 2026 23:50:29 GMT",
   "base": {
     "repo": {
       "name": "ogre-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T23:50:25Z",
   "closed_by": null,
   "created_at": "2026-10-17T23:28:42Z",
   "draft": false,
   "e_tag": "\"99bc7c1ef177dd429932f3da7d15a913484b48f37a3e28e36bf6e271ca4b32a6\"",
   "head": {
-    "ref": "14.6.1_h5c270c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ogre-feedstock/pull/154",
   "id": 4904825369,
   "labels": [],
-  "last_fetched": "2026-10-17T23:28:43.128008",
+  "last_fetched": "2026-10-17T23:51:53.416834",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-17T23:50:25Z",
   "number": 154,
-  "state": "open",
-  "updated_at": "2026-10-17T23:28:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T23:50:29Z"
 }

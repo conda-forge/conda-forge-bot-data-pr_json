@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f7768c1cdfa78a961acdfcfba8285ec0e10b518af6099e263854f9ea8fd20c91\"",
-  "Last-Modified": "Mon, 05 Oct 2026 16:59:00 GMT",
+  "ETag": "W/\"016357b6fe1d08623009c9877f9aafc5fb974e4e5f7e117fdc339474bc97676d\"",
+  "Last-Modified": "Sat, 17 Oct 2026 21:08:13 GMT",
   "base": {
     "repo": {
       "name": "django-stubs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T21:08:13Z",
   "created_at": "2026-10-05T16:57:22Z",
   "draft": false,
   "e_tag": "\"dcfb058e1fe00633f9ada2efdf567b353819beed44c70867ec5865eadbaf6cb0\"",
   "head": {
-    "ref": "6.1.2_h6740d9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-stubs-feedstock/pull/56",
   "id": 4748265504,
   "labels": [],
-  "last_fetched": "2026-10-13T05:31:41.796870",
+  "last_fetched": "2026-10-17T21:09:21.381299",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T21:08:13Z",
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-10-05T16:59:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T21:08:13Z"
 }

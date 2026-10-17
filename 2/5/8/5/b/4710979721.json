@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"0dd530d4cb35a393d71d7651589ac458ac21ec38eaaa423d104524a5d9f1f552\"",
-  "Last-Modified": "Fri, 02 Oct 2026 00:07:21 GMT",
+  "ETag": "W/\"4b08bb4dd976e9cd882e0283eba0fd92377feff70ba476ada376a1406bbad32a\"",
+  "Last-Modified": "Sat, 17 Oct 2026 03:07:36 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-kubernetes-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-kubernetes-feedstock/pull/97",
   "id": 4710979721,
-  "labels": [],
-  "last_fetched": "2026-10-16T15:35:13.675175",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891415513,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDE1NTEz",
+      "url": "https://api.github.com/repos/conda-forge/terraform-provider-kubernetes-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-17T03:08:46.702717",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 97,
   "state": "open",
-  "updated_at": "2026-10-02T00:07:21Z"
+  "updated_at": "2026-10-17T03:07:36Z"
 }

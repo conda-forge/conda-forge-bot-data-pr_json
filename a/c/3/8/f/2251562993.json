@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"2939066e23ea7724e74eb3b762c1d96f13023747b7a3642fc15fb0d805c4291d\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"c82d10b0bd8e5bb2b37cda3929ddf5ef304e36fb04931ffccd5ff1d76bab42b4\"",
+  "Last-Modified": "Sat, 17 Oct 2026 11:00:04 GMT",
   "base": {
     "repo": {
       "name": "innerscope-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T11:00:04Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2024-12-25T08:48:15Z",
   "draft": false,
   "e_tag": "\"82609ac68e7cdd52e8dae24c7b2345920b83014ed25165cc60d3673f20e0de8f\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/innerscope-feedstock/pull/4",
   "id": 2251562993,
-  "labels": [],
-  "last_fetched": "2026-10-10T04:32:39.053334",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-17T11:00:06.767919",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 4,
-  "state": "open",
-  "updated_at": "2024-12-25T08:49:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T11:00:04Z"
 }

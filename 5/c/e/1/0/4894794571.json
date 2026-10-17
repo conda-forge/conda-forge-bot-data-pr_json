@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"d5384be81ae16c39df44a25e9b1f5aff3bfb8ba2a8febd51b3d972ed268d62f0\"",
-  "Last-Modified": "Fri, 16 Oct 2026 22:03:55 GMT",
+  "ETag": "W/\"fd262759d118cf894295d74eacc88fc1c94c7c2fc0062c98d5dd23b95a5857f2\"",
+  "Last-Modified": "Sat, 17 Oct 2026 08:33:26 GMT",
   "base": {
     "repo": {
       "name": "ismip7-interpolation-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-17T08:33:26Z",
   "closed_by": null,
   "created_at": "2026-10-16T22:02:22Z",
   "draft": false,
   "e_tag": "\"f8423edc39c58229dba0379d0d7b2e7156752dcacb67800a4950bf10337f7375\"",
   "head": {
-    "ref": "0.2.0_h8b93c4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ismip7-interpolation-feedstock/pull/1",
   "id": 4894794571,
   "labels": [],
-  "last_fetched": "2026-10-17T03:27:42.620505",
+  "last_fetched": "2026-10-17T08:34:38.917436",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-17T08:33:26Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-16T22:03:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-17T08:33:26Z"
 }

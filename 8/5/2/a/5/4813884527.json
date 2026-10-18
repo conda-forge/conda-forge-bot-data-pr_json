@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"e7920f6dc961434a975ef5ff235e894cb2d286e9b8af892d59b4e9cc5fbda40a\"",
-  "Last-Modified": "Sat, 10 Oct 2026 19:33:00 GMT",
+  "ETag": "W/\"28413a4d5dc595b511c85e4ec8b1d0e153baa1abfd920bf25fd8eda168bfae35\"",
+  "Last-Modified": "Sun, 18 Oct 2026 16:05:27 GMT",
   "base": {
     "repo": {
       "name": "pyglotaran-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T16:05:27Z",
   "created_at": "2026-10-10T19:32:59Z",
   "draft": false,
   "e_tag": "\"01b7ed5cf34e0837733bfbb9571898932379070153feaa2041b115e8cfc27f91\"",
   "head": {
-    "ref": "0.7.5_h209e84"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyglotaran-feedstock/pull/21",
   "id": 4813884527,
   "labels": [],
-  "last_fetched": "2026-10-17T23:43:34.634821",
+  "last_fetched": "2026-10-18T16:06:59.268587",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-18T16:05:27Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-10T19:34:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T16:05:27Z"
 }

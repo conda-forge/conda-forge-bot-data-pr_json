@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"2df08130875b506b4a7ec73a6b6e2dd49a05b05acc2511ad0942eb61a14b4101\"",
-  "Last-Modified": "Sun, 18 Oct 2026 09:14:51 GMT",
+  "ETag": "W/\"c7fba7d99f88c50ff3bfae0e0666700fd91d5e09a02a34c2a7d1b588b34a1aaa\"",
+  "Last-Modified": "Sun, 18 Oct 2026 15:01:46 GMT",
   "base": {
     "repo": {
       "name": "pemja-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T15:01:46Z",
   "closed_by": null,
   "created_at": "2026-10-18T09:13:13Z",
   "draft": false,
   "e_tag": "\"9b98ca6ab21246dd162921170046579a0691e738f53da10e0105437c63d7074c\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_h97b57c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pemja-feedstock/pull/24",
   "id": 4907858513,
   "labels": [],
-  "last_fetched": "2026-10-18T09:35:43.220268",
+  "last_fetched": "2026-10-18T15:03:25.342438",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-18T15:01:46Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-18T09:14:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T15:01:46Z"
 }

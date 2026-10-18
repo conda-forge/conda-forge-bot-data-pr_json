@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"b62448f68201d0e045410526da628b5b105daaa4ea0c408db595498b3d6a2c3d\"",
+  "Last-Modified": "Sun, 18 Oct 2026 02:49:57 GMT",
   "base": {
     "repo": {
       "name": "unyts-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T02:49:53Z",
   "closed_by": null,
   "created_at": "2026-10-18T02:47:40Z",
   "draft": false,
   "e_tag": "\"c1893e8719e7c6788d4705e978e20dd3bdefa1ce55e7561eaf83abf58a073fda\"",
   "head": {
-    "ref": "1.0.5_hdf7ab3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/unyts-feedstock/pull/8",
   "id": 4905870728,
   "labels": [],
-  "last_fetched": "2026-10-18T02:47:41.321906",
+  "last_fetched": "2026-10-18T02:51:24.315643",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-18T02:49:53Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-18T02:47:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T02:49:57Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"0b125d43fdb52be14b9782c5cfaa6ab62c9c5aeb8ec70f30cbb606e50bd5740d\"",
-  "Last-Modified": "Fri, 09 Oct 2026 19:52:10 GMT",
+  "ETag": "W/\"d8989af1e73c63f60c83be4e412bd3981e91854c43950d754ef722d338ba0fcb\"",
+  "Last-Modified": "Sun, 18 Oct 2026 09:22:01 GMT",
   "base": {
     "repo": {
       "name": "r-tidydr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T09:22:01Z",
   "created_at": "2026-10-09T19:50:40Z",
   "draft": false,
   "e_tag": "\"8249217a6551baa4192213c06c39f33548e7ed149351a2856d6a25917adf40c6\"",
   "head": {
-    "ref": "0.0.7_h065fa1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-tidydr-feedstock/pull/4",
   "id": 4805159349,
   "labels": [],
-  "last_fetched": "2026-10-17T04:27:48.792256",
+  "last_fetched": "2026-10-18T09:23:29.056045",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-18T09:22:01Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-09T19:52:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T09:22:01Z"
 }

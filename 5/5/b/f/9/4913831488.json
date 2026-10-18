@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"20a1c89b12c7399596cbcfd87cd93c0e83d56d1a69dc3c555ac12f8dadba7afb\"",
+  "Last-Modified": "Sun, 18 Oct 2026 23:42:27 GMT",
   "base": {
     "repo": {
       "name": "joserfc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T23:42:23Z",
   "closed_by": null,
   "created_at": "2026-10-18T23:40:29Z",
   "draft": false,
   "e_tag": "\"d6f22f85e7e70bfa5f05e44e1947bec676481a207f8fe4203d3584a91a85fbf2\"",
   "head": {
-    "ref": "1.7.6_ha7dd5e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/joserfc-feedstock/pull/44",
   "id": 4913831488,
   "labels": [],
-  "last_fetched": "2026-10-18T23:40:29.925258",
+  "last_fetched": "2026-10-18T23:44:07.066061",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-18T23:42:23Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-18T23:40:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T23:42:27Z"
 }

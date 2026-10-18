@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"b3bdabdc9a33244515685b92ad9c02ff69ca24b30e94c0c21d4198a6bb2ae554\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"aecca0002626fe69f345f1aae8a27a4f3ad08655e312d6056a626d055f130950\"",
+  "Last-Modified": "Sun, 18 Oct 2026 21:35:30 GMT",
   "base": {
     "repo": {
       "name": "metaflow-netflixext-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T21:35:30Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-01-03T02:48:57Z",
   "draft": false,
   "e_tag": "\"5933ac672d34375ca743472073107e82923d9d4b1d36ab716f6a1860b685957d\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/metaflow-netflixext-feedstock/pull/9",
   "id": 2258648204,
-  "labels": [],
-  "last_fetched": "2026-10-11T21:25:15.680664",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-18T21:35:32.549582",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 9,
-  "state": "open",
-  "updated_at": "2025-01-03T02:50:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T21:35:30Z"
 }

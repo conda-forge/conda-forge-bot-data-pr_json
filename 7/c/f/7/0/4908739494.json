@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"8509ea585bb7820f634eef55c5eefc51a6e589fea447631fd97b68c008fdcb7c\"",
-  "Last-Modified": "Sun, 18 Oct 2026 11:37:26 GMT",
+  "ETag": "W/\"14963619a0dc04a2a60648922afd363ecac732b63c3a98eca6ebcfb2ea325146\"",
+  "Last-Modified": "Sun, 18 Oct 2026 13:48:37 GMT",
   "base": {
     "repo": {
       "name": "smartmontools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T13:48:37Z",
   "closed_by": null,
   "created_at": "2026-10-18T11:35:54Z",
   "draft": false,
   "e_tag": "\"2933cc0e883aedaef9833c1d9ae94bcb66d7ab25dba15ed9a816fdbc5798382d\"",
   "head": {
-    "ref": "7.5_hb3ad60"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/smartmontools-feedstock/pull/7",
   "id": 4908739494,
   "labels": [],
-  "last_fetched": "2026-10-18T11:44:25.508958",
+  "last_fetched": "2026-10-18T13:50:06.780345",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-18T13:48:37Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-18T11:37:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T13:48:37Z"
 }

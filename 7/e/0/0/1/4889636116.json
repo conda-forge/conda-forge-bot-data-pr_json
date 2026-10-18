@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"9b9d4049bd274ae8b7734937e3bf913dc4803afb17ca9c2375956223e04a7e75\"",
-  "Last-Modified": "Fri, 16 Oct 2026 14:16:19 GMT",
+  "ETag": "W/\"3f275b200870d089caee7eab8df8aa30132d82667cffe82159543c66da367f23\"",
+  "Last-Modified": "Sun, 18 Oct 2026 10:40:10 GMT",
   "base": {
     "repo": {
       "name": "mu-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T10:40:10Z",
   "closed_by": null,
   "created_at": "2026-10-16T14:14:33Z",
   "draft": false,
   "e_tag": "\"f760a68fce845ce7b2867b5f1143907c632e5f953230fb5e52f360932b2f1b10\"",
   "head": {
-    "ref": "bot-pr_arch_h9373b7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mu-feedstock/pull/6",
   "id": 4889636116,
   "labels": [],
-  "last_fetched": "2026-10-16T18:00:19.796166",
+  "last_fetched": "2026-10-18T10:41:41.113582",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-18T10:40:10Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-16T14:16:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T10:40:10Z"
 }

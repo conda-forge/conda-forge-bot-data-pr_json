@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"eb81cefb66fb8e26ee8bd366da462028ddd6f0cab598c61455f4bc5be0791e80\"",
-  "Last-Modified": "Sun, 18 Oct 2026 22:11:02 GMT",
+  "ETag": "W/\"94332660a90c0cf282fcb9093b73950e70ee1379e9297e5c4f9f3188b1f45a8c\"",
+  "Last-Modified": "Sun, 18 Oct 2026 22:57:35 GMT",
   "base": {
     "repo": {
       "name": "oxigraph-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/oxigraph-feedstock/pull/105",
   "id": 4913264293,
-  "labels": [],
-  "last_fetched": "2026-10-18T22:22:08.366428",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3298433288,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMjk4NDMzMjg4",
+      "url": "https://api.github.com/repos/conda-forge/oxigraph-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-18T22:59:37.643102",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 105,
   "state": "open",
-  "updated_at": "2026-10-18T22:11:02Z"
+  "updated_at": "2026-10-18T22:57:35Z"
 }

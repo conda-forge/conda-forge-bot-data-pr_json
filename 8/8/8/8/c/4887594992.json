@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"48bef9deaad3f39394ef6f0c5edfbba478901860b91554ed68f3a052faa761c9\"",
-  "Last-Modified": "Fri, 16 Oct 2026 11:19:29 GMT",
+  "ETag": "W/\"e4a05e9133c0d427d6fd6d4e772c8b2dc5a8e6126833a215a2818f45bc0b25c5\"",
+  "Last-Modified": "Sun, 18 Oct 2026 09:20:28 GMT",
   "base": {
     "repo": {
       "name": "r-zephyr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T09:20:28Z",
   "closed_by": null,
   "created_at": "2026-10-16T11:17:56Z",
   "draft": false,
   "e_tag": "\"57fd05ff8061d3eba00eda487f3770de86ffd7624ae9b151d0d4b2789a3cc0e9\"",
   "head": {
-    "ref": "0.1.4_h9fe187"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-zephyr-feedstock/pull/3",
   "id": 4887594992,
   "labels": [],
-  "last_fetched": "2026-10-16T19:34:46.096789",
+  "last_fetched": "2026-10-18T09:21:55.658964",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-18T09:20:28Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-16T11:19:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T09:20:28Z"
 }

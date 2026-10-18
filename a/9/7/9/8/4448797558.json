@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"f225535af009e2d0ee352e33ad279a829f1e0a5d6b393b0730a1ab3f56072c02\"",
-  "Last-Modified": "Sat, 05 Sep 2026 04:58:15 GMT",
+  "ETag": "W/\"b27161a02fdfe40ee3419e9fcad3bb7e22a62eeac588329de0a8a0ae3827c764\"",
+  "Last-Modified": "Sun, 18 Oct 2026 17:40:17 GMT",
   "base": {
     "repo": {
       "name": "mupdf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T17:40:17Z",
   "created_at": "2026-09-05T04:55:55Z",
   "draft": false,
   "e_tag": "\"0384144d80794b0603ebf67de9d9135628e71e9ae3e5bfeeade1060eafe249c9\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hf64356"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mupdf-feedstock/pull/104",
   "id": 4448797558,
   "labels": [],
-  "last_fetched": "2026-10-17T11:34:10.287272",
+  "last_fetched": "2026-10-18T17:41:46.456257",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-18T17:40:17Z",
   "number": 104,
-  "state": "open",
-  "updated_at": "2026-09-05T04:58:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T17:40:17Z"
 }

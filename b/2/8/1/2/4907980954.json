@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"1df67d28c6f38e7ec118cc12aa2f6678c05681f09f22cf6c6ea021a1ddcfe083\"",
+  "Last-Modified": "Sun, 18 Oct 2026 09:33:14 GMT",
   "base": {
     "repo": {
       "name": "python-substrait-antlr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T09:33:10Z",
   "closed_by": null,
   "created_at": "2026-10-18T09:31:14Z",
   "draft": false,
   "e_tag": "\"b08d072c03224cbc95913c2d5745041c36fa058dfbf52c299056f116a247c31a\"",
   "head": {
-    "ref": "0.107.0_h7c82f8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-substrait-antlr-feedstock/pull/30",
   "id": 4907980954,
   "labels": [],
-  "last_fetched": "2026-10-18T09:31:15.616148",
+  "last_fetched": "2026-10-18T09:34:49.139901",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-18T09:33:10Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-18T09:31:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T09:33:14Z"
 }

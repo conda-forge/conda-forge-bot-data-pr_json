@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"f66bc47ee4124c4114b372e12223d762d8d79a485536acd2309b4a95764221b9\"",
-  "Last-Modified": "Sat, 17 Oct 2026 18:15:14 GMT",
+  "ETag": "W/\"567cc113426d303f1026219cc439b41c222e829b5a80d180de805134c16bed55\"",
+  "Last-Modified": "Sun, 18 Oct 2026 04:46:45 GMT",
   "base": {
     "repo": {
       "name": "libcint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T04:46:45Z",
   "closed_by": null,
   "created_at": "2026-10-17T10:47:13Z",
   "draft": false,
   "e_tag": "\"c223a56041c93de3d3e42ad3901a327ba84f363e0086fd6f750a13a5cbb2d175\"",
   "head": {
-    "ref": "6.2.0_h91adc1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libcint-feedstock/pull/35",
   "id": 4899425637,
   "labels": [],
-  "last_fetched": "2026-10-17T21:44:50.421453",
+  "last_fetched": "2026-10-18T04:48:21.143358",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-18T04:46:45Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-17T18:15:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T04:46:45Z"
 }

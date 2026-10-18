@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"af8a90f2fd5440076b896bc77acf8ceeaad5bcf4c5c31e498616b24f3cc49219\"",
-  "Last-Modified": "Fri, 09 Oct 2026 08:13:43 GMT",
+  "ETag": "W/\"4b1e315df42765fe7dc32c79ebf1bd5eedf3b3eb0cfee6e681d3440904bdb484\"",
+  "Last-Modified": "Sun, 18 Oct 2026 21:33:05 GMT",
   "base": {
     "repo": {
       "name": "r-tern-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T21:33:04Z",
   "created_at": "2026-10-09T08:12:08Z",
   "draft": false,
   "e_tag": "\"9f3c12e49376d3516e14d72069e1605e2709ac0ae31328cc0021191d5a3b23ad\"",
   "head": {
-    "ref": "0.9.13_h39fb25"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-tern-feedstock/pull/6",
   "id": 4797851847,
   "labels": [],
-  "last_fetched": "2026-10-16T12:58:06.776757",
+  "last_fetched": "2026-10-18T21:34:32.727977",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-18T21:33:04Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-09T08:13:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T21:33:05Z"
 }

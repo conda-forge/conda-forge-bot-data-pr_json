@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"0082be41e44768b0b58bf7849ce8dd889fbb653050e2e8a3fe3d3f764782599e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"8015a4509b8b44d7d24292aaecb4398cd91803a290129c59b43de33e5795aefb\"",
+  "Last-Modified": "Sun, 18 Oct 2026 08:58:14 GMT",
   "base": {
     "repo": {
       "name": "pyddx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T08:58:14Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-05-20T19:40:59Z",
   "draft": false,
   "e_tag": "\"edcb2ed53d89bc3dc34602d8e0c475ea04330dda0a9ce0f7e29d6f64df797823\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pyddx-feedstock/pull/34",
   "id": 3719093822,
   "labels": [],
-  "last_fetched": "2026-10-11T05:50:29.101623",
+  "last_fetched": "2026-10-18T08:59:54.589558",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-05-20T19:44:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T08:58:14Z"
 }

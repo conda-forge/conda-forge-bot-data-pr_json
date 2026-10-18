@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"3783013934cc1152cddb6a112e9ff37eb13999de49e9979ca93051954dc7e135\"",
-  "Last-Modified": "Tue, 29 Sep 2026 16:57:15 GMT",
+  "ETag": "W/\"34a72420b2da7744f0a00f836bd5423426dae216d9520da7bbb05c6bf45ed48b\"",
+  "Last-Modified": "Sun, 18 Oct 2026 08:28:14 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-amazon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T08:28:14Z",
+  "closed_by": "xylar",
   "created_at": "2026-09-29T09:22:16Z",
   "draft": false,
   "e_tag": "\"6cce85c1b2a3a8a728eadf48a9474c3470e663c2c1ec3adaa007f4bd6d55ad59\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-amazon-feedstock/pull/99",
   "id": 4675186905,
   "labels": [],
-  "last_fetched": "2026-10-13T22:23:09.811578",
+  "last_fetched": "2026-10-18T08:29:21.492861",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 99,
-  "state": "open",
-  "updated_at": "2026-09-29T16:57:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T08:28:14Z"
 }

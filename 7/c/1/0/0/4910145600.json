@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"925342996178c767214727a3492e2d668c0fb5750ff3d087dd0b51384124a3aa\"",
+  "Last-Modified": "Sun, 18 Oct 2026 15:02:23 GMT",
   "base": {
     "repo": {
       "name": "fairchem-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T15:02:19Z",
   "closed_by": null,
   "created_at": "2026-10-18T14:59:05Z",
   "draft": false,
   "e_tag": "\"e14c00c730eb1f0c3cf332ddd484065277a53ac4005597a99310a118f7fc7883\"",
   "head": {
-    "ref": "2.23.0_he22d7c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fairchem-core-feedstock/pull/30",
   "id": 4910145600,
   "labels": [],
-  "last_fetched": "2026-10-18T14:59:06.449671",
+  "last_fetched": "2026-10-18T15:03:28.214752",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-18T15:02:19Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-18T14:59:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T15:02:23Z"
 }

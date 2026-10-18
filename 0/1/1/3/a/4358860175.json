@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"3887657664a49a63694c9af9969bbd3b79699525e8a1ae65b2761d8b0744b1f4\"",
-  "Last-Modified": "Tue, 25 Aug 2026 14:52:37 GMT",
+  "ETag": "W/\"27e1ef87b1a5eace901515c2fa19c2121b8c1d3005b25e514a34910c355321f0\"",
+  "Last-Modified": "Sun, 18 Oct 2026 00:09:41 GMT",
   "base": {
     "repo": {
       "name": "mlx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T00:09:41Z",
+  "closed_by": "hmaarrfk",
   "created_at": "2026-08-25T14:48:02Z",
   "draft": false,
   "e_tag": "\"a6b999bd0e2f3a2984de31dacc416150270f3becc8eec944a31deb1a73591612\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/mlx-feedstock/pull/107",
   "id": 4358860175,
   "labels": [],
-  "last_fetched": "2026-10-16T02:51:44.739405",
+  "last_fetched": "2026-10-18T00:11:12.012623",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-08-25T14:52:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T00:09:41Z"
 }

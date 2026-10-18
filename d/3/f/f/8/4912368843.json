@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"9011f93414f70c1db84bc22676c588c6429f04ec0c10839c53dc742d5cd09487\"",
+  "Last-Modified": "Sun, 18 Oct 2026 20:42:34 GMT",
   "base": {
     "repo": {
       "name": "bw2calc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T20:42:34Z",
   "closed_by": null,
   "created_at": "2026-10-18T20:03:13Z",
   "draft": false,
   "e_tag": "\"6ff5b22ffe3bd54e7b6d7995af8691123f1f4ccba87fcb1dc26ea685ad8f9b7e\"",
   "head": {
-    "ref": "3.1.0_h25794a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bw2calc-feedstock/pull/38",
   "id": 4912368843,
   "labels": [],
-  "last_fetched": "2026-10-18T20:03:15.009620",
+  "last_fetched": "2026-10-18T20:44:10.453550",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-18T20:42:34Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-18T20:03:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T20:42:34Z"
 }

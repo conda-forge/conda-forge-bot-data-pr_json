@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"077b032224cd46e476b1e0a6fb3d15292d676434b24328a60d0c50539eac8288\"",
+  "Last-Modified": "Sun, 18 Oct 2026 08:38:07 GMT",
   "base": {
     "repo": {
       "name": "python-substrait-protobuf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-18T08:38:03Z",
   "closed_by": null,
   "created_at": "2026-10-18T08:36:00Z",
   "draft": false,
   "e_tag": "\"7e64dad5d847ac12eb5c2d9933ca028c16e14f8033ee77105029e9dfdf0ee53a\"",
   "head": {
-    "ref": "0.107.0_ha96086"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-substrait-protobuf-feedstock/pull/30",
   "id": 4907637127,
   "labels": [],
-  "last_fetched": "2026-10-18T08:36:01.373363",
+  "last_fetched": "2026-10-18T08:39:32.742737",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-18T08:38:03Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-18T08:36:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-18T08:38:07Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"f0ab15abe333b23dfdffdaed757a53ed4b9ff1fd212fa7453c1bc3d899b6818b\"",
-  "Last-Modified": "Sat, 17 Oct 2026 15:08:08 GMT",
+  "ETag": "\"6af19c661d221b3199b9537150806bb40588484cc414a84d6db08e0ec3368f47\"",
+  "Last-Modified": "Mon, 19 Oct 2026 15:25:02 GMT",
   "base": {
     "repo": {
       "name": "trollimage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T15:25:02Z",
   "closed_by": null,
   "created_at": "2026-10-17T15:06:31Z",
   "draft": false,
   "e_tag": "\"35ab9db7c4c4982492669cb19fb7d385f5b0a36264f89b8edc0a60afc65ed18d\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h3454ea"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trollimage-feedstock/pull/53",
   "id": 4901180290,
   "labels": [],
-  "last_fetched": "2026-10-17T15:33:11.934142",
+  "last_fetched": "2026-10-19T15:26:46.126487",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T15:25:02Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-10-17T15:08:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T15:25:02Z"
 }

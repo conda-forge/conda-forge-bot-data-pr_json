@@ -1,5 +1,5 @@
 {
-  "ETag": "W/\"ddb23a9b2f8a81e297449210f63776aee62475b9a504962aae98e5efe8289139\"",
+  "ETag": "\"331f36703e94724ddec0c5b900508cc4e9d1cb00f3ac470dc537b776e4de422c\"",
   "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"7d110313916f3e482c08ff1509fed029892789f5055e2dd59f039322f5908c8a\"",
   "head": {
-    "ref": "46.4.0_h9f725c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/acts-feedstock/pull/25",
   "id": 3614361192,
-  "labels": [],
-  "last_fetched": "2026-10-12T17:49:45.226453",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-19T18:31:00.659698",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 25,

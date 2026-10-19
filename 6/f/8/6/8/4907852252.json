@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"b7bdf79f23b754be1eb781126dcd7fc89a6dcd10460455bb5c3aceff0fa83057\"",
-  "Last-Modified": "Sun, 18 Oct 2026 09:14:01 GMT",
+  "ETag": "W/\"f7924e1c5d30f7abf4ced13cb665f1df2198c33869857cba1b925d3f96fce33b\"",
+  "Last-Modified": "Mon, 19 Oct 2026 08:08:59 GMT",
   "base": {
     "repo": {
       "name": "snowflake-connector-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T08:08:59Z",
   "closed_by": null,
   "created_at": "2026-10-18T09:12:21Z",
   "draft": false,
   "e_tag": "\"29766a26d19b69789d2afe2bedff4155760c8d595c445a446990ea573923f8b6\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_h564968"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/snowflake-connector-python-feedstock/pull/219",
   "id": 4907852252,
   "labels": [],
-  "last_fetched": "2026-10-18T10:58:21.453295",
+  "last_fetched": "2026-10-19T08:10:31.811489",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T08:08:59Z",
   "number": 219,
-  "state": "open",
-  "updated_at": "2026-10-18T09:14:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T08:08:59Z"
 }

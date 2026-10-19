@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fa85751013817ef7a93794f7618a595098380f1404244a676791c381cbbb08ef\"",
+  "Last-Modified": "Mon, 19 Oct 2026 16:13:46 GMT",
   "base": {
     "repo": {
       "name": "lastpass-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T16:13:41Z",
   "closed_by": null,
   "created_at": "2026-10-19T15:40:52Z",
   "draft": false,
   "e_tag": "\"dbbead9e230819436ccac89c7e8fb60f82a931ba4148cc0f891ade80ca096ade\"",
   "head": {
-    "ref": "1.6.2_h1d014c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lastpass-cli-feedstock/pull/16",
   "id": 4923535698,
   "labels": [],
-  "last_fetched": "2026-10-19T15:40:54.170959",
+  "last_fetched": "2026-10-19T16:15:19.545337",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T16:13:41Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-19T15:40:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T16:13:46Z"
 }

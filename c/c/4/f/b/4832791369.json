@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"df141f3b644e8f0f1112bebcb814ae23612463f8c95d352c347f989e5709ac56\"",
-  "Last-Modified": "Mon, 12 Oct 2026 17:26:32 GMT",
+  "ETag": "\"afbc702c4f377fa7d799e2e184754d6e30daa37046938813be7e02ba8cadd80b\"",
+  "Last-Modified": "Mon, 19 Oct 2026 22:26:22 GMT",
   "base": {
     "repo": {
       "name": "westpa-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T22:26:21Z",
   "created_at": "2026-10-12T17:24:33Z",
   "draft": false,
   "e_tag": "\"28346b958b97fc25fc50e4f171c1e5f83280057020f0a9592a6b3da64b8add34\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h721e9d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/westpa-feedstock/pull/69",
   "id": 4832791369,
   "labels": [],
-  "last_fetched": "2026-10-12T18:01:41.643739",
+  "last_fetched": "2026-10-19T22:27:35.959289",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T22:26:21Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-10-12T17:26:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T22:26:22Z"
 }

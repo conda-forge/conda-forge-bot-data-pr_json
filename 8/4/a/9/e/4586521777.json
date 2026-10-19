@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"3ab59ae3b2d8f44f95f35f609f3cb0acc0ed1c6e6b811686d260a3b621f2caaf\"",
-  "Last-Modified": "Sun, 20 Sep 2026 23:07:18 GMT",
+  "ETag": "\"d9b487643ed93a32791f2ac7e9eb57dfa591daacc4f8ae550258cd2cc928c2ab\"",
+  "Last-Modified": "Mon, 19 Oct 2026 12:05:01 GMT",
   "base": {
     "repo": {
       "name": "rabbitmq-server-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T12:05:01Z",
   "created_at": "2026-09-20T23:05:37Z",
   "draft": false,
   "e_tag": "\"2c97afb659c589965f74a469414604d5cfabd66e8eeb77be6275a40831a8fdb0\"",
   "head": {
-    "ref": "4.3.6_heced15"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rabbitmq-server-feedstock/pull/155",
   "id": 4586521777,
   "labels": [],
-  "last_fetched": "2026-10-12T14:38:11.581165",
+  "last_fetched": "2026-10-19T12:06:13.953933",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T12:05:01Z",
   "number": 155,
-  "state": "open",
-  "updated_at": "2026-09-20T23:07:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T12:05:01Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"19e97856cce0a37739bc1a31bb3c31ade19323f5d7bc03fbffd8e261a13e0dd0\"",
-  "Last-Modified": "Sun, 18 Oct 2026 22:45:15 GMT",
+  "ETag": "\"fb2ac256e350f5d9c5748eb89c8c8e3dba9bf0fee15ef7cb0cd90caee7374dd0\"",
+  "Last-Modified": "Mon, 19 Oct 2026 15:19:39 GMT",
   "base": {
     "repo": {
       "name": "approvaltests-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/approvaltests-feedstock/pull/24",
   "id": 4913475598,
-  "labels": [],
-  "last_fetched": "2026-10-18T23:21:08.346960",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7152612902,
+      "name": "automerge",
+      "node_id": "LA_kwDOMQ2Xsc8AAAABqlQ2Jg",
+      "url": "https://api.github.com/repos/conda-forge/approvaltests-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T15:22:02.543575",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 24,
   "state": "open",
-  "updated_at": "2026-10-18T22:45:15Z"
+  "updated_at": "2026-10-19T15:19:39Z"
 }

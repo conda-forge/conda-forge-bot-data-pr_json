@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d0f0affe01950448f367fbb17a4435480685079312bad66caad90a3c0cf84acc\"",
+  "Last-Modified": "Mon, 19 Oct 2026 20:18:16 GMT",
   "base": {
     "repo": {
       "name": "mlx-audio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T20:18:12Z",
   "closed_by": null,
   "created_at": "2026-10-19T20:16:01Z",
   "draft": false,
   "e_tag": "\"e8c7489dea79190924dd290a09085a967a0a7ce566863e02accf6d26a5ebd8cc\"",
   "head": {
-    "ref": "0.6.0_hf2aa89"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mlx-audio-feedstock/pull/16",
   "id": 4926829575,
   "labels": [],
-  "last_fetched": "2026-10-19T20:16:01.993222",
+  "last_fetched": "2026-10-19T20:19:50.183053",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T20:18:12Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-19T20:16:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T20:18:16Z"
 }

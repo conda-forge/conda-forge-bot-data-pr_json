@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8143ee9c7803c0a1c73f9bab5f662a20efee379149afa481516cdceed8694a3c\"",
+  "Last-Modified": "Mon, 19 Oct 2026 16:10:32 GMT",
   "base": {
     "repo": {
       "name": "netbird-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T16:10:32Z",
   "closed_by": null,
   "created_at": "2026-10-19T15:35:56Z",
   "draft": false,
   "e_tag": "\"cb602b92bbade31db43a5fb8faa34b75cf17e2bdd43c02741b638b28cbedde91\"",
   "head": {
-    "ref": "0.81.3_hd94c76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/netbird-feedstock/pull/71",
   "id": 4923477180,
   "labels": [],
-  "last_fetched": "2026-10-19T15:35:57.626495",
+  "last_fetched": "2026-10-19T16:11:47.641015",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T16:10:32Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-10-19T15:35:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T16:10:37Z"
 }

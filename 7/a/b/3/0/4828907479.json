@@ -1,5 +1,5 @@
 {
-  "ETag": "\"b6f5823817e5566dde9361a59c8737b6b7395cb2ae55a4a9a8976038166da7d5\"",
+  "ETag": "W/\"82a20c09bfcf516bf8a8e301284b9faa7a2fca9acebd24544cac1830f3de40b6\"",
   "Last-Modified": "Mon, 19 Oct 2026 21:35:42 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/ultranest-feedstock/pull/83",
   "id": 4828907479,
-  "labels": [],
-  "last_fetched": "2026-10-19T21:36:52.189008",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-19T21:35:44.901903",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

@@ -1,28 +1,28 @@
 {
-  "ETag": "\"4ce98a21cdfabe5cc30bb1566af60814bd987ace3ee4e99f35ea31493eb81615\"",
-  "Last-Modified": "Mon, 19 Oct 2026 16:47:46 GMT",
+  "ETag": "\"844ae1a36a8efb2782c3c05f7f66d7d5a4b78df10a9041fd5cd38967ff506065\"",
+  "Last-Modified": "Mon, 19 Oct 2026 17:06:01 GMT",
   "base": {
     "repo": {
       "name": "pyrosm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T17:06:01Z",
   "created_at": "2026-10-09T18:19:58Z",
   "draft": false,
   "e_tag": "\"a1214386b27dc069d61779dc3bed33c6429aaed4b6f53e4437a001c155bcc135\"",
   "head": {
-    "ref": "0.16.0_h413eaf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyrosm-feedstock/pull/37",
   "id": 4804261247,
   "labels": [],
-  "last_fetched": "2026-10-19T16:51:32.417227",
+  "last_fetched": "2026-10-19T17:07:35.992772",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T17:06:01Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-10-19T16:47:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T17:06:01Z"
 }

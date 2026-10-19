@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"b8acf766dfb9da77c13eba13436acbc237be5dcb99bd0781de809149952825f5\"",
-  "Last-Modified": "Mon, 19 Oct 2026 04:19:47 GMT",
+  "ETag": "\"74f33a639ef4af19ad8ce0191123a83cc676baf11db23aaf3e957ff8a5b35765\"",
+  "Last-Modified": "Mon, 19 Oct 2026 16:21:03 GMT",
   "base": {
     "repo": {
       "name": "graphistry-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T16:21:03Z",
   "closed_by": null,
   "created_at": "2026-10-19T04:18:15Z",
   "draft": false,
   "e_tag": "\"b4fa27f68e904dcbc2f3d23535057acce7f0260925431c18b2d8f6c233ccf401\"",
   "head": {
-    "ref": "0.61.0_h8fe98b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/graphistry-feedstock/pull/146",
   "id": 4915744935,
   "labels": [],
-  "last_fetched": "2026-10-19T07:53:49.812191",
+  "last_fetched": "2026-10-19T16:22:48.432910",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T16:21:03Z",
   "number": 146,
-  "state": "open",
-  "updated_at": "2026-10-19T04:19:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T16:21:03Z"
 }

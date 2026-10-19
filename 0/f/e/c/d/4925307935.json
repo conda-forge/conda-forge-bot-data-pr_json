@@ -1,18 +1,18 @@
 {
-  "ETag": "\"991882bbb8d4cc31cda32a64bfacc0da6f3b62c6a9481cfe3b321a5ac7f6dbbc\"",
-  "Last-Modified": "Mon, 19 Oct 2026 18:20:43 GMT",
+  "ETag": "\"4205155db111c7b76aab63fcb82ba9cd7cc2f7b07dffc003427c1845c6fc2957\"",
+  "Last-Modified": "Mon, 19 Oct 2026 18:29:30 GMT",
   "base": {
     "repo": {
       "name": "py-maidr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T18:29:25Z",
   "closed_by": null,
   "created_at": "2026-10-19T18:10:13Z",
   "draft": false,
   "e_tag": "\"9af92f3e3cdf2d3d5340846c635b3aa4a4d5abec857ba5763c8ff383bc7ccffb\"",
   "head": {
-    "ref": "1.28.0_h705a43"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/py-maidr-feedstock/pull/25",
   "id": 4925307935,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/py-maidr-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-19T18:22:39.831206",
+  "last_fetched": "2026-10-19T18:31:11.814282",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T18:29:25Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-10-19T18:20:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T18:29:30Z"
 }

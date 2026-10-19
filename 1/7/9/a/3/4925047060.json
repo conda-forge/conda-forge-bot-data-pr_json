@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ff18598c41989edf9fe0fea112202cd9fba2eb9fd47dbe0f7e0dfdab16bbf5d3\"",
+  "Last-Modified": "Mon, 19 Oct 2026 17:52:41 GMT",
   "base": {
     "repo": {
       "name": "spec-kit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T17:52:36Z",
   "closed_by": null,
   "created_at": "2026-10-19T17:48:31Z",
   "draft": false,
   "e_tag": "\"e8791a9910f451344c0798c901be9ba0b3d0b93a827a5cbb5df65c34409241eb\"",
   "head": {
-    "ref": "1.2.2_h90d6a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spec-kit-feedstock/pull/136",
   "id": 4925047060,
   "labels": [],
-  "last_fetched": "2026-10-19T17:48:32.565466",
+  "last_fetched": "2026-10-19T17:54:16.295093",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T17:52:36Z",
   "number": 136,
-  "state": "open",
-  "updated_at": "2026-10-19T17:48:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T17:52:41Z"
 }

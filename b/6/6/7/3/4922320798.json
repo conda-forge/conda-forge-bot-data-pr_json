@@ -1,27 +1,29 @@
 {
+  "ETag": "\"417dc8dada805eb33791260c7e08733608b4e80c365bb02f70d7ab7a9f4173e9\"",
+  "Last-Modified": "Mon, 19 Oct 2026 14:15:21 GMT",
   "base": {
     "repo": {
       "name": "jobflow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T14:15:16Z",
   "closed_by": null,
   "created_at": "2026-10-19T14:12:56Z",
   "draft": false,
   "e_tag": "\"066e7dc6a2fd0f796aafd730a20e2392d7e5ea3cee7f419ed2c3c0a59ab36d69\"",
   "head": {
-    "ref": "0.4.0_hd01ac5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jobflow-feedstock/pull/29",
   "id": 4922320798,
   "labels": [],
-  "last_fetched": "2026-10-19T14:12:57.655060",
+  "last_fetched": "2026-10-19T14:16:28.869064",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T14:15:16Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-19T14:12:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T14:15:21Z"
 }

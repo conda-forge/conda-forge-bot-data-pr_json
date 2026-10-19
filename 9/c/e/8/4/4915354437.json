@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"0c85f7a7cd41c88a75bd5ab3ebb25d88d11bcabfb45c8a7f25d386988347e76c\"",
-  "Last-Modified": "Mon, 19 Oct 2026 03:24:06 GMT",
+  "ETag": "W/\"9bd9b3004eb796dbef633eb0a779aa4f5274b09159592074f7d5bfda91cf2d50\"",
+  "Last-Modified": "Mon, 19 Oct 2026 08:05:33 GMT",
   "base": {
     "repo": {
       "name": "nurikit-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/nurikit-feedstock/pull/23",
   "id": 4915354437,
-  "labels": [],
-  "last_fetched": "2026-10-19T03:54:23.632615",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8465818130,
+      "name": "automerge",
+      "node_id": "LA_kwDOOaivBM8AAAAB-JoiEg",
+      "url": "https://api.github.com/repos/conda-forge/nurikit-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T08:07:10.465259",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 23,
   "state": "open",
-  "updated_at": "2026-10-19T03:25:33Z"
+  "updated_at": "2026-10-19T08:05:33Z"
 }

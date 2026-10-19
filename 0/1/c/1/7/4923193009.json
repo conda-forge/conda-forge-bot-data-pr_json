@@ -1,4 +1,6 @@
 {
+  "ETag": "\"55ad9eae114f1818798c4aaffe587524550d256eae2b19e447b4baa361bc1fd5\"",
+  "Last-Modified": "Mon, 19 Oct 2026 15:16:04 GMT",
   "base": {
     "repo": {
       "name": "erlabpy-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/erlabpy-feedstock/pull/102",
   "id": 4923193009,
-  "labels": [],
-  "last_fetched": "2026-10-19T15:14:28.926176",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6797794191,
+      "name": "automerge",
+      "node_id": "LA_kwDOLrgSGM8AAAABlS4bjw",
+      "url": "https://api.github.com/repos/conda-forge/erlabpy-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T15:17:20.033245",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 102,
   "state": "open",
-  "updated_at": "2026-10-19T15:14:28Z"
+  "updated_at": "2026-10-19T15:16:04Z"
 }

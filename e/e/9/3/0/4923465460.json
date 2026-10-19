@@ -1,27 +1,29 @@
 {
+  "ETag": "\"52ed320ed2649b931613bab65cefca9908169ea38d82a39757fb95c65a88df26\"",
+  "Last-Modified": "Mon, 19 Oct 2026 18:30:52 GMT",
   "base": {
     "repo": {
       "name": "nxsconfigserver-db-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T18:30:51Z",
   "closed_by": null,
   "created_at": "2026-10-19T15:35:00Z",
   "draft": false,
   "e_tag": "\"8dad7f74fc04cc20aa6bc3ed00419d922229f7b543d7f6951e865003a6b01563\"",
   "head": {
-    "ref": "1.11.1_h90d27e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nxsconfigserver-db-feedstock/pull/1",
   "id": 4923465460,
   "labels": [],
-  "last_fetched": "2026-10-19T15:35:01.077473",
+  "last_fetched": "2026-10-19T18:33:01.547499",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T18:30:51Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-19T15:35:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T18:30:52Z"
 }

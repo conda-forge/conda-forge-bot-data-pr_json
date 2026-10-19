@@ -1,18 +1,18 @@
 {
-  "ETag": "W/\"9bd9b3004eb796dbef633eb0a779aa4f5274b09159592074f7d5bfda91cf2d50\"",
-  "Last-Modified": "Mon, 19 Oct 2026 08:05:33 GMT",
+  "ETag": "\"329de2c180a6cfa825fb76043244caacc6e12be01ee71184db58f8923f7c5b44\"",
+  "Last-Modified": "Mon, 19 Oct 2026 08:37:17 GMT",
   "base": {
     "repo": {
       "name": "nurikit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T08:37:15Z",
   "closed_by": null,
   "created_at": "2026-10-19T03:24:06Z",
   "draft": false,
   "e_tag": "\"31419f03e8d4c0161dc87022beaea7c593b04a2310011427d787dbefc832e97e\"",
   "head": {
-    "ref": "0.1.0b3_hee68d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nurikit-feedstock/pull/23",
   "id": 4915354437,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/nurikit-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-19T08:07:10.465259",
+  "last_fetched": "2026-10-19T08:38:52.656342",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T08:37:15Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-19T08:05:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T08:37:17Z"
 }

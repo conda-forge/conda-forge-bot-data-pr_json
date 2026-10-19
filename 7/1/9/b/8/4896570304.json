@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"fa76dcf8edca30f6cd1de120bec33b22672a6c2f13fc8bee92663f29f7a4588b\"",
-  "Last-Modified": "Sat, 17 Oct 2026 02:36:51 GMT",
+  "ETag": "\"32aba8c8de769d83d72f1e982de2a43fbead64e87e6d61592de776bc389e5911\"",
+  "Last-Modified": "Mon, 19 Oct 2026 17:03:33 GMT",
   "base": {
     "repo": {
       "name": "scikit_sundae-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T17:03:33Z",
   "closed_by": null,
   "created_at": "2026-10-17T02:35:11Z",
   "draft": false,
   "e_tag": "\"f3a5b48fe9c5fb5cc2ff4acb6185e259ec7159fd4d59c1bf41627669972c7c47\"",
   "head": {
-    "ref": "1.2.0_h0346f6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scikit_sundae-feedstock/pull/22",
   "id": 4896570304,
   "labels": [],
-  "last_fetched": "2026-10-17T05:22:33.159628",
+  "last_fetched": "2026-10-19T17:04:41.928169",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T17:03:33Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-17T02:36:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T17:03:33Z"
 }

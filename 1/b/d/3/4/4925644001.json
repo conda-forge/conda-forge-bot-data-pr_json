@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6662ba2c2a620f8c6868a53abcc29da3ec3581a00f4f0275644197a972d70239\"",
+  "Last-Modified": "Mon, 19 Oct 2026 18:40:53 GMT",
   "base": {
     "repo": {
       "name": "dbt-protos-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T18:40:49Z",
   "closed_by": null,
   "created_at": "2026-10-19T18:38:47Z",
   "draft": false,
   "e_tag": "\"f6ec1cbcb9bfff3ad4f7b4823e4bf96e385af7fbc57213618281a4a875516147\"",
   "head": {
-    "ref": "1.0.607_h836e74"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dbt-protos-feedstock/pull/22",
   "id": 4925644001,
   "labels": [],
-  "last_fetched": "2026-10-19T18:38:48.693129",
+  "last_fetched": "2026-10-19T18:42:01.169668",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T18:40:49Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-19T18:38:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T18:40:53Z"
 }

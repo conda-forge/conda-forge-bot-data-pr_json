@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"1e3bcdfae6824028df66e509eee518845f6f44968d62710904d25141fa4a6b75\"",
-  "Last-Modified": "Sun, 18 Oct 2026 15:49:31 GMT",
+  "ETag": "W/\"8c40a224d23ec6d7c6b5a6eb9825ee1cd5886770af4c866a518721324f123d4c\"",
+  "Last-Modified": "Mon, 19 Oct 2026 01:09:12 GMT",
   "base": {
     "repo": {
       "name": "pydantic-xml-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pydantic-xml-feedstock/pull/13",
   "id": 4910508372,
-  "labels": [],
-  "last_fetched": "2026-10-18T15:59:42.959409",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8253497403,
+      "name": "automerge",
+      "node_id": "LA_kwDOOEYXqs8AAAAB6_JgOw",
+      "url": "https://api.github.com/repos/conda-forge/pydantic-xml-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T01:10:43.352598",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 13,
   "state": "open",
-  "updated_at": "2026-10-18T15:51:01Z"
+  "updated_at": "2026-10-19T01:09:12Z"
 }

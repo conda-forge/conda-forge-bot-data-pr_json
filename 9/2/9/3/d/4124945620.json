@@ -1,5 +1,5 @@
 {
-  "ETag": "\"18fdf0709ef8f2673fbb8594b1d932f7c35309dbe7d3c7976e7f5ff94fe68ffb\"",
+  "ETag": "W/\"d4617d1a5b4609d071221efa1143f8e1298043c00793e91ae7e0c4f290cd5fea\"",
   "Last-Modified": "Mon, 19 Oct 2026 22:35:40 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/polyleven-feedstock/pull/23",
   "id": 4124945620,
-  "labels": [],
-  "last_fetched": "2026-10-19T22:36:50.018232",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-19T22:35:42.290827",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

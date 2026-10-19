@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c1fce92b8fe5058e63e24542f26e7b0b113a54ac22c2967362dca2c4f3e9a4a8\"",
+  "Last-Modified": "Mon, 19 Oct 2026 21:08:44 GMT",
   "base": {
     "repo": {
       "name": "emmet-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T21:08:44Z",
   "closed_by": null,
   "created_at": "2026-10-19T20:39:16Z",
   "draft": false,
   "e_tag": "\"c28887b2be6be441ac7755dafe87733b11f0157ab4dcc2cf9409d254ef464b5a\"",
   "head": {
-    "ref": "0.88.0_hc74e29"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/emmet-core-feedstock/pull/211",
   "id": 4927112389,
   "labels": [],
-  "last_fetched": "2026-10-19T20:39:17.855767",
+  "last_fetched": "2026-10-19T21:10:22.674317",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T21:08:44Z",
   "number": 211,
-  "state": "open",
-  "updated_at": "2026-10-19T20:39:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T21:08:44Z"
 }

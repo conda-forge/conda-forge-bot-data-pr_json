@@ -1,27 +1,29 @@
 {
+  "ETag": "\"41439a6f419396992b189ff3cd40f646c571e1cf4f6f827010124e218917ca1d\"",
+  "Last-Modified": "Mon, 19 Oct 2026 15:48:52 GMT",
   "base": {
     "repo": {
       "name": "python-discovery-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T15:48:52Z",
   "closed_by": null,
   "created_at": "2026-10-19T14:50:52Z",
   "draft": false,
   "e_tag": "\"bb85da940b94d9769d7bdf0a7c69498c7191b15c54e75026648e5762cd85111e\"",
   "head": {
-    "ref": "1.6.4_h2b1696"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-discovery-feedstock/pull/22",
   "id": 4922868003,
   "labels": [],
-  "last_fetched": "2026-10-19T14:50:53.629151",
+  "last_fetched": "2026-10-19T15:51:05.219091",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T15:48:52Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-19T14:50:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T15:48:52Z"
 }

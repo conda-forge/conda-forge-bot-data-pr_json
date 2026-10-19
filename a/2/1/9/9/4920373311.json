@@ -1,27 +1,29 @@
 {
+  "ETag": "\"020c1d950952a0dd612f6af840204a45c560ebbfb814a0f617d9009734f36960\"",
+  "Last-Modified": "Mon, 19 Oct 2026 11:44:38 GMT",
   "base": {
     "repo": {
       "name": "a2a-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T11:44:35Z",
   "closed_by": null,
   "created_at": "2026-10-19T11:42:50Z",
   "draft": false,
   "e_tag": "\"8d9973da96ab5a63c0cf3edfbd6f6c3ee362efcf9a006e82631454deb7b17966\"",
   "head": {
-    "ref": "1.2.3_he392bf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/a2a-sdk-feedstock/pull/29",
   "id": 4920373311,
   "labels": [],
-  "last_fetched": "2026-10-19T11:42:51.788283",
+  "last_fetched": "2026-10-19T11:46:37.656111",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T11:44:35Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-19T11:42:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T11:44:38Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"a7e98e53ba01ae5b258c7e0c6c95dfb9e19d36f46516f7fa4e3600965810ec67\"",
-  "Last-Modified": "Fri, 16 Oct 2026 10:27:22 GMT",
+  "ETag": "\"9ecccc5eb50ab59712969454cf0bbcfddedd45dcf0326d9d446b0554c360b7aa\"",
+  "Last-Modified": "Mon, 19 Oct 2026 22:54:07 GMT",
   "base": {
     "repo": {
       "name": "pyexasol-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/pyexasol-feedstock/pull/65",
   "id": 4886384925,
-  "labels": [],
-  "last_fetched": "2026-10-16T11:22:29.907221",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891103039,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTAzMDM5",
+      "url": "https://api.github.com/repos/conda-forge/pyexasol-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T22:55:57.707109",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 65,
   "state": "open",
-  "updated_at": "2026-10-16T10:27:22Z"
+  "updated_at": "2026-10-19T22:54:07Z"
 }

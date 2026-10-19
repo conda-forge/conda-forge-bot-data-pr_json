@@ -1,5 +1,5 @@
 {
-  "ETag": "\"b883b1a12e8a6a76d13fc70517414fff4f34308fb4cb9ccade0baa812aef3846\"",
+  "ETag": "W/\"eea63447fd28f9fbe0eefac5babfee50df22818beeaff56399bc56dac38e7808\"",
   "Last-Modified": "Mon, 19 Oct 2026 14:27:08 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/anemoi-training-feedstock/pull/8",
   "id": 4262369977,
-  "labels": [],
-  "last_fetched": "2026-10-19T14:28:49.146883",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-19T14:27:12.177518",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

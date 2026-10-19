@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3b748bd5faacc2cce7add90886d08ac2ee4e6339355581c4908b6254c01ae429\"",
-  "Last-Modified": "Mon, 19 Oct 2026 19:54:06 GMT",
+  "ETag": "\"bad82d7ffad81c02523e4ac6216cae26d42ce21ac49f0fff2ef3c29523e7d08c\"",
+  "Last-Modified": "Mon, 19 Oct 2026 20:11:07 GMT",
   "base": {
     "repo": {
       "name": "cysignals-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/cysignals-feedstock/pull/67",
   "id": 4447076673,
-  "labels": [],
-  "last_fetched": "2026-10-19T19:55:33.444848",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890864086,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODY0MDg2",
+      "url": "https://api.github.com/repos/conda-forge/cysignals-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T20:12:27.163391",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 67,
   "state": "open",
-  "updated_at": "2026-10-19T19:54:06Z"
+  "updated_at": "2026-10-19T20:11:07Z"
 }

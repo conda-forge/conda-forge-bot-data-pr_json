@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"9a72b78ee1435478085d13d2ef3985b45d4c0c0c494da3059021b672468a278a\"",
-  "Last-Modified": "Mon, 19 Oct 2026 04:57:37 GMT",
+  "ETag": "\"37ae5716effdfd2c93dec1f6dfbb95d7201b54138e91ba66e3397b0b7cc0800d\"",
+  "Last-Modified": "Mon, 19 Oct 2026 10:10:11 GMT",
   "base": {
     "repo": {
       "name": "kneed-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T10:10:11Z",
   "closed_by": null,
   "created_at": "2026-10-19T04:56:02Z",
   "draft": false,
   "e_tag": "\"ea616e5393db187ea4ec5213e4e54f67e539d398b82a4c4157999dd5554af92d\"",
   "head": {
-    "ref": "0.9.0_hb26cb3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kneed-feedstock/pull/18",
   "id": 4916056799,
   "labels": [],
-  "last_fetched": "2026-10-19T07:21:07.755169",
+  "last_fetched": "2026-10-19T10:11:47.016521",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T10:10:11Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-19T04:57:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T10:10:11Z"
 }

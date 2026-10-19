@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"2e1076773060fb1bb865af3b5ec3f6028a0708421a3cfcd2db3d4f68c57a6c28\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"3430724ce7bc16e0ae63657e2d784ea0097f4e86ffed23954dd8d83b4072ead6\"",
+  "Last-Modified": "Mon, 19 Oct 2026 21:46:32 GMT",
   "base": {
     "repo": {
       "name": "pyresample-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T21:46:32Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-03-07T15:39:47Z",
   "draft": false,
   "e_tag": "\"9eb3c0ab1d9832e756921c4a2210ce307e817e8fdcbb9a4e6c079cb0af4b660b\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pyresample-feedstock/pull/110",
   "id": 3367716291,
   "labels": [],
-  "last_fetched": "2026-10-12T15:30:09.253051",
+  "last_fetched": "2026-10-19T21:48:10.219799",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 110,
-  "state": "open",
-  "updated_at": "2026-03-09T01:57:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T21:46:32Z"
 }

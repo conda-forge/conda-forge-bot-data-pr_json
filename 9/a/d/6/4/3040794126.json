@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"caf3e089ac110780134ebff27a35537c3f443dc9843f62ea9730efcb4f3a9998\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"e9e243e531a1e2e487c8193695bf5fd47cd9afc491703cdd920cfa6740878ad1\"",
+  "Last-Modified": "Mon, 19 Oct 2026 15:00:30 GMT",
   "base": {
     "repo": {
       "name": "py-ubjson-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T15:00:30Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-11-24T17:08:10Z",
   "draft": false,
   "e_tag": "\"a0096164046b33ec23e14831491824c1f1c9f4f93a004478c115eb6f8197eef4\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/py-ubjson-feedstock/pull/27",
   "id": 3040794126,
-  "labels": [],
-  "last_fetched": "2026-10-13T06:46:10.342238",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891100093,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMTAwMDkz",
+      "url": "https://api.github.com/repos/conda-forge/py-ubjson-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-19T15:00:33.885155",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 27,
-  "state": "open",
-  "updated_at": "2025-11-24T17:09:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T15:00:30Z"
 }

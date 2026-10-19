@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"d4267106e9c511bb14c053108c70b5b19273d7a6ca162c4f1e89d00414c2614d\"",
-  "Last-Modified": "Fri, 04 Sep 2026 22:05:02 GMT",
+  "ETag": "W/\"671d70d0734827c930242168e184f2b6a74d17df3356099dfa630c54820844aa\"",
+  "Last-Modified": "Mon, 19 Oct 2026 00:00:01 GMT",
   "base": {
     "repo": {
       "name": "pyclipper-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T00:00:01Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-04T22:03:03Z",
   "draft": false,
   "e_tag": "\"2f730c1ca8f8b4cab7306fc5c3200f8abb43d0ca8ccd5f52c76562a49c237d77\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/pyclipper-feedstock/pull/37",
   "id": 4447046511,
-  "labels": [],
-  "last_fetched": "2026-10-11T17:59:00.262563",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-19T00:00:04.619182",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-09-04T22:05:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T00:00:01Z"
 }

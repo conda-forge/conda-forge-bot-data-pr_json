@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"a658aee3ed6e373c33bd7232094d266df799c267ea7e0959eae4135907758150\"",
-  "Last-Modified": "Fri, 16 Oct 2026 19:49:27 GMT",
+  "ETag": "\"2c6adbf12cc6072c0e77d1e4a4c07ba8aae0a094a2feb04db6e2b7ef14f6c592\"",
+  "Last-Modified": "Mon, 19 Oct 2026 11:27:06 GMT",
   "base": {
     "repo": {
       "name": "django-grappelli-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/django-grappelli-feedstock/pull/46",
   "id": 4893463974,
-  "labels": [],
-  "last_fetched": "2026-10-16T21:33:12.878403",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890868665,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODY4NjY1",
+      "url": "https://api.github.com/repos/conda-forge/django-grappelli-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T11:28:16.933482",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 46,
   "state": "open",
-  "updated_at": "2026-10-16T19:49:27Z"
+  "updated_at": "2026-10-19T11:27:06Z"
 }

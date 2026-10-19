@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"28ac58093f10874af7edddafb927967034bf835a8576b71a6b7836e615ec7b19\"",
-  "Last-Modified": "Fri, 24 Jul 2026 13:13:24 GMT",
+  "ETag": "\"18fdf0709ef8f2673fbb8594b1d932f7c35309dbe7d3c7976e7f5ff94fe68ffb\"",
+  "Last-Modified": "Mon, 19 Oct 2026 22:35:40 GMT",
   "base": {
     "repo": {
       "name": "polyleven-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T22:35:40Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-07-24T13:11:51Z",
   "draft": false,
   "e_tag": "\"9ee171e93d6f9da9415c65071178481b479129aaaecd641feb1c8bb78d339731\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/polyleven-feedstock/pull/23",
   "id": 4124945620,
   "labels": [],
-  "last_fetched": "2026-10-12T22:25:34.855686",
+  "last_fetched": "2026-10-19T22:36:50.018232",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-07-24T13:13:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T22:35:40Z"
 }

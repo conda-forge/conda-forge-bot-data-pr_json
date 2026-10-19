@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"93b1f1f24af0c2f3b3beceb1edb18c1698b25088a1872b74b883476b602796a8\"",
+  "Last-Modified": "Mon, 19 Oct 2026 04:04:57 GMT",
   "base": {
     "repo": {
       "name": "pkgconf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T04:04:53Z",
   "closed_by": null,
   "created_at": "2026-10-19T04:01:03Z",
   "draft": false,
   "e_tag": "\"0761d158df378ce7cac3eb558f6fb952521ba00c20b61a16d4d7136c658807d5\"",
   "head": {
-    "ref": "3.0.10_h5598ef"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pkgconf-feedstock/pull/31",
   "id": 4915611547,
   "labels": [],
-  "last_fetched": "2026-10-19T04:01:04.163590",
+  "last_fetched": "2026-10-19T04:06:10.302887",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T04:04:53Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-19T04:01:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T04:04:57Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"04b5e28ec5ffb94d100ca7594a7fc1dcc835677989a313ee5b863dfe63eb3950\"",
-  "Last-Modified": "Mon, 19 Oct 2026 23:34:17 GMT",
+  "ETag": "\"b8af99d2f777e59ea0e4e1917fe8c1872d8154e32731aa45394ad40b1c77281d\"",
+  "Last-Modified": "Mon, 19 Oct 2026 23:47:10 GMT",
   "base": {
     "repo": {
       "name": "fpylll-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T23:47:09Z",
   "closed_by": null,
   "created_at": "2026-10-19T22:38:41Z",
   "draft": false,
   "e_tag": "\"88d55ec2c0b8d10b646339c238fd800730a81633975b053a7d8f023028f00939\"",
   "head": {
-    "ref": "rebuild-python315-0-1_he8b68d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fpylll-feedstock/pull/41",
   "id": 4928352752,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/fpylll-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-19T23:35:34.957854",
+  "last_fetched": "2026-10-19T23:48:37.631621",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T23:47:09Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-19T23:34:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T23:47:13Z"
 }

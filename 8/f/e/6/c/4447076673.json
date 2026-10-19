@@ -1,17 +1,17 @@
 {
-  "ETag": "\"25e22e6f1b77a1e31133c28b8c812d539d15ad4250993eed6b02e0d25e8476a1\"",
-  "Last-Modified": "Mon, 19 Oct 2026 20:15:43 GMT",
+  "ETag": "\"b3a5378afea738c54121d25ff0cd567799df3ef0462ecbc3ebccc7b1b6bb81bf\"",
+  "Last-Modified": "Mon, 19 Oct 2026 20:29:44 GMT",
   "base": {
     "repo": {
       "name": "cysignals-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T20:29:39Z",
   "created_at": "2026-09-04T22:07:13Z",
   "draft": false,
   "e_tag": "\"49b98d3983e05a7044dfd622e859c5ddd8d687f706d655df826e95749718b0ce\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h7e4a49"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cysignals-feedstock/pull/67",
   "id": 4447076673,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/cysignals-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-19T20:17:23.782255",
+  "last_fetched": "2026-10-19T20:31:17.998585",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T20:29:39Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-10-19T20:15:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T20:29:44Z"
 }

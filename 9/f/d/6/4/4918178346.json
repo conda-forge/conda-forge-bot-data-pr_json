@@ -1,27 +1,41 @@
 {
+  "ETag": "\"fdd18d337e0d057ffeb834741d1a84903800b65586347c7bff6edf81fb3a6194\"",
+  "Last-Modified": "Mon, 19 Oct 2026 08:55:16 GMT",
   "base": {
     "repo": {
       "name": "box2d-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T08:55:13Z",
   "closed_by": null,
   "created_at": "2026-10-19T08:37:57Z",
   "draft": false,
   "e_tag": "\"ff4b1dfc1b5f91b24e636b52e7a4b0b1e4af6929c14b688670231ad61fd321ca\"",
   "head": {
-    "ref": "3.2.0_h5d262f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/box2d-feedstock/pull/6",
   "id": 4918178346,
-  "labels": [],
-  "last_fetched": "2026-10-19T08:37:58.375934",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8558611774,
+      "name": "automerge",
+      "node_id": "LA_kwDOOkQoR88AAAAB_iINPg",
+      "url": "https://api.github.com/repos/conda-forge/box2d-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T08:55:58.148778",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T08:55:13Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-19T08:37:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T08:55:16Z"
 }

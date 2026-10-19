@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"532dd8b332d3cd32825a2b0dec502f052db714e67b75c894a010df5752e6d117\"",
-  "Last-Modified": "Tue, 13 Oct 2026 23:25:46 GMT",
+  "ETag": "\"0e01f587ba5a131f1364ab7c3056dd70c01d69d5f19856b9d70fa1a866ede675\"",
+  "Last-Modified": "Mon, 19 Oct 2026 22:24:20 GMT",
   "base": {
     "repo": {
       "name": "conda-standalone-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T22:24:19Z",
+  "closed_by": "marcoesters",
   "created_at": "2026-10-13T23:24:07Z",
   "draft": false,
   "e_tag": "\"82d399b71d97d3befd49d76ca7c61c99218fc7b4aac2c82104124d15b0236b3e\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/conda-standalone-feedstock/pull/107",
   "id": 4850749416,
   "labels": [],
-  "last_fetched": "2026-10-14T04:51:55.472175",
+  "last_fetched": "2026-10-19T22:25:52.190111",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-10-13T23:25:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T22:24:20Z"
 }

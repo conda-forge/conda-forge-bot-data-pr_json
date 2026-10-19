@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"c957d1473e9901fde9a5dde19a0ad35388158c89a983ab635774df1df169b1a6\"",
-  "Last-Modified": "Tue, 13 Oct 2026 15:24:52 GMT",
+  "ETag": "\"cba01a0b1a6e881153cad2c570a4e893c4b683447004baca32c3ab1bc9077aac\"",
+  "Last-Modified": "Mon, 19 Oct 2026 10:35:29 GMT",
   "base": {
     "repo": {
       "name": "apsw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T10:35:28Z",
+  "closed_by": "stuertz",
   "created_at": "2026-10-13T02:45:21Z",
   "draft": false,
   "e_tag": "\"0e9ca4cc62d4077fe39b9b29c816c7ed823524803ea95867f9f79f3541831f7a\"",
@@ -15,26 +16,14 @@
   },
   "html_url": "https://github.com/conda-forge/apsw-feedstock/pull/88",
   "id": 4837611366,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 1890793726,
-      "name": "automerge",
-      "node_id": "MDU6TGFiZWwxODkwNzkzNzI2",
-      "url": "https://api.github.com/repos/conda-forge/apsw-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-10-13T22:24:55.885958",
+  "labels": [],
+  "last_fetched": "2026-10-19T10:37:02.034389",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 88,
-  "state": "open",
-  "updated_at": "2026-10-13T15:24:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T10:35:29Z"
 }

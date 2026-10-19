@@ -1,5 +1,5 @@
 {
-  "ETag": "\"8586dc717be8fd3d823ea00563b8da4db9c358ed8a5bbab9708f0b7419ac4ed6\"",
+  "ETag": "W/\"04d2b9c51a68a947b7701512c846375881d1e92104a8cd2bb7b56398ebe73c3c\"",
   "Last-Modified": "Mon, 19 Oct 2026 17:02:02 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/causalml-feedstock/pull/22",
   "id": 2598310248,
-  "labels": [],
-  "last_fetched": "2026-10-19T17:03:42.100359",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-19T17:02:05.525764",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

@@ -1,28 +1,28 @@
 {
-  "ETag": "\"51a24c4b3adef0ae32e64527f01c075f9e52f60efcc0880cc9934cc8b2f85ca1\"",
-  "Last-Modified": "Mon, 19 Oct 2026 19:03:53 GMT",
+  "ETag": "\"520598c2584e150299555aec551fb180ca71cb434b13cb85828b28ed4aedd74c\"",
+  "Last-Modified": "Mon, 19 Oct 2026 19:09:49 GMT",
   "base": {
     "repo": {
       "name": "pyzstd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T19:09:48Z",
   "created_at": "2026-10-11T20:02:46Z",
   "draft": false,
   "e_tag": "\"feb5a606b31058a7c4f2a9a860d1ff4167313de75ec45e4ec0f95492160dc37b\"",
   "head": {
-    "ref": "0.20.0_h63df76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyzstd-feedstock/pull/49",
   "id": 4821936478,
   "labels": [],
-  "last_fetched": "2026-10-19T19:05:10.774782",
+  "last_fetched": "2026-10-19T19:11:39.238224",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T19:09:48Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-19T19:03:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T19:09:49Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"34d4018bed16b86df7b904ee0658c492f16fda52ee0ece06708dec29efbebad8\"",
-  "Last-Modified": "Sat, 17 Oct 2026 19:48:10 GMT",
+  "ETag": "W/\"7f25e3771f67e23193ac9d10775cfd6c979fd6ffdbcfb1b5042ef5c0b788281c\"",
+  "Last-Modified": "Mon, 19 Oct 2026 07:52:06 GMT",
   "base": {
     "repo": {
       "name": "sensormapgeo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T07:52:06Z",
   "closed_by": null,
   "created_at": "2026-10-17T19:46:37Z",
   "draft": false,
   "e_tag": "\"23b4a47de4cb2fa3851cd92fb7c5ce12852b527ab5ffc5e35641d696ae3b828e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h43be5a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sensormapgeo-feedstock/pull/32",
   "id": 4903370158,
   "labels": [],
-  "last_fetched": "2026-10-17T22:58:17.436751",
+  "last_fetched": "2026-10-19T07:53:16.863490",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T07:52:06Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-10-17T19:48:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T07:52:06Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"3cc9c9c8dc89208dbc3c1617d31bf9e9562c211caca7a499d47cb47aa4436e1e\"",
-  "Last-Modified": "Mon, 19 Oct 2026 04:18:20 GMT",
+  "ETag": "\"5afbbe05dfa56453d96c5392629437b719ee076f71da0405b7cf73ca2b303838\"",
+  "Last-Modified": "Mon, 19 Oct 2026 10:31:42 GMT",
   "base": {
     "repo": {
       "name": "python-utils-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T10:31:41Z",
   "closed_by": null,
   "created_at": "2026-10-19T04:16:48Z",
   "draft": false,
   "e_tag": "\"fe59f510a9b9dc9f099c5fed8598ee10091849f1b21e649bb95bbaf02c09e9e3\"",
   "head": {
-    "ref": "4.1.3_h5313a2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-utils-feedstock/pull/48",
   "id": 4915732597,
   "labels": [],
-  "last_fetched": "2026-10-19T06:51:31.466910",
+  "last_fetched": "2026-10-19T10:32:48.911260",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T10:31:41Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-19T04:18:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T10:31:42Z"
 }

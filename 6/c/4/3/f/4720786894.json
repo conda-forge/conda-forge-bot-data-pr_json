@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"72cf056c22cf9ef3d65b0c9e36406e4ce09b01482ca7fbc104e3dd0317bd15fe\"",
-  "Last-Modified": "Thu, 15 Oct 2026 21:01:34 GMT",
+  "ETag": "W/\"4838cbbd19fc82dc3dc17d001d0d87efb630b0259e31ab86de980a32d03f5e98\"",
+  "Last-Modified": "Mon, 19 Oct 2026 20:34:40 GMT",
   "base": {
     "repo": {
       "name": "cysignals-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T20:34:40Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-02T19:52:37Z",
   "draft": false,
   "e_tag": "\"7d35fcc18f152a775c776daa821ee90474457e8c5705dc48655580ded5109778\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cysignals-feedstock/pull/69",
   "id": 4720786894,
-  "labels": [],
-  "last_fetched": "2026-10-16T03:28:33.437476",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890864078,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwODY0MDc4",
+      "url": "https://api.github.com/repos/conda-forge/cysignals-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-19T20:34:44.637455",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-10-15T21:01:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T20:34:40Z"
 }

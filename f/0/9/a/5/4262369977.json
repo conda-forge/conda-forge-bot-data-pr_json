@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"8978e7606cab8c69ed2db24b9cb069a0a49deffb5aeea3906bfc2e33b3671afe\"",
-  "Last-Modified": "Wed, 12 Aug 2026 12:50:57 GMT",
+  "ETag": "\"b883b1a12e8a6a76d13fc70517414fff4f34308fb4cb9ccade0baa812aef3846\"",
+  "Last-Modified": "Mon, 19 Oct 2026 14:27:08 GMT",
   "base": {
     "repo": {
       "name": "anemoi-training-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T14:27:08Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-12T12:45:26Z",
   "draft": false,
   "e_tag": "\"f83b5df1bd983b91de6fcac5c9e87c575bc2f09221a6cdbdb6681be048f701c6\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/anemoi-training-feedstock/pull/8",
   "id": 4262369977,
   "labels": [],
-  "last_fetched": "2026-10-12T14:08:40.052573",
+  "last_fetched": "2026-10-19T14:28:49.146883",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-08-12T12:50:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T14:27:08Z"
 }

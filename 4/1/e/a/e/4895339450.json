@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"8cf96684cdbe27e041d65c5cd2da4205f7f27d2b90ae9ef69d26b5cce58aaed8\"",
-  "Last-Modified": "Fri, 16 Oct 2026 23:16:50 GMT",
+  "ETag": "\"016c60868bc2d85cd2013e8cfd02805d7de5c848ffb78af108e6e529d1441372\"",
+  "Last-Modified": "Mon, 19 Oct 2026 13:25:42 GMT",
   "base": {
     "repo": {
       "name": "pillow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T13:25:42Z",
   "closed_by": null,
   "created_at": "2026-10-16T23:15:16Z",
   "draft": false,
   "e_tag": "\"822b543c4bbfa0fa2f6bdfce8b86288edd881b4d56f02389dbf34c34122695c0\"",
   "head": {
-    "ref": "13.0.0_h86dafc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pillow-feedstock/pull/186",
   "id": 4895339450,
   "labels": [],
-  "last_fetched": "2026-10-17T10:21:52.250726",
+  "last_fetched": "2026-10-19T13:27:16.730618",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T13:25:42Z",
   "number": 186,
-  "state": "open",
-  "updated_at": "2026-10-16T23:16:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T13:25:42Z"
 }

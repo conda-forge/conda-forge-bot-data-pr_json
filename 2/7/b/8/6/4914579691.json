@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"031899bfa6d32f4eb0f9eb9ed6651a6fa3f4f6653478a58e9f0c5a5e86889317\"",
-  "Last-Modified": "Mon, 19 Oct 2026 01:32:40 GMT",
+  "ETag": "\"35464325c75f4e4174536fe780f99796a5de4274f0647ff7e1ba532e0724abc1\"",
+  "Last-Modified": "Mon, 19 Oct 2026 14:35:57 GMT",
   "base": {
     "repo": {
       "name": "autobahn-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/autobahn-feedstock/pull/90",
   "id": 4914579691,
-  "labels": [],
-  "last_fetched": "2026-10-19T06:01:43.170673",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890796034,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwNzk2MDM0",
+      "url": "https://api.github.com/repos/conda-forge/autobahn-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T14:37:11.588639",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 90,
   "state": "open",
-  "updated_at": "2026-10-19T01:34:28Z"
+  "updated_at": "2026-10-19T14:35:57Z"
 }

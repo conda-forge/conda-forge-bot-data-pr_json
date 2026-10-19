@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3c7b24c1172f92f314f0e79576e01c628cf73ece1b31ea85f2176f00e419e7c9\"",
+  "Last-Modified": "Mon, 19 Oct 2026 17:38:23 GMT",
   "base": {
     "repo": {
       "name": "fnox-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T17:38:19Z",
   "closed_by": null,
   "created_at": "2026-10-19T16:56:50Z",
   "draft": false,
   "e_tag": "\"8997cced59e261806b21c8571d6e948a5b06a6b630e24fb121c1539f34ea19de\"",
   "head": {
-    "ref": "1.41.0_hb705b8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fnox-feedstock/pull/26",
   "id": 4924419722,
   "labels": [],
-  "last_fetched": "2026-10-19T16:56:51.469390",
+  "last_fetched": "2026-10-19T17:39:54.607425",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T17:38:19Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-19T16:56:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T17:38:23Z"
 }

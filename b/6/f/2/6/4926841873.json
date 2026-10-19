@@ -1,6 +1,6 @@
 {
-  "ETag": "\"9ceb039213fb8d564917334d89879c6786c79d58ff976ec9b0c9f692b418daa2\"",
-  "Last-Modified": "Mon, 19 Oct 2026 20:18:25 GMT",
+  "ETag": "\"8337982ee68f3a28ea81187daab9b81878fc956c5546b8c38fab2f5144f5a6e9\"",
+  "Last-Modified": "Mon, 19 Oct 2026 22:36:41 GMT",
   "base": {
     "repo": {
       "name": "turm-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/turm-feedstock/pull/7",
   "id": 4926841873,
-  "labels": [],
-  "last_fetched": "2026-10-19T21:57:26.455938",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9954886741,
+      "name": "automerge",
+      "node_id": "LA_kwDOQ1zfrs8AAAACUVuEVQ",
+      "url": "https://api.github.com/repos/conda-forge/turm-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T22:38:15.578203",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 7,
   "state": "open",
-  "updated_at": "2026-10-19T20:18:25Z"
+  "updated_at": "2026-10-19T22:36:41Z"
 }

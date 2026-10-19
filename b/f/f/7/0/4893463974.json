@@ -1,18 +1,18 @@
 {
-  "ETag": "\"2c6adbf12cc6072c0e77d1e4a4c07ba8aae0a094a2feb04db6e2b7ef14f6c592\"",
-  "Last-Modified": "Mon, 19 Oct 2026 11:27:06 GMT",
+  "ETag": "\"77f437ea038ea01f5fd6834493e1133a4435ee4141f42f0cb5f38c294da5951a\"",
+  "Last-Modified": "Mon, 19 Oct 2026 11:28:59 GMT",
   "base": {
     "repo": {
       "name": "django-grappelli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T11:28:54Z",
   "closed_by": null,
   "created_at": "2026-10-16T19:47:50Z",
   "draft": false,
   "e_tag": "\"1e71feb5f2d6a93a913dbcdbf5b4dfbabb068e88cb605fb00852b351b5ffe462\"",
   "head": {
-    "ref": "5.0.1_hc871d5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-grappelli-feedstock/pull/46",
   "id": 4893463974,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/django-grappelli-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-19T11:28:16.933482",
+  "last_fetched": "2026-10-19T11:30:32.222853",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T11:28:54Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-10-19T11:27:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T11:28:59Z"
 }

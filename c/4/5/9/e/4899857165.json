@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"890beba90cf7d61be3a5706b17e95bdced14d5dde68aaf292abe46aa21d2c24d\"",
-  "Last-Modified": "Sat, 17 Oct 2026 11:58:40 GMT",
+  "ETag": "\"9c938bdbcb3f40f39c42d3ad52bf4c07e7a0a55d717c6ba465291963eaac1f44\"",
+  "Last-Modified": "Mon, 19 Oct 2026 18:35:25 GMT",
   "base": {
     "repo": {
       "name": "geoschem-gcpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T18:35:25Z",
   "closed_by": null,
   "created_at": "2026-10-17T11:58:39Z",
   "draft": false,
   "e_tag": "\"258adb78e0bdd443ed4cfb72457e5f65c261e6173563efecbd300e454fdceb15\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hb8bb97"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geoschem-gcpy-feedstock/pull/38",
   "id": 4899857165,
   "labels": [],
-  "last_fetched": "2026-10-17T13:32:28.018280",
+  "last_fetched": "2026-10-19T18:37:00.748872",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T18:35:25Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-17T12:00:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T18:35:25Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"8dc3ca7fe057a425165cd1aec3a9f6d20480d9a31bdb44ada20aac24003e36aa\"",
-  "Last-Modified": "Thu, 24 Sep 2026 04:38:58 GMT",
+  "ETag": "\"616e576691b02a198d6f6dfdda07413d50558c34e947b4b6bc47cf9e8b367619\"",
+  "Last-Modified": "Mon, 19 Oct 2026 15:15:38 GMT",
   "base": {
     "repo": {
       "name": "multidict-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T15:15:38Z",
   "created_at": "2026-09-24T04:37:15Z",
   "draft": false,
   "e_tag": "\"f348e794d3bcebc443b8526322aa7b3f6aca522dd3a9d480e649624030484ee1\"",
   "head": {
-    "ref": "6.9.1_haee0d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/multidict-feedstock/pull/74",
   "id": 4621663296,
   "labels": [],
-  "last_fetched": "2026-10-15T17:01:32.230048",
+  "last_fetched": "2026-10-19T15:17:15.401389",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T15:15:38Z",
   "number": 74,
-  "state": "open",
-  "updated_at": "2026-09-24T04:38:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T15:15:38Z"
 }

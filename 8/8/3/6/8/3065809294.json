@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"ffd7966b13b3992e1525272e93cf3e9b3c731f8b4a2a83831952bec6329e15cd\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"15976937afcace2872883f825c5351f7e4e5eaa8668d6bd7238536f8f94551eb\"",
+  "Last-Modified": "Mon, 19 Oct 2026 06:00:18 GMT",
   "base": {
     "repo": {
       "name": "apache-flink-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T06:00:18Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-12-03T03:48:58Z",
   "draft": false,
   "e_tag": "\"e34d3fd05dfd152bb590d5b2b33d1d14eafc1528695ef99e18818e8103617489\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/apache-flink-feedstock/pull/14",
   "id": 3065809294,
   "labels": [],
-  "last_fetched": "2026-10-11T23:24:50.781585",
+  "last_fetched": "2026-10-19T06:01:26.750447",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 14,
-  "state": "open",
-  "updated_at": "2025-12-03T03:50:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T06:00:18Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"a69e00072e6ba688f974719e6350cb5a016b37074ceac45e1f266db93354219e\"",
-  "Last-Modified": "Sun, 18 Oct 2026 16:31:11 GMT",
+  "ETag": "\"677c81146139a23216cedf5c45fd54ae5873bee36c9d52dfa99c839d7728757f\"",
+  "Last-Modified": "Mon, 19 Oct 2026 15:20:54 GMT",
   "base": {
     "repo": {
       "name": "jq.py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T15:20:54Z",
   "closed_by": null,
   "created_at": "2026-10-18T16:29:36Z",
   "draft": false,
   "e_tag": "\"decdb48ccbff642f26f556c69874f36e99e7f8e03da32a81177750813c7c1365\"",
   "head": {
-    "ref": "1.13.0_ha34ec4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jq.py-feedstock/pull/7",
   "id": 4910794924,
   "labels": [],
-  "last_fetched": "2026-10-18T17:44:30.484766",
+  "last_fetched": "2026-10-19T15:23:09.165590",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T15:20:54Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-18T16:31:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T15:20:54Z"
 }

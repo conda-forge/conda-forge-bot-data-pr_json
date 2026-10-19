@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"cfd3e6e9af731ebc01224d90530ea55e5671dc0e401049e9e71fa08f7fa96e49\"",
+  "Last-Modified": "Mon, 19 Oct 2026 17:56:49 GMT",
   "base": {
     "repo": {
       "name": "bokeh_sampledata-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T17:56:49Z",
   "closed_by": null,
   "created_at": "2026-10-19T17:13:35Z",
   "draft": false,
   "e_tag": "\"eb3b6e6c9e00f11baafbd8ba0e37af2feadc40a83b1b174ffdb3acdaeac9875a\"",
   "head": {
-    "ref": "2026.0_h1c5c8e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bokeh_sampledata-feedstock/pull/3",
   "id": 4924622549,
   "labels": [],
-  "last_fetched": "2026-10-19T17:13:37.029518",
+  "last_fetched": "2026-10-19T17:58:12.526213",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T17:56:49Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-19T17:13:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T17:56:49Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"1d971d5ddb363fe0348a76329a23b48fffee5b4b2be11e82aaf768282d0d49c5\"",
-  "Last-Modified": "Sat, 19 Sep 2026 20:31:18 GMT",
+  "ETag": "W/\"cb98e9a5a5172714e7bfd66d36bca0fb151a448b4495149ed78a7afe95dca931\"",
+  "Last-Modified": "Mon, 19 Oct 2026 06:51:25 GMT",
   "base": {
     "repo": {
       "name": "mupdf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T06:51:25Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-19T20:29:41Z",
   "draft": false,
   "e_tag": "\"2319dab8ac0c5afbe7c06a7523dffa4d0270bc073ff25ffdc50597b5e04aaa7e\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/mupdf-feedstock/pull/105",
   "id": 4580375216,
   "labels": [],
-  "last_fetched": "2026-10-12T05:03:19.330062",
+  "last_fetched": "2026-10-19T06:52:34.116343",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 105,
-  "state": "open",
-  "updated_at": "2026-09-19T20:31:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T06:51:25Z"
 }

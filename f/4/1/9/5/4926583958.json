@@ -1,27 +1,41 @@
 {
+  "ETag": "\"6d76fe335781dee81d4db5c6889e5c27bd0fd097100ad5a1e2596908cc35bb45\"",
+  "Last-Modified": "Mon, 19 Oct 2026 20:38:26 GMT",
   "base": {
     "repo": {
       "name": "ycleptic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T20:38:22Z",
   "closed_by": null,
   "created_at": "2026-10-19T19:56:05Z",
   "draft": false,
   "e_tag": "\"cab990303bce9f1910bdcce420ac3bd58b7d257139016c1ea5dc2dbee972afd6\"",
   "head": {
-    "ref": "2.5.0_h8db661"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ycleptic-feedstock/pull/1",
   "id": 4926583958,
-  "labels": [],
-  "last_fetched": "2026-10-19T19:56:06.499073",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12584189189,
+      "name": "automerge",
+      "node_id": "LA_kwDOU_vLC88AAAAC7hN9BQ",
+      "url": "https://api.github.com/repos/conda-forge/ycleptic-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-19T20:38:56.488097",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-19T20:38:22Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-19T19:56:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T20:38:26Z"
 }

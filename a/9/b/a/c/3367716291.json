@@ -1,5 +1,5 @@
 {
-  "ETag": "\"3430724ce7bc16e0ae63657e2d784ea0097f4e86ffed23954dd8d83b4072ead6\"",
+  "ETag": "W/\"a582c61d361926989b79ed8e74a56e66456d6a802ef23577df869cbcc2b0a29f\"",
   "Last-Modified": "Mon, 19 Oct 2026 21:46:32 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyresample-feedstock/pull/110",
   "id": 3367716291,
-  "labels": [],
-  "last_fetched": "2026-10-19T21:48:10.219799",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-19T21:46:35.466179",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

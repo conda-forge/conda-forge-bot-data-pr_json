@@ -1,18 +1,18 @@
 {
-  "ETag": "\"50f7cfa781b6595dbe9dfd7987356d634a0c25e685e0014e9672f9846a4ee029\"",
-  "Last-Modified": "Mon, 19 Oct 2026 10:47:50 GMT",
+  "ETag": "\"4d4fedb3363b875fe026c32cfdc310037f93e9cf008f4e23b485fe9f51f7f977\"",
+  "Last-Modified": "Mon, 19 Oct 2026 10:51:05 GMT",
   "base": {
     "repo": {
       "name": "apsw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-19T10:51:00Z",
   "closed_by": null,
   "created_at": "2026-10-19T03:07:45Z",
   "draft": false,
   "e_tag": "\"bd29a8ea2dde7a06a65864833e5ea9344a335c6ce0a00f447e5501f3f2473860\"",
   "head": {
-    "ref": "3.54.1.0_h97d96c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apsw-feedstock/pull/89",
   "id": 4915232954,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/apsw-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-19T10:49:03.597065",
+  "last_fetched": "2026-10-19T10:52:39.146943",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-19T10:51:00Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-10-19T10:47:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-19T10:51:05Z"
 }

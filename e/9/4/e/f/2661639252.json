@@ -1,5 +1,5 @@
 {
-  "ETag": "\"ad2b20933ce28bc18f2fc2bc5bed02c3f20507d6cf1d3dc05c5a935186e1e7ec\"",
+  "ETag": "W/\"427b9b60a77b9fc2a0a2115207f54441e478e74c1a27af5a6ed56ebbc5602738\"",
   "Last-Modified": "Tue, 20 Oct 2026 09:29:15 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/apache-flink-feedstock/pull/11",
   "id": 2661639252,
-  "labels": [],
-  "last_fetched": "2026-10-20T09:30:49.191330",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-20T09:29:18.356657",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

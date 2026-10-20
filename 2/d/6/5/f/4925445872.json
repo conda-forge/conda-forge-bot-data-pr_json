@@ -1,6 +1,6 @@
 {
-  "ETag": "\"7d317d95761723c2a008ac17de66eb46945f3546693f8eb292aa28e199bc56db\"",
-  "Last-Modified": "Mon, 19 Oct 2026 18:23:44 GMT",
+  "ETag": "\"cdce6a0192638bce4578c35cffb9ac7e0c587f69638a1878b8fe86a497ceafa0\"",
+  "Last-Modified": "Tue, 20 Oct 2026 02:17:34 GMT",
   "base": {
     "repo": {
       "name": "simple-binary-encoding-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/simple-binary-encoding-feedstock/pull/22",
   "id": 4925445872,
-  "labels": [],
-  "last_fetched": "2026-10-19T22:46:44.307347",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7845081570,
+      "name": "automerge",
+      "node_id": "LA_kwDONZi1vc8AAAAB05px4g",
+      "url": "https://api.github.com/repos/conda-forge/simple-binary-encoding-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T02:18:16.907391",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 22,
   "state": "open",
-  "updated_at": "2026-10-19T18:23:44Z"
+  "updated_at": "2026-10-20T02:17:34Z"
 }

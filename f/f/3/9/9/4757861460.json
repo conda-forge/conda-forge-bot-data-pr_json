@@ -1,5 +1,5 @@
 {
-  "ETag": "\"5fc2195d5ace53dfdfff6a3cf4f57094cd2988d07fc485c88a8cb9ad84790b75\"",
+  "ETag": "W/\"864866c0c7ea6201dcac4efc079a20679e095016576c63450e98570efa6ba92d\"",
   "Last-Modified": "Tue, 20 Oct 2026 22:36:22 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyddx-feedstock/pull/37",
   "id": 4757861460,
-  "labels": [],
-  "last_fetched": "2026-10-20T22:37:54.282803",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-20T22:36:25.427502",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

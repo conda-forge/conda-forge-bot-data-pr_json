@@ -1,27 +1,29 @@
 {
+  "ETag": "\"aec986e4c49c07293d6269df804a39817c584e853aee3a82321245d146a7fa78\"",
+  "Last-Modified": "Tue, 20 Oct 2026 21:31:40 GMT",
   "base": {
     "repo": {
       "name": "python-bidi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T21:31:35Z",
   "closed_by": null,
   "created_at": "2026-10-20T21:17:40Z",
   "draft": false,
   "e_tag": "\"de17cbaf74bec6a032f4b3a8e5ee5c47e1103ec14fbd7e89717c54e676f913db\"",
   "head": {
-    "ref": "0.6.12_h1fa25e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-bidi-feedstock/pull/29",
   "id": 4942623053,
   "labels": [],
-  "last_fetched": "2026-10-20T21:17:40.930115",
+  "last_fetched": "2026-10-20T21:33:12.598620",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T21:31:35Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-20T21:17:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T21:31:40Z"
 }

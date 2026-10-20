@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"1354f9de411733ff9d59a094b8371e53d6b99722807c2b9ac0921d3db9667c24\"",
-  "Last-Modified": "Fri, 16 Oct 2026 16:22:16 GMT",
+  "ETag": "\"149face5da2111fad8ba6465872240dc372c673067c576147b6330ae9ece12db\"",
+  "Last-Modified": "Tue, 20 Oct 2026 20:52:20 GMT",
   "base": {
     "repo": {
       "name": "pymatsolver-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T20:52:20Z",
   "closed_by": null,
   "created_at": "2026-10-16T16:17:49Z",
   "draft": false,
   "e_tag": "\"e7b7b465e8b2fe2f3aef779845168bdc6fe0be11b27595578d7373fdec8b496d\"",
   "head": {
-    "ref": "0.5.0_hbaa21b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pymatsolver-feedstock/pull/15",
   "id": 4891158357,
   "labels": [],
-  "last_fetched": "2026-10-16T21:21:51.785944",
+  "last_fetched": "2026-10-20T20:53:53.462349",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T20:52:20Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-16T16:22:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T20:52:20Z"
 }

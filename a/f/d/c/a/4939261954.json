@@ -1,29 +1,29 @@
 {
-  "ETag": "\"570ad0463048aaf69f7af99095cd08ff318750164feec5317b6af9afb8854859\"",
-  "Last-Modified": "Tue, 20 Oct 2026 17:04:01 GMT",
+  "ETag": "\"03404fda60f8af2d935cf1a843ae5add7fc657a63aa08a4ce55d5514e62c24a2\"",
+  "Last-Modified": "Tue, 20 Oct 2026 19:03:44 GMT",
   "base": {
     "repo": {
       "name": "ducc0-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T19:03:44Z",
   "closed_by": null,
   "created_at": "2026-10-20T16:52:08Z",
   "draft": false,
   "e_tag": "\"23f978fc265f399ed851a8b34142d5f240963c3a7347c3acc86945ca0429aebc\"",
   "head": {
-    "ref": "0.42.0_h9faeb1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ducc0-feedstock/pull/71",
   "id": 4939261954,
   "labels": [],
-  "last_fetched": "2026-10-20T18:51:52.399957",
+  "last_fetched": "2026-10-20T19:05:22.892995",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T19:03:44Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-10-20T17:04:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T19:03:44Z"
 }

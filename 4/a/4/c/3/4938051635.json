@@ -1,6 +1,6 @@
 {
-  "ETag": "\"99f92cc964676c612fa871d328b0c87959d3e2b0c4068dc4c2407cfa03ad81d1\"",
-  "Last-Modified": "Tue, 20 Oct 2026 15:25:01 GMT",
+  "ETag": "\"cae512e8d00a044f6317bae981eeb3bf474fa7f71032c69b5985e1e904bf5d12\"",
+  "Last-Modified": "Tue, 20 Oct 2026 19:58:49 GMT",
   "base": {
     "repo": {
       "name": "ffmpeg-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/ffmpeg-feedstock/pull/415",
   "id": 4938051635,
-  "labels": [],
-  "last_fetched": "2026-10-20T15:26:13.691435",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890876355,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODc2MzU1",
+      "url": "https://api.github.com/repos/conda-forge/ffmpeg-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T19:59:19.013840",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 415,
   "state": "open",
-  "updated_at": "2026-10-20T15:25:01Z"
+  "updated_at": "2026-10-20T19:58:49Z"
 }

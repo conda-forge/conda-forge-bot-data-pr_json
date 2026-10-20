@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"0fd1bfbd5dafd505df25e9d1530990aee4ec70952607638db16e218fb4edc5e6\"",
-  "Last-Modified": "Fri, 09 Oct 2026 04:08:03 GMT",
+  "ETag": "\"12f93611098ef72c5c767ecdd0c921089a3fddc5f66a31bb1ede060785653220\"",
+  "Last-Modified": "Tue, 20 Oct 2026 20:07:33 GMT",
   "base": {
     "repo": {
       "name": "go-compiler-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/go-compiler-feedstock/pull/10",
   "id": 4795838074,
-  "labels": [],
-  "last_fetched": "2026-10-16T15:36:00.991537",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11740841121,
+      "name": "automerge",
+      "node_id": "LA_kwDOTu_NJc8AAAACu88EoQ",
+      "url": "https://api.github.com/repos/conda-forge/go-compiler-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T20:09:24.337466",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 10,
   "state": "open",
-  "updated_at": "2026-10-09T04:08:03Z"
+  "updated_at": "2026-10-20T20:07:33Z"
 }

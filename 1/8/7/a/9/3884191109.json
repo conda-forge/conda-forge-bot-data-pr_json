@@ -1,5 +1,5 @@
 {
-  "ETag": "\"9f894db6c5ae214d0aecd583eccb6d28c0ba4e61e816327846dc89340491c075\"",
+  "ETag": "W/\"a0c9b735621f4f07b3cf34bcf753f02aaee6dad1be91b312a87a5de72625f329\"",
   "Last-Modified": "Tue, 20 Oct 2026 11:59:32 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/numpy-stl-feedstock/pull/54",
   "id": 3884191109,
-  "labels": [],
-  "last_fetched": "2026-10-20T12:01:04.666136",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-20T11:59:35.152091",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

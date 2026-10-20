@@ -1,29 +1,29 @@
 {
-  "ETag": "\"41a8582d757e5b22360306e0e4aa5fbaa1b88bfad13397845e56b7c8828250eb\"",
-  "Last-Modified": "Mon, 19 Oct 2026 21:40:11 GMT",
+  "ETag": "\"9a0b28a4a75ded25cd2390a7a9fd2b721c222ae0891c506a25c096c01049ab70\"",
+  "Last-Modified": "Tue, 20 Oct 2026 04:41:17 GMT",
   "base": {
     "repo": {
       "name": "mujs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T04:41:17Z",
   "closed_by": null,
   "created_at": "2026-10-19T21:38:39Z",
   "draft": false,
   "e_tag": "\"393e547e6cd3c5fd9cd3ec93f616bbf0dd495be64dbeff3473eaa1f80b06601e\"",
   "head": {
-    "ref": "1.3.11_h68fb6f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mujs-feedstock/pull/9",
   "id": 4927778827,
   "labels": [],
-  "last_fetched": "2026-10-19T23:57:53.320902",
+  "last_fetched": "2026-10-20T04:42:46.658801",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T04:41:17Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-19T21:40:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T04:41:17Z"
 }

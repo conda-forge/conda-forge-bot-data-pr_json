@@ -1,4 +1,6 @@
 {
+  "ETag": "\"9a1993c9820203088bc37f1373bb7198699eae1649bb415e2c8ed323d3f074ec\"",
+  "Last-Modified": "Tue, 20 Oct 2026 23:26:11 GMT",
   "base": {
     "repo": {
       "name": "llvmdev-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/llvmdev-feedstock/pull/397",
   "id": 4943738788,
-  "labels": [],
-  "last_fetched": "2026-10-20T23:03:47.643483",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891014124,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDE0MTI0",
+      "url": "https://api.github.com/repos/conda-forge/llvmdev-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T23:27:41.120558",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 397,
   "state": "open",
-  "updated_at": "2026-10-20T23:03:46Z"
+  "updated_at": "2026-10-20T23:26:11Z"
 }

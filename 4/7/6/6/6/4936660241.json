@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ff04e294fd24672cfca2530bb6835c58823f59dda042263a7879664a3bd485b7\"",
-  "Last-Modified": "Tue, 20 Oct 2026 14:07:36 GMT",
+  "ETag": "\"ddda5f77575d2915e651ad96007902caf0a44bf476296fea2643c04383fd6d0e\"",
+  "Last-Modified": "Tue, 20 Oct 2026 15:20:20 GMT",
   "base": {
     "repo": {
       "name": "social-auth-app-django-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T15:20:20Z",
   "closed_by": null,
   "created_at": "2026-10-20T13:43:20Z",
   "draft": false,
   "e_tag": "\"f7faa976af9c83511500463d9593dd7154de8bdc7679a0f80786e289ddd44d81\"",
   "head": {
-    "ref": "7.2.0_hdbc242"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/social-auth-app-django-feedstock/pull/29",
   "id": 4936660241,
   "labels": [],
-  "last_fetched": "2026-10-20T14:26:25.869429",
+  "last_fetched": "2026-10-20T15:22:03.930696",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T15:20:20Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-20T14:07:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T15:20:20Z"
 }

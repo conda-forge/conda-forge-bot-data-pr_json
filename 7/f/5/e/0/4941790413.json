@@ -1,11 +1,13 @@
 {
+  "ETag": "\"833ebceff4d6e3ef891b89155b3db4c9993cbe922867f3d4e7c5c7f336084511\"",
+  "Last-Modified": "Tue, 20 Oct 2026 20:35:16 GMT",
   "base": {
     "repo": {
       "name": "discretize-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-20T20:35:16Z",
+  "closed_by": "jcapriot",
   "created_at": "2026-10-20T20:08:43Z",
   "draft": false,
   "e_tag": "\"04fbe834bad7bcaa6dd69fbb00ca697d54298427c4b40ac6b0ee872c157876c7\"",
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/discretize-feedstock/pull/60",
   "id": 4941790413,
   "labels": [],
-  "last_fetched": "2026-10-20T20:08:44.582504",
+  "last_fetched": "2026-10-20T20:37:07.624473",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-20T20:08:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T20:35:16Z"
 }

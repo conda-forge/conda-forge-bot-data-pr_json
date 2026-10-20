@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"f8c493559c7075da9c3337dc3fc75e5ad940e8acc3be64be0c69f458b425eaf3\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"888f73ba1c59c1e60a4216881b7f972c7f9469a744d3a2e2cafc816fb9659a44\"",
+  "Last-Modified": "Tue, 20 Oct 2026 10:24:38 GMT",
   "base": {
     "repo": {
       "name": "acts-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T10:24:38Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-05-20T01:22:34Z",
   "draft": false,
   "e_tag": "\"cee02f067839f8d65419f4d7322189d1a7bdbaa2656764330983ad68e908df85\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/acts-feedstock/pull/27",
   "id": 3713114061,
-  "labels": [],
-  "last_fetched": "2026-10-13T05:53:48.194530",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-20T10:24:40.510682",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-05-20T01:24:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T10:24:38Z"
 }

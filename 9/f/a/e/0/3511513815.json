@@ -1,5 +1,5 @@
 {
-  "ETag": "\"41274ed5ecb81aed770e8dc7905db10102b6943f759fd36b6d1b821440bbff2c\"",
+  "ETag": "W/\"c32e89e6c1e8ad3450d6c54ff4727defa43856811c6d5b2c207645aa5e48f4b9\"",
   "Last-Modified": "Tue, 20 Oct 2026 11:23:09 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pymdi-feedstock/pull/93",
   "id": 3511513815,
-  "labels": [],
-  "last_fetched": "2026-10-20T11:24:44.270071",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-20T11:23:11.826601",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

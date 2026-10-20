@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e81215248ff055e87d91812f1acbdd2017cc060413db01f3b830b8942263bd0d\"",
-  "Last-Modified": "Mon, 19 Oct 2026 11:18:28 GMT",
+  "ETag": "\"606ed45deb131b77cbfb86dbfe1db2d412854ec76c6bc1eb23186ecb1e89c0cf\"",
+  "Last-Modified": "Tue, 20 Oct 2026 14:07:17 GMT",
   "base": {
     "repo": {
       "name": "gdstk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T14:07:16Z",
   "closed_by": null,
   "created_at": "2026-10-19T11:12:45Z",
   "draft": false,
   "e_tag": "\"66f2ad75c6ec4183748a43bb852d1f57fc8b06f09477ef5835b6906d8fbb5cdf\"",
   "head": {
-    "ref": "1.0.2_he44f65"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gdstk-feedstock/pull/75",
   "id": 4920025925,
   "labels": [],
-  "last_fetched": "2026-10-19T14:27:57.835627",
+  "last_fetched": "2026-10-20T14:08:31.927854",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T14:07:16Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-19T11:18:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T14:07:17Z"
 }

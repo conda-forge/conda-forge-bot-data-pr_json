@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"a62e7a7ab72a293f1ad4f4c16e6552eb23527d408b3995ee576069f38e64247e\"",
-  "Last-Modified": "Mon, 19 Oct 2026 19:12:42 GMT",
+  "ETag": "\"e2eaf91b877c123f29e8ad03cf15402866e63b93ad7098f67d7a13ebbe884361\"",
+  "Last-Modified": "Tue, 20 Oct 2026 01:40:55 GMT",
   "base": {
     "repo": {
       "name": "mbirtorch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T01:40:54Z",
   "closed_by": null,
   "created_at": "2026-10-19T19:11:01Z",
   "draft": false,
   "e_tag": "\"61157dcd99cd27debac8e21510df8c36c6d2125231c0c2dee5a90a3c61239ab4\"",
   "head": {
-    "ref": "0.2.0_h782440"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mbirtorch-feedstock/pull/3",
   "id": 4926037943,
   "labels": [],
-  "last_fetched": "2026-10-19T23:24:52.365163",
+  "last_fetched": "2026-10-20T01:42:29.518030",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T01:40:54Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-19T19:12:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T01:40:55Z"
 }

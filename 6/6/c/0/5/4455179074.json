@@ -1,5 +1,5 @@
 {
-  "ETag": "\"1d21ea77629d66cd08e29169b6dd7fb31a0dc4f55f40faf1a28dd539e4885dde\"",
+  "ETag": "W/\"6b0a3d86874674b6715e3699a1fe50940edce3a00c8e418e9e7df2ff9b9264b6\"",
   "Last-Modified": "Tue, 20 Oct 2026 02:54:14 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/indexed_zstd-feedstock/pull/12",
   "id": 4455179074,
-  "labels": [],
-  "last_fetched": "2026-10-20T02:56:00.836041",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-20T02:54:17.385978",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

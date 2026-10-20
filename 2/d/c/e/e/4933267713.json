@@ -1,27 +1,29 @@
 {
+  "ETag": "\"11344d3c0895fc21bb801a7c7536500ac052213a7af4dcd23d9c548c29a429cf\"",
+  "Last-Modified": "Tue, 20 Oct 2026 10:37:01 GMT",
   "base": {
     "repo": {
       "name": "doiggie-dataverse-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T10:37:01Z",
   "closed_by": null,
   "created_at": "2026-10-20T08:43:08Z",
   "draft": false,
   "e_tag": "\"b4bc3cf35d090919b228a61a80a36acd9fe1e8aa97f323096013913f7f4b969b\"",
   "head": {
-    "ref": "0.2.0_h3797c6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/doiggie-dataverse-feedstock/pull/1",
   "id": 4933267713,
   "labels": [],
-  "last_fetched": "2026-10-20T08:43:09.631096",
+  "last_fetched": "2026-10-20T10:38:30.244927",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T10:37:01Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-20T08:43:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T10:37:01Z"
 }

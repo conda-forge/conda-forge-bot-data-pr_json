@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"81326bb6bb980c75134e9d188bf70d5853fce25312bf17a45b004ae61f55edf3\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"6eda95fb0073c85f28d267a907b3c0a257350a65b3cea0350619f85e552e6800\"",
+  "Last-Modified": "Tue, 20 Oct 2026 20:49:13 GMT",
   "base": {
     "repo": {
       "name": "causalml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T20:49:13Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-02-12T18:00:12Z",
   "draft": false,
   "e_tag": "\"dc469261dd96e183ed326526a6bc1b0622f5e858bf905d920cb23363f207ff4d\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/causalml-feedstock/pull/25",
   "id": 3277450621,
   "labels": [],
-  "last_fetched": "2026-10-13T17:03:28.113099",
+  "last_fetched": "2026-10-20T20:51:00.584331",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-02-12T18:02:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T20:49:13Z"
 }

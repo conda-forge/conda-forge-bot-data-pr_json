@@ -1,18 +1,18 @@
 {
-  "ETag": "\"4f8e7d700d1528b8203e55fd561c174adf3851b9e7522d53583ca397addbc60a\"",
-  "Last-Modified": "Tue, 20 Oct 2026 14:56:34 GMT",
+  "ETag": "\"5d70c4b1dcd0aae9d89fa002bee9154be42f6e5814d1f2db50c54eef524dabae\"",
+  "Last-Modified": "Tue, 20 Oct 2026 22:45:56 GMT",
   "base": {
     "repo": {
       "name": "dartsim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T22:45:53Z",
   "closed_by": null,
   "created_at": "2026-10-20T02:33:24Z",
   "draft": false,
   "e_tag": "\"c29ba552862ebd917a9b6b960fe192b7948105cbe6cc4affe57fae37331e58c3\"",
   "head": {
-    "ref": "6.20.2_h47fe43"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dartsim-feedstock/pull/183",
   "id": 4930169755,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/dartsim-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-20T14:57:47.590208",
+  "last_fetched": "2026-10-20T22:47:32.630189",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T22:45:53Z",
   "number": 183,
-  "state": "open",
-  "updated_at": "2026-10-20T14:56:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T22:45:56Z"
 }

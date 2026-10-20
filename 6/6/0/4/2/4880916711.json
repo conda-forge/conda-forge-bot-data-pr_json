@@ -1,29 +1,41 @@
 {
-  "ETag": "W/\"23de6ffffea4be057afd091ec30d229aeb28afad12c744084c65e54317acc21e\"",
-  "Last-Modified": "Thu, 15 Oct 2026 22:58:11 GMT",
+  "ETag": "\"1d63eadf26d1ab60107026ed2c29addc773b53d59170df94cde8bf768270bdd2\"",
+  "Last-Modified": "Tue, 20 Oct 2026 11:46:26 GMT",
   "base": {
     "repo": {
       "name": "alembic-postgresql-enum-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T11:46:21Z",
   "closed_by": null,
   "created_at": "2026-10-15T22:56:44Z",
   "draft": false,
   "e_tag": "\"b185274bec8311f6f9a06c688fbc43ad30f9e0e33032fd70c9106a3fac1ba40c\"",
   "head": {
-    "ref": "1.11.0_h7da7b9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/alembic-postgresql-enum-feedstock/pull/1",
   "id": 4880916711,
-  "labels": [],
-  "last_fetched": "2026-10-16T01:13:37.862100",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10283238820,
+      "name": "automerge",
+      "node_id": "LA_kwDORYBlM88AAAACZO3FpA",
+      "url": "https://api.github.com/repos/conda-forge/alembic-postgresql-enum-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T11:47:03.750654",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T11:46:21Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-15T22:58:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T11:46:26Z"
 }

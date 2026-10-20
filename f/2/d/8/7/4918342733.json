@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d10ff9813da0a62f91ff6d4af89ba12d2fc35f8d275658b842e6154cafec1a96\"",
-  "Last-Modified": "Mon, 19 Oct 2026 08:53:52 GMT",
+  "ETag": "\"286455cb2d330543dca0ef53d9ad78bd2a5468a2eb2764b4d97eb93211464dc7\"",
+  "Last-Modified": "Tue, 20 Oct 2026 04:57:29 GMT",
   "base": {
     "repo": {
       "name": "libsais-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T04:57:29Z",
   "closed_by": null,
   "created_at": "2026-10-19T08:52:13Z",
   "draft": false,
   "e_tag": "\"943da277cb4dfaf79470ba5f44f77a3a770047d6bec1fdec95936a296d4e900d\"",
   "head": {
-    "ref": "2.12.0_h1dfcff"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libsais-feedstock/pull/2",
   "id": 4918342733,
   "labels": [],
-  "last_fetched": "2026-10-19T12:38:52.453873",
+  "last_fetched": "2026-10-20T04:59:06.883903",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T04:57:29Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-19T08:53:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T04:57:29Z"
 }

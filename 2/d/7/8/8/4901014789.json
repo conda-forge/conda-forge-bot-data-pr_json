@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"fcab4c60a544bc5d1be6745cdb2e7b3d032126a47a0ffcf7ad3e4166292d12be\"",
-  "Last-Modified": "Sat, 17 Oct 2026 14:46:36 GMT",
+  "ETag": "W/\"11b2c2ababd385390a384ace19ee95351cf30215e4fc2c08c42916637cc8fae5\"",
+  "Last-Modified": "Tue, 20 Oct 2026 20:06:06 GMT",
   "base": {
     "repo": {
       "name": "libnvshmem-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T20:06:05Z",
   "closed_by": null,
   "created_at": "2026-10-17T14:45:05Z",
   "draft": false,
   "e_tag": "\"9b581ea56c7e81b0ad2d9ad652dc3b8d1eb3257e32fd8a0564a4d35550a41d1e\"",
   "head": {
-    "ref": "rebuild-libhwloc2150-0-1_h6a330c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libnvshmem-feedstock/pull/44",
   "id": 4901014789,
   "labels": [],
-  "last_fetched": "2026-10-17T16:36:46.826480",
+  "last_fetched": "2026-10-20T20:07:19.623030",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T20:06:05Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-17T14:46:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T20:06:06Z"
 }

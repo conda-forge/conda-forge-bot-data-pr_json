@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"81f07abfa1f10201b9fcaa93b24f52d0af88e8cdf9aebabc9c4881f9c1ad0d63\"",
-  "Last-Modified": "Fri, 09 Oct 2026 20:46:00 GMT",
+  "ETag": "\"309391729f38e9e6e9231fe253e0781cdf866856aea1a131c5a2a4e11bbe04f8\"",
+  "Last-Modified": "Tue, 20 Oct 2026 09:41:37 GMT",
   "base": {
     "repo": {
       "name": "diracx-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/diracx-feedstock/pull/18",
   "id": 4805660083,
-  "labels": [],
-  "last_fetched": "2026-10-16T21:59:27.313571",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9769307168,
+      "name": "automerge",
+      "node_id": "LA_kwDOQief588AAAACRkvMIA",
+      "url": "https://api.github.com/repos/conda-forge/diracx-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T09:43:07.391425",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-10-09T20:46:00Z"
+  "updated_at": "2026-10-20T09:41:37Z"
 }

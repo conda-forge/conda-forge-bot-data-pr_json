@@ -1,29 +1,29 @@
 {
-  "ETag": "\"073c9b7cbd00f68f30fa0bb213b2fb21f6077c55ef1066ee0dc181c9f866dab5\"",
-  "Last-Modified": "Mon, 19 Oct 2026 23:55:53 GMT",
+  "ETag": "\"d8f746d37b56650aa16fac4482e575e149010d1d5eb600abc0e5fc4208417c17\"",
+  "Last-Modified": "Tue, 20 Oct 2026 01:01:18 GMT",
   "base": {
     "repo": {
       "name": "pycuampcor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T01:01:18Z",
   "closed_by": null,
   "created_at": "2026-10-19T23:16:58Z",
   "draft": false,
   "e_tag": "\"a6dda582efdec56b5653f9b843e66c6427d39c7dc4f53f8cf909f93e59b47c4a\"",
   "head": {
-    "ref": "rebuild-hdf52-0-1_h03031b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pycuampcor-feedstock/pull/2",
   "id": 4928682626,
   "labels": [],
-  "last_fetched": "2026-10-19T23:59:08.791342",
+  "last_fetched": "2026-10-20T01:02:52.592928",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T01:01:18Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-19T23:55:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T01:01:18Z"
 }

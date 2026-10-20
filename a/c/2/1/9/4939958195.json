@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f3eec9e2771cbee967e7463bbf2df8faf2c373a295aee50d72ebf5f1d716199b\"",
+  "Last-Modified": "Tue, 20 Oct 2026 17:52:09 GMT",
   "base": {
     "repo": {
       "name": "spicetify-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T17:52:06Z",
   "closed_by": null,
   "created_at": "2026-10-20T17:47:11Z",
   "draft": false,
   "e_tag": "\"40b9af566b31e7a96606fd43e1ff674b84d756ae181be9c47b329aa854a2971c\"",
   "head": {
-    "ref": "2.46.0_hb74226"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spicetify-cli-feedstock/pull/48",
   "id": 4939958195,
   "labels": [],
-  "last_fetched": "2026-10-20T17:47:12.177129",
+  "last_fetched": "2026-10-20T17:53:49.774555",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T17:52:06Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-20T17:47:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T17:52:09Z"
 }

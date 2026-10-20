@@ -1,29 +1,29 @@
 {
-  "ETag": "\"482a888cdf9821f222fc5518abaeff14f3dece8e781124afa5a39eb83f724fb2\"",
-  "Last-Modified": "Tue, 20 Oct 2026 10:17:59 GMT",
+  "ETag": "W/\"050c835217e787894f7020f357789a248333845bada17bf053c57f1316c11c5c\"",
+  "Last-Modified": "Tue, 20 Oct 2026 15:53:45 GMT",
   "base": {
     "repo": {
       "name": "tango-keystore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T15:53:45Z",
   "closed_by": null,
   "created_at": "2026-10-20T10:16:20Z",
   "draft": false,
   "e_tag": "\"43cb7f0de974269778c56fffce226d061637c75965054424c8ba659cf94334e7\"",
   "head": {
-    "ref": "1.0.0_hdaec4e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tango-keystore-feedstock/pull/1",
   "id": 4934305333,
   "labels": [],
-  "last_fetched": "2026-10-20T10:51:05.694560",
+  "last_fetched": "2026-10-20T15:55:00.104008",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T15:53:45Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-20T10:17:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T15:53:45Z"
 }

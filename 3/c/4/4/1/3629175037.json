@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"43bdb4741ba21de5fb2d4095f9c95281af1f2d8eae1c5ee5d5db9e419cdf727d\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"5c7f66c2baa3f8b071578dd49c992d12d178c65fac6127ec9a1edad31177aa09\"",
+  "Last-Modified": "Tue, 20 Oct 2026 15:06:40 GMT",
   "base": {
     "repo": {
       "name": "hunspell-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T15:06:40Z",
   "created_at": "2026-05-05T08:18:24Z",
   "draft": false,
   "e_tag": "\"d55325282c24a5b23d283900a3163ae618bba64b1bbedc05c5b41944b5475a04\"",
   "head": {
-    "ref": "1.7.3_h2c035c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hunspell-feedstock/pull/14",
   "id": 3629175037,
   "labels": [],
-  "last_fetched": "2026-10-16T16:47:42.805982",
+  "last_fetched": "2026-10-20T15:07:53.039557",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T15:06:40Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-05-05T08:20:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T15:06:40Z"
 }

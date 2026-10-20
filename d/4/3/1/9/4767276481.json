@@ -1,6 +1,6 @@
 {
-  "ETag": "\"1881f5c418b9866f52cad05c7f2af0ca3fa586611d79a3616c3ee003d428bfce\"",
-  "Last-Modified": "Mon, 19 Oct 2026 13:22:00 GMT",
+  "ETag": "\"34de1b386ed0932861e7e07a18bd8738f994c5a965bcdf737246667eb1ca920f\"",
+  "Last-Modified": "Tue, 20 Oct 2026 12:38:12 GMT",
   "base": {
     "repo": {
       "name": "asyncpg-stubs-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/asyncpg-stubs-feedstock/pull/10",
   "id": 4767276481,
-  "labels": [],
-  "last_fetched": "2026-10-19T15:26:13.271165",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7186578925,
+      "name": "automerge",
+      "node_id": "LA_kwDOMUbcCs8AAAABrFp97Q",
+      "url": "https://api.github.com/repos/conda-forge/asyncpg-stubs-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T12:39:50.468168",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 10,
   "state": "open",
-  "updated_at": "2026-10-19T13:22:00Z"
+  "updated_at": "2026-10-20T12:38:12Z"
 }

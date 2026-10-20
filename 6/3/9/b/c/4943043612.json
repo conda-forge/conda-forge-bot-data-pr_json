@@ -1,18 +1,18 @@
 {
-  "ETag": "\"34c20e4f0650640838806e465eb0c556bf3147dab30cfc2e22ff551e938f0b3f\"",
-  "Last-Modified": "Tue, 20 Oct 2026 22:40:46 GMT",
+  "ETag": "\"4f7970a820a407c08d8cc15b8010534c787916b59cf33cfc4ee8a614fc622611\"",
+  "Last-Modified": "Tue, 20 Oct 2026 23:05:31 GMT",
   "base": {
     "repo": {
       "name": "opencv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T23:05:27Z",
   "closed_by": null,
   "created_at": "2026-10-20T21:56:12Z",
   "draft": false,
   "e_tag": "\"79f26aa08bea6668e03ee2eb38006152f027848d6bc34529018fbfde678bc2a7\"",
   "head": {
-    "ref": "rebuild-libopenvino202641-0-1_hcaa6ff"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opencv-feedstock/pull/562",
   "id": 4943043612,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/opencv-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-20T22:42:25.359829",
+  "last_fetched": "2026-10-20T23:07:06.834282",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T23:05:27Z",
   "number": 562,
-  "state": "open",
-  "updated_at": "2026-10-20T22:40:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T23:05:31Z"
 }

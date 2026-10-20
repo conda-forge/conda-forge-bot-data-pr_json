@@ -1,27 +1,29 @@
 {
+  "ETag": "\"23d5321b2df89c03d600c211236ef90dd53d0be790fe38d9a391ec13ee8393d4\"",
+  "Last-Modified": "Tue, 20 Oct 2026 12:39:26 GMT",
   "base": {
     "repo": {
       "name": "all-smi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T12:39:22Z",
   "closed_by": null,
   "created_at": "2026-10-20T12:21:49Z",
   "draft": false,
   "e_tag": "\"7cb85007428d2a9a211a5dd7b4cc58005b43111b1721e8bd8bebff57a1c3f867\"",
   "head": {
-    "ref": "0.28.1_h7fccaa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/all-smi-feedstock/pull/7",
   "id": 4935638862,
   "labels": [],
-  "last_fetched": "2026-10-20T12:21:50.306006",
+  "last_fetched": "2026-10-20T12:40:57.857203",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T12:39:22Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-20T12:21:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T12:39:26Z"
 }

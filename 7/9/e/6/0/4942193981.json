@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8fdcc5b659d5790e2523b76a86476f44066141d2d883a0cf55b86648feea54d2\"",
-  "Last-Modified": "Tue, 20 Oct 2026 20:40:26 GMT",
+  "ETag": "\"c79549f9f3ba4ec0f1b2b834d40ac3dd732d3cd2fbdb9783d900a5319a5d9ec3\"",
+  "Last-Modified": "Tue, 20 Oct 2026 23:05:55 GMT",
   "base": {
     "repo": {
       "name": "graphed-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T23:05:55Z",
   "closed_by": null,
   "created_at": "2026-10-20T20:40:25Z",
   "draft": false,
   "e_tag": "\"7cdd16d6d2fa9f6be4cb073cdd581add30722df922eb25d29e251867e627668a\"",
   "head": {
-    "ref": "0.0.9_h283acd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/graphed-feedstock/pull/8",
   "id": 4942193981,
   "labels": [],
-  "last_fetched": "2026-10-20T21:59:59.885705",
+  "last_fetched": "2026-10-20T23:07:26.020969",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T23:05:55Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-20T20:42:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T23:05:55Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"167e29c47d5abc1697831df2f2ea83d6224d317b34c816683361976964b45c2a\"",
+  "Last-Modified": "Tue, 20 Oct 2026 19:00:09 GMT",
   "base": {
     "repo": {
       "name": "iotop-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/iotop-feedstock/pull/7",
   "id": 4939397222,
-  "labels": [],
-  "last_fetched": "2026-10-20T17:02:20.849423",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7095239576,
+      "name": "automerge",
+      "node_id": "LA_kwDOMK0Ctc8AAAABpujDmA",
+      "url": "https://api.github.com/repos/conda-forge/iotop-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T19:01:52.999336",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 7,
   "state": "open",
-  "updated_at": "2026-10-20T17:02:19Z"
+  "updated_at": "2026-10-20T19:00:09Z"
 }

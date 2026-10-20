@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1b72a5ff0a3948ad290db344879bedfe50a4e0a2c5fd77c1b97949f00ef563f8\"",
+  "Last-Modified": "Tue, 20 Oct 2026 03:11:07 GMT",
   "base": {
     "repo": {
       "name": "croc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T03:11:07Z",
   "closed_by": null,
   "created_at": "2026-10-20T02:32:09Z",
   "draft": false,
   "e_tag": "\"8d565f3500218cb0124071d8dbe3f8bdc76cb0804cd92a1db016f4bef1a64a49\"",
   "head": {
-    "ref": "11.5.5_h3e692e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/croc-feedstock/pull/50",
   "id": 4930160556,
   "labels": [],
-  "last_fetched": "2026-10-20T02:32:10.194751",
+  "last_fetched": "2026-10-20T03:12:45.441430",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T03:11:07Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-10-20T02:32:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T03:11:07Z"
 }

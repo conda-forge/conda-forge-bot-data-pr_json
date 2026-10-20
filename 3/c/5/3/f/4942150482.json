@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9ef77bf6cc63ff8a2f8624436e971d1f85264d0d949f8d59151e063e7e196d98\"",
-  "Last-Modified": "Tue, 20 Oct 2026 20:38:19 GMT",
+  "ETag": "\"70e6b38a11c8f88aebbbde9a6a5f0d06b13dc0f7fdc1ad73d1395361d5dffbb3\"",
+  "Last-Modified": "Tue, 20 Oct 2026 21:11:16 GMT",
   "base": {
     "repo": {
       "name": "pitchfork-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T21:11:12Z",
   "closed_by": null,
   "created_at": "2026-10-20T20:36:47Z",
   "draft": false,
   "e_tag": "\"c31ba07778b1d23fd70a24e60f748629e3f9f45917964dd02ee5a8baeef1a6c7\"",
   "head": {
-    "ref": "2.32.1_hfe26d5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pitchfork-feedstock/pull/26",
   "id": 4942150482,
   "labels": [],
-  "last_fetched": "2026-10-20T20:59:18.666009",
+  "last_fetched": "2026-10-20T21:12:24.236535",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T21:11:12Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-20T20:38:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T21:11:16Z"
 }

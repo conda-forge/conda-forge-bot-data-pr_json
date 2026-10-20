@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3b2d352312b3f7ef6d83cca9b2c8f9551f8331e8dc1d1f92c55f0195e706f276\"",
-  "Last-Modified": "Tue, 20 Oct 2026 12:08:39 GMT",
+  "ETag": "\"0ea87ca33ba863d9085889090fb43caa958bbe2daefa1c788e6f7cf1963b433d\"",
+  "Last-Modified": "Tue, 20 Oct 2026 16:06:20 GMT",
   "base": {
     "repo": {
       "name": "numba-cuda-mlir-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T16:06:20Z",
   "closed_by": null,
   "created_at": "2026-10-20T10:55:04Z",
   "draft": false,
   "e_tag": "\"d927ade9a980ce7a5be6cbf743abea5a3fc11cf2dd4f7ada4a42e43eac106b91\"",
   "head": {
-    "ref": "0.6.0_h416d34"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/numba-cuda-mlir-feedstock/pull/24",
   "id": 4934705723,
   "labels": [],
-  "last_fetched": "2026-10-20T14:00:14.754748",
+  "last_fetched": "2026-10-20T16:07:27.765885",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T16:06:20Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-20T12:08:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T16:06:20Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"0d5c35a181991fe0ce7397f463a266bd7c023462d1335de8bfdb3dff3dc32f6c\"",
-  "Last-Modified": "Sun, 16 Aug 2026 12:46:40 GMT",
+  "ETag": "\"1d149a0add5e073df3cee0a612c7b75bb5dd698d3454e2544be2fb7b00a5fa61\"",
+  "Last-Modified": "Tue, 20 Oct 2026 16:27:46 GMT",
   "base": {
     "repo": {
       "name": "cern-sso-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T16:27:46Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-16T12:45:07Z",
   "draft": false,
   "e_tag": "\"53c03295969280a17c785ac592202e6cd73f88eeb197ab929fd188b8a205e59f\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/cern-sso-cli-feedstock/pull/10",
   "id": 4290063506,
   "labels": [],
-  "last_fetched": "2026-10-13T13:48:30.258604",
+  "last_fetched": "2026-10-20T16:28:55.067088",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-08-16T12:46:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T16:27:46Z"
 }

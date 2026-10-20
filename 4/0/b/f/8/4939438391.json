@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b43de614a5de7a5baa2f6e7b4da124c8b99a604d13e4a57b8f164863a16e8135\"",
+  "Last-Modified": "Tue, 20 Oct 2026 17:10:20 GMT",
   "base": {
     "repo": {
       "name": "saspy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T17:10:20Z",
   "closed_by": null,
   "created_at": "2026-10-20T17:05:43Z",
   "draft": false,
   "e_tag": "\"f24e36f906d3bea0e819e5ee57de6c82d20ba82b7275dcaaf8b1ee3d6a5f114c\"",
   "head": {
-    "ref": "5.110.0_he360ae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/saspy-feedstock/pull/146",
   "id": 4939438391,
   "labels": [],
-  "last_fetched": "2026-10-20T17:05:44.224019",
+  "last_fetched": "2026-10-20T17:11:33.746218",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T17:10:20Z",
   "number": 146,
-  "state": "open",
-  "updated_at": "2026-10-20T17:05:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T17:10:20Z"
 }

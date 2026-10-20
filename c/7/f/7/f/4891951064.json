@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"1d90681e8ba61579e9db93267e63af770c37a2033dacca73de4f31a11aaa693a\"",
-  "Last-Modified": "Fri, 16 Oct 2026 17:30:50 GMT",
+  "ETag": "\"33e81d8412bb9e55bb6612b2670914e1b6bebb03defe5bc471dedac876a93e26\"",
+  "Last-Modified": "Tue, 20 Oct 2026 02:56:14 GMT",
   "base": {
     "repo": {
       "name": "geoparquet-io-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T02:56:14Z",
   "closed_by": null,
   "created_at": "2026-10-16T17:29:21Z",
   "draft": false,
   "e_tag": "\"5dd1678c55f5e26fa46a5fde927851b1b3148aa010e81683cdc7cf405c6f7dd5\"",
   "head": {
-    "ref": "1.7.0_h6b33dc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geoparquet-io-feedstock/pull/5",
   "id": 4891951064,
   "labels": [],
-  "last_fetched": "2026-10-16T19:59:04.792748",
+  "last_fetched": "2026-10-20T02:57:57.130037",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T02:56:14Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-16T17:30:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T02:56:14Z"
 }

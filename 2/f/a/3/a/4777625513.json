@@ -1,28 +1,28 @@
 {
-  "ETag": "\"d8ec6fabd9d8d8e8064f5e2b12b8ced9babb5794763e120f28660fa1db4a4664\"",
-  "Last-Modified": "Mon, 19 Oct 2026 16:23:47 GMT",
+  "ETag": "\"8fb5d42aedd204eb96248b6df709d5933658def9f9fedd55ab04b0f1bafc8637\"",
+  "Last-Modified": "Tue, 20 Oct 2026 05:22:33 GMT",
   "base": {
     "repo": {
       "name": "nicegui-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T05:22:33Z",
   "created_at": "2026-10-07T19:45:03Z",
   "draft": false,
   "e_tag": "\"2dbe8f680751ca3ddc9e9364cb00dd6affcda8be2f50d0e9fb17e84758c8e3e0\"",
   "head": {
-    "ref": "3.18.0_h64fdf9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nicegui-feedstock/pull/143",
   "id": 4777625513,
   "labels": [],
-  "last_fetched": "2026-10-19T16:25:22.387229",
+  "last_fetched": "2026-10-20T05:24:23.345247",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T05:22:33Z",
   "number": 143,
-  "state": "open",
-  "updated_at": "2026-10-19T16:23:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T05:22:33Z"
 }

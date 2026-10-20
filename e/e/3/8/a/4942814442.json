@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2b9d60ebd2746589dae8f066d92ae388f36e3d63396d798d86594c1dfae16759\"",
+  "Last-Modified": "Tue, 20 Oct 2026 21:41:38 GMT",
   "base": {
     "repo": {
       "name": "granted-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T21:41:35Z",
   "closed_by": null,
   "created_at": "2026-10-20T21:35:06Z",
   "draft": false,
   "e_tag": "\"ddb22155f87a51817ae8b1087eb22343c23d99072041613ba4f57475379d05c3\"",
   "head": {
-    "ref": "0.40.0_ha085bf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/granted-feedstock/pull/7",
   "id": 4942814442,
   "labels": [],
-  "last_fetched": "2026-10-20T21:35:06.889280",
+  "last_fetched": "2026-10-20T21:42:54.086642",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T21:41:34Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-20T21:35:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T21:41:38Z"
 }

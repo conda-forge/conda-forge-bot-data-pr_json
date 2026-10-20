@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2d9fba26192a04200fe821fac7e88b0e566e2a1fd40430f96e0457e85dd13373\"",
-  "Last-Modified": "Sun, 18 Oct 2026 23:29:20 GMT",
+  "ETag": "\"f6fc8d86c6a3325ee509feb6b619c4dba7cc735b97fd62f4aea0ec133f7f1403\"",
+  "Last-Modified": "Tue, 20 Oct 2026 23:29:38 GMT",
   "base": {
     "repo": {
       "name": "pymupdf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T23:29:38Z",
   "closed_by": null,
   "created_at": "2026-10-18T18:57:45Z",
   "draft": false,
   "e_tag": "\"2b9929be51221d7987ddeb3d6da8882c97ceae63ef79c8403ba348918700f0ac\"",
   "head": {
-    "ref": "rebuild-python315-0-1_he0fdf8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pymupdf-feedstock/pull/59",
   "id": 4911889199,
   "labels": [],
-  "last_fetched": "2026-10-19T08:41:27.310418",
+  "last_fetched": "2026-10-20T23:31:13.392047",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T23:29:38Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-10-18T23:29:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T23:29:38Z"
 }

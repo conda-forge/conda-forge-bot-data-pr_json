@@ -1,6 +1,6 @@
 {
-  "ETag": "\"fe53a3ea0d8e1963cddf18525959d06d910a1da0864b599734952e974c18274e\"",
-  "Last-Modified": "Tue, 20 Oct 2026 03:39:27 GMT",
+  "ETag": "\"833d2e3619395c40ded133dff3694bcb9bd96fbf9272a1417d5930850b7ae5e3\"",
+  "Last-Modified": "Tue, 20 Oct 2026 12:06:56 GMT",
   "base": {
     "repo": {
       "name": "sphinx-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/sphinx-feedstock/pull/195",
   "id": 4930642077,
-  "labels": [],
-  "last_fetched": "2026-10-20T05:27:27.562560",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891407629,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDA3NjI5",
+      "url": "https://api.github.com/repos/conda-forge/sphinx-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T12:07:45.225488",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 195,
   "state": "open",
-  "updated_at": "2026-10-20T03:39:27Z"
+  "updated_at": "2026-10-20T12:06:56Z"
 }

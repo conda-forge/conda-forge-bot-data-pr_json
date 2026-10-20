@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2bd9ce47f5c03526b2d7d238bc60de170967111dd59f03757eef71d4d59d7a1f\"",
+  "Last-Modified": "Tue, 20 Oct 2026 16:47:09 GMT",
   "base": {
     "repo": {
       "name": "pyrate-limiter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T16:47:09Z",
   "closed_by": null,
   "created_at": "2026-10-20T16:43:22Z",
   "draft": false,
   "e_tag": "\"25cbaf891d82cc117627e24ca5d9765b0918a2db62e21f55936b1b22fcf6a427\"",
   "head": {
-    "ref": "4.5.1_h3fcc0a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyrate-limiter-feedstock/pull/52",
   "id": 4939147349,
   "labels": [],
-  "last_fetched": "2026-10-20T16:43:23.677898",
+  "last_fetched": "2026-10-20T16:48:39.386947",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T16:47:09Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-10-20T16:43:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T16:47:13Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1a83a1b470195304793f97f84d6aff04fa3d09d5aabe647d79144e1e72c9ab8b\"",
-  "Last-Modified": "Tue, 20 Oct 2026 15:53:16 GMT",
+  "ETag": "\"cf12b09475acc23194f487d760fd389bc49b1c6220b72481ac6512b7520ae2b6\"",
+  "Last-Modified": "Tue, 20 Oct 2026 20:07:06 GMT",
   "base": {
     "repo": {
       "name": "go-activation-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T20:07:06Z",
   "closed_by": null,
   "created_at": "2026-10-20T02:52:14Z",
   "draft": false,
   "e_tag": "\"a85291b2d797174baef61c9bf41e648e7d28a783a32aa0e2f9a528ae55cc24c0\"",
   "head": {
-    "ref": "1.27.3_h17d0b2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/go-activation-feedstock/pull/127",
   "id": 4930308332,
   "labels": [],
-  "last_fetched": "2026-10-20T19:49:08.292406",
+  "last_fetched": "2026-10-20T20:08:37.459608",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T20:07:06Z",
   "number": 127,
-  "state": "open",
-  "updated_at": "2026-10-20T15:53:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T20:07:06Z"
 }

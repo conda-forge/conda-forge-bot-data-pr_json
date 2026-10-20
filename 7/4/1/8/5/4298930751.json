@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"d436003046a0c68ab9b4d7598225b9d897b2458127ae3a0e3a12ec0f0bf28cb7\"",
-  "Last-Modified": "Mon, 17 Aug 2026 20:16:15 GMT",
+  "ETag": "\"a09c826ec903a262a437668af8f49d293c68f620efa4c6f63f11e9657d77474d\"",
+  "Last-Modified": "Tue, 20 Oct 2026 23:57:51 GMT",
   "base": {
     "repo": {
       "name": "ale-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T23:57:51Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-17T20:14:10Z",
   "draft": false,
   "e_tag": "\"b6e9ba9dab775c138cd84f189ab355ec540e3f1f1a65c2bbb21b2174feea18d9\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/ale-py-feedstock/pull/34",
   "id": 4298930751,
   "labels": [],
-  "last_fetched": "2026-10-13T23:33:51.898931",
+  "last_fetched": "2026-10-20T23:59:03.905433",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-08-17T20:16:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T23:57:51Z"
 }

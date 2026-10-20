@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b6a5b4bce55fa787d41ba8cda8ff38029f3b88ca879a36fbd8c1d6ec925cbe25\"",
+  "Last-Modified": "Tue, 20 Oct 2026 14:36:12 GMT",
   "base": {
     "repo": {
       "name": "c-ares-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T14:36:07Z",
   "closed_by": null,
   "created_at": "2026-10-20T14:24:36Z",
   "draft": false,
   "e_tag": "\"e226925cf9f53cd8424062ba13b983c7b13bb284ad1a8ee73508b8ef5a5ad631\"",
   "head": {
-    "ref": "1.34.9_h13f95b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/c-ares-feedstock/pull/54",
   "id": 4937214460,
   "labels": [],
-  "last_fetched": "2026-10-20T14:24:38.015634",
+  "last_fetched": "2026-10-20T14:37:33.687420",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T14:36:07Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-20T14:24:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T14:36:12Z"
 }

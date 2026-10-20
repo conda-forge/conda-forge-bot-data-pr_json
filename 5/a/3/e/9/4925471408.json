@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f3490fe283beb272e76e963b9eaa56dc95062cfb9e6b5f6ee6d93e4bf41ba888\"",
-  "Last-Modified": "Mon, 19 Oct 2026 18:25:55 GMT",
+  "ETag": "\"f6201b2ddd1c2544127ae28c610752da028d520b1afb993ab6ecd871782a7c2d\"",
+  "Last-Modified": "Tue, 20 Oct 2026 00:08:20 GMT",
   "base": {
     "repo": {
       "name": "perl-mojolicious-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T00:08:20Z",
   "closed_by": null,
   "created_at": "2026-10-19T18:24:14Z",
   "draft": false,
   "e_tag": "\"37c2b528a7b4dbe8bf1710f6fff25e1783b5d57470e308b9a81fefd6c143532a\"",
   "head": {
-    "ref": "9.51_h41b6eb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/perl-mojolicious-feedstock/pull/22",
   "id": 4925471408,
   "labels": [],
-  "last_fetched": "2026-10-19T20:47:12.309904",
+  "last_fetched": "2026-10-20T00:09:44.795486",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T00:08:20Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-19T18:25:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T00:08:20Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f8f8ca933b3e4bfaed4dd6250758f41d11db30b02ba608d38a84d7a29056933d\"",
+  "Last-Modified": "Tue, 20 Oct 2026 10:03:18 GMT",
   "base": {
     "repo": {
       "name": "httpx2-kerberos-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T10:03:17Z",
   "closed_by": null,
   "created_at": "2026-10-20T05:57:45Z",
   "draft": false,
   "e_tag": "\"375307c2366a5cf975bfa55ba1de77c1992e2865bada91a892a83de05b4b6300\"",
   "head": {
-    "ref": "2.1.1_hb48ff1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/httpx2-kerberos-feedstock/pull/1",
   "id": 4931664158,
   "labels": [],
-  "last_fetched": "2026-10-20T05:57:46.690569",
+  "last_fetched": "2026-10-20T10:04:28.157160",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T10:03:17Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-20T05:57:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T10:03:18Z"
 }

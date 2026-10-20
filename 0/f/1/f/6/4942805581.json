@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9affdcd18dbc633a6d9e62ff0f07b118532cf3959865cc7673a3889961d3cc9a\"",
+  "Last-Modified": "Tue, 20 Oct 2026 21:36:13 GMT",
   "base": {
     "repo": {
       "name": "cibuildwheel-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T21:36:09Z",
   "closed_by": null,
   "created_at": "2026-10-20T21:34:18Z",
   "draft": false,
   "e_tag": "\"466cddc8e79d1c126ee1d10a914e1f91e054e2c0c740864c53d75444a7a75beb\"",
   "head": {
-    "ref": "4.3.2_he8b50f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cibuildwheel-feedstock/pull/49",
   "id": 4942805581,
   "labels": [],
-  "last_fetched": "2026-10-20T21:34:19.180362",
+  "last_fetched": "2026-10-20T21:37:46.894444",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T21:36:09Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-20T21:34:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T21:36:13Z"
 }

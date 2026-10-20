@@ -1,29 +1,29 @@
 {
-  "ETag": "\"449ff584ae0f58ee9a64a31d4e8f1c9fec401fc602a216942666e745e8925d93\"",
-  "Last-Modified": "Mon, 19 Oct 2026 23:17:35 GMT",
+  "ETag": "\"0d5cd3cc773357ced0de2d0255266edaeb47ceda06322da4521867226a5a4095\"",
+  "Last-Modified": "Tue, 20 Oct 2026 18:41:05 GMT",
   "base": {
     "repo": {
       "name": "tsdownsample-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T18:41:05Z",
   "closed_by": null,
   "created_at": "2026-10-19T23:15:50Z",
   "draft": false,
   "e_tag": "\"e9c2ef5d453f44e9f58e96fd152e6ab7371c931296f7cb2a15338d9a6802dc5b\"",
   "head": {
-    "ref": "bot-pr_arch_hb07724"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tsdownsample-feedstock/pull/23",
   "id": 4928672020,
   "labels": [],
-  "last_fetched": "2026-10-20T01:54:08.787190",
+  "last_fetched": "2026-10-20T18:49:30.428469",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T18:41:04Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-19T23:17:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T18:41:05Z"
 }

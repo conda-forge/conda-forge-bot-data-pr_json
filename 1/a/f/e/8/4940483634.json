@@ -1,27 +1,29 @@
 {
+  "ETag": "\"04e2538159fe47ed4f49249c7746886e95dcf50ddd06ef89a4925c3271209ba8\"",
+  "Last-Modified": "Tue, 20 Oct 2026 21:15:23 GMT",
   "base": {
     "repo": {
       "name": "r-greybox-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T21:15:23Z",
   "closed_by": null,
   "created_at": "2026-10-20T18:30:02Z",
   "draft": false,
   "e_tag": "\"1971b754945bc974fd23802793a865a69573bb066b0fd88143519f0c4e41b9bb\"",
   "head": {
-    "ref": "2.0.11_hc7766f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-greybox-feedstock/pull/3",
   "id": 4940483634,
   "labels": [],
-  "last_fetched": "2026-10-20T18:30:03.757248",
+  "last_fetched": "2026-10-20T21:17:02.620660",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T21:15:23Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-20T18:30:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T21:15:23Z"
 }

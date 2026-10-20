@@ -1,27 +1,29 @@
 {
+  "ETag": "\"39897972feb8a8c2f622a36701cc1261edcf173cb46cb9311c870d8fbb56af9d\"",
+  "Last-Modified": "Tue, 20 Oct 2026 05:32:45 GMT",
   "base": {
     "repo": {
       "name": "opa-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T05:32:45Z",
   "closed_by": null,
   "created_at": "2026-10-20T05:27:02Z",
   "draft": false,
   "e_tag": "\"108cd34cffa4e93784f79e115cee077f30da914ee662e93f86c29340b94b0e51\"",
   "head": {
-    "ref": "1.21.3_h95183a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opa-feedstock/pull/51",
   "id": 4931431824,
   "labels": [],
-  "last_fetched": "2026-10-20T05:27:04.177015",
+  "last_fetched": "2026-10-20T05:34:17.511682",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-20T05:32:45Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-20T05:27:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T05:32:49Z"
 }

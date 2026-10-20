@@ -1,29 +1,32 @@
 {
-  "ETag": "\"02bf0a3ebc88f973f38d4b8834ed56b9649db7b8efc5e6c11d025e1ec2375190\"",
-  "Last-Modified": "Tue, 20 Oct 2026 22:36:13 GMT",
+  "ETag": "\"3e450e735afcf5bf6148e30829787f9b1f465c5fa413f4e9f84e44779a493cab\"",
+  "Last-Modified": "Mon, 21 Sep 2026 15:56:05 GMT",
   "base": {
     "repo": {
       "name": "benchmark-feedstock"
     }
   },
-  "closed_at": "2026-10-20T22:36:13Z",
-  "closed_by": "regro-cf-autotick-bot",
+  "closed_at": null,
   "created_at": "2026-09-21T15:54:04Z",
   "draft": false,
   "e_tag": "\"7b9d5207367e64f47039d9b369bd18cc871fa9d609991bebe829d62d220165db\"",
   "head": {
-    "ref": "bot-pr_arm64_win_h8f8e0e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/benchmark-feedstock/pull/46",
   "id": 4593450916,
-  "labels": [],
-  "last_fetched": "2026-10-20T22:37:17.643214",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-20T22:36:11.377908",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 46,
-  "state": "closed",
-  "updated_at": "2026-10-20T22:36:13Z"
+  "state": "open",
+  "updated_at": "2026-09-21T15:56:05Z"
 }

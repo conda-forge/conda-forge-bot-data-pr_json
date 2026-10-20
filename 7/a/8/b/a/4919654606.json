@@ -1,29 +1,41 @@
 {
-  "ETag": "\"30efeab0daba2873b604a2d9c9c051ce406d559af2d84bf21afe381f2529164e\"",
-  "Last-Modified": "Mon, 19 Oct 2026 10:41:28 GMT",
+  "ETag": "\"50542c41146c083a0df83066050e172e95540f5659478b81526ccc76e4741ea4\"",
+  "Last-Modified": "Tue, 20 Oct 2026 02:34:22 GMT",
   "base": {
     "repo": {
       "name": "anyscale-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T02:34:20Z",
   "closed_by": null,
   "created_at": "2026-10-19T10:39:20Z",
   "draft": false,
   "e_tag": "\"e4573a168c4ce5ac656fb3e2f0cfae5aa112538bfae2f70e519448d93905aa45\"",
   "head": {
-    "ref": "0.26.111_h840cce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anyscale-feedstock/pull/214",
   "id": 4919654606,
-  "labels": [],
-  "last_fetched": "2026-10-19T17:24:12.214222",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6176325076,
+      "name": "automerge",
+      "node_id": "LA_kwDOKqB-1s8AAAABcCM91A",
+      "url": "https://api.github.com/repos/conda-forge/anyscale-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-20T02:35:10.267687",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-20T02:34:20Z",
   "number": 214,
-  "state": "open",
-  "updated_at": "2026-10-19T10:41:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T02:34:22Z"
 }

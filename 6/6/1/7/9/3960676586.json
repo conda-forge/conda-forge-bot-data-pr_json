@@ -1,5 +1,5 @@
 {
-  "ETag": "W/\"22be835ea519f680366cf2e4827d8005fb6b02ad339cfe4e9b874f5b90aeb311\"",
+  "ETag": "\"8c4917b7d5efa8010a90ba7eab642345af5c49ef1910589e5b1f4de693f7d664\"",
   "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"3c79f5d7ac133fb4bc5b0e94ac55611b86aba6e1cc7f6cf9eaa282430c2b7ee8\"",
   "head": {
-    "ref": "2.15_h2a3eba"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/liburing-feedstock/pull/14",
   "id": 3960676586,
-  "labels": [],
-  "last_fetched": "2026-10-13T11:51:27.584636",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-20T19:03:18.312322",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 14,

@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"bc4680c6f75d3523d0e42ef0eb5f86cd4ae58ac0248af76fd686a5b8330d8e6a\"",
-  "Last-Modified": "Wed, 23 Sep 2026 18:25:40 GMT",
+  "ETag": "\"730a7bb41e4e37fa60417666730f842d926ff60ca3b76ad98093d653e9556831\"",
+  "Last-Modified": "Tue, 20 Oct 2026 20:00:26 GMT",
   "base": {
     "repo": {
       "name": "libnvshmem-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-20T20:00:26Z",
+  "closed_by": "carterbox",
   "created_at": "2026-09-23T16:51:21Z",
   "draft": false,
   "e_tag": "\"8faff83b1cd18bac97ceb5962908253f3cb930cb61504cedd40f67278226626e\"",
@@ -28,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/libnvshmem-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-15T20:36:24.939648",
+  "last_fetched": "2026-10-20T20:02:03.061794",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-09-23T18:25:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-20T20:00:26Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9d22549ab20c5862e1608b365f186b32f9b3532ca5dc7328cf89879918bf68cc\"",
+  "Last-Modified": "Wed, 21 Oct 2026 10:05:14 GMT",
   "base": {
     "repo": {
       "name": "mchammer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T10:05:10Z",
   "closed_by": null,
   "created_at": "2026-10-21T10:03:17Z",
   "draft": false,
   "e_tag": "\"d44974d1f42650bf74283db60fc61ca8d4eb8f1dcacd0c797f40f848f3347163\"",
   "head": {
-    "ref": "2026.10.21.0_h1b0955"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mchammer-feedstock/pull/7",
   "id": 4949808425,
   "labels": [],
-  "last_fetched": "2026-10-21T10:03:17.908598",
+  "last_fetched": "2026-10-21T10:06:22.650498",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T10:05:10Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-21T10:03:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T10:05:14Z"
 }

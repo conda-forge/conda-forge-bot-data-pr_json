@@ -1,6 +1,6 @@
 {
-  "ETag": "\"526b1b2dcd357e90e52ce3696bb960328885ad7d377f155ed8ee5042d131bf8f\"",
-  "Last-Modified": "Tue, 20 Oct 2026 19:07:17 GMT",
+  "ETag": "\"1e6baa8392a69aaacab5ba9233136360d0c48b66e36c20af6206002761805e48\"",
+  "Last-Modified": "Wed, 21 Oct 2026 06:14:56 GMT",
   "base": {
     "repo": {
       "name": "mctc-lib-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/mctc-lib-feedstock/pull/34",
   "id": 4940943414,
-  "labels": [],
-  "last_fetched": "2026-10-20T19:36:38.621433",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3543770068,
+      "name": "automerge",
+      "node_id": "LA_kwDOGXpzos7TOaPU",
+      "url": "https://api.github.com/repos/conda-forge/mctc-lib-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T06:15:58.886977",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 34,
   "state": "open",
-  "updated_at": "2026-10-20T19:07:17Z"
+  "updated_at": "2026-10-21T06:14:56Z"
 }

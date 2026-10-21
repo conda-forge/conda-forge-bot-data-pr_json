@@ -1,27 +1,29 @@
 {
+  "ETag": "\"16bea1ceb6eb78cc86a5c5bfdfd7309cb08f902fe8f462e12bd9c2cd3f9e4497\"",
+  "Last-Modified": "Wed, 21 Oct 2026 02:20:17 GMT",
   "base": {
     "repo": {
       "name": "django-tree-queries-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T02:20:12Z",
   "closed_by": null,
   "created_at": "2026-10-21T02:16:13Z",
   "draft": false,
   "e_tag": "\"f1abfab0ac43fc2a37e6238b6393f401cf07f8b5a616f1c9a8eb023db5a89017\"",
   "head": {
-    "ref": "0.27.0_h843bb0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-tree-queries-feedstock/pull/19",
   "id": 4945342397,
   "labels": [],
-  "last_fetched": "2026-10-21T02:16:14.300974",
+  "last_fetched": "2026-10-21T02:21:56.859707",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T02:20:12Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-21T02:16:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T02:20:17Z"
 }

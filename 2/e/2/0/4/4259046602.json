@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"2c37b0648ed5be8375c022d6fedfb9660853b9e118ac4f2d57cc7a2caed28f23\"",
-  "Last-Modified": "Wed, 12 Aug 2026 04:10:48 GMT",
+  "ETag": "W/\"437bd5d982fa99f4628e97796e9f18611605110b1e3f2668b3451b6afebd4887\"",
+  "Last-Modified": "Wed, 21 Oct 2026 08:17:34 GMT",
   "base": {
     "repo": {
       "name": "rumdl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T08:17:34Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-12T04:09:12Z",
   "draft": false,
   "e_tag": "\"bc3b7d991e2ca5046b66fa46aced2ac857d2d4c4c9091d54258956e0eb7a2ec5\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/rumdl-feedstock/pull/5",
   "id": 4259046602,
-  "labels": [],
-  "last_fetched": "2026-10-16T21:21:31.058192",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 11724794943,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOTtVhP88AAAACutosPw",
+      "url": "https://api.github.com/repos/conda-forge/rumdl-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-21T08:17:38.211924",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-08-12T04:10:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T08:17:34Z"
 }

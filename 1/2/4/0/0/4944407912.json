@@ -1,29 +1,29 @@
 {
-  "ETag": "\"57c57e26931fa6b9ce379fd96144869bde184250c25a9476dccefb5bd11bda25\"",
-  "Last-Modified": "Wed, 21 Oct 2026 00:22:27 GMT",
+  "ETag": "\"f862b914ba08d2001c6ba47594623d0413da2bf4e0448fc72f9ba8a1108052ed\"",
+  "Last-Modified": "Wed, 21 Oct 2026 04:07:22 GMT",
   "base": {
     "repo": {
       "name": "flux-pmix-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T04:07:22Z",
   "closed_by": null,
   "created_at": "2026-10-21T00:20:45Z",
   "draft": false,
   "e_tag": "\"8d92d5995e40d335c2b075b1ee781f1dfc92e8b1a4e405edb6f57e2b1e6801f6\"",
   "head": {
-    "ref": "0.8.0_h5b4cd8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flux-pmix-feedstock/pull/15",
   "id": 4944407912,
   "labels": [],
-  "last_fetched": "2026-10-21T03:04:41.300557",
+  "last_fetched": "2026-10-21T04:08:54.560753",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T04:07:22Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-21T00:22:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T04:07:22Z"
 }

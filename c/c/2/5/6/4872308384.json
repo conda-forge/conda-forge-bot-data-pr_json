@@ -1,13 +1,13 @@
 {
-  "ETag": "W/\"f21745b8f8f5c4133643b514f4e7ebd4fbabcacd2d282d5d6339eed75bca72c7\"",
-  "Last-Modified": "Thu, 15 Oct 2026 11:12:35 GMT",
+  "ETag": "\"d1ab1636256e16701821b2e540902b94928aa3b95ff6cdc5a38d1b700054a9d7\"",
+  "Last-Modified": "Wed, 21 Oct 2026 21:32:54 GMT",
   "base": {
     "repo": {
       "name": "ndscope-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-21T21:32:54Z",
+  "closed_by": "evonreis",
   "created_at": "2026-10-15T11:10:51Z",
   "draft": false,
   "e_tag": "\"e34f6814bf6551b8c72a167b879b2bc049883a76dd7b23233736f040017cdace\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/ndscope-feedstock/pull/53",
   "id": 4872308384,
   "labels": [],
-  "last_fetched": "2026-10-15T16:50:07.854067",
+  "last_fetched": "2026-10-21T21:33:57.158879",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-10-15T11:12:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T21:32:54Z"
 }

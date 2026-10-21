@@ -1,6 +1,6 @@
 {
-  "ETag": "\"df428065528b047ec1593cb9a5975cb1f116172835647e65adf8ec691599906c\"",
-  "Last-Modified": "Tue, 20 Oct 2026 22:16:01 GMT",
+  "ETag": "\"73c2cc51376ff76db8550053f9a0b4f8640821a555ff663f0530a4384042ffe1\"",
+  "Last-Modified": "Wed, 21 Oct 2026 07:23:13 GMT",
   "base": {
     "repo": {
       "name": "pixi-diff-to-markdown-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/pixi-diff-to-markdown-feedstock/pull/29",
   "id": 4943231633,
-  "labels": [],
-  "last_fetched": "2026-10-21T00:55:28.274173",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7011536294,
+      "name": "automerge",
+      "node_id": "LA_kwDOMB_1oM8AAAABoeuNpg",
+      "url": "https://api.github.com/repos/conda-forge/pixi-diff-to-markdown-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T07:24:25.582517",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 29,
   "state": "open",
-  "updated_at": "2026-10-20T22:16:01Z"
+  "updated_at": "2026-10-21T07:23:13Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3b58891ac972ec6d953c1cd4ba5cf0b7a8110faab77bddaf792ac3d09b62e800\"",
-  "Last-Modified": "Tue, 20 Oct 2026 16:22:42 GMT",
+  "ETag": "\"40d0c2b6b5f05c6c57e42360458f393d6d1e32c3376f88e82fd008d032e8d930\"",
+  "Last-Modified": "Wed, 21 Oct 2026 08:11:12 GMT",
   "base": {
     "repo": {
       "name": "python-neo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T08:11:12Z",
   "closed_by": null,
   "created_at": "2026-10-15T18:12:42Z",
   "draft": false,
   "e_tag": "\"aedfec840948369e23a1fd20ba87875baf892d5d8423e94156699ea4694cb154\"",
   "head": {
-    "ref": "0.14.6_hf8d910"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-neo-feedstock/pull/38",
   "id": 4877813534,
   "labels": [],
-  "last_fetched": "2026-10-20T19:23:45.182541",
+  "last_fetched": "2026-10-21T08:12:57.395582",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T08:11:12Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-20T16:22:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T08:11:12Z"
 }

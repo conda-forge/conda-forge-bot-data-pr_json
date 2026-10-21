@@ -1,6 +1,6 @@
 {
-  "ETag": "\"1d78a445f14dfe4adba3671ec1bbd7c0671066cb5bc4d3e3209d2a47c7f99229\"",
-  "Last-Modified": "Wed, 21 Oct 2026 19:22:52 GMT",
+  "ETag": "\"76365a79c95f10307c7a5a4b4a48351e10265fddb800baa3e94f1fdc9f7c61c4\"",
+  "Last-Modified": "Wed, 21 Oct 2026 22:04:43 GMT",
   "base": {
     "repo": {
       "name": "php-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/php-feedstock/pull/134",
   "id": 4957097038,
-  "labels": [],
-  "last_fetched": "2026-10-21T19:45:49.113360",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3181664120,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMTgxNjY0MTIw",
+      "url": "https://api.github.com/repos/conda-forge/php-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T22:06:12.190907",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 134,
   "state": "open",
-  "updated_at": "2026-10-21T19:22:52Z"
+  "updated_at": "2026-10-21T22:04:43Z"
 }

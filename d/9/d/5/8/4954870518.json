@@ -1,27 +1,29 @@
 {
+  "ETag": "\"22fa11ee4f606617bf67679735068cca38e41ae33bc774cfbb94e461908d6d30\"",
+  "Last-Modified": "Wed, 21 Oct 2026 19:08:22 GMT",
   "base": {
     "repo": {
       "name": "rplibs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T19:08:22Z",
   "closed_by": null,
   "created_at": "2026-10-21T16:26:26Z",
   "draft": false,
   "e_tag": "\"0beb9f697e76ebb5efbe3c98431629294f2459bf6f86f80aece8e5c9b872beb7\"",
   "head": {
-    "ref": "6.9.7_hea2a86"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rplibs-feedstock/pull/14",
   "id": 4954870518,
   "labels": [],
-  "last_fetched": "2026-10-21T16:26:27.282228",
+  "last_fetched": "2026-10-21T19:09:52.222583",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T19:08:22Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-21T16:26:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T19:08:22Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"675324bbebe139f85aa1c84639762e2813c5cc60d8d891eaa871bab610375228\"",
-  "Last-Modified": "Wed, 21 Oct 2026 02:43:55 GMT",
+  "ETag": "\"79f420f4032c6909e677defe03384de1659ccff4fee57a7a863a972cd17e2a11\"",
+  "Last-Modified": "Wed, 21 Oct 2026 13:00:27 GMT",
   "base": {
     "repo": {
       "name": "gdalxarray-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T13:00:27Z",
   "closed_by": null,
   "created_at": "2026-10-21T02:41:45Z",
   "draft": false,
   "e_tag": "\"4feb5b3cc4aa2584b06942f4af14e2399dd46742d6f47022336a7517a97d3b6a\"",
   "head": {
-    "ref": "0.5.1_hdbfbdb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gdalxarray-feedstock/pull/3",
   "id": 4945543598,
   "labels": [],
-  "last_fetched": "2026-10-21T05:59:35.366400",
+  "last_fetched": "2026-10-21T13:02:01.117627",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T13:00:26Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-21T02:43:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T13:00:27Z"
 }

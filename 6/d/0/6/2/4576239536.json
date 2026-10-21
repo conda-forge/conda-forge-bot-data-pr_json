@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"d64958ba2a3f78e75d957c1325262395bccc01a8f11f3edea6aea43c3f7b88ef\"",
-  "Last-Modified": "Sat, 19 Sep 2026 06:52:48 GMT",
+  "ETag": "\"b4c5010925abc298013e2fcb8e136d2d534fdc02a0111159f50d14a3225561da\"",
+  "Last-Modified": "Wed, 21 Oct 2026 12:00:18 GMT",
   "base": {
     "repo": {
       "name": "harlequin-postgres-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T12:00:18Z",
+  "closed_by": "xhochy",
   "created_at": "2026-09-19T06:50:35Z",
   "draft": false,
   "e_tag": "\"ebed30082bfbfc0c5bf76c762df79d127d940520445ca263583c8513ec954d35\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/harlequin-postgres-feedstock/pull/13",
   "id": 4576239536,
   "labels": [],
-  "last_fetched": "2026-10-18T23:21:03.667231",
+  "last_fetched": "2026-10-21T12:01:34.135364",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-09-19T06:52:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T12:00:18Z"
 }

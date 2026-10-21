@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e6b905b190a43278cef8a8d7ef9b3f770457cd232705221ff360cf3213779b8e\"",
+  "Last-Modified": "Wed, 21 Oct 2026 11:00:25 GMT",
   "base": {
     "repo": {
       "name": "re2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T11:00:25Z",
   "closed_by": null,
   "created_at": "2026-10-21T10:48:30Z",
   "draft": false,
   "e_tag": "\"b1800ac6ee03dc231160ad42240118ae2dfd6ffd8742209cac7ac54a06c387a0\"",
   "head": {
-    "ref": "bot-pr_arm64_win_h0eee6f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/re2-feedstock/pull/104",
   "id": 4950335930,
   "labels": [],
-  "last_fetched": "2026-10-21T10:48:31.538753",
+  "last_fetched": "2026-10-21T11:01:59.398178",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T11:00:25Z",
   "number": 104,
-  "state": "open",
-  "updated_at": "2026-10-21T10:48:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T11:00:25Z"
 }

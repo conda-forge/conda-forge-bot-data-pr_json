@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"c5b575ef1c35f06856003872c38b12a6149c58ee3d3d1f4dbceb26a2d838b62b\"",
-  "Last-Modified": "Tue, 25 Aug 2026 14:07:07 GMT",
+  "ETag": "W/\"a2bc5df946c9746922a57bfa3777a83a348aed445e892d733a2c87471287cef6\"",
+  "Last-Modified": "Wed, 21 Oct 2026 20:49:24 GMT",
   "base": {
     "repo": {
       "name": "conda-standalone-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T20:49:24Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-18T23:47:04Z",
   "draft": false,
   "e_tag": "\"11b24b276a3103388c6939da0354498852ec496e11a08d7e696c9e03e24347a7\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/conda-standalone-feedstock/pull/98",
   "id": 4309376013,
-  "labels": [],
-  "last_fetched": "2026-10-14T17:02:42.411345",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-21T20:49:26.877884",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 98,
-  "state": "open",
-  "updated_at": "2026-08-25T14:07:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T20:49:24Z"
 }

@@ -1,41 +1,29 @@
 {
-  "ETag": "\"c345eabbc634bf459b6ff002545855f1ef4211ac1b5466a55606d496feefde6a\"",
-  "Last-Modified": "Wed, 21 Oct 2026 10:49:31 GMT",
+  "ETag": "\"6752278af515fd679986426815b4b9fd7fca11818789220c3e3e53bdc047ea4f\"",
+  "Last-Modified": "Wed, 21 Oct 2026 10:58:23 GMT",
   "base": {
     "repo": {
       "name": "timezonefinder-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T10:58:23Z",
   "closed_by": null,
   "created_at": "2026-10-21T01:29:58Z",
   "draft": false,
   "e_tag": "\"80ac1f2ebc23ae7e7631c806c76012e6a309e40f1769e4534a91f86e4ad027d5\"",
   "head": {
-    "ref": "9.1.0_hbd2bfd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/timezonefinder-feedstock/pull/99",
   "id": 4944985451,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 1891418452,
-      "name": "automerge",
-      "node_id": "MDU6TGFiZWwxODkxNDE4NDUy",
-      "url": "https://api.github.com/repos/conda-forge/timezonefinder-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-10-21T10:50:34.743791",
+  "labels": [],
+  "last_fetched": "2026-10-21T10:59:36.882907",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T10:58:23Z",
   "number": 99,
-  "state": "open",
-  "updated_at": "2026-10-21T10:49:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T10:58:23Z"
 }

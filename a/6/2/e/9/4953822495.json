@@ -1,4 +1,6 @@
 {
+  "ETag": "\"032fb1d0c43fd0e220299b797bfe777fd6f8f04f47721fc2de6e0855adddb8be\"",
+  "Last-Modified": "Wed, 21 Oct 2026 15:30:47 GMT",
   "base": {
     "repo": {
       "name": "docling-parse-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/docling-parse-feedstock/pull/85",
   "id": 4953822495,
-  "labels": [],
-  "last_fetched": "2026-10-21T15:09:26.047688",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7731875227,
+      "name": "automerge",
+      "node_id": "LA_kwDONNrt8M8AAAABzNsNmw",
+      "url": "https://api.github.com/repos/conda-forge/docling-parse-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T15:39:32.747791",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 85,
   "state": "open",
-  "updated_at": "2026-10-21T15:09:25Z"
+  "updated_at": "2026-10-21T15:30:47Z"
 }

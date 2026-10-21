@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a8051f179e4a21475faf3820783bc9289696e8bfda605e9ba089aad2d46411f1\"",
-  "Last-Modified": "Wed, 21 Oct 2026 16:56:15 GMT",
+  "ETag": "\"71be007b49e49158a9f3d337d13027fdc5de6310950fc63919d266013ceb2bb6\"",
+  "Last-Modified": "Wed, 21 Oct 2026 22:42:17 GMT",
   "base": {
     "repo": {
       "name": "yac-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T22:42:17Z",
   "closed_by": null,
   "created_at": "2026-10-21T14:57:51Z",
   "draft": false,
   "e_tag": "\"c2e9e7092dff78afec2425d31c37abdbba81905005014d5caa285d70039b0e0b\"",
   "head": {
-    "ref": "3.21.0_h6cc552"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yac-feedstock/pull/6",
   "id": 4953657760,
   "labels": [],
-  "last_fetched": "2026-10-21T17:58:42.877717",
+  "last_fetched": "2026-10-21T22:43:26.213129",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T22:42:17Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-21T16:56:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T22:42:17Z"
 }

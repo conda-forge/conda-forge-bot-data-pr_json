@@ -1,5 +1,5 @@
 {
-  "ETag": "\"784569cc14504f02d5b23250f31dc9b731679b4cf297b6b2a98ed54e80bb1785\"",
+  "ETag": "W/\"e690df54cd8dc014c4acbaa3a7a79dc5eda1eecbae05bfeb5b8002c5e2a62c82\"",
   "Last-Modified": "Wed, 21 Oct 2026 14:01:08 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/dttlib-feedstock/pull/52",
   "id": 4855898386,
-  "labels": [],
-  "last_fetched": "2026-10-21T14:02:39.929986",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-21T14:01:10.952751",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

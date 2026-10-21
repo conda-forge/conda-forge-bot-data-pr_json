@@ -1,4 +1,6 @@
 {
+  "ETag": "\"bf5af11dedec3ecbe9213efe87b01fbae8eef0ca6a5880f829c34f822bc2acb7\"",
+  "Last-Modified": "Wed, 21 Oct 2026 09:41:11 GMT",
   "base": {
     "repo": {
       "name": "release-plz-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/release-plz-feedstock/pull/17",
   "id": 4949164893,
-  "labels": [],
-  "last_fetched": "2026-10-21T09:10:00.494657",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10342959277,
+      "name": "automerge",
+      "node_id": "LA_kwDOReO6sc8AAAACaH0IrQ",
+      "url": "https://api.github.com/repos/conda-forge/release-plz-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T09:42:41.710468",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 17,
   "state": "open",
-  "updated_at": "2026-10-21T09:09:59Z"
+  "updated_at": "2026-10-21T09:41:11Z"
 }

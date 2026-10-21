@@ -1,5 +1,5 @@
 {
-  "ETag": "\"6141fa6336560d8ae3c60bcdfa3b7cd824c0ae33fa74d08676972dcf1bb721f9\"",
+  "ETag": "W/\"f5e8aff20570ea59456d187a743b8cd166976f8df3b3a4b1f8cfb1e102d46e94\"",
   "Last-Modified": "Wed, 21 Oct 2026 12:57:53 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/enchant-feedstock/pull/23",
   "id": 2542449754,
-  "labels": [],
-  "last_fetched": "2026-10-21T12:59:34.115908",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-21T12:57:55.956878",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

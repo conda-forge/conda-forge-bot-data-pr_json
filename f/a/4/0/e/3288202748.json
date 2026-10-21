@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"142c0d988f07f4e97c6fbdce052a88d6cb42a17ae07d3041d592ece6cad3dc37\"",
-  "Last-Modified": "Tue, 15 Sep 2026 20:35:58 GMT",
+  "ETag": "\"8b78d209c868001be0ddefec3c6120776f514e26c7b0903400c3a639123f9f78\"",
+  "Last-Modified": "Wed, 21 Oct 2026 09:52:37 GMT",
   "base": {
     "repo": {
       "name": "pytest-dependency-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T09:52:37Z",
+  "closed_by": "xhochy",
   "created_at": "2026-02-16T03:27:36Z",
   "draft": false,
   "e_tag": "\"15169ed7fbb68b834695bfb2dd3f46788b812421da54dc9d7bd9232a807ea87e\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pytest-dependency-feedstock/pull/4",
   "id": 3288202748,
   "labels": [],
-  "last_fetched": "2026-10-14T13:39:29.952697",
+  "last_fetched": "2026-10-21T09:54:18.370340",
   "last_modified": null,
-  "mergeable": false,
-  "mergeable_state": "dirty",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-09-15T20:35:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T09:52:37Z"
 }

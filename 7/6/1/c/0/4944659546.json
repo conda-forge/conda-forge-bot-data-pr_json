@@ -1,4 +1,6 @@
 {
+  "ETag": "\"5324a2831a0de48d9705bcd94caf4878547b2900980741cfb3a1a667d5c35813\"",
+  "Last-Modified": "Wed, 21 Oct 2026 01:02:08 GMT",
   "base": {
     "repo": {
       "name": "fastapi-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/fastapi-feedstock/pull/256",
   "id": 4944659546,
-  "labels": [],
-  "last_fetched": "2026-10-21T00:52:12.454240",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890875509,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODc1NTA5",
+      "url": "https://api.github.com/repos/conda-forge/fastapi-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T01:03:22.069786",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 256,
   "state": "open",
-  "updated_at": "2026-10-21T00:52:11Z"
+  "updated_at": "2026-10-21T01:02:08Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"411cdc943ac579c71245d134a660bb8dce87731d3e1c36278f91a3c87a1cd118\"",
-  "Last-Modified": "Wed, 21 Oct 2026 12:17:03 GMT",
+  "ETag": "\"bc48d486cd429c51b227e0dcc1216182876187d3d0230b09bdbaca7f1289f099\"",
+  "Last-Modified": "Wed, 21 Oct 2026 16:09:41 GMT",
   "base": {
     "repo": {
       "name": "tprof-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T16:09:41Z",
   "closed_by": null,
   "created_at": "2026-10-21T12:15:31Z",
   "draft": false,
   "e_tag": "\"8624a5511e10af33b0f638d5bcdfa705aa1d10c88a4667cb6de58695ddc346de\"",
   "head": {
-    "ref": "1.5.0_h5906db"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tprof-feedstock/pull/8",
   "id": 4951376248,
   "labels": [],
-  "last_fetched": "2026-10-21T12:37:38.342271",
+  "last_fetched": "2026-10-21T16:20:04.376933",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T16:09:41Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-21T12:17:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T16:09:41Z"
 }

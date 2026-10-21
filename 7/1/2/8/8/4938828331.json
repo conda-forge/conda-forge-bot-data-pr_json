@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2d079e8091a9f387823aa454684e0e72c4b02cbc50bd6340579f2a37ebea74a5\"",
-  "Last-Modified": "Tue, 20 Oct 2026 16:19:59 GMT",
+  "ETag": "\"5cc674fab80fbed2e56ca37c75d0d2b75269f8ce6f2edb24963b2c6ed3aced2f\"",
+  "Last-Modified": "Wed, 21 Oct 2026 08:56:18 GMT",
   "base": {
     "repo": {
       "name": "pytransit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T08:56:18Z",
   "closed_by": null,
   "created_at": "2026-10-20T16:18:20Z",
   "draft": false,
   "e_tag": "\"95de250accdb1f2dbdc3b4328d3e0949f2d6588023f6d3bdc74e824449d9f452\"",
   "head": {
-    "ref": "2.10.1_hbd89ed"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytransit-feedstock/pull/17",
   "id": 4938828331,
   "labels": [],
-  "last_fetched": "2026-10-21T03:02:44.099086",
+  "last_fetched": "2026-10-21T08:58:01.426721",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T08:56:18Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-20T16:19:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T08:56:18Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"3a166947a5a3b5e9765edc9f769b151fae031fe957466cca33925753a0bd00b2\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"7cef735cedfd4926cda3812a9090713b39da9843afde7c9ef20d68ba2e67e1bc\"",
+  "Last-Modified": "Wed, 21 Oct 2026 17:39:47 GMT",
   "base": {
     "repo": {
       "name": "hunspell-en-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T17:39:47Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-08-27T17:52:30Z",
   "draft": false,
   "e_tag": "\"4471c7c9f94fee228ac4a3de757dbbeaaf48c3228934fd6a31e4d368c758b4f1\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/hunspell-en-feedstock/pull/21",
   "id": 2779151106,
-  "labels": [],
-  "last_fetched": "2026-10-21T07:33:34.705876",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890943123,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwOTQzMTIz",
+      "url": "https://api.github.com/repos/conda-forge/hunspell-en-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-21T17:39:50.533690",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 21,
-  "state": "open",
-  "updated_at": "2025-08-27T17:53:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T17:39:47Z"
 }

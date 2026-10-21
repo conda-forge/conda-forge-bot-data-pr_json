@@ -1,13 +1,13 @@
 {
-  "ETag": "\"4b4583d91068b14811da1fac6f414bebbb49cff9d6d63dd179555f1d550feb94\"",
-  "Last-Modified": "Tue, 20 Oct 2026 22:24:55 GMT",
+  "ETag": "W/\"f051a595623b60b87f288fd54ef0945749a1002800c0b82909a90ab5c674eaed\"",
+  "Last-Modified": "Wed, 21 Oct 2026 00:47:08 GMT",
   "base": {
     "repo": {
       "name": "nh3-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-21T00:47:08Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-20T22:24:54Z",
   "draft": false,
   "e_tag": "\"966954dbf2f326a3c7b7788c4f6a723086a80d447f8e949b5628c44ffcf559c8\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/nh3-feedstock/pull/43",
   "id": 4943334456,
-  "labels": [],
-  "last_fetched": "2026-10-20T22:45:41.356130",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 4739384395,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOIVeABs8AAAABGn1ESw",
+      "url": "https://api.github.com/repos/conda-forge/nh3-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-21T00:47:11.184449",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-10-20T22:26:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T00:47:08Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"ef28abbef7069ef75deb2e3b95ffbbf4bbab98cc0680376225473e4bca60c8c3\"",
-  "Last-Modified": "Wed, 21 Oct 2026 15:46:45 GMT",
+  "ETag": "\"6d86d7d6fa158598eb8c390a44a7b8e84b28003103b5e999917a0e5051b28a87\"",
+  "Last-Modified": "Wed, 21 Oct 2026 16:00:32 GMT",
   "base": {
     "repo": {
       "name": "httpx2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T16:00:31Z",
   "closed_by": null,
   "created_at": "2026-10-21T15:38:58Z",
   "draft": false,
   "e_tag": "\"544dfb34746499b79cd8eb43cbb42f65e25bfe7da115f19e3110bc24cd433aa6\"",
   "head": {
-    "ref": "2.16.0_hcc66f0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/httpx2-feedstock/pull/33",
   "id": 4954241171,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/httpx2-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-21T15:54:42.688162",
+  "last_fetched": "2026-10-21T16:08:13.421480",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T16:00:31Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-21T15:54:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T16:00:32Z"
 }

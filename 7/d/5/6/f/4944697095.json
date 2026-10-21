@@ -1,4 +1,6 @@
 {
+  "ETag": "\"593450ea49f62f74b1bb53849cd8902525468338accfc659e45e68a8d3f1eb88\"",
+  "Last-Modified": "Wed, 21 Oct 2026 01:21:22 GMT",
   "base": {
     "repo": {
       "name": "suvadu-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/suvadu-feedstock/pull/24",
   "id": 4944697095,
-  "labels": [],
-  "last_fetched": "2026-10-21T00:56:21.188504",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10560459728,
+      "name": "automerge",
+      "node_id": "LA_kwDOR01Yas8AAAACdXPT0A",
+      "url": "https://api.github.com/repos/conda-forge/suvadu-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T01:22:32.518124",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 24,
   "state": "open",
-  "updated_at": "2026-10-21T00:56:20Z"
+  "updated_at": "2026-10-21T01:21:22Z"
 }

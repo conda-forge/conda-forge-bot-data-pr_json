@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6e89080d7f654932dc07d9e4683fff7e2f880b24be6e0193258fa70f7b32e02e\"",
-  "Last-Modified": "Wed, 21 Oct 2026 11:29:34 GMT",
+  "ETag": "\"57a09e08d6b8352e6a13aa5e253aba4e793715087b504748fee1223790646369\"",
+  "Last-Modified": "Wed, 21 Oct 2026 16:37:57 GMT",
   "base": {
     "repo": {
       "name": "node-red-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T16:37:57Z",
   "closed_by": null,
   "created_at": "2026-10-21T11:28:05Z",
   "draft": false,
   "e_tag": "\"3c40ede359787ff034c262d1758b7c6e314a156dc7f73ab2d49df59be6078548\"",
   "head": {
-    "ref": "5.0.9_h9e08a3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/node-red-feedstock/pull/25",
   "id": 4950798531,
   "labels": [],
-  "last_fetched": "2026-10-21T12:59:47.167376",
+  "last_fetched": "2026-10-21T16:46:22.903016",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T16:37:57Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-10-21T11:29:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T16:37:57Z"
 }

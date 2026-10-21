@@ -1,6 +1,6 @@
 {
-  "ETag": "\"51b3c98aee4a8e6f8de3ee4d93387788843dad07ac7726b0f1e8fa8b590b54fb\"",
-  "Last-Modified": "Wed, 21 Oct 2026 07:00:47 GMT",
+  "ETag": "\"4fc761e4d333a692ac969269df9a6a5494a9ea2cc88a6062867606d5c3462aa9\"",
+  "Last-Modified": "Wed, 21 Oct 2026 21:20:56 GMT",
   "base": {
     "repo": {
       "name": "momentum-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/momentum-feedstock/pull/309",
   "id": 4947686091,
-  "labels": [],
-  "last_fetched": "2026-10-21T09:49:19.513281",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7176581922,
+      "name": "automerge",
+      "node_id": "LA_kwDOMTYQYM8AAAABq8HzIg",
+      "url": "https://api.github.com/repos/conda-forge/momentum-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T21:22:13.719332",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 309,
   "state": "open",
-  "updated_at": "2026-10-21T07:00:47Z"
+  "updated_at": "2026-10-21T21:20:56Z"
 }

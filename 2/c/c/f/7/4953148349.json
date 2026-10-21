@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b89bd568dc0b9593ead79481d4072dd8a3607b32724d2e91c788b2b45e0c44aa\"",
+  "Last-Modified": "Wed, 21 Oct 2026 14:41:57 GMT",
   "base": {
     "repo": {
       "name": "cutlass-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T14:41:52Z",
   "closed_by": null,
   "created_at": "2026-10-21T14:21:17Z",
   "draft": false,
   "e_tag": "\"fd31b569be9fd884877559a2ac64d930d47fbc0442cf3c2e8d64fc94fc8b7bc4\"",
   "head": {
-    "ref": "4.8.1_h21b60b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cutlass-feedstock/pull/65",
   "id": 4953148349,
   "labels": [],
-  "last_fetched": "2026-10-21T14:21:18.218526",
+  "last_fetched": "2026-10-21T14:55:52.816452",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T14:41:52Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-21T14:21:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T14:41:57Z"
 }

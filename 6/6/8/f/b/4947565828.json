@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b903e800ae053885e1e627bee42386022440b1c7de951a154646d4e23b634590\"",
+  "Last-Modified": "Wed, 21 Oct 2026 10:11:58 GMT",
   "base": {
     "repo": {
       "name": "onnx-ir-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T10:11:58Z",
   "closed_by": null,
   "created_at": "2026-10-21T06:47:43Z",
   "draft": false,
   "e_tag": "\"d71d1ae49d2a96739d24516799e2ec3ed82c220fa6bae07af6b07f2390cedc12\"",
   "head": {
-    "ref": "1.1.0_h7cc834"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/onnx-ir-feedstock/pull/20",
   "id": 4947565828,
   "labels": [],
-  "last_fetched": "2026-10-21T06:47:44.903874",
+  "last_fetched": "2026-10-21T10:13:09.160312",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T10:11:58Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-21T06:47:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T10:11:58Z"
 }

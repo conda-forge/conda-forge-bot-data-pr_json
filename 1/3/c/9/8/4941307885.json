@@ -1,18 +1,18 @@
 {
-  "ETag": "\"290ea2436c79f16211521455413252d1d39da5ae559a6d9d4129057dca1ee26c\"",
-  "Last-Modified": "Wed, 21 Oct 2026 13:34:50 GMT",
+  "ETag": "\"743fca60cb6c24196f5af6651c17d055701446dd6725496f1a7d6d2f1ae0fb81\"",
+  "Last-Modified": "Wed, 21 Oct 2026 13:35:27 GMT",
   "base": {
     "repo": {
       "name": "sphinxcontrib-jsmath-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T13:35:21Z",
   "closed_by": null,
   "created_at": "2026-10-20T19:32:11Z",
   "draft": false,
   "e_tag": "\"94a388fff0226548476da5b3480d93b6e2b646cff92299db652638a6c2844b05\"",
   "head": {
-    "ref": "2.0.0_h9ef049"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sphinxcontrib-jsmath-feedstock/pull/6",
   "id": 4941307885,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/sphinxcontrib-jsmath-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-21T13:34:57.646444",
+  "last_fetched": "2026-10-21T13:37:01.611952",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T13:35:21Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-21T13:34:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T13:35:27Z"
 }

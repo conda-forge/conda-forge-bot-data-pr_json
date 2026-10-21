@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ada39b7fe8c665a775eeabe3210f7bb2db7d2cc29e559ff35cf4df40c074e49a\"",
+  "Last-Modified": "Wed, 21 Oct 2026 08:16:19 GMT",
   "base": {
     "repo": {
       "name": "striprtf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T08:16:15Z",
   "closed_by": null,
   "created_at": "2026-10-21T08:14:28Z",
   "draft": false,
   "e_tag": "\"17f187e05fd11d547a7af1e3bafb88e95c61ac5f00764886b9a2a0346a594339\"",
   "head": {
-    "ref": "0.0.34_h84801a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/striprtf-feedstock/pull/12",
   "id": 4948513010,
   "labels": [],
-  "last_fetched": "2026-10-21T08:14:28.947534",
+  "last_fetched": "2026-10-21T08:17:47.753774",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T08:16:15Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-21T08:14:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T08:16:19Z"
 }

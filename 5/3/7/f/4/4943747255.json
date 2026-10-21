@@ -1,4 +1,6 @@
 {
+  "ETag": "\"7d4001502d167a00a45084acc635e8073b53c14ce8296d8a8c1df7ab7c577183\"",
+  "Last-Modified": "Wed, 21 Oct 2026 00:36:47 GMT",
   "base": {
     "repo": {
       "name": "nh3-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/nh3-feedstock/pull/44",
   "id": 4943747255,
-  "labels": [],
-  "last_fetched": "2026-10-20T23:04:38.951252",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4739384394,
+      "name": "automerge",
+      "node_id": "LA_kwDOIVeABs8AAAABGn1ESg",
+      "url": "https://api.github.com/repos/conda-forge/nh3-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T00:38:19.773705",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 44,
   "state": "open",
-  "updated_at": "2026-10-20T23:04:37Z"
+  "updated_at": "2026-10-21T00:36:47Z"
 }

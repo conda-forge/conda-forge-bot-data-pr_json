@@ -1,6 +1,6 @@
 {
-  "ETag": "\"f3111001df01bc0ee04720cd64b5093a9bd7fd014eba5486db581a5cf74bad75\"",
-  "Last-Modified": "Wed, 21 Oct 2026 07:03:39 GMT",
+  "ETag": "\"6cbb0ff3446988d303f5d99b14ddf5c213e539b77d0b382455dcc71255f7ca75\"",
+  "Last-Modified": "Wed, 21 Oct 2026 12:24:18 GMT",
   "base": {
     "repo": {
       "name": "natten-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/natten-feedstock/pull/11",
   "id": 4947715441,
-  "labels": [],
-  "last_fetched": "2026-10-21T11:00:04.836885",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12233901974,
+      "name": "automerge",
+      "node_id": "LA_kwDOUefnLM8AAAAC2TKHlg",
+      "url": "https://api.github.com/repos/conda-forge/natten-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T12:26:41.980699",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 11,
   "state": "open",
-  "updated_at": "2026-10-21T07:03:39Z"
+  "updated_at": "2026-10-21T12:24:18Z"
 }

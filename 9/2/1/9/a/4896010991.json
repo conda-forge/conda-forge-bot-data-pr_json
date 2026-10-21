@@ -1,29 +1,29 @@
 {
-  "ETag": "\"293451f1039df663722e27092a0bbdcd468b2436a7db1ca3a8557819c3764ca5\"",
-  "Last-Modified": "Tue, 20 Oct 2026 20:59:26 GMT",
+  "ETag": "\"708e401dfecd9a11468ed961e9871227d10a551d6834c4906ff4230e1e1aae4e\"",
+  "Last-Modified": "Wed, 21 Oct 2026 00:35:06 GMT",
   "base": {
     "repo": {
       "name": "xorg-libxi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T00:35:06Z",
   "closed_by": null,
   "created_at": "2026-10-17T00:56:32Z",
   "draft": false,
   "e_tag": "\"39e3c36c370f1ababd6047f417d12135fbd43634310f52a100f271873905ea83\"",
   "head": {
-    "ref": "1.8.4_h2a9826"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xorg-libxi-feedstock/pull/17",
   "id": 4896010991,
   "labels": [],
-  "last_fetched": "2026-10-20T23:44:10.197835",
+  "last_fetched": "2026-10-21T00:36:17.092801",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T00:35:06Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-20T20:59:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T00:35:06Z"
 }

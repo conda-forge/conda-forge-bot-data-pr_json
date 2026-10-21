@@ -1,29 +1,41 @@
 {
-  "ETag": "\"70ad7bb75cbc9ed2bc9bbd278d14a6baadca37c9808a4ebdc02b6b50aa73c2ed\"",
-  "Last-Modified": "Tue, 20 Oct 2026 23:45:44 GMT",
+  "ETag": "\"083bb8f0716c36324d5e17225eb494647d98275a7cea6ff18fd40d8dd9869147\"",
+  "Last-Modified": "Wed, 21 Oct 2026 05:38:55 GMT",
   "base": {
     "repo": {
       "name": "dkx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T05:38:51Z",
   "closed_by": null,
   "created_at": "2026-10-20T23:44:04Z",
   "draft": false,
   "e_tag": "\"dd24b8d36439194b04ed4cf055ee561af6035b47c1ecea73380f31bf96ab32a3\"",
   "head": {
-    "ref": "2.10.1_h7e933e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dkx-feedstock/pull/13",
   "id": 4944111877,
-  "labels": [],
-  "last_fetched": "2026-10-21T01:59:03.807486",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11779730643,
+      "name": "automerge",
+      "node_id": "LA_kwDOTzA-0s8AAAACviBs0w",
+      "url": "https://api.github.com/repos/conda-forge/dkx-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T05:39:23.495289",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T05:38:51Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-20T23:45:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T05:38:55Z"
 }

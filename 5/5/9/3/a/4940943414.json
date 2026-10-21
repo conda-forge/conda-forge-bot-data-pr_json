@@ -1,18 +1,18 @@
 {
-  "ETag": "\"1e6baa8392a69aaacab5ba9233136360d0c48b66e36c20af6206002761805e48\"",
-  "Last-Modified": "Wed, 21 Oct 2026 06:14:56 GMT",
+  "ETag": "\"bb36a6adfebf1c64f5e47d5a56dcbf6f29738df53f869cb0fe77fc3c2a40fa9e\"",
+  "Last-Modified": "Wed, 21 Oct 2026 06:17:39 GMT",
   "base": {
     "repo": {
       "name": "mctc-lib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T06:17:35Z",
   "closed_by": null,
   "created_at": "2026-10-20T19:05:41Z",
   "draft": false,
   "e_tag": "\"4ad15621ac4f0380ff3395ea7112ec96c40001006dab4b1c2d666f8c22b39588\"",
   "head": {
-    "ref": "0.7.0_h8d007e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mctc-lib-feedstock/pull/34",
   "id": 4940943414,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/mctc-lib-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-21T06:15:58.886977",
+  "last_fetched": "2026-10-21T06:19:25.288347",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T06:17:35Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-21T06:14:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T06:17:39Z"
 }

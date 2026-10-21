@@ -1,18 +1,18 @@
 {
-  "ETag": "\"bf5af11dedec3ecbe9213efe87b01fbae8eef0ca6a5880f829c34f822bc2acb7\"",
-  "Last-Modified": "Wed, 21 Oct 2026 09:41:11 GMT",
+  "ETag": "\"f7c39a01dbf8669ed9423fb6dcf4ad3644787e2131b06f321dc614667077db20\"",
+  "Last-Modified": "Wed, 21 Oct 2026 09:56:00 GMT",
   "base": {
     "repo": {
       "name": "release-plz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T09:55:56Z",
   "closed_by": null,
   "created_at": "2026-10-21T09:09:59Z",
   "draft": false,
   "e_tag": "\"b5eda543a38bfb2e556c311cd5e4ef02130c498166b25baed78a50d188742e9c\"",
   "head": {
-    "ref": "0.3.174_hedb506"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/release-plz-feedstock/pull/17",
   "id": 4949164893,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/release-plz-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-21T09:42:41.710468",
+  "last_fetched": "2026-10-21T09:57:09.503052",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T09:55:56Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-21T09:41:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T09:56:00Z"
 }

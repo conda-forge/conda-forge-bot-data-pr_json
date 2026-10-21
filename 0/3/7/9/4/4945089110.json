@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3cda009bb36456e277d97c3253b86ae4c52deecc967a133402e069476719bda0\"",
-  "Last-Modified": "Wed, 21 Oct 2026 01:44:59 GMT",
+  "ETag": "\"e61cd1aeda7d0e08e02ce8065ced888d3b4ce0176efc2590c04a998a9858626f\"",
+  "Last-Modified": "Wed, 21 Oct 2026 12:53:48 GMT",
   "base": {
     "repo": {
       "name": "graphed-histogram-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/graphed-histogram-feedstock/pull/4",
   "id": 4945089110,
-  "labels": [],
-  "last_fetched": "2026-10-21T09:05:05.428227",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12731867612,
+      "name": "automerge",
+      "node_id": "LA_kwDOVNp-nc8AAAAC9uDh3A",
+      "url": "https://api.github.com/repos/conda-forge/graphed-histogram-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T12:55:24.327780",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 4,
   "state": "open",
-  "updated_at": "2026-10-21T01:44:59Z"
+  "updated_at": "2026-10-21T12:53:48Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"78c3b80e4e5a2daac15f0b8bc0445a7ccc709265053942cb2e6e6756c920b92d\"",
-  "Last-Modified": "Wed, 21 Oct 2026 07:13:16 GMT",
+  "ETag": "\"62b1dff3bac683368ab142f9612838c2d0b4f75c550db5a374f1d6db4679f303\"",
+  "Last-Modified": "Wed, 21 Oct 2026 08:00:42 GMT",
   "base": {
     "repo": {
       "name": "mlir-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T08:00:37Z",
   "closed_by": null,
   "created_at": "2026-10-20T11:18:42Z",
   "draft": false,
   "e_tag": "\"5f78972ff6d71e3d9f44c45f619258344760b3ddab7390864db536a043460301\"",
   "head": {
-    "ref": "23.1.4_h223506"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mlir-feedstock/pull/138",
   "id": 4934953485,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/mlir-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-21T07:14:46.428384",
+  "last_fetched": "2026-10-21T08:02:07.597409",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T08:00:37Z",
   "number": 138,
-  "state": "open",
-  "updated_at": "2026-10-21T07:13:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T08:00:42Z"
 }

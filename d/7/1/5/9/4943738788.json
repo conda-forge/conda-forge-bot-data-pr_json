@@ -1,18 +1,18 @@
 {
-  "ETag": "\"9a1993c9820203088bc37f1373bb7198699eae1649bb415e2c8ed323d3f074ec\"",
-  "Last-Modified": "Tue, 20 Oct 2026 23:26:11 GMT",
+  "ETag": "\"6264d58873228904e93376e2f4aa0f126da6dbfc5af9bf689ca0262523eebaef\"",
+  "Last-Modified": "Wed, 21 Oct 2026 02:18:42 GMT",
   "base": {
     "repo": {
       "name": "llvmdev-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T02:18:38Z",
   "closed_by": null,
   "created_at": "2026-10-20T23:03:46Z",
   "draft": false,
   "e_tag": "\"6735ea8ed5e6dc145a284299907edf7829b51cead343ddc8c2d8c7b44b67dbae\"",
   "head": {
-    "ref": "23.1.4_h7ddef1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/llvmdev-feedstock/pull/397",
   "id": 4943738788,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/llvmdev-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-20T23:27:41.120558",
+  "last_fetched": "2026-10-21T02:20:17.631127",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T02:18:38Z",
   "number": 397,
-  "state": "open",
-  "updated_at": "2026-10-20T23:26:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T02:18:42Z"
 }

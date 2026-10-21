@@ -1,6 +1,6 @@
 {
-  "ETag": "\"fe58b666171e80290b30f031d5a26173fd2cda9c2efe29279647b9fed90d7e98\"",
-  "Last-Modified": "Tue, 20 Oct 2026 20:38:43 GMT",
+  "ETag": "\"290ea2436c79f16211521455413252d1d39da5ae559a6d9d4129057dca1ee26c\"",
+  "Last-Modified": "Wed, 21 Oct 2026 13:34:50 GMT",
   "base": {
     "repo": {
       "name": "sphinxcontrib-jsmath-feedstock"
@@ -9,15 +9,27 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-10-20T19:32:11Z",
-  "draft": true,
+  "draft": false,
   "e_tag": "\"94a388fff0226548476da5b3480d93b6e2b646cff92299db652638a6c2844b05\"",
   "head": {
     "ref": "2.0.0_h9ef049"
   },
   "html_url": "https://github.com/conda-forge/sphinxcontrib-jsmath-feedstock/pull/6",
   "id": 4941307885,
-  "labels": [],
-  "last_fetched": "2026-10-20T21:36:57.468178",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891408677,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDA4Njc3",
+      "url": "https://api.github.com/repos/conda-forge/sphinxcontrib-jsmath-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T13:34:57.646444",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 6,
   "state": "open",
-  "updated_at": "2026-10-20T20:38:43Z"
+  "updated_at": "2026-10-21T13:34:50Z"
 }

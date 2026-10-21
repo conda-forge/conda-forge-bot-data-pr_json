@@ -1,27 +1,29 @@
 {
+  "ETag": "\"79520f0a2ca52380a6281916eabe91df73b74ac68f559b84095ed364a355129e\"",
+  "Last-Modified": "Wed, 21 Oct 2026 20:56:58 GMT",
   "base": {
     "repo": {
       "name": "llama-cloud-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T20:56:54Z",
   "closed_by": null,
   "created_at": "2026-10-21T20:53:45Z",
   "draft": false,
   "e_tag": "\"d0b4b20bcd442d4ad3b44784299453c9ae6048b2b39502df4c73fd04c0abc73b\"",
   "head": {
-    "ref": "2.19.0_hfa84ad"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/llama-cloud-feedstock/pull/90",
   "id": 4958214798,
   "labels": [],
-  "last_fetched": "2026-10-21T20:53:46.357228",
+  "last_fetched": "2026-10-21T20:58:22.104815",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T20:56:54Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-10-21T20:53:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T20:56:58Z"
 }

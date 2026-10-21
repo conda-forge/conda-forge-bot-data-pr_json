@@ -1,4 +1,6 @@
 {
+  "ETag": "\"2690212e70c3046ea4b95ff2e7ffde7777e5d51a25ed0a4295e9024de3df9e6e\"",
+  "Last-Modified": "Wed, 21 Oct 2026 12:29:46 GMT",
   "base": {
     "repo": {
       "name": "trackio-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/trackio-feedstock/pull/50",
   "id": 4950776956,
-  "labels": [],
-  "last_fetched": "2026-10-21T11:26:13.510172",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10099527106,
+      "name": "automerge",
+      "node_id": "LA_kwDORE4-d88AAAACWfqNwg",
+      "url": "https://api.github.com/repos/conda-forge/trackio-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T12:31:12.384328",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 50,
   "state": "open",
-  "updated_at": "2026-10-21T11:26:12Z"
+  "updated_at": "2026-10-21T12:29:46Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"6cbb0ff3446988d303f5d99b14ddf5c213e539b77d0b382455dcc71255f7ca75\"",
-  "Last-Modified": "Wed, 21 Oct 2026 12:24:18 GMT",
+  "ETag": "\"9b070ad36b3805ee625b236e4e11e65b1025c5e20bae53caad45df8ec7578879\"",
+  "Last-Modified": "Wed, 21 Oct 2026 13:51:04 GMT",
   "base": {
     "repo": {
       "name": "natten-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T13:50:58Z",
   "closed_by": null,
   "created_at": "2026-10-21T07:02:11Z",
   "draft": false,
   "e_tag": "\"f6bdfefaadb84873c0aa687f5152598b4abf3bff8b156bd6cf86fbcc4dac146a\"",
   "head": {
-    "ref": "rebuild-pytorch214-0-1_h88c42e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/natten-feedstock/pull/11",
   "id": 4947715441,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/natten-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-21T12:26:41.980699",
+  "last_fetched": "2026-10-21T13:52:05.217882",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T13:50:58Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-21T12:24:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T13:51:04Z"
 }

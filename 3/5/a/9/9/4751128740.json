@@ -1,28 +1,28 @@
 {
-  "ETag": "\"8b65dcdb60bc88605e3e00555e439ac3fff67c3d7a0b027e5546c08d20bd3c73\"",
-  "Last-Modified": "Mon, 05 Oct 2026 21:46:45 GMT",
+  "ETag": "\"7fdd93895563fd4d53eada0e6ac45a0976d00ef326b973874997895041be086b\"",
+  "Last-Modified": "Wed, 21 Oct 2026 16:19:40 GMT",
   "base": {
     "repo": {
       "name": "pypcd4-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T16:19:40Z",
   "created_at": "2026-10-05T21:45:10Z",
   "draft": false,
   "e_tag": "\"ae0a6b325cddd47cc2423d09585c51bd0e311112f29830222aa7eab1596f0633\"",
   "head": {
-    "ref": "1.5.1_h654478"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pypcd4-feedstock/pull/15",
   "id": 4751128740,
   "labels": [],
-  "last_fetched": "2026-10-20T10:24:27.372332",
+  "last_fetched": "2026-10-21T16:36:23.154797",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T16:19:40Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-05T21:46:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T16:19:40Z"
 }

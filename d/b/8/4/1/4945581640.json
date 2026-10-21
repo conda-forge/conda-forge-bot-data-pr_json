@@ -1,27 +1,29 @@
 {
+  "ETag": "\"33b3bb848fde3ba7f19f3b8c1e2513260bdea283609786c885feae1b340065a3\"",
+  "Last-Modified": "Wed, 21 Oct 2026 02:50:08 GMT",
   "base": {
     "repo": {
       "name": "openpmd-beamphysics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T02:50:04Z",
   "closed_by": null,
   "created_at": "2026-10-21T02:46:02Z",
   "draft": false,
   "e_tag": "\"b8d3e366ad2569133946fa98c48735554f1191e8591221fa1049f70c87365048\"",
   "head": {
-    "ref": "0.16.3_h875dbf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openpmd-beamphysics-feedstock/pull/65",
   "id": 4945581640,
   "labels": [],
-  "last_fetched": "2026-10-21T02:46:03.516758",
+  "last_fetched": "2026-10-21T02:51:43.918978",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T02:50:04Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-21T02:46:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T02:50:08Z"
 }

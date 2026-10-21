@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f367eef132b8bc06972a1a6fa5d771e0d8020210c640137712396fd67760ada5\"",
+  "Last-Modified": "Wed, 21 Oct 2026 01:45:20 GMT",
   "base": {
     "repo": {
       "name": "aws-vault-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T01:45:17Z",
   "closed_by": null,
   "created_at": "2026-10-21T01:37:47Z",
   "draft": false,
   "e_tag": "\"fe5bd9c03fca09277038b7c3b184e93f92c06e5359b65a0145bf243be7ff8537\"",
   "head": {
-    "ref": "7.17.1_h6a68de"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-vault-feedstock/pull/40",
   "id": 4945047672,
   "labels": [],
-  "last_fetched": "2026-10-21T01:37:48.642290",
+  "last_fetched": "2026-10-21T01:46:47.584813",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T01:45:17Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-10-21T01:37:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T01:45:20Z"
 }

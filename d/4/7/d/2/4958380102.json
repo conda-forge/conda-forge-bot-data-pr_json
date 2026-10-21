@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dfdfbcba21f6ca6865113fb9f17d9d3df24b5ddc8cee26491a304492766a4ab9\"",
+  "Last-Modified": "Wed, 21 Oct 2026 21:11:00 GMT",
   "base": {
     "repo": {
       "name": "pykale-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T21:10:55Z",
   "closed_by": null,
   "created_at": "2026-10-21T21:07:58Z",
   "draft": false,
   "e_tag": "\"8170c36eaf79fb7a01bb6d4f661ad60b5f41f919be9bbecf8b29357c3469acfc\"",
   "head": {
-    "ref": "0.2.1_hb62d57"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pykale-feedstock/pull/4",
   "id": 4958380102,
   "labels": [],
-  "last_fetched": "2026-10-21T21:07:59.625730",
+  "last_fetched": "2026-10-21T21:12:07.029529",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T21:10:55Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-21T21:07:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T21:11:00Z"
 }

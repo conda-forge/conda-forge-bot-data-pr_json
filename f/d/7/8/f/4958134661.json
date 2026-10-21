@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"ebb5d9e00d2108e504c9bc237a6e4ff658daf91e8de430d174c7e42e9a2f9017\"",
+  "Last-Modified": "Wed, 21 Oct 2026 21:38:22 GMT",
   "base": {
     "repo": {
       "name": "microsoft-kiota-serialization-text-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T21:38:22Z",
   "closed_by": null,
   "created_at": "2026-10-21T20:47:05Z",
   "draft": false,
   "e_tag": "\"5566ee3f53653efda26cf7774aa58de45083b8e40f16c558e8f5bfd1289de538\"",
   "head": {
-    "ref": "1.15.0_hdd7c62"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/microsoft-kiota-serialization-text-feedstock/pull/25",
   "id": 4958134661,
   "labels": [],
-  "last_fetched": "2026-10-21T20:47:06.801727",
+  "last_fetched": "2026-10-21T21:39:51.299425",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T21:38:22Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-10-21T20:47:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T21:38:22Z"
 }

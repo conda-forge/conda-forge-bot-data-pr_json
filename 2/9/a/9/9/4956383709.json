@@ -1,27 +1,41 @@
 {
+  "ETag": "\"3d37a99531d696ee9daa8785a761f6d7944737cb2e57db177c14f6e5cfd4195f\"",
+  "Last-Modified": "Wed, 21 Oct 2026 18:46:44 GMT",
   "base": {
     "repo": {
       "name": "orthax-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T18:46:39Z",
   "closed_by": null,
   "created_at": "2026-10-21T18:25:01Z",
   "draft": false,
   "e_tag": "\"acca60c43a23db7f05864652aa1da8503cfe5e6c9152ddeccd66302f2750e701\"",
   "head": {
-    "ref": "0.2.11_h247cc5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/orthax-feedstock/pull/3",
   "id": 4956383709,
-  "labels": [],
-  "last_fetched": "2026-10-21T18:25:02.306436",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10725754672,
+      "name": "automerge",
+      "node_id": "LA_kwDOSGAdy88AAAACf04HMA",
+      "url": "https://api.github.com/repos/conda-forge/orthax-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T18:47:07.346719",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T18:46:39Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-21T18:25:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T18:46:44Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7ec26ebc4f382bcfffe1160014d055844cf8cf4208753c4b6698e5c779ed6814\"",
-  "Last-Modified": "Wed, 21 Oct 2026 06:26:27 GMT",
+  "ETag": "\"da30251c1b65d93b3e47e438ed32d98acaf2f8a132bdcec9c67cacb4b1e64c22\"",
+  "Last-Modified": "Wed, 21 Oct 2026 15:17:08 GMT",
   "base": {
     "repo": {
       "name": "causal-conv1d-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T15:17:07Z",
   "closed_by": null,
   "created_at": "2026-10-21T06:24:58Z",
   "draft": false,
   "e_tag": "\"d77ce5102eb2c2e88271622a2c007d749f7b3faa32b8aba12ae485b1dd8c6085\"",
   "head": {
-    "ref": "rebuild-pytorch214-0-1_h2bd554"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/causal-conv1d-feedstock/pull/40",
   "id": 4947354041,
   "labels": [],
-  "last_fetched": "2026-10-21T07:32:39.702216",
+  "last_fetched": "2026-10-21T15:26:37.580736",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T15:17:07Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-10-21T06:26:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T15:17:08Z"
 }

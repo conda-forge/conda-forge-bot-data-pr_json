@@ -1,29 +1,41 @@
 {
-  "ETag": "\"7300331c384c47b8996c246669f164300bf8cdb65eecb5ae28af7af9f4b0c998\"",
-  "Last-Modified": "Wed, 21 Oct 2026 20:13:51 GMT",
+  "ETag": "\"5da6fa175c32aadb95f420cddb7ab15ec3cec8e9089943cb3776d51ba2ce22d2\"",
+  "Last-Modified": "Wed, 21 Oct 2026 23:11:32 GMT",
   "base": {
     "repo": {
       "name": "gperftools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T23:11:28Z",
   "closed_by": null,
   "created_at": "2026-10-21T20:12:16Z",
   "draft": false,
   "e_tag": "\"ce498578e06bf3f603632c8040ebd75b6b47762a04077f8ff6ded63936e14f2f\"",
   "head": {
-    "ref": "2.19.1_h8d0d5f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gperftools-feedstock/pull/36",
   "id": 4957716343,
-  "labels": [],
-  "last_fetched": "2026-10-21T20:49:54.485697",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890938759,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTM4NzU5",
+      "url": "https://api.github.com/repos/conda-forge/gperftools-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T23:12:22.972648",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T23:11:28Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-21T20:13:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T23:11:32Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"05d2799575706393277e86ec21564226c5cda960267826a2934bd4f0049eee4d\"",
-  "Last-Modified": "Wed, 21 Oct 2026 09:55:22 GMT",
+  "ETag": "\"57837cdb672c15d79346b7689e9814a0f46b488849e66fcbf767607a67e22f10\"",
+  "Last-Modified": "Wed, 21 Oct 2026 14:49:16 GMT",
   "base": {
     "repo": {
       "name": "django-removals-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T14:49:15Z",
   "closed_by": null,
   "created_at": "2026-10-21T09:53:52Z",
   "draft": false,
   "e_tag": "\"ef0a309c359c5e47d0dae1f14a4f940e17c19aeb5b9996b1a35f6a069d096f9b\"",
   "head": {
-    "ref": "1.5.1_h86a4bb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-removals-feedstock/pull/18",
   "id": 4949695158,
   "labels": [],
-  "last_fetched": "2026-10-21T11:59:02.055731",
+  "last_fetched": "2026-10-21T14:59:45.437500",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T14:49:15Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-21T09:55:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T14:49:16Z"
 }

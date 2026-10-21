@@ -1,18 +1,18 @@
 {
-  "ETag": "\"bc71d08fea3992f3da9d9abde44fee55ca4d0c34b438713d7d9be85f1fe7300a\"",
-  "Last-Modified": "Wed, 21 Oct 2026 16:49:41 GMT",
+  "ETag": "\"2c6160df7b94c4e356d666a6e7051a4c098b6abc62016281592cd7ddb15e5d7f\"",
+  "Last-Modified": "Wed, 21 Oct 2026 16:52:46 GMT",
   "base": {
     "repo": {
       "name": "nltk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T16:52:42Z",
   "closed_by": null,
   "created_at": "2026-10-21T16:46:42Z",
   "draft": false,
   "e_tag": "\"8f5f6d4a153344ede3526cb1f4b822679bc06285d7d69d658f1e23349e1ce34c\"",
   "head": {
-    "ref": "3.10.4_hbff934"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nltk-feedstock/pull/40",
   "id": 4955130864,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/nltk-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-21T16:51:20.881894",
+  "last_fetched": "2026-10-21T16:54:16.083573",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T16:52:42Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-10-21T16:49:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T16:52:46Z"
 }

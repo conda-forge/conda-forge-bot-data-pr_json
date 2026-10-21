@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"19bf47fffc2fe9db976d796f6946e92fe57f5e2cf14b83ce363b2c0e94ce61b6\"",
-  "Last-Modified": "Fri, 02 Oct 2026 21:57:52 GMT",
+  "ETag": "\"9e64fb146e9879dbac2fac601b2bae85271d0fec60d972320d70acbe2e2243fa\"",
+  "Last-Modified": "Wed, 21 Oct 2026 03:23:36 GMT",
   "base": {
     "repo": {
       "name": "spacr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T03:23:36Z",
   "created_at": "2026-10-02T21:55:51Z",
   "draft": false,
   "e_tag": "\"1213c2adddac4438c25c3ce3cc1a5faa8a2b85da6d670ae8f1276e4b8ffc0420\"",
   "head": {
-    "ref": "1.5.1.2_ha212eb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spacr-feedstock/pull/6",
   "id": 4721890435,
   "labels": [],
-  "last_fetched": "2026-10-17T07:58:02.266840",
+  "last_fetched": "2026-10-21T03:24:48.861859",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T03:23:36Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-02T21:57:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T03:23:36Z"
 }

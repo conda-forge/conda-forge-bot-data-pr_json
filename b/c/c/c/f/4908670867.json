@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"f10296c6c07d29dc168db0003b803506c7699fa0ce9a2746de6170e21f801890\"",
-  "Last-Modified": "Sun, 18 Oct 2026 11:26:43 GMT",
+  "ETag": "\"e94f58af8dc24b888312097ff5b69ec8b4a23ee54572811787b0a3247879ce9e\"",
+  "Last-Modified": "Wed, 21 Oct 2026 02:25:27 GMT",
   "base": {
     "repo": {
       "name": "pymongoarrow-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/pymongoarrow-feedstock/pull/89",
   "id": 4908670867,
-  "labels": [],
-  "last_fetched": "2026-10-18T12:51:20.321192",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3714359739,
+      "name": "automerge",
+      "node_id": "LA_kwDOGpo3P87dZKG7",
+      "url": "https://api.github.com/repos/conda-forge/pymongoarrow-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T02:25:45.232388",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 89,
   "state": "open",
-  "updated_at": "2026-10-18T11:26:43Z"
+  "updated_at": "2026-10-21T02:25:27Z"
 }

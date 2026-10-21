@@ -1,12 +1,13 @@
 {
-  "ETag": "\"5db3c0a6ab0e93ca53e129c1a3654ddb5b68477dbf8984d279aab2ac07a1a398\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"402a09340fa6b9fb4342963b415a49f6dc7de79e0be876a03d5db96b9695cfa8\"",
+  "Last-Modified": "Wed, 21 Oct 2026 20:08:55 GMT",
   "base": {
     "repo": {
       "name": "stempeg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T20:08:55Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-05-28T09:50:40Z",
   "draft": false,
   "e_tag": "\"d3eadfc1c83ceb65b2e5ab4f65bb7f0a2af8812d9ba69bb4074d652549985d34\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/stempeg-feedstock/pull/5",
   "id": 2548996043,
-  "labels": [],
-  "last_fetched": "2026-10-20T04:02:26.149865",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891411565,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxNDExNTY1",
+      "url": "https://api.github.com/repos/conda-forge/stempeg-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-21T20:08:59.486795",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 5,
-  "state": "open",
-  "updated_at": "2025-05-28T09:52:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T20:08:55Z"
 }

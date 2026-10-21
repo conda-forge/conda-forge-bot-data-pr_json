@@ -1,29 +1,29 @@
 {
-  "ETag": "\"11b2e65db31171186b16748b7f753c9b9f94eae7a26d71450506e10ea37ff69b\"",
-  "Last-Modified": "Wed, 21 Oct 2026 10:14:17 GMT",
+  "ETag": "\"47b59cff7d2e01e32f6545245ece813e55f5ff6a81dff6eb8b28bc81344dc40e\"",
+  "Last-Modified": "Wed, 21 Oct 2026 13:05:50 GMT",
   "base": {
     "repo": {
       "name": "geetools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T13:05:50Z",
   "closed_by": null,
   "created_at": "2026-10-21T10:12:45Z",
   "draft": false,
   "e_tag": "\"6d2bf802b6096ba2e75c2f64f4a9a49bc68a6f22cf0996f8279ebfa79c7394e2\"",
   "head": {
-    "ref": "1.19.0_h136e4d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geetools-feedstock/pull/30",
   "id": 4949923438,
   "labels": [],
-  "last_fetched": "2026-10-21T12:36:55.911932",
+  "last_fetched": "2026-10-21T13:07:00.469273",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T13:05:49Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-21T10:14:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T13:05:50Z"
 }

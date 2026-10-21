@@ -1,29 +1,29 @@
 {
-  "ETag": "\"64b73787a3573e9c1b6a8e382fe3633d076e4db64e737aa4fda7142f11904513\"",
-  "Last-Modified": "Tue, 20 Oct 2026 18:40:08 GMT",
+  "ETag": "W/\"825d4ecf03513f6f6e8a2662042a844e0c2c92ed97b02f4c2f7e9da7a1b1e967\"",
+  "Last-Modified": "Wed, 21 Oct 2026 07:50:15 GMT",
   "base": {
     "repo": {
       "name": "idutils-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T07:50:15Z",
   "closed_by": null,
   "created_at": "2026-10-20T18:38:37Z",
   "draft": false,
   "e_tag": "\"c238483d320f6ea703b3a545afde55f5849c3418ee3df4c04ee90f925cfcf294\"",
   "head": {
-    "ref": "1.7.1_h20dee5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/idutils-feedstock/pull/1",
   "id": 4940588955,
   "labels": [],
-  "last_fetched": "2026-10-20T19:37:53.888478",
+  "last_fetched": "2026-10-21T07:51:24.677947",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T07:50:15Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-20T18:40:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T07:50:15Z"
 }

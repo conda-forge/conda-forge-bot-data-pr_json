@@ -1,6 +1,6 @@
 {
-  "ETag": "\"7a5434ebe91b848f9ce60ae5bec69f74e52cd884e0333638041862e4af1ba1c4\"",
-  "Last-Modified": "Tue, 20 Oct 2026 19:57:08 GMT",
+  "ETag": "\"f321c0a3ead1daaf59821a31b35006cd7384edf73524aa8c953a550087d3c0b1\"",
+  "Last-Modified": "Wed, 21 Oct 2026 10:00:22 GMT",
   "base": {
     "repo": {
       "name": "pinecone-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pinecone-feedstock/pull/23",
   "id": 4941641713,
-  "labels": [],
-  "last_fetched": "2026-10-20T20:48:13.079296",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8313646163,
+      "name": "automerge",
+      "node_id": "LA_kwDOOKptTM8AAAAB74gsUw",
+      "url": "https://api.github.com/repos/conda-forge/pinecone-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T10:00:33.757350",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 23,
   "state": "open",
-  "updated_at": "2026-10-20T19:58:42Z"
+  "updated_at": "2026-10-21T10:00:22Z"
 }

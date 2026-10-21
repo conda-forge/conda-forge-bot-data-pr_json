@@ -1,27 +1,29 @@
 {
+  "ETag": "\"180e2a731baac04c8ec192fd384f8fa36e764e514225ebae71dbb9930200c84f\"",
+  "Last-Modified": "Wed, 21 Oct 2026 22:48:03 GMT",
   "base": {
     "repo": {
       "name": "r-icarus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T22:47:59Z",
   "closed_by": null,
   "created_at": "2026-10-21T22:44:29Z",
   "draft": false,
   "e_tag": "\"f5021c206256b9d6f87043aa99f67dc776354b82d2870a629dce895b25997e3e\"",
   "head": {
-    "ref": "0.3.4_h41c258"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-icarus-feedstock/pull/7",
   "id": 4959359974,
   "labels": [],
-  "last_fetched": "2026-10-21T22:44:30.066759",
+  "last_fetched": "2026-10-21T22:49:06.091402",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T22:47:59Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-21T22:44:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T22:48:03Z"
 }

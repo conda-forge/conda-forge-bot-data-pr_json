@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"62006ee99715f42ddb66ea3c8921f23e91233950b9cafb49e6ff0e62f2973f53\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"a7b05b7b19011d7ae4d12fe13d82bf19b792308e3d81c58e6cdc6e419d673018\"",
+  "Last-Modified": "Wed, 21 Oct 2026 09:49:58 GMT",
   "base": {
     "repo": {
       "name": "pysnmp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T09:49:58Z",
+  "closed_by": "xhochy",
   "created_at": "2026-04-23T09:27:37Z",
   "draft": false,
   "e_tag": "\"0ccf6c8f5e47fa9df019cb746b82187ffcbdd863b0a5ae67ac0a6947816ccb08\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pysnmp-feedstock/pull/45",
   "id": 3572257186,
   "labels": [],
-  "last_fetched": "2026-10-17T03:59:32.986510",
+  "last_fetched": "2026-10-21T09:51:10.550836",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-04-23T09:29:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T09:49:58Z"
 }

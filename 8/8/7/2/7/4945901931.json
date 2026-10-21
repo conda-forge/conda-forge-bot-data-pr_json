@@ -1,27 +1,29 @@
 {
+  "ETag": "\"190ca9f9269c5084ef3bd7b0d51972f1c7fde9d0e8c60245e0a31a65ae1d450b\"",
+  "Last-Modified": "Wed, 21 Oct 2026 03:35:12 GMT",
   "base": {
     "repo": {
       "name": "porespy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T03:35:08Z",
   "closed_by": null,
   "created_at": "2026-10-21T03:24:12Z",
   "draft": false,
   "e_tag": "\"e81aa4ac17f9b383f6dd9bf392e89ca10012641139e0524bdf33a8f43f26c536\"",
   "head": {
-    "ref": "3.2.0_h1a8ea1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/porespy-feedstock/pull/31",
   "id": 4945901931,
   "labels": [],
-  "last_fetched": "2026-10-21T03:24:12.873309",
+  "last_fetched": "2026-10-21T03:36:48.218094",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T03:35:08Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-21T03:24:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T03:35:12Z"
 }

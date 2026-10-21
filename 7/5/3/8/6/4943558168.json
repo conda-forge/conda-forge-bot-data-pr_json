@@ -1,29 +1,29 @@
 {
-  "ETag": "\"097bb5df1d15c751964781e47102501f2e4ee604e8edb3d41f6ebe25a035a808\"",
-  "Last-Modified": "Tue, 20 Oct 2026 22:49:18 GMT",
+  "ETag": "\"2c65782e5edbeca5c14db8bec2f3c943b720e36be1bb9bc2f390f68cd7d75c03\"",
+  "Last-Modified": "Wed, 21 Oct 2026 14:44:41 GMT",
   "base": {
     "repo": {
       "name": "deeptab-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T14:44:40Z",
   "closed_by": null,
   "created_at": "2026-10-20T22:47:48Z",
   "draft": false,
   "e_tag": "\"8eb494103fedcab3d100b717a3633756f59f22845de689f75bad83359f992934\"",
   "head": {
-    "ref": "2.1.0_h93de23"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deeptab-feedstock/pull/2",
   "id": 4943558168,
   "labels": [],
-  "last_fetched": "2026-10-20T22:59:23.594128",
+  "last_fetched": "2026-10-21T14:55:11.676881",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T14:44:40Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-20T22:49:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T14:44:41Z"
 }

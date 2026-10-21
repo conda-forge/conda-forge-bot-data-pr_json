@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5ccd9dacae7573a6adebc0fc4fff677d9a8518e05f759300aab8f416240ba646\"",
-  "Last-Modified": "Tue, 20 Oct 2026 21:39:25 GMT",
+  "ETag": "\"74c738febeb234703687ace46cc05425d2dd202272d8bc29c2a5a247521d83a5\"",
+  "Last-Modified": "Wed, 21 Oct 2026 08:00:29 GMT",
   "base": {
     "repo": {
       "name": "pydeprecate-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T08:00:29Z",
   "closed_by": null,
   "created_at": "2026-10-20T21:37:52Z",
   "draft": false,
   "e_tag": "\"6feb7459db528dc7fa793f53e3902d86a32ce9fc02cd7c9aef86b14faaeb9eb0\"",
   "head": {
-    "ref": "0.14.0_h72d1a6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pydeprecate-feedstock/pull/19",
   "id": 4942845430,
   "labels": [],
-  "last_fetched": "2026-10-21T02:37:15.403977",
+  "last_fetched": "2026-10-21T08:01:34.155982",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T08:00:29Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-20T21:39:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T08:00:29Z"
 }

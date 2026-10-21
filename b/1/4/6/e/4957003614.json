@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"979a86e4e20f9c581f2cef54e9f90d4f63e007d977870246cc2a958672b24f65\"",
+  "Last-Modified": "Wed, 21 Oct 2026 19:18:51 GMT",
   "base": {
     "repo": {
       "name": "anemoi-inference-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T19:18:51Z",
   "closed_by": null,
   "created_at": "2026-10-21T19:14:24Z",
   "draft": false,
   "e_tag": "\"175789a1ac4055660a50b11022aaf5843b0d6ddc56dbfd88d14a0233a33e4961\"",
   "head": {
-    "ref": "0.13.0_h1977ad"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anemoi-inference-feedstock/pull/8",
   "id": 4957003614,
   "labels": [],
-  "last_fetched": "2026-10-21T19:14:25.027169",
+  "last_fetched": "2026-10-21T19:20:21.824950",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T19:18:51Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-21T19:14:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T19:18:56Z"
 }

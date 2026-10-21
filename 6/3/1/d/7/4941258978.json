@@ -1,5 +1,5 @@
 {
-  "ETag": "\"66b484a4bcfdadfd655c4021431c3f6e66bed0e2febb4daa56cffad37fd9588b\"",
+  "ETag": "W/\"aaf151a401b6b099725c661872ad744d2d723c3332a03d455285e59d5a1aa2e8\"",
   "Last-Modified": "Wed, 21 Oct 2026 05:48:31 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/supervision-feedstock/pull/38",
   "id": 4941258978,
-  "labels": [],
-  "last_fetched": "2026-10-21T05:49:47.647739",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-21T05:48:34.621320",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

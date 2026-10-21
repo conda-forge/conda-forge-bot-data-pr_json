@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e96fdeb1ed757541198c147d7f5a2c02a2da1efdaee348b1a78dba652cf8b78e\"",
+  "Last-Modified": "Wed, 21 Oct 2026 11:08:43 GMT",
   "base": {
     "repo": {
       "name": "reboost-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T11:08:43Z",
   "closed_by": null,
   "created_at": "2026-10-21T11:05:25Z",
   "draft": false,
   "e_tag": "\"d62a29a26e653580a7d1073c8042f334ef06995831b357042a60a34c41d39eb2\"",
   "head": {
-    "ref": "1.4.1_h2a716a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/reboost-feedstock/pull/51",
   "id": 4950529701,
   "labels": [],
-  "last_fetched": "2026-10-21T11:05:25.971673",
+  "last_fetched": "2026-10-21T11:10:13.795826",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T11:08:43Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-21T11:05:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T11:08:47Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5f16d7bc4db68ac9b2740d35caf9d8d097e94499a8155538f94a8ab78bc882db\"",
+  "Last-Modified": "Wed, 21 Oct 2026 08:41:08 GMT",
   "base": {
     "repo": {
       "name": "udkm1dsim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T08:41:07Z",
   "closed_by": null,
   "created_at": "2026-10-21T06:44:39Z",
   "draft": false,
   "e_tag": "\"669edc41cf732d1d69361a3e1d97113897ddc0c96e15dd85a202bdd3cba0018b\"",
   "head": {
-    "ref": "2.5.0_h8c6179"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/udkm1dsim-feedstock/pull/8",
   "id": 4947535714,
   "labels": [],
-  "last_fetched": "2026-10-21T06:44:40.075406",
+  "last_fetched": "2026-10-21T08:42:43.904971",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T08:41:07Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-21T06:44:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T08:41:08Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"aa06edbfa16cf3107f5c771cba07c0443ba68630cf7afdf00edc5a141a297d0c\"",
+  "Last-Modified": "Wed, 21 Oct 2026 18:34:49 GMT",
   "base": {
     "repo": {
       "name": "mkl_random-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T18:34:49Z",
   "closed_by": null,
   "created_at": "2026-10-21T12:58:51Z",
   "draft": false,
   "e_tag": "\"85f162622466f5e10052f9efc0504f11e21f191fc9d89fa076f7887b4ac5c24a\"",
   "head": {
-    "ref": "1.6.0_h60283e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mkl_random-feedstock/pull/60",
   "id": 4951954992,
   "labels": [],
-  "last_fetched": "2026-10-21T12:58:52.924982",
+  "last_fetched": "2026-10-21T18:36:21.811341",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T18:34:49Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-21T12:58:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T18:34:49Z"
 }

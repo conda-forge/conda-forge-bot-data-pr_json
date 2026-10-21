@@ -1,29 +1,29 @@
 {
-  "ETag": "\"67ccd2775d770efc904b63e064771327fec0d97437ad945018ab024b779c3dc6\"",
-  "Last-Modified": "Tue, 20 Oct 2026 11:04:27 GMT",
+  "ETag": "\"c8d5281543fbe2a4f4fc5384fcb308572193b8e9735dfb0334f0dcaea3fdf18a\"",
+  "Last-Modified": "Wed, 21 Oct 2026 12:47:50 GMT",
   "base": {
     "repo": {
       "name": "qcodes-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T12:47:50Z",
   "closed_by": null,
   "created_at": "2026-10-20T10:23:51Z",
   "draft": false,
   "e_tag": "\"6dcf73af081d5efe3e9c5155e5049f71856093a13b1b80251156ff65a4ca0804\"",
   "head": {
-    "ref": "0.61.1_h8a0014"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qcodes-feedstock/pull/122",
   "id": 4934383677,
   "labels": [],
-  "last_fetched": "2026-10-20T11:24:09.822346",
+  "last_fetched": "2026-10-21T12:49:20.121890",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T12:47:50Z",
   "number": 122,
-  "state": "open",
-  "updated_at": "2026-10-20T11:04:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T12:47:50Z"
 }

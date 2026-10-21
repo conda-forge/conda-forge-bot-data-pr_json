@@ -1,27 +1,29 @@
 {
+  "ETag": "\"acab12b83631c3117d49a24c5b5062616ecc6904cd714b7169d9bf4c5e8fa160\"",
+  "Last-Modified": "Wed, 21 Oct 2026 12:46:43 GMT",
   "base": {
     "repo": {
       "name": "timezonefinder-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T12:46:42Z",
   "closed_by": null,
   "created_at": "2026-10-21T12:04:13Z",
   "draft": false,
   "e_tag": "\"13a816df18f6090dd4429be3583b196ccbae9c73be712144b0a085bf1725b0bb\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h4e15ae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/timezonefinder-feedstock/pull/100",
   "id": 4951230031,
   "labels": [],
-  "last_fetched": "2026-10-21T12:04:14.166996",
+  "last_fetched": "2026-10-21T12:48:17.566653",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T12:46:42Z",
   "number": 100,
-  "state": "open",
-  "updated_at": "2026-10-21T12:04:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T12:46:43Z"
 }

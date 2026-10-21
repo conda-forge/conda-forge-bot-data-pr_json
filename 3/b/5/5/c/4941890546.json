@@ -1,13 +1,13 @@
 {
-  "ETag": "\"b24ae3e61145fd74d845c8833c9dc1559557a0c4163da9193521befe3900c0aa\"",
-  "Last-Modified": "Tue, 20 Oct 2026 20:17:50 GMT",
+  "ETag": "W/\"f096ee8df3ced38f968ce99d498052c3af24e934fca59557b1d8073a2d044b38\"",
+  "Last-Modified": "Wed, 21 Oct 2026 07:29:41 GMT",
   "base": {
     "repo": {
       "name": "pyorc-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-21T07:29:41Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-20T20:16:16Z",
   "draft": false,
   "e_tag": "\"4f25dd71d637e6c9618a7d5d2715b67fec8b1c331cf3f01156362471bea00f92\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyorc-feedstock/pull/80",
   "id": 4941890546,
-  "labels": [],
-  "last_fetched": "2026-10-20T21:35:32.742437",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 2684070250,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwyNjg0MDcwMjUw",
+      "url": "https://api.github.com/repos/conda-forge/pyorc-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-21T07:29:44.845070",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 80,
-  "state": "open",
-  "updated_at": "2026-10-20T20:17:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T07:29:41Z"
 }

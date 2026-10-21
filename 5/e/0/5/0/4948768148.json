@@ -1,6 +1,6 @@
 {
-  "ETag": "\"566fa5d6e6d871a8911aad2208d7ec8cf70a1223c717dd7613466efecd5885ef\"",
-  "Last-Modified": "Wed, 21 Oct 2026 08:37:45 GMT",
+  "ETag": "\"774e2b323605222373d46246626e5d2501992e0b98e89f8ffc539b35eb1b987a\"",
+  "Last-Modified": "Wed, 21 Oct 2026 21:35:09 GMT",
   "base": {
     "repo": {
       "name": "theseus-ai-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/theseus-ai-feedstock/pull/37",
   "id": 4948768148,
-  "labels": [],
-  "last_fetched": "2026-10-21T09:28:04.858900",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4929653955,
+      "name": "automerge",
+      "node_id": "LA_kwDOIpk7IM8AAAABJdSMww",
+      "url": "https://api.github.com/repos/conda-forge/theseus-ai-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-21T21:35:28.531661",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 37,
   "state": "open",
-  "updated_at": "2026-10-21T08:37:45Z"
+  "updated_at": "2026-10-21T21:35:09Z"
 }

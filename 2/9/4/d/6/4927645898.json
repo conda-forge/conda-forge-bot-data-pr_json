@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3a96ad4e5eee526dd9993c8cd52795083d770f4b7368675432b4a5a12e70b107\"",
-  "Last-Modified": "Mon, 19 Oct 2026 21:27:54 GMT",
+  "ETag": "\"0eb3d3a7baeacbe5418cfd0c89122e89606fa522cf7dc8d354cccf6d2d580a81\"",
+  "Last-Modified": "Wed, 21 Oct 2026 19:15:05 GMT",
   "base": {
     "repo": {
       "name": "evodag-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T19:15:04Z",
   "closed_by": null,
   "created_at": "2026-10-19T21:26:16Z",
   "draft": false,
   "e_tag": "\"8b38c9a40239f66fa85d6e69813454c6a956c33f19318aecb8668043a1ed59db\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h8e1341"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/evodag-feedstock/pull/8",
   "id": 4927645898,
   "labels": [],
-  "last_fetched": "2026-10-19T22:36:18.002611",
+  "last_fetched": "2026-10-21T19:17:01.505308",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T19:15:04Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-19T21:27:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T19:15:05Z"
 }

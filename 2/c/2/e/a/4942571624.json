@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1f4116256819ca5fcd4549d0bc2dee85b1ff6fefd1395fd393b37a23e21f861f\"",
-  "Last-Modified": "Tue, 20 Oct 2026 21:14:33 GMT",
+  "ETag": "\"bf441be1141989bb3d752a06bf80effd807417c3181092afc67456c546b5a06f\"",
+  "Last-Modified": "Wed, 21 Oct 2026 07:17:21 GMT",
   "base": {
     "repo": {
       "name": "cdshealpix-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T07:17:20Z",
   "closed_by": null,
   "created_at": "2026-10-20T21:12:55Z",
   "draft": false,
   "e_tag": "\"923f2c5abda64308bdc33c779281e90338739c508545b54a5f98fd3bf0a0e143\"",
   "head": {
-    "ref": "0.9.0_h3fc5a2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cdshealpix-feedstock/pull/35",
   "id": 4942571624,
   "labels": [],
-  "last_fetched": "2026-10-21T02:53:34.777272",
+  "last_fetched": "2026-10-21T07:18:24.918315",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T07:17:20Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-20T21:14:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T07:17:21Z"
 }

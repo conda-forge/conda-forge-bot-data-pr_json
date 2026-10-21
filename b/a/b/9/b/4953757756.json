@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7183661dc8c969974d61ed5c7b27c5b50862bc0799a090a664784dbb87a1647c\"",
-  "Last-Modified": "Wed, 21 Oct 2026 15:15:40 GMT",
+  "ETag": "\"aafdf85dca06e9985d5dc2ab2e84fa99f1106f0fb0be0de045d3d442c63567c9\"",
+  "Last-Modified": "Wed, 21 Oct 2026 16:23:17 GMT",
   "base": {
     "repo": {
       "name": "linopy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T16:23:16Z",
   "closed_by": null,
   "created_at": "2026-10-21T15:04:43Z",
   "draft": false,
   "e_tag": "\"3a4994448987639c108ceb648bfd76c8da0f394e168c0480d6cc1118b001297a\"",
   "head": {
-    "ref": "0.10.1_h6f3ee2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/linopy-feedstock/pull/73",
   "id": 4953757756,
   "labels": [],
-  "last_fetched": "2026-10-21T15:25:16.535387",
+  "last_fetched": "2026-10-21T16:39:09.875940",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-21T16:23:16Z",
   "number": 73,
-  "state": "open",
-  "updated_at": "2026-10-21T15:15:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T16:23:17Z"
 }

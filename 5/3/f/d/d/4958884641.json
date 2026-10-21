@@ -1,27 +1,29 @@
 {
+  "ETag": "\"24949aaa575a5e4d340d8016421d15bbd6747ddca799db08cc7503e6c22404e7\"",
+  "Last-Modified": "Wed, 21 Oct 2026 21:56:18 GMT",
   "base": {
     "repo": {
       "name": "openreview-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T21:56:13Z",
   "closed_by": null,
   "created_at": "2026-10-21T21:54:16Z",
   "draft": false,
   "e_tag": "\"aa75f884435fbfbcb5dde160340d2a10d0e056be30c73a39d41d6c2e102c527a\"",
   "head": {
-    "ref": "2.9.1_h4f935a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openreview-py-feedstock/pull/14",
   "id": 4958884641,
   "labels": [],
-  "last_fetched": "2026-10-21T21:54:17.784629",
+  "last_fetched": "2026-10-21T21:57:21.623811",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T21:56:13Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-21T21:54:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T21:56:18Z"
 }

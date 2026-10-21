@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0cd0b07cd7d375584ea3a79b34c546b455f1f7c4011281d331ad4cde563a87d6\"",
+  "Last-Modified": "Wed, 21 Oct 2026 06:49:33 GMT",
   "base": {
     "repo": {
       "name": "mypy-boto3-cloudwatch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-21T06:49:29Z",
   "closed_by": null,
   "created_at": "2026-10-21T06:46:03Z",
   "draft": false,
   "e_tag": "\"65a9f461c795e91dd909880d5b174979f787de8ed7b69b28f40dd9e967455d3f\"",
   "head": {
-    "ref": "1.43.116_h35763f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mypy-boto3-cloudwatch-feedstock/pull/60",
   "id": 4947549535,
   "labels": [],
-  "last_fetched": "2026-10-21T06:46:03.975289",
+  "last_fetched": "2026-10-21T06:51:10.395153",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-21T06:49:29Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-21T06:46:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-21T06:49:33Z"
 }

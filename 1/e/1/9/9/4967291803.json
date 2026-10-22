@@ -1,18 +1,18 @@
 {
-  "ETag": "\"7768a24578b01a50b0747c06c999822ccccae073f37fb5fb0989285e6a71e209\"",
-  "Last-Modified": "Thu, 22 Oct 2026 12:50:57 GMT",
+  "ETag": "\"45ad318bcd9368a9f14d309d944607df130a83526eb877b867d5cca2e43df0f7\"",
+  "Last-Modified": "Thu, 22 Oct 2026 13:00:15 GMT",
   "base": {
     "repo": {
       "name": "intel-media-driver-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T13:00:10Z",
   "closed_by": null,
   "created_at": "2026-10-22T12:24:10Z",
   "draft": false,
   "e_tag": "\"2cfc0edbe221213ea3db7ba508e24bcbca887b8fc7bb04f746f7bce5b011a919\"",
   "head": {
-    "ref": "26.4.1_he21f0f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/intel-media-driver-feedstock/pull/50",
   "id": 4967291803,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/intel-media-driver-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-22T12:52:25.486244",
+  "last_fetched": "2026-10-22T13:01:43.967618",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T13:00:10Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-10-22T12:50:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T13:00:15Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"28654581c2ae405a3190b0cd8e6a615e02d3266c30d2a06d690ae667b2185ead\"",
+  "Last-Modified": "Thu, 22 Oct 2026 14:31:30 GMT",
   "base": {
     "repo": {
       "name": "sqruff-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/sqruff-feedstock/pull/20",
   "id": 4968997844,
-  "labels": [],
-  "last_fetched": "2026-10-22T14:24:40.812474",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7813622092,
+      "name": "automerge",
+      "node_id": "LA_kwDONWPzNM8AAAAB0bppTA",
+      "url": "https://api.github.com/repos/conda-forge/sqruff-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T14:32:43.774679",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 20,
   "state": "open",
-  "updated_at": "2026-10-22T14:24:39Z"
+  "updated_at": "2026-10-22T14:31:30Z"
 }

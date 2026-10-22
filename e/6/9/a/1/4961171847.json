@@ -1,6 +1,6 @@
 {
-  "ETag": "\"8ec077e6f0bedb7f11264ae08902f4a9de3da356c26a72bd40f2b78a6b4c8cdd\"",
-  "Last-Modified": "Thu, 22 Oct 2026 02:28:41 GMT",
+  "ETag": "\"a34ab15e1f6f672ff5a337f6356abcc0928f47102745fa326957da9c244de420\"",
+  "Last-Modified": "Thu, 22 Oct 2026 13:11:44 GMT",
   "base": {
     "repo": {
       "name": "python-dateutil-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/python-dateutil-feedstock/pull/34",
   "id": 4961171847,
-  "labels": [],
-  "last_fetched": "2026-10-22T04:01:45.060995",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891173679,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTczNjc5",
+      "url": "https://api.github.com/repos/conda-forge/python-dateutil-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T13:13:22.852604",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 34,
   "state": "open",
-  "updated_at": "2026-10-22T02:28:41Z"
+  "updated_at": "2026-10-22T13:11:44Z"
 }

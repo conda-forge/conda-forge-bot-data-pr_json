@@ -1,4 +1,6 @@
 {
+  "ETag": "\"48894f971ef968f46a35c5126c9d27ab7d031d2c5ebd559e0591fb3e6766f6f7\"",
+  "Last-Modified": "Thu, 22 Oct 2026 09:24:30 GMT",
   "base": {
     "repo": {
       "name": "cargo-zigbuild-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cargo-zigbuild-feedstock/pull/21",
   "id": 4955555293,
-  "labels": [],
-  "last_fetched": "2026-10-21T17:19:41.344699",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8996978612,
+      "name": "automerge",
+      "node_id": "LA_kwDOPSFdTM8AAAACGEL_tA",
+      "url": "https://api.github.com/repos/conda-forge/cargo-zigbuild-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T09:25:56.100872",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 21,
   "state": "open",
-  "updated_at": "2026-10-21T17:19:39Z"
+  "updated_at": "2026-10-22T09:24:30Z"
 }

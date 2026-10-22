@@ -1,28 +1,28 @@
 {
-  "ETag": "\"b3e1725b7d2f99f5de254ffbe2d2bea9308caeb3273f1c26684e5309279eacac\"",
-  "Last-Modified": "Wed, 21 Oct 2026 17:49:26 GMT",
+  "ETag": "\"9e28e8da5802e6e98bf866c181c68d55c78d771c486a9d43b97480d7b408e754\"",
+  "Last-Modified": "Thu, 22 Oct 2026 12:56:40 GMT",
   "base": {
     "repo": {
       "name": "splunk-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T12:56:40Z",
   "created_at": "2026-09-10T01:57:33Z",
   "draft": false,
   "e_tag": "\"8d1159e3a846149152ab5969c0b3f78477648bb3a1ad65ad002de368d642730f\"",
   "head": {
-    "ref": "3.0.1_h7d3465"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/splunk-sdk-feedstock/pull/3",
   "id": 4491121270,
   "labels": [],
-  "last_fetched": "2026-10-21T22:24:19.116853",
+  "last_fetched": "2026-10-22T12:57:55.187645",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T12:56:40Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-21T17:49:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T12:56:40Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"300480b9ea3ca2f071c5e1f8da52826ebd9fd34749fc3fe1137fccf625db3714\"",
+  "Last-Modified": "Thu, 22 Oct 2026 14:59:52 GMT",
   "base": {
     "repo": {
       "name": "bzip3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T14:59:52Z",
   "closed_by": null,
   "created_at": "2026-10-22T14:50:44Z",
   "draft": false,
   "e_tag": "\"d8f569d02709cdaef55e372cc59d60031672a80e7b4f40c342eb3c0ac2f9610a\"",
   "head": {
-    "ref": "1.5.5_h3b8fa7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bzip3-feedstock/pull/9",
   "id": 4969352907,
   "labels": [],
-  "last_fetched": "2026-10-22T14:50:45.563428",
+  "last_fetched": "2026-10-22T15:01:04.798411",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T14:59:52Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-22T14:50:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T14:59:58Z"
 }

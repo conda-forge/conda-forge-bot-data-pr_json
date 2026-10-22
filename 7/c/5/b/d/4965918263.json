@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5cbc06dc88fa8d66d580c4c91f448cb2de56418871c63f1e2da6067cb2cfe888\"",
+  "Last-Modified": "Thu, 22 Oct 2026 10:46:07 GMT",
   "base": {
     "repo": {
       "name": "swift-sim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T10:46:02Z",
   "closed_by": null,
   "created_at": "2026-10-22T10:30:39Z",
   "draft": false,
   "e_tag": "\"67f625f16fa46d158f921abea2c090f9be570fc217df10346bf973fd96c39e32\"",
   "head": {
-    "ref": "2.1.0_h8e1eea"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/swift-sim-feedstock/pull/22",
   "id": 4965918263,
   "labels": [],
-  "last_fetched": "2026-10-22T10:30:40.744269",
+  "last_fetched": "2026-10-22T10:47:38.567748",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T10:46:02Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-22T10:30:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T10:46:07Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"08c7b9e442a2a211acc75dd0477fcd960f87659a72cc8a50943ffa9412723a65\"",
+  "Last-Modified": "Thu, 22 Oct 2026 15:39:39 GMT",
   "base": {
     "repo": {
       "name": "tslearn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T15:39:39Z",
   "closed_by": null,
   "created_at": "2026-10-22T15:16:05Z",
   "draft": false,
   "e_tag": "\"b911431714cf5edbdbfca55878ce5b2d748005795e3c9a914a9976aa60a13e9c\"",
   "head": {
-    "ref": "0.10.0_h51a79e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tslearn-feedstock/pull/62",
   "id": 4969702453,
   "labels": [],
-  "last_fetched": "2026-10-22T15:16:06.511580",
+  "last_fetched": "2026-10-22T15:41:15.947601",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T15:39:39Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-10-22T15:16:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T15:39:39Z"
 }

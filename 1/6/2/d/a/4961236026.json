@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6ad3d32e3e10432c007877433b68fb311b26f4580e22b77ff0c00ad599a59205\"",
-  "Last-Modified": "Thu, 22 Oct 2026 19:29:40 GMT",
+  "ETag": "\"3abbc26b475a47321ea8fb2ef01cc491a3532869e37405f21f75f907a244982b\"",
+  "Last-Modified": "Thu, 22 Oct 2026 20:58:20 GMT",
   "base": {
     "repo": {
       "name": "tantivy-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T20:58:19Z",
   "closed_by": null,
   "created_at": "2026-10-22T02:35:31Z",
   "draft": false,
   "e_tag": "\"d5a2e0f466a313ac767faf5ef75d97bb48cbbc36e50bdaa1c1d8be87629678a2\"",
   "head": {
-    "ref": "0.27.0_h395a67"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tantivy-py-feedstock/pull/14",
   "id": 4961236026,
   "labels": [],
-  "last_fetched": "2026-10-22T19:46:50.385815",
+  "last_fetched": "2026-10-22T20:59:50.899345",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T20:58:19Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-22T19:29:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T20:58:20Z"
 }

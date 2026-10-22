@@ -1,4 +1,6 @@
 {
+  "ETag": "\"d0dc2d0db7689d20e37efda739f4813e38164f9994bacf0d4854c8c912bc85e3\"",
+  "Last-Modified": "Thu, 22 Oct 2026 02:33:51 GMT",
   "base": {
     "repo": {
       "name": "cython-feedstock"
@@ -7,7 +9,7 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-10-22T01:25:52Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"cfb4aa650ed9ce07bd4ac5db3a2e0a72688f163d98e044034aa548ffd828e411\"",
   "head": {
     "ref": "bot-pr_riscv64_h6098f2"
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/cython-feedstock/pull/198",
   "id": 4960675174,
   "labels": [],
-  "last_fetched": "2026-10-22T01:25:54.311885",
+  "last_fetched": "2026-10-22T04:03:18.558386",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 198,
   "state": "open",
-  "updated_at": "2026-10-22T01:25:52Z"
+  "updated_at": "2026-10-22T02:33:51Z"
 }

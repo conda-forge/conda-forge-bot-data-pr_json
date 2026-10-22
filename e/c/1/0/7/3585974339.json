@@ -1,12 +1,13 @@
 {
-  "ETag": "\"f013bc10853df6d5176b818e6aa4392623afa2df7553623d341b4ca51fd0d016\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"8fbbfe75e1e2815d3622d92940ff1c7f43d540c86c785b2373772c34425e90e3\"",
+  "Last-Modified": "Thu, 22 Oct 2026 19:16:36 GMT",
   "base": {
     "repo": {
       "name": "nvmolkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T19:16:36Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-04-26T16:15:07Z",
   "draft": false,
   "e_tag": "\"12491e74072bd2f4c44b52b7dccbc2c482dd89d838c91e692220b19d07cfd51c\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/nvmolkit-feedstock/pull/22",
   "id": 3585974339,
-  "labels": [],
-  "last_fetched": "2026-10-20T06:00:52.960790",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 9521857182,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOQItgWs8AAAACN4wCng",
+      "url": "https://api.github.com/repos/conda-forge/nvmolkit-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-22T19:16:39.740122",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-04-26T16:36:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T19:16:36Z"
 }

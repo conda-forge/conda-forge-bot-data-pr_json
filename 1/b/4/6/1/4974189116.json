@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c4715b0afb3cc75ad266d55907baee62c72a6397e8730c1af79c5909eea3f917\"",
+  "Last-Modified": "Thu, 22 Oct 2026 21:31:48 GMT",
   "base": {
     "repo": {
       "name": "selectolax-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T21:31:48Z",
   "closed_by": null,
   "created_at": "2026-10-22T21:12:19Z",
   "draft": false,
   "e_tag": "\"147aa86c43c5f2f102e090c1712933e3d182fae77b47c0fe92767932efe48123\"",
   "head": {
-    "ref": "1.0.2_hc5e056"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/selectolax-feedstock/pull/39",
   "id": 4974189116,
   "labels": [],
-  "last_fetched": "2026-10-22T21:12:20.829527",
+  "last_fetched": "2026-10-22T21:33:00.088853",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T21:31:48Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-10-22T21:12:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T21:31:53Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b68c76d5966512294a70387edd0b73f1a1ed72dbbd0c53fc0392371576d95f69\"",
+  "Last-Modified": "Thu, 22 Oct 2026 21:17:49 GMT",
   "base": {
     "repo": {
       "name": "r-mc2d-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T21:17:44Z",
   "closed_by": null,
   "created_at": "2026-10-22T21:13:23Z",
   "draft": false,
   "e_tag": "\"939b5eb75d88ac5aea5004d116cf7bf78f2e2b510edd71b9a64d6fbe95024d30\"",
   "head": {
-    "ref": "0.3.0_h1cb192"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-mc2d-feedstock/pull/17",
   "id": 4974200881,
   "labels": [],
-  "last_fetched": "2026-10-22T21:13:24.068267",
+  "last_fetched": "2026-10-22T21:20:35.895295",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T21:17:44Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-22T21:13:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T21:17:49Z"
 }

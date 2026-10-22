@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f6845d47eca1be595f15511094080b1aa6b14d6083232e33754c0c546f573c37\"",
+  "Last-Modified": "Thu, 22 Oct 2026 03:23:08 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-aws-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T03:23:04Z",
   "closed_by": null,
   "created_at": "2026-10-22T02:37:32Z",
   "draft": false,
   "e_tag": "\"8f0ac2987b879abceecd42f82010adef222d5c0992cc5f94ade0b2a00995ad50\"",
   "head": {
-    "ref": "6.70.0_he01a55"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-aws-feedstock/pull/393",
   "id": 4961251241,
   "labels": [],
-  "last_fetched": "2026-10-22T02:37:33.717597",
+  "last_fetched": "2026-10-22T03:24:43.847864",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T03:23:04Z",
   "number": 393,
-  "state": "open",
-  "updated_at": "2026-10-22T02:37:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T03:23:08Z"
 }

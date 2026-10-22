@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c49295df2d8398c77954a1a5779e591bdea42284952b04badff450b9648b0ad7\"",
-  "Last-Modified": "Thu, 22 Oct 2026 03:24:58 GMT",
+  "ETag": "\"f9d060190131a60b73e29fed9766c0102cff3902464686fbc56cdd9f71ecf1fa\"",
+  "Last-Modified": "Thu, 22 Oct 2026 22:07:05 GMT",
   "base": {
     "repo": {
       "name": "rectangle-packer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T22:07:05Z",
   "closed_by": null,
   "created_at": "2026-10-22T03:23:29Z",
   "draft": false,
   "e_tag": "\"84b4f15f9a844382aca9206e698a48af72ba09500c31a7e23a77e08591b6f7f7\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hf450b8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rectangle-packer-feedstock/pull/30",
   "id": 4961604815,
   "labels": [],
-  "last_fetched": "2026-10-22T05:27:04.583733",
+  "last_fetched": "2026-10-22T22:08:42.324778",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T22:07:04Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-22T03:24:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T22:07:05Z"
 }

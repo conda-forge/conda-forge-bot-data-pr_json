@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"a5b9004ab846b4c1ed883734c83ac47d814e6f3ef4de1deda1d589d659753755\"",
-  "Last-Modified": "Fri, 09 Oct 2026 18:39:08 GMT",
+  "ETag": "\"4bfe75790cb0db7757bf01c78a158df3d8fb7fbabe7eadc0d6016d705178f260\"",
+  "Last-Modified": "Thu, 22 Oct 2026 11:34:40 GMT",
   "base": {
     "repo": {
       "name": "pyavd-utils-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T11:34:39Z",
   "created_at": "2026-10-09T18:37:29Z",
   "draft": false,
   "e_tag": "\"0c6955472fd95d176c452cad5372b1943910f62254cbe5511d9ebd244cc9ea53\"",
   "head": {
-    "ref": "0.0.12_h234b59"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyavd-utils-feedstock/pull/7",
   "id": 4804433343,
   "labels": [],
-  "last_fetched": "2026-10-16T20:50:18.237358",
+  "last_fetched": "2026-10-22T11:36:20.362843",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T11:34:39Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-09T18:39:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T11:34:40Z"
 }

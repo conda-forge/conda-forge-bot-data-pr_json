@@ -1,27 +1,29 @@
 {
+  "ETag": "\"78fabcfbfdf3b911c7f5b0a2a7e1ace72135debc4bf11089dd3c61055742d8f2\"",
+  "Last-Modified": "Thu, 22 Oct 2026 05:52:36 GMT",
   "base": {
     "repo": {
       "name": "langfuse-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T05:52:31Z",
   "closed_by": null,
   "created_at": "2026-10-22T05:50:17Z",
   "draft": false,
   "e_tag": "\"90df9cc7ed3bb8df30da855711485e15d32e1169563e16782d2268ccde92e6fb\"",
   "head": {
-    "ref": "5.0.4_haee1a9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langfuse-python-feedstock/pull/101",
   "id": 4962769877,
   "labels": [],
-  "last_fetched": "2026-10-22T05:50:18.199046",
+  "last_fetched": "2026-10-22T05:54:13.800054",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T05:52:31Z",
   "number": 101,
-  "state": "open",
-  "updated_at": "2026-10-22T05:50:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T05:52:36Z"
 }

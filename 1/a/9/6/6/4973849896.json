@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0ec881ced5d992bb5223b6fa37ba7f4e905b3f993be64fcb82c23d84057759d4\"",
+  "Last-Modified": "Thu, 22 Oct 2026 20:46:25 GMT",
   "base": {
     "repo": {
       "name": "configparser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T20:46:20Z",
   "closed_by": null,
   "created_at": "2026-10-22T20:42:48Z",
   "draft": false,
   "e_tag": "\"be2de9d4731d968393eca94b8c693de2e83d1e27c6cd6d1d275730d6fbd6e01a\"",
   "head": {
-    "ref": "7.3.0_h84af16"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/configparser-feedstock/pull/49",
   "id": 4973849896,
   "labels": [],
-  "last_fetched": "2026-10-22T20:42:49.307715",
+  "last_fetched": "2026-10-22T20:47:51.317363",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T20:46:20Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-22T20:42:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T20:46:25Z"
 }

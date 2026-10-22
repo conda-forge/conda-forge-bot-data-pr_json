@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a4e8a2b05acc68b39dc85b2f51d738c2ef62db7003f175f26e6fdbb21ad75961\"",
-  "Last-Modified": "Thu, 22 Oct 2026 02:24:40 GMT",
+  "ETag": "\"1bd696cdfa3f72ca3dbac7943f2769df9d9b486c055513a956a500a4daf38811\"",
+  "Last-Modified": "Thu, 22 Oct 2026 13:53:15 GMT",
   "base": {
     "repo": {
       "name": "tidalpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T13:53:15Z",
   "closed_by": null,
   "created_at": "2026-10-22T02:23:02Z",
   "draft": false,
   "e_tag": "\"f9184424e86ddbc3cc900a70ffed89774183d7c0e29c497d953cd75da463420b\"",
   "head": {
-    "ref": "0.8.1_hd766f3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tidalpy-feedstock/pull/18",
   "id": 4961140700,
   "labels": [],
-  "last_fetched": "2026-10-22T04:51:15.925963",
+  "last_fetched": "2026-10-22T13:55:08.897063",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T13:53:15Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-22T02:24:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T13:53:15Z"
 }

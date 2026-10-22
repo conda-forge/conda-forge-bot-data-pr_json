@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e661e01b85b01adcb62958f91793d4eb624f465657bcb2e94a098cefd62ab6b0\"",
+  "Last-Modified": "Thu, 22 Oct 2026 11:41:05 GMT",
   "base": {
     "repo": {
       "name": "gsffile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T11:41:01Z",
   "closed_by": null,
   "created_at": "2026-10-22T11:39:20Z",
   "draft": false,
   "e_tag": "\"3a3993c69f87cfd0d16d61b915d3c368a8c05402be411839d7fbbed5aca215e9\"",
   "head": {
-    "ref": "0.5.5_he371e3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gsffile-feedstock/pull/14",
   "id": 4966735004,
   "labels": [],
-  "last_fetched": "2026-10-22T11:39:20.917615",
+  "last_fetched": "2026-10-22T11:42:58.684516",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T11:41:01Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-22T11:39:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T11:41:05Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"002c99f63f9f761ea6b15c4d37deecc78485971f094ad59716ef27fcc8e31694\"",
-  "Last-Modified": "Wed, 21 Oct 2026 18:25:16 GMT",
+  "ETag": "\"0f453d60c74ab113c937bbc1ddbb359be58b5f6b6391f76963fb053acff234ec\"",
+  "Last-Modified": "Thu, 22 Oct 2026 10:46:08 GMT",
   "base": {
     "repo": {
       "name": "findiff-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T10:46:08Z",
   "closed_by": null,
   "created_at": "2026-10-21T18:23:34Z",
   "draft": false,
   "e_tag": "\"5ed84a2d2f829a2a5d58330b706b22198aeb8551fd7e068fd9f5601c65b3b444\"",
   "head": {
-    "ref": "0.14.0_h90977f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/findiff-feedstock/pull/19",
   "id": 4956364630,
   "labels": [],
-  "last_fetched": "2026-10-21T22:23:40.996410",
+  "last_fetched": "2026-10-22T10:48:04.744055",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T10:46:08Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-21T18:25:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T10:46:08Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"91fd4f03f13afa0bdc81853d669eccafcc3a89302a6c334dae155ee16301681e\"",
-  "Last-Modified": "Wed, 21 Oct 2026 20:05:47 GMT",
+  "ETag": "\"7322296d7cee6f2db0b7afa00356f9d0062ee33652bf6b1858635c4009e2b164\"",
+  "Last-Modified": "Thu, 22 Oct 2026 00:32:56 GMT",
   "base": {
     "repo": {
       "name": "nginx-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/nginx-feedstock/pull/115",
   "id": 4954969848,
-  "labels": [],
-  "last_fetched": "2026-10-21T21:38:28.750274",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891025076,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDI1MDc2",
+      "url": "https://api.github.com/repos/conda-forge/nginx-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T00:34:03.989521",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 115,
   "state": "open",
-  "updated_at": "2026-10-21T20:05:47Z"
+  "updated_at": "2026-10-22T00:32:56Z"
 }

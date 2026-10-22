@@ -1,11 +1,13 @@
 {
+  "ETag": "W/\"22e343924624db500ec5bef7cb06d5c9e852d7f8fc7a2561d6da44617ad4fa07\"",
+  "Last-Modified": "Thu, 22 Oct 2026 20:48:04 GMT",
   "base": {
     "repo": {
       "name": "aiida-core-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-22T20:48:04Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-22T17:25:03Z",
   "draft": false,
   "e_tag": "\"648755e48c5435ba7dfb677c7b31fee7eee5d1417758aaac2491b8eed57765f8\"",
@@ -14,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/aiida-core-feedstock/pull/144",
   "id": 4971404659,
-  "labels": [],
-  "last_fetched": "2026-10-22T17:25:04.467629",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-22T20:48:07.392280",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 144,
-  "state": "open",
-  "updated_at": "2026-10-22T17:25:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T20:48:04Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "W/\"0c3469c86ffd412e1bca220624243073f84009f30e0442ce43360e5704b985d0\"",
+  "ETag": "\"ef40054e5621985a7255500bf08515a06718590957dad6356cdb93335b0cbc8e\"",
   "Last-Modified": "Tue, 08 Sep 2026 21:22:09 GMT",
   "base": {
     "repo": {
@@ -11,7 +11,7 @@
   "draft": false,
   "e_tag": "\"c24e3637dc316bb367e301ada183eac02a9e2845aa5a0c3e85e97421b828248b\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h18fc31"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rectangle-packer-feedstock/pull/28",
   "id": 4449415310,
@@ -26,12 +26,15 @@
       "name": "automerge",
       "node_id": "LA_kwDOGT81JM7RIa52",
       "url": "https://api.github.com/repos/conda-forge/rectangle-packer-feedstock/labels/automerge"
+    },
+    {
+      "name": "bot-rerun"
     }
   ],
-  "last_fetched": "2026-10-14T23:59:13.579788",
+  "last_fetched": "2026-10-22T00:54:57.264526",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 28,

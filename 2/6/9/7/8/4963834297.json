@@ -1,29 +1,41 @@
 {
-  "ETag": "\"804bd39a4e58670aaa4be8c7eec084a4e794377e63acce169fc4d74b9dd5c806\"",
-  "Last-Modified": "Thu, 22 Oct 2026 07:40:10 GMT",
+  "ETag": "\"c2598aec20aa197f9e28d378fae468b12b4c69823922cf1791897bf05646f06d\"",
+  "Last-Modified": "Thu, 22 Oct 2026 11:08:22 GMT",
   "base": {
     "repo": {
       "name": "mpl-probscale-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T11:08:18Z",
   "closed_by": null,
   "created_at": "2026-10-22T07:38:36Z",
   "draft": false,
   "e_tag": "\"a9ac4fd96753aa70954b752728b495bc18c8c9e1833f51db65a77571ac9d43a3\"",
   "head": {
-    "ref": "0.3.0_hb1f40b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mpl-probscale-feedstock/pull/19",
   "id": 4963834297,
-  "labels": [],
-  "last_fetched": "2026-10-22T10:48:51.184259",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891020911,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDIwOTEx",
+      "url": "https://api.github.com/repos/conda-forge/mpl-probscale-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T11:08:35.272258",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T11:08:18Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-22T07:40:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T11:08:22Z"
 }

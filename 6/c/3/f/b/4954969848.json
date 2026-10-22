@@ -1,18 +1,18 @@
 {
-  "ETag": "\"7322296d7cee6f2db0b7afa00356f9d0062ee33652bf6b1858635c4009e2b164\"",
-  "Last-Modified": "Thu, 22 Oct 2026 00:32:56 GMT",
+  "ETag": "\"a5e790d040ebc285cae74e639d66c82161be30bce6b16d307fdbc7bbf3cd3d21\"",
+  "Last-Modified": "Thu, 22 Oct 2026 00:36:51 GMT",
   "base": {
     "repo": {
       "name": "nginx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T00:36:47Z",
   "closed_by": null,
   "created_at": "2026-10-21T16:34:21Z",
   "draft": false,
   "e_tag": "\"47c0348a1aa911005791fb3245e30659265631f2020377a7c32b14469a3c5be0\"",
   "head": {
-    "ref": "1.31.8_h46b4c7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nginx-feedstock/pull/115",
   "id": 4954969848,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/nginx-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-22T00:34:03.989521",
+  "last_fetched": "2026-10-22T00:38:22.301096",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T00:36:47Z",
   "number": 115,
-  "state": "open",
-  "updated_at": "2026-10-22T00:32:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T00:36:51Z"
 }

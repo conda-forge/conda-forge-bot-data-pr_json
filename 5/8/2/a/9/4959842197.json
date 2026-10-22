@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e017510a33c21381b7dff4706707f4d5b18a0f6fdd2a07e4e4863219911563fd\"",
+  "Last-Modified": "Thu, 22 Oct 2026 00:30:00 GMT",
   "base": {
     "repo": {
       "name": "rembg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T00:30:00Z",
   "closed_by": null,
   "created_at": "2026-10-21T23:42:02Z",
   "draft": false,
   "e_tag": "\"d949a805d26a07ef6614727e9c81ec45342f1ff53e08d3ce585e36d8eaa32664\"",
   "head": {
-    "ref": "2.0.86_h48cd2d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rembg-feedstock/pull/34",
   "id": 4959842197,
   "labels": [],
-  "last_fetched": "2026-10-21T23:42:03.254870",
+  "last_fetched": "2026-10-22T00:31:04.975491",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T00:30:00Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-21T23:42:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T00:30:00Z"
 }

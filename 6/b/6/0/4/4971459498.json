@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f19b2566f943c8bee4ebbd5cf53740ce8b09c91054a9da794a408d1c2ed2ad9a\"",
+  "Last-Modified": "Thu, 22 Oct 2026 17:31:46 GMT",
   "base": {
     "repo": {
       "name": "assyst-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T17:31:42Z",
   "closed_by": null,
   "created_at": "2026-10-22T17:29:27Z",
   "draft": false,
   "e_tag": "\"a6edd08833a4520bd260b5f81edc27a4704032fb04176145749d7cd1aea04944\"",
   "head": {
-    "ref": "1.0.0_hb22427"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/assyst-feedstock/pull/29",
   "id": 4971459498,
   "labels": [],
-  "last_fetched": "2026-10-22T17:29:28.087047",
+  "last_fetched": "2026-10-22T17:33:56.490590",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T17:31:42Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-22T17:29:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T17:31:46Z"
 }

@@ -1,27 +1,41 @@
 {
+  "ETag": "\"5881e0b3caca86a4c6d59dc9cdf1900f65b53363b05b24a04f9812d891a61e4e\"",
+  "Last-Modified": "Thu, 22 Oct 2026 17:33:47 GMT",
   "base": {
     "repo": {
       "name": "udtools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T17:33:47Z",
   "closed_by": null,
   "created_at": "2026-10-22T17:17:11Z",
   "draft": false,
   "e_tag": "\"b4c13a5d05a522582b6c2c814a2468f66b9611bd842810a26ddd1e0045d6284d\"",
   "head": {
-    "ref": "0.2.9_h994399"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/udtools-feedstock/pull/3",
   "id": 4971304024,
-  "labels": [],
-  "last_fetched": "2026-10-22T17:17:12.537684",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10451521259,
+      "name": "automerge",
+      "node_id": "LA_kwDORphEHM8AAAACbvWO6w",
+      "url": "https://api.github.com/repos/conda-forge/udtools-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T17:33:53.350542",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T17:33:47Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-22T17:17:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T17:33:52Z"
 }

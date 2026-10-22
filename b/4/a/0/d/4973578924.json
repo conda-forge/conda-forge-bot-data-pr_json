@@ -1,27 +1,29 @@
 {
+  "ETag": "\"670b2dc7c677d66d65276a4528ecf2e3f1af6b780d56e11fd2fb43fb432a0c6d\"",
+  "Last-Modified": "Thu, 22 Oct 2026 20:25:07 GMT",
   "base": {
     "repo": {
       "name": "sqlfluff-lsp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T20:25:02Z",
   "closed_by": null,
   "created_at": "2026-10-22T20:20:16Z",
   "draft": false,
   "e_tag": "\"9c92ce7907b7049a0246c209a914d7e95aa81a5f6d29529927d7c99d38d4069b\"",
   "head": {
-    "ref": "0.6.1_h26f5b4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sqlfluff-lsp-feedstock/pull/11",
   "id": 4973578924,
   "labels": [],
-  "last_fetched": "2026-10-22T20:20:17.638165",
+  "last_fetched": "2026-10-22T20:26:35.932708",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T20:25:02Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-22T20:20:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T20:25:07Z"
 }

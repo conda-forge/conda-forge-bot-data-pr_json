@@ -1,6 +1,6 @@
 {
-  "ETag": "\"72b96a7b924bfbbd30578e9c2de50a525e5abd630aa9a6745186be8b90843ff6\"",
-  "Last-Modified": "Thu, 22 Oct 2026 09:59:30 GMT",
+  "ETag": "\"6e1905f1e0ecd969b0f3060ff054c4f185fb77d18076b82832e62b81928c3797\"",
+  "Last-Modified": "Thu, 22 Oct 2026 14:04:30 GMT",
   "base": {
     "repo": {
       "name": "tzlocal-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/tzlocal-feedstock/pull/45",
   "id": 4965521406,
-  "labels": [],
-  "last_fetched": "2026-10-22T10:59:16.173907",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891421655,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDIxNjU1",
+      "url": "https://api.github.com/repos/conda-forge/tzlocal-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T14:04:49.087181",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 45,
   "state": "open",
-  "updated_at": "2026-10-22T09:59:30Z"
+  "updated_at": "2026-10-22T14:04:30Z"
 }

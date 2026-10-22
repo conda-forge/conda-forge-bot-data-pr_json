@@ -1,28 +1,28 @@
 {
-  "ETag": "\"1f44e48f061695d332afe8bd19f50f9c01ac8cd34bce698f0a4945316f8bcbd7\"",
-  "Last-Modified": "Wed, 30 Sep 2026 02:36:05 GMT",
+  "ETag": "\"7ca683910562ab63feb0666ac6c4b2085d6265d7c3480da765c0964474c6480b\"",
+  "Last-Modified": "Thu, 22 Oct 2026 15:40:17 GMT",
   "base": {
     "repo": {
       "name": "python-gnupg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T15:40:17Z",
   "created_at": "2026-09-30T02:34:20Z",
   "draft": false,
   "e_tag": "\"5d270e9664ad5e24f80152a7fcf2dcedc83282acf68b52c0dce5f6e45547b76e\"",
   "head": {
-    "ref": "0.5.7_h59c5a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-gnupg-feedstock/pull/21",
   "id": 4685009043,
   "labels": [],
-  "last_fetched": "2026-10-21T14:00:07.264275",
+  "last_fetched": "2026-10-22T15:41:46.000197",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T15:40:17Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-09-30T02:36:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T15:40:17Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4c1cc8e636391c9db89914378f8963d7eb725143e7295e31ac7eddc447da8869\"",
+  "Last-Modified": "Thu, 22 Oct 2026 11:15:09 GMT",
   "base": {
     "repo": {
       "name": "cryspy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T11:15:09Z",
   "closed_by": null,
   "created_at": "2026-10-22T10:28:15Z",
   "draft": false,
   "e_tag": "\"0c1cb8fa0799290ccab64dfa5449ea02afcc8ae79977e3ad62bfba09136a8dd3\"",
   "head": {
-    "ref": "0.17.0_hed3b27"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cryspy-feedstock/pull/18",
   "id": 4965888249,
   "labels": [],
-  "last_fetched": "2026-10-22T10:28:15.950851",
+  "last_fetched": "2026-10-22T11:16:48.187086",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T11:15:09Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-22T10:28:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T11:15:09Z"
 }

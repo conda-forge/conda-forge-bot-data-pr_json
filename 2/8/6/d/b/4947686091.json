@@ -1,18 +1,18 @@
 {
-  "ETag": "\"4fc761e4d333a692ac969269df9a6a5494a9ea2cc88a6062867606d5c3462aa9\"",
-  "Last-Modified": "Wed, 21 Oct 2026 21:20:56 GMT",
+  "ETag": "\"12881cacf026663807d734af80fc8fe3d90a283505fe15039baaedcf0b744e7a\"",
+  "Last-Modified": "Thu, 22 Oct 2026 00:41:40 GMT",
   "base": {
     "repo": {
       "name": "momentum-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T00:41:36Z",
   "closed_by": null,
   "created_at": "2026-10-21T06:59:16Z",
   "draft": false,
   "e_tag": "\"77156d7c9bafeeed37801b143fe013a35c983014b8f95be866a5e6c17ede5936\"",
   "head": {
-    "ref": "rebuild-pytorch214-0-1_had776e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/momentum-feedstock/pull/309",
   "id": 4947686091,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/momentum-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-21T21:22:13.719332",
+  "last_fetched": "2026-10-22T00:42:42.429669",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T00:41:36Z",
   "number": 309,
-  "state": "open",
-  "updated_at": "2026-10-21T21:20:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T00:41:40Z"
 }

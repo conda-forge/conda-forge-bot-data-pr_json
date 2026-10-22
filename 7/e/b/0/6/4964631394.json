@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c951da492290870b2f341737715f55fcbd0d6e39c43f1fe7e2db20216c0ab50c\"",
-  "Last-Modified": "Thu, 22 Oct 2026 08:47:41 GMT",
+  "ETag": "\"603822095d97a27b8c2e3ec076a76fff191090dbf750854eb28a2298cc0c97bf\"",
+  "Last-Modified": "Thu, 22 Oct 2026 11:42:48 GMT",
   "base": {
     "repo": {
       "name": "wcmatch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T11:42:48Z",
   "closed_by": null,
   "created_at": "2026-10-22T08:46:05Z",
   "draft": false,
   "e_tag": "\"33f9c15662c09f7e16b6c3816832d5818ee906cb42eddf983efb3336f40bb91c\"",
   "head": {
-    "ref": "11.2_he3cebe"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wcmatch-feedstock/pull/27",
   "id": 4964631394,
   "labels": [],
-  "last_fetched": "2026-10-22T08:55:28.519424",
+  "last_fetched": "2026-10-22T11:43:55.680574",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T11:42:48Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-22T08:47:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T11:42:48Z"
 }

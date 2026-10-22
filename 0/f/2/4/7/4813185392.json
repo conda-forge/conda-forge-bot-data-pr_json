@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"e93adb91643661da2f68e6a8e69377365d6f4f6d67196580919073f191ee0fbf\"",
-  "Last-Modified": "Sat, 10 Oct 2026 17:39:59 GMT",
+  "ETag": "\"439e7a99d35862c1e46570d59b0a311ffe4fe15108ab5516a2a8278da2e721fe\"",
+  "Last-Modified": "Thu, 22 Oct 2026 00:06:02 GMT",
   "base": {
     "repo": {
       "name": "pyspellchecker-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T00:06:02Z",
+  "closed_by": "jsmolic",
   "created_at": "2026-10-10T17:38:15Z",
   "draft": false,
   "e_tag": "\"2e9be3e416a469e148b45f011a0b1607ac1c58523b6eb0b2fc9f94a53ba461f3\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pyspellchecker-feedstock/pull/21",
   "id": 4813185392,
   "labels": [],
-  "last_fetched": "2026-10-17T23:44:32.773744",
+  "last_fetched": "2026-10-22T00:07:09.663084",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-10T17:39:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T00:06:02Z"
 }

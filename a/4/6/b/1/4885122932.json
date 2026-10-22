@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"59cb59454b72619b095a23191acd7b8596ccd44915fde43b6f3baed73015fc65\"",
-  "Last-Modified": "Fri, 16 Oct 2026 07:42:30 GMT",
+  "ETag": "\"be3286ed9f7f70231a5bee9e94316e0ff97f714b538b9183855b69a3f9527e5b\"",
+  "Last-Modified": "Thu, 22 Oct 2026 07:28:26 GMT",
   "base": {
     "repo": {
       "name": "xorg-libxshmfence-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/xorg-libxshmfence-feedstock/pull/8",
   "id": 4885122932,
-  "labels": [],
-  "last_fetched": "2026-10-16T20:37:08.314031",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7457858308,
+      "name": "automerge",
+      "node_id": "LA_kwDOMw8X788AAAABvIXjBA",
+      "url": "https://api.github.com/repos/conda-forge/xorg-libxshmfence-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T07:29:35.485211",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 8,
   "state": "open",
-  "updated_at": "2026-10-16T07:42:30Z"
+  "updated_at": "2026-10-22T07:28:26Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"26bec67898fa9414bb94148fc6bcb5048e7a0bd4e88c29df30eafcc6bac47c4c\"",
-  "Last-Modified": "Thu, 22 Oct 2026 16:23:53 GMT",
+  "ETag": "\"302673e63e31075b782717385e13572a063174d1200a195c79923749e4d819d7\"",
+  "Last-Modified": "Thu, 22 Oct 2026 17:14:06 GMT",
   "base": {
     "repo": {
       "name": "uv-build-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T17:14:06Z",
   "closed_by": null,
   "created_at": "2026-10-22T03:02:21Z",
   "draft": false,
   "e_tag": "\"36805480a4586c2de7fb309d1eb473525ded192e6bef3442d801c6a523453da8\"",
   "head": {
-    "ref": "0.13.5_h5f6317"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uv-build-feedstock/pull/160",
   "id": 4961441305,
   "labels": [],
-  "last_fetched": "2026-10-22T16:59:53.916716",
+  "last_fetched": "2026-10-22T17:15:51.713909",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T17:14:06Z",
   "number": 160,
-  "state": "open",
-  "updated_at": "2026-10-22T16:23:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T17:14:06Z"
 }

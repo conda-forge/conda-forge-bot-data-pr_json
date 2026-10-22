@@ -1,27 +1,29 @@
 {
+  "ETag": "\"13c7aba099bb37668acb4a6bcd1d6b85c95d6b1c6539638ad647482bf6267331\"",
+  "Last-Modified": "Thu, 22 Oct 2026 17:50:57 GMT",
   "base": {
     "repo": {
       "name": "icu-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T17:50:56Z",
   "closed_by": null,
   "created_at": "2026-10-22T17:30:19Z",
   "draft": false,
   "e_tag": "\"04d7cdd5166a336e558980b83dd3269f767f011a0ba6df88d44f39441872c836\"",
   "head": {
-    "ref": "79.1_hef1156"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/icu-feedstock/pull/54",
   "id": 4971471325,
   "labels": [],
-  "last_fetched": "2026-10-22T17:30:20.089367",
+  "last_fetched": "2026-10-22T17:52:42.356484",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T17:50:56Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-22T17:30:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T17:50:57Z"
 }

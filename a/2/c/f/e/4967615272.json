@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0f90ddefb51f1f27c177b31fb75e33fd249df59b037c025ad9f4aa55055244a9\"",
+  "Last-Modified": "Thu, 22 Oct 2026 12:50:18 GMT",
   "base": {
     "repo": {
       "name": "composio-openai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T12:50:14Z",
   "closed_by": null,
   "created_at": "2026-10-22T12:48:23Z",
   "draft": false,
   "e_tag": "\"41f5503dc0cb5c16379e504cb957e390d29a32ca3a160b91b5700d8c56e17153\"",
   "head": {
-    "ref": "0.29.1_h78fcdb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/composio-openai-feedstock/pull/58",
   "id": 4967615272,
   "labels": [],
-  "last_fetched": "2026-10-22T12:48:24.236255",
+  "last_fetched": "2026-10-22T12:51:49.930431",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T12:50:14Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-22T12:48:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T12:50:18Z"
 }

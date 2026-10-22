@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bc19665c7d34c83de87234c79b5459d0f6827f640400643727e0fb793efe196f\"",
+  "Last-Modified": "Thu, 22 Oct 2026 18:35:40 GMT",
   "base": {
     "repo": {
       "name": "pyexasol-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T18:35:36Z",
   "closed_by": null,
   "created_at": "2026-10-22T18:33:38Z",
   "draft": false,
   "e_tag": "\"fd7697546c1b49411e185a44beb262d97f4283946cc6767463c582d04ab60c32\"",
   "head": {
-    "ref": "3.0.1_he1c7c5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyexasol-feedstock/pull/66",
   "id": 4972266060,
   "labels": [],
-  "last_fetched": "2026-10-22T18:33:39.350710",
+  "last_fetched": "2026-10-22T18:37:10.011163",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T18:35:36Z",
   "number": 66,
-  "state": "open",
-  "updated_at": "2026-10-22T18:33:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T18:35:40Z"
 }

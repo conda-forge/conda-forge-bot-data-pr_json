@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9d1d8f811bcec14fce78f91fbf9a86204d8978c7c162d2561b8681e3b6626cd9\"",
-  "Last-Modified": "Tue, 20 Oct 2026 17:09:04 GMT",
+  "ETag": "\"32d3369a8f822780ab16be9a4bbe9e885b983b367885497b2945dff420e73b52\"",
+  "Last-Modified": "Thu, 22 Oct 2026 15:42:45 GMT",
   "base": {
     "repo": {
       "name": "pyfuga-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T15:42:45Z",
   "closed_by": null,
   "created_at": "2026-10-20T17:07:26Z",
   "draft": false,
   "e_tag": "\"b57498e06640aaa82e68b2124d3ea9094dd66d307ffe1e311d805580344076b1\"",
   "head": {
-    "ref": "0.4.1_h7dfbeb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyfuga-feedstock/pull/2",
   "id": 4939458930,
   "labels": [],
-  "last_fetched": "2026-10-20T22:24:11.943783",
+  "last_fetched": "2026-10-22T15:44:21.346032",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T15:42:45Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-20T17:09:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T15:42:45Z"
 }

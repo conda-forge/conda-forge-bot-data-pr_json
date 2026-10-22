@@ -1,18 +1,18 @@
 {
-  "ETag": "\"286edff730224cd9f17e0837f2907229f5fbf9ed8929b13b69e1c99642233d5e\"",
-  "Last-Modified": "Thu, 22 Oct 2026 00:38:59 GMT",
+  "ETag": "\"4cebc00e661527ea8e2068e77584532b0117a5e26ab1883a5761878f84c6cbf0\"",
+  "Last-Modified": "Thu, 22 Oct 2026 01:18:18 GMT",
   "base": {
     "repo": {
       "name": "iamb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T01:18:14Z",
   "closed_by": null,
   "created_at": "2026-10-22T00:25:21Z",
   "draft": false,
   "e_tag": "\"c043e9e45fb075b578fbc928fe5c72effc073e660a37e16957dbd75bae362669\"",
   "head": {
-    "ref": "0.13.1_h46101b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/iamb-feedstock/pull/5",
   "id": 4960184578,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/iamb-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-22T00:40:29.920998",
+  "last_fetched": "2026-10-22T01:19:21.972361",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T01:18:14Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-22T00:38:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T01:18:18Z"
 }

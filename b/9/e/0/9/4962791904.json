@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9195b52bfa4f5a36313b979d33114999d3724555b095ce8b78286a9f0b86c51e\"",
-  "Last-Modified": "Thu, 22 Oct 2026 06:25:13 GMT",
+  "ETag": "\"859bdf50383407362b23f6e02d4e8b002bd8abdaed2652a265dabdbd623d3d26\"",
+  "Last-Modified": "Thu, 22 Oct 2026 06:38:37 GMT",
   "base": {
     "repo": {
       "name": "berglas-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T06:38:37Z",
   "closed_by": null,
   "created_at": "2026-10-22T05:52:56Z",
   "draft": false,
   "e_tag": "\"16f3b24b028c5f274ee2a879296ff3e1d9097a737697108b2da0063398ae732f\"",
   "head": {
-    "ref": "2.0.18_h3a95e0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/berglas-feedstock/pull/11",
   "id": 4962791904,
   "labels": [],
-  "last_fetched": "2026-10-22T06:26:27.073094",
+  "last_fetched": "2026-10-22T06:39:45.111055",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T06:38:37Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-22T06:25:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T06:38:37Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"683ae26c8b02d0b104d6aa09043c524e3715d05211718af5e34fef4ad1060ec4\"",
-  "Last-Modified": "Thu, 22 Oct 2026 05:21:56 GMT",
+  "ETag": "\"db3aba80075a7b471051ed29ccaea3c3ed32f6ff46fc79ed0d9233da298c05af\"",
+  "Last-Modified": "Thu, 22 Oct 2026 13:58:16 GMT",
   "base": {
     "repo": {
       "name": "kagglesdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T13:58:15Z",
   "closed_by": null,
   "created_at": "2026-10-22T05:20:32Z",
   "draft": false,
   "e_tag": "\"89923435280013acdbb5fdd7f83abd69c2589be2a464cf4b384e4ffc0026ef97\"",
   "head": {
-    "ref": "0.1.38_h7cdc62"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kagglesdk-feedstock/pull/23",
   "id": 4962526301,
   "labels": [],
-  "last_fetched": "2026-10-22T10:04:06.796022",
+  "last_fetched": "2026-10-22T13:59:59.739900",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T13:58:15Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-22T05:21:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T13:58:16Z"
 }

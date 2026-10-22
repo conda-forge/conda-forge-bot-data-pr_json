@@ -1,29 +1,29 @@
 {
-  "ETag": "\"406313470f009192cc9d30f0905a93729a9961d3c3239b38be68aacddef55b08\"",
-  "Last-Modified": "Tue, 20 Oct 2026 16:46:23 GMT",
+  "ETag": "\"b9fb96308aca39c19c917fa52ac0f517ce0ef655d650c24acb95628ecb94f831\"",
+  "Last-Modified": "Thu, 22 Oct 2026 15:32:30 GMT",
   "base": {
     "repo": {
       "name": "hypothesis-graphql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T15:32:30Z",
   "closed_by": null,
   "created_at": "2026-10-20T16:44:41Z",
   "draft": false,
   "e_tag": "\"94368d8ea0c4d527faab8a70461179a9d60ee2cda42be425de86b8420e193c42\"",
   "head": {
-    "ref": "0.13.4_ha1925d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hypothesis-graphql-feedstock/pull/12",
   "id": 4939163751,
   "labels": [],
-  "last_fetched": "2026-10-20T19:04:01.276210",
+  "last_fetched": "2026-10-22T15:34:05.707058",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-22T15:32:30Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-20T16:46:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T15:32:30Z"
 }

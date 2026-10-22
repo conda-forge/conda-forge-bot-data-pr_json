@@ -1,6 +1,6 @@
 {
-  "ETag": "\"10ea7d8742c9b8257d4c7efe529f42bb9335acf642c975a881a8218f5d0e73f2\"",
-  "Last-Modified": "Thu, 22 Oct 2026 02:42:34 GMT",
+  "ETag": "\"3efa069b4679f4384ef6266ccbee164c0bcca0884e3dd7390854fa63db812abf\"",
+  "Last-Modified": "Thu, 22 Oct 2026 13:10:57 GMT",
   "base": {
     "repo": {
       "name": "imgui-bundle-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/imgui-bundle-feedstock/pull/52",
   "id": 4961277647,
-  "labels": [],
-  "last_fetched": "2026-10-22T03:54:16.546061",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7853146845,
+      "name": "automerge",
+      "node_id": "LA_kwDONaY2j88AAAAB1BWC3Q",
+      "url": "https://api.github.com/repos/conda-forge/imgui-bundle-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T13:12:34.775755",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 52,
   "state": "open",
-  "updated_at": "2026-10-22T02:53:08Z"
+  "updated_at": "2026-10-22T13:10:57Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8ba6aff9d9b7160f226efd6146691d1f391b254c6dbde6afc02848d778257aa4\"",
+  "Last-Modified": "Thu, 22 Oct 2026 19:51:24 GMT",
   "base": {
     "repo": {
       "name": "xkeyboard-config-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T19:51:24Z",
   "closed_by": null,
   "created_at": "2026-10-22T19:43:08Z",
   "draft": false,
   "e_tag": "\"15604240c178f7cfcebc548fa1d725baf11ee46578dd4c23f82647cea0523698\"",
   "head": {
-    "ref": "bot-pr_riscv64_h01ace7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xkeyboard-config-feedstock/pull/24",
   "id": 4973133394,
   "labels": [],
-  "last_fetched": "2026-10-22T19:43:09.824458",
+  "last_fetched": "2026-10-22T19:53:44.147213",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T19:51:24Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-22T19:43:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T19:51:24Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ec5e9a286b1e0c338a3b54642a5c545be271675cdcf1755934bf77793dc701db\"",
+  "Last-Modified": "Thu, 22 Oct 2026 02:17:35 GMT",
   "base": {
     "repo": {
       "name": "firecrawl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T02:17:30Z",
   "closed_by": null,
   "created_at": "2026-10-22T02:15:23Z",
   "draft": false,
   "e_tag": "\"504fc7c127a776db503fbfc97b35dc7f5c1133f4c55f2e7c8feb8533b52d1e94\"",
   "head": {
-    "ref": "4.53.3_h9987f8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/firecrawl-feedstock/pull/47",
   "id": 4961082602,
   "labels": [],
-  "last_fetched": "2026-10-22T02:15:24.006327",
+  "last_fetched": "2026-10-22T02:19:01.477211",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T02:17:30Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-10-22T02:15:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T02:17:35Z"
 }

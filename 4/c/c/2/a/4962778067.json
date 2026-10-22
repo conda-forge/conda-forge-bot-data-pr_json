@@ -1,4 +1,6 @@
 {
+  "ETag": "\"69b1d3089e3f77e2ed573ae85e5e25dcea22aabdf0a491a51cf022d56f93c77d\"",
+  "Last-Modified": "Thu, 22 Oct 2026 07:05:56 GMT",
   "base": {
     "repo": {
       "name": "mitmproxy-rs-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/mitmproxy-rs-feedstock/pull/12",
   "id": 4962778067,
-  "labels": [],
-  "last_fetched": "2026-10-22T05:51:18.554058",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9721143358,
+      "name": "automerge",
+      "node_id": "LA_kwDOQddtws8AAAACQ2zgPg",
+      "url": "https://api.github.com/repos/conda-forge/mitmproxy-rs-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-22T07:07:31.617615",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 12,
   "state": "open",
-  "updated_at": "2026-10-22T05:51:17Z"
+  "updated_at": "2026-10-22T07:05:56Z"
 }

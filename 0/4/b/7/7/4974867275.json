@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e9a352cb116a8ee46207ce73584e99a863657469cfca95aeb16d67be35e977ca\"",
+  "Last-Modified": "Thu, 22 Oct 2026 22:19:50 GMT",
   "base": {
     "repo": {
       "name": "pyvista-js-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-22T22:19:47Z",
   "closed_by": null,
   "created_at": "2026-10-22T22:17:51Z",
   "draft": false,
   "e_tag": "\"e231fdaa72d4bc2277f0d0878e351eb37963d05bfdf4a8c34f67aa0ff445935e\"",
   "head": {
-    "ref": "0.18.1_h35392d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyvista-js-feedstock/pull/5",
   "id": 4974867275,
   "labels": [],
-  "last_fetched": "2026-10-22T22:17:51.891449",
+  "last_fetched": "2026-10-22T22:21:03.966329",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-22T22:19:46Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-22T22:17:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-22T22:19:50Z"
 }

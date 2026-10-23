@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7f377fd87c196114e3afcc3111a0a50b46a5dcdb8506bfa469a2792565211c91\"",
+  "Last-Modified": "Fri, 23 Oct 2026 16:22:43 GMT",
   "base": {
     "repo": {
       "name": "ccxt-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T16:22:43Z",
   "closed_by": null,
   "created_at": "2026-10-23T16:20:11Z",
   "draft": false,
   "e_tag": "\"7fda8d547db2edbcf8f600e2c21c9acf5fbc857a2ef9df0e31c0a4f687f79b45\"",
   "head": {
-    "ref": "4.5.90_h4b58ac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ccxt-py-feedstock/pull/117",
   "id": 4985859807,
   "labels": [],
-  "last_fetched": "2026-10-23T16:20:12.637525",
+  "last_fetched": "2026-10-23T16:23:59.431337",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T16:22:43Z",
   "number": 117,
-  "state": "open",
-  "updated_at": "2026-10-23T16:20:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T16:22:47Z"
 }

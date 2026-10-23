@@ -1,18 +1,18 @@
 {
-  "ETag": "\"621f47c0503c92fda00a29fd54c7430700c7495831ffca6fe6522b19f8c13b42\"",
-  "Last-Modified": "Fri, 23 Oct 2026 20:21:04 GMT",
+  "ETag": "\"1a81c7984fa7a6c889f201084401d4736d619869d7c040dd1f361f8929b0d7b2\"",
+  "Last-Modified": "Fri, 23 Oct 2026 20:38:26 GMT",
   "base": {
     "repo": {
       "name": "pinecone-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T20:38:25Z",
   "closed_by": null,
   "created_at": "2026-10-23T19:49:10Z",
   "draft": false,
   "e_tag": "\"b0ee8b3aa729709e04ab3ea24ccb131521fd72c7683259840787df764d9adcc7\"",
   "head": {
-    "ref": "10.2.0_h1012ef"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pinecone-feedstock/pull/24",
   "id": 4988409917,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/pinecone-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-23T20:22:34.917084",
+  "last_fetched": "2026-10-23T20:40:20.626898",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T20:38:25Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-23T20:21:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T20:38:26Z"
 }

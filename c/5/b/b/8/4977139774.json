@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dc60dbf4e88200df18e8b044a18ac270f66f262249a2544272c06f45291e3a1c\"",
+  "Last-Modified": "Fri, 23 Oct 2026 03:02:03 GMT",
   "base": {
     "repo": {
       "name": "xvfbwrapper-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T03:01:58Z",
   "closed_by": null,
   "created_at": "2026-10-23T02:58:46Z",
   "draft": false,
   "e_tag": "\"960ce3e29b6273354116411fd84f111bec37e7aae463ad7c203fd15fe05a18b7\"",
   "head": {
-    "ref": "0.2.36_h228a45"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xvfbwrapper-feedstock/pull/38",
   "id": 4977139774,
   "labels": [],
-  "last_fetched": "2026-10-23T02:58:47.413291",
+  "last_fetched": "2026-10-23T03:03:02.414108",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T03:01:58Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-23T02:58:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T03:02:03Z"
 }

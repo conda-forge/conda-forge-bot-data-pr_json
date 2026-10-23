@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4e098bd0b4d0c81e273150a6c5cf5903be1f81f0abb488fbcd1f502a9150ee3e\"",
-  "Last-Modified": "Thu, 22 Oct 2026 06:33:05 GMT",
+  "ETag": "\"d6f2ff7b133b3e5af4fc997f4925b4cb82a84e3293a5a97adf0ff6ffe812906d\"",
+  "Last-Modified": "Fri, 23 Oct 2026 14:06:23 GMT",
   "base": {
     "repo": {
       "name": "jaxlib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T14:06:23Z",
   "closed_by": null,
   "created_at": "2026-10-22T06:29:27Z",
   "draft": false,
   "e_tag": "\"5c155b908414b14f8b919c6640abe24562d33fc9f3d73f4d7aab15f4f2b68d91\"",
   "head": {
-    "ref": "0.12.0.1_h32fa37"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jaxlib-feedstock/pull/365",
   "id": 4963123663,
   "labels": [],
-  "last_fetched": "2026-10-22T08:03:03.512598",
+  "last_fetched": "2026-10-23T14:08:00.225955",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T14:06:23Z",
   "number": 365,
-  "state": "open",
-  "updated_at": "2026-10-22T06:33:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T14:06:23Z"
 }

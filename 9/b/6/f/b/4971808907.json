@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a85e6dbd770fe402be2f538edd8286f0c6b809d16c3973b84de0108dcfeb2c2a\"",
-  "Last-Modified": "Thu, 22 Oct 2026 17:58:50 GMT",
+  "ETag": "\"7543707c63e478cf86bd3ae89113ba353d67970b684036eda96e17cb37c0e1ae\"",
+  "Last-Modified": "Fri, 23 Oct 2026 15:21:41 GMT",
   "base": {
     "repo": {
       "name": "harfbuzz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T15:21:41Z",
   "closed_by": null,
   "created_at": "2026-10-22T17:57:16Z",
   "draft": false,
   "e_tag": "\"9e1136d4f0575b68b5df1e4dad064dc0204e37c23c3817afb0c4a139d60ea956\"",
   "head": {
-    "ref": "15.0.0_h9ce1f3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/harfbuzz-feedstock/pull/174",
   "id": 4971808907,
   "labels": [],
-  "last_fetched": "2026-10-22T19:22:28.155353",
+  "last_fetched": "2026-10-23T15:23:35.812388",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T15:21:41Z",
   "number": 174,
-  "state": "open",
-  "updated_at": "2026-10-22T17:58:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T15:21:41Z"
 }

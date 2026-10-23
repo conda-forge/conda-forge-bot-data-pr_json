@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5e5067efcc47c6be795985547afcb4481fac195e56729742f8abf2e286019a10\"",
+  "Last-Modified": "Fri, 23 Oct 2026 09:18:55 GMT",
   "base": {
     "repo": {
       "name": "seabirdscientific-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T09:18:52Z",
   "closed_by": null,
   "created_at": "2026-10-23T09:14:58Z",
   "draft": false,
   "e_tag": "\"a2de358b166f702f3ef56873ac92951e14628dc27dbf720cacb71b7f8c6b1b16\"",
   "head": {
-    "ref": "3.1.0_hda223a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/seabirdscientific-feedstock/pull/20",
   "id": 4980536770,
   "labels": [],
-  "last_fetched": "2026-10-23T09:14:59.971140",
+  "last_fetched": "2026-10-23T09:20:17.598430",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T09:18:52Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-23T09:14:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T09:18:55Z"
 }

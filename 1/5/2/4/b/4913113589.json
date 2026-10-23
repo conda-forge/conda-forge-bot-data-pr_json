@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"b91563f3fd0c22ec2687d6a8bacf668ce750ade3d73940a99412b1dcb24420a7\"",
-  "Last-Modified": "Sun, 18 Oct 2026 21:51:18 GMT",
+  "ETag": "\"2281a50c409683f8d0685d8b16f67fc1c4b91f5f7530f0a87f6028f60ef78f06\"",
+  "Last-Modified": "Fri, 23 Oct 2026 03:38:35 GMT",
   "base": {
     "repo": {
       "name": "radarx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T03:38:35Z",
   "closed_by": null,
   "created_at": "2026-10-18T21:49:30Z",
   "draft": false,
   "e_tag": "\"3a9e0fe202fd006801f84d04a042cf17e84bcd1ea9d1a22c6ceee12f26fdf84d\"",
   "head": {
-    "ref": "0.5.2_h73bb88"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/radarx-feedstock/pull/22",
   "id": 4913113589,
   "labels": [],
-  "last_fetched": "2026-10-19T04:30:44.627325",
+  "last_fetched": "2026-10-23T03:40:14.241899",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T03:38:34Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-18T21:51:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T03:38:35Z"
 }

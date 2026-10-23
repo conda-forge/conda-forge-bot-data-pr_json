@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cc615cbfd4c0ffd58683c17dedf0c033d2cdc9b27809d48a675ddc807eb71a4b\"",
-  "Last-Modified": "Thu, 22 Oct 2026 22:53:39 GMT",
+  "ETag": "\"0990755fbec61cfedaa87fcd328e8ca2dae7c08a52ce22a609e486c48515d33b\"",
+  "Last-Modified": "Fri, 23 Oct 2026 06:28:20 GMT",
   "base": {
     "repo": {
       "name": "globus-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T06:28:20Z",
   "closed_by": null,
   "created_at": "2026-10-22T22:52:08Z",
   "draft": false,
   "e_tag": "\"7881752e7dab384874320ce7fb87b5b8e9ec68aee377bb7ed0341103e85b6882\"",
   "head": {
-    "ref": "4.10.0_h9e7f2b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/globus-sdk-feedstock/pull/111",
   "id": 4975197773,
   "labels": [],
-  "last_fetched": "2026-10-23T00:58:52.849038",
+  "last_fetched": "2026-10-23T06:29:39.042508",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T06:28:20Z",
   "number": 111,
-  "state": "open",
-  "updated_at": "2026-10-22T22:53:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T06:28:20Z"
 }

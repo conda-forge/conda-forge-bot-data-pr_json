@@ -1,27 +1,29 @@
 {
+  "ETag": "\"27b1c133e93159f1eb3e1006c5c59ee7ea1f8f484bc8b1ab3c7379baf3a23708\"",
+  "Last-Modified": "Fri, 23 Oct 2026 00:20:26 GMT",
   "base": {
     "repo": {
       "name": "kaggle-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T00:20:22Z",
   "closed_by": null,
   "created_at": "2026-10-23T00:18:15Z",
   "draft": false,
   "e_tag": "\"eefa8297f01561b237d679a92d99853ba7a5746ed030e041797a8ce6fcbae42d\"",
   "head": {
-    "ref": "2.2.5_h7af68a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kaggle-feedstock/pull/70",
   "id": 4975916672,
   "labels": [],
-  "last_fetched": "2026-10-23T00:18:16.147603",
+  "last_fetched": "2026-10-23T00:22:10.739246",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T00:20:22Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-10-23T00:18:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T00:20:26Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"375194ebd80835898d2612ed5158a66ca0a97c80537187b8126c3e0f92b5047b\"",
-  "Last-Modified": "Fri, 23 Oct 2026 14:12:41 GMT",
+  "ETag": "\"d9333c83813f8871d5d44685b3f3d96223754aa4766e21dea1b992280e3ac709\"",
+  "Last-Modified": "Fri, 23 Oct 2026 14:16:49 GMT",
   "base": {
     "repo": {
       "name": "fps-lab-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T14:16:48Z",
   "closed_by": null,
   "created_at": "2026-10-23T10:57:35Z",
   "draft": false,
   "e_tag": "\"7484c23821d68ef5a0e638b1590bde61758c32efe3374a8141848ecac31a1e3d\"",
   "head": {
-    "ref": "0.11.7_h7ea8a8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fps-lab-feedstock/pull/82",
   "id": 4981681889,
   "labels": [],
-  "last_fetched": "2026-10-23T14:13:44.417016",
+  "last_fetched": "2026-10-23T14:17:58.982657",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T14:16:48Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-10-23T14:12:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T14:16:49Z"
 }

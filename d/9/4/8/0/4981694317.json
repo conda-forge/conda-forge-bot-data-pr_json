@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ab17ccd2dc47931a57b0ec80be683f0e298f176d00c1336677e6cd52ea2bf9d9\"",
-  "Last-Modified": "Fri, 23 Oct 2026 14:12:38 GMT",
+  "ETag": "\"57efdb6765d626a67424e57bb834e10b5410884bc41960994824993de4429358\"",
+  "Last-Modified": "Fri, 23 Oct 2026 14:25:45 GMT",
   "base": {
     "repo": {
       "name": "fps-terminals-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T14:25:44Z",
   "closed_by": null,
   "created_at": "2026-10-23T10:58:45Z",
   "draft": false,
   "e_tag": "\"517ca3d2aad5cbcbf18073188fcb76f949489783d814d67a507569f0ded6823f\"",
   "head": {
-    "ref": "0.11.0_h02766c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fps-terminals-feedstock/pull/87",
   "id": 4981694317,
   "labels": [],
-  "last_fetched": "2026-10-23T14:14:00.159966",
+  "last_fetched": "2026-10-23T14:27:08.998068",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T14:25:44Z",
   "number": 87,
-  "state": "open",
-  "updated_at": "2026-10-23T14:12:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T14:25:45Z"
 }

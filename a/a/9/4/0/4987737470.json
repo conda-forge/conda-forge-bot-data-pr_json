@@ -1,18 +1,18 @@
 {
-  "ETag": "\"934df37043e71322615123f533933a146b00f08f5581a646d6924df8eb915e94\"",
-  "Last-Modified": "Fri, 23 Oct 2026 21:09:03 GMT",
+  "ETag": "\"1ed9d2493d266a45bcccf6efcd9a2fd75f26892926948e6db27ada366d19f366\"",
+  "Last-Modified": "Fri, 23 Oct 2026 22:29:02 GMT",
   "base": {
     "repo": {
       "name": "jsonschema-rs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T22:28:57Z",
   "closed_by": null,
   "created_at": "2026-10-23T18:50:04Z",
   "draft": false,
   "e_tag": "\"a7242a018126cbadf944ed5eea9df928b2521583efea0930cf4752385c44a005\"",
   "head": {
-    "ref": "0.60.1_h730706"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jsonschema-rs-feedstock/pull/77",
   "id": 4987737470,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/jsonschema-rs-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-23T21:10:12.167948",
+  "last_fetched": "2026-10-23T22:30:08.358338",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T22:28:57Z",
   "number": 77,
-  "state": "open",
-  "updated_at": "2026-10-23T21:09:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T22:29:02Z"
 }

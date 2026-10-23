@@ -1,12 +1,13 @@
 {
-  "ETag": "\"c902e2dd8e41446749cc041f81487bfd14d8ed5ff60fc211a7b19512bac774cb\"",
-  "Last-Modified": "Wed, 14 Oct 2026 19:14:55 GMT",
+  "ETag": "\"6fee332404ee57dd7b9d2535b840ac709689e533fcb3047508aca4f20d0acc78\"",
+  "Last-Modified": "Fri, 23 Oct 2026 07:55:55 GMT",
   "base": {
     "repo": {
       "name": "nodejs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T07:55:55Z",
+  "closed_by": "xhochy",
   "created_at": "2026-10-14T19:13:06Z",
   "draft": false,
   "e_tag": "\"7de84b52e53dbcdf3a3a5bf6824a80bba7e3f93543e6a6e6b72176c6c5b39a21\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/nodejs-feedstock/pull/509",
   "id": 4863151855,
   "labels": [],
-  "last_fetched": "2026-10-22T21:57:40.039250",
+  "last_fetched": "2026-10-23T07:57:30.175642",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 509,
-  "state": "open",
-  "updated_at": "2026-10-14T19:14:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T07:55:55Z"
 }

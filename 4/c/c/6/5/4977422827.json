@@ -1,27 +1,41 @@
 {
+  "ETag": "\"b91128cee3491019e7bb2fe1f67f3d5a94299f220f82ce7ddbc4c2925c228387\"",
+  "Last-Modified": "Fri, 23 Oct 2026 12:48:48 GMT",
   "base": {
     "repo": {
       "name": "skfolio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T12:48:44Z",
   "closed_by": null,
   "created_at": "2026-10-23T03:35:57Z",
   "draft": false,
   "e_tag": "\"229d971d67165618ee15fd078d9fdadcd86dc53f1b553f77eabd4f57b7c2f295\"",
   "head": {
-    "ref": "1.10.0_h8095b6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/skfolio-feedstock/pull/101",
   "id": 4977422827,
-  "labels": [],
-  "last_fetched": "2026-10-23T03:35:58.433949",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6406429385,
+      "name": "automerge",
+      "node_id": "LA_kwDOLCR7kc8AAAABfdpayQ",
+      "url": "https://api.github.com/repos/conda-forge/skfolio-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T12:49:30.285207",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T12:48:44Z",
   "number": 101,
-  "state": "open",
-  "updated_at": "2026-10-23T03:35:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T12:48:48Z"
 }

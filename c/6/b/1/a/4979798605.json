@@ -1,27 +1,29 @@
 {
+  "ETag": "\"06d0ecbcff223f20c3f58c32c3c5408b6758b756f131d81bdc6b854002fc2e02\"",
+  "Last-Modified": "Fri, 23 Oct 2026 08:58:57 GMT",
   "base": {
     "repo": {
       "name": "plotastrodata-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T08:58:56Z",
   "closed_by": null,
   "created_at": "2026-10-23T08:08:30Z",
   "draft": false,
   "e_tag": "\"28d4cc3796721fb23df7d8dec7dfea72442e10c46806ac248ccde8493009cf2b\"",
   "head": {
-    "ref": "1.12.3_hfa137d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/plotastrodata-feedstock/pull/135",
   "id": 4979798605,
   "labels": [],
-  "last_fetched": "2026-10-23T08:08:31.403348",
+  "last_fetched": "2026-10-23T09:00:25.698803",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T08:58:56Z",
   "number": 135,
-  "state": "open",
-  "updated_at": "2026-10-23T08:08:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T08:58:57Z"
 }

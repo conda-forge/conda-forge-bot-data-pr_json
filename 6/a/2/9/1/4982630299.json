@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d20b0c5ddf27cec39a169b1028ba77b01b8800414ae546510df25fec2c2fb192\"",
+  "Last-Modified": "Fri, 23 Oct 2026 12:45:23 GMT",
   "base": {
     "repo": {
       "name": "fps-contents-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T12:45:23Z",
   "closed_by": null,
   "created_at": "2026-10-23T12:20:38Z",
   "draft": false,
   "e_tag": "\"f62963fbaa448beb8c5690571c83076b689f4fa885a7429ee739e32e07709be6\"",
   "head": {
-    "ref": "0.11.5_hb26dd7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fps-contents-feedstock/pull/73",
   "id": 4982630299,
   "labels": [],
-  "last_fetched": "2026-10-23T12:20:38.917716",
+  "last_fetched": "2026-10-23T12:46:55.497450",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T12:45:23Z",
   "number": 73,
-  "state": "open",
-  "updated_at": "2026-10-23T12:20:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T12:45:23Z"
 }

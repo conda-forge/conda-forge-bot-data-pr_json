@@ -1,18 +1,18 @@
 {
-  "ETag": "\"540f7b9dd66d61c10783830d1d9c1bc32f5dc4ed5cbb0355eb166de2331bc456\"",
-  "Last-Modified": "Fri, 23 Oct 2026 06:23:21 GMT",
+  "ETag": "\"363caa0a867c9e1c218edf6d5ea8856f30d169fae3a1110537f6c4e01a55b73d\"",
+  "Last-Modified": "Fri, 23 Oct 2026 06:26:00 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-audit-log-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T06:25:55Z",
   "closed_by": null,
   "created_at": "2026-10-23T02:03:45Z",
   "draft": false,
   "e_tag": "\"ff27190fd0db0c2236cdf772890287ef8d0c3b2e07a353f8a4fec1c2369c608c\"",
   "head": {
-    "ref": "0.6.3_hfe01cc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-audit-log-feedstock/pull/18",
   "id": 4976715711,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-audit-log-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-23T06:24:48.902642",
+  "last_fetched": "2026-10-23T06:26:57.454932",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T06:25:55Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-23T06:23:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T06:26:00Z"
 }

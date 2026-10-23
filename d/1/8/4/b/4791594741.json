@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"b778548a508e2f60c3d7af212d9e63baa1db9cb0d17ce18e85ade25a889e4f50\"",
-  "Last-Modified": "Thu, 08 Oct 2026 19:10:43 GMT",
+  "ETag": "\"5606ff2d5a4dfe36a6fdb59d233a7da9a924e8eb94b1fa8580dede739191961b\"",
+  "Last-Modified": "Fri, 23 Oct 2026 02:54:40 GMT",
   "base": {
     "repo": {
       "name": "apache-tvm-ffi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T02:54:40Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-08T19:10:41Z",
   "draft": false,
   "e_tag": "\"1d6f965db57cde0df5b35ba4f4d303e5a04cc34efe6086fd79ff95482fc863d3\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/apache-tvm-ffi-feedstock/pull/26",
   "id": 4791594741,
   "labels": [],
-  "last_fetched": "2026-10-15T23:58:16.192833",
+  "last_fetched": "2026-10-23T02:56:21.140797",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-08T19:12:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T02:54:40Z"
 }

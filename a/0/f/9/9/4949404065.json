@@ -1,6 +1,6 @@
 {
-  "ETag": "\"ad9f3d6312c85ba43e727c8e4136de17eca0d062cf23387f8d7d4ab5f622c180\"",
-  "Last-Modified": "Wed, 21 Oct 2026 09:31:26 GMT",
+  "ETag": "\"ea4db87eb3e44e9bb204aaa587e25cd8e71aa6d469aec5c16701dedf103a2eb2\"",
+  "Last-Modified": "Fri, 23 Oct 2026 16:31:29 GMT",
   "base": {
     "repo": {
       "name": "torchsort-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/torchsort-feedstock/pull/19",
   "id": 4949404065,
-  "labels": [],
-  "last_fetched": "2026-10-21T10:47:42.363555",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8111432957,
+      "name": "automerge",
+      "node_id": "LA_kwDON1epqs8AAAAB43qk_Q",
+      "url": "https://api.github.com/repos/conda-forge/torchsort-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T16:33:02.113891",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 19,
   "state": "open",
-  "updated_at": "2026-10-21T09:31:26Z"
+  "updated_at": "2026-10-23T16:31:29Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"40e2ee0077d3243c315ab3414f3c6b25e4fb1cbfd6e61fb613a63fe32916d894\"",
-  "Last-Modified": "Thu, 15 Oct 2026 20:10:04 GMT",
+  "ETag": "\"eaa9b09320944849d413b9852548e891bda188e9b13c56dd788b69509ef9e5b3\"",
+  "Last-Modified": "Fri, 23 Oct 2026 20:08:20 GMT",
   "base": {
     "repo": {
       "name": "smg-grpc-servicer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T20:08:18Z",
   "closed_by": null,
   "created_at": "2026-10-15T20:08:10Z",
   "draft": false,
   "e_tag": "\"7efeae32fe37800792ce35b8610cf8e32c8515bfdec0e9b6addc4bf3f188f2f1\"",
   "head": {
-    "ref": "0.14.0_h27a1b6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/smg-grpc-servicer-feedstock/pull/13",
   "id": 4879179005,
   "labels": [],
-  "last_fetched": "2026-10-22T22:58:54.146840",
+  "last_fetched": "2026-10-23T20:09:24.119657",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T20:08:18Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-15T20:10:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T20:08:20Z"
 }

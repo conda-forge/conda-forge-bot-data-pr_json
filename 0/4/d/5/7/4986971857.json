@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"dfe53671e7aec67466f908cbff622530cabd285835b71fb88632e1e7724efd5c\"",
+  "Last-Modified": "Fri, 23 Oct 2026 18:14:09 GMT",
   "base": {
     "repo": {
       "name": "thermofun-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T18:14:09Z",
   "closed_by": null,
   "created_at": "2026-10-23T17:48:20Z",
   "draft": false,
   "e_tag": "\"a79f2fd137d14a7aed290b18f8a8a0a63ed9e2628be774a7111d0aae43dcc357\"",
   "head": {
-    "ref": "0.7.3_hcd4161"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/thermofun-feedstock/pull/78",
   "id": 4986971857,
   "labels": [],
-  "last_fetched": "2026-10-23T17:48:21.578585",
+  "last_fetched": "2026-10-23T18:15:15.309269",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T18:14:09Z",
   "number": 78,
-  "state": "open",
-  "updated_at": "2026-10-23T17:48:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T18:14:09Z"
 }

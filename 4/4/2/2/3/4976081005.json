@@ -1,6 +1,6 @@
 {
-  "ETag": "\"4ee313427915afb5c75e373979c3e5da9b6a1e6e1020684e284e6d8e66530237\"",
-  "Last-Modified": "Fri, 23 Oct 2026 00:41:15 GMT",
+  "ETag": "\"61223bb31bc283f8577bfafb62f31c037c068b2f33223797cdfd3f4538c9da77\"",
+  "Last-Modified": "Fri, 23 Oct 2026 16:37:11 GMT",
   "base": {
     "repo": {
       "name": "interpax-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/interpax-feedstock/pull/15",
   "id": 4976081005,
-  "labels": [],
-  "last_fetched": "2026-10-23T02:55:47.232495",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7787283983,
+      "name": "automerge",
+      "node_id": "LA_kwDONTfCOc8AAAAB0CiGDw",
+      "url": "https://api.github.com/repos/conda-forge/interpax-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T16:37:46.369358",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 15,
   "state": "open",
-  "updated_at": "2026-10-23T00:41:15Z"
+  "updated_at": "2026-10-23T16:37:11Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"aa2c24a9414f0dd530acccd3356cb244d1f64e78563129b19d5922fc5943b4d2\"",
+  "ETag": "W/\"c79f784787c248c0781f698417f2cbdf2651bb16cbfee04485f9e3772e3f548d\"",
   "Last-Modified": "Fri, 23 Oct 2026 05:01:10 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/prettier-feedstock/pull/101",
   "id": 4623752194,
-  "labels": [],
-  "last_fetched": "2026-10-23T05:02:40.196959",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-23T05:01:13.192918",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

@@ -1,5 +1,5 @@
 {
-  "ETag": "W/\"d52646b106c871b4a20fc6e7833311dc1b3c9eb49a009fd32d7c158ba812b47e\"",
+  "ETag": "\"c9f75147d573dc31cf15251bcc7486fd8fef531c5568bc68a5ec43341b56881b\"",
   "Last-Modified": "Wed, 23 Sep 2026 15:27:30 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"a67b4b7c0cb2e813ad0491dfbd8d18c2726d3d7f93d64a727c58dcd2b76173c0\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_h9e7900"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vtk-feedstock/pull/458",
   "id": 4615400803,
-  "labels": [],
-  "last_fetched": "2026-10-16T10:26:17.727760",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-23T12:00:08.659531",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 458,

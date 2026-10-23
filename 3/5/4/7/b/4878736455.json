@@ -1,29 +1,33 @@
 {
-  "ETag": "\"e8648582817f0b544d97ecaecd7d45578118468e85efb58b1efc49e61103b71c\"",
-  "Last-Modified": "Fri, 23 Oct 2026 09:02:35 GMT",
+  "ETag": "\"098b6ca08726b974aef4d7de530a38c27de596149eb702301cf483d51601da34\"",
+  "Last-Modified": "Thu, 15 Oct 2026 19:31:10 GMT",
   "base": {
     "repo": {
       "name": "dttlib-feedstock"
     }
   },
-  "closed_at": "2026-10-23T09:02:35Z",
-  "closed_by": "regro-cf-autotick-bot",
+  "closed_at": null,
+  "closed_by": null,
   "created_at": "2026-10-15T19:29:26Z",
   "draft": false,
   "e_tag": "\"9e9483604d21eaf69494ae85878fa3d7eccddf20026bad3d42e048636af87214\"",
   "head": {
-    "ref": "0.12.5_had0309"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dttlib-feedstock/pull/55",
   "id": 4878736455,
-  "labels": [],
-  "last_fetched": "2026-10-23T09:04:11.068783",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-23T09:02:33.182028",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 55,
-  "state": "closed",
-  "updated_at": "2026-10-23T09:02:35Z"
+  "state": "open",
+  "updated_at": "2026-10-15T19:31:10Z"
 }

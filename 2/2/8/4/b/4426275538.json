@@ -1,5 +1,5 @@
 {
-  "ETag": "\"05f5c33fb7677ecef509802644dddb55606757502b2004a72256b0255d98a7fe\"",
+  "ETag": "W/\"e1de467b9ff169d177b8a61d437dfe4c58bdce1763fb9d4de685b0d96d81ea2f\"",
   "Last-Modified": "Fri, 23 Oct 2026 00:58:14 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/dora-rs-suite-feedstock/pull/3",
   "id": 4426275538,
-  "labels": [],
-  "last_fetched": "2026-10-23T00:59:23.089993",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-23T00:58:16.317058",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"3d7c298b7582bf5586e3d459466aeec8473eff70431171c567417a169b043e94\"",
+  "Last-Modified": "Fri, 23 Oct 2026 06:24:29 GMT",
   "base": {
     "repo": {
       "name": "grpc-google-iam-v1-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/grpc-google-iam-v1-feedstock/pull/33",
   "id": 4978521779,
-  "labels": [],
-  "last_fetched": "2026-10-23T05:57:27.673712",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890939753,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTM5NzUz",
+      "url": "https://api.github.com/repos/conda-forge/grpc-google-iam-v1-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T06:25:58.844307",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 33,
   "state": "open",
-  "updated_at": "2026-10-23T05:57:26Z"
+  "updated_at": "2026-10-23T06:24:29Z"
 }

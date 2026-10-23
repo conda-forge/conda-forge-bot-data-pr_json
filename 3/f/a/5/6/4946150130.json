@@ -1,29 +1,29 @@
 {
-  "ETag": "\"96d92c3b4d412731dc950b163a7b1e67efa31492d1e09861c4bf8359d9f81b4b\"",
-  "Last-Modified": "Wed, 21 Oct 2026 03:57:40 GMT",
+  "ETag": "\"e58c5f2a5bdbecfed4aabda76addbaafa80a68d8d40a74414ca4c4ae33405a43\"",
+  "Last-Modified": "Fri, 23 Oct 2026 03:06:27 GMT",
   "base": {
     "repo": {
       "name": "django-auth-ldap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T03:06:27Z",
   "closed_by": null,
   "created_at": "2026-10-21T03:55:49Z",
   "draft": false,
   "e_tag": "\"a4daa956d2e8328ceb7aa8f6317ca0c1e424a3855ed843d7e8b4799e53e312dc\"",
   "head": {
-    "ref": "5.4.0_ha0a0f1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-auth-ldap-feedstock/pull/1",
   "id": 4946150130,
   "labels": [],
-  "last_fetched": "2026-10-21T07:33:51.334092",
+  "last_fetched": "2026-10-23T03:07:42.348370",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T03:06:27Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-21T03:57:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T03:06:27Z"
 }

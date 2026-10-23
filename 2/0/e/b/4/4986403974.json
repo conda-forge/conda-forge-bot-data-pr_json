@@ -1,27 +1,29 @@
 {
+  "ETag": "\"65189c1fb610dfe42b582476bdc6615e3b4f7d29d9a6810d89643bf834e1d94a\"",
+  "Last-Modified": "Fri, 23 Oct 2026 17:04:33 GMT",
   "base": {
     "repo": {
       "name": "diffusers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T17:04:29Z",
   "closed_by": null,
   "created_at": "2026-10-23T17:02:29Z",
   "draft": false,
   "e_tag": "\"cda1f4e229358aef59c145d6828c4ea6281b0f10066b628251794ecfcc68d4a8\"",
   "head": {
-    "ref": "0.42.0_h6dbf76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/diffusers-feedstock/pull/96",
   "id": 4986403974,
   "labels": [],
-  "last_fetched": "2026-10-23T17:02:30.348385",
+  "last_fetched": "2026-10-23T17:06:03.204528",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T17:04:29Z",
   "number": 96,
-  "state": "open",
-  "updated_at": "2026-10-23T17:02:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T17:04:33Z"
 }

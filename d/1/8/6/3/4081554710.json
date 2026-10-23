@@ -1,17 +1,17 @@
 {
-  "ETag": "\"18f7e6da85befdbd5ac9e7a28a7b8ddaf1581ca9b0530427bf312966df20f845\"",
-  "Last-Modified": "Fri, 23 Oct 2026 03:13:03 GMT",
+  "ETag": "\"2dbb63a3a8c1adffb2f735da91e22f9bdd35d1dd0b4030a84cd971209769b73c\"",
+  "Last-Modified": "Fri, 23 Oct 2026 03:14:29 GMT",
   "base": {
     "repo": {
       "name": "flupy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T03:14:27Z",
   "created_at": "2026-07-18T07:34:15Z",
   "draft": false,
   "e_tag": "\"bfeed5bc2974d7d92d63bb88a3e8ffcb9cd3903e76ad2a3aa49aad127dedd923\"",
   "head": {
-    "ref": "1.2.4_h93fc8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flupy-feedstock/pull/8",
   "id": 4081554710,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/flupy-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-23T03:14:24.634381",
+  "last_fetched": "2026-10-23T03:15:33.710258",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T03:14:27Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-23T03:13:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T03:14:29Z"
 }

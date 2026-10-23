@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a6c487004bf8a888b3c6354c55a762ac611c3fc09d8be815058931e160125a7e\"",
+  "Last-Modified": "Fri, 23 Oct 2026 18:25:13 GMT",
   "base": {
     "repo": {
       "name": "nebi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T18:25:08Z",
   "closed_by": null,
   "created_at": "2026-10-23T18:13:07Z",
   "draft": false,
   "e_tag": "\"d65521cc8169b4f4289d993e09b279ca028b3642d4f9754b8dc42ae992064951\"",
   "head": {
-    "ref": "0.16_h5a79d5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nebi-feedstock/pull/21",
   "id": 4987277065,
   "labels": [],
-  "last_fetched": "2026-10-23T18:13:08.081191",
+  "last_fetched": "2026-10-23T18:26:45.853849",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T18:25:08Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-23T18:13:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T18:25:13Z"
 }

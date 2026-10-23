@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7919adf00125ad082126cbb1ac134eaf9cff093217af8e1a36281eea1077d960\"",
+  "Last-Modified": "Fri, 23 Oct 2026 23:17:36 GMT",
   "base": {
     "repo": {
       "name": "structuretoolkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T23:17:32Z",
   "closed_by": null,
   "created_at": "2026-10-23T23:15:35Z",
   "draft": false,
   "e_tag": "\"877658589453de10e32ebdd941f46513b63cd15d7a177d33e0c368f924c0f27a\"",
   "head": {
-    "ref": "0.1.0_h55f7c3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/structuretoolkit-feedstock/pull/73",
   "id": 4990434899,
   "labels": [],
-  "last_fetched": "2026-10-23T23:15:35.997009",
+  "last_fetched": "2026-10-23T23:18:58.433073",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T23:17:31Z",
   "number": 73,
-  "state": "open",
-  "updated_at": "2026-10-23T23:15:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T23:17:36Z"
 }

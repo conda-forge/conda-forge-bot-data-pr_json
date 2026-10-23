@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b808661f4448f87b3bb1f5d6736cced7191ad7ed76dac24e219b32f63b75229f\"",
-  "Last-Modified": "Tue, 20 Oct 2026 16:14:21 GMT",
+  "ETag": "\"d20c0b4f32495a37a53cb7b76fa68ecb4b94649e8ef623a029fa1f32bdbaae4f\"",
+  "Last-Modified": "Fri, 23 Oct 2026 19:48:36 GMT",
   "base": {
     "repo": {
       "name": "flang-activation-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/flang-activation-feedstock/pull/65",
   "id": 4938744010,
-  "labels": [],
-  "last_fetched": "2026-10-20T16:48:05.460735",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7445751615,
+      "name": "automerge",
+      "node_id": "LA_kwDOMvq80M8AAAABu80nPw",
+      "url": "https://api.github.com/repos/conda-forge/flang-activation-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T19:50:24.540427",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 65,
   "state": "open",
-  "updated_at": "2026-10-20T16:14:21Z"
+  "updated_at": "2026-10-23T19:48:36Z"
 }

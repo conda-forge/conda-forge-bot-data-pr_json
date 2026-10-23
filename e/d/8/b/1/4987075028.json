@@ -1,27 +1,29 @@
 {
+  "ETag": "\"efa95d1990eb89a3c43606342e45dc47238e4942430dd1452cf33d7dfd32699a\"",
+  "Last-Modified": "Fri, 23 Oct 2026 18:14:53 GMT",
   "base": {
     "repo": {
       "name": "tombi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T18:14:49Z",
   "closed_by": null,
   "created_at": "2026-10-23T17:56:33Z",
   "draft": false,
   "e_tag": "\"422224fd478700c07ba2189b1108e8f157974d49cf04fabe93e603cd3e2dd0ea\"",
   "head": {
-    "ref": "1.9.1_h158179"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tombi-feedstock/pull/209",
   "id": 4987075028,
   "labels": [],
-  "last_fetched": "2026-10-23T17:56:34.201289",
+  "last_fetched": "2026-10-23T18:16:22.553996",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T18:14:49Z",
   "number": 209,
-  "state": "open",
-  "updated_at": "2026-10-23T17:56:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T18:14:53Z"
 }

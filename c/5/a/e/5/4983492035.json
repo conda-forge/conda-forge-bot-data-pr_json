@@ -1,27 +1,29 @@
 {
+  "ETag": "\"428c8a55cf15fc02794876c9060a44a69d4ac417767d757262c15e19f4578ed2\"",
+  "Last-Modified": "Fri, 23 Oct 2026 15:23:36 GMT",
   "base": {
     "repo": {
       "name": "mq-bridge-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T15:23:35Z",
   "closed_by": null,
   "created_at": "2026-10-23T13:28:48Z",
   "draft": false,
   "e_tag": "\"3cac175f8ec50aa9e2e8bac669e45ab2a8ba2546637acbe99e54724962012881\"",
   "head": {
-    "ref": "1.1.0_hf8ffd3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mq-bridge-feedstock/pull/9",
   "id": 4983492035,
   "labels": [],
-  "last_fetched": "2026-10-23T13:28:49.042591",
+  "last_fetched": "2026-10-23T15:24:47.990503",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T15:23:35Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-23T13:28:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T15:23:36Z"
 }

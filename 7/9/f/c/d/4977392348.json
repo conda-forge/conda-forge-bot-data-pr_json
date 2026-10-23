@@ -1,29 +1,41 @@
 {
-  "ETag": "\"bf563e57a2f9b96ada6e4346e770458c08d61e65561042dcd6a3c963bbfd7a8e\"",
-  "Last-Modified": "Fri, 23 Oct 2026 03:33:51 GMT",
+  "ETag": "\"917877e6c25778b7c1b366f997042bf0a033c51d4413a4cdc8f56326f8f457fb\"",
+  "Last-Modified": "Fri, 23 Oct 2026 12:48:50 GMT",
   "base": {
     "repo": {
       "name": "yardang-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T12:48:46Z",
   "closed_by": null,
   "created_at": "2026-10-23T03:31:49Z",
   "draft": false,
   "e_tag": "\"48e8449cb6d1b6d4a55fde1d1fecf89752d70ba4f0f4bdba743fdd7aa4fec3d4\"",
   "head": {
-    "ref": "0.11.0_hc7437b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yardang-feedstock/pull/51",
   "id": 4977392348,
-  "labels": [],
-  "last_fetched": "2026-10-23T07:52:20.621787",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7243890964,
+      "name": "automerge",
+      "node_id": "LA_kwDOMacxb88AAAABr8UBFA",
+      "url": "https://api.github.com/repos/conda-forge/yardang-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T12:49:27.906636",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T12:48:46Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-23T03:33:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T12:48:50Z"
 }

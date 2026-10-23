@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a4e46771b5a76ee897b51d28dd3ea7526b9e2ecd6d0b282f6b7c0fe8b484385e\"",
+  "Last-Modified": "Fri, 23 Oct 2026 19:33:23 GMT",
   "base": {
     "repo": {
       "name": "pandarm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T19:32:42Z",
   "closed_by": null,
   "created_at": "2026-10-23T19:25:44Z",
   "draft": false,
   "e_tag": "\"63ef49ee6585162729f47c8cdae8595cf3a718286cacdd4fc78cfd5b2930dc63\"",
   "head": {
-    "ref": "0.0.7_h06aae4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pandarm-feedstock/pull/23",
   "id": 4988147790,
   "labels": [],
-  "last_fetched": "2026-10-23T19:25:44.938375",
+  "last_fetched": "2026-10-23T19:34:33.812613",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T19:32:42Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-23T19:25:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T19:33:23Z"
 }

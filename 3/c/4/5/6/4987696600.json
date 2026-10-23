@@ -1,18 +1,18 @@
 {
-  "ETag": "\"2146a0ef9d7c654af6b6154bd5ecb4e2b526f48188d2e5060933032fa871715d\"",
-  "Last-Modified": "Fri, 23 Oct 2026 18:48:15 GMT",
+  "ETag": "\"c50bafe9376b255edb2c21e0d4a5ebf04626b5173cbb4e6735b1316e48b182d6\"",
+  "Last-Modified": "Fri, 23 Oct 2026 18:49:03 GMT",
   "base": {
     "repo": {
       "name": "sphinx-fuma-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T18:48:59Z",
   "closed_by": null,
   "created_at": "2026-10-23T18:46:26Z",
   "draft": false,
   "e_tag": "\"3a302988375069b26f7815c628a1d183874ca759e5971c84cc4084ce06a9fcee\"",
   "head": {
-    "ref": "0.1.7_heed917"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sphinx-fuma-feedstock/pull/3",
   "id": 4987696600,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/sphinx-fuma-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-23T18:48:39.634648",
+  "last_fetched": "2026-10-23T18:50:24.877633",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T18:48:58Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-23T18:48:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T18:49:03Z"
 }

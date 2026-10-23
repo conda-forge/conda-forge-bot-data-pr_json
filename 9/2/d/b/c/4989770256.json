@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f608fff07b758d073e8177dc830ec92eaf3c0f4c64c3435c193e0f9683a362eb\"",
+  "Last-Modified": "Fri, 23 Oct 2026 22:02:13 GMT",
   "base": {
     "repo": {
       "name": "gekko-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T22:02:09Z",
   "closed_by": null,
   "created_at": "2026-10-23T21:58:33Z",
   "draft": false,
   "e_tag": "\"908c406c447ff70fc44e5a827ccc11c32013a7501e2971ae87db685d91de444c\"",
   "head": {
-    "ref": "1.3.3_ha40ecd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gekko-feedstock/pull/10",
   "id": 4989770256,
   "labels": [],
-  "last_fetched": "2026-10-23T21:58:34.168476",
+  "last_fetched": "2026-10-23T22:03:17.681719",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T22:02:09Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-23T21:58:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T22:02:13Z"
 }

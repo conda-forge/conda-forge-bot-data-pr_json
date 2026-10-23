@@ -1,6 +1,6 @@
 {
-  "ETag": "\"1a7445fc6ae2c94e5ba34aaa920c54e2d63568e274d9d92e98b633c9c617be25\"",
-  "Last-Modified": "Fri, 23 Oct 2026 02:03:46 GMT",
+  "ETag": "\"540f7b9dd66d61c10783830d1d9c1bc32f5dc4ed5cbb0355eb166de2331bc456\"",
+  "Last-Modified": "Fri, 23 Oct 2026 06:23:21 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-audit-log-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-audit-log-feedstock/pull/18",
   "id": 4976715711,
-  "labels": [],
-  "last_fetched": "2026-10-23T05:02:36.119664",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3091476921,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMDkxNDc2OTIx",
+      "url": "https://api.github.com/repos/conda-forge/google-cloud-audit-log-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T06:24:48.902642",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-10-23T02:05:36Z"
+  "updated_at": "2026-10-23T06:23:21Z"
 }

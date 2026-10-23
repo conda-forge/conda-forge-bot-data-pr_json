@@ -1,4 +1,6 @@
 {
+  "ETag": "\"2146a0ef9d7c654af6b6154bd5ecb4e2b526f48188d2e5060933032fa871715d\"",
+  "Last-Modified": "Fri, 23 Oct 2026 18:48:15 GMT",
   "base": {
     "repo": {
       "name": "sphinx-fuma-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/sphinx-fuma-feedstock/pull/3",
   "id": 4987696600,
-  "labels": [],
-  "last_fetched": "2026-10-23T18:46:27.555573",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12050385936,
+      "name": "automerge",
+      "node_id": "LA_kwDOUNCcss8AAAACzkJMEA",
+      "url": "https://api.github.com/repos/conda-forge/sphinx-fuma-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T18:48:39.634648",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 3,
   "state": "open",
-  "updated_at": "2026-10-23T18:46:26Z"
+  "updated_at": "2026-10-23T18:48:15Z"
 }

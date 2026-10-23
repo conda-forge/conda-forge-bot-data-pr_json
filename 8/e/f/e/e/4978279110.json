@@ -1,29 +1,29 @@
 {
-  "ETag": "\"60dd53039fa2251fcf19f6aca1edf412b593b46c86a0723313f404c0b1848e8f\"",
-  "Last-Modified": "Fri, 23 Oct 2026 05:29:31 GMT",
+  "ETag": "\"d6aa038b6238dbb63418b6c8e3d3c47ae38324326f953c316fe49dfc090d4d3a\"",
+  "Last-Modified": "Fri, 23 Oct 2026 15:41:49 GMT",
   "base": {
     "repo": {
       "name": "spec42-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T15:41:48Z",
   "closed_by": null,
   "created_at": "2026-10-23T05:28:03Z",
   "draft": false,
   "e_tag": "\"097f17de3e6ba80f9a6c87451a5f640733dd85133a7eb6d4359a2aca1e3abd27\"",
   "head": {
-    "ref": "0.57.0_h73c79f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spec42-feedstock/pull/9",
   "id": 4978279110,
   "labels": [],
-  "last_fetched": "2026-10-23T10:47:55.506287",
+  "last_fetched": "2026-10-23T15:42:56.169144",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T15:41:48Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-23T05:29:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T15:41:49Z"
 }

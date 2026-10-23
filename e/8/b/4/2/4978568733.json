@@ -1,29 +1,29 @@
 {
-  "ETag": "\"747f176ee2598e5235f8387d07b0c7b224befef629e6138206e236abd9001e06\"",
-  "Last-Modified": "Fri, 23 Oct 2026 06:04:19 GMT",
+  "ETag": "\"627868c64f80938eebe06deb33b4123307f5af5fd19165457754f62a9cd97e38\"",
+  "Last-Modified": "Fri, 23 Oct 2026 12:00:01 GMT",
   "base": {
     "repo": {
       "name": "oirfile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T12:00:01Z",
   "closed_by": null,
   "created_at": "2026-10-23T06:02:43Z",
   "draft": false,
   "e_tag": "\"4a385919e6bfdb9b4aff7cec307079ab44849ad4d7eaf4d0ab6d833bca198ecc\"",
   "head": {
-    "ref": "2026.10.22_hefebac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/oirfile-feedstock/pull/5",
   "id": 4978568733,
   "labels": [],
-  "last_fetched": "2026-10-23T07:05:54.792603",
+  "last_fetched": "2026-10-23T12:01:38.759311",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T12:00:01Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-23T06:04:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T12:00:01Z"
 }

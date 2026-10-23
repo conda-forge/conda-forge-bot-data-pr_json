@@ -1,18 +1,18 @@
 {
-  "ETag": "\"ce0cbf948fbbef64ee453ee9447b97b71cbbd670b863a67cbd0d0ee7d33f0ed6\"",
-  "Last-Modified": "Fri, 23 Oct 2026 07:09:05 GMT",
+  "ETag": "\"114cce83f17ffeedb4bc02c015a79e9ac492400cc8ffac698a9201a7efa16fc4\"",
+  "Last-Modified": "Fri, 23 Oct 2026 07:10:49 GMT",
   "base": {
     "repo": {
       "name": "yamlium-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T07:10:45Z",
   "closed_by": null,
   "created_at": "2026-10-22T12:00:08Z",
   "draft": false,
   "e_tag": "\"765ca8753acb9e10995d5bd4941ea65942797da6bfc8506fbcd817adac1058c3\"",
   "head": {
-    "ref": "0.3.1_ha020ea"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yamlium-feedstock/pull/12",
   "id": 4966984998,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/yamlium-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-23T07:10:34.355682",
+  "last_fetched": "2026-10-23T07:12:13.952700",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T07:10:45Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-23T07:10:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T07:10:49Z"
 }

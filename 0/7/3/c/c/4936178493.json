@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f7e94bf4d9d8f901650c0bac7030100270376aea150e2da3a9ee3022fb757cef\"",
-  "Last-Modified": "Tue, 20 Oct 2026 13:07:57 GMT",
+  "ETag": "\"c525ffbc74c01e9556ad88869d416ae8bc42c0472a2a7f01f57e751b7673c7ef\"",
+  "Last-Modified": "Fri, 23 Oct 2026 16:19:26 GMT",
   "base": {
     "repo": {
       "name": "git-pkgs-proxy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T16:19:25Z",
   "closed_by": null,
   "created_at": "2026-10-20T13:06:20Z",
   "draft": false,
   "e_tag": "\"60e0356ded113756500df24172841aae6c79a3b5b438e108e1cd89ebba82767d\"",
   "head": {
-    "ref": "0.10.0_h931b86"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/git-pkgs-proxy-feedstock/pull/1",
   "id": 4936178493,
   "labels": [],
-  "last_fetched": "2026-10-20T15:48:30.397425",
+  "last_fetched": "2026-10-23T16:21:11.478837",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T16:19:25Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-20T13:07:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T16:19:26Z"
 }

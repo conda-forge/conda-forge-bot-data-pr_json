@@ -1,18 +1,18 @@
 {
-  "ETag": "\"538c0ecae9d9a54e1697a11a4a1783b76d502b4988225158f1c27e5f61f5d167\"",
-  "Last-Modified": "Fri, 23 Oct 2026 20:34:22 GMT",
+  "ETag": "\"48ff4ad93baf45d76e08dbfc5974b4c152536134db5d1b9af26db32b25774233\"",
+  "Last-Modified": "Fri, 23 Oct 2026 20:40:09 GMT",
   "base": {
     "repo": {
       "name": "sphinxcontrib-googleanalytics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T20:40:08Z",
   "closed_by": null,
   "created_at": "2026-10-21T20:55:47Z",
   "draft": false,
   "e_tag": "\"093aefd51c510dd6e8f847adf4cf7a4abad0e4b4dc737c7c0c11a819ec21593e\"",
   "head": {
-    "ref": "0.6_h28e9ab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sphinxcontrib-googleanalytics-feedstock/pull/3",
   "id": 4958238790,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/sphinxcontrib-googleanalytics-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-23T20:34:38.382516",
+  "last_fetched": "2026-10-23T20:41:40.333313",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T20:40:08Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-23T20:34:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T20:40:09Z"
 }

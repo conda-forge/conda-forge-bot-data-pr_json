@@ -1,27 +1,29 @@
 {
+  "ETag": "\"21942e8a41629a0866ddf2244e647eb49c7042542564e02e41802a9dfc490c63\"",
+  "Last-Modified": "Fri, 23 Oct 2026 09:48:24 GMT",
   "base": {
     "repo": {
       "name": "brisc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T09:48:20Z",
   "closed_by": null,
   "created_at": "2026-10-23T09:11:50Z",
   "draft": false,
   "e_tag": "\"17fd853ede2afd9238e4c5eba17572623d1087720ed1a162caa0e1b05839af1f\"",
   "head": {
-    "ref": "0.2.1_hcf0985"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/brisc-feedstock/pull/8",
   "id": 4980499567,
   "labels": [],
-  "last_fetched": "2026-10-23T09:11:51.143492",
+  "last_fetched": "2026-10-23T09:49:40.288764",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T09:48:19Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-23T09:11:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T09:48:24Z"
 }

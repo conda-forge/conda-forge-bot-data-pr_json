@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5cb92570857a5df4deecb49759f1054e8caa0168129937c4b6edb5d92b8209f3\"",
+  "Last-Modified": "Fri, 23 Oct 2026 09:23:40 GMT",
   "base": {
     "repo": {
       "name": "removestar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T09:23:40Z",
   "closed_by": null,
   "created_at": "2026-10-23T08:42:52Z",
   "draft": false,
   "e_tag": "\"36a953cf64e83b11cd2990613e3d64c79f1ca2da6b86a41a228952e3e23030f3\"",
   "head": {
-    "ref": "1.5.3_h819bb6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/removestar-feedstock/pull/13",
   "id": 4980167749,
   "labels": [],
-  "last_fetched": "2026-10-23T08:42:53.678195",
+  "last_fetched": "2026-10-23T09:25:19.049694",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T09:23:40Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-23T08:42:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T09:23:40Z"
 }

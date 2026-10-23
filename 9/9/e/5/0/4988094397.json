@@ -1,27 +1,41 @@
 {
+  "ETag": "\"a3503463e9cc8e5e101738d074caad5b6adb5bec8040e3c2efab7f3678af5580\"",
+  "Last-Modified": "Fri, 23 Oct 2026 19:51:57 GMT",
   "base": {
     "repo": {
       "name": "wtforms-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T19:51:52Z",
   "closed_by": null,
   "created_at": "2026-10-23T19:21:00Z",
   "draft": false,
   "e_tag": "\"5dfd1a89f5eeee864a2f0d3c51cf3a91ae1edc7a9f2e01508e6f3eaf55b3b8a7\"",
   "head": {
-    "ref": "3.3.0_h2551fa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wtforms-feedstock/pull/17",
   "id": 4988094397,
-  "labels": [],
-  "last_fetched": "2026-10-23T19:21:00.938010",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891428505,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDI4NTA1",
+      "url": "https://api.github.com/repos/conda-forge/wtforms-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T19:52:22.434268",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T19:51:52Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-23T19:21:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T19:51:57Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3f25398db83208a0fcc1db00bd1ef7052740e5776a49afda24a96be343c92fb0\"",
+  "Last-Modified": "Fri, 23 Oct 2026 02:44:53 GMT",
   "base": {
     "repo": {
       "name": "great-expectations-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T02:44:50Z",
   "closed_by": null,
   "created_at": "2026-10-23T02:40:39Z",
   "draft": false,
   "e_tag": "\"f67faa393acdf5dc813d0980d36a9c988cd511e7a6b7fa35803246514fe01296\"",
   "head": {
-    "ref": "1.24.1_h133e05"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/great-expectations-feedstock/pull/378",
   "id": 4977003387,
   "labels": [],
-  "last_fetched": "2026-10-23T02:40:39.772893",
+  "last_fetched": "2026-10-23T02:46:21.953766",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T02:44:50Z",
   "number": 378,
-  "state": "open",
-  "updated_at": "2026-10-23T02:40:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T02:44:53Z"
 }

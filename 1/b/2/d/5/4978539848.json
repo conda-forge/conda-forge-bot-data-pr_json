@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fb2638fe638967c3cc9edc25acb76f6f5b25ba173a0942eb55b1b2df730742ec\"",
+  "Last-Modified": "Fri, 23 Oct 2026 06:03:54 GMT",
   "base": {
     "repo": {
       "name": "bigquery-magics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T06:03:50Z",
   "closed_by": null,
   "created_at": "2026-10-23T05:59:30Z",
   "draft": false,
   "e_tag": "\"35b3da6e2d37e37f25fc28a0447dbfbfd351115b2f1361ed8e069c9434971eda\"",
   "head": {
-    "ref": "0.15.2_h4975e5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bigquery-magics-feedstock/pull/30",
   "id": 4978539848,
   "labels": [],
-  "last_fetched": "2026-10-23T05:59:30.978327",
+  "last_fetched": "2026-10-23T06:05:26.845696",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T06:03:50Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-23T05:59:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T06:03:54Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"dd35a5a328e9a5931c6f1e8ed52a8a92ac1f8bae4d64753c4d3ccdf135833929\"",
-  "Last-Modified": "Wed, 26 Aug 2026 22:14:05 GMT",
+  "ETag": "W/\"01272cf6a5b53bb9c8806579151c2bf9e68dd68e5ff7924e75502718df4b4e1e\"",
+  "Last-Modified": "Fri, 23 Oct 2026 02:47:46 GMT",
   "base": {
     "repo": {
       "name": "django-ltree-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T02:47:46Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-26T22:14:04Z",
   "draft": false,
   "e_tag": "\"4470f3658bf2035310c1cb961de4d161c6a1a1caf7c4eaf34ce41f143687c7d6\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/django-ltree-feedstock/pull/2",
   "id": 4371130630,
-  "labels": [],
-  "last_fetched": "2026-10-17T20:23:23.677789",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 10230613250,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDORSjlxM8AAAACYcrFAg",
+      "url": "https://api.github.com/repos/conda-forge/django-ltree-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-23T02:47:49.886074",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-08-26T22:15:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T02:47:46Z"
 }

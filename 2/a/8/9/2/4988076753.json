@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b80ea55df09481cc365b54a8d894ca4c201fcd33ab1e6a9d1d6635b9dd490e11\"",
+  "Last-Modified": "Fri, 23 Oct 2026 19:21:38 GMT",
   "base": {
     "repo": {
       "name": "fleche-split-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T19:21:34Z",
   "closed_by": null,
   "created_at": "2026-10-23T19:19:24Z",
   "draft": false,
   "e_tag": "\"c384907c557213c283c937edd4b046d520ead4b87e859c4caa671c9cb9dbc39a\"",
   "head": {
-    "ref": "0.22.2_h464d23"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fleche-split-feedstock/pull/13",
   "id": 4988076753,
   "labels": [],
-  "last_fetched": "2026-10-23T19:19:25.642261",
+  "last_fetched": "2026-10-23T19:24:18.549111",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T19:21:34Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-23T19:19:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T19:21:38Z"
 }

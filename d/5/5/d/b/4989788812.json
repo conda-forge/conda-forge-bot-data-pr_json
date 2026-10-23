@@ -1,27 +1,29 @@
 {
+  "ETag": "\"80e009ef3dcf22f9652daaf64dee0b942b4386a96991abd3963783a296c81abf\"",
+  "Last-Modified": "Fri, 23 Oct 2026 22:02:47 GMT",
   "base": {
     "repo": {
       "name": "girder-worker-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T22:02:43Z",
   "closed_by": null,
   "created_at": "2026-10-23T22:00:40Z",
   "draft": false,
   "e_tag": "\"5a9c3eacba561f41c5d9e4060f487e480407d5bcc40959e0a46bb1c78eb3e7b3\"",
   "head": {
-    "ref": "5.0.20_h07765e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/girder-worker-feedstock/pull/23",
   "id": 4989788812,
   "labels": [],
-  "last_fetched": "2026-10-23T22:00:41.418739",
+  "last_fetched": "2026-10-23T22:04:30.711518",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T22:02:43Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-23T22:00:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T22:02:47Z"
 }

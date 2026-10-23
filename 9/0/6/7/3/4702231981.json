@@ -1,5 +1,5 @@
 {
-  "ETag": "W/\"564df548331d87560d3457d455a5ae43b74e84d73bd2b867584bbdc6d885a0eb\"",
+  "ETag": "\"3f36d451656624d4f8289549f4d14adde2c562bd1caedb105c468f6ebbd1bba3\"",
   "Last-Modified": "Thu, 01 Oct 2026 14:35:00 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"888a33cc346ce9faffe18a0cd95235a1dce56699d0876dc4634757611da6d1c5\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hbc3fc6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vectorbt-feedstock/pull/19",
   "id": 4702231981,
-  "labels": [],
-  "last_fetched": "2026-10-16T13:50:37.254159",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-23T13:50:51.657435",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 19,

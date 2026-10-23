@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"9e4bd8a4fc95bc929bd684350f1802bcaa3603f6ff85cfff6994468356c453af\"",
-  "Last-Modified": "Fri, 25 Sep 2026 10:57:28 GMT",
+  "ETag": "\"da36d3886e311f4d6e99fb25100fa45fcaa97c1bfb4af08acb8b25e3f59e5ebc\"",
+  "Last-Modified": "Fri, 23 Oct 2026 09:50:55 GMT",
   "base": {
     "repo": {
       "name": "opentelemac-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T09:50:55Z",
   "created_at": "2026-09-25T10:55:12Z",
   "draft": false,
   "e_tag": "\"539a8ad0c20183851988e01f06810299780f19b333e71afdce8de7f60e1a0a67\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h100d68"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemac-feedstock/pull/34",
   "id": 4637160512,
   "labels": [],
-  "last_fetched": "2026-10-17T11:34:07.288796",
+  "last_fetched": "2026-10-23T09:51:32.822527",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T09:50:55Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-09-25T10:57:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T09:50:55Z"
 }

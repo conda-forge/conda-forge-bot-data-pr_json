@@ -1,29 +1,29 @@
 {
-  "ETag": "\"77cfabffce488f4d5a81c4d82f1d3e5061248d08ce0da09fede75a5d816ca9be\"",
-  "Last-Modified": "Fri, 23 Oct 2026 00:21:16 GMT",
+  "ETag": "\"77890f68ea102b9abc66400f8e9861f0ac018a6474b4593e297e58afb08929f8\"",
+  "Last-Modified": "Fri, 23 Oct 2026 10:50:31 GMT",
   "base": {
     "repo": {
       "name": "langflow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T10:50:31Z",
   "closed_by": null,
   "created_at": "2026-10-22T22:50:52Z",
   "draft": false,
   "e_tag": "\"4ee6ee1f716ef55756da31c333dcf9dbd18131541bd549fe55a1af0d5f5c74c9\"",
   "head": {
-    "ref": "1.13.0_h4bd8c8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langflow-feedstock/pull/28",
   "id": 4975186009,
   "labels": [],
-  "last_fetched": "2026-10-23T02:54:53.075651",
+  "last_fetched": "2026-10-23T10:51:36.815306",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T10:50:31Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-23T00:21:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T10:50:31Z"
 }

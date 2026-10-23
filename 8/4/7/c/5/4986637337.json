@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c8737a0903ef8e56544b65d2ff287c7eb5cd5be3b725fd3b994fecf7da5e23c9\"",
+  "Last-Modified": "Fri, 23 Oct 2026 17:23:09 GMT",
   "base": {
     "repo": {
       "name": "logfire-api-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T17:23:05Z",
   "closed_by": null,
   "created_at": "2026-10-23T17:21:12Z",
   "draft": false,
   "e_tag": "\"d498bb6c6fef0283fa600b75be79f2d983d18353e182e5e5e8ca916e8f9eb605\"",
   "head": {
-    "ref": "5.3.0_h5d8503"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/logfire-api-feedstock/pull/48",
   "id": 4986637337,
   "labels": [],
-  "last_fetched": "2026-10-23T17:21:13.396447",
+  "last_fetched": "2026-10-23T17:24:13.653940",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T17:23:05Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-23T17:21:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T17:23:09Z"
 }

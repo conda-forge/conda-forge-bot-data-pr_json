@@ -1,6 +1,6 @@
 {
-  "ETag": "\"8354f5aa52b894ec5cc4c15bf1f609e5f91361236f9a5fc0a6278c85a34f898b\"",
-  "Last-Modified": "Thu, 22 Oct 2026 18:12:02 GMT",
+  "ETag": "\"19127cbd07a159174d3696ef51fef5f6bf6a747f198dad82f141883f4b1f7cf6\"",
+  "Last-Modified": "Fri, 23 Oct 2026 00:43:42 GMT",
   "base": {
     "repo": {
       "name": "grpc-cpp-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/grpc-cpp-feedstock/pull/439",
   "id": 4971977387,
-  "labels": [],
-  "last_fetched": "2026-10-22T21:48:54.990007",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890939721,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTM5NzIx",
+      "url": "https://api.github.com/repos/conda-forge/grpc-cpp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-23T00:44:52.617931",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 439,
   "state": "open",
-  "updated_at": "2026-10-22T18:12:02Z"
+  "updated_at": "2026-10-23T00:43:42Z"
 }

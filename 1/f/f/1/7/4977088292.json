@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ac727e45f2df0e0d4ea5b9e81fe67e5f0c02f54f283808e45108bcfd54c9f99c\"",
+  "Last-Modified": "Fri, 23 Oct 2026 02:54:18 GMT",
   "base": {
     "repo": {
       "name": "pydantic_ai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T02:54:13Z",
   "closed_by": null,
   "created_at": "2026-10-23T02:51:58Z",
   "draft": false,
   "e_tag": "\"49ae605191289b1284e89b35bfdaaeeb01770284bb2d7e0a5cc09f7e37f607fc\"",
   "head": {
-    "ref": "2.60.0_hedd009"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pydantic_ai-feedstock/pull/249",
   "id": 4977088292,
   "labels": [],
-  "last_fetched": "2026-10-23T02:51:59.674709",
+  "last_fetched": "2026-10-23T02:55:52.824324",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-23T02:54:13Z",
   "number": 249,
-  "state": "open",
-  "updated_at": "2026-10-23T02:51:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T02:54:18Z"
 }

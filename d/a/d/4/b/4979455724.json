@@ -1,41 +1,29 @@
 {
-  "ETag": "\"dd054671926fade91a57546aca7ec5f83e623f865291ff1b49267cbba71a1c57\"",
-  "Last-Modified": "Fri, 23 Oct 2026 14:03:11 GMT",
+  "ETag": "\"9f74b0fdbeb68c8ded12c4b2a0f7d63fdcdd2249d2db70eefbde149428f68493\"",
+  "Last-Modified": "Fri, 23 Oct 2026 14:12:21 GMT",
   "base": {
     "repo": {
       "name": "pynng-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T14:12:21Z",
   "closed_by": null,
   "created_at": "2026-10-23T07:35:42Z",
   "draft": false,
   "e_tag": "\"fa75fd01611bb64e64131dc31ab70c05364694b0bfca511f300e7edc0e92755a\"",
   "head": {
-    "ref": "0.9.0_ha49e87"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pynng-feedstock/pull/40",
   "id": 4979455724,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 2536742558,
-      "name": "automerge",
-      "node_id": "MDU6TGFiZWwyNTM2NzQyNTU4",
-      "url": "https://api.github.com/repos/conda-forge/pynng-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-10-23T14:04:02.398826",
+  "labels": [],
+  "last_fetched": "2026-10-23T14:13:57.495468",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-23T14:12:21Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-10-23T14:03:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T14:12:21Z"
 }

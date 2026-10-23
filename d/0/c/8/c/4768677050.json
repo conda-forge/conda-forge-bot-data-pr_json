@@ -1,12 +1,13 @@
 {
-  "ETag": "\"0e758658c4468d8c70cfb1df6ebed12570a2d4bb2c29767bf6ea7f0da9b79f91\"",
-  "Last-Modified": "Wed, 07 Oct 2026 06:09:44 GMT",
+  "ETag": "W/\"739a5efb5987aadafc9f110317790b3ff2b57856742f2a2392715fc4d82be8e4\"",
+  "Last-Modified": "Fri, 23 Oct 2026 03:15:23 GMT",
   "base": {
     "repo": {
       "name": "flupy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-23T03:15:23Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-07T06:06:20Z",
   "draft": false,
   "e_tag": "\"0922e0f33a49e0ed6967078a6f47d33903236233c274a4dfc57bda0e984f8846\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/flupy-feedstock/pull/9",
   "id": 4768677050,
-  "labels": [],
-  "last_fetched": "2026-10-21T12:59:44.921861",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6815346062,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOLtWGg88AAAABljntjg",
+      "url": "https://api.github.com/repos/conda-forge/flupy-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-23T03:15:25.774820",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-07T06:09:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-23T03:15:23Z"
 }

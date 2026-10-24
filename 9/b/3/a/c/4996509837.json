@@ -1,27 +1,29 @@
 {
+  "ETag": "\"23eae2e3a63c32f2f86f80ce7893fe45624d8b459a3c017907ebb53611d79ce1\"",
+  "Last-Modified": "Sat, 24 Oct 2026 15:08:58 GMT",
   "base": {
     "repo": {
       "name": "aiormq-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T15:08:57Z",
   "closed_by": null,
   "created_at": "2026-10-24T15:05:41Z",
   "draft": false,
   "e_tag": "\"4b25c12d6177069b7917878be332420acfa9cd8e6ec7ed916481eb2b074a41c3\"",
   "head": {
-    "ref": "7.2.4_h7824cf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aiormq-feedstock/pull/74",
   "id": 4996509837,
   "labels": [],
-  "last_fetched": "2026-10-24T15:05:42.815117",
+  "last_fetched": "2026-10-24T15:10:33.621152",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T15:08:57Z",
   "number": 74,
-  "state": "open",
-  "updated_at": "2026-10-24T15:05:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T15:08:58Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bf85e831b90ac812e422ed5d6018a3c37d782bc1e6e50317ce53544134e92d9b\"",
+  "Last-Modified": "Sat, 24 Oct 2026 20:54:11 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-ssh-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T20:54:11Z",
   "closed_by": null,
   "created_at": "2026-10-24T20:46:44Z",
   "draft": false,
   "e_tag": "\"5901ce37206e469aff5c3e28d0ace96cac70aa7851f771784b29aca0b4d83c7b\"",
   "head": {
-    "ref": "7.0.1_h623f5a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-ssh-feedstock/pull/62",
   "id": 4999016194,
   "labels": [],
-  "last_fetched": "2026-10-24T20:46:44.767424",
+  "last_fetched": "2026-10-24T20:55:46.722491",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T20:54:10Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-10-24T20:46:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T20:54:11Z"
 }

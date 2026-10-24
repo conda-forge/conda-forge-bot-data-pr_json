@@ -1,29 +1,29 @@
 {
-  "ETag": "\"22cf3380f32423add26162c0b7711c5d167535efd9ea593746e75dd881739afe\"",
-  "Last-Modified": "Fri, 23 Oct 2026 03:04:16 GMT",
+  "ETag": "\"c824eae7f711e93dc0ddce6a462681c44654dac4b03ca7a3dd9427dc2d771caa\"",
+  "Last-Modified": "Sat, 24 Oct 2026 20:10:55 GMT",
   "base": {
     "repo": {
       "name": "music21-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T20:10:55Z",
   "closed_by": null,
   "created_at": "2026-10-23T03:02:47Z",
   "draft": false,
   "e_tag": "\"69fca3e08e39ed48e50d6af6db9af6c2abac4c843fe437c3e5a3663b4fd5255b\"",
   "head": {
-    "ref": "10.5.1_h3dc819"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/music21-feedstock/pull/23",
   "id": 4977169860,
   "labels": [],
-  "last_fetched": "2026-10-23T04:28:55.842050",
+  "last_fetched": "2026-10-24T20:12:30.225639",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T20:10:55Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-23T03:04:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T20:10:55Z"
 }

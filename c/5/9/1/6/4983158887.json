@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d5932e1db855756299e04cbed3a199e920f7fb9fcbeb61d0dfd83ce72d23613d\"",
-  "Last-Modified": "Sat, 24 Oct 2026 13:23:48 GMT",
+  "ETag": "\"b2837055d2f1d09a1c357d5ef7fda894a3f11af6c3e141c1ee8af79f077f649e\"",
+  "Last-Modified": "Sat, 24 Oct 2026 13:24:45 GMT",
   "base": {
     "repo": {
       "name": "svglib-feedstock"
@@ -16,26 +16,14 @@
   },
   "html_url": "https://github.com/conda-forge/svglib-feedstock/pull/34",
   "id": 4983158887,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 1891412830,
-      "name": "automerge",
-      "node_id": "MDU6TGFiZWwxODkxNDEyODMw",
-      "url": "https://api.github.com/repos/conda-forge/svglib-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-10-24T13:23:58.704760",
+  "labels": [],
+  "last_fetched": "2026-10-24T13:25:20.507344",
   "last_modified": null,
-  "mergeable": false,
-  "mergeable_state": "dirty",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 34,
   "state": "open",
-  "updated_at": "2026-10-24T13:23:48Z"
+  "updated_at": "2026-10-24T13:24:45Z"
 }

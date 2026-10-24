@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d0f27c054c631dca1bfdcdbe54ce27937dd067f32cb61ac2c2c87afe1fc8ca01\"",
-  "Last-Modified": "Fri, 23 Oct 2026 01:50:58 GMT",
+  "ETag": "\"8420cd418bc5b91b3fee3cdcb6e9e3391e39a0048e3d154a793dc975c41dfd13\"",
+  "Last-Modified": "Sat, 24 Oct 2026 17:26:13 GMT",
   "base": {
     "repo": {
       "name": "memory-allocator-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T17:26:12Z",
   "closed_by": null,
   "created_at": "2026-10-23T01:49:28Z",
   "draft": false,
   "e_tag": "\"70f1a52b6a3c482f1b08844f45eec39e236a8164b2806551092eb5018acc08f9\"",
   "head": {
-    "ref": "0.2.1_h1e0c82"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/memory-allocator-feedstock/pull/28",
   "id": 4976609028,
   "labels": [],
-  "last_fetched": "2026-10-23T04:51:00.506907",
+  "last_fetched": "2026-10-24T17:27:45.238449",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T17:26:12Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-23T01:50:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T17:26:13Z"
 }

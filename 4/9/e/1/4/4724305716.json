@@ -1,5 +1,5 @@
 {
-  "ETag": "\"ade88626388b87073778ac113730f9b92dcce17a8bbadd923944bc5273c82553\"",
+  "ETag": "W/\"04fdcf690520ed4bdf12778a3773764a834f77171e67485a921638b92ccf523f\"",
   "Last-Modified": "Sat, 24 Oct 2026 11:33:37 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/hop-client-feedstock/pull/22",
   "id": 4724305716,
-  "labels": [],
-  "last_fetched": "2026-10-24T11:35:09.504299",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-24T11:33:40.365449",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

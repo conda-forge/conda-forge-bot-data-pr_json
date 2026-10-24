@@ -1,4 +1,6 @@
 {
+  "ETag": "\"eb5510d6f5773660b13636cfcde5c507901248fe43f3d5b182f3da71821b9bd1\"",
+  "Last-Modified": "Sat, 24 Oct 2026 21:13:24 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-spark-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-spark-feedstock/pull/62",
   "id": 4999173899,
-  "labels": [],
-  "last_fetched": "2026-10-24T21:07:39.324464",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746836801,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM2ODAx",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-spark-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-24T21:14:41.933351",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 62,
   "state": "open",
-  "updated_at": "2026-10-24T21:07:38Z"
+  "updated_at": "2026-10-24T21:13:24Z"
 }

@@ -1,13 +1,13 @@
 {
-  "ETag": "W/\"046db0433a9e077a2d3cea5a45ff1aa70ee08ab91e89f13d00e8d41917afe19d\"",
-  "Last-Modified": "Sun, 18 Oct 2026 21:14:02 GMT",
+  "ETag": "\"300c98e1dcbe425059c1ced679bcc6aa5107a2710d66a86b4fd649e23fe82e92\"",
+  "Last-Modified": "Sat, 24 Oct 2026 13:57:57 GMT",
   "base": {
     "repo": {
       "name": "bump-my-version-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-24T13:57:57Z",
+  "closed_by": "coordt",
   "created_at": "2026-10-18T21:12:24Z",
   "draft": false,
   "e_tag": "\"3d065e19c7d18f626592cab6c44faefa21c2f00b0ee9cc4847df7785a7df7b13\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/bump-my-version-feedstock/pull/83",
   "id": 4912855804,
   "labels": [],
-  "last_fetched": "2026-10-18T21:45:02.772691",
+  "last_fetched": "2026-10-24T13:59:29.271877",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 83,
-  "state": "open",
-  "updated_at": "2026-10-18T21:14:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T13:57:57Z"
 }

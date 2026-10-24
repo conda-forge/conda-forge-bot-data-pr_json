@@ -1,5 +1,5 @@
 {
-  "ETag": "\"314277592eb56486de2fc75488170da43ee49d496bd28a8842684aa6ae2bc7f5\"",
+  "ETag": "W/\"f7189d441f346050103ee7c4fa9edea3d26d0819d54252caee733d76d8e31571\"",
   "Last-Modified": "Sat, 24 Oct 2026 03:27:07 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/rsconnect-python-feedstock/pull/59",
   "id": 4895370974,
-  "labels": [],
-  "last_fetched": "2026-10-24T03:28:43.444096",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-24T03:27:09.654902",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"9a4e96d40b9f3d7fab50f3ef5c9b1d4b96983da90c43a4348d38d2ad67710f88\"",
-  "Last-Modified": "Fri, 04 Sep 2026 20:37:22 GMT",
+  "ETag": "W/\"37aa52a1cb9f9571d5ced004fd814fb1172766bb18d0e8ea1ba6a48ea6f07186\"",
+  "Last-Modified": "Sat, 24 Oct 2026 17:20:39 GMT",
   "base": {
     "repo": {
       "name": "flower-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T17:20:39Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-04T20:35:25Z",
   "draft": false,
   "e_tag": "\"b4538316ab559548cfe454edcdbef2888d04c595886a094d13d4fed7e8014e1f\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/flower-feedstock/pull/32",
   "id": 4446419054,
-  "labels": [],
-  "last_fetched": "2026-10-17T15:34:38.611717",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-24T17:20:41.828595",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-09-04T20:37:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T17:20:39Z"
 }

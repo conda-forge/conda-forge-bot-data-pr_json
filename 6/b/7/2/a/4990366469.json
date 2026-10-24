@@ -1,29 +1,29 @@
 {
-  "ETag": "\"38602d1c81522f00f600f59f77bb3669487db6904ff4254ff7a38a8598a5e26a\"",
-  "Last-Modified": "Fri, 23 Oct 2026 23:10:12 GMT",
+  "ETag": "\"942a8b139b6fd368e5be5279c5250bee21520b7bcd198bd811174ab98c043cc7\"",
+  "Last-Modified": "Sat, 24 Oct 2026 07:51:01 GMT",
   "base": {
     "repo": {
       "name": "htmy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T07:51:01Z",
   "closed_by": null,
   "created_at": "2026-10-23T23:08:24Z",
   "draft": false,
   "e_tag": "\"2af1514af9d579d9900adf9d0352ee7ddbd5a810ecc2a8f76de10adabb550410\"",
   "head": {
-    "ref": "0.13.6_hd13a0e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/htmy-feedstock/pull/10",
   "id": 4990366469,
   "labels": [],
-  "last_fetched": "2026-10-24T00:54:53.399507",
+  "last_fetched": "2026-10-24T07:52:11.412050",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T07:51:01Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-23T23:10:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T07:51:01Z"
 }

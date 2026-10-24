@@ -1,27 +1,29 @@
 {
+  "ETag": "\"730e89dd47f09fe8d69963210228b2173eacc01ca3b4111981cb77c2e997d19e\"",
+  "Last-Modified": "Sat, 24 Oct 2026 17:27:32 GMT",
   "base": {
     "repo": {
       "name": "ocaml-yojson-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T17:27:32Z",
   "closed_by": null,
   "created_at": "2026-10-24T16:40:22Z",
   "draft": false,
   "e_tag": "\"5612b9d454d9bb7b28f96c5557405bab65e60d80005133da815cc46ecc42585e\"",
   "head": {
-    "ref": "rebuild-ocaml551-0-2_hbf9ebe"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ocaml-yojson-feedstock/pull/6",
   "id": 4997198194,
   "labels": [],
-  "last_fetched": "2026-10-24T16:40:23.620773",
+  "last_fetched": "2026-10-24T17:28:40.485408",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T17:27:32Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-24T16:40:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T17:27:32Z"
 }

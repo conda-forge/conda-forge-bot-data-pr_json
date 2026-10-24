@@ -1,27 +1,29 @@
 {
+  "ETag": "\"048ee32ce2d2710402ecf2762046b91575f4b7e02f66242cc4fd10b0e4a91474\"",
+  "Last-Modified": "Sat, 24 Oct 2026 17:46:40 GMT",
   "base": {
     "repo": {
       "name": "rbspy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T17:46:36Z",
   "closed_by": null,
   "created_at": "2026-10-24T17:36:16Z",
   "draft": false,
   "e_tag": "\"c32134716edf7b3bf25ad8a87d4a9e1063082d0c0696e9abcba1121908030b9b\"",
   "head": {
-    "ref": "0.55.0_h27a5fd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rbspy-feedstock/pull/34",
   "id": 4997607527,
   "labels": [],
-  "last_fetched": "2026-10-24T17:36:17.777109",
+  "last_fetched": "2026-10-24T17:48:00.359214",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T17:46:36Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-24T17:36:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T17:46:40Z"
 }

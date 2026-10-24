@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b53287102df3c63723f319d609f13c4d643061cc10a2a0c616adfbec92e03e68\"",
-  "Last-Modified": "Fri, 23 Oct 2026 21:03:43 GMT",
+  "ETag": "\"61c31494d7223674f2276058acfb2a997fe833e99ba6c012451a7a6c66a5f01a\"",
+  "Last-Modified": "Sat, 24 Oct 2026 01:28:24 GMT",
   "base": {
     "repo": {
       "name": "huey-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T01:28:23Z",
   "closed_by": null,
   "created_at": "2026-10-23T21:02:09Z",
   "draft": false,
   "e_tag": "\"0a8f4fa257d47a2c79063d4f6e14e1e99faaa9a3b44aaef396bfb2b745df8000\"",
   "head": {
-    "ref": "3.5.0_h74d53b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/huey-feedstock/pull/38",
   "id": 4989215811,
   "labels": [],
-  "last_fetched": "2026-10-23T23:24:02.968326",
+  "last_fetched": "2026-10-24T01:30:01.143426",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T01:28:23Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-23T21:03:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T01:28:24Z"
 }

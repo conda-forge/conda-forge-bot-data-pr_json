@@ -1,13 +1,13 @@
 {
-  "ETag": "\"9f2e4b9c77b67b08ee89d03bc64784d78a356a1e88d921ef6b3f39f14314373b\"",
-  "Last-Modified": "Sat, 24 Oct 2026 09:30:21 GMT",
+  "ETag": "W/\"eb683caa04f5d9cf59f44539a0370fcb50e15925528c7a2d5df210567b569b92\"",
+  "Last-Modified": "Sat, 24 Oct 2026 11:04:56 GMT",
   "base": {
     "repo": {
       "name": "wetterdienst-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-24T11:04:56Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-24T09:28:40Z",
   "draft": false,
   "e_tag": "\"5b4893ac94bd27a6b56b46b46920260ae238f01ea201b1a714e9e1f467db405d\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/wetterdienst-feedstock/pull/225",
   "id": 4994238912,
-  "labels": [],
-  "last_fetched": "2026-10-24T10:36:31.699015",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 2497608092,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwyNDk3NjA4MDky",
+      "url": "https://api.github.com/repos/conda-forge/wetterdienst-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-24T11:04:59.106600",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 225,
-  "state": "open",
-  "updated_at": "2026-10-24T09:30:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T11:04:56Z"
 }

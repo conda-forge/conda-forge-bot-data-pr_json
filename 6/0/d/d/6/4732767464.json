@@ -1,5 +1,5 @@
 {
-  "ETag": "W/\"704dbfc7a621acfab285fe0061bc84df9f8fcaca6a933bbe94f1b15ab51aaece\"",
+  "ETag": "\"2f1a226e4a3607e1d7bd7bff9d4082cf7a4f62ad361d1f0c7357b2a73ab6cf70\"",
   "Last-Modified": "Sat, 17 Oct 2026 00:12:48 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"0d20d82dc6286c5fb310de65f80bfd50796e61c5412730029bea4656bb35c756\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h133814"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyspnego-feedstock/pull/54",
   "id": 4732767464,
-  "labels": [],
-  "last_fetched": "2026-10-17T02:32:38.652135",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-24T05:24:54.966493",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 54,

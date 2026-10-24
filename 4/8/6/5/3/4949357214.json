@@ -1,29 +1,29 @@
 {
-  "ETag": "\"047be4f29a3d0ccf14f064f6df3bfe4fb7883f94ff63e6f36d13acf2c8cea6db\"",
-  "Last-Modified": "Wed, 21 Oct 2026 09:26:01 GMT",
+  "ETag": "\"27ca1d4f0a9d17a91ccc40f7a93f86d5012cc4b7c3fe89b7b01b4eeecf807deb\"",
+  "Last-Modified": "Sat, 24 Oct 2026 05:40:20 GMT",
   "base": {
     "repo": {
       "name": "nox-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T05:40:20Z",
   "closed_by": null,
   "created_at": "2026-10-21T09:26:00Z",
   "draft": false,
   "e_tag": "\"e329baf8a4dde3f292951b1c10f713db2ec0a6b0fb9e77eacf387a3e1579053a\"",
   "head": {
-    "ref": "2026.10.20_h98cb2d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nox-feedstock/pull/48",
   "id": 4949357214,
   "labels": [],
-  "last_fetched": "2026-10-21T13:26:49.232427",
+  "last_fetched": "2026-10-24T05:41:45.188513",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T05:40:19Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-21T09:27:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T05:40:20Z"
 }

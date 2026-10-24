@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bb9537de9bc6bd7dcb490b832226eb8e027bbd80e805ee8012ae22a6699a1243\"",
+  "Last-Modified": "Sat, 24 Oct 2026 15:45:25 GMT",
   "base": {
     "repo": {
       "name": "sagemath-mcp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T15:45:25Z",
   "closed_by": null,
   "created_at": "2026-10-24T15:27:35Z",
   "draft": false,
   "e_tag": "\"6279a16def4ee68151b66da01a85b964518689217166a83eda6f48da81c71ec3\"",
   "head": {
-    "ref": "0.9.6_hf9b8a7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sagemath-mcp-feedstock/pull/3",
   "id": 4996670909,
   "labels": [],
-  "last_fetched": "2026-10-24T15:27:36.307359",
+  "last_fetched": "2026-10-24T15:47:03.184343",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T15:45:25Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-24T15:27:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T15:45:25Z"
 }

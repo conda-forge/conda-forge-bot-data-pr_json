@@ -1,27 +1,29 @@
 {
+  "ETag": "\"99e60d5e78ca668ce16d740cbbc8d5cb2cf7f9e85b96fbb260f150bd85d21b91\"",
+  "Last-Modified": "Sat, 24 Oct 2026 21:32:09 GMT",
   "base": {
     "repo": {
       "name": "atomistics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T21:32:05Z",
   "closed_by": null,
   "created_at": "2026-10-24T21:29:59Z",
   "draft": false,
   "e_tag": "\"da734121139b4bda158b74eec2c86823058d7398932ea94a98d00b738564a697\"",
   "head": {
-    "ref": "0.4.0_h53274b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/atomistics-feedstock/pull/82",
   "id": 4999323970,
   "labels": [],
-  "last_fetched": "2026-10-24T21:30:00.392990",
+  "last_fetched": "2026-10-24T21:33:12.900060",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T21:32:05Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-10-24T21:29:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T21:32:09Z"
 }

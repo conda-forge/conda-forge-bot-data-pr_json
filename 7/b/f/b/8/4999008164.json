@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"9c16069b58083f58469ff55ca7c46ee3af75677d5adb1b0ac89a36f6283c460d\"",
+  "Last-Modified": "Sat, 24 Oct 2026 20:48:09 GMT",
   "base": {
     "repo": {
       "name": "murmurhash-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/murmurhash-feedstock/pull/53",
   "id": 4999008164,
-  "labels": [],
-  "last_fetched": "2026-10-24T20:45:40.014010",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891022095,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDIyMDk1",
+      "url": "https://api.github.com/repos/conda-forge/murmurhash-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-24T20:49:41.999683",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 53,
   "state": "open",
-  "updated_at": "2026-10-24T20:45:39Z"
+  "updated_at": "2026-10-24T20:48:09Z"
 }

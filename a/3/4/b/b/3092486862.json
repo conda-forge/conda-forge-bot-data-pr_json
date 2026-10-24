@@ -1,12 +1,13 @@
 {
-  "ETag": "\"c00e0ba52909e9a27c6e3a19e9e4dba66179e176230b82b10387b0297a4b7f50\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"5dc20b292edec7d07c33039ee5f7acc757b1ce12446474879c3d6f28444e6d2b\"",
+  "Last-Modified": "Sat, 24 Oct 2026 21:14:16 GMT",
   "base": {
     "repo": {
       "name": "azure-mgmt-compute-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T21:14:16Z",
+  "closed_by": "xylar",
   "created_at": "2025-12-11T10:38:39Z",
   "draft": false,
   "e_tag": "\"e6655d9ae604983533249084ad14178d54ad34d1ef2290c1bfb805b868794678\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/azure-mgmt-compute-feedstock/pull/41",
   "id": 3092486862,
   "labels": [],
-  "last_fetched": "2026-10-20T03:30:31.913959",
+  "last_fetched": "2026-10-24T21:15:44.048752",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 41,
-  "state": "open",
-  "updated_at": "2025-12-11T10:40:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T21:14:16Z"
 }

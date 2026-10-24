@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9cbfd2b0e71e207d5deb39f9b59c529b11bf2b900989fe8d65051dd7b72869be\"",
+  "Last-Modified": "Sat, 24 Oct 2026 07:07:29 GMT",
   "base": {
     "repo": {
       "name": "types-networkx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T07:07:25Z",
   "closed_by": null,
   "created_at": "2026-10-24T07:05:34Z",
   "draft": false,
   "e_tag": "\"7684f0e7d8a5752b465f90142b520f88eabe1f94c664e12263d275fef8b0c721\"",
   "head": {
-    "ref": "3.6.1.20261024_h02c176"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-networkx-feedstock/pull/68",
   "id": 4993358940,
   "labels": [],
-  "last_fetched": "2026-10-24T07:05:35.000341",
+  "last_fetched": "2026-10-24T07:09:04.253542",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T07:07:25Z",
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-10-24T07:05:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T07:07:29Z"
 }

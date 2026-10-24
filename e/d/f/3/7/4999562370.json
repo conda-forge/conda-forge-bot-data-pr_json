@@ -1,4 +1,6 @@
 {
+  "ETag": "\"776138b7e2f521f3ee3c85632734f725b1c0a09d1ce095a29d59f7689181a0e2\"",
+  "Last-Modified": "Sat, 24 Oct 2026 22:17:39 GMT",
   "base": {
     "repo": {
       "name": "wcwidth-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/wcwidth-feedstock/pull/51",
   "id": 4999562370,
-  "labels": [],
-  "last_fetched": "2026-10-24T22:05:56.718099",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891426590,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDI2NTkw",
+      "url": "https://api.github.com/repos/conda-forge/wcwidth-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-24T22:18:43.008000",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 51,
   "state": "open",
-  "updated_at": "2026-10-24T22:05:55Z"
+  "updated_at": "2026-10-24T22:17:39Z"
 }

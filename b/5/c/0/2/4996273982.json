@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7efe9a0074feddbf3aa0c4b843a977f85562e72de6e33112ee3880573e6db47d\"",
+  "Last-Modified": "Sat, 24 Oct 2026 14:36:31 GMT",
   "base": {
     "repo": {
       "name": "types-aiobotocore-cloudformation-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T14:36:28Z",
   "closed_by": null,
   "created_at": "2026-10-24T14:34:01Z",
   "draft": false,
   "e_tag": "\"72ec4b900c5195f3e3c91e93b28821b8676933127d8fd6fc87c6312ea01fe06f\"",
   "head": {
-    "ref": "3.10.0_h7260dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-aiobotocore-cloudformation-feedstock/pull/76",
   "id": 4996273982,
   "labels": [],
-  "last_fetched": "2026-10-24T14:34:02.543620",
+  "last_fetched": "2026-10-24T14:37:56.905998",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T14:36:28Z",
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-10-24T14:34:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T14:36:31Z"
 }

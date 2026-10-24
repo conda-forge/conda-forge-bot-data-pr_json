@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d8e7ea3c463d780a997db311dd1e992230f0c9b6a1290977c700ca29b73b221d\"",
+  "Last-Modified": "Sat, 24 Oct 2026 12:48:49 GMT",
   "base": {
     "repo": {
       "name": "dawn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T12:48:45Z",
   "closed_by": null,
   "created_at": "2026-10-24T12:14:43Z",
   "draft": false,
   "e_tag": "\"90d071c2c313295af82a3000afbb16065253dad7cec66dd80c5670a6502052e2\"",
   "head": {
-    "ref": "20261023.194543_h6bd008"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dawn-feedstock/pull/7",
   "id": 4995294816,
   "labels": [],
-  "last_fetched": "2026-10-24T12:14:44.619488",
+  "last_fetched": "2026-10-24T12:50:21.844227",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T12:48:45Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-24T12:14:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T12:48:49Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"56e172274acbc325a935c1e25a3d104274da7b180670f7abcf5ae5a97210a0bf\"",
-  "Last-Modified": "Sat, 24 Oct 2026 15:18:14 GMT",
+  "ETag": "\"ba1140f64d6e7c1471fdf30f08fccc1647c977f5f48ccd9039e3cbea544ef7cc\"",
+  "Last-Modified": "Sat, 24 Oct 2026 15:50:50 GMT",
   "base": {
     "repo": {
       "name": "ocaml-dune-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T15:50:50Z",
   "closed_by": null,
   "created_at": "2026-10-24T04:14:19Z",
   "draft": false,
   "e_tag": "\"3118cc9707e2a3c24a4aa8b26021af7126a20a39bff4e5e8ba135100cd115767\"",
   "head": {
-    "ref": "rebuild-ocaml551-0-2_he1be25"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ocaml-dune-feedstock/pull/35",
   "id": 4992388308,
   "labels": [],
-  "last_fetched": "2026-10-24T15:44:44.606457",
+  "last_fetched": "2026-10-24T15:52:17.215149",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T15:50:50Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-24T15:18:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T15:50:50Z"
 }

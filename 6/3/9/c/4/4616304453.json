@@ -1,28 +1,28 @@
 {
-  "ETag": "\"bfd85fb8aaa5976cf6dc9748f5685572e6764d76f611eec7e428ab667f4beead\"",
-  "Last-Modified": "Wed, 23 Sep 2026 17:00:18 GMT",
+  "ETag": "\"d968334d6a90791d4e70e9e4ab21850a5f5b11d4bc8c384ad69f5a0acfae7135\"",
+  "Last-Modified": "Sat, 24 Oct 2026 09:59:45 GMT",
   "base": {
     "repo": {
       "name": "lance-namespace-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T09:59:45Z",
   "created_at": "2026-09-23T16:58:31Z",
   "draft": false,
   "e_tag": "\"5f1a5a0ca23e3a3c225d77603cb27598fdf370ab95a09d094fb1bdd36e782a12\"",
   "head": {
-    "ref": "0.13.0_h6aa4dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lance-namespace-feedstock/pull/28",
   "id": 4616304453,
   "labels": [],
-  "last_fetched": "2026-10-22T04:27:34.166345",
+  "last_fetched": "2026-10-24T10:01:20.636927",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T09:59:45Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-09-23T17:00:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T09:59:45Z"
 }

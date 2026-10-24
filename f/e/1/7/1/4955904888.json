@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0460221d05e55bfdc4b6de61908dc13716df293eb6dd57d10a204c576a38d857\"",
-  "Last-Modified": "Wed, 21 Oct 2026 17:49:01 GMT",
+  "ETag": "\"33117d4eb4374c89c3413a54ce9cfc34f14ac86d799d45890791b800ae5e2bdf\"",
+  "Last-Modified": "Sat, 24 Oct 2026 16:33:21 GMT",
   "base": {
     "repo": {
       "name": "schemathesis-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T16:33:21Z",
   "closed_by": null,
   "created_at": "2026-10-21T17:47:26Z",
   "draft": false,
   "e_tag": "\"b74a4f3c668160b839679550331c1ea54206154e9d0e16e81dc10f4f8b690415\"",
   "head": {
-    "ref": "4.32.3_h9696b8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/schemathesis-feedstock/pull/267",
   "id": 4955904888,
   "labels": [],
-  "last_fetched": "2026-10-21T22:57:21.491454",
+  "last_fetched": "2026-10-24T16:34:51.787900",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T16:33:21Z",
   "number": 267,
-  "state": "open",
-  "updated_at": "2026-10-21T17:49:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T16:33:21Z"
 }

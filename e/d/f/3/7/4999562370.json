@@ -1,18 +1,18 @@
 {
-  "ETag": "\"776138b7e2f521f3ee3c85632734f725b1c0a09d1ce095a29d59f7689181a0e2\"",
-  "Last-Modified": "Sat, 24 Oct 2026 22:17:39 GMT",
+  "ETag": "\"9289bd474409ee3019f090a44181f1f54bf76f80f754b92315d75e91e81b11e7\"",
+  "Last-Modified": "Sat, 24 Oct 2026 22:19:27 GMT",
   "base": {
     "repo": {
       "name": "wcwidth-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T22:19:22Z",
   "closed_by": null,
   "created_at": "2026-10-24T22:05:55Z",
   "draft": false,
   "e_tag": "\"98a7143625a5cda3d896e90f8ac9b6c0a236d2f17b860ab5a2d6a2a66665fa14\"",
   "head": {
-    "ref": "0.9.4_hd66e5e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wcwidth-feedstock/pull/51",
   "id": 4999562370,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/wcwidth-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-24T22:18:43.008000",
+  "last_fetched": "2026-10-24T22:20:55.694846",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T22:19:22Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-24T22:17:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T22:19:27Z"
 }

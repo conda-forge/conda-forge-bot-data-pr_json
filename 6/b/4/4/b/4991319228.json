@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0230f4e4303c5c39236d3159ac49ff140c871b49182dc8808a2d897e67ad1942\"",
+  "Last-Modified": "Sat, 24 Oct 2026 02:29:18 GMT",
   "base": {
     "repo": {
       "name": "molscrub-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T02:29:18Z",
   "closed_by": null,
   "created_at": "2026-10-24T01:17:09Z",
   "draft": false,
   "e_tag": "\"e7f7eeb67cb57c9299e2a841ac05768bb13800caa26ec81b995f9dde1f09b6d9\"",
   "head": {
-    "ref": "0.3.2_h337ee5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/molscrub-feedstock/pull/8",
   "id": 4991319228,
   "labels": [],
-  "last_fetched": "2026-10-24T01:17:10.331323",
+  "last_fetched": "2026-10-24T02:30:55.825257",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T02:29:18Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-24T01:17:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T02:29:18Z"
 }

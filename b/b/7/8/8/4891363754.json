@@ -1,13 +1,13 @@
 {
-  "ETag": "W/\"a0b3176464fc889876552a5ba01b10ffeec7507497636519ed634c10b5f402a0\"",
-  "Last-Modified": "Fri, 16 Oct 2026 16:36:40 GMT",
+  "ETag": "W/\"09f55fabceb9d76763a035509686deaed9cea6a9657e07cd3862afb985ba23fb\"",
+  "Last-Modified": "Sat, 24 Oct 2026 03:28:27 GMT",
   "base": {
     "repo": {
       "name": "numpy-stl-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-24T03:28:27Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-16T16:34:47Z",
   "draft": false,
   "e_tag": "\"b35f58c7c8aa473a0e43542173f6a12aaf5df8741d3c6bfc2ec5f5319019e4ce\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/numpy-stl-feedstock/pull/58",
   "id": 4891363754,
-  "labels": [],
-  "last_fetched": "2026-10-16T20:24:24.183365",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-24T03:28:30.716055",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-16T16:36:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T03:28:27Z"
 }

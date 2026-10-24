@@ -1,27 +1,29 @@
 {
+  "ETag": "\"44e9fb65404b1856a758553f7a5527f721765c00fbc7c9562e356954fb7033b5\"",
+  "Last-Modified": "Sat, 24 Oct 2026 22:12:38 GMT",
   "base": {
     "repo": {
       "name": "tealdeer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T22:12:35Z",
   "closed_by": null,
   "created_at": "2026-10-24T22:04:31Z",
   "draft": false,
   "e_tag": "\"964b7eddccf06e0dd62ca33df8b9e590cb1ebfc22aeb88feef900b5cf53f5077\"",
   "head": {
-    "ref": "1.9.1_h9cd83e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tealdeer-feedstock/pull/8",
   "id": 4999553697,
   "labels": [],
-  "last_fetched": "2026-10-24T22:04:32.022210",
+  "last_fetched": "2026-10-24T22:14:07.983596",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T22:12:35Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-24T22:04:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T22:12:38Z"
 }

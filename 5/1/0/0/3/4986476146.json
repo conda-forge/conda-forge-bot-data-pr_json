@@ -1,29 +1,29 @@
 {
-  "ETag": "\"eee0a24326dfc4d1d710228fbe4420f95f89b8868bb9067f4bbcbbc10864a734\"",
-  "Last-Modified": "Fri, 23 Oct 2026 17:09:19 GMT",
+  "ETag": "\"8bb291a11a35976e92cb9f178807ad5be28d8d06b6a5a513fbf589eda9445b63\"",
+  "Last-Modified": "Sat, 24 Oct 2026 02:48:36 GMT",
   "base": {
     "repo": {
       "name": "libxkbcommon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T02:48:35Z",
   "closed_by": null,
   "created_at": "2026-10-23T17:07:48Z",
   "draft": false,
   "e_tag": "\"e38d83e5828a1e523c0f0dac88859442c922f0f661224ce1ff815f5f452a9680\"",
   "head": {
-    "ref": "bot-pr_riscv64_h287f15"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libxkbcommon-feedstock/pull/46",
   "id": 4986476146,
   "labels": [],
-  "last_fetched": "2026-10-23T20:25:57.743441",
+  "last_fetched": "2026-10-24T02:50:44.469499",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T02:48:35Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-10-23T17:09:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T02:48:36Z"
 }

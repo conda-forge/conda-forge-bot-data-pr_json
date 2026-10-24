@@ -1,18 +1,18 @@
 {
-  "ETag": "W/\"9c16069b58083f58469ff55ca7c46ee3af75677d5adb1b0ac89a36f6283c460d\"",
-  "Last-Modified": "Sat, 24 Oct 2026 20:48:09 GMT",
+  "ETag": "\"023bc918573f746510444c601b54d6cc6aa2f758381c15d4780784a1b0223453\"",
+  "Last-Modified": "Sat, 24 Oct 2026 20:51:31 GMT",
   "base": {
     "repo": {
       "name": "murmurhash-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T20:51:26Z",
   "closed_by": null,
   "created_at": "2026-10-24T20:45:39Z",
   "draft": false,
   "e_tag": "\"8062099268b221939b50e0e4968c9ca4a90db73895e1f3993f8f21be83948269\"",
   "head": {
-    "ref": "1.0.16_h1932d8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/murmurhash-feedstock/pull/53",
   "id": 4999008164,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/murmurhash-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-24T20:49:41.999683",
+  "last_fetched": "2026-10-24T20:53:13.380352",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T20:51:26Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-10-24T20:48:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T20:51:31Z"
 }

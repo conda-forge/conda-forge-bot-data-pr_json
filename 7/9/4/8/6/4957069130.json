@@ -1,29 +1,29 @@
 {
-  "ETag": "\"87df267c5f79a22a4c03e1450cba8b32b4044e7729898947f2a5833503dd5a95\"",
-  "Last-Modified": "Wed, 21 Oct 2026 19:23:31 GMT",
+  "ETag": "\"6c7d526467bef2c9a221cdad258ce52914fae8e8dda539ffdb416bfc8f6af55e\"",
+  "Last-Modified": "Sat, 24 Oct 2026 05:23:34 GMT",
   "base": {
     "repo": {
       "name": "gsutil-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T05:23:34Z",
   "closed_by": null,
   "created_at": "2026-10-21T19:19:05Z",
   "draft": false,
   "e_tag": "\"f36c28a681285aa3c3f3139cd7d7427e61cc0accfca4daba55d20bbd94c04827\"",
   "head": {
-    "ref": "5.38_haae3b7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gsutil-feedstock/pull/62",
   "id": 4957069130,
   "labels": [],
-  "last_fetched": "2026-10-21T20:25:21.189169",
+  "last_fetched": "2026-10-24T05:25:25.627378",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T05:23:34Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-10-21T19:23:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T05:23:34Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4e136377fed605cd655335d74dbcf235567ea9da4d55887ed491f676a62399f3\"",
-  "Last-Modified": "Sat, 24 Oct 2026 11:45:47 GMT",
+  "ETag": "\"9266934833bfb09301ea8127f1697beba0a855fd1b33b857c18071e92533bcd0\"",
+  "Last-Modified": "Sat, 24 Oct 2026 17:09:56 GMT",
   "base": {
     "repo": {
       "name": "databricks-sql-connector-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T17:09:55Z",
   "closed_by": null,
   "created_at": "2026-10-24T11:44:14Z",
   "draft": false,
   "e_tag": "\"ea4b0164643121a21f81a2c86795aacb7d37ecb6eda441732e191a68211bbc84\"",
   "head": {
-    "ref": "4.8.0_h4bef66"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/databricks-sql-connector-feedstock/pull/65",
   "id": 4995095680,
   "labels": [],
-  "last_fetched": "2026-10-24T13:58:51.928359",
+  "last_fetched": "2026-10-24T17:11:12.321603",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T17:09:55Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-24T11:45:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T17:09:56Z"
 }

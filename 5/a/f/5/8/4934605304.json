@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ccf919cd38dbc5bef9d80eda9037d253444225cce6c21037287f8ebf1274aaa6\"",
-  "Last-Modified": "Tue, 20 Oct 2026 13:54:55 GMT",
+  "ETag": "\"6df5d2bbe602fccaaf7937a5963095a5d1be48fc94757dec8baa3fc831322abb\"",
+  "Last-Modified": "Sat, 24 Oct 2026 16:50:18 GMT",
   "base": {
     "repo": {
       "name": "pytest-reportportal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T16:50:18Z",
   "closed_by": null,
   "created_at": "2026-10-20T10:45:14Z",
   "draft": false,
   "e_tag": "\"0ba944431cb272955475d73f9b6da1e1701eb509cd4f1de9fc19a2f17002e538\"",
   "head": {
-    "ref": "5.6.12_hde7903"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytest-reportportal-feedstock/pull/46",
   "id": 4934605304,
   "labels": [],
-  "last_fetched": "2026-10-21T01:35:27.662056",
+  "last_fetched": "2026-10-24T16:51:25.653173",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T16:50:18Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-10-20T13:54:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T16:50:18Z"
 }

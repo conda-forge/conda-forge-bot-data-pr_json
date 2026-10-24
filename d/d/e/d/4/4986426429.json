@@ -1,29 +1,29 @@
 {
-  "ETag": "\"20897f0663184719cdf07f6247104ee876a93d311f347a604bcfffec0911481e\"",
-  "Last-Modified": "Fri, 23 Oct 2026 17:05:41 GMT",
+  "ETag": "\"28fe54ea7911f3ebded4029c22cb1738a49e582ea4c2e94e22fd94318261887d\"",
+  "Last-Modified": "Sat, 24 Oct 2026 15:51:18 GMT",
   "base": {
     "repo": {
       "name": "django-tui-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T15:51:18Z",
   "closed_by": null,
   "created_at": "2026-10-23T17:04:07Z",
   "draft": false,
   "e_tag": "\"14adda805e888817521b2f16c6a099ecd361b6ef59778c380b220338440d204e\"",
   "head": {
-    "ref": "26.2_h26d8c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-tui-feedstock/pull/6",
   "id": 4986426429,
   "labels": [],
-  "last_fetched": "2026-10-24T03:01:46.932073",
+  "last_fetched": "2026-10-24T15:52:28.738120",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T15:51:18Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-23T17:05:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T15:51:18Z"
 }

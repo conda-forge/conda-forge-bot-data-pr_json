@@ -1,11 +1,13 @@
 {
+  "ETag": "\"bb298f7391519a55156655c039ed06c5193661df48d8c007360d25aa9247dd32\"",
+  "Last-Modified": "Sat, 24 Oct 2026 15:47:57 GMT",
   "base": {
     "repo": {
       "name": "seastats-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-24T15:47:57Z",
+  "closed_by": "tomsail",
   "created_at": "2026-10-24T15:41:17Z",
   "draft": false,
   "e_tag": "\"b65995545e3f17428bcb823ac2c09f5d7452a234a8eff4fd23d6f7fe5aac30aa\"",
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/seastats-feedstock/pull/5",
   "id": 4996769360,
   "labels": [],
-  "last_fetched": "2026-10-24T15:41:18.519163",
+  "last_fetched": "2026-10-24T15:49:26.480553",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-24T15:41:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T15:47:57Z"
 }

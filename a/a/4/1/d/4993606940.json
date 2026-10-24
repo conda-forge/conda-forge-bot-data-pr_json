@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ce98db434763e85d491ce7a20c01a131d9aa221a82e548dce058ef94859b6509\"",
-  "Last-Modified": "Sat, 24 Oct 2026 07:49:31 GMT",
+  "ETag": "\"e8aeea78c36f690f23f52324884211306b80d7eaa9fe65d87c5651cd29862981\"",
+  "Last-Modified": "Sat, 24 Oct 2026 16:00:06 GMT",
   "base": {
     "repo": {
       "name": "ttkbootstrap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T16:00:06Z",
   "closed_by": null,
   "created_at": "2026-10-24T07:48:08Z",
   "draft": false,
   "e_tag": "\"4894214bfdeabf7993b850188a552d6500b840bb18d041c24e42b5b588d11171\"",
   "head": {
-    "ref": "2.2.4_h155fdc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ttkbootstrap-feedstock/pull/2",
   "id": 4993606940,
   "labels": [],
-  "last_fetched": "2026-10-24T12:30:40.847110",
+  "last_fetched": "2026-10-24T16:01:38.823278",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T16:00:06Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-24T07:49:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T16:00:06Z"
 }

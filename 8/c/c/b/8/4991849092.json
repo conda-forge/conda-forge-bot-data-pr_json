@@ -1,27 +1,29 @@
 {
+  "ETag": "\"99f164adadc2445b39b23b62631d1c75a46cd287a4fd8f61913c89ae7f2d2168\"",
+  "Last-Modified": "Sat, 24 Oct 2026 03:06:10 GMT",
   "base": {
     "repo": {
       "name": "oct-to-tiff-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T03:06:09Z",
   "closed_by": null,
   "created_at": "2026-10-24T02:40:30Z",
   "draft": false,
   "e_tag": "\"23e7122e5997dbeecea5e5ed45073077a1b3dd068ed9a1fd564bbb1257106e72\"",
   "head": {
-    "ref": "0.6.5_h91776f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/oct-to-tiff-feedstock/pull/11",
   "id": 4991849092,
   "labels": [],
-  "last_fetched": "2026-10-24T02:40:31.902706",
+  "last_fetched": "2026-10-24T03:07:57.665689",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T03:06:09Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-24T02:40:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T03:06:10Z"
 }

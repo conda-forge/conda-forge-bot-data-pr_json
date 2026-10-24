@@ -1,28 +1,28 @@
 {
-  "ETag": "W/\"7b64b253884b674b4d760e47c897347866b849962e2d445eeeab1cf0153ea3d7\"",
-  "Last-Modified": "Sat, 03 Oct 2026 04:59:51 GMT",
+  "ETag": "\"83b69a5db85a91721727e1809b17488895024fe145ea9957ac266045bcdafa3a\"",
+  "Last-Modified": "Sat, 24 Oct 2026 05:42:04 GMT",
   "base": {
     "repo": {
       "name": "aws-sdk-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T05:42:03Z",
   "created_at": "2026-10-03T04:58:17Z",
   "draft": false,
   "e_tag": "\"e31f016e95a2c5c6bc515082a2f05821416639303019447a419c62b12cd50bc8\"",
   "head": {
-    "ref": "rebuild-aws_c_1_0-0-1_h11c57b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-sdk-cpp-feedstock/pull/1019",
   "id": 4724188076,
   "labels": [],
-  "last_fetched": "2026-10-17T13:01:12.809870",
+  "last_fetched": "2026-10-24T05:43:20.543354",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T05:42:03Z",
   "number": 1019,
-  "state": "open",
-  "updated_at": "2026-10-03T04:59:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T05:42:04Z"
 }

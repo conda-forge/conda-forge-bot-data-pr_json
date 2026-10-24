@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"47534154877cfd8300804e99cdff8679644dd07c04da456fe261867a835ca790\"",
-  "Last-Modified": "Sun, 18 Oct 2026 10:22:10 GMT",
+  "ETag": "\"6c068d18c1f081394d41e00956933866cc92213e246f3063a6c2e929176b8ae0\"",
+  "Last-Modified": "Sat, 24 Oct 2026 10:00:12 GMT",
   "base": {
     "repo": {
       "name": "pylance-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T10:00:12Z",
   "closed_by": null,
   "created_at": "2026-10-18T10:20:34Z",
   "draft": false,
   "e_tag": "\"5d557565dfd0839a212c4a213caaff3929c32fe23a1e90a0730d79008cf013c4\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h6dae24"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylance-feedstock/pull/149",
   "id": 4908267311,
   "labels": [],
-  "last_fetched": "2026-10-18T10:45:15.799308",
+  "last_fetched": "2026-10-24T10:01:42.014193",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T10:00:12Z",
   "number": 149,
-  "state": "open",
-  "updated_at": "2026-10-18T10:22:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T10:00:12Z"
 }

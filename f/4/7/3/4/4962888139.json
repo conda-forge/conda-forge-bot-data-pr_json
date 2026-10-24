@@ -1,13 +1,13 @@
 {
-  "ETag": "\"8f0e9308b49fcc74242b998df0cbab8f8981be645dabf2341267ffeecdef74f6\"",
-  "Last-Modified": "Sat, 24 Oct 2026 16:13:24 GMT",
+  "ETag": "W/\"494744bce05e4798a04e1330c0f49d6f8e5d7d58a62c69c391467b344389dfe5\"",
+  "Last-Modified": "Sat, 24 Oct 2026 16:34:13 GMT",
   "base": {
     "repo": {
       "name": "coverage-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-24T16:34:13Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-22T06:04:06Z",
   "draft": false,
   "e_tag": "\"9bc5bee87d9ad202d33512ba4be7f239cee7297dde899125ccd36538d64d7a7d\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/coverage-feedstock/pull/179",
   "id": 4962888139,
-  "labels": [],
-  "last_fetched": "2026-10-24T16:14:44.628745",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890812094,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwODEyMDk0",
+      "url": "https://api.github.com/repos/conda-forge/coverage-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-24T16:34:16.882865",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 179,
-  "state": "open",
-  "updated_at": "2026-10-24T16:13:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T16:34:13Z"
 }

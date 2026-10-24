@@ -1,29 +1,29 @@
 {
-  "ETag": "\"20439fb0cb7fb3442082825f0209393d229a5f7577383f79f8f90d3d1cc3114c\"",
-  "Last-Modified": "Thu, 22 Oct 2026 17:29:48 GMT",
+  "ETag": "\"f2395d5ad9d50119772d6b8e644894e0340548b038f64b393618890e1565ed1d\"",
+  "Last-Modified": "Sat, 24 Oct 2026 16:39:22 GMT",
   "base": {
     "repo": {
       "name": "flwr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T16:39:22Z",
   "closed_by": null,
   "created_at": "2026-10-22T17:28:09Z",
   "draft": false,
   "e_tag": "\"f42cc452d74bf3409b680a4c358c598b6a65fb278b96d68acbb8316600457c36\"",
   "head": {
-    "ref": "1.42.0_h720a2b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flwr-feedstock/pull/58",
   "id": 4971443777,
   "labels": [],
-  "last_fetched": "2026-10-22T18:51:39.554786",
+  "last_fetched": "2026-10-24T16:40:34.221922",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-24T16:39:21Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-22T17:29:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T16:39:22Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a0b6ec101e80edb29701ace243162a4e77a9995236ac91847b244e92adfd9787\"",
+  "Last-Modified": "Sat, 24 Oct 2026 01:00:10 GMT",
   "base": {
     "repo": {
       "name": "gh-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-24T01:00:07Z",
   "closed_by": null,
   "created_at": "2026-10-24T00:53:38Z",
   "draft": false,
   "e_tag": "\"5bcc5189da47ebe4853c37f5ffd50951a308fd41ed19d53984b9515a6a6b4f4a\"",
   "head": {
-    "ref": "2.103.2_h34216e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gh-feedstock/pull/246",
   "id": 4991142626,
   "labels": [],
-  "last_fetched": "2026-10-24T00:53:38.936911",
+  "last_fetched": "2026-10-24T01:01:39.745596",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-24T01:00:06Z",
   "number": 246,
-  "state": "open",
-  "updated_at": "2026-10-24T00:53:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-24T01:00:10Z"
 }

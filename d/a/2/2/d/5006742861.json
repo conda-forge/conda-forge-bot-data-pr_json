@@ -1,29 +1,41 @@
 {
-  "ETag": "\"23c6566f58c6dacbb29d12f010878089b56e151bd6420f3df9c6ab324d93a974\"",
-  "Last-Modified": "Sun, 25 Oct 2026 16:58:36 GMT",
+  "ETag": "\"80ed0506adf92b904547b3377b26438684a9371bcbdbdd4e66ec54bbe6d5261d\"",
+  "Last-Modified": "Sun, 25 Oct 2026 22:06:40 GMT",
   "base": {
     "repo": {
       "name": "solvax-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T22:06:36Z",
   "closed_by": null,
   "created_at": "2026-10-25T16:57:00Z",
   "draft": false,
   "e_tag": "\"ec8fa0459aaa6c0d35653786ef56007d17a928761add70c1609a2e5a19c2f2a7\"",
   "head": {
-    "ref": "0.34.0_h87c9be"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/solvax-feedstock/pull/33",
   "id": 5006742861,
-  "labels": [],
-  "last_fetched": "2026-10-25T17:43:42.342883",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11571427283,
+      "name": "automerge",
+      "node_id": "LA_kwDOTdfh588AAAACsbX30w",
+      "url": "https://api.github.com/repos/conda-forge/solvax-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-25T22:07:08.673401",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T22:06:36Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-25T16:58:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T22:06:40Z"
 }

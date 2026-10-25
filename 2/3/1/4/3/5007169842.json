@@ -1,6 +1,6 @@
 {
-  "ETag": "\"2b343fe04e25f16811c452d02f354943c7748a573805fc6a0e6044646fbb8f70\"",
-  "Last-Modified": "Sun, 25 Oct 2026 19:57:58 GMT",
+  "ETag": "\"6a6c6322af9c654f6d42f9abd8395c72156711672c9cfefe2b38a471015e5c57\"",
+  "Last-Modified": "Sun, 25 Oct 2026 22:18:25 GMT",
   "base": {
     "repo": {
       "name": "pytorch3d-feedstock"
@@ -16,20 +16,8 @@
   },
   "html_url": "https://github.com/conda-forge/pytorch3d-feedstock/pull/42",
   "id": 5007169842,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 5746645445,
-      "name": "automerge",
-      "node_id": "LA_kwDOJ8vACc8AAAABVobZxQ",
-      "url": "https://api.github.com/repos/conda-forge/pytorch3d-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-10-25T21:44:30.868517",
+  "labels": [],
+  "last_fetched": "2026-10-25T22:34:20.788659",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -37,5 +25,5 @@
   "merged_at": null,
   "number": 42,
   "state": "open",
-  "updated_at": "2026-10-25T19:57:58Z"
+  "updated_at": "2026-10-25T22:18:25Z"
 }

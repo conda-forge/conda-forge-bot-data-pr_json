@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d5320627470eda31d68e1a39a2f0aecc0de21d33140c1542d2711921c0467eaa\"",
+  "Last-Modified": "Sun, 25 Oct 2026 09:50:27 GMT",
   "base": {
     "repo": {
       "name": "solidocean-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T09:50:27Z",
   "closed_by": null,
   "created_at": "2026-10-25T09:10:46Z",
   "draft": false,
   "e_tag": "\"6648771908f212a3a6fc2def477cee61081c03af09ca37de8bc0ffc20148cc0e\"",
   "head": {
-    "ref": "0.3.2_hbe70f2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/solidocean-feedstock/pull/4",
   "id": 5003377497,
   "labels": [],
-  "last_fetched": "2026-10-25T09:10:47.560896",
+  "last_fetched": "2026-10-25T09:52:10.026105",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-25T09:50:27Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-25T09:10:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T09:50:27Z"
 }

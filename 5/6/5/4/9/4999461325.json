@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cb686b644b2fd6548eb72539df63003893cc78c7eead3c53a2b5e6f27c6d6940\"",
-  "Last-Modified": "Sat, 24 Oct 2026 21:52:06 GMT",
+  "ETag": "\"4bdfc22cbdfc2c907fbb1e4b849b61187187e4192ae2cc1b6162a8d038a783a8\"",
+  "Last-Modified": "Sun, 25 Oct 2026 00:42:07 GMT",
   "base": {
     "repo": {
       "name": "typeline-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T00:42:07Z",
   "closed_by": null,
   "created_at": "2026-10-24T21:50:41Z",
   "draft": false,
   "e_tag": "\"36e1c95a532cb734b28d0a6b034d023a6bcfba1a52ee8d43fd308c6ed675393e\"",
   "head": {
-    "ref": "3.1.0_h3e25e0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/typeline-feedstock/pull/2",
   "id": 4999461325,
   "labels": [],
-  "last_fetched": "2026-10-24T23:20:13.788666",
+  "last_fetched": "2026-10-25T00:43:15.766355",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T00:42:07Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-24T21:52:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T00:42:07Z"
 }

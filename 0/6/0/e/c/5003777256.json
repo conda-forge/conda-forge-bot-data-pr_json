@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1940c294d7ee621192849a50516ee0e9593f1d7b14576dbd9a614f958627553c\"",
-  "Last-Modified": "Sun, 25 Oct 2026 10:09:27 GMT",
+  "ETag": "\"12eda7d416b29a72c82ad2571327515706aac49d988b14ffa5e4a1395a981e68\"",
+  "Last-Modified": "Sun, 25 Oct 2026 13:18:51 GMT",
   "base": {
     "repo": {
       "name": "btop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T13:18:50Z",
   "closed_by": null,
   "created_at": "2026-10-25T10:07:56Z",
   "draft": false,
   "e_tag": "\"5149851105a8c8b92944d2cdfd4d27763346924b0323bf595306e74aa99ab530\"",
   "head": {
-    "ref": "1.4.8_h6ca03c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/btop-feedstock/pull/10",
   "id": 5003777256,
   "labels": [],
-  "last_fetched": "2026-10-25T10:36:55.528390",
+  "last_fetched": "2026-10-25T13:19:57.856620",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T13:18:50Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-25T10:09:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T13:18:51Z"
 }

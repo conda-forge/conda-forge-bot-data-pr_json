@@ -1,4 +1,6 @@
 {
+  "ETag": "\"453f263a28c6a14b0c869dded2e7029dae14961ae8f23787cf69fe620871d16a\"",
+  "Last-Modified": "Sun, 25 Oct 2026 02:19:35 GMT",
   "base": {
     "repo": {
       "name": "datui-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/datui-feedstock/pull/25",
   "id": 5001016705,
-  "labels": [],
-  "last_fetched": "2026-10-25T02:07:26.946163",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10413825807,
+      "name": "automerge",
+      "node_id": "LA_kwDORll5Oc8AAAACbLZfDw",
+      "url": "https://api.github.com/repos/conda-forge/datui-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-25T02:21:04.418898",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 25,
   "state": "open",
-  "updated_at": "2026-10-25T02:07:25Z"
+  "updated_at": "2026-10-25T02:19:35Z"
 }

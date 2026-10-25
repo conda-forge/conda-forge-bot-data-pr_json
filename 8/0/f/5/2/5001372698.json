@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9040426855b76de291793e2e3e90d44af603ae224d6359989b6c80490de9453e\"",
+  "Last-Modified": "Sun, 25 Oct 2026 03:12:50 GMT",
   "base": {
     "repo": {
       "name": "libslirp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T03:12:46Z",
   "closed_by": null,
   "created_at": "2026-10-25T03:08:47Z",
   "draft": false,
   "e_tag": "\"29cfc71095f5409abeb1053d956724092bc9dab9d44a163119ec4ef3e9e0e71d\"",
   "head": {
-    "ref": "4.9.6_h4b47ca"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libslirp-feedstock/pull/13",
   "id": 5001372698,
   "labels": [],
-  "last_fetched": "2026-10-25T03:08:48.695090",
+  "last_fetched": "2026-10-25T03:14:17.628729",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-25T03:12:46Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-25T03:08:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T03:12:50Z"
 }

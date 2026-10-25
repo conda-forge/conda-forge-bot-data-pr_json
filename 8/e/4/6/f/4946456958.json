@@ -1,6 +1,6 @@
 {
-  "ETag": "\"65a2455d96d310c1b4a9d61fdbe4022fff7794ea2615e6cc6f2b37e53b893a53\"",
-  "Last-Modified": "Sat, 24 Oct 2026 21:28:41 GMT",
+  "ETag": "\"6017c05064924accf3a951043467563a8ab5dab99f7bf9d692214f16ba314f97\"",
+  "Last-Modified": "Sun, 25 Oct 2026 00:24:58 GMT",
   "base": {
     "repo": {
       "name": "torchvision-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/torchvision-feedstock/pull/168",
   "id": 4946456958,
-  "labels": [],
-  "last_fetched": "2026-10-24T21:45:59.520101",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891419433,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDE5NDMz",
+      "url": "https://api.github.com/repos/conda-forge/torchvision-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-25T00:26:23.528259",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 168,
   "state": "open",
-  "updated_at": "2026-10-24T21:28:41Z"
+  "updated_at": "2026-10-25T00:24:58Z"
 }

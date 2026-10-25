@@ -1,6 +1,6 @@
 {
-  "ETag": "\"348d350b5ea8224b78a2022fa88bd4ec46c1cb8ea7a690789e93cf40358987d3\"",
-  "Last-Modified": "Mon, 10 Aug 2026 07:54:28 GMT",
+  "ETag": "\"83a433c013c081c8d4d90e86a35b94fa659e246c71790b0f761c96690ab9d8e5\"",
+  "Last-Modified": "Sun, 25 Oct 2026 20:16:41 GMT",
   "base": {
     "repo": {
       "name": "oci-cli-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/oci-cli-feedstock/pull/157",
   "id": 4242750990,
-  "labels": [],
-  "last_fetched": "2026-10-20T21:47:45.021214",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4850963091,
+      "name": "automerge",
+      "node_id": "LA_kwDOIhPjyM8AAAABISPSkw",
+      "url": "https://api.github.com/repos/conda-forge/oci-cli-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-25T20:18:02.699182",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 157,
   "state": "open",
-  "updated_at": "2026-08-10T07:54:28Z"
+  "updated_at": "2026-10-25T20:16:41Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"18659f35c940c689f826a37abaf3aa6a3e452b586b03d7054b77d0da8bf2eb33\"",
+  "ETag": "W/\"22f77695eb1476d52bb3438c8a2705212a7456fc2d6b8a75ed1ebfdf96ed4580\"",
   "Last-Modified": "Sun, 25 Oct 2026 22:20:10 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/nurikit-feedstock/pull/22",
   "id": 4651980134,
-  "labels": [],
-  "last_fetched": "2026-10-25T22:21:40.444395",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-25T22:20:13.350984",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

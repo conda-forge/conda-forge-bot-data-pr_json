@@ -1,28 +1,28 @@
 {
-  "ETag": "\"c79845ee38d70b50c6df963056cc721a8d4af0175af4ff81bc9bf397d9c2686a\"",
-  "Last-Modified": "Wed, 21 Oct 2026 16:43:07 GMT",
+  "ETag": "\"89996b2715aa4514da0970dca5f96031445f02856ba34a7386c31e534b6e49bd\"",
+  "Last-Modified": "Sun, 25 Oct 2026 19:17:26 GMT",
   "base": {
     "repo": {
       "name": "memray-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T19:17:26Z",
   "created_at": "2026-10-13T17:51:09Z",
   "draft": false,
   "e_tag": "\"038dc9f04ee6e78749028364009de2ac8d27850fd8e38c2541296f3f75598115\"",
   "head": {
-    "ref": "rebuild-elfutils0196-0-1_h2be592"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/memray-feedstock/pull/68",
   "id": 4847247577,
   "labels": [],
-  "last_fetched": "2026-10-21T16:50:44.867764",
+  "last_fetched": "2026-10-25T19:18:41.108996",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T19:17:26Z",
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-10-21T16:43:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T19:17:26Z"
 }

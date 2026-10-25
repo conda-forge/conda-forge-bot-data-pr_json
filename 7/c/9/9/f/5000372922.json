@@ -1,6 +1,6 @@
 {
-  "ETag": "\"aded7f3e7daeb41e2d0b094a5ce522675bc54098bd9c387a92e5d30e828de5db\"",
-  "Last-Modified": "Sun, 25 Oct 2026 00:15:48 GMT",
+  "ETag": "\"ddcd14ad4ad256ae9bd16b9827d0302bb454ce2dbf5700b36a98a3e8bfccad13\"",
+  "Last-Modified": "Sun, 25 Oct 2026 07:55:12 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-snowflake-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-snowflake-feedstock/pull/87",
   "id": 5000372922,
-  "labels": [],
-  "last_fetched": "2026-10-25T04:03:42.700919",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746835455,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM1NDU1",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-snowflake-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-25T07:56:13.735008",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 87,
   "state": "open",
-  "updated_at": "2026-10-25T00:15:48Z"
+  "updated_at": "2026-10-25T07:55:12Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d95264988ab27404bd48412ce7eaa8ad0dc44a458a8eb8835058ef6477096b2f\"",
-  "Last-Modified": "Sat, 24 Oct 2026 16:45:51 GMT",
+  "ETag": "\"6386f83378517c0df229e1e743cc879d07c52a315e3b9784e519e6d90cfd5970\"",
+  "Last-Modified": "Sun, 25 Oct 2026 06:01:39 GMT",
   "base": {
     "repo": {
       "name": "amdsmi-split-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T06:01:39Z",
   "closed_by": null,
   "created_at": "2026-10-24T16:44:25Z",
   "draft": false,
   "e_tag": "\"fce66846192a4ffcc782526567a74964059760acbb1015f339919c9359059e37\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h0a8807"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/amdsmi-split-feedstock/pull/1",
   "id": 4997227423,
   "labels": [],
-  "last_fetched": "2026-10-24T19:19:12.012788",
+  "last_fetched": "2026-10-25T06:03:07.679808",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T06:01:39Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-24T16:45:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T06:01:39Z"
 }

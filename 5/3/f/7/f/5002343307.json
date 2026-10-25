@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cc21520956432c5459c1d673dc60ac3f05c6b59b841c213d9690bb5ab5918d4a\"",
+  "Last-Modified": "Sun, 25 Oct 2026 06:20:47 GMT",
   "base": {
     "repo": {
       "name": "oras-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T06:20:43Z",
   "closed_by": null,
   "created_at": "2026-10-25T06:15:31Z",
   "draft": false,
   "e_tag": "\"82b583045a1f5e64a733a33a71549b00517fc4bede94fbd371da5f364bc9f419\"",
   "head": {
-    "ref": "1.3.6_h84d3df"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/oras-feedstock/pull/30",
   "id": 5002343307,
   "labels": [],
-  "last_fetched": "2026-10-25T06:15:32.467680",
+  "last_fetched": "2026-10-25T06:21:51.829644",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-25T06:20:43Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-25T06:15:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T06:20:47Z"
 }

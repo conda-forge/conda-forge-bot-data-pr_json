@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c5c5ec03ce73816401e5f63a94e5dfa653389e98628ea7d9682540e612032319\"",
+  "Last-Modified": "Sun, 25 Oct 2026 10:41:40 GMT",
   "base": {
     "repo": {
       "name": "cramjam-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T10:41:40Z",
   "closed_by": null,
   "created_at": "2026-10-25T08:56:54Z",
   "draft": false,
   "e_tag": "\"7e8b6c804c816c7e91a62f659911e8ef64fcd036744282c6e6a02062ff0256a2\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hb96b53"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cramjam-feedstock/pull/58",
   "id": 5003289220,
   "labels": [],
-  "last_fetched": "2026-10-25T08:56:55.539476",
+  "last_fetched": "2026-10-25T10:42:44.712272",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-25T10:41:40Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-25T08:56:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T10:41:40Z"
 }

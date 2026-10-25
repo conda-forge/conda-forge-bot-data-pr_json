@@ -1,18 +1,18 @@
 {
-  "ETag": "\"bd16f7039a93c677e1e4eaf35f6105170e1ea60812b3ff0f4b8a40307fd341f7\"",
-  "Last-Modified": "Sun, 25 Oct 2026 19:11:30 GMT",
+  "ETag": "\"eb1c9649375bb4fa0294b6a1634ccce10358e6df5cbe363e86876732b2f5a782\"",
+  "Last-Modified": "Sun, 25 Oct 2026 19:27:53 GMT",
   "base": {
     "repo": {
       "name": "sam-2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T19:27:53Z",
   "closed_by": null,
   "created_at": "2026-10-25T18:47:19Z",
   "draft": false,
   "e_tag": "\"450ecc125b491ff1c361b1eef90a57ad2922ed4d05fb9d6221c39bdbaa0366fa\"",
   "head": {
-    "ref": "rebuild-pytorch214-0-1_h8a4ab7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sam-2-feedstock/pull/42",
   "id": 5007613933,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/sam-2-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-25T19:13:33.993143",
+  "last_fetched": "2026-10-25T19:29:21.118311",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T19:27:53Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-10-25T19:11:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T19:27:58Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4040c38f6a6b19e0aa6e82af2ed66779a82901886be09d60252e95b481ec702c\"",
-  "Last-Modified": "Thu, 22 Oct 2026 08:51:17 GMT",
+  "ETag": "\"5c5412819a5bb927f839aa2ab4bcfc063d77d6b506c53bb35354160ccfb2fd3c\"",
+  "Last-Modified": "Sun, 25 Oct 2026 17:21:55 GMT",
   "base": {
     "repo": {
       "name": "reportlab-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T17:21:54Z",
   "closed_by": null,
   "created_at": "2026-10-22T08:49:34Z",
   "draft": false,
   "e_tag": "\"4b9dc3bd0e93fbeacc18a0a23c9cd3392ba4e9658084fdce80386756ebeb10eb\"",
   "head": {
-    "ref": "5.1.0_ha4c5a3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/reportlab-feedstock/pull/129",
   "id": 4964671914,
   "labels": [],
-  "last_fetched": "2026-10-22T13:49:48.990909",
+  "last_fetched": "2026-10-25T17:23:22.929189",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T17:21:54Z",
   "number": 129,
-  "state": "open",
-  "updated_at": "2026-10-22T08:51:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T17:21:55Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"33fcfe757fe25501fed4b2bec30426c24f5eaa684c2c4ac0dbc8e6d0d46b476d\"",
+  "Last-Modified": "Sun, 25 Oct 2026 18:56:58 GMT",
   "base": {
     "repo": {
       "name": "scramp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T18:56:58Z",
   "closed_by": null,
   "created_at": "2026-10-25T18:41:55Z",
   "draft": false,
   "e_tag": "\"fdf092ea01bb45ac7facdf25361c6a83d3df30aac003e6da45ed498afe34db3d\"",
   "head": {
-    "ref": "1.5.0_h32db0a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scramp-feedstock/pull/27",
   "id": 5007574592,
   "labels": [],
-  "last_fetched": "2026-10-25T18:41:56.235694",
+  "last_fetched": "2026-10-25T18:58:26.723710",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-25T18:56:58Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-25T18:41:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T18:56:58Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3c5c9b1362c03070b788b126d30737427fd4af4cab0da81fa5f85ca6cdbabc72\"",
+  "Last-Modified": "Sun, 25 Oct 2026 06:51:34 GMT",
   "base": {
     "repo": {
       "name": "simsimd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T06:51:34Z",
   "closed_by": null,
   "created_at": "2026-10-25T06:40:39Z",
   "draft": false,
   "e_tag": "\"e18533205a1661b339207591e5d3a2b1a3ebbab2ba1e757094375d19ca50d309\"",
   "head": {
-    "ref": "7.8.6_h9de9d2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/simsimd-feedstock/pull/57",
   "id": 5002463517,
   "labels": [],
-  "last_fetched": "2026-10-25T06:40:40.917563",
+  "last_fetched": "2026-10-25T06:53:03.492162",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-25T06:51:33Z",
   "number": 57,
-  "state": "open",
-  "updated_at": "2026-10-25T06:40:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T06:51:38Z"
 }

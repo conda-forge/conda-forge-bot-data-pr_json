@@ -1,28 +1,28 @@
 {
-  "ETag": "\"86ce7e190f9609f6aae3f4be0ab52b93fd580f7ed023b07dfa5471ea96cca5cc\"",
-  "Last-Modified": "Wed, 14 Oct 2026 11:03:12 GMT",
+  "ETag": "\"dd2e1043a55b242e59dc815e69a0e44dfc03ba95c826f813372d9a764cafdcd7\"",
+  "Last-Modified": "Sun, 25 Oct 2026 09:21:29 GMT",
   "base": {
     "repo": {
       "name": "grpc_java_plugin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T09:21:29Z",
   "created_at": "2026-10-14T10:58:27Z",
   "draft": false,
   "e_tag": "\"9c5443743aa57e568eb263a1bb4364050de41f46b5df9cd074eaad67e53a6df2\"",
   "head": {
-    "ref": "1.85.0_hb1b82a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/grpc_java_plugin-feedstock/pull/119",
   "id": 4856834477,
   "labels": [],
-  "last_fetched": "2026-10-21T14:49:35.871137",
+  "last_fetched": "2026-10-25T09:23:10.733139",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T09:21:29Z",
   "number": 119,
-  "state": "open",
-  "updated_at": "2026-10-14T11:03:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T09:21:29Z"
 }

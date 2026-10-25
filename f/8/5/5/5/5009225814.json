@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e401c521e112cd007a56de11f2f13d046bff4c5615e0d994684e81e22fed816c\"",
+  "Last-Modified": "Sun, 25 Oct 2026 22:15:10 GMT",
   "base": {
     "repo": {
       "name": "xhtml2pdf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T22:15:05Z",
   "closed_by": null,
   "created_at": "2026-10-25T22:11:25Z",
   "draft": false,
   "e_tag": "\"ef6a8d9a4a49b6aee00a71f4b00314deb320cd4529d983e3a4a0c64bda0c1f0a\"",
   "head": {
-    "ref": "0.2.28_h1dcc63"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xhtml2pdf-feedstock/pull/39",
   "id": 5009225814,
   "labels": [],
-  "last_fetched": "2026-10-25T22:11:26.503945",
+  "last_fetched": "2026-10-25T22:17:04.774946",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-25T22:15:05Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-10-25T22:11:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T22:15:10Z"
 }

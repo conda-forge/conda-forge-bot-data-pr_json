@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cad69581a971a5df90e0cc14084af5a486bcc39678878ac309d84b0113018dfe\"",
-  "Last-Modified": "Sun, 25 Oct 2026 11:21:49 GMT",
+  "ETag": "\"76a96b811a58679b2ac7879c27843d4df5eb21dd00284b4a150e06e33bbd0a3d\"",
+  "Last-Modified": "Sun, 25 Oct 2026 11:23:17 GMT",
   "base": {
     "repo": {
       "name": "octavius-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T11:23:17Z",
   "closed_by": null,
   "created_at": "2026-10-24T18:10:42Z",
   "draft": false,
   "e_tag": "\"20b5398550534fd02e8a3aeea4cd7aa0d759fd652581c29bae1e95e914edcf0d\"",
   "head": {
-    "ref": "0.9.3.1_h835fac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/octavius-feedstock/pull/1",
   "id": 4997885640,
   "labels": [],
-  "last_fetched": "2026-10-25T11:22:13.275449",
+  "last_fetched": "2026-10-25T11:24:28.158047",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T11:23:17Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-25T11:21:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T11:23:17Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "\"79551e68a956a64d1476b6ada9b510230cad31edaad7ca41153b20f4b7dc806b\"",
-  "Last-Modified": "Fri, 25 Sep 2026 05:24:24 GMT",
+  "ETag": "\"19127f7dbf2804daf35cd9c36a77b292b7736e5dccb30852f1747e01a386e8ae\"",
+  "Last-Modified": "Sun, 25 Oct 2026 22:42:33 GMT",
   "base": {
     "repo": {
       "name": "pyoptsparse-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T22:42:33Z",
   "created_at": "2026-09-25T05:22:45Z",
   "draft": false,
   "e_tag": "\"bce30d9f14dc12c767405cb3bc9b02c42202f3586ae2a1ed1c031381ad0afc54\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hd3ea14"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyoptsparse-feedstock/pull/86",
   "id": 4634402426,
   "labels": [],
-  "last_fetched": "2026-10-23T11:59:19.529175",
+  "last_fetched": "2026-10-25T22:43:38.412891",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T22:42:33Z",
   "number": 86,
-  "state": "open",
-  "updated_at": "2026-09-25T05:24:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T22:42:33Z"
 }

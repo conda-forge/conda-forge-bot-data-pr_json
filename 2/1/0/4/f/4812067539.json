@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"cfcc0d74fbbb22ee4e52ca6cd16c177923514b509484f3f4c7c3ec8245d70c4c\"",
-  "Last-Modified": "Sat, 10 Oct 2026 14:55:11 GMT",
+  "ETag": "\"9274726813cead4c8c0114db69349059cb9d52b8a8e393edb49278679cdcd2b2\"",
+  "Last-Modified": "Sun, 25 Oct 2026 03:28:38 GMT",
   "base": {
     "repo": {
       "name": "prettier-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T03:28:37Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-10T14:51:36Z",
   "draft": false,
   "e_tag": "\"3d93928e2a8f78053acac2c641d72025e3aa583b2d36608bdee2fb7e04e8d210\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/prettier-feedstock/pull/102",
   "id": 4812067539,
   "labels": [],
-  "last_fetched": "2026-10-17T21:45:26.868554",
+  "last_fetched": "2026-10-25T03:29:52.271596",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 102,
-  "state": "open",
-  "updated_at": "2026-10-10T14:55:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T03:28:38Z"
 }

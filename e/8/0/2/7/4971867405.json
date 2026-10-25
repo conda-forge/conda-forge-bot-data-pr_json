@@ -1,18 +1,18 @@
 {
-  "ETag": "\"4ddb14b8897f8ed3ab7ea9ecabf2ffec19b5ba5bf2654307990fe8953e4ea89e\"",
-  "Last-Modified": "Fri, 23 Oct 2026 23:25:28 GMT",
+  "ETag": "\"4818a53b92d839b08ab62bf7da9958466760c073ea9276a830c782045e743647\"",
+  "Last-Modified": "Sun, 25 Oct 2026 11:59:27 GMT",
   "base": {
     "repo": {
       "name": "libbson-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T11:59:24Z",
   "closed_by": null,
   "created_at": "2026-10-22T18:02:00Z",
   "draft": false,
   "e_tag": "\"f8a850fd549cd2211b176b0afec3a310ab6839af680f4a483bf60d31a93fd7ac\"",
   "head": {
-    "ref": "2.5.7_h17b379"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libbson-feedstock/pull/32",
   "id": 4971867405,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/libbson-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-24T01:16:19.802200",
+  "last_fetched": "2026-10-25T12:00:54.471677",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T11:59:24Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-10-23T23:25:28Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T11:59:27Z"
 }

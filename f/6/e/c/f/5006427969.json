@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bef810f474683eff5dc012b946b102768fd8250ad0ddab75a04289569af8180f\"",
-  "Last-Modified": "Sun, 25 Oct 2026 16:16:49 GMT",
+  "ETag": "\"da0a07f5881047a1e4b652a08643946d8ce8e24e8618629204187ded4bc90686\"",
+  "Last-Modified": "Sun, 25 Oct 2026 19:57:05 GMT",
   "base": {
     "repo": {
       "name": "scikit-spatial-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T19:57:05Z",
   "closed_by": null,
   "created_at": "2026-10-25T16:15:22Z",
   "draft": false,
   "e_tag": "\"9b9f2c8fe72d3e52e589ce73ba577af149b7bcafe26448fe4408219dbfe96189\"",
   "head": {
-    "ref": "10.0.0_h8c9a0c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scikit-spatial-feedstock/pull/29",
   "id": 5006427969,
   "labels": [],
-  "last_fetched": "2026-10-25T16:50:04.420532",
+  "last_fetched": "2026-10-25T19:58:48.761599",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T19:57:05Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-25T16:16:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T19:57:05Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"64a0ad93b34ddfdd986d27becb73e2437d9fe4595324b39ff583acd45fd89c88\"",
-  "Last-Modified": "Sat, 24 Oct 2026 19:40:46 GMT",
+  "ETag": "\"b71791ff68a92266ca5003587ad9095f573774f31dadee61204984c8efe2cd82\"",
+  "Last-Modified": "Sun, 25 Oct 2026 08:32:21 GMT",
   "base": {
     "repo": {
       "name": "phasegen-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T08:32:21Z",
   "closed_by": null,
   "created_at": "2026-10-24T19:40:45Z",
   "draft": false,
   "e_tag": "\"394d6d2b9aa48312b3d574d1cc9b2230b85cf268d7121d85c3a15885cae967ac\"",
   "head": {
-    "ref": "2.2.0_h5a64c9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phasegen-feedstock/pull/6",
   "id": 4998531031,
   "labels": [],
-  "last_fetched": "2026-10-25T04:03:07.710493",
+  "last_fetched": "2026-10-25T08:33:55.005531",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-25T08:32:21Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-24T19:42:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T08:32:21Z"
 }

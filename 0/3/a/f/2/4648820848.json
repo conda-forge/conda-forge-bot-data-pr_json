@@ -1,5 +1,5 @@
 {
-  "ETag": "\"c9309c9e170874bbcc2f41c23014c2806d65cc2d40e7569bf34288f636fddc5f\"",
+  "ETag": "W/\"22d1a386a8bc55d917303bfeb8752be37fd6e0fd8f9c1cd156749a2b2642472f\"",
   "Last-Modified": "Sun, 25 Oct 2026 17:20:40 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/liteparse-feedstock/pull/43",
   "id": 4648820848,
-  "labels": [],
-  "last_fetched": "2026-10-25T17:22:06.468117",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-25T17:20:42.706557",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1216dc8177be9247684fed8f87c316816b8018601677434dcc4f6f28a96d8759\"",
+  "Last-Modified": "Sun, 25 Oct 2026 21:12:38 GMT",
   "base": {
     "repo": {
       "name": "win32_setctime-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-25T21:12:34Z",
   "closed_by": null,
   "created_at": "2026-10-25T21:09:11Z",
   "draft": false,
   "e_tag": "\"7fa16a53e76e9640cc0f9b8575a8dba75529da646c9810eb6f60edd2f2d1af7a\"",
   "head": {
-    "ref": "1.2.1_h414aa9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/win32_setctime-feedstock/pull/9",
   "id": 5008739480,
   "labels": [],
-  "last_fetched": "2026-10-25T21:09:12.593644",
+  "last_fetched": "2026-10-25T21:14:18.857638",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-25T21:12:34Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-25T21:09:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-25T21:12:38Z"
 }

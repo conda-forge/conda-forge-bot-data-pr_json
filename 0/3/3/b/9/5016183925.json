@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dd7fd3d8d9cc5adfcd3e8ed01dc57ad476df5649bf10f02a010860f07b784d7d\"",
+  "Last-Modified": "Mon, 26 Oct 2026 10:53:22 GMT",
   "base": {
     "repo": {
       "name": "fastmcp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T10:53:18Z",
   "closed_by": null,
   "created_at": "2026-10-26T10:51:13Z",
   "draft": false,
   "e_tag": "\"db3f4b3814eb4cfdd91dca9071cdb4d3960b4d5fce48e86f09662ff2ffc503ba\"",
   "head": {
-    "ref": "4.1.4_he6f978"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fastmcp-feedstock/pull/65",
   "id": 5016183925,
   "labels": [],
-  "last_fetched": "2026-10-26T10:51:14.162333",
+  "last_fetched": "2026-10-26T10:54:47.574101",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-26T10:53:18Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-26T10:51:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T10:53:22Z"
 }

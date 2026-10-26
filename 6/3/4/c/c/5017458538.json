@@ -1,27 +1,29 @@
 {
+  "ETag": "\"782147e7ba4ad58943f0bb22edb030f7e9091cf5e4f4455e5a4de022518fa885\"",
+  "Last-Modified": "Mon, 26 Oct 2026 12:41:10 GMT",
   "base": {
     "repo": {
       "name": "gomi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T12:41:09Z",
   "closed_by": null,
   "created_at": "2026-10-26T12:32:35Z",
   "draft": false,
   "e_tag": "\"2493837d463530b643c6e12ae7c6f1a521e9c68ed6098180ff700b7695526bd2\"",
   "head": {
-    "ref": "1.10.0_hb8135f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gomi-feedstock/pull/13",
   "id": 5017458538,
   "labels": [],
-  "last_fetched": "2026-10-26T12:32:36.477437",
+  "last_fetched": "2026-10-26T12:42:18.049319",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-26T12:41:09Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-26T12:32:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T12:41:14Z"
 }

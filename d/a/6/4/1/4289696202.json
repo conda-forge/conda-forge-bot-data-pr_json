@@ -1,5 +1,5 @@
 {
-  "ETag": "\"a9e1735e31ef04c21f5f1cbae21b717aab43c35b58b04cfd0127fc23897bf358\"",
+  "ETag": "W/\"a2d4bb9924416c0ed6bc33e714856327a35c5a52932b1158242d6a05bb635d13\"",
   "Last-Modified": "Mon, 26 Oct 2026 12:44:52 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/flower-feedstock/pull/31",
   "id": 4289696202,
-  "labels": [],
-  "last_fetched": "2026-10-26T12:46:19.181109",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-26T12:44:54.688376",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

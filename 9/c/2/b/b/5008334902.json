@@ -1,29 +1,29 @@
 {
-  "ETag": "\"31ca9cbd417de64067250131e09b89132a3cc378767d71cb7c1240ab65dcb410\"",
-  "Last-Modified": "Sun, 25 Oct 2026 20:24:31 GMT",
+  "ETag": "\"1744469aae09debce994bdb7e82123e0d5d39e9777d3134a1909ab074a0af68b\"",
+  "Last-Modified": "Mon, 26 Oct 2026 02:06:50 GMT",
   "base": {
     "repo": {
       "name": "cglm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T02:06:49Z",
   "closed_by": null,
   "created_at": "2026-10-25T20:23:03Z",
   "draft": false,
   "e_tag": "\"991dc1c2c37e2f7506dc22adbe872c1cbd1d0c59eaf135296266a412c880f006\"",
   "head": {
-    "ref": "0.9.7_h18cb0d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cglm-feedstock/pull/10",
   "id": 5008334902,
   "labels": [],
-  "last_fetched": "2026-10-25T20:57:19.356948",
+  "last_fetched": "2026-10-26T02:08:22.934098",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T02:06:49Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-25T20:24:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T02:06:50Z"
 }

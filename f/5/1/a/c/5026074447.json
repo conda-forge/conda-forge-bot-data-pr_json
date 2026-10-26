@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cc6e852fe7ec732324aff1ab1094aa90fbc441e965aee95ad547d594d972446a\"",
+  "Last-Modified": "Mon, 26 Oct 2026 23:27:13 GMT",
   "base": {
     "repo": {
       "name": "ghgrab-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T23:27:08Z",
   "closed_by": null,
   "created_at": "2026-10-26T23:16:29Z",
   "draft": false,
   "e_tag": "\"9d803d299511047fd74f29f3efa6790dbd9a36c4da5fb7e660b2b7d8aa75ee66\"",
   "head": {
-    "ref": "2.3.0_h63f54f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ghgrab-feedstock/pull/6",
   "id": 5026074447,
   "labels": [],
-  "last_fetched": "2026-10-26T23:16:30.265628",
+  "last_fetched": "2026-10-26T23:28:15.591177",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T23:27:08Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-26T23:16:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T23:27:13Z"
 }

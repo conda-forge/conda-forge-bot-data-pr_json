@@ -1,28 +1,28 @@
 {
-  "ETag": "\"18e03432d23518a25a51222007dd68cee940e18e3e883b97433eeae7e5c671e2\"",
-  "Last-Modified": "Tue, 04 Aug 2026 16:15:29 GMT",
+  "ETag": "\"9c5fa13e6933a32aef1bfa38942c22dc5896612e07df83db74e17fa43c1d27f3\"",
+  "Last-Modified": "Mon, 26 Oct 2026 10:46:36 GMT",
   "base": {
     "repo": {
       "name": "habitat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T10:46:36Z",
   "created_at": "2026-08-04T15:57:05Z",
   "draft": false,
   "e_tag": "\"cd0bfef916ec2f8d0dd4d98122a2a5ea3067f11733ec60947615cae27ca39ad3\"",
   "head": {
-    "ref": "0.5.0_h3ea639"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/habitat-feedstock/pull/4",
   "id": 4205037817,
   "labels": [],
-  "last_fetched": "2026-10-22T07:07:00.052356",
+  "last_fetched": "2026-10-26T10:48:35.463956",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T10:46:36Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-08-04T16:15:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T10:46:36Z"
 }

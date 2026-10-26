@@ -1,13 +1,13 @@
 {
-  "ETag": "\"c18e77f176a676f11db885428dfa08373869a4019f700b29b0ea3d9968058ae4\"",
-  "Last-Modified": "Mon, 26 Oct 2026 11:17:43 GMT",
+  "ETag": "\"a7a8d186539a0bbc0dde3cbb24cb7478900cc45f5a96c9a15047d78c40aedebd\"",
+  "Last-Modified": "Mon, 26 Oct 2026 18:55:40 GMT",
   "base": {
     "repo": {
       "name": "trunk-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-26T18:55:40Z",
+  "closed_by": "maurosilber",
   "created_at": "2026-10-26T10:49:51Z",
   "draft": false,
   "e_tag": "\"7b18e00f8707185f3889c535b0388f552b121250991417de352178977e47bfc2\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/trunk-feedstock/pull/5",
   "id": 5016167275,
   "labels": [],
-  "last_fetched": "2026-10-26T12:43:53.531561",
+  "last_fetched": "2026-10-26T18:57:24.304121",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-26T11:17:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T18:55:40Z"
 }

@@ -1,17 +1,17 @@
 {
-  "ETag": "\"2702eb76ab38e23ecc41ec527b55d1515b5d34c0815ef3398396b8751f9d255c\"",
-  "Last-Modified": "Mon, 26 Oct 2026 11:52:33 GMT",
+  "ETag": "\"482da5c783d80200b75eeff193963d1755cf452d316c007916fcf377e9031b66\"",
+  "Last-Modified": "Mon, 26 Oct 2026 11:55:20 GMT",
   "base": {
     "repo": {
       "name": "pygamma_n-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T11:55:16Z",
   "created_at": "2026-09-21T03:06:31Z",
   "draft": false,
   "e_tag": "\"bc5a70f4c29ee8af18590aa30738b6587cf9524ac974a739a03695ae2f9b6417\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h2d681c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pygamma_n-feedstock/pull/11",
   "id": 4587523137,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/pygamma_n-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-26T11:54:05.734036",
+  "last_fetched": "2026-10-26T11:56:21.021613",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T11:55:16Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-26T11:52:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T11:55:20Z"
 }

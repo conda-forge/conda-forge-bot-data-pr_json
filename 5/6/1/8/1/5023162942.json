@@ -1,13 +1,13 @@
 {
-  "ETag": "\"1b031dd015c58d58ec62edf2fd68eb1952015e6a8e446c41457490fdd5530a83\"",
-  "Last-Modified": "Mon, 26 Oct 2026 19:11:34 GMT",
+  "ETag": "W/\"6f98156e866bd2c62c6d719bac3cd8e68252fe9ab38db6634ef4be5a17913637\"",
+  "Last-Modified": "Mon, 26 Oct 2026 19:47:00 GMT",
   "base": {
     "repo": {
       "name": "skillspector-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-26T19:47:00Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-26T19:09:51Z",
   "draft": false,
   "e_tag": "\"7dcb9df25f5dc4a9575c43d3610fbadb40554f54b737e77a2eef4b06e5521db7\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/skillspector-feedstock/pull/1",
   "id": 5023162942,
-  "labels": [],
-  "last_fetched": "2026-10-26T19:39:09.265034",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 12845021410,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOVYP5Rc8AAAAC_Z944g",
+      "url": "https://api.github.com/repos/conda-forge/skillspector-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-26T19:47:04.077506",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-10-26T19:11:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T19:47:00Z"
 }

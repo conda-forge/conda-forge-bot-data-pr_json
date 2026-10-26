@@ -1,29 +1,29 @@
 {
-  "ETag": "\"632f309dd699aa345b3a97dd9f7383c05d66fba0cbae9ecffafda57a0d329389\"",
-  "Last-Modified": "Mon, 26 Oct 2026 02:00:32 GMT",
+  "ETag": "\"26be0f84e0b9d3171590da0f769c57e68d03d91f89f4f22379e5936ead01562c\"",
+  "Last-Modified": "Mon, 26 Oct 2026 12:22:06 GMT",
   "base": {
     "repo": {
       "name": "grpc-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T12:22:06Z",
   "closed_by": null,
   "created_at": "2026-10-22T18:10:28Z",
   "draft": false,
   "e_tag": "\"d59baddf625e3192e243aab18ba3abc34accb248027edc3323d4653cd29ff900\"",
   "head": {
-    "ref": "1.84.1_h8c069b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/grpc-cpp-feedstock/pull/439",
   "id": 4971977387,
   "labels": [],
-  "last_fetched": "2026-10-26T04:56:03.658031",
+  "last_fetched": "2026-10-26T12:23:14.349957",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T12:22:06Z",
   "number": 439,
-  "state": "open",
-  "updated_at": "2026-10-26T02:00:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T12:22:06Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"9e981af3022504fb98dd6f57522b595899117c58ac66391c4a4174430d602d96\"",
-  "Last-Modified": "Tue, 20 Oct 2026 09:47:59 GMT",
+  "ETag": "\"a56839973cf071f22628fadcae1bf2331d8de39124cc6ea4e2c9654d6fe6bf2a\"",
+  "Last-Modified": "Mon, 26 Oct 2026 17:45:37 GMT",
   "base": {
     "repo": {
       "name": "ukkonen-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/ukkonen-feedstock/pull/14",
   "id": 4441158530,
-  "labels": [],
-  "last_fetched": "2026-10-20T11:36:01.909642",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3761904384,
+      "name": "automerge",
+      "node_id": "LA_kwDOGuo0nc7gOhsA",
+      "url": "https://api.github.com/repos/conda-forge/ukkonen-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-26T17:46:46.252603",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 14,
   "state": "open",
-  "updated_at": "2026-10-20T09:47:59Z"
+  "updated_at": "2026-10-26T17:45:37Z"
 }

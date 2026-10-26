@@ -1,12 +1,13 @@
 {
-  "ETag": "\"e1892e94033b789524d66df251f1bca8946ded31b75d1de33805b02a9fe319ac\"",
-  "Last-Modified": "Mon, 12 Oct 2026 12:14:12 GMT",
+  "ETag": "\"351f13911532a1901db53dba585341d5ca6d4bac27f490625438ed716787ff00\"",
+  "Last-Modified": "Mon, 26 Oct 2026 19:49:06 GMT",
   "base": {
     "repo": {
       "name": "podman-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T19:49:06Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-12T12:04:28Z",
   "draft": false,
   "e_tag": "\"0bb3e123f08a27e0869813f1cfaeb0da2a7e4d179621b06bf7fda0550e95760f\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/podman-feedstock/pull/111",
   "id": 4829127324,
   "labels": [],
-  "last_fetched": "2026-10-19T19:22:36.166251",
+  "last_fetched": "2026-10-26T19:50:36.679238",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 111,
-  "state": "open",
-  "updated_at": "2026-10-12T12:14:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T19:49:06Z"
 }

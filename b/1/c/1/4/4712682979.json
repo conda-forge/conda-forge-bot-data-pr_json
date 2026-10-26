@@ -1,28 +1,28 @@
 {
-  "ETag": "\"7e9a611a3d4fd64b8cf895087ee7537f15e2a7d04124af3777b9f858811d2466\"",
-  "Last-Modified": "Fri, 02 Oct 2026 04:30:00 GMT",
+  "ETag": "\"828910df9a25889c06fb82807510acd649528867b037fb8f29ea21940f7dd643\"",
+  "Last-Modified": "Mon, 26 Oct 2026 07:27:20 GMT",
   "base": {
     "repo": {
       "name": "livekit-plugins-deepgram-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T07:27:19Z",
   "created_at": "2026-10-02T04:28:06Z",
   "draft": false,
   "e_tag": "\"4d0cf73caee01c496e3a13138213b47828a37376da3f859a82c4f12ed696c6e8\"",
   "head": {
-    "ref": "1.8.4_ha02d76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/livekit-plugins-deepgram-feedstock/pull/30",
   "id": 4712682979,
   "labels": [],
-  "last_fetched": "2026-10-23T22:23:36.911842",
+  "last_fetched": "2026-10-26T07:28:57.623171",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T07:27:19Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-02T04:30:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T07:27:20Z"
 }

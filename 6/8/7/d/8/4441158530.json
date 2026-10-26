@@ -1,17 +1,17 @@
 {
-  "ETag": "\"d3c1373a28101b5bf7a6e40862170f4a0257a4d233ebf33c83e0634f97ee2843\"",
-  "Last-Modified": "Mon, 26 Oct 2026 17:46:53 GMT",
+  "ETag": "\"401a844199c36ec7dece613bc285ffab2fe2494132c229e8f24b8da29ff90ff1\"",
+  "Last-Modified": "Mon, 26 Oct 2026 17:50:58 GMT",
   "base": {
     "repo": {
       "name": "ukkonen-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T17:50:53Z",
   "created_at": "2026-09-04T09:40:01Z",
   "draft": false,
   "e_tag": "\"d6a53fac5d154e1d4c2de542a419b220e96e8fdc3bc3b050eae442f75e189c91\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hbf1a30"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ukkonen-feedstock/pull/14",
   "id": 4441158530,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/ukkonen-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-26T17:47:14.720653",
+  "last_fetched": "2026-10-26T17:52:07.924493",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T17:50:53Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-26T17:46:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T17:50:58Z"
 }

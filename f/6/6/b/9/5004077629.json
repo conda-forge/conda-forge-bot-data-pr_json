@@ -1,18 +1,18 @@
 {
-  "ETag": "\"2dcd1cb8c5c3797d4a454ec7adc2b2ebe371007fef10d9299e2818ff3dd4f705\"",
-  "Last-Modified": "Mon, 26 Oct 2026 07:24:50 GMT",
+  "ETag": "\"17e40786552de51bc0ce75743d1ccff2c5e8c3eb2b94ad1b3ffef5ff702115cf\"",
+  "Last-Modified": "Mon, 26 Oct 2026 07:58:36 GMT",
   "base": {
     "repo": {
       "name": "spheno-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T07:58:32Z",
   "closed_by": null,
   "created_at": "2026-10-25T10:54:48Z",
   "draft": false,
   "e_tag": "\"d96f53017fa150724445bd74df1b5d5ab2dc4642193731f8e5c8beb0635a05e5\"",
   "head": {
-    "ref": "4.0.8_h07854a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spheno-feedstock/pull/7",
   "id": 5004077629,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/spheno-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-26T07:26:23.015773",
+  "last_fetched": "2026-10-26T08:00:02.764299",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T07:58:32Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-26T07:24:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T07:58:36Z"
 }

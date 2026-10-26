@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c1ddfcc97f957642b8ffe38586c80e32915786f2d29ce881b5377618a6b1581a\"",
-  "Last-Modified": "Wed, 21 Oct 2026 05:52:24 GMT",
+  "ETag": "\"0eb7686314a0ba28342d6aa798d94e7be42a1e8544467230e7c51dd2cb6ce9c1\"",
+  "Last-Modified": "Mon, 26 Oct 2026 20:26:57 GMT",
   "base": {
     "repo": {
       "name": "singlejar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T20:26:57Z",
   "closed_by": null,
   "created_at": "2026-10-21T05:49:08Z",
   "draft": false,
   "e_tag": "\"4125b7d758ff3095c230d0afe89d8c479d7bfefa66af759811f8cf4866ce900e\"",
   "head": {
-    "ref": "9.3.1_hac03ee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/singlejar-feedstock/pull/143",
   "id": 4947039819,
   "labels": [],
-  "last_fetched": "2026-10-21T09:50:20.736030",
+  "last_fetched": "2026-10-26T20:28:27.709159",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T20:26:57Z",
   "number": 143,
-  "state": "open",
-  "updated_at": "2026-10-21T05:52:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T20:26:57Z"
 }

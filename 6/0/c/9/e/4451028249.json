@@ -1,32 +1,29 @@
 {
-  "ETag": "\"3a9317ac386fe4a55da56acdb32784418da78b65f2ce1e8de38ac2b1210f2e6c\"",
-  "Last-Modified": "Sat, 05 Sep 2026 14:08:03 GMT",
+  "ETag": "\"f3be19c5330f2811d39fb71be891d5f520a40042dedc0b7987bdbb832848192f\"",
+  "Last-Modified": "Mon, 26 Oct 2026 17:47:17 GMT",
   "base": {
     "repo": {
       "name": "openslide-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T17:47:17Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-05T14:06:23Z",
   "draft": false,
   "e_tag": "\"69eb9d17a5c961f9a72a0c92704d6489466b791714cd15a27727fe66b5f6e470\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "rebuild-python315-0-1_ha52a4b"
   },
   "html_url": "https://github.com/conda-forge/openslide-python-feedstock/pull/27",
   "id": 4451028249,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-10-26T17:47:15.035113",
+  "labels": [],
+  "last_fetched": "2026-10-26T22:59:47.191382",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-09-05T14:08:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T17:47:17Z"
 }

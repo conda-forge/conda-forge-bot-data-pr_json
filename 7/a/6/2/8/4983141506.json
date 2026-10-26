@@ -1,29 +1,29 @@
 {
-  "ETag": "\"80659fb7944a962c41d1df4d11a52a0784bc38c20c74867e9bd09e6e69ffa07a\"",
-  "Last-Modified": "Fri, 23 Oct 2026 13:08:25 GMT",
+  "ETag": "\"5dfc910515d8510071b156309457e7c1817276f15b5efdc923bae295ca32d8f7\"",
+  "Last-Modified": "Mon, 26 Oct 2026 11:28:14 GMT",
   "base": {
     "repo": {
       "name": "roborev-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T11:28:14Z",
   "closed_by": null,
   "created_at": "2026-10-23T13:02:15Z",
   "draft": false,
   "e_tag": "\"479e636ac2d0a0470ab68cbfdcd480ee4a31595162fd8048396dfaaea5345924\"",
   "head": {
-    "ref": "0.73.0_he20eca"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/roborev-feedstock/pull/25",
   "id": 4983141506,
   "labels": [],
-  "last_fetched": "2026-10-23T16:02:03.752186",
+  "last_fetched": "2026-10-26T11:29:45.771148",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T11:28:14Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-10-23T13:08:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T11:28:14Z"
 }

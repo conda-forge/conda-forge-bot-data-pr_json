@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4cc8256f16df31e379117517c68c7db12fa48a1a4245eb068537110053ad1a29\"",
+  "Last-Modified": "Mon, 26 Oct 2026 04:31:25 GMT",
   "base": {
     "repo": {
       "name": "libplacebo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T04:31:25Z",
   "closed_by": null,
   "created_at": "2026-10-26T04:20:21Z",
   "draft": false,
   "e_tag": "\"36e0015cfb7293a888596f2098c1ee200dad9144f30a4a42d754c72c4b6c8e57\"",
   "head": {
-    "ref": "7.387.0_h512ef8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libplacebo-feedstock/pull/13",
   "id": 5011981212,
   "labels": [],
-  "last_fetched": "2026-10-26T04:20:21.987982",
+  "last_fetched": "2026-10-26T04:32:41.466465",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-26T04:31:25Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-26T04:20:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T04:31:25Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"958d36ccea0cb084858fe3297a111c71d7d36b5848fa9268bee34ea27c17aebd\"",
-  "Last-Modified": "Sat, 19 Sep 2026 19:10:41 GMT",
+  "ETag": "\"4fcb7eae94101314d7ee91cf20d4ff098fba7de522a9c0321239b046e1342092\"",
+  "Last-Modified": "Mon, 26 Oct 2026 02:01:54 GMT",
   "base": {
     "repo": {
       "name": "dpctl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T02:01:54Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-19T19:08:21Z",
   "draft": false,
   "e_tag": "\"7dc493b50e94e45b63b2a3728a8bd88065cec7c693c7356ec61a4d7fbb3c49ac\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/dpctl-feedstock/pull/15",
   "id": 4579983278,
   "labels": [],
-  "last_fetched": "2026-10-18T22:34:59.942384",
+  "last_fetched": "2026-10-26T02:03:21.751430",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-09-19T19:10:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T02:01:54Z"
 }

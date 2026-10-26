@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0f4a464fb932d73c767b2b36c4a84a7a90edb6b779f81645e795fcd0d1ab2273\"",
+  "Last-Modified": "Mon, 26 Oct 2026 19:04:24 GMT",
   "base": {
     "repo": {
       "name": "wl-clipboard-rs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T19:04:20Z",
   "closed_by": null,
   "created_at": "2026-10-26T19:01:50Z",
   "draft": false,
   "e_tag": "\"d2fb8f204e1d7c34b54f47c7012e727179b4071bc231ada2daba5baf66e25e46\"",
   "head": {
-    "ref": "0.9.5_h7b58c8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wl-clipboard-rs-feedstock/pull/5",
   "id": 5023059712,
   "labels": [],
-  "last_fetched": "2026-10-26T19:01:51.108772",
+  "last_fetched": "2026-10-26T19:05:27.383472",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T19:04:20Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-26T19:01:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T19:04:24Z"
 }

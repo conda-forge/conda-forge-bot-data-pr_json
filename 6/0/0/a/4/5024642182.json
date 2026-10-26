@@ -1,27 +1,29 @@
 {
+  "ETag": "\"28d94013f2301e8caca83ec344391bd4ae623a44ba1d4a9a33158d360f76f61c\"",
+  "Last-Modified": "Mon, 26 Oct 2026 22:27:13 GMT",
   "base": {
     "repo": {
       "name": "pyreml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T22:27:13Z",
   "closed_by": null,
   "created_at": "2026-10-26T21:06:08Z",
   "draft": false,
   "e_tag": "\"62cc2d864adcc5517e9fe0150e717236a74f5819aa226950be61b14bc1926d37\"",
   "head": {
-    "ref": "0.5.4_h78ed80"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyreml-feedstock/pull/6",
   "id": 5024642182,
   "labels": [],
-  "last_fetched": "2026-10-26T21:06:09.717090",
+  "last_fetched": "2026-10-26T22:28:44.079671",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T22:27:13Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-26T21:06:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T22:27:13Z"
 }

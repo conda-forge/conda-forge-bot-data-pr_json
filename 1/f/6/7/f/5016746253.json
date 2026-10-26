@@ -1,5 +1,5 @@
 {
-  "ETag": "\"27d5775e60c07fed6aebdf6156f0bc463ee29aea556295d9117e2a073c404c03\"",
+  "ETag": "W/\"6972a2d45bb857895cc69b8ae4881ee7dd7a058f487dc1e62e7104d042b4d6e4\"",
   "Last-Modified": "Mon, 26 Oct 2026 15:24:38 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/grpcio-status-feedstock/pull/85",
   "id": 5016746253,
-  "labels": [],
-  "last_fetched": "2026-10-26T15:26:09.036072",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-26T15:24:41.819972",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

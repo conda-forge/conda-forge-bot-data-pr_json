@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f1cf8150174504411e58c8a75e8064a28ff53911ba1cedd38709516e6af38293\"",
-  "Last-Modified": "Sun, 25 Oct 2026 23:33:26 GMT",
+  "ETag": "\"fca4b13c38712f8e5dee7b678c18d680e3cf9a1da8587b0dd0d33a7de245bbc1\"",
+  "Last-Modified": "Mon, 26 Oct 2026 03:50:40 GMT",
   "base": {
     "repo": {
       "name": "libta-lib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T03:50:40Z",
   "closed_by": null,
   "created_at": "2026-10-25T23:31:54Z",
   "draft": false,
   "e_tag": "\"acaa72749b1aa317ce5c30c855dd541e9ef22825180e80db60170cd33d05b9df\"",
   "head": {
-    "ref": "0.8.3_h084c59"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libta-lib-feedstock/pull/20",
   "id": 5009780319,
   "labels": [],
-  "last_fetched": "2026-10-25T23:43:29.209835",
+  "last_fetched": "2026-10-26T03:52:11.304282",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T03:50:40Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-25T23:33:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T03:50:40Z"
 }

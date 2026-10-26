@@ -1,27 +1,29 @@
 {
+  "ETag": "\"da6eb3edac1496ff14b832a3e9265d9af11158d0b605872a5fffc84ece1c06fe\"",
+  "Last-Modified": "Mon, 26 Oct 2026 14:36:05 GMT",
   "base": {
     "repo": {
       "name": "freetds-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T14:36:01Z",
   "closed_by": null,
   "created_at": "2026-10-26T14:24:24Z",
   "draft": false,
   "e_tag": "\"4bd99b11073cb390a6a9683a946cc871ffcad113db69bcb4524a709c25526c2a\"",
   "head": {
-    "ref": "1.5.20_h595097"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/freetds-feedstock/pull/84",
   "id": 5019079232,
   "labels": [],
-  "last_fetched": "2026-10-26T14:24:24.936541",
+  "last_fetched": "2026-10-26T14:37:29.613484",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T14:36:01Z",
   "number": 84,
-  "state": "open",
-  "updated_at": "2026-10-26T14:24:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T14:36:05Z"
 }

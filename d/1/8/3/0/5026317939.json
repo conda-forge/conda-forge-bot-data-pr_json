@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a41850a63ec37123550739029781864f5501cbb4a28c53bb65f09b9ea12e7ffd\"",
+  "Last-Modified": "Mon, 26 Oct 2026 23:45:43 GMT",
   "base": {
     "repo": {
       "name": "uvicore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T23:45:39Z",
   "closed_by": null,
   "created_at": "2026-10-26T23:41:49Z",
   "draft": false,
   "e_tag": "\"74c764a922260d8a55f38cc3d816b7d88532433319007bc3dd666d396f766ed2\"",
   "head": {
-    "ref": "0.4.13_hf1ceaa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uvicore-feedstock/pull/38",
   "id": 5026317939,
   "labels": [],
-  "last_fetched": "2026-10-26T23:41:50.709245",
+  "last_fetched": "2026-10-26T23:46:46.498996",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T23:45:39Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-26T23:41:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T23:45:43Z"
 }

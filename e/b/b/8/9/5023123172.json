@@ -1,6 +1,6 @@
 {
-  "ETag": "\"0aa69cd84c15e68c75d5b2a1d0c5536c5beaa5e2c5e91743a85ab8e0864f6db7\"",
-  "Last-Modified": "Mon, 26 Oct 2026 19:08:40 GMT",
+  "ETag": "\"bbd2f1c2312e36e090b51448be040afc029902064262767c7bb10a0deb0bcdfd\"",
+  "Last-Modified": "Mon, 26 Oct 2026 22:38:42 GMT",
   "base": {
     "repo": {
       "name": "ydb-dbapi-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/ydb-dbapi-feedstock/pull/14",
   "id": 5023123172,
-  "labels": [],
-  "last_fetched": "2026-10-26T19:59:55.760952",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8653627156,
+      "name": "automerge",
+      "node_id": "LA_kwDOOuMmyM8AAAACA8vfFA",
+      "url": "https://api.github.com/repos/conda-forge/ydb-dbapi-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-26T22:40:15.921710",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 14,
   "state": "open",
-  "updated_at": "2026-10-26T19:08:40Z"
+  "updated_at": "2026-10-26T22:38:42Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"96b8b1a4e34a331d178e3915e6dea7f9772f98e49e5855f9c9fa3080e2e77800\"",
+  "Last-Modified": "Mon, 26 Oct 2026 22:34:39 GMT",
   "base": {
     "repo": {
       "name": "django-allauth-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T22:34:34Z",
   "closed_by": null,
   "created_at": "2026-10-26T22:30:52Z",
   "draft": false,
   "e_tag": "\"9679143f55a7f84c7917e99691e445e4e3e3e981739d95f8f545c7905f23a48f\"",
   "head": {
-    "ref": "65.21.0_h911b41"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-allauth-feedstock/pull/107",
   "id": 5025635763,
   "labels": [],
-  "last_fetched": "2026-10-26T22:30:53.469600",
+  "last_fetched": "2026-10-26T22:35:40.732320",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T22:34:34Z",
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-10-26T22:30:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T22:34:39Z"
 }

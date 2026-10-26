@@ -1,12 +1,13 @@
 {
-  "ETag": "\"50c501ec6d284d76e916fc5305b9443dd11bb3755be7c3660b624a3e81699d14\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"4f0e5c16ef89cc4f8c69e595a9b9735ad3bb2f8227c64b6536ca153845b4d4c4\"",
+  "Last-Modified": "Mon, 26 Oct 2026 23:34:11 GMT",
   "base": {
     "repo": {
       "name": "xcfun-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T23:34:11Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-07-16T12:07:10Z",
   "draft": false,
   "e_tag": "\"15cb7c3a0821def158fb814f111f52e2e95a75b7530d34b7e2463f49f8895fca\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/xcfun-feedstock/pull/20",
   "id": 2670473947,
   "labels": [],
-  "last_fetched": "2026-10-19T12:00:42.942836",
+  "last_fetched": "2026-10-26T23:35:43.260094",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 20,
-  "state": "open",
-  "updated_at": "2025-07-16T12:08:51Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T23:34:11Z"
 }

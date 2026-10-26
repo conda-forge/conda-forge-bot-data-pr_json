@@ -1,12 +1,13 @@
 {
-  "ETag": "\"ca38de9913b39b276d83997122c0b6f2d7fc3a808b1d305a8a689f56dd45bf90\"",
-  "Last-Modified": "Sat, 10 Oct 2026 07:02:22 GMT",
+  "ETag": "\"64100b61b97cd4b75827f633d2713dfb5b86f1baa7ce60b11b23b28eda2d0624\"",
+  "Last-Modified": "Mon, 26 Oct 2026 13:31:42 GMT",
   "base": {
     "repo": {
       "name": "black-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T13:31:42Z",
+  "closed_by": "xhochy",
   "created_at": "2026-10-10T07:00:52Z",
   "draft": false,
   "e_tag": "\"abbaa35591ebd89230d9f0488c55fff2593b974ece142d7d08461606009b7480\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/black-feedstock/pull/107",
   "id": 4809429604,
   "labels": [],
-  "last_fetched": "2026-10-24T15:22:20.110221",
+  "last_fetched": "2026-10-26T13:34:04.528443",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-10-10T07:02:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T13:31:42Z"
 }

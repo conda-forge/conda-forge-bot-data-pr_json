@@ -1,29 +1,29 @@
 {
-  "ETag": "\"946ecce4b676ed31e8a438856e8a3c24c7120d12842bc67dd0ae06958e3d8455\"",
-  "Last-Modified": "Mon, 26 Oct 2026 07:25:38 GMT",
+  "ETag": "\"867a596c54116009aa258f20bbd37a522e349c4e32069415ec4bf36128d0a93b\"",
+  "Last-Modified": "Mon, 26 Oct 2026 08:08:12 GMT",
   "base": {
     "repo": {
       "name": "uniclip-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T08:08:07Z",
   "closed_by": null,
   "created_at": "2026-10-26T07:24:14Z",
   "draft": false,
   "e_tag": "\"631e25c88d8e36890448ee747629477f3bcdda3da3c425a400dd7ae13d02adb2\"",
   "head": {
-    "ref": "1.5.0_hab0ba3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uniclip-feedstock/pull/10",
   "id": 5013654825,
   "labels": [],
-  "last_fetched": "2026-10-26T07:55:34.443763",
+  "last_fetched": "2026-10-26T08:09:20.636608",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T08:08:07Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-10-26T07:25:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T08:08:12Z"
 }

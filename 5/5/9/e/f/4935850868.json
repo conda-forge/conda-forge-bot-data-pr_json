@@ -1,29 +1,29 @@
 {
-  "ETag": "\"75bb4055191a991b90beda8af04d466c693946d238b69dee464b91a839b52a6f\"",
-  "Last-Modified": "Mon, 26 Oct 2026 11:56:01 GMT",
+  "ETag": "\"0b72c75926ce71d9450c81e37157e65e9eb1d926f06c08cb41d6bb49b41d8399\"",
+  "Last-Modified": "Mon, 26 Oct 2026 13:08:40 GMT",
   "base": {
     "repo": {
       "name": "trunk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T13:08:40Z",
   "closed_by": null,
   "created_at": "2026-10-20T12:39:56Z",
   "draft": false,
   "e_tag": "\"cfcefab50bd43eb0b9849486b01eaa36b8cdea13c93e5565c72ba5521c160502\"",
   "head": {
-    "ref": "0.22.0_hf072f7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trunk-feedstock/pull/4",
   "id": 4935850868,
   "labels": [],
-  "last_fetched": "2026-10-26T12:43:52.945659",
+  "last_fetched": "2026-10-26T13:09:52.954272",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T13:08:40Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-26T11:56:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T13:08:40Z"
 }

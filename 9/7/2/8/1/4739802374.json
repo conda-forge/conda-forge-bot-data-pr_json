@@ -1,5 +1,5 @@
 {
-  "ETag": "\"632fefbe0594c5c5368b6def257f3eab8c0d1bee80159727f450457aeaba58e3\"",
+  "ETag": "W/\"008cae2cbc2fbcdcd09b9884258047e0df383c6a1114ec204edd88aa6326e0ac\"",
   "Last-Modified": "Mon, 26 Oct 2026 18:38:49 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyearth-feedstock/pull/35",
   "id": 4739802374,
-  "labels": [],
-  "last_fetched": "2026-10-26T18:39:59.483421",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-26T18:38:51.479435",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

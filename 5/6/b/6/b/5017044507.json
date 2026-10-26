@@ -1,27 +1,29 @@
 {
+  "ETag": "\"65a931d6c528deff18406af0417a893c110fb619f6738cf74f9f6bc39026878c\"",
+  "Last-Modified": "Mon, 26 Oct 2026 12:20:52 GMT",
   "base": {
     "repo": {
       "name": "galaxy-tool-util-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T12:20:52Z",
   "closed_by": null,
   "created_at": "2026-10-26T12:01:14Z",
   "draft": false,
   "e_tag": "\"907842ea990fb949ebd921855551f7767f9b8b16b0a2ebd5c08082dca94f10de\"",
   "head": {
-    "ref": "26.1.2_he8317c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/galaxy-tool-util-feedstock/pull/49",
   "id": 5017044507,
   "labels": [],
-  "last_fetched": "2026-10-26T12:01:15.777048",
+  "last_fetched": "2026-10-26T12:22:00.629695",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-26T12:20:52Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-26T12:01:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T12:20:52Z"
 }

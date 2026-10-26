@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a7de0baf199bcda3453843dda52bad1a3a10768b556d38aced621fcdf9f826f0\"",
+  "Last-Modified": "Mon, 26 Oct 2026 12:52:33 GMT",
   "base": {
     "repo": {
       "name": "panache-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T12:52:28Z",
   "closed_by": null,
   "created_at": "2026-10-26T12:02:18Z",
   "draft": false,
   "e_tag": "\"6fccbaf4a199ae3d3818a666ee2c781b63138e963b98147e60f65ceba0dbb6d5\"",
   "head": {
-    "ref": "3.17.1_hc4f0c6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/panache-feedstock/pull/36",
   "id": 5017057046,
   "labels": [],
-  "last_fetched": "2026-10-26T12:02:19.390217",
+  "last_fetched": "2026-10-26T12:54:03.449927",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-26T12:52:28Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-26T12:02:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T12:52:33Z"
 }

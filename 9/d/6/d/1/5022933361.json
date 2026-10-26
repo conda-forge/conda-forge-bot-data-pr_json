@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cfa7469d9b04d4366e5f19e1a9d7e164af98d30b225078f908ac79a83c3d904d\"",
+  "Last-Modified": "Mon, 26 Oct 2026 19:47:36 GMT",
   "base": {
     "repo": {
       "name": "srsly-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T19:47:36Z",
   "closed_by": null,
   "created_at": "2026-10-26T18:51:26Z",
   "draft": false,
   "e_tag": "\"1f756b5fb1869760e2bc33e0cc560df006ed5b0c0c3a04b8649c58a72764e5f2\"",
   "head": {
-    "ref": "2.5.5_h9e569c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/srsly-feedstock/pull/64",
   "id": 5022933361,
   "labels": [],
-  "last_fetched": "2026-10-26T18:51:27.406261",
+  "last_fetched": "2026-10-26T19:49:35.410679",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T19:47:36Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-10-26T18:51:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T19:47:36Z"
 }

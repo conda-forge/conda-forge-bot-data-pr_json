@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e015caee98e77a03d9ff5b1c4515d512da8b6cbbffbf19334e7e43842e853aab\"",
-  "Last-Modified": "Sat, 24 Oct 2026 19:37:34 GMT",
+  "ETag": "\"2702eb76ab38e23ecc41ec527b55d1515b5d34c0815ef3398396b8751f9d255c\"",
+  "Last-Modified": "Mon, 26 Oct 2026 11:52:33 GMT",
   "base": {
     "repo": {
       "name": "pygamma_n-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/pygamma_n-feedstock/pull/11",
   "id": 4587523137,
-  "labels": [],
-  "last_fetched": "2026-10-25T07:47:37.704294",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7182850234,
+      "name": "automerge",
+      "node_id": "LA_kwDOMUCb4s8AAAABrCGYug",
+      "url": "https://api.github.com/repos/conda-forge/pygamma_n-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-26T11:54:05.734036",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 11,
   "state": "open",
-  "updated_at": "2026-10-24T19:37:34Z"
+  "updated_at": "2026-10-26T11:52:33Z"
 }

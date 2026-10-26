@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0c645a12dcd6f08175a60fb372512a86bf1b336004c1de0c9ef05c0663cfa353\"",
+  "Last-Modified": "Mon, 26 Oct 2026 19:20:25 GMT",
   "base": {
     "repo": {
       "name": "amazon-braket-default-simulator-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T19:20:21Z",
   "closed_by": null,
   "created_at": "2026-10-26T19:16:43Z",
   "draft": false,
   "e_tag": "\"97e9cc31121253705830b8af6c3ad09af200ef4e9b472f717fcd40e482de098d\"",
   "head": {
-    "ref": "1.41.2_h3e60c9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/amazon-braket-default-simulator-feedstock/pull/119",
   "id": 5023253787,
   "labels": [],
-  "last_fetched": "2026-10-26T19:16:44.566355",
+  "last_fetched": "2026-10-26T19:21:49.648784",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T19:20:21Z",
   "number": 119,
-  "state": "open",
-  "updated_at": "2026-10-26T19:16:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T19:20:25Z"
 }

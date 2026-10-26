@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0795bd5ad9769eba65c8a58341085c1efb629af93732535a074e147517ee53d1\"",
-  "Last-Modified": "Mon, 26 Oct 2026 09:46:32 GMT",
+  "ETag": "\"17e87185ba85b2b4cde513b05bcf9dfa4b00495c609d31dc94c61503f49ddd87\"",
+  "Last-Modified": "Mon, 26 Oct 2026 11:00:28 GMT",
   "base": {
     "repo": {
       "name": "pylibftdi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T11:00:27Z",
   "closed_by": null,
   "created_at": "2026-10-26T09:44:54Z",
   "draft": false,
   "e_tag": "\"bc1ff787f78790c5d98a3683c3431df51bc7cf326cd0db00587e8728e56d27c8\"",
   "head": {
-    "ref": "0.24.2_h4494d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylibftdi-feedstock/pull/19",
   "id": 5015296297,
   "labels": [],
-  "last_fetched": "2026-10-26T10:50:26.766749",
+  "last_fetched": "2026-10-26T11:01:48.427819",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T11:00:27Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-26T09:46:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T11:00:28Z"
 }

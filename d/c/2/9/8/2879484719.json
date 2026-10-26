@@ -1,5 +1,5 @@
 {
-  "ETag": "W/\"9a7e2701c6ded2af9c744c0435cff6e245dbdf5b996acb38eaa9820607ade1d8\"",
+  "ETag": "\"fe094a4dea5cfe42c4429fdf5ff66410e9ff3d0c2285488650e9ba7d57d550f3\"",
   "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"fd075cced8d45fe54e6f7bbee321fcda861e35bab91ca259c1b181cddaa64770\"",
   "head": {
-    "ref": "rebuild-cfitsio463-0-1_hbf9d14"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ccfits-feedstock/pull/20",
   "id": 2879484719,
-  "labels": [],
-  "last_fetched": "2026-10-19T01:01:25.443662",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-26T02:03:38.354119",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 20,

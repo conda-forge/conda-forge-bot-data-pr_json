@@ -1,27 +1,29 @@
 {
+  "ETag": "\"efc48fd32906be16657ba4eb289dab2407d51b65fd6bc17a2e9e2b08ea4df13d\"",
+  "Last-Modified": "Mon, 26 Oct 2026 18:51:03 GMT",
   "base": {
     "repo": {
       "name": "pyiron_snippets-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T18:50:58Z",
   "closed_by": null,
   "created_at": "2026-10-26T18:49:02Z",
   "draft": false,
   "e_tag": "\"edb8ed0fc9470c125eb933c6d74a13516583ccd500070ad92b50b422f18c1259\"",
   "head": {
-    "ref": "1.5.1_h18ae3b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyiron_snippets-feedstock/pull/25",
   "id": 5022901700,
   "labels": [],
-  "last_fetched": "2026-10-26T18:49:03.580223",
+  "last_fetched": "2026-10-26T18:52:04.314362",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T18:50:58Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-10-26T18:49:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T18:51:03Z"
 }

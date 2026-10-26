@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9a40c3339217d7751e9dfd539c84042978657935f0208187ac1858b045530d6a\"",
-  "Last-Modified": "Sat, 24 Oct 2026 18:28:48 GMT",
+  "ETag": "\"fd2f5bc48778eb0dc5132ca7d30b4e73ee043554a73f9c7da7a4457af935468f\"",
+  "Last-Modified": "Mon, 26 Oct 2026 20:53:14 GMT",
   "base": {
     "repo": {
       "name": "perpetual-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T20:53:14Z",
   "closed_by": null,
   "created_at": "2026-10-24T18:27:20Z",
   "draft": false,
   "e_tag": "\"93407b7fd45f8bc2544fb93721b385bff5902e45fc7773ec318b429b4c677eae\"",
   "head": {
-    "ref": "2.3.0_h746e4f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/perpetual-feedstock/pull/42",
   "id": 4998008212,
   "labels": [],
-  "last_fetched": "2026-10-24T21:58:10.238970",
+  "last_fetched": "2026-10-26T20:54:41.067173",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-26T20:53:14Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-10-24T18:28:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T20:53:14Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"610ff175dbfc2343926fa4f929360d81775748fa92d9797ebaea42fb331366d9\"",
-  "Last-Modified": "Fri, 23 Oct 2026 21:25:08 GMT",
+  "ETag": "\"1f4811d6cc8dfd7e2694a51bdf136999120bb6096681ffe40e6f3c3d1c0a09d3\"",
+  "Last-Modified": "Mon, 26 Oct 2026 05:56:59 GMT",
   "base": {
     "repo": {
       "name": "txmongo-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/txmongo-feedstock/pull/9",
   "id": 4989429874,
-  "labels": [],
-  "last_fetched": "2026-10-23T21:36:21.315067",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891421314,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDIxMzE0",
+      "url": "https://api.github.com/repos/conda-forge/txmongo-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-26T05:57:35.666031",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 9,
   "state": "open",
-  "updated_at": "2026-10-23T21:25:08Z"
+  "updated_at": "2026-10-26T05:56:59Z"
 }

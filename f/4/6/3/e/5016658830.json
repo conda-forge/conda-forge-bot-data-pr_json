@@ -1,11 +1,13 @@
 {
+  "ETag": "W/\"771d7d3b76936890f6851ab925c8cf44c0f021f2c2da43a9c8ca3c513d8babc1\"",
+  "Last-Modified": "Mon, 26 Oct 2026 15:11:47 GMT",
   "base": {
     "repo": {
       "name": "trintrin-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-26T15:11:47Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-26T11:29:09Z",
   "draft": false,
   "e_tag": "\"cc12b5c25726d9866e5520b6d73ee9a483cc5a28bf4677e4944c73e8fd509690\"",
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/trintrin-feedstock/pull/16",
   "id": 5016658830,
-  "labels": [],
-  "last_fetched": "2026-10-26T11:29:10.307879",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 9596413575,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOQQeils8AAAACO_2mhw",
+      "url": "https://api.github.com/repos/conda-forge/trintrin-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-26T15:11:51.064154",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-26T11:29:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T15:11:47Z"
 }

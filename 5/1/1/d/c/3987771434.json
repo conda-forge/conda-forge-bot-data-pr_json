@@ -1,28 +1,28 @@
 {
-  "ETag": "\"e1b8e20a9741b69ce17264d43c510d8a84d7ac32e964ea4e57f7788646ca3f61\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"ec46bcc0c80369613f0585a4f65691018e8e0cd4cf9f7dcb2ab2137463d100f7\"",
+  "Last-Modified": "Mon, 26 Oct 2026 20:17:44 GMT",
   "base": {
     "repo": {
       "name": "isitgr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T20:17:44Z",
   "created_at": "2026-07-03T18:14:50Z",
   "draft": false,
   "e_tag": "\"d986ca262459c66e0fa8369fb2bcd0d8b2abd352bfd7ade26ca70670f579ea74\"",
   "head": {
-    "ref": "rebuild-python314-0-1_h61e5ec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/isitgr-feedstock/pull/23",
   "id": 3987771434,
   "labels": [],
-  "last_fetched": "2026-10-26T11:27:36.523843",
+  "last_fetched": "2026-10-26T20:19:14.647655",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T20:17:44Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-07-03T18:16:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T20:17:44Z"
 }

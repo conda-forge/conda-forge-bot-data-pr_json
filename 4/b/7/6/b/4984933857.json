@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bc715995be646de60cf4e8188535979d8e927d29b298d4e359f0d21d6b6127bb\"",
-  "Last-Modified": "Fri, 23 Oct 2026 15:13:07 GMT",
+  "ETag": "\"9e382ae35fc135865f87689867f560f4c8f3120eca41083a01c5f5f01d3cd3fa\"",
+  "Last-Modified": "Mon, 26 Oct 2026 10:44:32 GMT",
   "base": {
     "repo": {
       "name": "magics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T10:44:31Z",
   "closed_by": null,
   "created_at": "2026-10-23T15:11:36Z",
   "draft": false,
   "e_tag": "\"f3ed019b477a413fcde6c9eec8680d0b30c008358fc6423f1d2135bb8e2500be\"",
   "head": {
-    "ref": "rebuild-proj99-0-1_h240662"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/magics-feedstock/pull/155",
   "id": 4984933857,
   "labels": [],
-  "last_fetched": "2026-10-23T17:47:54.874012",
+  "last_fetched": "2026-10-26T10:46:23.732194",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T10:44:31Z",
   "number": 155,
-  "state": "open",
-  "updated_at": "2026-10-23T15:13:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T10:44:32Z"
 }

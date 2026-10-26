@@ -1,27 +1,29 @@
 {
+  "ETag": "\"67fa9f451a2d71954b5b3b7140ed4deea7d92aa17283bd60add4f40942134e6f\"",
+  "Last-Modified": "Mon, 26 Oct 2026 03:27:39 GMT",
   "base": {
     "repo": {
       "name": "comrak-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T03:27:34Z",
   "closed_by": null,
   "created_at": "2026-10-26T03:12:54Z",
   "draft": false,
   "e_tag": "\"2ffa2cff837f169e63da1f2f06bba12cf74f829a7770034431df237435a31be8\"",
   "head": {
-    "ref": "0.58.0_h37429a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/comrak-feedstock/pull/12",
   "id": 5011444550,
   "labels": [],
-  "last_fetched": "2026-10-26T03:12:55.635336",
+  "last_fetched": "2026-10-26T03:28:58.890810",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-26T03:27:34Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-26T03:12:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T03:27:39Z"
 }

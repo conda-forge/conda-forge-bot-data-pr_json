@@ -1,6 +1,6 @@
 {
-  "ETag": "\"238a1443008c301dffe201c2aa3ff478a7bea91db25713949c1fda8e2d74f169\"",
-  "Last-Modified": "Thu, 22 Oct 2026 04:20:02 GMT",
+  "ETag": "\"c0a54e719e437ca54bface2cd69ccbc8885fc658d073f239cae7a3b7abb8b1f0\"",
+  "Last-Modified": "Mon, 26 Oct 2026 00:22:34 GMT",
   "base": {
     "repo": {
       "name": "conda-standalone-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/conda-standalone-feedstock/pull/110",
   "id": 4962029520,
-  "labels": [],
-  "last_fetched": "2026-10-22T05:00:29.155465",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890811033,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODExMDMz",
+      "url": "https://api.github.com/repos/conda-forge/conda-standalone-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-26T00:23:48.074507",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 110,
   "state": "open",
-  "updated_at": "2026-10-22T04:20:02Z"
+  "updated_at": "2026-10-26T00:22:34Z"
 }

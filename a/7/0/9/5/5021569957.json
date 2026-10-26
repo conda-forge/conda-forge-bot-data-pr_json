@@ -1,18 +1,18 @@
 {
-  "ETag": "\"acdfd795fa8982fdce1000e391fcd8ee7fe18c7843e8e597370985812468f191\"",
-  "Last-Modified": "Mon, 26 Oct 2026 21:18:58 GMT",
+  "ETag": "\"ffe690414dcff089d8c344afe1e8b8ba8913504ea83a6813b9385f6ff9a402b6\"",
+  "Last-Modified": "Mon, 26 Oct 2026 23:04:08 GMT",
   "base": {
     "repo": {
       "name": "nvidia-dali-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T23:04:03Z",
   "closed_by": null,
   "created_at": "2026-10-26T17:10:47Z",
   "draft": false,
   "e_tag": "\"9a8d7fd22dcd075cd5d5e33c963b04b044eb992c50f754e21459365d2615600a\"",
   "head": {
-    "ref": "rebuild-aws_sdk_cpp111905-0-1_hb86458"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nvidia-dali-python-feedstock/pull/88",
   "id": 5021569957,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/nvidia-dali-python-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-26T21:20:43.193231",
+  "last_fetched": "2026-10-26T23:05:28.627402",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T23:04:03Z",
   "number": 88,
-  "state": "open",
-  "updated_at": "2026-10-26T21:18:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T23:04:08Z"
 }

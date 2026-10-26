@@ -1,13 +1,13 @@
 {
-  "ETag": "\"69d34705ad1264df26245acb2e0c28f3818e00db608e314a5d719a60a6ccd217\"",
-  "Last-Modified": "Thu, 22 Oct 2026 08:59:43 GMT",
+  "ETag": "W/\"bdcd4fd5d681e033a702430bdb9514895f996421b129151c09f9ba20f74a81b9\"",
+  "Last-Modified": "Mon, 26 Oct 2026 16:24:11 GMT",
   "base": {
     "repo": {
       "name": "propcache-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-26T16:24:11Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-22T08:59:42Z",
   "draft": false,
   "e_tag": "\"a7966dfb988fd372d877310cf04e024c965ca53baf86b223bc366a1825a7cac8\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/propcache-feedstock/pull/12",
   "id": 4964792597,
-  "labels": [],
-  "last_fetched": "2026-10-22T10:26:52.535398",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 7580577639,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOM907ds8AAAABw9ZvZw",
+      "url": "https://api.github.com/repos/conda-forge/propcache-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-26T16:24:14.471085",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-22T09:01:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T16:24:11Z"
 }

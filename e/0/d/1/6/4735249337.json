@@ -1,5 +1,5 @@
 {
-  "ETag": "\"0b32042564f3d79bdecc5f344b7f0d49a8a1b578114831e9846a663380e1c859\"",
+  "ETag": "W/\"64494b000a22d71e266e8bf8022dc238e08881fe4e2170c2fb678febc9f434b3\"",
   "Last-Modified": "Mon, 26 Oct 2026 18:38:45 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/bdsim-g4-feedstock/pull/31",
   "id": 4735249337,
-  "labels": [],
-  "last_fetched": "2026-10-26T18:40:24.422707",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-26T18:38:48.701203",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

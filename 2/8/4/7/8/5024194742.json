@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a095e6ea5ab808c0747dd9f0f5f1ea509e7dfabda6f267024594e3a8843fdcbf\"",
+  "Last-Modified": "Mon, 26 Oct 2026 22:33:02 GMT",
   "base": {
     "repo": {
       "name": "filterpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T22:33:02Z",
   "closed_by": null,
   "created_at": "2026-10-26T20:30:37Z",
   "draft": false,
   "e_tag": "\"b58dc38a55d709e23b519e77065d216e300e11281ef70ed96cab41b03914e371\"",
   "head": {
-    "ref": "2.0.0_h596aa8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/filterpy-feedstock/pull/16",
   "id": 5024194742,
   "labels": [],
-  "last_fetched": "2026-10-26T20:30:38.419907",
+  "last_fetched": "2026-10-26T22:34:09.453610",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-26T22:33:02Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-26T20:30:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T22:33:02Z"
 }

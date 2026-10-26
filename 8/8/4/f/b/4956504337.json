@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d2e985680d9e2172731d28347612da370aef8cefe95c1337b7dc2f8955bbc2b3\"",
-  "Last-Modified": "Wed, 21 Oct 2026 18:40:04 GMT",
+  "ETag": "\"a39b0c5810fafff0741939f85f2576b0e291942aeaf9195f1eee9d78d94a6bbf\"",
+  "Last-Modified": "Mon, 26 Oct 2026 11:29:10 GMT",
   "base": {
     "repo": {
       "name": "hatchet-migrate-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T11:29:10Z",
   "closed_by": null,
   "created_at": "2026-10-21T18:34:35Z",
   "draft": false,
   "e_tag": "\"b36e868408d9d0cd3c7543a647f87a5e612fbedcd2b23accb96bc8ab50d02500\"",
   "head": {
-    "ref": "0.113.1_h3aa565"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hatchet-migrate-feedstock/pull/82",
   "id": 4956504337,
   "labels": [],
-  "last_fetched": "2026-10-21T19:46:57.848377",
+  "last_fetched": "2026-10-26T11:30:39.777425",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-26T11:29:10Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-10-21T18:40:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T11:29:10Z"
 }

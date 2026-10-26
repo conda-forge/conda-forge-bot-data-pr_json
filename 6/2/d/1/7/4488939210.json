@@ -1,12 +1,13 @@
 {
-  "ETag": "\"9a0e2782960da00a019d127ecccaa8c1271b59172c2c7e362648ba95c4e33377\"",
-  "Last-Modified": "Wed, 09 Sep 2026 20:09:16 GMT",
+  "ETag": "\"32c88c2af622aab92d2c7e4f0946a2540d72e8c0e76fca2fd58ecd1169f6d46b\"",
+  "Last-Modified": "Mon, 26 Oct 2026 09:52:03 GMT",
   "base": {
     "repo": {
       "name": "arcticdb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T09:52:03Z",
+  "closed_by": "G-D-Petrov",
   "created_at": "2026-09-09T20:07:04Z",
   "draft": false,
   "e_tag": "\"99b01d1b85f5c1e188dadec8becd464965739cb3aadcfee6f2624e955c77ea81\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/arcticdb-feedstock/pull/617",
   "id": 4488939210,
   "labels": [],
-  "last_fetched": "2026-10-23T20:59:36.936476",
+  "last_fetched": "2026-10-26T09:53:38.625340",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 617,
-  "state": "open",
-  "updated_at": "2026-09-09T20:09:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T09:52:03Z"
 }

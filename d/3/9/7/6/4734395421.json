@@ -1,12 +1,13 @@
 {
-  "ETag": "\"0f24fdeea9405dfa5c25336e2d05e8809fa8bc88e18cdef39b0e39af0496c3fb\"",
-  "Last-Modified": "Sun, 04 Oct 2026 12:36:23 GMT",
+  "ETag": "W/\"c2b06c1acf75b351a68f3ba01906e8468782a360c1472eb53e64d3a22ff51fcc\"",
+  "Last-Modified": "Mon, 26 Oct 2026 10:13:01 GMT",
   "base": {
     "repo": {
       "name": "capytaine-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-26T10:13:01Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-04T12:34:51Z",
   "draft": false,
   "e_tag": "\"583fbb07a3b3c6ee7b7c7652cb05d245245cc2d5752134b0ac83f0f0ac2c5cc8\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/capytaine-feedstock/pull/55",
   "id": 4734395421,
-  "labels": [],
-  "last_fetched": "2026-10-26T07:56:32.171073",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890803544,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwODAzNTQ0",
+      "url": "https://api.github.com/repos/conda-forge/capytaine-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-26T10:13:04.241040",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-10-04T12:36:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-26T10:13:01Z"
 }

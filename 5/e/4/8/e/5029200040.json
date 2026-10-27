@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fd71cdd61e5abd418e1f370146d6371af20660da9b1ba5f28cab2abd6c93432d\"",
+  "Last-Modified": "Tue, 27 Oct 2026 05:49:53 GMT",
   "base": {
     "repo": {
       "name": "libheif-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T05:49:49Z",
   "closed_by": null,
   "created_at": "2026-10-27T05:41:20Z",
   "draft": false,
   "e_tag": "\"de59043a6304661da0b4b232838a5cbbe42545c0f067b6a084168eece70da240\"",
   "head": {
-    "ref": "1.23.7_ha5123c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libheif-feedstock/pull/56",
   "id": 5029200040,
   "labels": [],
-  "last_fetched": "2026-10-27T05:41:20.842676",
+  "last_fetched": "2026-10-27T05:51:28.265658",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T05:49:49Z",
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-10-27T05:41:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T05:49:53Z"
 }

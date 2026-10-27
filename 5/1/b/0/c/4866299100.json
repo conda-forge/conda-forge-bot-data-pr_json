@@ -1,18 +1,18 @@
 {
-  "ETag": "\"6374d84c3345bde1d3b92c1ce6d40613829bce71ec4b6b32e53e873af4f70995\"",
-  "Last-Modified": "Tue, 27 Oct 2026 11:56:05 GMT",
+  "ETag": "\"63a022a295c6da282251a8c67db9ef3928d96eea17c95a24dd4c6335ef87bdff\"",
+  "Last-Modified": "Tue, 27 Oct 2026 12:14:45 GMT",
   "base": {
     "repo": {
       "name": "ruby-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T12:14:40Z",
   "closed_by": null,
   "created_at": "2026-10-15T00:16:19Z",
   "draft": false,
   "e_tag": "\"6ec5188bff3e235ee31dad3a747664e47e66a5a2ac780b53ea15205a2fcaf2cd\"",
   "head": {
-    "ref": "rebuild-libffi37-0-1_h46a570"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ruby-feedstock/pull/167",
   "id": 4866299100,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/ruby-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-27T11:57:08.984560",
+  "last_fetched": "2026-10-27T12:16:10.439782",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T12:14:40Z",
   "number": 167,
-  "state": "open",
-  "updated_at": "2026-10-27T11:56:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T12:14:45Z"
 }

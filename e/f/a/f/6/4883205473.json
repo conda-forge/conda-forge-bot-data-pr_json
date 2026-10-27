@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7f4d8f2cd61a5c2be6cd710f064a9285a353310b5649f2c6ab4d62d378557bce\"",
-  "Last-Modified": "Fri, 16 Oct 2026 05:07:57 GMT",
+  "ETag": "\"b7bea7ecc40449dba39c52d602abd69ad66566882bc93ba21610ba92b4c0e62f\"",
+  "Last-Modified": "Tue, 27 Oct 2026 02:31:14 GMT",
   "base": {
     "repo": {
       "name": "libtasn1-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T02:31:14Z",
   "closed_by": null,
   "created_at": "2026-10-16T03:49:46Z",
   "draft": false,
   "e_tag": "\"96b945728a07fe8222748bedf21d39e749fd6be973c82cf753e8f0801d978c3e\"",
   "head": {
-    "ref": "bot-pr_arm64_win_h805fe0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libtasn1-feedstock/pull/15",
   "id": 4883205473,
   "labels": [],
-  "last_fetched": "2026-10-23T10:27:01.888162",
+  "last_fetched": "2026-10-27T02:32:31.152197",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-27T02:31:14Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-16T05:07:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T02:31:14Z"
 }

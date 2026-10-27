@@ -1,4 +1,6 @@
 {
+  "ETag": "\"b7bea68f289b6395429b63a35961abba6b56f476249a68c52fede507a26bb2c3\"",
+  "Last-Modified": "Tue, 27 Oct 2026 14:43:13 GMT",
   "base": {
     "repo": {
       "name": "virtualenv-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/virtualenv-feedstock/pull/209",
   "id": 5035108664,
-  "labels": [],
-  "last_fetched": "2026-10-27T13:56:06.637443",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891424875,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDI0ODc1",
+      "url": "https://api.github.com/repos/conda-forge/virtualenv-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T14:44:39.420771",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 209,
   "state": "open",
-  "updated_at": "2026-10-27T13:56:05Z"
+  "updated_at": "2026-10-27T14:43:13Z"
 }

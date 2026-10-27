@@ -1,27 +1,29 @@
 {
+  "ETag": "\"850e9d76cc95023b0394540588ca03e5ca6dedd115b32db326b087c05d67f5ea\"",
+  "Last-Modified": "Tue, 27 Oct 2026 01:12:32 GMT",
   "base": {
     "repo": {
       "name": "wails-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T01:12:29Z",
   "closed_by": null,
   "created_at": "2026-10-27T01:08:25Z",
   "draft": false,
   "e_tag": "\"787a8e4a08029d250b4f206de3522343d3a727aebb327f8ee4bc3dac40e53f22\"",
   "head": {
-    "ref": "3.0.0_hc7af5b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wails-feedstock/pull/14",
   "id": 5027020910,
   "labels": [],
-  "last_fetched": "2026-10-27T01:08:26.520455",
+  "last_fetched": "2026-10-27T01:13:59.471665",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T01:12:29Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-27T01:08:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T01:12:32Z"
 }

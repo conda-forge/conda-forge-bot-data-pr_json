@@ -1,29 +1,41 @@
 {
-  "ETag": "\"f0f9bb7b9bcb6a5aeaf8d6109c9836d9d671f45e5d37a12566a33a2d28b4803a\"",
-  "Last-Modified": "Tue, 27 Oct 2026 01:34:33 GMT",
+  "ETag": "\"cb5abbbff034ea3f7e93a8e7e49f12f29a37bdda02b8840d528a5e8cde8c457c\"",
+  "Last-Modified": "Tue, 27 Oct 2026 13:08:47 GMT",
   "base": {
     "repo": {
       "name": "polars-io-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T13:08:42Z",
   "closed_by": null,
   "created_at": "2026-10-27T01:33:00Z",
   "draft": false,
   "e_tag": "\"85ca2a40abd22c0baa44bf1fac013e33415de264eeb44c6e67c125582dbb7829\"",
   "head": {
-    "ref": "0.2.6_hdbad55"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/polars-io-tools-feedstock/pull/24",
   "id": 5027213136,
-  "labels": [],
-  "last_fetched": "2026-10-27T02:34:00.534183",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11366984727,
+      "name": "automerge",
+      "node_id": "LA_kwDOTIUExc8AAAACpYZsFw",
+      "url": "https://api.github.com/repos/conda-forge/polars-io-tools-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T13:09:44.246386",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-27T13:08:42Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-27T01:34:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T13:08:47Z"
 }

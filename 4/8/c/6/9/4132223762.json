@@ -1,12 +1,13 @@
 {
-  "ETag": "\"1e97077e83a97c04f130354d9609ffab709c2dfee5b278e3c6261b0543bb0f5a\"",
-  "Last-Modified": "Sat, 25 Jul 2026 11:41:49 GMT",
+  "ETag": "\"5ff20673075c0b71f8222ff4e07c788ec68dc23bb7f6ffa50ac24e36e38e345d\"",
+  "Last-Modified": "Tue, 27 Oct 2026 20:20:25 GMT",
   "base": {
     "repo": {
       "name": "exoplanet-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T20:20:25Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-07-25T11:40:07Z",
   "draft": false,
   "e_tag": "\"6b1586ad4cf58d302935ce79e68b7215c8327aac1d94cff4d6a14cd9b2760ec4\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/exoplanet-core-feedstock/pull/20",
   "id": 4132223762,
   "labels": [],
-  "last_fetched": "2026-10-20T18:51:14.667304",
+  "last_fetched": "2026-10-27T20:21:55.195701",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-07-25T11:41:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T20:20:25Z"
 }

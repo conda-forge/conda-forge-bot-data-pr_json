@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dbe36518889626200689b4aa6cb0d1cc597f5f8307658e71d62259162f1c4e14\"",
+  "Last-Modified": "Tue, 27 Oct 2026 05:52:42 GMT",
   "base": {
     "repo": {
       "name": "headroom-ai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T05:52:42Z",
   "closed_by": null,
   "created_at": "2026-10-27T05:00:15Z",
   "draft": false,
   "e_tag": "\"4271d2fd32f24699048f15f0ca27e65a1c086d0d399540a5e613fb92c44a37ca\"",
   "head": {
-    "ref": "0.42.0_hbf20d3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/headroom-ai-feedstock/pull/15",
   "id": 5028824539,
   "labels": [],
-  "last_fetched": "2026-10-27T05:00:16.506881",
+  "last_fetched": "2026-10-27T05:53:53.083627",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T05:52:42Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-27T05:00:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T05:52:42Z"
 }

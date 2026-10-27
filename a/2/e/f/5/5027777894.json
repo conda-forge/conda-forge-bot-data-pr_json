@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c123339cf33d4757be66a6d61210211cc068dedda2ba332380d47a719797d693\"",
-  "Last-Modified": "Tue, 27 Oct 2026 02:46:04 GMT",
+  "ETag": "\"8fcbb1e84a6e43ad5a8ca1559b9d5177837e025f1c0debad31af1e2c9b8bdbec\"",
+  "Last-Modified": "Tue, 27 Oct 2026 08:36:15 GMT",
   "base": {
     "repo": {
       "name": "lsstdesc-ceci-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T08:36:15Z",
   "closed_by": null,
   "created_at": "2026-10-27T02:44:33Z",
   "draft": false,
   "e_tag": "\"5431ffa7fa5c6b86fa49efa5d281570a2efbfc9528f3342a53e48241ba9c762c\"",
   "head": {
-    "ref": "2.7_h28845a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lsstdesc-ceci-feedstock/pull/14",
   "id": 5027777894,
   "labels": [],
-  "last_fetched": "2026-10-27T05:51:31.156101",
+  "last_fetched": "2026-10-27T08:37:53.898389",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-27T08:36:15Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-10-27T02:46:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T08:36:15Z"
 }

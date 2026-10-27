@@ -1,28 +1,28 @@
 {
-  "ETag": "\"bb45f28a2cd5672635a9638d75ce769d883c3afefc3378f445360b0a131b82e4\"",
-  "Last-Modified": "Mon, 26 Oct 2026 19:26:57 GMT",
+  "ETag": "\"da8b046f3e0d3b0157c09e803a9ab718e760fab04062c4e74931e0c742681995\"",
+  "Last-Modified": "Tue, 27 Oct 2026 08:03:59 GMT",
   "base": {
     "repo": {
       "name": "poppler-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T08:03:59Z",
   "created_at": "2026-10-05T00:12:22Z",
   "draft": false,
   "e_tag": "\"8fc62e78e849d9106d03c63378a0e68116c2eaaaf691e1023cd3ee3af0c9f1ac\"",
   "head": {
-    "ref": "26.10.0_hefa1b3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/poppler-feedstock/pull/191",
   "id": 4738655661,
   "labels": [],
-  "last_fetched": "2026-10-26T20:48:19.096098",
+  "last_fetched": "2026-10-27T08:05:11.885802",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T08:03:59Z",
   "number": 191,
-  "state": "open",
-  "updated_at": "2026-10-26T19:26:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T08:03:59Z"
 }

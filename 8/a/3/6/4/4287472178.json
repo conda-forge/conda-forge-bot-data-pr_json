@@ -1,5 +1,5 @@
 {
-  "ETag": "\"49c7e5a71de9c80cad4b52d4b843a716958a17b1585e2b53fd9b4ac936d2bb2e\"",
+  "ETag": "W/\"625f82df2f8d111acd31e8660854f59d4f3977432782754a78f3b89b7152fd21\"",
   "Last-Modified": "Tue, 27 Oct 2026 07:10:37 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/vega-cli-feedstock/pull/49",
   "id": 4287472178,
-  "labels": [],
-  "last_fetched": "2026-10-27T07:12:16.558967",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-27T07:10:39.540038",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

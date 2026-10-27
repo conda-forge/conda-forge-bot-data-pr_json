@@ -1,27 +1,29 @@
 {
+  "ETag": "\"45a24f8a207cc38fd00acded85a0690d7ec281caf70425652d10ad49ee5e81c1\"",
+  "Last-Modified": "Tue, 27 Oct 2026 21:42:50 GMT",
   "base": {
     "repo": {
       "name": "narwhals-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T21:42:46Z",
   "closed_by": null,
   "created_at": "2026-10-27T21:41:02Z",
   "draft": false,
   "e_tag": "\"a559e426d6c174537c1ff2dbaf4f2ccb7963caf88943c5132e6f28d19260a64a\"",
   "head": {
-    "ref": "2.28.0_h0bae40"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/narwhals-feedstock/pull/201",
   "id": 5041547084,
   "labels": [],
-  "last_fetched": "2026-10-27T21:41:03.086493",
+  "last_fetched": "2026-10-27T21:43:50.347681",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T21:42:45Z",
   "number": 201,
-  "state": "open",
-  "updated_at": "2026-10-27T21:41:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T21:42:50Z"
 }

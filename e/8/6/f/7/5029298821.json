@@ -1,27 +1,29 @@
 {
+  "ETag": "\"012114ff19004b4784eda6d868fc780972be36383aec9f3b58040edf44bdadd5\"",
+  "Last-Modified": "Tue, 27 Oct 2026 06:04:48 GMT",
   "base": {
     "repo": {
       "name": "libzeep-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T06:04:47Z",
   "closed_by": null,
   "created_at": "2026-10-27T05:52:20Z",
   "draft": false,
   "e_tag": "\"e94fcdfd6cfae89db6306c9b827b68e6ece330982570ed99b703462a661bfe3c\"",
   "head": {
-    "ref": "8.4.2_hb13ea5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libzeep-feedstock/pull/21",
   "id": 5029298821,
   "labels": [],
-  "last_fetched": "2026-10-27T05:52:21.169544",
+  "last_fetched": "2026-10-27T06:06:19.550470",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T06:04:47Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-27T05:52:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T06:04:52Z"
 }

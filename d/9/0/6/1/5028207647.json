@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b8c3fbc88d10f07f3a61329c109a685a46a62529db0d924381e0fdc18d200e65\"",
+  "Last-Modified": "Tue, 27 Oct 2026 04:34:46 GMT",
   "base": {
     "repo": {
       "name": "filament-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T04:34:46Z",
   "closed_by": null,
   "created_at": "2026-10-27T03:39:57Z",
   "draft": false,
   "e_tag": "\"ccd5ce0e6445a6594d054bf8f1456d5bb11a2c6c7e975c64e1a20ab01a22b3a9\"",
   "head": {
-    "ref": "1.79.0_h2916f2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/filament-feedstock/pull/27",
   "id": 5028207647,
   "labels": [],
-  "last_fetched": "2026-10-27T03:39:58.166944",
+  "last_fetched": "2026-10-27T04:36:25.561559",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T04:34:46Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-27T03:39:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T04:34:51Z"
 }

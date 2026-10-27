@@ -1,13 +1,13 @@
 {
-  "ETag": "\"a272bd0f0e3c92e845c71ea83120ca433bc09707b4dc20f5c764694c0cdb9b39\"",
-  "Last-Modified": "Tue, 27 Oct 2026 03:31:15 GMT",
+  "ETag": "W/\"172cc60fedf8eb270677dc2ebde303b220229c05400bc250a579472a9330389e\"",
+  "Last-Modified": "Tue, 27 Oct 2026 18:59:40 GMT",
   "base": {
     "repo": {
       "name": "herepy-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-27T18:59:37Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-27T03:29:49Z",
   "draft": false,
   "e_tag": "\"327251172e847c0ff0e0eb5bb2be2a9ee6e2caffaeb56ba9b5f39a098a00808c\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/herepy-feedstock/pull/18",
   "id": 5028131004,
-  "labels": [],
-  "last_fetched": "2026-10-27T07:44:27.822788",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 2751203926,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwyNzUxMjAzOTI2",
+      "url": "https://api.github.com/repos/conda-forge/herepy-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-27T18:59:41.517705",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-10-27T03:31:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T18:59:40Z"
 }

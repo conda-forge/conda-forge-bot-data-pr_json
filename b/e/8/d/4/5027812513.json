@@ -1,27 +1,29 @@
 {
+  "ETag": "\"aca5a784141f3b0ffeee7ce0ea610a7cf525ff862950aa1068be64b768c6fd21\"",
+  "Last-Modified": "Tue, 27 Oct 2026 02:53:12 GMT",
   "base": {
     "repo": {
       "name": "jacoco-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T02:53:08Z",
   "closed_by": null,
   "created_at": "2026-10-27T02:49:00Z",
   "draft": false,
   "e_tag": "\"2219d7c59aacc72c7c3890f934996473283251889d5e233a00fe3df989b04cdd\"",
   "head": {
-    "ref": "0.8.16_hcace2e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jacoco-feedstock/pull/6",
   "id": 5027812513,
   "labels": [],
-  "last_fetched": "2026-10-27T02:49:01.732677",
+  "last_fetched": "2026-10-27T02:54:36.112722",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T02:53:08Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-27T02:49:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T02:53:12Z"
 }

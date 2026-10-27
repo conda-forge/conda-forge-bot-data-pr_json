@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6f3c22f36178b5676f37e73e00fa54af8ad43e9d5e3836de3285930aee1c11c0\"",
-  "Last-Modified": "Tue, 27 Oct 2026 08:31:53 GMT",
+  "ETag": "\"1f030b4e1c78b2736c851f37145f3c4f8350e0134526f50345e215eac003546f\"",
+  "Last-Modified": "Tue, 27 Oct 2026 12:13:56 GMT",
   "base": {
     "repo": {
       "name": "aws-c-s3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T12:13:56Z",
   "closed_by": null,
   "created_at": "2026-10-27T08:30:33Z",
   "draft": false,
   "e_tag": "\"1d8e7a0ebdd933c56ccc192573ea25844e001b27eb176c09a6bd1bed4f506a87\"",
   "head": {
-    "ref": "rebuild-aws_c_io11-0-1_h036613"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-c-s3-feedstock/pull/486",
   "id": 5030875196,
   "labels": [],
-  "last_fetched": "2026-10-27T10:01:49.802323",
+  "last_fetched": "2026-10-27T12:15:03.070854",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-27T12:13:56Z",
   "number": 486,
-  "state": "open",
-  "updated_at": "2026-10-27T08:31:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T12:13:56Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"0c3e3c31809ff4ad64c37021a03bce1326303442ff13ca72194710150703aeb1\"",
-  "Last-Modified": "Mon, 26 Oct 2026 22:38:42 GMT",
+  "ETag": "\"a1a538e9dd3238a758687d1b524ac5ab4bd6ce6092c1052f055b02c5b52b70c6\"",
+  "Last-Modified": "Tue, 27 Oct 2026 12:25:39 GMT",
   "base": {
     "repo": {
       "name": "py-maidr-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/py-maidr-feedstock/pull/26",
   "id": 5025697372,
-  "labels": [],
-  "last_fetched": "2026-10-26T22:47:54.132293",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9792441674,
+      "name": "automerge",
+      "node_id": "LA_kwDOQk4_Mc8AAAACR6zNSg",
+      "url": "https://api.github.com/repos/conda-forge/py-maidr-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T12:27:05.830069",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 26,
   "state": "open",
-  "updated_at": "2026-10-26T22:38:42Z"
+  "updated_at": "2026-10-27T12:25:39Z"
 }

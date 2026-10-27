@@ -1,4 +1,6 @@
 {
+  "ETag": "\"3e949004ba1fc149490dbe9176dfc1cbdefc179c1c1004d06ddf0eea03e1a4fc\"",
+  "Last-Modified": "Tue, 27 Oct 2026 16:09:09 GMT",
   "base": {
     "repo": {
       "name": "gh-aw-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/gh-aw-feedstock/pull/1",
   "id": 5037132387,
-  "labels": [],
-  "last_fetched": "2026-10-27T16:05:14.195811",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12855446988,
+      "name": "automerge",
+      "node_id": "LA_kwDOVZOhNc8AAAAC_j6NzA",
+      "url": "https://api.github.com/repos/conda-forge/gh-aw-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T16:10:36.842888",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 1,
   "state": "open",
-  "updated_at": "2026-10-27T16:05:13Z"
+  "updated_at": "2026-10-27T16:09:09Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bb17a687739641ba94a5410511456098fbe19c5b189e56cab2fe3d92683374f0\"",
+  "Last-Modified": "Tue, 27 Oct 2026 08:49:21 GMT",
   "base": {
     "repo": {
       "name": "phonenumbers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T08:49:19Z",
   "closed_by": null,
   "created_at": "2026-10-27T08:47:15Z",
   "draft": false,
   "e_tag": "\"a0920c94c0046c6b1bae8ef322f4b4e6c881aecb8e5e755c3c67f18abf31244d\"",
   "head": {
-    "ref": "9.0.42_hbbc6a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phonenumbers-feedstock/pull/190",
   "id": 5031082980,
   "labels": [],
-  "last_fetched": "2026-10-27T08:47:16.341575",
+  "last_fetched": "2026-10-27T08:50:33.804252",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T08:49:19Z",
   "number": 190,
-  "state": "open",
-  "updated_at": "2026-10-27T08:47:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T08:49:21Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9b1b91eae164846428c4c387176fd12ea8d89d8bc71789413ac5f57527646503\"",
+  "Last-Modified": "Tue, 27 Oct 2026 18:32:16 GMT",
   "base": {
     "repo": {
       "name": "gaspype-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T18:32:15Z",
   "closed_by": null,
   "created_at": "2026-10-27T17:18:26Z",
   "draft": false,
   "e_tag": "\"2b75363175a87dcf14002b9847ff0f68ad488c7f972d90e76f32fc90ba7346a4\"",
   "head": {
-    "ref": "1.1.7_ha7391b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gaspype-feedstock/pull/8",
   "id": 5038177042,
   "labels": [],
-  "last_fetched": "2026-10-27T17:18:27.537425",
+  "last_fetched": "2026-10-27T18:33:51.080514",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T18:32:15Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-27T17:18:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T18:32:16Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e8db35062ff8fa66a80afaa0efd985cfe24bea87f112cd80371ad9b992c313b7\"",
-  "Last-Modified": "Mon, 26 Oct 2026 23:26:14 GMT",
+  "ETag": "\"a2b3283496561674bcb8a47fdb6e270f54ffe68b7bc0c2dc19da5eac45ee871d\"",
+  "Last-Modified": "Tue, 27 Oct 2026 01:47:46 GMT",
   "base": {
     "repo": {
       "name": "pyafv-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyafv-feedstock/pull/16",
   "id": 5026155258,
-  "labels": [],
-  "last_fetched": "2026-10-26T23:35:07.960579",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "a2eeef",
+      "default": true,
+      "description": "New feature or request",
+      "id": 10418244414,
+      "name": "enhancement",
+      "node_id": "LA_kwDORmDSuc8AAAACbPnLPg",
+      "url": "https://api.github.com/repos/conda-forge/pyafv-feedstock/labels/enhancement"
+    }
+  ],
+  "last_fetched": "2026-10-27T01:49:01.761514",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 16,
   "state": "open",
-  "updated_at": "2026-10-26T23:26:14Z"
+  "updated_at": "2026-10-27T01:47:46Z"
 }

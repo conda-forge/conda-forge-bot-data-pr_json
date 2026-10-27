@@ -1,12 +1,13 @@
 {
-  "ETag": "\"6ce8373ecfa9bf3493ec97f9e90dfa26581f019b1ff6e71e1e3a89cbd3da92a0\"",
-  "Last-Modified": "Mon, 28 Sep 2026 11:57:23 GMT",
+  "ETag": "\"b496f4c6d78784c20c46632aca451f8c4294c981df549a09415b4814adf4aeb4\"",
+  "Last-Modified": "Tue, 27 Oct 2026 03:32:13 GMT",
   "base": {
     "repo": {
       "name": "reference-handler-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T03:32:13Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-28T11:55:35Z",
   "draft": false,
   "e_tag": "\"36cfd9a68b9a8baa07fe3057e654322db7da054a65621758e61efe3bc753644a\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/reference-handler-feedstock/pull/5",
   "id": 4663288779,
   "labels": [],
-  "last_fetched": "2026-10-20T03:28:18.551109",
+  "last_fetched": "2026-10-27T03:33:46.879727",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-09-28T11:57:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T03:32:13Z"
 }

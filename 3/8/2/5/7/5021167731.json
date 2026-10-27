@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1a9f4c0121896c0595ddb3f30db7b738861a15fb20fe8d1535435225b8e72daf\"",
-  "Last-Modified": "Mon, 26 Oct 2026 16:46:42 GMT",
+  "ETag": "\"f4d3355061c2af05f8e2f05316adfd8d6194da0653078f7e64375a1aa228a6d8\"",
+  "Last-Modified": "Tue, 27 Oct 2026 05:08:41 GMT",
   "base": {
     "repo": {
       "name": "ijar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T05:08:40Z",
   "closed_by": null,
   "created_at": "2026-10-26T16:42:01Z",
   "draft": false,
   "e_tag": "\"5fbad41dfdd9ffc883fbec8434c6947afb628938050e8402e38efef484139c7b\"",
   "head": {
-    "ref": "9.3.1_h7c64fd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ijar-feedstock/pull/66",
   "id": 5021167731,
   "labels": [],
-  "last_fetched": "2026-10-26T22:47:33.425384",
+  "last_fetched": "2026-10-27T05:09:48.372595",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T05:08:40Z",
   "number": 66,
-  "state": "open",
-  "updated_at": "2026-10-26T16:46:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T05:08:41Z"
 }

@@ -1,13 +1,13 @@
 {
-  "ETag": "\"693d5eec5974c7acac13e7a6ea3c05c22ed3303fd906bbd18471ba740a274f92\"",
-  "Last-Modified": "Fri, 16 Oct 2026 20:31:34 GMT",
+  "ETag": "W/\"167cf64a80486e2f0c460ea34193778f718d35274bd1d28ac2fa67eb4f487cbc\"",
+  "Last-Modified": "Tue, 27 Oct 2026 08:56:14 GMT",
   "base": {
     "repo": {
       "name": "netron-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-27T08:56:12Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-16T20:29:52Z",
   "draft": false,
   "e_tag": "\"05aa01a5d5fd4f7b1a4fc003fcbbad5eceb7027ac4f774d357496c6da4743403\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/netron-feedstock/pull/54",
   "id": 4893912270,
-  "labels": [],
-  "last_fetched": "2026-10-23T22:59:59.807005",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 9705505257,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOQb1n1s8AAAACQn5B6Q",
+      "url": "https://api.github.com/repos/conda-forge/netron-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-27T08:56:15.550766",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-16T20:31:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T08:56:14Z"
 }

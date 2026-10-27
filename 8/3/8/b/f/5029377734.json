@@ -1,4 +1,6 @@
 {
+  "ETag": "\"0a03a2a332dfbdcb40217e6a7768a8a82ae1b67709fb80b2731b22bed6eba157\"",
+  "Last-Modified": "Tue, 27 Oct 2026 06:40:24 GMT",
   "base": {
     "repo": {
       "name": "sccache-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/sccache-feedstock/pull/67",
   "id": 5029377734,
-  "labels": [],
-  "last_fetched": "2026-10-27T06:01:16.794433",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891336007,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzM2MDA3",
+      "url": "https://api.github.com/repos/conda-forge/sccache-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T06:41:50.098246",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 67,
   "state": "open",
-  "updated_at": "2026-10-27T06:01:15Z"
+  "updated_at": "2026-10-27T06:40:24Z"
 }

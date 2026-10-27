@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2d8b8f1e9a40458b6db0dc1de29831507665e0165797ccc0ac60d27f45c61f72\"",
+  "Last-Modified": "Tue, 27 Oct 2026 02:53:20 GMT",
   "base": {
     "repo": {
       "name": "launchdarkly-server-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T02:53:16Z",
   "closed_by": null,
   "created_at": "2026-10-27T02:50:09Z",
   "draft": false,
   "e_tag": "\"db713ed50aa5e33293e58e13ea75e4563d37f9851b457ae1fb064ba74a14ad09\"",
   "head": {
-    "ref": "9.18.4_h04bae8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/launchdarkly-server-sdk-feedstock/pull/48",
   "id": 5027821216,
   "labels": [],
-  "last_fetched": "2026-10-27T02:50:10.012427",
+  "last_fetched": "2026-10-27T02:54:22.022253",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T02:53:16Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-27T02:50:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T02:53:20Z"
 }

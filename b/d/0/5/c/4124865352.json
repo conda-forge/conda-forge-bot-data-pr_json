@@ -1,5 +1,5 @@
 {
-  "ETag": "\"2c4bd18309825ae0d64c47b372c3197ace4c7fad3a3490b0ffc654f852a8592e\"",
+  "ETag": "W/\"971db63e22fe3ece85d3b251862283bd52f3230ffdfb3a0d16a43c4722b3627e\"",
   "Last-Modified": "Tue, 27 Oct 2026 07:44:22 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/odrpack-feedstock/pull/11",
   "id": 4124865352,
-  "labels": [],
-  "last_fetched": "2026-10-27T07:45:55.778119",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-27T07:44:24.909951",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

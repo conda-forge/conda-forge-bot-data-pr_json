@@ -1,29 +1,29 @@
 {
-  "ETag": "\"12dea7695379ac5ecb9b66a39f03d4bd2de5302acc2f9172a3505be5f5d746fc\"",
-  "Last-Modified": "Tue, 27 Oct 2026 03:58:29 GMT",
+  "ETag": "\"8c9146b8a20d2ddacde3e01c09004736387e35734b8f227970125bf5715992b9\"",
+  "Last-Modified": "Tue, 27 Oct 2026 14:40:33 GMT",
   "base": {
     "repo": {
       "name": "openvdb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T14:40:32Z",
   "closed_by": null,
   "created_at": "2026-10-27T03:56:34Z",
   "draft": false,
   "e_tag": "\"766cb853d0768fa9ec6d5104efcabc1cbdb146b2cd0ed14bce9b34a1a0595d17\"",
   "head": {
-    "ref": "13.2.0_h6fa962"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openvdb-feedstock/pull/52",
   "id": 5028332562,
   "labels": [],
-  "last_fetched": "2026-10-27T05:03:50.810725",
+  "last_fetched": "2026-10-27T14:41:41.489995",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-27T14:40:32Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-10-27T03:58:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T14:40:33Z"
 }

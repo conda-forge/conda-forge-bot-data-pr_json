@@ -1,6 +1,6 @@
 {
-  "ETag": "\"2775e169a4f7eafc5eae32c4a93f97f7e0edd4083774c4b37bd81558020a5187\"",
-  "Last-Modified": "Tue, 27 Oct 2026 04:47:47 GMT",
+  "ETag": "\"cc801b70712fc398fa968693665523b21e613acc4372d8dd831aa99241e8f94c\"",
+  "Last-Modified": "Tue, 27 Oct 2026 07:13:12 GMT",
   "base": {
     "repo": {
       "name": "e3sm-tools-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/e3sm-tools-feedstock/pull/13",
   "id": 5028709668,
-  "labels": [],
-  "last_fetched": "2026-10-27T06:39:53.767738",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7390955703,
+      "name": "automerge",
+      "node_id": "LA_kwDOMp6n3s8AAAABuIkItw",
+      "url": "https://api.github.com/repos/conda-forge/e3sm-tools-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T07:14:45.923733",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 13,
   "state": "open",
-  "updated_at": "2026-10-27T04:47:47Z"
+  "updated_at": "2026-10-27T07:13:12Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"7f504476fdaf29dbbf46bb9fa7a707d8a860bc732a0e7975094c8bddc866ed33\"",
+  "ETag": "W/\"67ec0d74f61c10822d2687eda98502dead4cbc191d163eef248f7942582f66df\"",
   "Last-Modified": "Tue, 27 Oct 2026 10:50:20 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/celerite2-feedstock/pull/21",
   "id": 4040377717,
-  "labels": [],
-  "last_fetched": "2026-10-27T10:51:55.205616",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-27T10:50:23.325330",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

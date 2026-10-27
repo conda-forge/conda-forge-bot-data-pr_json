@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ad53dd73ee0661ac7bfed2957c47b21a190eebcd0041230a6ef5c4774137285b\"",
-  "Last-Modified": "Tue, 27 Oct 2026 04:01:54 GMT",
+  "ETag": "\"27915f88a966816390a0e77240647e081d0dfd2aade17159d8b858de481f3e3c\"",
+  "Last-Modified": "Tue, 27 Oct 2026 04:15:05 GMT",
   "base": {
     "repo": {
       "name": "dulwich-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T04:15:00Z",
   "closed_by": null,
   "created_at": "2026-10-27T04:00:18Z",
   "draft": false,
   "e_tag": "\"f2c68ad1f374479f83b5a7618979014d96a43cd500b84ce71b14353b8e91a25c\"",
   "head": {
-    "ref": "1.2.20_hc40989"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dulwich-feedstock/pull/136",
   "id": 5028360495,
   "labels": [],
-  "last_fetched": "2026-10-27T04:04:08.707500",
+  "last_fetched": "2026-10-27T04:16:29.408415",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T04:15:00Z",
   "number": 136,
-  "state": "open",
-  "updated_at": "2026-10-27T04:01:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T04:15:05Z"
 }

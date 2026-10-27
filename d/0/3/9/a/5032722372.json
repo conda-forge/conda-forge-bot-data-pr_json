@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cc4bab581194d15a33ff6a4bd403fbd978bb4684a73c5b0755f23076fd236678\"",
+  "Last-Modified": "Tue, 27 Oct 2026 11:13:22 GMT",
   "base": {
     "repo": {
       "name": "endf-parserpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T11:13:18Z",
   "closed_by": null,
   "created_at": "2026-10-27T10:56:38Z",
   "draft": false,
   "e_tag": "\"57da8acb72705b5caa2ec9c187646492240758b48044f89d26254b15bd6ada30\"",
   "head": {
-    "ref": "0.18.0_h5864af"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/endf-parserpy-feedstock/pull/21",
   "id": 5032722372,
   "labels": [],
-  "last_fetched": "2026-10-27T10:56:39.767291",
+  "last_fetched": "2026-10-27T11:14:49.822417",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T11:13:17Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-27T10:56:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T11:13:22Z"
 }

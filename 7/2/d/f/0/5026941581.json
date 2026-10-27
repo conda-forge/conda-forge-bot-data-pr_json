@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1bba6a935381874a4ce72b99d7a26e8ed7f208862b6f61f72dd991995c55f86e\"",
+  "Last-Modified": "Tue, 27 Oct 2026 01:11:47 GMT",
   "base": {
     "repo": {
       "name": "cargo-nextest-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T01:11:46Z",
   "closed_by": null,
   "created_at": "2026-10-27T00:58:24Z",
   "draft": false,
   "e_tag": "\"a0760c4556fd41dd0d662fe701dab4d02eaf85fc1203a5346bda77c9b63f1c5a\"",
   "head": {
-    "ref": "0.9.150_hc21cdb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cargo-nextest-feedstock/pull/44",
   "id": 5026941581,
   "labels": [],
-  "last_fetched": "2026-10-27T00:58:25.278477",
+  "last_fetched": "2026-10-27T01:13:21.657758",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T01:11:46Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-27T00:58:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T01:11:51Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ffb933718e07f4e28feb40c94fc438d6cd4300d39c2ac21049c4dcb0d14d9be1\"",
-  "Last-Modified": "Tue, 27 Oct 2026 06:01:58 GMT",
+  "ETag": "\"83b97cc5a0f248025b6846fc981ce035e3cca555a82e03147c820b0179e65ba4\"",
+  "Last-Modified": "Tue, 27 Oct 2026 06:47:57 GMT",
   "base": {
     "repo": {
       "name": "bcrypt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T06:47:56Z",
   "closed_by": null,
   "created_at": "2026-10-27T03:07:06Z",
   "draft": false,
   "e_tag": "\"f16969179eefc7290c676bade2a187185957fb4dd1465e77f4fcceeffcae9004\"",
   "head": {
-    "ref": "bot-pr_riscv64_h2f553f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bcrypt-feedstock/pull/44",
   "id": 5027953784,
   "labels": [],
-  "last_fetched": "2026-10-27T06:02:27.745429",
+  "last_fetched": "2026-10-27T06:49:26.519448",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T06:47:56Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-27T06:01:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T06:47:57Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2e36d01ff73c181b71e7694312a32de4da6183da12c7e8ce2129df1a4a449607\"",
+  "Last-Modified": "Tue, 27 Oct 2026 14:59:34 GMT",
   "base": {
     "repo": {
       "name": "inspect-ai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T14:59:30Z",
   "closed_by": null,
   "created_at": "2026-10-27T14:57:11Z",
   "draft": false,
   "e_tag": "\"1c01e79d202221526886dd9577537414fb08cae02c7792e9d0b82a6a8a58799d\"",
   "head": {
-    "ref": "0.3.285_h72bad9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/inspect-ai-feedstock/pull/22",
   "id": 5036076708,
   "labels": [],
-  "last_fetched": "2026-10-27T14:57:12.222944",
+  "last_fetched": "2026-10-27T15:00:39.052681",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T14:59:30Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-27T14:57:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T14:59:34Z"
 }

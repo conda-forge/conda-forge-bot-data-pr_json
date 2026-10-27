@@ -1,4 +1,6 @@
 {
+  "ETag": "\"f58ca637ed7b49f6be03828a0cbc575ef7fd55b6b8f8af969e965e5cca0cd099\"",
+  "Last-Modified": "Tue, 27 Oct 2026 18:52:57 GMT",
   "base": {
     "repo": {
       "name": "dailyerosion-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/dailyerosion-feedstock/pull/4",
   "id": 5039357577,
-  "labels": [],
-  "last_fetched": "2026-10-27T18:48:22.181048",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10196916467,
+      "name": "automerge",
+      "node_id": "LA_kwDORPDtoc8AAAACX8iY8w",
+      "url": "https://api.github.com/repos/conda-forge/dailyerosion-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T18:53:22.452886",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 4,
   "state": "open",
-  "updated_at": "2026-10-27T18:48:21Z"
+  "updated_at": "2026-10-27T18:52:57Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"190da8cf266c64ebd4e0c69e50560cfe62e33b0cbcd8e1eadb19ff1831da434a\"",
+  "ETag": "W/\"f0dc9e6f63e60b5d16c94205479b1e6245bfb0cfbd2c41c59b61a7e9b044067b\"",
   "Last-Modified": "Tue, 27 Oct 2026 18:21:01 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/podman-feedstock/pull/112",
   "id": 4836602140,
-  "labels": [],
-  "last_fetched": "2026-10-27T18:22:40.964135",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-27T18:21:04.272834",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

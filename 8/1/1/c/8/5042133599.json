@@ -1,4 +1,6 @@
 {
+  "ETag": "\"499fb519958d96b3264ad152adef2b3d4ab9187da6fa1c8eabdfc7a5a55911c9\"",
+  "Last-Modified": "Tue, 27 Oct 2026 23:30:17 GMT",
   "base": {
     "repo": {
       "name": "hypothesis-jsonschema-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/hypothesis-jsonschema-feedstock/pull/40",
   "id": 5042133599,
-  "labels": [],
-  "last_fetched": "2026-10-27T22:35:10.420517",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890943683,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTQzNjgz",
+      "url": "https://api.github.com/repos/conda-forge/hypothesis-jsonschema-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T23:31:03.617498",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 40,
   "state": "open",
-  "updated_at": "2026-10-27T22:35:09Z"
+  "updated_at": "2026-10-27T23:31:02Z"
 }

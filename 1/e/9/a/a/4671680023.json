@@ -1,28 +1,28 @@
 {
-  "ETag": "\"5a165c2f0668eec0a4e986e04adf68e852bc88c90a8d1c4db3416456249a446d\"",
-  "Last-Modified": "Thu, 15 Oct 2026 16:04:21 GMT",
+  "ETag": "\"671a771b4b4b170d21fbaec7a676a49a3c2bd282072d8966bbc809bb72b7ed01\"",
+  "Last-Modified": "Tue, 27 Oct 2026 13:42:31 GMT",
   "base": {
     "repo": {
       "name": "pvxs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T13:42:31Z",
   "created_at": "2026-09-29T02:20:20Z",
   "draft": false,
   "e_tag": "\"2a3cf590ca3702355001d224d43dde8016c8de58978d0f3e0e483debaeba7122\"",
   "head": {
-    "ref": "1.5.3_h95a82b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pvxs-feedstock/pull/25",
   "id": 4671680023,
   "labels": [],
-  "last_fetched": "2026-10-22T20:49:26.824820",
+  "last_fetched": "2026-10-27T13:44:07.445414",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-27T13:42:31Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-10-15T16:04:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T13:42:31Z"
 }

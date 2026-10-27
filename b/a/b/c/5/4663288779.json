@@ -1,5 +1,5 @@
 {
-  "ETag": "\"b496f4c6d78784c20c46632aca451f8c4294c981df549a09415b4814adf4aeb4\"",
+  "ETag": "W/\"252a1ca944df491caa84c833d4d745c6be0e15d55f9688d2d7c82f729787a6a9\"",
   "Last-Modified": "Tue, 27 Oct 2026 03:32:13 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/reference-handler-feedstock/pull/5",
   "id": 4663288779,
-  "labels": [],
-  "last_fetched": "2026-10-27T03:33:46.879727",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-27T03:32:15.592257",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

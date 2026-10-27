@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9b141ed2633287506b4ad6702288c96795e640e82729cae7aa2dc56e5553a87e\"",
-  "Last-Modified": "Tue, 27 Oct 2026 01:09:00 GMT",
+  "ETag": "\"14a94fc34b7517116d39038e4a3ef492908e575253ce8add77fad07902eaa56c\"",
+  "Last-Modified": "Tue, 27 Oct 2026 05:36:17 GMT",
   "base": {
     "repo": {
       "name": "ada-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T05:36:17Z",
   "closed_by": null,
   "created_at": "2026-10-27T01:07:37Z",
   "draft": false,
   "e_tag": "\"2f4bff7d10d087fa6b849a2aaa71925cf40f7696b1686607bbb0097cadf0b04b\"",
   "head": {
-    "ref": "0.120.0_hedca40"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ada-py-feedstock/pull/279",
   "id": 5027014423,
   "labels": [],
-  "last_fetched": "2026-10-27T05:03:28.414155",
+  "last_fetched": "2026-10-27T05:37:51.306453",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-27T05:36:17Z",
   "number": 279,
-  "state": "open",
-  "updated_at": "2026-10-27T01:09:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T05:36:17Z"
 }

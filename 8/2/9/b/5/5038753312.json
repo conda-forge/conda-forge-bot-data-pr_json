@@ -1,27 +1,29 @@
 {
+  "ETag": "\"52b05a06c7b9d55954c91bd602fc047506ad0ca3ec5efdab61ab361461ba2af2\"",
+  "Last-Modified": "Tue, 27 Oct 2026 18:03:52 GMT",
   "base": {
     "repo": {
       "name": "sqlframe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T18:03:46Z",
   "closed_by": null,
   "created_at": "2026-10-27T18:01:54Z",
   "draft": false,
   "e_tag": "\"fcb6fc5ffc175e9affac2002667e8586aced323022e6562df748e6e9a184bc3d\"",
   "head": {
-    "ref": "4.9.0_hba3872"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sqlframe-feedstock/pull/72",
   "id": 5038753312,
   "labels": [],
-  "last_fetched": "2026-10-27T18:01:55.341654",
+  "last_fetched": "2026-10-27T18:05:26.541651",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T18:03:46Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-10-27T18:01:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T18:03:52Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"85ab6f433a64030bb71033a24d66447ef785c753743d4f9827e76b6675055c29\"",
-  "Last-Modified": "Tue, 27 Oct 2026 12:03:23 GMT",
+  "ETag": "\"66c20cf8611d0d07e326e168d54050c4759bee5967db44b85f9b063d88972a3f\"",
+  "Last-Modified": "Tue, 27 Oct 2026 12:05:20 GMT",
   "base": {
     "repo": {
       "name": "python-discovery-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T12:05:16Z",
   "closed_by": null,
   "created_at": "2026-10-27T08:18:35Z",
   "draft": false,
   "e_tag": "\"0e4821f26b523b3ca740c960ccb9e9c64d9a37e3cebd8f8aa13b34c3712a774a\"",
   "head": {
-    "ref": "1.6.5_h5253d3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-discovery-feedstock/pull/23",
   "id": 5030739796,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/python-discovery-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-27T12:04:54.510878",
+  "last_fetched": "2026-10-27T12:06:47.711875",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T12:05:16Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-27T12:03:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T12:05:20Z"
 }

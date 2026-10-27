@@ -1,18 +1,18 @@
 {
-  "ETag": "\"7624b6fbc25333b40b836cef38aa2590c9278757781c23c41b3dc03807697941\"",
-  "Last-Modified": "Tue, 27 Oct 2026 19:27:38 GMT",
+  "ETag": "\"e8b5d4274a90e26c25db096cf9bf7089e61821217fa8d94a3b9e005aa37a0aa0\"",
+  "Last-Modified": "Tue, 27 Oct 2026 19:34:31 GMT",
   "base": {
     "repo": {
       "name": "css_inline-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T19:34:27Z",
   "closed_by": null,
   "created_at": "2026-10-27T19:20:50Z",
   "draft": false,
   "e_tag": "\"6271ec5c40a1538926de12a33a0a6c20836b3fbc06a114b395916bf9514a5e7c\"",
   "head": {
-    "ref": "0.23.1_hd66d21"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/css_inline-feedstock/pull/31",
   "id": 5039766973,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/css_inline-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-27T19:29:20.451304",
+  "last_fetched": "2026-10-27T19:35:34.071983",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T19:34:27Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-27T19:27:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T19:34:31Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"c13cd32e386503196b53d3ec14f49e2d57403ba6b8b2eef42636b58ee16f765f\"",
-  "Last-Modified": "Tue, 27 Oct 2026 17:50:54 GMT",
+  "ETag": "\"790e0553a204eb55d2c4fe3d09c66b5b6960c22038d4d57352823765dcd8b145\"",
+  "Last-Modified": "Tue, 27 Oct 2026 17:53:19 GMT",
   "base": {
     "repo": {
       "name": "vcrpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T17:53:15Z",
   "closed_by": null,
   "created_at": "2026-10-27T17:47:23Z",
   "draft": false,
   "e_tag": "\"5660629b0aff4771849d84d4c8ce2d17d9e9b92f4a3446578de7c3afa2c83a04\"",
   "head": {
-    "ref": "9.2.0_h8c424e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vcrpy-feedstock/pull/47",
   "id": 5038565923,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/vcrpy-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-27T17:51:21.071746",
+  "last_fetched": "2026-10-27T17:54:45.717768",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T17:53:15Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-10-27T17:50:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T17:53:19Z"
 }

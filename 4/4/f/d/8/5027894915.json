@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1bf95b6519c43c630d34c0448faf4a008e8a1598b47d5eb31b7ff5851aba4b2e\"",
-  "Last-Modified": "Tue, 27 Oct 2026 03:01:32 GMT",
+  "ETag": "\"f470c8c8995361f253d77267d2d1f046ac86dfcf152463e2a77cb843a1b380ef\"",
+  "Last-Modified": "Tue, 27 Oct 2026 06:34:59 GMT",
   "base": {
     "repo": {
       "name": "valkey-server-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T06:34:59Z",
   "closed_by": null,
   "created_at": "2026-10-27T02:59:35Z",
   "draft": false,
   "e_tag": "\"20df6a159ddbde49c56d74db65fcd88e773d13a9ba97f29fc88508d01642fddb\"",
   "head": {
-    "ref": "9.1.3_hcf3c67"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/valkey-server-feedstock/pull/20",
   "id": 5027894915,
   "labels": [],
-  "last_fetched": "2026-10-27T06:00:54.225201",
+  "last_fetched": "2026-10-27T06:36:26.648927",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-27T06:34:59Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-27T03:01:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T06:34:59Z"
 }

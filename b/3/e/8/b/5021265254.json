@@ -1,29 +1,41 @@
 {
-  "ETag": "\"17cce1a2dd7a942398da3f83e0e1e43c823966004e7205f13af89325e340b4ed\"",
-  "Last-Modified": "Mon, 26 Oct 2026 17:00:12 GMT",
+  "ETag": "\"35d3fe89d79894b1d95044bd039b399b68487c60ebb85e389747a350db459e20\"",
+  "Last-Modified": "Tue, 27 Oct 2026 16:23:26 GMT",
   "base": {
     "repo": {
       "name": "cargo-about-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T16:23:26Z",
   "closed_by": null,
   "created_at": "2026-10-26T16:48:53Z",
   "draft": false,
   "e_tag": "\"c280d39f62cabc622ccd2abc4391b60c9b031bda1a55283b870c1806903ed434\"",
   "head": {
-    "ref": "0.9.3_h5f500f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cargo-about-feedstock/pull/4",
   "id": 5021265254,
-  "labels": [],
-  "last_fetched": "2026-10-26T17:25:43.935410",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12417191768,
+      "name": "automerge",
+      "node_id": "LA_kwDOUv6rCc8AAAAC5B9PWA",
+      "url": "https://api.github.com/repos/conda-forge/cargo-about-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T16:23:32.099307",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T16:23:26Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-26T17:00:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T16:23:29Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"b92f743505352dfea43fe81212e3b201157337981761eda6caba2061e5363a2a\"",
+  "Last-Modified": "Tue, 27 Oct 2026 23:19:03 GMT",
   "base": {
     "repo": {
       "name": "setupmeta-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T23:19:03Z",
   "closed_by": null,
   "created_at": "2026-10-27T23:15:55Z",
   "draft": false,
   "e_tag": "\"2fdbb87672f60082c84991de2a20c9141650d5fd66f60291cace749f6d01cc79\"",
   "head": {
-    "ref": "4.0.0_hbbfc2e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/setupmeta-feedstock/pull/32",
   "id": 5042546181,
   "labels": [],
-  "last_fetched": "2026-10-27T23:15:56.664088",
+  "last_fetched": "2026-10-27T23:20:10.748982",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-27T23:19:03Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-10-27T23:15:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T23:19:07Z"
 }

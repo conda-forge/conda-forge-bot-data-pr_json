@@ -1,27 +1,29 @@
 {
+  "ETag": "\"59c9e57572e96d6faffa5c604832aa32836e9e7e7009b831f5768aaf017c11bc\"",
+  "Last-Modified": "Tue, 27 Oct 2026 23:27:38 GMT",
   "base": {
     "repo": {
       "name": "djangorestframework-jsonapi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T23:27:34Z",
   "closed_by": null,
   "created_at": "2026-10-27T23:24:06Z",
   "draft": false,
   "e_tag": "\"68b1b0749fc8b3ea6383d69f1ac3345d79cc351c6bc2145abb0ab402311c81b2\"",
   "head": {
-    "ref": "9.0.0_h6b5383"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/djangorestframework-jsonapi-feedstock/pull/11",
   "id": 5042619416,
   "labels": [],
-  "last_fetched": "2026-10-27T23:24:06.774880",
+  "last_fetched": "2026-10-27T23:29:03.542042",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T23:27:34Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-27T23:24:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T23:27:38Z"
 }

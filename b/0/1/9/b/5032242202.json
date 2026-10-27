@@ -1,27 +1,29 @@
 {
+  "ETag": "\"27e24cceea42d4d1120e52502d6768775066d3c01b4a6c486b641beb119ae655\"",
+  "Last-Modified": "Tue, 27 Oct 2026 11:48:27 GMT",
   "base": {
     "repo": {
       "name": "apify-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T11:48:27Z",
   "closed_by": null,
   "created_at": "2026-10-27T10:18:17Z",
   "draft": false,
   "e_tag": "\"56365f0219a9ff10689004792c02c9880f82fbce82d7f2d10ce05c868d70d7d2\"",
   "head": {
-    "ref": "3.4.0_h8daf59"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apify-client-feedstock/pull/12",
   "id": 5032242202,
   "labels": [],
-  "last_fetched": "2026-10-27T10:18:18.169410",
+  "last_fetched": "2026-10-27T11:49:56.596544",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T11:48:27Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-10-27T10:18:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T11:48:27Z"
 }

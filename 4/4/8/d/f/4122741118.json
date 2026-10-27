@@ -1,12 +1,13 @@
 {
-  "ETag": "\"0d0665096a43641f3332a944463307e914c788e3d1b7394e8729197a469a275a\"",
-  "Last-Modified": "Fri, 24 Jul 2026 07:16:40 GMT",
+  "ETag": "\"6567f9a34a7cc2349308e6492f6d33bcf3e47557b5fb0eb7ee915071838e3b3e\"",
+  "Last-Modified": "Tue, 27 Oct 2026 00:57:20 GMT",
   "base": {
     "repo": {
       "name": "pplpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T00:57:20Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-07-24T07:15:06Z",
   "draft": false,
   "e_tag": "\"44349e068c76023069f47e3af4223118aae9e1d853115f4c60ca6528ac6503f2\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pplpy-feedstock/pull/26",
   "id": 4122741118,
   "labels": [],
-  "last_fetched": "2026-10-19T17:00:21.237261",
+  "last_fetched": "2026-10-27T00:59:07.321080",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-07-24T07:16:40Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T00:57:20Z"
 }

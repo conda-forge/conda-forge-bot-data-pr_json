@@ -1,11 +1,13 @@
 {
+  "ETag": "\"5d4f7c97303cdb34c944495b4b797789bba9b6cf0222286eea75b56df1240cde\"",
+  "Last-Modified": "Tue, 27 Oct 2026 08:33:44 GMT",
   "base": {
     "repo": {
       "name": "r-arrow-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-27T08:33:44Z",
+  "closed_by": "h-vetinari",
   "created_at": "2026-10-27T08:28:57Z",
   "draft": false,
   "e_tag": "\"19dda2c3b749ab098dd075ee74afcf4050b71e1815650926dcec3c256195f7a0\"",
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/r-arrow-feedstock/pull/127",
   "id": 5030858302,
   "labels": [],
-  "last_fetched": "2026-10-27T08:28:57.873308",
+  "last_fetched": "2026-10-27T08:35:34.341432",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 127,
-  "state": "open",
-  "updated_at": "2026-10-27T08:28:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T08:33:44Z"
 }

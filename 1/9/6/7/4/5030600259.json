@@ -1,29 +1,29 @@
 {
-  "ETag": "\"024aeedae3b5243c0eb4f727126f87e26996db9f95fc40083b341005d25868f0\"",
-  "Last-Modified": "Tue, 27 Oct 2026 08:07:45 GMT",
+  "ETag": "\"ade28d17e90625e314d84437f844095ab0c0ec87f30c9c7eac6572b19226e05e\"",
+  "Last-Modified": "Tue, 27 Oct 2026 11:50:58 GMT",
   "base": {
     "repo": {
       "name": "xarray-spatial-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T11:50:58Z",
   "closed_by": null,
   "created_at": "2026-10-27T08:06:05Z",
   "draft": false,
   "e_tag": "\"a11053dcf7092d5f3019f9e0865709d337cf27e782d2cddc6eb9211bd2e4d2d6\"",
   "head": {
-    "ref": "0.10.20_h730cf4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xarray-spatial-feedstock/pull/76",
   "id": 5030600259,
   "labels": [],
-  "last_fetched": "2026-10-27T09:52:05.946420",
+  "last_fetched": "2026-10-27T11:52:29.001078",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T11:50:58Z",
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-10-27T08:07:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T11:50:58Z"
 }

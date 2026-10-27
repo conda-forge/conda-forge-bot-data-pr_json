@@ -1,18 +1,18 @@
 {
-  "ETag": "\"cac5a34c5c79ff8c5d62070cfae7129e966874e92c713c1246cad28680091133\"",
-  "Last-Modified": "Tue, 27 Oct 2026 15:36:20 GMT",
+  "ETag": "\"a2474f25af7dfc49937c0148f4c2ecf66cf9a1d51fe869d4f3ccdb0ca0798988\"",
+  "Last-Modified": "Tue, 27 Oct 2026 15:47:13 GMT",
   "base": {
     "repo": {
       "name": "bash-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T15:47:09Z",
   "closed_by": null,
   "created_at": "2026-10-27T15:00:04Z",
   "draft": false,
   "e_tag": "\"8198232f40972154b51814229035d4942ae77ca953f087bd65b8000653d2935c\"",
   "head": {
-    "ref": "5.3_h236d13"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bash-feedstock/pull/28",
   "id": 5036122641,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/bash-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-27T15:37:39.422932",
+  "last_fetched": "2026-10-27T16:59:08.584350",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T15:47:09Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-27T15:36:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T15:47:13Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"34918163a84d9b2d044370abfd04aa2fe1137114a60ee8c90d86dd7037c33b3c\"",
-  "Last-Modified": "Tue, 27 Oct 2026 18:48:04 GMT",
+  "ETag": "\"e58d6d5afc9abf51d6f3b32055ff4139f5f5aff170e56b86ee7256ecfe033f64\"",
+  "Last-Modified": "Tue, 27 Oct 2026 19:15:22 GMT",
   "base": {
     "repo": {
       "name": "r-lasr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T19:15:18Z",
   "closed_by": null,
   "created_at": "2026-10-27T18:46:36Z",
   "draft": false,
   "e_tag": "\"44aad6176f3280e121cea5e64c3c426568aeb08d4aac964cc6d78e7bd1ea6c20\"",
   "head": {
-    "ref": "0.21.3_h269f2e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-lasr-feedstock/pull/35",
   "id": 5039334176,
   "labels": [],
-  "last_fetched": "2026-10-27T18:58:15.704897",
+  "last_fetched": "2026-10-27T19:16:57.290860",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T19:15:18Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-27T18:48:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T19:15:22Z"
 }

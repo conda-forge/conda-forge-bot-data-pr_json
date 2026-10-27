@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6ff516f7d52780d0a2201421fe56fd7ae29ad68769c5539993aa43705b7f2ed1\"",
+  "Last-Modified": "Tue, 27 Oct 2026 13:24:32 GMT",
   "base": {
     "repo": {
       "name": "marko-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T13:24:28Z",
   "closed_by": null,
   "created_at": "2026-10-27T13:20:57Z",
   "draft": false,
   "e_tag": "\"819f87bf40bc2a0862a25eb35564323df4a9124cb833b880e39880c5b9d856ea\"",
   "head": {
-    "ref": "2.2.5_hd1774f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/marko-feedstock/pull/24",
   "id": 5034601845,
   "labels": [],
-  "last_fetched": "2026-10-27T13:20:58.431176",
+  "last_fetched": "2026-10-27T13:25:42.800596",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T13:24:28Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-27T13:20:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T13:24:32Z"
 }

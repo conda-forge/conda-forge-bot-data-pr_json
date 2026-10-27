@@ -1,6 +1,6 @@
 {
-  "ETag": "\"10dd2c7657b184c50f724e71139a5442b8a82c90509876749661dd73f04b53d6\"",
-  "Last-Modified": "Sat, 17 Oct 2026 09:04:51 GMT",
+  "ETag": "\"25ec771a4e36670246feb193e8ecf5f26d6523b51ad2bd92ec48c3ae7f524752\"",
+  "Last-Modified": "Tue, 27 Oct 2026 08:04:33 GMT",
   "base": {
     "repo": {
       "name": "pyarrow-feedstock"
@@ -8,21 +8,33 @@
   },
   "closed_at": null,
   "created_at": "2026-10-09T16:40:28Z",
-  "draft": true,
+  "draft": false,
   "e_tag": "\"ec3eb01b6417a3d25ca6028691f0e7f67e3866af9bc981bb58a243c91a30a74a\"",
   "head": {
     "ref": "26.0.0_hf7ef61"
   },
   "html_url": "https://github.com/conda-forge/pyarrow-feedstock/pull/185",
   "id": 4803247776,
-  "labels": [],
-  "last_fetched": "2026-10-24T13:45:06.793090",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891100713,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTAwNzEz",
+      "url": "https://api.github.com/repos/conda-forge/pyarrow-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T08:05:25.535995",
   "last_modified": null,
-  "mergeable": false,
-  "mergeable_state": "dirty",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 185,
   "state": "open",
-  "updated_at": "2026-10-17T09:04:51Z"
+  "updated_at": "2026-10-27T08:04:33Z"
 }

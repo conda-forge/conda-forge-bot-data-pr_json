@@ -1,4 +1,6 @@
 {
+  "ETag": "\"a1938b10605538f71e3b454c37c9c427de01cc9099083962b048bc34f8f96a53\"",
+  "Last-Modified": "Tue, 27 Oct 2026 14:44:02 GMT",
   "base": {
     "repo": {
       "name": "mdformat-frontmatter-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/mdformat-frontmatter-feedstock/pull/8",
   "id": 5034162444,
-  "labels": [],
-  "last_fetched": "2026-10-27T12:48:45.623383",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5138300690,
+      "name": "automerge",
+      "node_id": "LA_kwDOI8HXu88AAAABMkQ_Eg",
+      "url": "https://api.github.com/repos/conda-forge/mdformat-frontmatter-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T14:45:36.386656",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 8,
   "state": "open",
-  "updated_at": "2026-10-27T12:48:44Z"
+  "updated_at": "2026-10-27T14:45:26Z"
 }

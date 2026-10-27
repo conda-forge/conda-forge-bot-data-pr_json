@@ -1,5 +1,5 @@
 {
-  "ETag": "\"5ff20673075c0b71f8222ff4e07c788ec68dc23bb7f6ffa50ac24e36e38e345d\"",
+  "ETag": "W/\"f19e065398229d3ffaa4c74f6d42ad44ee6c9154920226c557a243d50ec201f1\"",
   "Last-Modified": "Tue, 27 Oct 2026 20:20:25 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/exoplanet-core-feedstock/pull/20",
   "id": 4132223762,
-  "labels": [],
-  "last_fetched": "2026-10-27T20:21:55.195701",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-27T20:20:28.858954",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

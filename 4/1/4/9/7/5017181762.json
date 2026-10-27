@@ -1,29 +1,29 @@
 {
-  "ETag": "\"36a62b513ec69581299053d8d57404a22e1ffb2cc82c4dbca2d0def2cc7a02e2\"",
-  "Last-Modified": "Mon, 26 Oct 2026 12:13:47 GMT",
+  "ETag": "\"1fac380fa146ce5e67e5edb55998c35efbf9e46d54659243f2d3e443de8875a8\"",
+  "Last-Modified": "Tue, 27 Oct 2026 16:49:11 GMT",
   "base": {
     "repo": {
       "name": "weave-merge-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T16:49:11Z",
   "closed_by": null,
   "created_at": "2026-10-26T12:12:09Z",
   "draft": false,
   "e_tag": "\"1b58db1db1fd635a08d4fac5d80355220b675cf4d9519ef94d818c548c5038ae\"",
   "head": {
-    "ref": "0.6.2_h09b5e6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/weave-merge-feedstock/pull/7",
   "id": 5017181762,
   "labels": [],
-  "last_fetched": "2026-10-26T15:26:15.764450",
+  "last_fetched": "2026-10-27T16:50:23.102910",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-27T16:49:11Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-26T12:13:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T16:49:11Z"
 }

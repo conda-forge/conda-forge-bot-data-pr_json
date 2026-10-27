@@ -1,18 +1,18 @@
 {
-  "ETag": "\"a1938b10605538f71e3b454c37c9c427de01cc9099083962b048bc34f8f96a53\"",
-  "Last-Modified": "Tue, 27 Oct 2026 14:44:02 GMT",
+  "ETag": "\"228b7ca1595b9d02375abacc44e5026105118d41f8488ef4a849abaa11d43031\"",
+  "Last-Modified": "Tue, 27 Oct 2026 14:45:52 GMT",
   "base": {
     "repo": {
       "name": "mdformat-frontmatter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T14:45:48Z",
   "closed_by": null,
   "created_at": "2026-10-27T12:48:44Z",
   "draft": false,
   "e_tag": "\"bfb8079cfefe3d46388483195fa0d349e1fd6fe0d3ef3aac4f36706951564239\"",
   "head": {
-    "ref": "2.2.0_h267ab0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mdformat-frontmatter-feedstock/pull/8",
   "id": 5034162444,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/mdformat-frontmatter-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-27T14:45:36.386656",
+  "last_fetched": "2026-10-27T14:47:27.840638",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T14:45:48Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-27T14:45:26Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T14:45:52Z"
 }

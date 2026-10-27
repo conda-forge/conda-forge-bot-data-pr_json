@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2a4a5d88d499eeee72543b3ff2d2f5ef703b9dc3d87d84621606f7840be01614\"",
+  "Last-Modified": "Tue, 27 Oct 2026 22:47:00 GMT",
   "base": {
     "repo": {
       "name": "vim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T22:46:56Z",
   "closed_by": null,
   "created_at": "2026-10-27T21:54:43Z",
   "draft": false,
   "e_tag": "\"e7a12563b6ca49559f130d72d75080c7877031ba336c18b9e4404e3d7a89c7cf\"",
   "head": {
-    "ref": "9.2.1252_h406f2e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vim-feedstock/pull/1689",
   "id": 5041700850,
   "labels": [],
-  "last_fetched": "2026-10-27T21:54:44.335811",
+  "last_fetched": "2026-10-27T22:48:23.608915",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T22:46:56Z",
   "number": 1689,
-  "state": "open",
-  "updated_at": "2026-10-27T21:54:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T22:47:00Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"059edae5219ebd16032715f81b8b6538eefdf7bac69e652342d0896b45a1e489\"",
+  "Last-Modified": "Tue, 27 Oct 2026 17:29:08 GMT",
   "base": {
     "repo": {
       "name": "diffnav-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T17:29:04Z",
   "closed_by": null,
   "created_at": "2026-10-27T17:23:20Z",
   "draft": false,
   "e_tag": "\"5210c5a8cd93776ac107c2a7351b1033a17fb5dca23652ffd26b612de7cb2e27\"",
   "head": {
-    "ref": "0.13.1_hff9199"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/diffnav-feedstock/pull/8",
   "id": 5038244411,
   "labels": [],
-  "last_fetched": "2026-10-27T17:23:21.635170",
+  "last_fetched": "2026-10-27T17:30:34.188613",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T17:29:04Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-27T17:23:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T17:29:08Z"
 }

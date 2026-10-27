@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4c65b8b34f81e1286b5b34baaa5a1c133a7c749594768b28854da46c19b35918\"",
+  "Last-Modified": "Tue, 27 Oct 2026 07:11:30 GMT",
   "base": {
     "repo": {
       "name": "rattler-build-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T07:11:26Z",
   "closed_by": null,
   "created_at": "2026-10-27T06:41:24Z",
   "draft": false,
   "e_tag": "\"d63064f1a930470bef7755b604c632fdbda59f3dd8862c059b58c719a64775e9\"",
   "head": {
-    "ref": "0.79.0_hd60ba4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rattler-build-feedstock/pull/266",
   "id": 5029756023,
   "labels": [],
-  "last_fetched": "2026-10-27T06:41:25.179161",
+  "last_fetched": "2026-10-27T07:12:40.600091",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T07:11:26Z",
   "number": 266,
-  "state": "open",
-  "updated_at": "2026-10-27T06:41:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T07:11:30Z"
 }

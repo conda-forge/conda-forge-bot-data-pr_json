@@ -1,29 +1,29 @@
 {
-  "ETag": "\"43766841bacb23f0e0625d8a3a97c931b5c7dc5c7f687eb999df663c513ca948\"",
-  "Last-Modified": "Fri, 23 Oct 2026 16:43:08 GMT",
+  "ETag": "\"0a32a0721a50104e90df14dddf378aeff47c4f6ee01863c4a603b70c579540e1\"",
+  "Last-Modified": "Tue, 27 Oct 2026 16:50:20 GMT",
   "base": {
     "repo": {
       "name": "cccl-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T16:50:20Z",
   "closed_by": null,
   "created_at": "2026-10-23T16:41:38Z",
   "draft": false,
   "e_tag": "\"4f586b922fdba6123f9d1340c6e401a3346b75be679b12dccf3f73924d11037a\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h0c2ebd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cccl-python-feedstock/pull/45",
   "id": 4986143795,
   "labels": [],
-  "last_fetched": "2026-10-23T17:36:12.825066",
+  "last_fetched": "2026-10-27T16:51:34.073874",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-27T16:50:20Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-10-23T16:43:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T16:50:20Z"
 }

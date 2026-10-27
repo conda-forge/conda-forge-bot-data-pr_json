@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8620de1dffedc1a11b0a31ec37c82d870f6993f1d1788cca3384eca4cd9a1ff7\"",
-  "Last-Modified": "Mon, 26 Oct 2026 20:38:37 GMT",
+  "ETag": "\"d0d41fef22da8e7c5f7dabe2553a79d8cd6ea67ab9c416f023dad31046116273\"",
+  "Last-Modified": "Tue, 27 Oct 2026 21:26:37 GMT",
   "base": {
     "repo": {
       "name": "grpcio-health-checking-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T21:26:37Z",
   "closed_by": null,
   "created_at": "2026-10-26T20:36:51Z",
   "draft": false,
   "e_tag": "\"92aa64307ea299535ab1dd13e98c711c954b734d45465a192345a451f16b0b43\"",
   "head": {
-    "ref": "1.85.0_h42720f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/grpcio-health-checking-feedstock/pull/82",
   "id": 5024270352,
   "labels": [],
-  "last_fetched": "2026-10-27T04:30:59.278399",
+  "last_fetched": "2026-10-27T21:27:42.317136",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T21:26:37Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-10-26T20:38:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T21:26:37Z"
 }

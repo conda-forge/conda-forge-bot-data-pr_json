@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8b11cd164f93dc52ab0c1e891d42e4668b7c03df940e99ab9be558af52945984\"",
+  "Last-Modified": "Tue, 27 Oct 2026 01:31:10 GMT",
   "base": {
     "repo": {
       "name": "aws-c-io-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T01:31:06Z",
   "closed_by": null,
   "created_at": "2026-10-27T01:26:24Z",
   "draft": false,
   "e_tag": "\"1695fdac167f1ca2558f181bada1c28ef5ec1facb523cf1795cf80a937814dde\"",
   "head": {
-    "ref": "1.1.1_h5fb683"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-c-io-feedstock/pull/428",
   "id": 5027161502,
   "labels": [],
-  "last_fetched": "2026-10-27T01:26:25.065153",
+  "last_fetched": "2026-10-27T01:32:10.663496",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T01:31:06Z",
   "number": 428,
-  "state": "open",
-  "updated_at": "2026-10-27T01:26:24Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T01:31:10Z"
 }

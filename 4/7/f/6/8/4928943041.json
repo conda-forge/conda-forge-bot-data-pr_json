@@ -1,13 +1,13 @@
 {
-  "ETag": "\"5d4e09cbb035964c9fbf265cb8a4e69e13b03908cb602c3c639accd35d10ccda\"",
-  "Last-Modified": "Mon, 19 Oct 2026 23:51:58 GMT",
+  "ETag": "W/\"4ad690e087943ea3d4547af8b314c9189ac0be885caf188eb2d73e4890e0e1f9\"",
+  "Last-Modified": "Tue, 27 Oct 2026 00:57:50 GMT",
   "base": {
     "repo": {
       "name": "pti-gpu-unitrace-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-27T00:57:50Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-19T23:50:25Z",
   "draft": false,
   "e_tag": "\"72d0262eb55058497b5f6897425b78a52f9d272c0832167e1a84574ed9051f13\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/pti-gpu-unitrace-feedstock/pull/37",
   "id": 4928943041,
-  "labels": [],
-  "last_fetched": "2026-10-20T00:00:21.772433",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-27T00:57:52.639143",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-10-19T23:51:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T00:57:50Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dfcb21975c82794fa7a242a60baca77a97bb98390ba1a67c1e97015e62a2e8e1\"",
+  "Last-Modified": "Tue, 27 Oct 2026 14:23:10 GMT",
   "base": {
     "repo": {
       "name": "tox-gh-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T14:23:09Z",
   "closed_by": null,
   "created_at": "2026-10-27T08:04:42Z",
   "draft": false,
   "e_tag": "\"f5dbae9e1a389c38aecdcd23a9649198babe4919b9cad330ac11440b2733d748\"",
   "head": {
-    "ref": "1.9.1_he4ff7e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tox-gh-feedstock/pull/11",
   "id": 5030586079,
   "labels": [],
-  "last_fetched": "2026-10-27T08:04:43.245332",
+  "last_fetched": "2026-10-27T14:24:29.276032",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T14:23:09Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-27T08:04:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T14:23:10Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"31a2f2fdc0f4a0b377fabf1f84f78f86c9da3da8b42f25f79de2ae339cd648d3\"",
-  "Last-Modified": "Fri, 16 Oct 2026 07:04:35 GMT",
+  "ETag": "\"5a64dcc827604d757c4fd93340e43d77c44e589257e6a67bc7514bba64c0b7a1\"",
+  "Last-Modified": "Tue, 27 Oct 2026 04:28:24 GMT",
   "base": {
     "repo": {
       "name": "libprotobuf-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/libprotobuf-feedstock/pull/314",
   "id": 4884745127,
-  "labels": [],
-  "last_fetched": "2026-10-23T18:31:49.397681",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891011319,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDExMzE5",
+      "url": "https://api.github.com/repos/conda-forge/libprotobuf-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T04:28:52.665338",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 314,
   "state": "open",
-  "updated_at": "2026-10-16T07:04:35Z"
+  "updated_at": "2026-10-27T04:28:24Z"
 }

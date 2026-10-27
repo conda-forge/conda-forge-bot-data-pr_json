@@ -1,18 +1,18 @@
 {
-  "ETag": "\"4b79bfa61786f0c911f7c856f758dd31ecdb38ee09ad2ceb300159f5a88e6eef\"",
-  "Last-Modified": "Tue, 27 Oct 2026 08:17:13 GMT",
+  "ETag": "\"e4e0724d909ffabbd7dc4af56866151aae8d40ace7fd85388514cf83c9536643\"",
+  "Last-Modified": "Tue, 27 Oct 2026 08:20:26 GMT",
   "base": {
     "repo": {
       "name": "urdfdom_headers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-27T08:20:22Z",
   "closed_by": null,
   "created_at": "2026-10-27T05:06:02Z",
   "draft": false,
   "e_tag": "\"bffa349e0413109a3b825f7d287323b887c95fae84314dc71cc6cd91fb8e7480\"",
   "head": {
-    "ref": "bot-pr_riscv64_hbb5764"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/urdfdom_headers-feedstock/pull/29",
   "id": 5028877554,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/urdfdom_headers-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-27T08:18:51.028814",
+  "last_fetched": "2026-10-27T08:21:30.610292",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-27T08:20:22Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-10-27T08:17:13Z"
+  "state": "closed",
+  "updated_at": "2026-10-27T08:20:26Z"
 }

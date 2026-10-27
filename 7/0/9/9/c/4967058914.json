@@ -1,6 +1,6 @@
 {
-  "ETag": "\"08e23abbff26acbd708a122cc44fcf5cd8c3e45e72429cd01a20c4f2c4aef5dd\"",
-  "Last-Modified": "Thu, 22 Oct 2026 12:05:55 GMT",
+  "ETag": "\"90cad9eb4068393ca3eac2fe6ac578982344a3aaf8bf56c3bd8d2e00ac3cbb13\"",
+  "Last-Modified": "Tue, 27 Oct 2026 08:11:00 GMT",
   "base": {
     "repo": {
       "name": "r-arrow-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/r-arrow-feedstock/pull/123",
   "id": 4967058914,
-  "labels": [],
-  "last_fetched": "2026-10-22T13:50:13.498059",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891179657,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTc5NjU3",
+      "url": "https://api.github.com/repos/conda-forge/r-arrow-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-27T08:12:39.875830",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 123,
   "state": "open",
-  "updated_at": "2026-10-22T12:07:40Z"
+  "updated_at": "2026-10-27T08:11:00Z"
 }

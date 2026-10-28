@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d4226b4dd2fae6f2dcf57f71d8c0c298b294eba52ac7d1acde01afb362d835cb\"",
+  "Last-Modified": "Wed, 28 Oct 2026 00:12:24 GMT",
   "base": {
     "repo": {
       "name": "fhlmi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T00:12:21Z",
   "closed_by": null,
   "created_at": "2026-10-28T00:10:00Z",
   "draft": false,
   "e_tag": "\"55c2a0661452cc9d86d099371650c09c0dcf0fd8e3f051809805058aca5b031b\"",
   "head": {
-    "ref": "1.10.1_hb7e7bc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fhlmi-feedstock/pull/51",
   "id": 5043041772,
   "labels": [],
-  "last_fetched": "2026-10-28T00:10:00.918302",
+  "last_fetched": "2026-10-28T00:13:42.609906",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T00:12:21Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-28T00:10:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T00:12:24Z"
 }

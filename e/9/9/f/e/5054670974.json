@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bcbff20c66bdaeff193d39666bb4f49d90caf92f4edee410174857d73255bc14\"",
+  "Last-Modified": "Wed, 28 Oct 2026 17:35:49 GMT",
   "base": {
     "repo": {
       "name": "r-dynutils-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T17:35:45Z",
   "closed_by": null,
   "created_at": "2026-10-28T17:16:56Z",
   "draft": false,
   "e_tag": "\"14d0ff4382e73f8915e89699fdc21473207a89b26e142751102d2730a6d45119\"",
   "head": {
-    "ref": "1.0.13_h05225b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-dynutils-feedstock/pull/15",
   "id": 5054670974,
   "labels": [],
-  "last_fetched": "2026-10-28T17:16:56.907826",
+  "last_fetched": "2026-10-28T17:37:17.790058",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T17:35:44Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-28T17:16:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T17:35:49Z"
 }

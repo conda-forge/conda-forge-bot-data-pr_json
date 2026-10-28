@@ -1,27 +1,29 @@
 {
+  "ETag": "\"22720f71c4c98024b32696ad30027a22601c06c88b1fbf3082bf76f1b3567fe1\"",
+  "Last-Modified": "Wed, 28 Oct 2026 21:26:37 GMT",
   "base": {
     "repo": {
       "name": "warcio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T21:26:33Z",
   "closed_by": null,
   "created_at": "2026-10-28T21:24:39Z",
   "draft": false,
   "e_tag": "\"f9caaa4b87b0f89f99dde83fe366a8c0f37e6543f48667a268a2bd8981f001c0\"",
   "head": {
-    "ref": "1.8.2_h7448af"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/warcio-feedstock/pull/6",
   "id": 5057928584,
   "labels": [],
-  "last_fetched": "2026-10-28T21:24:40.022562",
+  "last_fetched": "2026-10-28T21:28:07.218666",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T21:26:33Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-28T21:24:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T21:26:37Z"
 }

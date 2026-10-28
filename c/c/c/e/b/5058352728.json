@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d6ca59350aefa7dde20339010c1855510beaf54eee2e15b44e26d9c570c998f1\"",
+  "Last-Modified": "Wed, 28 Oct 2026 22:10:52 GMT",
   "base": {
     "repo": {
       "name": "tika-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T22:10:52Z",
   "closed_by": null,
   "created_at": "2026-10-28T21:58:50Z",
   "draft": false,
   "e_tag": "\"7fbe4434173f15b310534d7308851e2d64f28205e1b007f22e483f83e9834f8c\"",
   "head": {
-    "ref": "2.0.0_h5be738"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tika-client-feedstock/pull/4",
   "id": 5058352728,
   "labels": [],
-  "last_fetched": "2026-10-28T21:58:51.605867",
+  "last_fetched": "2026-10-28T22:12:36.507876",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T22:10:52Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-28T21:58:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T22:10:52Z"
 }

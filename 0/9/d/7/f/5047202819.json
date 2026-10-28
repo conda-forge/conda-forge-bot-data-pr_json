@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e67a933ef3009d7030b4046cb8889bea06bab0484f9428252c43a4600ac6d82e\"",
-  "Last-Modified": "Wed, 28 Oct 2026 08:05:06 GMT",
+  "ETag": "\"1ae1675fc74bb96fa43aaaa4982aee4ea9c36e1b855129105cf44ece9e3b74dc\"",
+  "Last-Modified": "Wed, 28 Oct 2026 12:35:06 GMT",
   "base": {
     "repo": {
       "name": "azure-identity-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T12:35:06Z",
   "closed_by": null,
   "created_at": "2026-10-28T08:03:23Z",
   "draft": false,
   "e_tag": "\"fc383b2851ebbb85267b2540f5ee0305b4c03f0e95778ce848d9ec7911a44016\"",
   "head": {
-    "ref": "bot-pr_arch_arm64_win_h442761"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/azure-identity-cpp-feedstock/pull/28",
   "id": 5047202819,
   "labels": [],
-  "last_fetched": "2026-10-28T08:43:50.428387",
+  "last_fetched": "2026-10-28T12:36:40.915896",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T12:35:05Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-28T08:05:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T12:35:06Z"
 }

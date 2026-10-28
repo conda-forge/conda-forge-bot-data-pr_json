@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c3de8b212ba24b068dcf5b4304a195cb3d5d64ab794d40a71013c85b8147b4b1\"",
-  "Last-Modified": "Tue, 27 Oct 2026 03:09:58 GMT",
+  "ETag": "\"41e765e0a248f18f30fcf527384f6c720e86c33b503ca39bd31e6e17f83b4595\"",
+  "Last-Modified": "Wed, 28 Oct 2026 02:42:58 GMT",
   "base": {
     "repo": {
       "name": "libfuse-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T02:42:58Z",
   "closed_by": null,
   "created_at": "2026-10-27T03:08:26Z",
   "draft": false,
   "e_tag": "\"3fa31333264377bbfed1f6515f46a2c9d1eb8bf61236c8427c1095493f89ba03\"",
   "head": {
-    "ref": "bot-pr_riscv64_h3e0e22"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libfuse-feedstock/pull/35",
   "id": 5027964960,
   "labels": [],
-  "last_fetched": "2026-10-27T03:54:38.339721",
+  "last_fetched": "2026-10-28T02:44:10.712322",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-28T02:42:58Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-27T03:09:58Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T02:42:58Z"
 }

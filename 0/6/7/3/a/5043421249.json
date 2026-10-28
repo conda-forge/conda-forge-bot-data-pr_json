@@ -1,27 +1,29 @@
 {
+  "ETag": "\"02f45fe9f554f117e7f136028291161ad3eb373e49e98407646271a15d1e310d\"",
+  "Last-Modified": "Wed, 28 Oct 2026 01:25:10 GMT",
   "base": {
     "repo": {
       "name": "obstore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T01:25:05Z",
   "closed_by": null,
   "created_at": "2026-10-28T00:54:59Z",
   "draft": false,
   "e_tag": "\"ab1e51ee78ae477d623780c32d3224ee7c950deb3eda5ae274a8345303bcfc6e\"",
   "head": {
-    "ref": "0.12.1_h3f139c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/obstore-feedstock/pull/39",
   "id": 5043421249,
   "labels": [],
-  "last_fetched": "2026-10-28T00:55:00.517439",
+  "last_fetched": "2026-10-28T01:26:37.607118",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T01:25:05Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-10-28T00:54:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T01:25:10Z"
 }

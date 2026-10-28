@@ -1,18 +1,18 @@
 {
-  "ETag": "\"9b641581eec8394550624928add70a55d8ef3655d317a3466426bca465c78d21\"",
-  "Last-Modified": "Wed, 28 Oct 2026 12:06:33 GMT",
+  "ETag": "\"65ae7a1853ef3454a51faaf682c1c89f3acc4ae5f2416ff4e41a8a796d1fc3e6\"",
+  "Last-Modified": "Wed, 28 Oct 2026 13:27:59 GMT",
   "base": {
     "repo": {
       "name": "delta-kernel-rust-sharing-wrapper-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T13:27:54Z",
   "closed_by": null,
   "created_at": "2026-10-28T05:38:24Z",
   "draft": false,
   "e_tag": "\"e6b1c9b0e0e45f4e967755a1c564082e12f7adb292c0207afe2a6969058a4fbd\"",
   "head": {
-    "ref": "0.3.4_h411026"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/delta-kernel-rust-sharing-wrapper-feedstock/pull/3",
   "id": 5045773007,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/delta-kernel-rust-sharing-wrapper-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-28T12:08:04.717904",
+  "last_fetched": "2026-10-28T13:29:05.515875",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T13:27:54Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-10-28T12:06:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T13:27:59Z"
 }

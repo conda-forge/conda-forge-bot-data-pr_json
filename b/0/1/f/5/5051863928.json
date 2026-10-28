@@ -1,4 +1,6 @@
 {
+  "ETag": "\"8cd2d24b4381d214d6a1027cc3bf166df83027c05ce09dd82d97be5f68b83b98\"",
+  "Last-Modified": "Wed, 28 Oct 2026 15:58:44 GMT",
   "base": {
     "repo": {
       "name": "pyodps-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyodps-feedstock/pull/19",
   "id": 5051863928,
-  "labels": [],
-  "last_fetched": "2026-10-28T14:06:14.246602",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8827417556,
+      "name": "automerge",
+      "node_id": "LA_kwDOPAan888AAAACDiez1A",
+      "url": "https://api.github.com/repos/conda-forge/pyodps-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T15:59:51.434101",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 19,
   "state": "open",
-  "updated_at": "2026-10-28T14:06:13Z"
+  "updated_at": "2026-10-28T15:58:44Z"
 }

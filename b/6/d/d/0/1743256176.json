@@ -1,12 +1,13 @@
 {
-  "ETag": "\"9db31d1b97137768f1abd98c5f41bc7760c3094e0c7ada7d58aee2261fdbd66b\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"718bb120ebb44186dc15885f094144bdae0fc91542cc472ffa85290a446de375\"",
+  "Last-Modified": "Wed, 28 Oct 2026 14:36:30 GMT",
   "base": {
     "repo": {
       "name": "objgraph-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T14:36:30Z",
+  "closed_by": "wolfv",
   "created_at": "2024-02-26T11:57:40Z",
   "draft": false,
   "head": {
@@ -15,12 +16,12 @@
   "html_url": "https://github.com/conda-forge/objgraph-feedstock/pull/6",
   "id": 1743256176,
   "labels": [],
-  "last_fetched": "2026-10-27T22:28:01.414752",
+  "last_fetched": "2026-10-28T14:38:15.474404",
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 6,
-  "state": "open",
-  "updated_at": "2024-02-26T12:03:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T14:36:30Z"
 }

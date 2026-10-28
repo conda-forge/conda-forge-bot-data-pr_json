@@ -1,18 +1,18 @@
 {
-  "ETag": "\"9118c10182affebcca44fc6bde7a7a7baf7e683d51e1112938516b19b429c8f4\"",
-  "Last-Modified": "Wed, 28 Oct 2026 11:03:08 GMT",
+  "ETag": "\"e5483323e9d368f754f353bd0de64bc42062215268bae60024316112b316d986\"",
+  "Last-Modified": "Wed, 28 Oct 2026 11:10:25 GMT",
   "base": {
     "repo": {
       "name": "oracledb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T11:10:20Z",
   "closed_by": null,
   "created_at": "2026-10-27T22:48:01Z",
   "draft": false,
   "e_tag": "\"2a1994056a3b5daa615bceb19636124688732fe4d641cf331a7600e2dbe88110\"",
   "head": {
-    "ref": "26.1.0_h47d3fd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/oracledb-feedstock/pull/49",
   "id": 5042264167,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/oracledb-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-28T11:04:43.688781",
+  "last_fetched": "2026-10-28T11:11:52.386224",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T11:10:20Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-28T11:03:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T11:10:25Z"
 }

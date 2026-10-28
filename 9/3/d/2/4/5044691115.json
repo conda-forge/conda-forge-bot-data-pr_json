@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b9e5a183c6169811aa279a8c26e0df9367bc76af31a0c64751d15bf84b45f325\"",
-  "Last-Modified": "Wed, 28 Oct 2026 03:25:27 GMT",
+  "ETag": "\"eb2ea07b73558a469947624c7daacc7d11963d231340e3a531e7d4e192216c45\"",
+  "Last-Modified": "Wed, 28 Oct 2026 12:36:25 GMT",
   "base": {
     "repo": {
       "name": "hatchling-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/hatchling-feedstock/pull/79",
   "id": 5044691115,
-  "labels": [],
-  "last_fetched": "2026-10-28T05:22:06.873338",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3868313556,
+      "name": "automerge",
+      "node_id": "LA_kwDOG5z_Lc7mkcfU",
+      "url": "https://api.github.com/repos/conda-forge/hatchling-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T12:38:01.211708",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 79,
   "state": "open",
-  "updated_at": "2026-10-28T03:25:27Z"
+  "updated_at": "2026-10-28T12:36:25Z"
 }

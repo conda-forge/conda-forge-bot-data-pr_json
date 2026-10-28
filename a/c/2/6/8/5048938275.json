@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9e8be544d2ee9d2b8b3d33eb3127a57c0434b35beeca99b8e7c6ce9bfeb37e45\"",
-  "Last-Modified": "Wed, 28 Oct 2026 10:29:31 GMT",
+  "ETag": "\"44ba6f88ddba95f29d5da96e860e23a14bd7a941b97449ecc2ca221c72489f3c\"",
+  "Last-Modified": "Wed, 28 Oct 2026 20:45:13 GMT",
   "base": {
     "repo": {
       "name": "uvloop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T20:45:13Z",
   "closed_by": null,
   "created_at": "2026-10-28T10:28:00Z",
   "draft": false,
   "e_tag": "\"7cdd1d9db0e4bfaac4086e6d368666562ab6a2d44184e2a43cefd5ffd4c83bd2\"",
   "head": {
-    "ref": "bot-pr_arch_arm64_win_h7980f8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uvloop-feedstock/pull/54",
   "id": 5048938275,
   "labels": [],
-  "last_fetched": "2026-10-28T11:28:07.868336",
+  "last_fetched": "2026-10-28T20:46:47.047881",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-28T20:45:13Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-28T10:29:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T20:45:13Z"
 }

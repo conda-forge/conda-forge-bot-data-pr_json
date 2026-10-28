@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e6a882ae9c8e02597c34c7933468915405f4be348a1f2c2d1f834831dce2f59b\"",
+  "Last-Modified": "Wed, 28 Oct 2026 17:57:52 GMT",
   "base": {
     "repo": {
       "name": "fdasrsf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T17:57:52Z",
   "closed_by": null,
   "created_at": "2026-10-28T17:09:48Z",
   "draft": false,
   "e_tag": "\"eedaa238129bc98c0712cc3bb993162ff80a0d0bee61c6a7b3d936169e853799\"",
   "head": {
-    "ref": "2.7.4_h5bd30e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fdasrsf-feedstock/pull/75",
   "id": 5054573224,
   "labels": [],
-  "last_fetched": "2026-10-28T17:09:54.096780",
+  "last_fetched": "2026-10-28T17:59:42.060482",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "unstable",
+  "merged": true,
+  "merged_at": "2026-10-28T17:57:52Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-28T17:09:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T17:57:52Z"
 }

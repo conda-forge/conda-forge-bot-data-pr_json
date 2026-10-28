@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a1aec2b0b5f2e9d185bdd45cd5bae6b801d8a2ae24256ab0ea63006b9d472f22\"",
-  "Last-Modified": "Wed, 28 Oct 2026 19:25:57 GMT",
+  "ETag": "\"fdb4eb0e5756c3a901b3ef939760eba7dd7bed4a775b0e70997aaffc774c5189\"",
+  "Last-Modified": "Wed, 28 Oct 2026 20:01:22 GMT",
   "base": {
     "repo": {
       "name": "alibabacloud-adb20211201-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/alibabacloud-adb20211201-feedstock/pull/58",
   "id": 5056397238,
-  "labels": [],
-  "last_fetched": "2026-10-28T19:43:36.713710",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5763740992,
+      "name": "automerge",
+      "node_id": "LA_kwDOJ-hk9s8AAAABV4u1QA",
+      "url": "https://api.github.com/repos/conda-forge/alibabacloud-adb20211201-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T20:02:50.645133",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 58,
   "state": "open",
-  "updated_at": "2026-10-28T19:25:57Z"
+  "updated_at": "2026-10-28T20:01:22Z"
 }

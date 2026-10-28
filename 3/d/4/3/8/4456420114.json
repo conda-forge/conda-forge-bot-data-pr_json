@@ -1,12 +1,13 @@
 {
-  "ETag": "\"97308dc52da3cbcd2ae21e12f7c26ed47927b0287cc26262154e6acdabad3399\"",
-  "Last-Modified": "Sun, 06 Sep 2026 13:47:42 GMT",
+  "ETag": "W/\"0e16454d75534bcda080b0370cccb32ab1fbdd3ca2fdb7d6dc6ee7a8c12654c0\"",
+  "Last-Modified": "Wed, 28 Oct 2026 13:21:34 GMT",
   "base": {
     "repo": {
       "name": "infrared-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T13:21:34Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-06T13:44:52Z",
   "draft": false,
   "e_tag": "\"345337ec52f62f4e3254daea789984e679a37f54a41e9e384c7cc8e1944e5f5e\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/infrared-feedstock/pull/25",
   "id": 4456420114,
-  "labels": [],
-  "last_fetched": "2026-10-21T07:32:35.505489",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-28T13:21:36.691355",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-09-06T13:47:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T13:21:34Z"
 }

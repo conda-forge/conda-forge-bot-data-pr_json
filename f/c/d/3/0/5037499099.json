@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ffe0bfc2949a889ae308b6bb00d61e97f6f73e22a2815b912c450e725fe0cd04\"",
-  "Last-Modified": "Tue, 27 Oct 2026 16:31:36 GMT",
+  "ETag": "\"0e66ce6ce6ef3697e4921d29bc6956695ee636cd630018551ed40d77a4a052ca\"",
+  "Last-Modified": "Wed, 28 Oct 2026 07:23:39 GMT",
   "base": {
     "repo": {
       "name": "jive-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T07:23:39Z",
   "closed_by": null,
   "created_at": "2026-10-27T16:30:05Z",
   "draft": false,
   "e_tag": "\"dfb10ff32a639c6d1f97853c9da54744ad5a8596d82928addc5cdbc445cb2d04\"",
   "head": {
-    "ref": "8.1_h79e346"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jive-feedstock/pull/17",
   "id": 5037499099,
   "labels": [],
-  "last_fetched": "2026-10-27T18:24:04.242128",
+  "last_fetched": "2026-10-28T07:24:45.926042",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-28T07:23:39Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-27T16:31:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T07:23:39Z"
 }

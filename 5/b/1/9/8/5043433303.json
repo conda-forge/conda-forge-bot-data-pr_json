@@ -1,5 +1,5 @@
 {
-  "ETag": "\"a280fc96f9eba47657c9f25ca7fd679774e63a4f22abee70427c7cbb8d3838aa\"",
+  "ETag": "W/\"7a6167c54024765bb3475dbbe0db887b18a8ce06a9bac85a70d6c4e30568b935\"",
   "Last-Modified": "Wed, 28 Oct 2026 01:04:30 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/crewai-suite-feedstock/pull/33",
   "id": 5043433303,
-  "labels": [],
-  "last_fetched": "2026-10-28T01:05:34.824055",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-28T01:04:32.321878",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

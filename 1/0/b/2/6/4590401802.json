@@ -1,5 +1,5 @@
 {
-  "ETag": "\"99749172dc1c65c8830f6c6416a91a4dc1d2a50bc9f96df2a6bd48dae2db4629\"",
+  "ETag": "\"03e2710ab6788b91c6cc26d6596373b6c1773f6b9a40454360162e7d66da8cc7\"",
   "Last-Modified": "Mon, 21 Sep 2026 10:22:25 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"249574e29e5af5770e799664e7506b24d53920aba6bfbbdc7713e7a4370b7af3\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hcb1e6e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/chalice-feedstock/pull/77",
   "id": 4590401802,
-  "labels": [],
-  "last_fetched": "2026-10-20T21:59:13.683868",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-28T04:23:03.857126",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 77,

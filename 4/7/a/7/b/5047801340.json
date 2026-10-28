@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1e89f3af8c0fc4b354ca8b2f1d2c73d45fa08df8f29d3728b45ea0bce4bfb346\"",
+  "Last-Modified": "Wed, 28 Oct 2026 09:08:36 GMT",
   "base": {
     "repo": {
       "name": "hypothesis-awkward-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T09:08:32Z",
   "closed_by": null,
   "created_at": "2026-10-28T08:57:25Z",
   "draft": false,
   "e_tag": "\"31ffc233ce63282623cc435f85616e29f09b267aa1df307179d84b6531c1566d\"",
   "head": {
-    "ref": "0.21.0_hb4414e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hypothesis-awkward-feedstock/pull/19",
   "id": 5047801340,
   "labels": [],
-  "last_fetched": "2026-10-28T08:57:26.331030",
+  "last_fetched": "2026-10-28T09:09:41.288013",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T09:08:32Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-28T08:57:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T09:08:36Z"
 }

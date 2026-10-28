@@ -1,29 +1,29 @@
 {
-  "ETag": "\"17c7e718afac7a9cc4b7ec1a52ef01e34df1756467ba647bc3dce55ff5e96a7b\"",
-  "Last-Modified": "Wed, 28 Oct 2026 09:19:39 GMT",
+  "ETag": "\"b882ae7ce1a35e73c38ed0c54957b8b32081750c522a0c3d26c3832adc7ac2bf\"",
+  "Last-Modified": "Wed, 28 Oct 2026 10:04:43 GMT",
   "base": {
     "repo": {
       "name": "ukb-atlas-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T10:04:43Z",
   "closed_by": null,
   "created_at": "2026-10-27T23:14:24Z",
   "draft": false,
   "e_tag": "\"f7434cd2e2b48e9003c41926ad7cf3b2a90c2a3a4cfb188878333ecaf2ee47e8\"",
   "head": {
-    "ref": "2.1.0_habc521"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ukb-atlas-feedstock/pull/11",
   "id": 5042530489,
   "labels": [],
-  "last_fetched": "2026-10-28T09:21:35.938987",
+  "last_fetched": "2026-10-28T10:06:19.346070",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T10:04:43Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-28T09:19:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T10:04:43Z"
 }

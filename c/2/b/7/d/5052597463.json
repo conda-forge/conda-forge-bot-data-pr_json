@@ -1,27 +1,29 @@
 {
+  "ETag": "\"81fc2c1730917b05744a6dd953a432d0c6307a0322568d4eab2310adf941c1f4\"",
+  "Last-Modified": "Wed, 28 Oct 2026 16:26:28 GMT",
   "base": {
     "repo": {
       "name": "streamtracer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T16:26:28Z",
   "closed_by": null,
   "created_at": "2026-10-28T14:54:18Z",
   "draft": false,
   "e_tag": "\"cfd2fc0e83441a29c0743e209e9c89b867fe1a18aff02b5c06b6241e37baef9c\"",
   "head": {
-    "ref": "2.7.0_h9809e6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/streamtracer-feedstock/pull/27",
   "id": 5052597463,
   "labels": [],
-  "last_fetched": "2026-10-28T14:54:19.387263",
+  "last_fetched": "2026-10-28T16:27:59.124432",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T16:26:28Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-28T14:54:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T16:26:28Z"
 }

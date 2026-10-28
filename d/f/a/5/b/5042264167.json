@@ -1,6 +1,6 @@
 {
-  "ETag": "\"8e36d752f8daf4e624228199f3226ffe5593af8e1eb744d11f9fc7b87466e749\"",
-  "Last-Modified": "Tue, 27 Oct 2026 22:49:31 GMT",
+  "ETag": "\"9118c10182affebcca44fc6bde7a7a7baf7e683d51e1112938516b19b429c8f4\"",
+  "Last-Modified": "Wed, 28 Oct 2026 11:03:08 GMT",
   "base": {
     "repo": {
       "name": "oracledb-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/oracledb-feedstock/pull/49",
   "id": 5042264167,
-  "labels": [],
-  "last_fetched": "2026-10-28T01:47:27.255794",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4261471885,
+      "name": "automerge",
+      "node_id": "LA_kwDOHjKMAs7-AOaN",
+      "url": "https://api.github.com/repos/conda-forge/oracledb-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T11:04:43.688781",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 49,
   "state": "open",
-  "updated_at": "2026-10-27T22:49:31Z"
+  "updated_at": "2026-10-28T11:03:08Z"
 }

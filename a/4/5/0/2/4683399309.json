@@ -1,5 +1,5 @@
 {
-  "ETag": "\"ecf6cc24db4e454b370fb6d25437a45bfc3588ea0c8d7427d0409fac9520caa8\"",
+  "ETag": "W/\"5eb66df96b6d8f89fd0a76891e403400de9be63a15cc8a76c2554f6c4b789537\"",
   "Last-Modified": "Wed, 28 Oct 2026 05:43:12 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/intbitset-feedstock/pull/24",
   "id": 4683399309,
-  "labels": [],
-  "last_fetched": "2026-10-28T05:44:24.436754",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-28T05:43:15.280003",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

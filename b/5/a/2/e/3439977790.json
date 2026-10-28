@@ -1,17 +1,17 @@
 {
-  "ETag": "\"acbe951fcdf72c5b588d2e29a525d9870b56b6d7914215d5b5ef1586ac855752\"",
-  "Last-Modified": "Wed, 28 Oct 2026 22:25:39 GMT",
+  "ETag": "\"15397c84037a76657a9219808c3a1faf376f4d64d0b00c4d6d8fc98d4e2225fb\"",
+  "Last-Modified": "Wed, 28 Oct 2026 22:34:31 GMT",
   "base": {
     "repo": {
       "name": "cyclus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T22:34:26Z",
   "created_at": "2026-03-24T14:59:01Z",
   "draft": false,
   "e_tag": "\"09ae86fefedfe315b5313a1ef622720e9dc00348924d7676daf09e3c51f512b0\"",
   "head": {
-    "ref": "rebuild-hdf52-0-1_h9d5f12"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cyclus-feedstock/pull/112",
   "id": 3439977790,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/cyclus-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-28T22:26:51.498885",
+  "last_fetched": "2026-10-28T22:35:40.915942",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T22:34:26Z",
   "number": 112,
-  "state": "open",
-  "updated_at": "2026-10-28T22:25:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T22:34:31Z"
 }

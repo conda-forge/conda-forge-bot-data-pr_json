@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2ec0d301442d8bd89f911f3155cf480166ddaa70b3a39a999fb2f92da3614741\"",
-  "Last-Modified": "Wed, 28 Oct 2026 05:29:52 GMT",
+  "ETag": "\"00c31bda611d51373f49a9cb119f2ac1dda1734f81d960214fc4b764e50b3c47\"",
+  "Last-Modified": "Wed, 28 Oct 2026 12:53:45 GMT",
   "base": {
     "repo": {
       "name": "graphblas-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T12:53:44Z",
   "closed_by": null,
   "created_at": "2026-10-25T15:34:28Z",
   "draft": false,
   "e_tag": "\"1de9f757d6a4238cca1ce00b6931f0c077f10aab7ea0b033f7737d1f893800aa\"",
   "head": {
-    "ref": "10.5.2_h9ea263"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/graphblas-feedstock/pull/91",
   "id": 5006098077,
   "labels": [],
-  "last_fetched": "2026-10-28T05:31:27.131288",
+  "last_fetched": "2026-10-28T12:55:39.742090",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T12:53:44Z",
   "number": 91,
-  "state": "open",
-  "updated_at": "2026-10-28T05:29:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T12:53:45Z"
 }

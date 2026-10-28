@@ -1,6 +1,6 @@
 {
-  "ETag": "\"24585f2d801400ddae7592a79a0d796c6a8ff353704b6082d21f3aeb7da37732\"",
-  "Last-Modified": "Tue, 27 Oct 2026 20:15:59 GMT",
+  "ETag": "\"7ab4a50895e6e577cf81bd222cba6a41d95a4efb8a75f16b422d384aaabeda12\"",
+  "Last-Modified": "Wed, 28 Oct 2026 00:16:49 GMT",
   "base": {
     "repo": {
       "name": "desktop-app-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/desktop-app-feedstock/pull/34",
   "id": 5040471775,
-  "labels": [],
-  "last_fetched": "2026-10-27T20:29:06.673897",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2739244089,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzM5MjQ0MDg5",
+      "url": "https://api.github.com/repos/conda-forge/desktop-app-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T00:17:58.620461",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 34,
   "state": "open",
-  "updated_at": "2026-10-27T20:15:59Z"
+  "updated_at": "2026-10-28T00:16:49Z"
 }

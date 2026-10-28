@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cc6f242748543fca65e7098fb3122dd9ed57140557e2ed70abbdac4f7bc98417\"",
+  "Last-Modified": "Wed, 28 Oct 2026 12:07:33 GMT",
   "base": {
     "repo": {
       "name": "tad-multicharge-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T12:07:33Z",
   "closed_by": null,
   "created_at": "2026-10-28T11:56:25Z",
   "draft": false,
   "e_tag": "\"b17eb45f5654d4cc967dd20f4de0d5bd69d9dc99942eb4c8e8a909888e899f84\"",
   "head": {
-    "ref": "0.8.0_hc1af8e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tad-multicharge-feedstock/pull/13",
   "id": 5050055962,
   "labels": [],
-  "last_fetched": "2026-10-28T11:56:25.919432",
+  "last_fetched": "2026-10-28T12:09:11.274925",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-28T12:07:33Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-28T11:56:25Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T12:07:33Z"
 }

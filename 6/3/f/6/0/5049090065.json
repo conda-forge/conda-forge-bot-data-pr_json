@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a6f85e7e6a3392de11a323453cdb8df0130f73ced7d9dc0b63549af3a8fd37ec\"",
+  "Last-Modified": "Wed, 28 Oct 2026 10:41:52 GMT",
   "base": {
     "repo": {
       "name": "types-grpcio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T10:41:47Z",
   "closed_by": null,
   "created_at": "2026-10-28T10:39:52Z",
   "draft": false,
   "e_tag": "\"79b446c45b209917f4b230507fbb3b15c9b328dfd1f47916fdd330bbe16c237d\"",
   "head": {
-    "ref": "1.85.0.20261028_hd4a79f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-grpcio-feedstock/pull/5",
   "id": 5049090065,
   "labels": [],
-  "last_fetched": "2026-10-28T10:39:53.661791",
+  "last_fetched": "2026-10-28T10:43:28.947047",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T10:41:47Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-28T10:39:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T10:41:52Z"
 }

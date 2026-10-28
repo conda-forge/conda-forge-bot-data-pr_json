@@ -1,6 +1,6 @@
 {
-  "ETag": "\"fab5dd978608337aca57347e066dc227e7d8468ee025d3ce593a1492e260d6d2\"",
-  "Last-Modified": "Wed, 28 Oct 2026 13:13:34 GMT",
+  "ETag": "\"b155aa6144081785694567be4c87e3b37c7a95f3d3a528b5f43872c295404768\"",
+  "Last-Modified": "Wed, 28 Oct 2026 22:52:36 GMT",
   "base": {
     "repo": {
       "name": "zenoh-pico-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/zenoh-pico-feedstock/pull/13",
   "id": 5051047460,
-  "labels": [],
-  "last_fetched": "2026-10-28T15:44:43.961071",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8830349646,
+      "name": "automerge",
+      "node_id": "LA_kwDOPAuLu88AAAACDlRxTg",
+      "url": "https://api.github.com/repos/conda-forge/zenoh-pico-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T22:54:16.498959",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 13,
   "state": "open",
-  "updated_at": "2026-10-28T13:13:34Z"
+  "updated_at": "2026-10-28T22:52:36Z"
 }

@@ -1,13 +1,13 @@
 {
-  "ETag": "\"bb325d2730b7630152a6d7198c21362da5d547c334d5595a911828cd19384fce\"",
-  "Last-Modified": "Wed, 28 Oct 2026 15:36:53 GMT",
+  "ETag": "W/\"f882c839096d5ccb0a0363531a6b4b38d1c072f65e5595dc11bd9a33f9dc84a1\"",
+  "Last-Modified": "Wed, 28 Oct 2026 21:48:19 GMT",
   "base": {
     "repo": {
       "name": "granian-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-28T21:48:19Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-28T15:35:21Z",
   "draft": false,
   "e_tag": "\"05de86dbf3d65897cad1de6a52d6896e2ae46837fde4ffe1b9337f8192400156\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/granian-feedstock/pull/110",
   "id": 5053219962,
-  "labels": [],
-  "last_fetched": "2026-10-28T15:43:42.468401",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6542284595,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOLQlMy88AAAABhfNXMw",
+      "url": "https://api.github.com/repos/conda-forge/granian-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-28T21:48:23.193826",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 110,
-  "state": "open",
-  "updated_at": "2026-10-28T15:36:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T21:48:19Z"
 }

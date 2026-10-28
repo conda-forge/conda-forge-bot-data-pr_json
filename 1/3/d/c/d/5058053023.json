@@ -1,4 +1,6 @@
 {
+  "ETag": "\"0f71f4228fb740fc264c9524747d568d562e2367478bd582bb77ad19589f3375\"",
+  "Last-Modified": "Wed, 28 Oct 2026 22:11:26 GMT",
   "base": {
     "repo": {
       "name": "cupy-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cupy-feedstock/pull/355",
   "id": 5058053023,
-  "labels": [],
-  "last_fetched": "2026-10-28T21:34:36.625020",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890863312,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODYzMzEy",
+      "url": "https://api.github.com/repos/conda-forge/cupy-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T22:12:32.626180",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 355,
   "state": "open",
-  "updated_at": "2026-10-28T21:34:35Z"
+  "updated_at": "2026-10-28T22:11:26Z"
 }

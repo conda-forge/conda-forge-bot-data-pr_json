@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9de9de98f9fc2f3d93e9218747347deab18f426502de80b9eaec8d7924742a64\"",
+  "Last-Modified": "Wed, 28 Oct 2026 15:03:24 GMT",
   "base": {
     "repo": {
       "name": "flit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T15:03:20Z",
   "closed_by": null,
   "created_at": "2026-10-28T14:59:50Z",
   "draft": false,
   "e_tag": "\"878322dffd65b77792bcf14eaa64fc59e6243cce7575fd654c152c5faba78476\"",
   "head": {
-    "ref": "4.2.0_he98ed2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flit-feedstock/pull/52",
   "id": 5052684400,
   "labels": [],
-  "last_fetched": "2026-10-28T14:59:51.643386",
+  "last_fetched": "2026-10-28T15:04:32.446030",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T15:03:20Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-10-28T14:59:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T15:03:24Z"
 }

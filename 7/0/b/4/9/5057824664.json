@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5c7d42277e08799a241db000b7b45614577d67963ba69f12812832e7571fd9c1\"",
+  "Last-Modified": "Wed, 28 Oct 2026 21:20:14 GMT",
   "base": {
     "repo": {
       "name": "r-insight-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T21:20:10Z",
   "closed_by": null,
   "created_at": "2026-10-28T21:16:03Z",
   "draft": false,
   "e_tag": "\"11c211ed46ee080d6824f7bae9c5998fa5cb8de54341fbe21e1d75386ffebf01\"",
   "head": {
-    "ref": "1.6.1_h64793e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-insight-feedstock/pull/89",
   "id": 5057824664,
   "labels": [],
-  "last_fetched": "2026-10-28T21:16:04.058303",
+  "last_fetched": "2026-10-28T21:21:44.851289",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T21:20:10Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-10-28T21:16:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T21:20:14Z"
 }

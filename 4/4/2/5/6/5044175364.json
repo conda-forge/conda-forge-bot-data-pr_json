@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4f408a3b090a4e71acab97814e985a90be2fcd9ba8397d4f1c68178c79917829\"",
+  "Last-Modified": "Wed, 28 Oct 2026 02:30:42 GMT",
   "base": {
     "repo": {
       "name": "causal-hybrid-control-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T02:30:37Z",
   "closed_by": null,
   "created_at": "2026-10-28T02:27:39Z",
   "draft": false,
   "e_tag": "\"aeeb30390decbadf7c0e2463365b900c5c6c2bfee7e20155a84ed647a7320cbb\"",
   "head": {
-    "ref": "0.23.0_h0e51d1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/causal-hybrid-control-feedstock/pull/7",
   "id": 5044175364,
   "labels": [],
-  "last_fetched": "2026-10-28T02:27:40.504372",
+  "last_fetched": "2026-10-28T02:32:06.309636",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T02:30:37Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-28T02:27:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T02:30:42Z"
 }

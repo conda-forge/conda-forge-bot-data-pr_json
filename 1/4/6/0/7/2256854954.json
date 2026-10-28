@@ -1,12 +1,13 @@
 {
-  "ETag": "\"5ccf18ba90f0c844922444def955cb229e0173c553130be340bb24c8492dad0e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"ba1539652e972f8757074868757a7ba7d7672b38a86e5408d915b944f736f58b\"",
+  "Last-Modified": "Wed, 28 Oct 2026 17:31:08 GMT",
   "base": {
     "repo": {
       "name": "jit-open-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T17:31:08Z",
+  "closed_by": "acaprez",
   "created_at": "2025-01-01T04:45:45Z",
   "draft": false,
   "e_tag": "\"7c72c1c41aef92e3391ee96445d4861e2fd8df0077fe41439e47e5634a951a34\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/jit-open-feedstock/pull/1",
   "id": 2256854954,
   "labels": [],
-  "last_fetched": "2026-10-26T18:00:56.692071",
+  "last_fetched": "2026-10-28T17:32:59.616677",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 1,
-  "state": "open",
-  "updated_at": "2025-01-01T04:47:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T17:31:08Z"
 }

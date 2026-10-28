@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8096c5cdbcf7da97dccb67c667d00af4026a87b360e5eaaec6e43f49d1ab12ed\"",
+  "Last-Modified": "Wed, 28 Oct 2026 23:57:23 GMT",
   "base": {
     "repo": {
       "name": "temporalio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T23:57:19Z",
   "closed_by": null,
   "created_at": "2026-10-28T23:35:08Z",
   "draft": false,
   "e_tag": "\"c88763d7ffa747ce1f300ee53a128ebb68398be249bdb0f1132a68f102a3b10f\"",
   "head": {
-    "ref": "1.35.0_h0939f7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/temporalio-feedstock/pull/38",
   "id": 5059408371,
   "labels": [],
-  "last_fetched": "2026-10-28T23:35:09.382136",
+  "last_fetched": "2026-10-28T23:58:52.295929",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T23:57:19Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-28T23:35:08Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T23:57:23Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"3e1b3cf1e5e3230274dc72e89af2c617043fefd82ef59370fc4f9b7bfc9bd687\"",
-  "Last-Modified": "Sat, 17 Oct 2026 01:41:54 GMT",
+  "ETag": "W/\"3c91be825add6ca98ef471d250e5ab9d71802e72b416a468ccdfb755b2b55015\"",
+  "Last-Modified": "Wed, 28 Oct 2026 19:54:41 GMT",
   "base": {
     "repo": {
       "name": "cupy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T19:54:41Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-01T06:54:25Z",
   "draft": true,
   "e_tag": "\"274777a61a7295bac7197849b409dca4a4f03d40b481b448bc60a3378576bda7\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cupy-feedstock/pull/351",
   "id": 4700363167,
-  "labels": [],
-  "last_fetched": "2026-10-24T04:48:26.379963",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1639147702,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxNjM5MTQ3NzAy",
+      "url": "https://api.github.com/repos/conda-forge/cupy-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-28T19:54:44.095013",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 351,
-  "state": "open",
-  "updated_at": "2026-10-17T01:41:54Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T19:54:41Z"
 }

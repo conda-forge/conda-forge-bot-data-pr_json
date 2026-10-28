@@ -1,29 +1,29 @@
 {
-  "ETag": "\"91ae311defcf760702d0007ec81d034f3b7ab82f19fd2b3bb015e347d2254ad0\"",
-  "Last-Modified": "Wed, 28 Oct 2026 17:50:21 GMT",
+  "ETag": "\"8df2999f570fc67bcc1891318de85a57addd6cf22f9701b5e72415814788203a\"",
+  "Last-Modified": "Wed, 28 Oct 2026 19:05:10 GMT",
   "base": {
     "repo": {
       "name": "lux-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T19:05:09Z",
   "closed_by": null,
   "created_at": "2026-10-28T03:16:58Z",
   "draft": false,
   "e_tag": "\"a61967de10f435b32d3e447f1fe08ab994b36841f4fd33d62e50fb36961430bb\"",
   "head": {
-    "ref": "0.50.0_h313fe4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lux-cli-feedstock/pull/35",
   "id": 5044628693,
   "labels": [],
-  "last_fetched": "2026-10-28T18:24:12.225298",
+  "last_fetched": "2026-10-28T19:07:29.063439",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-28T19:05:09Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-10-28T17:50:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T19:05:10Z"
 }

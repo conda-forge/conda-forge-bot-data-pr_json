@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ebcb95ff620adb2702ec42761d91de1f1c3a6761882d5fd06f39f0afe96a4f1d\"",
-  "Last-Modified": "Tue, 27 Oct 2026 22:35:05 GMT",
+  "ETag": "\"bb7ec9387b9b3f41435868806581bf082905a71f585f888b24dc8f95a6e1bdf1\"",
+  "Last-Modified": "Wed, 28 Oct 2026 17:08:47 GMT",
   "base": {
     "repo": {
       "name": "ghapi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T17:08:47Z",
   "closed_by": null,
   "created_at": "2026-10-27T22:33:37Z",
   "draft": false,
   "e_tag": "\"9c020dad49d6e32cc0d48e07b96e0d5eda1d99e6b9e4a47f271d44ff6762d48c\"",
   "head": {
-    "ref": "2.1.5_hf1f04c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ghapi-feedstock/pull/37",
   "id": 5042116834,
   "labels": [],
-  "last_fetched": "2026-10-28T02:27:36.939944",
+  "last_fetched": "2026-10-28T17:10:24.407347",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-28T17:08:47Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-10-27T22:35:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T17:08:47Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"9ebf781faa1c343fe6364b6764ba80bcdfda71000f908c92f0a7f6d000582a21\"",
-  "Last-Modified": "Wed, 28 Oct 2026 02:01:09 GMT",
+  "ETag": "W/\"10d2e85a83b4c220014745496ba149ed41125f8a7dfc0dbb3f80aaf15e29a1a9\"",
+  "Last-Modified": "Wed, 28 Oct 2026 02:26:12 GMT",
   "base": {
     "repo": {
       "name": "pyjelly-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T02:26:07Z",
   "closed_by": null,
   "created_at": "2026-10-27T15:01:37Z",
   "draft": false,
   "e_tag": "\"48eed8292073c987272da3ebeb1c8e9171a32262d07e804b3f94358ac3c6d8dd\"",
   "head": {
-    "ref": "0.9.0_he839d9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyjelly-feedstock/pull/11",
   "id": 5036147642,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/pyjelly-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-28T02:02:21.663663",
+  "last_fetched": "2026-10-28T02:27:42.888361",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-28T02:26:07Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-28T02:01:09Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T02:26:12Z"
 }

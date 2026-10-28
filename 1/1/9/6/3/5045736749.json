@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4e93e9370ab5e66f5cd4c3745afd5a76bddf538e857eaaee70f44969b3cbae36\"",
+  "Last-Modified": "Wed, 28 Oct 2026 05:54:28 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-google-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T05:54:25Z",
   "closed_by": null,
   "created_at": "2026-10-28T05:34:18Z",
   "draft": false,
   "e_tag": "\"c3db34ef16417b02a41ffd08728838b6975fb5217c7dbe20b2a34ced6d694e19\"",
   "head": {
-    "ref": "8.9.0_hd69c3f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-google-feedstock/pull/397",
   "id": 5045736749,
   "labels": [],
-  "last_fetched": "2026-10-28T05:34:20.242459",
+  "last_fetched": "2026-10-28T05:55:54.004246",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T05:54:25Z",
   "number": 397,
-  "state": "open",
-  "updated_at": "2026-10-28T05:34:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T05:54:28Z"
 }

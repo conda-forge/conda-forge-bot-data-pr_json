@@ -1,18 +1,18 @@
 {
-  "ETag": "\"7ab4a50895e6e577cf81bd222cba6a41d95a4efb8a75f16b422d384aaabeda12\"",
-  "Last-Modified": "Wed, 28 Oct 2026 00:16:49 GMT",
+  "ETag": "W/\"9934fc917a23eb44ef0ed014adaa6e93006eab2fbcde6d8472ed45a1f9f04041\"",
+  "Last-Modified": "Wed, 28 Oct 2026 00:19:59 GMT",
   "base": {
     "repo": {
       "name": "desktop-app-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T00:19:55Z",
   "closed_by": null,
   "created_at": "2026-10-27T20:14:26Z",
   "draft": false,
   "e_tag": "\"244982f901f3388b933d8dc98c3c128dc2fc7c99a676d60280405bb6569683b0\"",
   "head": {
-    "ref": "0.6.1_h6ecc5a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/desktop-app-feedstock/pull/34",
   "id": 5040471775,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/desktop-app-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-28T00:17:58.620461",
+  "last_fetched": "2026-10-28T00:21:30.882859",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-28T00:19:55Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-28T00:16:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T00:19:59Z"
 }

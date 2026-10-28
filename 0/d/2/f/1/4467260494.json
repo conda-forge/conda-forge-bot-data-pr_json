@@ -1,12 +1,13 @@
 {
-  "ETag": "\"21dd83d9b0905735d8f51169803d3313751074b80fc6ad808ef171af31254936\"",
-  "Last-Modified": "Mon, 07 Sep 2026 19:39:10 GMT",
+  "ETag": "\"44f4e4e1c6aa9de41884d41776e900011b369a22b15fd914010b994a1ea12262\"",
+  "Last-Modified": "Wed, 28 Oct 2026 14:59:14 GMT",
   "base": {
     "repo": {
       "name": "libfabric-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T14:59:14Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-07T19:37:34Z",
   "draft": false,
   "e_tag": "\"0b17d8a43047de264a6e4af6765b6b7ac520460750afe8d936ed5b82337a2367\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/libfabric-feedstock/pull/46",
   "id": 4467260494,
   "labels": [],
-  "last_fetched": "2026-10-21T13:59:25.881290",
+  "last_fetched": "2026-10-28T15:00:21.853783",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-09-07T19:39:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T14:59:14Z"
 }

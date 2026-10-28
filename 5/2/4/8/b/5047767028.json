@@ -1,13 +1,13 @@
 {
-  "ETag": "\"214475c4cabbb87a7b5e73861b2596ba296a87cf95a42754a1cb2c87d70219e6\"",
-  "Last-Modified": "Wed, 28 Oct 2026 08:55:56 GMT",
+  "ETag": "W/\"ab2d5bdbe660b0e83c42f165d79a86816563790b853cfc21ba5a1f5108dacccb\"",
+  "Last-Modified": "Wed, 28 Oct 2026 11:34:36 GMT",
   "base": {
     "repo": {
       "name": "solarmach-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-28T11:34:36Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-28T08:54:26Z",
   "draft": false,
   "e_tag": "\"446028583e4bcbce2af1a8b7f525f73806c7db878532f2aaebca77893e9caae0\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/solarmach-feedstock/pull/30",
   "id": 5047767028,
-  "labels": [],
-  "last_fetched": "2026-10-28T09:57:56.843139",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3966832557,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOHEKqu87scQ-t",
+      "url": "https://api.github.com/repos/conda-forge/solarmach-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-28T11:34:39.334370",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-28T08:55:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T11:34:36Z"
 }

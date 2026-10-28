@@ -1,6 +1,6 @@
 {
-  "ETag": "\"2a5983ce3c5a6a7f7d4f2c7433db4f01e3ea0fdde9bab18bc6ab54a714de09c6\"",
-  "Last-Modified": "Wed, 28 Oct 2026 17:24:10 GMT",
+  "ETag": "\"0eee13347c86072d66ec58be39048268076a55316f57523f487e1459c686f450\"",
+  "Last-Modified": "Wed, 28 Oct 2026 19:09:23 GMT",
   "base": {
     "repo": {
       "name": "lux-cli-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/lux-cli-feedstock/pull/36",
   "id": 5054302231,
-  "labels": [],
-  "last_fetched": "2026-10-28T18:37:21.539455",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11724792612,
+      "name": "automerge",
+      "node_id": "LA_kwDOTtVgQ88AAAACutojJA",
+      "url": "https://api.github.com/repos/conda-forge/lux-cli-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T19:11:12.494535",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 36,
   "state": "open",
-  "updated_at": "2026-10-28T17:24:10Z"
+  "updated_at": "2026-10-28T19:09:23Z"
 }

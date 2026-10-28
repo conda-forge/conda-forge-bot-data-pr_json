@@ -1,13 +1,13 @@
 {
-  "ETag": "\"0bdfef99a6bae4f769baeaaec7344743bd741ee757ed1935b680c9172f512689\"",
-  "Last-Modified": "Tue, 27 Oct 2026 19:36:29 GMT",
+  "ETag": "W/\"41d5b5fdbf99b642c0e98df1fbc4008b3c1d9f1f0b7599c7d67561ffc44f6367\"",
+  "Last-Modified": "Wed, 28 Oct 2026 07:59:10 GMT",
   "base": {
     "repo": {
       "name": "apache-solr-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-28T07:59:10Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-27T19:27:24Z",
   "draft": false,
   "e_tag": "\"61e3c6a1677a3b5b38a8ee33e99b754ca7298a478ae4aeead5ae3e3cc4b739f0\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-solr-feedstock/pull/13",
   "id": 5039847294,
-  "labels": [],
-  "last_fetched": "2026-10-27T19:58:54.546156",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 7851085802,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDONaK_3s8AAAAB0_YP6g",
+      "url": "https://api.github.com/repos/conda-forge/apache-solr-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-28T07:59:14.026982",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-27T19:36:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T07:59:10Z"
 }

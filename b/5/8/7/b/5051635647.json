@@ -1,29 +1,29 @@
 {
-  "ETag": "\"71e55a41844e38e097d75334aafefdc185294dd4b30cff72e84dd2af230e975e\"",
-  "Last-Modified": "Wed, 28 Oct 2026 13:53:17 GMT",
+  "ETag": "\"d5cf5da34592bc0aa69160e7fc8a7630aa19424ba4ac3ad1c0a19d372a7329d5\"",
+  "Last-Modified": "Wed, 28 Oct 2026 15:26:21 GMT",
   "base": {
     "repo": {
       "name": "zenoh-c-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T15:26:21Z",
   "closed_by": null,
   "created_at": "2026-10-28T13:51:43Z",
   "draft": false,
   "e_tag": "\"0b9a46114ae05a8350167771a43f880afd5a6b0ef3de6018ea3271cb8647a4f2\"",
   "head": {
-    "ref": "1.10.2_ha64b1d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zenoh-c-feedstock/pull/68",
   "id": 5051635647,
   "labels": [],
-  "last_fetched": "2026-10-28T14:21:33.441858",
+  "last_fetched": "2026-10-28T15:27:29.198008",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T15:26:21Z",
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-10-28T13:53:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T15:26:21Z"
 }

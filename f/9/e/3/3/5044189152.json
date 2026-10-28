@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e076301e951e7a3b4ea3b42ca5e0242712073826816535c16b18e71d0805f52e\"",
-  "Last-Modified": "Wed, 28 Oct 2026 02:31:12 GMT",
+  "ETag": "\"c252ceb88439024c4e348883cd2901885d972bf4837a83cebc6d268d2616fc1d\"",
+  "Last-Modified": "Wed, 28 Oct 2026 15:50:59 GMT",
   "base": {
     "repo": {
       "name": "arraylake-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/arraylake-feedstock/pull/120",
   "id": 5044189152,
-  "labels": [],
-  "last_fetched": "2026-10-28T03:22:34.073366",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6144555665,
+      "name": "automerge",
+      "node_id": "LA_kwDOKmrpVM8AAAABbj56kQ",
+      "url": "https://api.github.com/repos/conda-forge/arraylake-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T15:52:34.957900",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 120,
   "state": "open",
-  "updated_at": "2026-10-28T02:31:12Z"
+  "updated_at": "2026-10-28T15:50:59Z"
 }

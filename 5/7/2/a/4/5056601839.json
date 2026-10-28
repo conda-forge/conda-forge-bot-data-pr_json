@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5a9b3f910b2528810393befe2cfd5110e9ac749a72c42cf211e6360c90248006\"",
+  "Last-Modified": "Wed, 28 Oct 2026 20:33:03 GMT",
   "base": {
     "repo": {
       "name": "biorbd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T20:33:03Z",
   "closed_by": null,
   "created_at": "2026-10-28T19:40:01Z",
   "draft": false,
   "e_tag": "\"da30c86aa1478a06ce2a52084f101bb1a7ca7e1a93f4060c0ea425970d057a7d\"",
   "head": {
-    "ref": "1.12.5_hdb9c0c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/biorbd-feedstock/pull/135",
   "id": 5056601839,
   "labels": [],
-  "last_fetched": "2026-10-28T19:40:02.372433",
+  "last_fetched": "2026-10-28T20:34:33.023234",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T20:33:03Z",
   "number": 135,
-  "state": "open",
-  "updated_at": "2026-10-28T19:40:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T20:33:03Z"
 }

@@ -1,33 +1,29 @@
 {
-  "ETag": "\"733e3f3e2bc5337b48e980289aa747ad1ef95dbd54e44cd3ca598ecb0de7eaca\"",
-  "Last-Modified": "Wed, 21 Oct 2026 05:13:18 GMT",
+  "ETag": "\"ad0b7174961ccbf2c9dd612792fdeb1f34ed868edfa3ec6f86b60edd4a1f60ca\"",
+  "Last-Modified": "Wed, 28 Oct 2026 06:30:20 GMT",
   "base": {
     "repo": {
       "name": "hop-client-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-28T06:30:20Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-21T05:11:36Z",
   "draft": false,
   "e_tag": "\"71677546ec92769b8eb4872e8e9394aa92361af8a3aeb11af7781a7c996ea0a6\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "0.13.0_h28c3c4"
   },
   "html_url": "https://github.com/conda-forge/hop-client-feedstock/pull/24",
   "id": 4946734961,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-10-28T06:30:18.641970",
+  "labels": [],
+  "last_fetched": "2026-10-28T06:32:21.723685",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-21T05:13:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T06:30:20Z"
 }

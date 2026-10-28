@@ -1,12 +1,13 @@
 {
-  "ETag": "\"9e4e2fa994fa6f693b27c31c30103eddf4917b6d4da5967cef6680e7accc66bb\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"c1304a2b945a4c36e57215297fd4c78b24bdf313c381ef8e30160ca13be4b1de\"",
+  "Last-Modified": "Wed, 28 Oct 2026 20:53:02 GMT",
   "base": {
     "repo": {
       "name": "cyclus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T20:53:02Z",
+  "closed_by": "matthewfeickert",
   "created_at": "2025-10-03T23:32:54Z",
   "draft": false,
   "e_tag": "\"9c055dac432d36fd3150c72b76cae6d8e961de31574861dbba523b69b837eba8\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/cyclus-feedstock/pull/110",
   "id": 2886506881,
   "labels": [],
-  "last_fetched": "2026-10-27T19:57:55.034470",
+  "last_fetched": "2026-10-28T20:54:32.826086",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 110,
-  "state": "open",
-  "updated_at": "2025-10-03T23:34:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T20:53:02Z"
 }

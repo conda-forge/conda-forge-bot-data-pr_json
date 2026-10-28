@@ -1,27 +1,29 @@
 {
+  "ETag": "\"353d01c3781149f8bd278c63b425b0593f398f5d007832fe98918795843bdf08\"",
+  "Last-Modified": "Wed, 28 Oct 2026 00:30:37 GMT",
   "base": {
     "repo": {
       "name": "girder-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T00:30:33Z",
   "closed_by": null,
   "created_at": "2026-10-28T00:28:20Z",
   "draft": false,
   "e_tag": "\"ab74cc41faf8ca8217b44a72448c5501f9bf2f27671e32defb1299b74af61fca\"",
   "head": {
-    "ref": "5.0.22_haf7618"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/girder-client-feedstock/pull/73",
   "id": 5043200781,
   "labels": [],
-  "last_fetched": "2026-10-28T00:28:21.183761",
+  "last_fetched": "2026-10-28T00:31:58.987667",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T00:30:33Z",
   "number": 73,
-  "state": "open",
-  "updated_at": "2026-10-28T00:28:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T00:30:37Z"
 }

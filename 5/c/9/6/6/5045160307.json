@@ -1,29 +1,29 @@
 {
-  "ETag": "\"72d2a47a9a11d285dc66c071d0da692f579fc41732c0a511ced24c42bf124758\"",
-  "Last-Modified": "Wed, 28 Oct 2026 04:24:35 GMT",
+  "ETag": "\"3b8140f6d13ca3a1cf84989d817dbac199462b0ad560371f2be4d46319695835\"",
+  "Last-Modified": "Wed, 28 Oct 2026 15:34:01 GMT",
   "base": {
     "repo": {
       "name": "gradio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T15:34:01Z",
   "closed_by": null,
   "created_at": "2026-10-28T04:20:59Z",
   "draft": false,
   "e_tag": "\"2c8c9f495502f17b1e547244a0d583c33874eef6b4cc9ef801b9f9594a83311b\"",
   "head": {
-    "ref": "6.31.0_h2fcb3e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gradio-feedstock/pull/212",
   "id": 5045160307,
   "labels": [],
-  "last_fetched": "2026-10-28T11:19:15.073885",
+  "last_fetched": "2026-10-28T15:35:15.496155",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-28T15:34:01Z",
   "number": 212,
-  "state": "open",
-  "updated_at": "2026-10-28T04:24:35Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T15:34:01Z"
 }

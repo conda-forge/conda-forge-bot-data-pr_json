@@ -1,18 +1,18 @@
 {
-  "ETag": "\"0d752c2c23b321b9d1a5b1651941384d932f36c50747a2c798afd9b8e6c4581f\"",
-  "Last-Modified": "Wed, 28 Oct 2026 23:43:14 GMT",
+  "ETag": "\"2f0947067dcdcf3ac9a1e98a28adddd8ebe6bb7bc8c8ec991db281d8fc9aeb82\"",
+  "Last-Modified": "Wed, 28 Oct 2026 23:49:49 GMT",
   "base": {
     "repo": {
       "name": "torchaudio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T23:49:44Z",
   "closed_by": null,
   "created_at": "2026-10-28T16:49:14Z",
   "draft": false,
   "e_tag": "\"2855891ca3828c6e7804abcf0cdaafcff7c5051cbb66154c10683bd8518c9924\"",
   "head": {
-    "ref": "2.11.1_ha5859d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/torchaudio-feedstock/pull/53",
   "id": 5054288222,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/torchaudio-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-28T23:44:43.669102",
+  "last_fetched": "2026-10-28T23:51:03.715798",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T23:49:44Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-10-28T23:43:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T23:49:49Z"
 }

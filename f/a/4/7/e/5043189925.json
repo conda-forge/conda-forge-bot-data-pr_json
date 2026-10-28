@@ -1,27 +1,29 @@
 {
+  "ETag": "\"99dcf6dc2d9f370d9f386599b864240b65052985e92005b5977fa347a93fdec7\"",
+  "Last-Modified": "Wed, 28 Oct 2026 00:30:45 GMT",
   "base": {
     "repo": {
       "name": "copilotkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-28T00:30:40Z",
   "closed_by": null,
   "created_at": "2026-10-28T00:27:00Z",
   "draft": false,
   "e_tag": "\"e06f229f236e08a924a2fa711a93b7ab8e9206b1004a9d214c14b991036d7dc7\"",
   "head": {
-    "ref": "1.82.0_h62302d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/copilotkit-feedstock/pull/64",
   "id": 5043189925,
   "labels": [],
-  "last_fetched": "2026-10-28T00:27:00.857577",
+  "last_fetched": "2026-10-28T00:31:50.953586",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-28T00:30:40Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-10-28T00:27:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-28T00:30:45Z"
 }

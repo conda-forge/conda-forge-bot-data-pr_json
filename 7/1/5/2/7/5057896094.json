@@ -1,4 +1,6 @@
 {
+  "ETag": "\"bd96c72dbb5bad932607ac0477604fb6f4980ea2e76077494edc7db6e3c1acc7\"",
+  "Last-Modified": "Wed, 28 Oct 2026 21:41:48 GMT",
   "base": {
     "repo": {
       "name": "mesalib-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/mesalib-feedstock/pull/158",
   "id": 5057896094,
-  "labels": [],
-  "last_fetched": "2026-10-28T21:21:55.760460",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891017915,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDE3OTE1",
+      "url": "https://api.github.com/repos/conda-forge/mesalib-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T21:43:25.241551",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 158,
   "state": "open",
-  "updated_at": "2026-10-28T21:21:54Z"
+  "updated_at": "2026-10-28T21:41:48Z"
 }

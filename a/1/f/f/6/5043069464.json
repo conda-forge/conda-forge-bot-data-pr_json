@@ -1,4 +1,6 @@
 {
+  "ETag": "\"e5802cfa1b2635c2a5800b053f4228c2847787987b6275f414bdc423fd450212\"",
+  "Last-Modified": "Wed, 28 Oct 2026 00:17:01 GMT",
   "base": {
     "repo": {
       "name": "libjpeg-turbo-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/libjpeg-turbo-feedstock/pull/43",
   "id": 5043069464,
-  "labels": [],
-  "last_fetched": "2026-10-28T00:12:58.199041",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891010776,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDEwNzc2",
+      "url": "https://api.github.com/repos/conda-forge/libjpeg-turbo-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-28T00:18:48.825501",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 43,
   "state": "open",
-  "updated_at": "2026-10-28T00:12:57Z"
+  "updated_at": "2026-10-28T00:17:01Z"
 }

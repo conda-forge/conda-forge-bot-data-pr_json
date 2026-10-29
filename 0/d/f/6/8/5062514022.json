@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"a4e1fefc1d96361bff4374f80efc7692730d1c7fcfc8f35710be3839523284fc\"",
+  "Last-Modified": "Thu, 29 Oct 2026 05:03:52 GMT",
   "base": {
     "repo": {
       "name": "aws-durable-execution-sdk-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T05:03:52Z",
   "closed_by": null,
   "created_at": "2026-10-29T05:02:05Z",
   "draft": false,
   "e_tag": "\"8ea56bdb0ae40cd86b4134106103df4d6182d1071b08c7557eb5788c88a02c7c\"",
   "head": {
-    "ref": "3.0.1_h6a03c2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-durable-execution-sdk-python-feedstock/pull/13",
   "id": 5062514022,
   "labels": [],
-  "last_fetched": "2026-10-29T05:02:06.832972",
+  "last_fetched": "2026-10-29T05:05:24.713581",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-29T05:03:52Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-29T05:02:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T05:03:57Z"
 }

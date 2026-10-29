@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c662d02220da47dd55e4efbadaa338d2f209038049c15083900003d77240c43b\"",
+  "Last-Modified": "Thu, 29 Oct 2026 18:16:11 GMT",
   "base": {
     "repo": {
       "name": "communique-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T18:16:07Z",
   "closed_by": null,
   "created_at": "2026-10-29T17:34:01Z",
   "draft": false,
   "e_tag": "\"22b9f411928a59e524aa7ff6cf8622408d6d5e4a6d6a1461e2708f06a4677ea3\"",
   "head": {
-    "ref": "1.8.0_h4b3981"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/communique-feedstock/pull/22",
   "id": 5072708867,
   "labels": [],
-  "last_fetched": "2026-10-29T17:34:03.297569",
+  "last_fetched": "2026-10-29T18:17:23.525996",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T18:16:07Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-29T17:34:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T18:16:11Z"
 }

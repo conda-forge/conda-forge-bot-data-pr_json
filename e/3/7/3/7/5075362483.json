@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9e14154a753775be65ebbbd44ce16c9f29047fdd697d549f2662a453c9aa5ae2\"",
+  "Last-Modified": "Thu, 29 Oct 2026 20:56:41 GMT",
   "base": {
     "repo": {
       "name": "moar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T20:56:37Z",
   "closed_by": null,
   "created_at": "2026-10-29T20:52:46Z",
   "draft": false,
   "e_tag": "\"3b3b896ab88a1e65cac6b91b98ef701e77bb92870615dca54266e72c395bdee6\"",
   "head": {
-    "ref": "2.19.6_hc37eec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/moar-feedstock/pull/86",
   "id": 5075362483,
   "labels": [],
-  "last_fetched": "2026-10-29T20:52:47.760147",
+  "last_fetched": "2026-10-29T20:58:14.711849",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T20:56:37Z",
   "number": 86,
-  "state": "open",
-  "updated_at": "2026-10-29T20:52:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T20:56:41Z"
 }

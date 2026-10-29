@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7fae95f295d8fd8fbbdc4afa97bdb57d77f14b8f1380e3ea7dbbfb2d8679668e\"",
+  "Last-Modified": "Thu, 29 Oct 2026 07:02:38 GMT",
   "base": {
     "repo": {
       "name": "posthog-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T07:02:33Z",
   "closed_by": null,
   "created_at": "2026-10-29T06:58:55Z",
   "draft": false,
   "e_tag": "\"e5339f284098f56bfafe732dcd5b9a53c242748108630e8405d74853ae4b3fab\"",
   "head": {
-    "ref": "7.79.0_h4e8a11"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/posthog-feedstock/pull/244",
   "id": 5063755989,
   "labels": [],
-  "last_fetched": "2026-10-29T06:58:56.675004",
+  "last_fetched": "2026-10-29T07:04:00.754869",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T07:02:33Z",
   "number": 244,
-  "state": "open",
-  "updated_at": "2026-10-29T06:58:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T07:02:38Z"
 }

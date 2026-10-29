@@ -1,18 +1,18 @@
 {
-  "ETag": "\"c7f55ebde58b5f7355fd5b899a83eb80406899fa40c24113b62416f4cb60bfab\"",
-  "Last-Modified": "Thu, 29 Oct 2026 17:21:52 GMT",
+  "ETag": "\"aad12a394d70c5d5fbc25a67328d277cb032143893e5e074572c7d6bd4b36f64\"",
+  "Last-Modified": "Thu, 29 Oct 2026 17:24:00 GMT",
   "base": {
     "repo": {
       "name": "flake8-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T17:23:56Z",
   "closed_by": null,
   "created_at": "2026-10-29T01:21:47Z",
   "draft": false,
   "e_tag": "\"a79ba9f5de89646b73f0d3299a7f62d0177daaf8da344dc63d17af39793613cd\"",
   "head": {
-    "ref": "7.5.0_hc7217d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flake8-feedstock/pull/70",
   "id": 5060422993,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/flake8-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-29T17:22:28.310456",
+  "last_fetched": "2026-10-29T17:25:24.406844",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T17:23:55Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-10-29T17:21:52Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T17:24:00Z"
 }

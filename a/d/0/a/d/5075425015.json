@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5622c7d4d029239662ee14bc847aa4d9a99de2e93c3bd57b90d94cfe484e43dc\"",
+  "Last-Modified": "Thu, 29 Oct 2026 21:05:00 GMT",
   "base": {
     "repo": {
       "name": "crush-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T21:04:55Z",
   "closed_by": null,
   "created_at": "2026-10-29T20:57:50Z",
   "draft": false,
   "e_tag": "\"f2ddfb6f1eb9a421cf95890b4fd3224f07cc2f4dee5658eee4c985dd21b834f8\"",
   "head": {
-    "ref": "0.99.0_haf34be"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/crush-feedstock/pull/115",
   "id": 5075425015,
   "labels": [],
-  "last_fetched": "2026-10-29T20:57:51.678667",
+  "last_fetched": "2026-10-29T21:06:29.520367",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T21:04:55Z",
   "number": 115,
-  "state": "open",
-  "updated_at": "2026-10-29T20:57:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T21:05:00Z"
 }

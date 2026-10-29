@@ -1,29 +1,29 @@
 {
-  "ETag": "\"325b31ee68913785de0a5323e396e630ebe8dd73a289505224275ea58b0ab94a\"",
-  "Last-Modified": "Thu, 29 Oct 2026 06:11:01 GMT",
+  "ETag": "\"eeddc999491e8917e57b942cf378751c657b78223238ce9e0eebf5fa348a07c4\"",
+  "Last-Modified": "Thu, 29 Oct 2026 10:49:12 GMT",
   "base": {
     "repo": {
       "name": "maicos-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T10:49:11Z",
   "closed_by": null,
   "created_at": "2026-10-29T06:09:16Z",
   "draft": false,
   "e_tag": "\"780f30e6ac7625a60b11b5ea92f87e1c240c3b8580aabfa72caea0c1f0d18487\"",
   "head": {
-    "ref": "0.13_h53e2b1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/maicos-feedstock/pull/22",
   "id": 5063222168,
   "labels": [],
-  "last_fetched": "2026-10-29T06:30:24.012688",
+  "last_fetched": "2026-10-29T10:50:58.143355",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T10:49:11Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-10-29T06:11:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T10:49:12Z"
 }

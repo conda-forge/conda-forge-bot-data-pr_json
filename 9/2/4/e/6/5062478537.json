@@ -1,27 +1,29 @@
 {
+  "ETag": "\"732c0543d4c51559017a2440562f8cdd268d8c3ab3bf09ea7443ebf5db415019\"",
+  "Last-Modified": "Thu, 29 Oct 2026 05:04:10 GMT",
   "base": {
     "repo": {
       "name": "simdjson-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T05:04:06Z",
   "closed_by": null,
   "created_at": "2026-10-29T04:58:27Z",
   "draft": false,
   "e_tag": "\"9bfc1ea4be6dcbb5cee610a916114927f4a46328ab0bbb107ad542a722b7318a\"",
   "head": {
-    "ref": "5.0.8_h60c6cb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/simdjson-feedstock/pull/137",
   "id": 5062478537,
   "labels": [],
-  "last_fetched": "2026-10-29T04:58:28.228915",
+  "last_fetched": "2026-10-29T05:05:34.828570",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T05:04:05Z",
   "number": 137,
-  "state": "open",
-  "updated_at": "2026-10-29T04:58:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T05:04:10Z"
 }

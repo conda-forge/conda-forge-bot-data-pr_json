@@ -1,18 +1,18 @@
 {
-  "ETag": "\"f98b8cc9efd66b7aafeeeffce03624f0fd31f3328514d5c0537fd49a8afb541f\"",
-  "Last-Modified": "Thu, 29 Oct 2026 21:51:07 GMT",
+  "ETag": "\"8eaf2714717e0693b67edec2a74c9da6d324c0e7ff4c0a9e90bd709874976200\"",
+  "Last-Modified": "Thu, 29 Oct 2026 21:54:55 GMT",
   "base": {
     "repo": {
       "name": "delta-sharing-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T21:54:50Z",
   "closed_by": null,
   "created_at": "2026-10-29T06:10:59Z",
   "draft": false,
   "e_tag": "\"1f57a1adb971588d3bf6d620957bb72de20dca1f69f5554de9334c8b9656f934\"",
   "head": {
-    "ref": "1.4.3_h6f7be2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/delta-sharing-python-feedstock/pull/33",
   "id": 5063241783,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/delta-sharing-python-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-29T21:52:14.853945",
+  "last_fetched": "2026-10-29T21:56:23.047434",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T21:54:50Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-10-29T21:51:07Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T21:54:55Z"
 }

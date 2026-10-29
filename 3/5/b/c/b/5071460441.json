@@ -1,29 +1,29 @@
 {
-  "ETag": "\"209a6892477f8de7f13bda48f3f3d1682b59c04c89b5a05c164a93080b77fce0\"",
-  "Last-Modified": "Thu, 29 Oct 2026 16:07:56 GMT",
+  "ETag": "\"2249d923c8a99338760b94e78b0b575ccb53b1007b1453b1c0177e4f9c4fada8\"",
+  "Last-Modified": "Thu, 29 Oct 2026 18:03:56 GMT",
   "base": {
     "repo": {
       "name": "rancher-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T18:03:56Z",
   "closed_by": null,
   "created_at": "2026-10-29T16:06:33Z",
   "draft": false,
   "e_tag": "\"9083acecf8ca95412d2bcade214d2a6cad5ec1673170628e1dc937abf7af42fb\"",
   "head": {
-    "ref": "2.15.3_haea785"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rancher-cli-feedstock/pull/24",
   "id": 5071460441,
   "labels": [],
-  "last_fetched": "2026-10-29T16:57:35.108942",
+  "last_fetched": "2026-10-29T18:05:32.409293",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-29T18:03:56Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-29T16:07:56Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T18:03:56Z"
 }

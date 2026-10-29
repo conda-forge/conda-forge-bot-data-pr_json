@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3d5b6d5636d642b756ab9f9de1bd6b47e2fc554c7a58d45961a5baeff92157ea\"",
-  "Last-Modified": "Thu, 29 Oct 2026 04:37:54 GMT",
+  "ETag": "\"5ceb10db40b17a4de534d9b660d19cf0891485034190246f1ba2f432a3f956ca\"",
+  "Last-Modified": "Thu, 29 Oct 2026 22:00:40 GMT",
   "base": {
     "repo": {
       "name": "cyclonedx-bom-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cyclonedx-bom-feedstock/pull/63",
   "id": 5062260943,
-  "labels": [],
-  "last_fetched": "2026-10-29T13:43:58.349657",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3738716799,
+      "name": "automerge",
+      "node_id": "LA_kwDOGsMn2s7e2Ep_",
+      "url": "https://api.github.com/repos/conda-forge/cyclonedx-bom-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-29T22:02:17.439361",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 63,
   "state": "open",
-  "updated_at": "2026-10-29T04:37:54Z"
+  "updated_at": "2026-10-29T22:00:40Z"
 }

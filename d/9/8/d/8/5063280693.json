@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5bf82d12e0a94c7e403bbcb35b85fcaf1fd28fc07d7780f6008b48db3dce042f\"",
+  "Last-Modified": "Thu, 29 Oct 2026 06:18:00 GMT",
   "base": {
     "repo": {
       "name": "r-ggblanket-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T06:18:00Z",
   "closed_by": null,
   "created_at": "2026-10-29T06:14:34Z",
   "draft": false,
   "e_tag": "\"6113b473eaa7ae2de2e542dfa84fe32fc97bb64a00d0c11ee62f9d26521400da\"",
   "head": {
-    "ref": "30.0.0_hdc181c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-ggblanket-feedstock/pull/38",
   "id": 5063280693,
   "labels": [],
-  "last_fetched": "2026-10-29T06:14:35.288767",
+  "last_fetched": "2026-10-29T06:19:03.867005",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T06:18:00Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-29T06:14:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T06:18:04Z"
 }

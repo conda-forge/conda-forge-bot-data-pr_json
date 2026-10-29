@@ -1,27 +1,29 @@
 {
+  "ETag": "\"68f616e993f195716e9a81724a4ef3100c686d0b8104c19bb699d5a11572b531\"",
+  "Last-Modified": "Thu, 29 Oct 2026 21:47:48 GMT",
   "base": {
     "repo": {
       "name": "acme-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T21:47:43Z",
   "closed_by": null,
   "created_at": "2026-10-29T21:45:53Z",
   "draft": false,
   "e_tag": "\"494f9b38e0aaf0fe7c8e9cb9afa8c3131d53b449561a390d2e8a50783bfb0c75\"",
   "head": {
-    "ref": "5.9.0_h29aa6c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/acme-feedstock/pull/66",
   "id": 5076019423,
   "labels": [],
-  "last_fetched": "2026-10-29T21:45:53.984205",
+  "last_fetched": "2026-10-29T21:49:14.009724",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T21:47:43Z",
   "number": 66,
-  "state": "open",
-  "updated_at": "2026-10-29T21:45:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T21:47:48Z"
 }

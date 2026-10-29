@@ -1,13 +1,13 @@
 {
-  "ETag": "\"4a674b19889f9b4fd94ae602a7976b06e995b23def57e56827c06eb5155a0b1b\"",
-  "Last-Modified": "Thu, 22 Oct 2026 05:35:12 GMT",
+  "ETag": "W/\"dd05cece00640e9c978dd677b4d454d15990896282ec5fdb6beee228e4d1ca20\"",
+  "Last-Modified": "Thu, 29 Oct 2026 19:28:29 GMT",
   "base": {
     "repo": {
       "name": "multidict-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-29T19:28:29Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-22T05:33:41Z",
   "draft": false,
   "e_tag": "\"3c3a02eeb5565d7e5d0f454b1fe5d00e840c7a1bc0f99b5a91471eb1da99aee1\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/multidict-feedstock/pull/81",
   "id": 4962632588,
-  "labels": [],
-  "last_fetched": "2026-10-22T08:55:38.661048",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-29T19:28:32.043293",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 81,
-  "state": "open",
-  "updated_at": "2026-10-22T05:35:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T19:28:29Z"
 }

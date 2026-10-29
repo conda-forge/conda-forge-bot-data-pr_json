@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f6bfe220b1eef4c1b01ab00096b372a80939dfbe6311b080340ff8af5564acea\"",
+  "Last-Modified": "Thu, 29 Oct 2026 08:24:14 GMT",
   "base": {
     "repo": {
       "name": "cantools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T08:24:14Z",
   "closed_by": null,
   "created_at": "2026-10-29T08:10:49Z",
   "draft": false,
   "e_tag": "\"b75bdd95cc796ea351501323b45eec7a3d1b305faacd0b906470693896f2818f\"",
   "head": {
-    "ref": "45.1.2_hd048f2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cantools-feedstock/pull/20",
   "id": 5064560783,
   "labels": [],
-  "last_fetched": "2026-10-29T08:10:50.168842",
+  "last_fetched": "2026-10-29T08:25:21.276929",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T08:24:14Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-10-29T08:10:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T08:24:14Z"
 }

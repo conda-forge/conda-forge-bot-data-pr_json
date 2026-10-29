@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a71d11b0a0563ae9f02dcb9a72ecc614b7314a3b6069d1089a7b9c5ff9160fbb\"",
+  "Last-Modified": "Thu, 29 Oct 2026 09:56:55 GMT",
   "base": {
     "repo": {
       "name": "livekit-plugins-silero-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T09:56:52Z",
   "closed_by": null,
   "created_at": "2026-10-29T09:54:44Z",
   "draft": false,
   "e_tag": "\"b5053c49c52f54e996f0ef04604d53f8d54e61387bce99d22cea23cea280ae08\"",
   "head": {
-    "ref": "1.8.10_h6b92eb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/livekit-plugins-silero-feedstock/pull/36",
   "id": 5065890549,
   "labels": [],
-  "last_fetched": "2026-10-29T09:54:45.850446",
+  "last_fetched": "2026-10-29T09:58:07.729858",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T09:56:52Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-29T09:54:44Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T09:56:55Z"
 }

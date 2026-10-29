@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2aba4dc06d4e44196d665d4e56fea1676a5874c3e3f73811de1c73b8b9348ac9\"",
+  "Last-Modified": "Thu, 29 Oct 2026 23:38:32 GMT",
   "base": {
     "repo": {
       "name": "py-shinylive-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T23:38:27Z",
   "closed_by": null,
   "created_at": "2026-10-29T23:36:46Z",
   "draft": false,
   "e_tag": "\"dfc62273c0f3be26d8ba83ae72cd71b9ac4596bd2bf0e732350d603c8ae4e853\"",
   "head": {
-    "ref": "0.8.13_h48e5f7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/py-shinylive-feedstock/pull/5",
   "id": 5077108503,
   "labels": [],
-  "last_fetched": "2026-10-29T23:36:47.132179",
+  "last_fetched": "2026-10-29T23:40:10.941278",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T23:38:27Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-29T23:36:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T23:38:32Z"
 }

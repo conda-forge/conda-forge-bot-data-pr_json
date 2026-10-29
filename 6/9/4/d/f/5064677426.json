@@ -1,27 +1,29 @@
 {
+  "ETag": "\"60d64e54ae151cea68b7b9c72a971a703006578577d57cd9b90360f819ff4a4f\"",
+  "Last-Modified": "Thu, 29 Oct 2026 08:22:03 GMT",
   "base": {
     "repo": {
       "name": "types-markdown-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T08:21:59Z",
   "closed_by": null,
   "created_at": "2026-10-29T08:20:06Z",
   "draft": false,
   "e_tag": "\"245c7af75e19847ff95cf50a42313502df3682a7be4589f6d86abfb6aa647420\"",
   "head": {
-    "ref": "3.11.2.20261029_hd5a82e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-markdown-feedstock/pull/72",
   "id": 5064677426,
   "labels": [],
-  "last_fetched": "2026-10-29T08:20:08.041528",
+  "last_fetched": "2026-10-29T08:23:12.248200",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T08:21:59Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-10-29T08:20:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T08:22:03Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8fbbdb6e968ab319f97181ccc1cb3974fc85efb1e73ca19740a8c2390e6a1137\"",
+  "Last-Modified": "Thu, 29 Oct 2026 07:50:10 GMT",
   "base": {
     "repo": {
       "name": "msg-extractor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T07:50:09Z",
   "closed_by": null,
   "created_at": "2026-10-29T07:48:11Z",
   "draft": false,
   "e_tag": "\"67124fe8d16821895d70201bce1548ac373df5ba73187e5fc1d01bdd184ff9e9\"",
   "head": {
-    "ref": "0.58.0_hec9bc7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/msg-extractor-feedstock/pull/136",
   "id": 5064303149,
   "labels": [],
-  "last_fetched": "2026-10-29T07:48:11.963500",
+  "last_fetched": "2026-10-29T07:51:45.299624",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T07:50:09Z",
   "number": 136,
-  "state": "open",
-  "updated_at": "2026-10-29T07:48:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T07:50:14Z"
 }

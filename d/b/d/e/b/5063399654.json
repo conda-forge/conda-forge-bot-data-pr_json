@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f6bfb12a017c25a2d484e8198ec00d8d05e7fdba8c2178d722172ff5eb8525ee\"",
-  "Last-Modified": "Thu, 29 Oct 2026 06:27:21 GMT",
+  "ETag": "\"c42d3966acf1ddc7d6a172f55a53ce893eaa906ff4feb30c586e88d00b4585b4\"",
+  "Last-Modified": "Thu, 29 Oct 2026 10:34:51 GMT",
   "base": {
     "repo": {
       "name": "swift-sim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T10:34:51Z",
   "closed_by": null,
   "created_at": "2026-10-29T06:25:51Z",
   "draft": false,
   "e_tag": "\"5ec15056196a525676718d315a4ef6eb619906be1495fdc61c01b1a74d7f104b\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hbb1478"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/swift-sim-feedstock/pull/23",
   "id": 5063399654,
   "labels": [],
-  "last_fetched": "2026-10-29T07:20:58.035456",
+  "last_fetched": "2026-10-29T10:36:24.419621",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-29T10:34:51Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-29T06:27:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T10:34:51Z"
 }

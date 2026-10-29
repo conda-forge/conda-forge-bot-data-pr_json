@@ -1,6 +1,6 @@
 {
-  "ETag": "\"f7c520a9370654016d8427088638184c005ec02d3388e076353226cd53978a05\"",
-  "Last-Modified": "Thu, 29 Oct 2026 00:24:27 GMT",
+  "ETag": "\"b554bca40a03f41a754f384fb51b268455983cd09052d7cceee6ed3991c89d1f\"",
+  "Last-Modified": "Thu, 29 Oct 2026 06:06:19 GMT",
   "base": {
     "repo": {
       "name": "cyclus-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/cyclus-feedstock/pull/113",
   "id": 3585813612,
-  "labels": [],
-  "last_fetched": "2026-10-29T00:44:46.809802",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890863731,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODYzNzMx",
+      "url": "https://api.github.com/repos/conda-forge/cyclus-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-29T06:07:47.411981",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 113,
   "state": "open",
-  "updated_at": "2026-10-29T00:24:27Z"
+  "updated_at": "2026-10-29T06:06:19Z"
 }

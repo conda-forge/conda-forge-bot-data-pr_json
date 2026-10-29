@@ -1,27 +1,29 @@
 {
+  "ETag": "\"36cf67032e55ed5dbfa6adc4eb0e3a7cf8716fc5f9a602225c8aaf60f8d8dde9\"",
+  "Last-Modified": "Thu, 29 Oct 2026 06:11:46 GMT",
   "base": {
     "repo": {
       "name": "intake-esgf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T06:11:41Z",
   "closed_by": null,
   "created_at": "2026-10-29T06:06:42Z",
   "draft": false,
   "e_tag": "\"1804d4e6c9fb5baa4a7a13de83e3cf49cd01b2299ed169e82a0b83a1f05b27de\"",
   "head": {
-    "ref": "2026.11.28_h11b4f4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/intake-esgf-feedstock/pull/24",
   "id": 5063194305,
   "labels": [],
-  "last_fetched": "2026-10-29T06:06:42.857252",
+  "last_fetched": "2026-10-29T06:13:09.488288",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T06:11:41Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-29T06:06:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T06:11:46Z"
 }

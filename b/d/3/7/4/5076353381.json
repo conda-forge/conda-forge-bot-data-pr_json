@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dab3ae8ac72e2caa41e33c0987c8a4a5def0377f4d4e358a7aed10416ae428a4\"",
+  "Last-Modified": "Thu, 29 Oct 2026 22:19:41 GMT",
   "base": {
     "repo": {
       "name": "langsmith-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T22:19:38Z",
   "closed_by": null,
   "created_at": "2026-10-29T22:17:41Z",
   "draft": false,
   "e_tag": "\"7162e4965c22db0201054d64309e388be97189dfd89c3761a2079d1a5dcf8442\"",
   "head": {
-    "ref": "0.14.16_h4d3307"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langsmith-feedstock/pull/341",
   "id": 5076353381,
   "labels": [],
-  "last_fetched": "2026-10-29T22:17:41.859350",
+  "last_fetched": "2026-10-29T22:21:16.167030",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T22:19:38Z",
   "number": 341,
-  "state": "open",
-  "updated_at": "2026-10-29T22:17:41Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T22:19:41Z"
 }

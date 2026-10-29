@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8bf734341f8769fcc3b821ffda0f4ca5086837e04101ea093bf936cea12dc99b\"",
+  "Last-Modified": "Thu, 29 Oct 2026 16:54:29 GMT",
   "base": {
     "repo": {
       "name": "types-geopandas-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T16:54:25Z",
   "closed_by": null,
   "created_at": "2026-10-29T16:52:27Z",
   "draft": false,
   "e_tag": "\"556b9bf53e1ad37f559e6c04ff422577831515e1a0cf5ea07aaec72e4b8f22b6\"",
   "head": {
-    "ref": "1.2.0.20261029_h570a20"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-geopandas-feedstock/pull/17",
   "id": 5072127527,
   "labels": [],
-  "last_fetched": "2026-10-29T16:52:28.631988",
+  "last_fetched": "2026-10-29T16:55:45.550018",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T16:54:25Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-29T16:52:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T16:54:29Z"
 }

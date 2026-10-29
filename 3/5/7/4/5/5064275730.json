@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8f274b42188cab1516a061932c3f56a472625e5409ba9357e79ed426442a2f0e\"",
-  "Last-Modified": "Thu, 29 Oct 2026 08:04:11 GMT",
+  "ETag": "\"3896b601e64e2fc45d1b569157ada2dc82e056f72abf13a5e694eeb140e65ef2\"",
+  "Last-Modified": "Thu, 29 Oct 2026 08:25:11 GMT",
   "base": {
     "repo": {
       "name": "pypolymlp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T08:25:07Z",
   "closed_by": null,
   "created_at": "2026-10-29T07:45:52Z",
   "draft": false,
   "e_tag": "\"1a0c037d5e02aa332a2a2bd4a3eb88d82963b0ebe79aa29907b3479b55ea7a2e\"",
   "head": {
-    "ref": "0.22.1_h05ce18"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pypolymlp-feedstock/pull/116",
   "id": 5064275730,
   "labels": [],
-  "last_fetched": "2026-10-29T08:24:43.191783",
+  "last_fetched": "2026-10-29T08:26:42.745145",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T08:25:07Z",
   "number": 116,
-  "state": "open",
-  "updated_at": "2026-10-29T08:04:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T08:25:11Z"
 }

@@ -1,29 +1,41 @@
 {
-  "ETag": "\"c565249bec6e12d53fb7a868d08de63caa6ea04000d0ec805ae7172b44c32364\"",
-  "Last-Modified": "Thu, 29 Oct 2026 10:00:30 GMT",
+  "ETag": "\"a6c4d543338a14f3006f0605adf50829e17408861cb3aa380fb097bcd82a35fa\"",
+  "Last-Modified": "Thu, 29 Oct 2026 14:21:02 GMT",
   "base": {
     "repo": {
       "name": "spaday-regular-layout-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T14:20:57Z",
   "closed_by": null,
   "created_at": "2026-10-29T09:58:54Z",
   "draft": false,
   "e_tag": "\"a76736c8e5c948f98584efd7ee920ea3974704e32181ee0b64cd8bc7ff0155b8\"",
   "head": {
-    "ref": "0.3.2_h239f6a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spaday-regular-layout-feedstock/pull/8",
   "id": 5065949951,
-  "labels": [],
-  "last_fetched": "2026-10-29T10:58:58.529510",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11912423744,
+      "name": "automerge",
+      "node_id": "LA_kwDOT_81C88AAAACxgkpQA",
+      "url": "https://api.github.com/repos/conda-forge/spaday-regular-layout-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-29T14:21:47.045491",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-29T14:20:57Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-29T10:00:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T14:21:02Z"
 }

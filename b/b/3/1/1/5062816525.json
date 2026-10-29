@@ -1,27 +1,29 @@
 {
+  "ETag": "\"19d964d3f6e7e35176696bdabb5c69a0d580c0721ed31a1380850e368d680c23\"",
+  "Last-Modified": "Thu, 29 Oct 2026 06:22:41 GMT",
   "base": {
     "repo": {
       "name": "physics-tenpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T06:22:40Z",
   "closed_by": null,
   "created_at": "2026-10-29T05:30:53Z",
   "draft": false,
   "e_tag": "\"db2a15bf76aac6fa22965b0f95919e35fb2b95efcc2cfc70a289afadc6a6eb21\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h589c6f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/physics-tenpy-feedstock/pull/51",
   "id": 5062816525,
   "labels": [],
-  "last_fetched": "2026-10-29T05:30:54.735426",
+  "last_fetched": "2026-10-29T06:24:19.293863",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T06:22:39Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-29T05:30:53Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T06:22:41Z"
 }

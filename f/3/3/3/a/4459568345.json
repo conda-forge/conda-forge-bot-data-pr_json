@@ -1,12 +1,13 @@
 {
-  "ETag": "\"da82313730815103bd63a5f923c8b3bb08752c293412003966d6c7ac79577a72\"",
-  "Last-Modified": "Mon, 07 Sep 2026 02:25:45 GMT",
+  "ETag": "W/\"649c0a0cee6d09940ce32f515aa1cd2de124eaf5d4c8596bba3f72456a292a3b\"",
+  "Last-Modified": "Thu, 29 Oct 2026 17:11:11 GMT",
   "base": {
     "repo": {
       "name": "opentrustregion-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T17:11:11Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-07T02:24:11Z",
   "draft": false,
   "e_tag": "\"eb3b8c0e979b05484d22abb2dee7f776aeee9498f90acce514f602351f7a438b\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/opentrustregion-feedstock/pull/8",
   "id": 4459568345,
-  "labels": [],
-  "last_fetched": "2026-10-26T23:22:30.103940",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 9954373413,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOQ1wHMc8AAAACUVOvJQ",
+      "url": "https://api.github.com/repos/conda-forge/opentrustregion-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-29T17:11:15.450982",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-07T02:25:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T17:11:11Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c96c432319856d8296881fe92b5fbd3d76b01574cd13791d3ad66f6da015247c\"",
-  "Last-Modified": "Thu, 29 Oct 2026 05:39:49 GMT",
+  "ETag": "\"5bd7f6a84a3a1642888b7e841b9d546ad94b39b8828e05ec6d196edc790ba7c3\"",
+  "Last-Modified": "Thu, 29 Oct 2026 17:20:15 GMT",
   "base": {
     "repo": {
       "name": "slac-rogue-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T17:20:15Z",
   "closed_by": null,
   "created_at": "2026-10-29T05:38:26Z",
   "draft": false,
   "e_tag": "\"c54e59c4e5e9386030f0c9d3fea18ff4314d1e09205c0faabc324a28115e5ac4\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h05862f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/slac-rogue-feedstock/pull/9",
   "id": 5062893419,
   "labels": [],
-  "last_fetched": "2026-10-29T07:58:13.028293",
+  "last_fetched": "2026-10-29T17:21:45.609388",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T17:20:15Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-29T05:39:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T17:20:15Z"
 }

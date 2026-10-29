@@ -1,5 +1,5 @@
 {
-  "ETag": "\"ee158cd80267be0cd920c37403345c4f4c92e541b6c48b76bdbcbc0221ba7aeb\"",
+  "ETag": "W/\"7df6879539c64f4baddf62d385878b5cdb6260245a9a8098c110306af2e2de07\"",
   "Last-Modified": "Thu, 29 Oct 2026 12:47:37 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/kerneless-feedstock/pull/1",
   "id": 4964854103,
-  "labels": [],
-  "last_fetched": "2026-10-29T12:49:23.231812",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-29T12:47:41.554383",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

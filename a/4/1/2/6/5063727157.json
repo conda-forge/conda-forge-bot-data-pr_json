@@ -1,27 +1,29 @@
 {
+  "ETag": "\"49ab6a3da8ad5f32050e1b64dfe485ae5684136f4748e2685f84515e3153ec56\"",
+  "Last-Modified": "Thu, 29 Oct 2026 07:00:10 GMT",
   "base": {
     "repo": {
       "name": "gdown-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T07:00:05Z",
   "closed_by": null,
   "created_at": "2026-10-29T06:56:20Z",
   "draft": false,
   "e_tag": "\"1b0d7baa88a48f98a5908f32a2bc94e480b6e07a5cfcd8b8bd3059fbc339cecf\"",
   "head": {
-    "ref": "6.5.0_hbae4ab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gdown-feedstock/pull/56",
   "id": 5063727157,
   "labels": [],
-  "last_fetched": "2026-10-29T06:56:21.663141",
+  "last_fetched": "2026-10-29T07:01:16.066317",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-29T07:00:05Z",
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-10-29T06:56:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T07:00:10Z"
 }

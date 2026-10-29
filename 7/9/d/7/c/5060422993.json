@@ -1,6 +1,6 @@
 {
-  "ETag": "\"19288f513b91d0e67e7c066957add510a549491739b59785b371806130b5e27d\"",
-  "Last-Modified": "Thu, 29 Oct 2026 01:23:24 GMT",
+  "ETag": "\"c7f55ebde58b5f7355fd5b899a83eb80406899fa40c24113b62416f4cb60bfab\"",
+  "Last-Modified": "Thu, 29 Oct 2026 17:21:52 GMT",
   "base": {
     "repo": {
       "name": "flake8-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/flake8-feedstock/pull/70",
   "id": 5060422993,
-  "labels": [],
-  "last_fetched": "2026-10-29T01:29:42.960797",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890877232,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODc3MjMy",
+      "url": "https://api.github.com/repos/conda-forge/flake8-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-29T17:22:28.310456",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 70,
   "state": "open",
-  "updated_at": "2026-10-29T01:23:24Z"
+  "updated_at": "2026-10-29T17:21:52Z"
 }

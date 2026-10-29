@@ -1,29 +1,29 @@
 {
-  "ETag": "\"eebee23f33ad104b3afc3304e66fc16a56c33b347c42fd2b597b11306368be53\"",
-  "Last-Modified": "Thu, 22 Oct 2026 06:47:11 GMT",
+  "ETag": "\"2c6f55d5109a96575d209a5fbef62bdf361d2966c69eb1d4da83aec351ba6488\"",
+  "Last-Modified": "Thu, 29 Oct 2026 09:39:13 GMT",
   "base": {
     "repo": {
       "name": "deno-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-29T09:39:13Z",
   "closed_by": null,
   "created_at": "2026-10-22T06:45:43Z",
   "draft": false,
   "e_tag": "\"783986b4e99badeb88c65d1ead774a312b847bd3704c8080b7dfcbbc4dfe2187\"",
   "head": {
-    "ref": "2.9.8_he5e259"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deno-feedstock/pull/215",
   "id": 4963278734,
   "labels": [],
-  "last_fetched": "2026-10-22T13:01:12.925136",
+  "last_fetched": "2026-10-29T09:40:46.382107",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-29T09:39:13Z",
   "number": 215,
-  "state": "open",
-  "updated_at": "2026-10-22T06:47:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-29T09:39:13Z"
 }

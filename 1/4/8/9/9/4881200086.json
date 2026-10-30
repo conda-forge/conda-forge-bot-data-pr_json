@@ -1,5 +1,5 @@
 {
-  "ETag": "\"9fb921a75787696bf7b1bf7d7ae583d32e3d2d153472ba9ce72258e7cfc0dcda\"",
+  "ETag": "W/\"765a6bf4f351dbbf14dbd6544a9f20b9408013c15001f0c18fe96c88424566b8\"",
   "Last-Modified": "Fri, 30 Oct 2026 10:42:59 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/aws-c-http-feedstock/pull/305",
   "id": 4881200086,
-  "labels": [],
-  "last_fetched": "2026-10-30T10:44:34.369864",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T10:43:02.300271",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"31937b00bde0ecba6a43d0f66a61259494b70ee58d5558b3a9386ca355fccfc2\"",
-  "Last-Modified": "Wed, 28 Oct 2026 15:34:17 GMT",
+  "ETag": "\"3c4c7f34f775fcc6b1824821c6a947f2c55d32aea456a17e73105fdf3cca2da5\"",
+  "Last-Modified": "Fri, 30 Oct 2026 23:03:42 GMT",
   "base": {
     "repo": {
       "name": "cli_helpers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T23:03:42Z",
   "closed_by": null,
   "created_at": "2026-10-28T15:32:42Z",
   "draft": false,
   "e_tag": "\"222b41b89a14f3377c0defcfa1d35c6638ce65fb00053dff7319071ed13fe0a1\"",
   "head": {
-    "ref": "2.15.3_ha7d131"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cli_helpers-feedstock/pull/31",
   "id": 5053180412,
   "labels": [],
-  "last_fetched": "2026-10-28T19:28:04.087659",
+  "last_fetched": "2026-10-30T23:05:18.261033",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-30T23:03:42Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-28T15:34:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T23:03:42Z"
 }

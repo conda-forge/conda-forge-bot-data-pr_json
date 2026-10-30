@@ -1,29 +1,29 @@
 {
-  "ETag": "\"51730c3618c1ae5f4bbe926b789b0166f92050533488d5744a8209416f730b4f\"",
-  "Last-Modified": "Fri, 30 Oct 2026 11:04:11 GMT",
+  "ETag": "\"3adeaf391408ba98cafc7130571d8d76bad1b360f4eb06961bbf87869bd096c8\"",
+  "Last-Modified": "Fri, 30 Oct 2026 12:05:41 GMT",
   "base": {
     "repo": {
       "name": "minijinja-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T12:05:40Z",
   "closed_by": null,
   "created_at": "2026-10-30T11:02:47Z",
   "draft": false,
   "e_tag": "\"ad540272232b6f17e9bba07acdd5f10dbf0a3febe02d500bcfd6870bf3560d24\"",
   "head": {
-    "ref": "3.0.5_hc9b5b7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/minijinja-cli-feedstock/pull/2",
   "id": 5083310685,
   "labels": [],
-  "last_fetched": "2026-10-30T11:28:21.360210",
+  "last_fetched": "2026-10-30T12:06:47.434958",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-30T12:05:40Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-10-30T11:04:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T12:05:41Z"
 }

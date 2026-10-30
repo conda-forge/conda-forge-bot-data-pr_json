@@ -1,27 +1,29 @@
 {
+  "ETag": "\"309fa0e65ca6ba50424594f8f3e7f8ab3f2a3d177f2fab7fa46776d760b247d9\"",
+  "Last-Modified": "Fri, 30 Oct 2026 22:12:51 GMT",
   "base": {
     "repo": {
       "name": "types-requests-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T22:12:45Z",
   "closed_by": null,
   "created_at": "2026-10-30T22:10:55Z",
   "draft": false,
   "e_tag": "\"5fbe5de6d564f126ed25ae9f290b6715c64e9d192d2ed541bc216de5ef28291b\"",
   "head": {
-    "ref": "2.33.0.20261030_h94025d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-requests-feedstock/pull/136",
   "id": 5091684992,
   "labels": [],
-  "last_fetched": "2026-10-30T22:10:56.397610",
+  "last_fetched": "2026-10-30T22:13:57.177014",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T22:12:45Z",
   "number": 136,
-  "state": "open",
-  "updated_at": "2026-10-30T22:10:55Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T22:12:51Z"
 }

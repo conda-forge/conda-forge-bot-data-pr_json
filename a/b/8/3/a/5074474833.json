@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3fa146c41a71968622d47a5d50819d57c76a8ada93d022d5e0cd35287e83147f\"",
-  "Last-Modified": "Thu, 29 Oct 2026 19:42:33 GMT",
+  "ETag": "\"ee1a164aca6c7b3bf59de239ca5e233644ca62cf2540623c352c393c9424d75d\"",
+  "Last-Modified": "Fri, 30 Oct 2026 13:59:03 GMT",
   "base": {
     "repo": {
       "name": "tblite-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/tblite-feedstock/pull/27",
   "id": 5074474833,
-  "labels": [],
-  "last_fetched": "2026-10-30T01:23:07.299901",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3643143094,
+      "name": "automerge",
+      "node_id": "LA_kwDOGiIfR87ZJfO2",
+      "url": "https://api.github.com/repos/conda-forge/tblite-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-30T14:00:23.490213",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 27,
   "state": "open",
-  "updated_at": "2026-10-29T19:45:10Z"
+  "updated_at": "2026-10-30T13:59:03Z"
 }

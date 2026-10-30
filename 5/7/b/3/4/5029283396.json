@@ -1,29 +1,29 @@
 {
-  "ETag": "\"50e77cb16ca1f7993ff3c3efd8e96b25efbd166baa83d35fd77d4ae4d9d32987\"",
-  "Last-Modified": "Tue, 27 Oct 2026 05:52:12 GMT",
+  "ETag": "\"b7f384b2ee6ac75dec9286a28a9f2d14a44868e1a881930a5076497d2cc3a39d\"",
+  "Last-Modified": "Fri, 30 Oct 2026 11:23:41 GMT",
   "base": {
     "repo": {
       "name": "unstructured-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T11:23:41Z",
   "closed_by": null,
   "created_at": "2026-10-27T05:50:31Z",
   "draft": false,
   "e_tag": "\"7302cb52206dd0bc5f1aaf583d9b47a9e759c55c9753d5ca1f7cf9041646c6ab\"",
   "head": {
-    "ref": "0.27.35_h794d02"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/unstructured-feedstock/pull/109",
   "id": 5029283396,
   "labels": [],
-  "last_fetched": "2026-10-27T07:43:38.777710",
+  "last_fetched": "2026-10-30T11:25:08.346270",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T11:23:41Z",
   "number": 109,
-  "state": "open",
-  "updated_at": "2026-10-27T05:52:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T11:23:41Z"
 }

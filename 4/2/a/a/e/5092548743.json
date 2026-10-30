@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c0cb17cb8356a6cc58c294a1a80b6d22f6b2dcec848bf6a60cf89c081ebda8d2\"",
+  "Last-Modified": "Fri, 30 Oct 2026 23:52:10 GMT",
   "base": {
     "repo": {
       "name": "labware-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T23:52:06Z",
   "closed_by": null,
   "created_at": "2026-10-30T23:49:33Z",
   "draft": false,
   "e_tag": "\"350a835340862e8bd335338b856db18c580fdc518acd0c2c1127d10f83c9b93a\"",
   "head": {
-    "ref": "0.2.4_h8797f2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/labware-feedstock/pull/7",
   "id": 5092548743,
   "labels": [],
-  "last_fetched": "2026-10-30T23:49:34.764751",
+  "last_fetched": "2026-10-30T23:53:15.244115",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T23:52:06Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-30T23:49:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T23:52:10Z"
 }

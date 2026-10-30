@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1021ff858158f8ca098995b2061a3a8acb170cec44ab8e44bfab26a03a01d7b5\"",
+  "Last-Modified": "Fri, 30 Oct 2026 12:47:21 GMT",
   "base": {
     "repo": {
       "name": "protozfits-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T12:47:21Z",
   "closed_by": null,
   "created_at": "2026-10-30T11:25:59Z",
   "draft": false,
   "e_tag": "\"681dee45cb5151f3314f2ae5bd562db4dc6393b3f08182db224d81f29eec42fd\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_hb536f6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/protozfits-feedstock/pull/73",
   "id": 5083582787,
   "labels": [],
-  "last_fetched": "2026-10-30T11:26:00.062979",
+  "last_fetched": "2026-10-30T12:48:50.359698",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T12:47:21Z",
   "number": 73,
-  "state": "open",
-  "updated_at": "2026-10-30T11:25:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T12:47:21Z"
 }

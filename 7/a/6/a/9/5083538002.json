@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a294452e1dea040c674ccee33f198234eaf1f6dca218dc534c1263a62ea087e7\"",
+  "Last-Modified": "Fri, 30 Oct 2026 11:53:31 GMT",
   "base": {
     "repo": {
       "name": "gz-msgs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T11:53:31Z",
   "closed_by": null,
   "created_at": "2026-10-30T11:21:57Z",
   "draft": false,
   "e_tag": "\"9c19563f498e2cdbb7cb2c2ca8f153ad113167f22241ac35fbf4ecb718d5f401\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h5ec8e0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-msgs-feedstock/pull/106",
   "id": 5083538002,
   "labels": [],
-  "last_fetched": "2026-10-30T11:21:58.380171",
+  "last_fetched": "2026-10-30T11:54:35.790294",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T11:53:31Z",
   "number": 106,
-  "state": "open",
-  "updated_at": "2026-10-30T11:21:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T11:53:31Z"
 }

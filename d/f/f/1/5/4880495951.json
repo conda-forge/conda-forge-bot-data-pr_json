@@ -1,5 +1,5 @@
 {
-  "ETag": "\"65297b2c49875421473ce3dbfbe6e89c352edcfe2c7e8cc6ffeb662c58c315c1\"",
+  "ETag": "W/\"93ce1971f56199b9fd3ea5f55977ae2a2a7384a06507691f0c09998a762a0a7f\"",
   "Last-Modified": "Fri, 30 Oct 2026 08:43:12 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/aws-c-mqtt-feedstock/pull/303",
   "id": 4880495951,
-  "labels": [],
-  "last_fetched": "2026-10-30T08:45:00.107187",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T08:43:14.812480",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

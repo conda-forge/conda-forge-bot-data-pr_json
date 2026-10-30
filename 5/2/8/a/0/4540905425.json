@@ -1,5 +1,5 @@
 {
-  "ETag": "\"7d4b7151f26b6ad144344d033c5046caa69a9d923af43b56928dc5aa6e2ab73e\"",
+  "ETag": "W/\"eabfe3debac8e0d8ffbe4cc8bb17c906305e52d665fd4e705d3d06ea811cbd3d\"",
   "Last-Modified": "Fri, 30 Oct 2026 00:43:31 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/casa_formats_io-feedstock/pull/15",
   "id": 4540905425,
-  "labels": [],
-  "last_fetched": "2026-10-30T00:45:03.260962",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T00:43:34.291213",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

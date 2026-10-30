@@ -1,27 +1,29 @@
 {
+  "ETag": "\"944b9683fee8053479ba7f86d47380b5e8dc33b9adf48b8d3d9c3fab97d6f86f\"",
+  "Last-Modified": "Fri, 30 Oct 2026 07:03:37 GMT",
   "base": {
     "repo": {
       "name": "cpp-httplib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T07:03:36Z",
   "closed_by": null,
   "created_at": "2026-10-30T05:34:45Z",
   "draft": false,
   "e_tag": "\"9327e282c316b31e05deef9a7e951fd224f05499475709f748a161908d4a6667\"",
   "head": {
-    "ref": "0.64.0_h85fa8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cpp-httplib-feedstock/pull/23",
   "id": 5079976898,
   "labels": [],
-  "last_fetched": "2026-10-30T05:34:46.621368",
+  "last_fetched": "2026-10-30T07:04:46.997305",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T07:03:35Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-30T05:34:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T07:03:37Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cc15261530999f641fa42fcc70c592dafd4345d2b29c90327021e295b1beddbf\"",
-  "Last-Modified": "Thu, 29 Oct 2026 22:12:06 GMT",
+  "ETag": "\"40ffc93b8e7b60b580d0c9e9ac7e908f9c33eadb7c2426a25da6e0a6509b4ca7\"",
+  "Last-Modified": "Fri, 30 Oct 2026 07:15:40 GMT",
   "base": {
     "repo": {
       "name": "certbot-dns-nsone-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T07:15:40Z",
   "closed_by": null,
   "created_at": "2026-10-29T22:10:41Z",
   "draft": false,
   "e_tag": "\"b71941c8df361c653eb962a7b4665a9f97ec07985ff5ca5216dd535e5372f6fe\"",
   "head": {
-    "ref": "5.9.0_h4264e7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/certbot-dns-nsone-feedstock/pull/11",
   "id": 5076280112,
   "labels": [],
-  "last_fetched": "2026-10-29T22:58:24.177067",
+  "last_fetched": "2026-10-30T07:17:24.806361",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-30T07:15:40Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-29T22:12:06Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T07:15:40Z"
 }

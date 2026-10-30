@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9a9add8215c1ab54d6f031f86d11ea73d8dc4910ebae1b3f8799635811f5de9b\"",
-  "Last-Modified": "Fri, 30 Oct 2026 11:18:49 GMT",
+  "ETag": "\"297d0f236ed32afa9682c22418ba5898e1e92761125b26d7408795dd0f1155ed\"",
+  "Last-Modified": "Fri, 30 Oct 2026 14:32:48 GMT",
   "base": {
     "repo": {
       "name": "uhd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T14:32:48Z",
   "closed_by": null,
   "created_at": "2026-10-30T11:17:24Z",
   "draft": false,
   "e_tag": "\"1ce7c6af57e484ca6dbab9886f61405e9e66e1931ff1918e48788ecb24b806f0\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h651b81"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uhd-feedstock/pull/75",
   "id": 5083487489,
   "labels": [],
-  "last_fetched": "2026-10-30T11:59:42.961192",
+  "last_fetched": "2026-10-30T14:34:25.469557",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-30T14:32:48Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-30T11:18:49Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T14:32:48Z"
 }

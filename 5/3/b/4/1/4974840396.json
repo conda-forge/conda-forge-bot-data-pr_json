@@ -1,5 +1,5 @@
 {
-  "ETag": "\"9723fca4cea285ab8500778aa463e7db95d24cdfd528c0f1574877ca92e035cd\"",
+  "ETag": "\"9c129fe1a0f3d6522b5d1005742e3614d1fcc2931107e1388a9719eed3c97fc7\"",
   "Last-Modified": "Thu, 22 Oct 2026 22:16:41 GMT",
   "base": {
     "repo": {
@@ -12,15 +12,19 @@
   "draft": false,
   "e_tag": "\"76675f465cfaf1fbd27778aa39a160141bf4f5ef8abecfec02e8f3171f14e1e5\"",
   "head": {
-    "ref": "3.2.0_h10a5ef"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/seekrflow-feedstock/pull/2",
   "id": 4974840396,
-  "labels": [],
-  "last_fetched": "2026-10-23T03:29:17.535971",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T04:43:47.683093",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 2,

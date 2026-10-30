@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2e2424a59a721452cd88b7ba0813f52951bc193cdf56dbf186487d12cd416ed2\"",
+  "Last-Modified": "Fri, 30 Oct 2026 11:51:31 GMT",
   "base": {
     "repo": {
       "name": "types-pyyaml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T11:51:31Z",
   "closed_by": null,
   "created_at": "2026-10-30T11:49:47Z",
   "draft": false,
   "e_tag": "\"7b5627e8a34ecaf0d56e532c1533d3312fbd6e5adb6c50b749b192f2585fb9c7\"",
   "head": {
-    "ref": "6.0.12.20261030_hcea243"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-pyyaml-feedstock/pull/60",
   "id": 5083860321,
   "labels": [],
-  "last_fetched": "2026-10-30T11:49:48.690029",
+  "last_fetched": "2026-10-30T11:52:59.118216",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T11:51:30Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-10-30T11:49:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T11:51:35Z"
 }

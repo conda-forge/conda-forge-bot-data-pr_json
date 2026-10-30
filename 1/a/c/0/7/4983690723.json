@@ -1,13 +1,13 @@
 {
-  "ETag": "\"d467fea9b07f6d6d8d59724b042e0636bcec902c582c6780882b702741b50d7d\"",
-  "Last-Modified": "Wed, 28 Oct 2026 18:55:59 GMT",
+  "ETag": "W/\"2edea6265d36d263a37a8c8f823a752ce6a99d2ac8f4579f17146b5f902a5901\"",
+  "Last-Modified": "Fri, 30 Oct 2026 18:09:30 GMT",
   "base": {
     "repo": {
       "name": "conda-forge-pinning-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-30T18:09:30Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-23T13:43:48Z",
   "draft": true,
   "e_tag": "\"0b43a73a13fe646dd8bd0efe4aa3e738c1eec74a4fccc9e01d8e1b8653f6d6c1\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/9061",
   "id": 4983690723,
-  "labels": [],
-  "last_fetched": "2026-10-28T21:43:30.296676",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890810780,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwODEwNzgw",
+      "url": "https://api.github.com/repos/conda-forge/conda-forge-pinning-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T18:09:33.980340",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 9061,
-  "state": "open",
-  "updated_at": "2026-10-28T18:55:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T18:09:30Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e9ed77c89715d81b9b607686e3f1c478674bd2244f86b3670a209a20fe35e7b2\"",
-  "Last-Modified": "Thu, 29 Oct 2026 17:26:42 GMT",
+  "ETag": "\"6ee6a21151eec9c8e30b03133edc49a75db91f1d22dff1930e6f5d13b78e7aea\"",
+  "Last-Modified": "Fri, 30 Oct 2026 04:32:47 GMT",
   "base": {
     "repo": {
       "name": "ibm-platform-services-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T04:32:47Z",
   "closed_by": null,
   "created_at": "2026-10-29T17:24:47Z",
   "draft": false,
   "e_tag": "\"61c09f974804651cddb222d2de3904af5fa5d9c23aa28dff36bbe38e99abe96e\"",
   "head": {
-    "ref": "0.77.2_h5e0d3c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ibm-platform-services-feedstock/pull/104",
   "id": 5072583544,
   "labels": [],
-  "last_fetched": "2026-10-29T18:36:12.597515",
+  "last_fetched": "2026-10-30T04:34:17.620266",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-30T04:32:47Z",
   "number": 104,
-  "state": "open",
-  "updated_at": "2026-10-29T17:26:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T04:32:47Z"
 }

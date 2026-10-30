@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4b3faf4d1af6ae39f6db2baea5445864b261bf0d3b13717f7cae08419620b929\"",
-  "Last-Modified": "Thu, 29 Oct 2026 23:34:57 GMT",
+  "ETag": "\"ecffad2bde11f8c537c87d9f4edb0bad5c0965517a86f5fc2023f7e2477ab945\"",
+  "Last-Modified": "Fri, 30 Oct 2026 07:15:01 GMT",
   "base": {
     "repo": {
       "name": "certbot-dns-cloudflare-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T07:15:01Z",
   "closed_by": null,
   "created_at": "2026-10-29T23:33:35Z",
   "draft": false,
   "e_tag": "\"f5c4758cba177d4fb77e8370c459639410a9d00dacd26a2500cb1612a8c09674\"",
   "head": {
-    "ref": "5.9.0_hbc70e8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/certbot-dns-cloudflare-feedstock/pull/11",
   "id": 5077080853,
   "labels": [],
-  "last_fetched": "2026-10-30T02:58:35.868897",
+  "last_fetched": "2026-10-30T07:16:30.285777",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-30T07:15:01Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-29T23:34:57Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T07:15:01Z"
 }

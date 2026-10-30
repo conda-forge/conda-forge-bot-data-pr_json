@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cccb3a051a86805e1aa932eeb19089774b477f67e03317932d02cd2b0dc12048\"",
+  "Last-Modified": "Fri, 30 Oct 2026 10:52:01 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-aiohttp-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T10:51:57Z",
   "closed_by": null,
   "created_at": "2026-10-30T10:49:05Z",
   "draft": false,
   "e_tag": "\"ca7f3ba9eedaaed3d3c8f5bf7b572644bc20feaad86c8d429c30638d1465e411\"",
   "head": {
-    "ref": "0.66b2_h39c574"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-aiohttp-client-feedstock/pull/61",
   "id": 5083150039,
   "labels": [],
-  "last_fetched": "2026-10-30T10:49:06.518119",
+  "last_fetched": "2026-10-30T10:53:28.215903",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T10:51:57Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-10-30T10:49:05Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T10:52:01Z"
 }

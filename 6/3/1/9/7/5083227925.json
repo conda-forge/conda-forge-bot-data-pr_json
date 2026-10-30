@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b0ad06bac57c6682dc24bd09455a0a010149bf2c2018d42fb2c08de324b25657\"",
+  "Last-Modified": "Fri, 30 Oct 2026 10:58:43 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-logging-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T10:58:38Z",
   "closed_by": null,
   "created_at": "2026-10-30T10:55:43Z",
   "draft": false,
   "e_tag": "\"0f44a47581b335848a3e9cee65907a6d8ba3412657af6cd920dffabe2e2ddc80\"",
   "head": {
-    "ref": "0.66b2_h05db35"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-logging-feedstock/pull/59",
   "id": 5083227925,
   "labels": [],
-  "last_fetched": "2026-10-30T10:55:44.671293",
+  "last_fetched": "2026-10-30T11:00:06.384486",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T10:58:38Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-10-30T10:55:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T10:58:43Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"0ec93c6517301c96c4d2a298210de48a28d910231af1543915c0c452c16e4f37\"",
-  "Last-Modified": "Thu, 29 Oct 2026 05:11:02 GMT",
+  "ETag": "\"68d6441d396657eddbaaf5e5fd3e50ca5ffc2cd63ca0d9e64ea206a83be25114\"",
+  "Last-Modified": "Fri, 30 Oct 2026 20:36:49 GMT",
   "base": {
     "repo": {
       "name": "xaitk-saliency-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/xaitk-saliency-feedstock/pull/30",
   "id": 5062578497,
-  "labels": [],
-  "last_fetched": "2026-10-29T06:29:16.964328",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6295788430,
+      "name": "automerge",
+      "node_id": "LA_kwDOK2nPRs8AAAABd0Ibjg",
+      "url": "https://api.github.com/repos/conda-forge/xaitk-saliency-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-30T20:38:18.843195",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 30,
   "state": "open",
-  "updated_at": "2026-10-29T05:11:02Z"
+  "updated_at": "2026-10-30T20:36:49Z"
 }

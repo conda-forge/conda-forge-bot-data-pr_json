@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6550c86fc58f1e106ad9dd224c8dc25b7bd9cee8450f4cbc583ab5cff124399b\"",
-  "Last-Modified": "Fri, 30 Oct 2026 00:28:45 GMT",
+  "ETag": "\"f79aa383b6c6948c85e60c140942ddc3904809c879a5781a99b249a0ec9ff189\"",
+  "Last-Modified": "Fri, 30 Oct 2026 09:49:52 GMT",
   "base": {
     "repo": {
       "name": "openvino-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T09:49:52Z",
   "closed_by": null,
   "created_at": "2026-10-30T00:27:19Z",
   "draft": false,
   "e_tag": "\"f1eccd1b189ea4eb512077be37f41b2b887b7da2bacfd92a159e91917c88d64b\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h45d884"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openvino-feedstock/pull/179",
   "id": 5077547314,
   "labels": [],
-  "last_fetched": "2026-10-30T01:04:45.059760",
+  "last_fetched": "2026-10-30T09:51:25.906511",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-30T09:49:52Z",
   "number": 179,
-  "state": "open",
-  "updated_at": "2026-10-30T00:28:45Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T09:49:52Z"
 }

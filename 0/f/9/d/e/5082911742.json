@@ -1,6 +1,6 @@
 {
-  "ETag": "\"1ea1aa211a185f4ba9ce152feab32d1d4c77d57ca6b363f699034dd39637bebb\"",
-  "Last-Modified": "Fri, 30 Oct 2026 10:27:59 GMT",
+  "ETag": "\"f4cfd27162d9197e979f8ca00bf593cdf193daf3b3068d774c4953ac58bb5314\"",
+  "Last-Modified": "Fri, 30 Oct 2026 13:02:02 GMT",
   "base": {
     "repo": {
       "name": "notebook-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/notebook-feedstock/pull/243",
   "id": 5082911742,
-  "labels": [],
-  "last_fetched": "2026-10-30T10:29:58.697021",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891025957,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDI1OTU3",
+      "url": "https://api.github.com/repos/conda-forge/notebook-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-30T13:02:47.289316",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 243,
   "state": "open",
-  "updated_at": "2026-10-30T10:29:23Z"
+  "updated_at": "2026-10-30T13:02:02Z"
 }

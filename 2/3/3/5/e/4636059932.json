@@ -1,5 +1,5 @@
 {
-  "ETag": "\"7f100c238d306f31dabc428b939d5886152a7d63f736c0d6af4e1c7371fda95c\"",
+  "ETag": "W/\"db9f543d742aade6736b4f185f8470afb8b6f5668f92037a28aeab7689987e87\"",
   "Last-Modified": "Fri, 30 Oct 2026 23:57:12 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyrtools-feedstock/pull/12",
   "id": 4636059932,
-  "labels": [],
-  "last_fetched": "2026-10-30T23:58:17.646768",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T23:57:13.920836",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

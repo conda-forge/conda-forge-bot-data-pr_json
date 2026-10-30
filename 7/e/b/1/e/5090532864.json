@@ -1,27 +1,41 @@
 {
+  "ETag": "\"d8d3bee9599f932ce47d0ca91834c7203b7a15f58cd085e484487bec49150b56\"",
+  "Last-Modified": "Fri, 30 Oct 2026 20:26:27 GMT",
   "base": {
     "repo": {
       "name": "pamqp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T20:26:24Z",
   "closed_by": null,
   "created_at": "2026-10-30T20:20:37Z",
   "draft": false,
   "e_tag": "\"1d35d8b006caf540a8be661d7946603e8ab3fcc0d0c0e6cd031a156e3080155e\"",
   "head": {
-    "ref": "5.0.0_hab1206"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pamqp-feedstock/pull/16",
   "id": 5090532864,
-  "labels": [],
-  "last_fetched": "2026-10-30T20:20:38.481279",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891091648,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDkxNjQ4",
+      "url": "https://api.github.com/repos/conda-forge/pamqp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-30T20:26:59.512764",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T20:26:24Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-10-30T20:20:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T20:26:27Z"
 }

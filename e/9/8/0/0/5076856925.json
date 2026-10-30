@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f773b8950d69aedaedb6c2708ee35090da5bd0b874c44960c2a07e4e1808f128\"",
-  "Last-Modified": "Thu, 29 Oct 2026 23:08:14 GMT",
+  "ETag": "\"d3c7cc2eeea98864f44a205be47a48e2563250f7e1d8ee978393356e602f800d\"",
+  "Last-Modified": "Fri, 30 Oct 2026 07:15:13 GMT",
   "base": {
     "repo": {
       "name": "certbot-dns-luadns-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T07:15:13Z",
   "closed_by": null,
   "created_at": "2026-10-29T23:08:13Z",
   "draft": false,
   "e_tag": "\"66be0a8796571b5edc35cbf42201a19589f9329463a45caface9a29dd8499eba\"",
   "head": {
-    "ref": "5.9.0_h91a8e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/certbot-dns-luadns-feedstock/pull/11",
   "id": 5076856925,
   "labels": [],
-  "last_fetched": "2026-10-30T01:05:39.120433",
+  "last_fetched": "2026-10-30T07:16:36.479818",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-30T07:15:13Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-29T23:09:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T07:15:13Z"
 }

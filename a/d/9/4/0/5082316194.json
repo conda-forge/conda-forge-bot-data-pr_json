@@ -1,18 +1,18 @@
 {
-  "ETag": "\"dbb86227559b5f462202fbe8c0d5121f9ebd2911cddb90d6eec9c6f4d2b3c29f\"",
-  "Last-Modified": "Fri, 30 Oct 2026 09:36:58 GMT",
+  "ETag": "\"345a8068738fa6850e9efd7c671cf381303e6bda3a80bd37d91ab23e53541c01\"",
+  "Last-Modified": "Fri, 30 Oct 2026 11:18:12 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-cpp-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T11:18:08Z",
   "closed_by": null,
   "created_at": "2026-10-30T09:35:33Z",
   "draft": false,
   "e_tag": "\"4b343cbc97d42460b321d902a77d57cebb8d73523c222c843249337f669565fb\"",
   "head": {
-    "ref": "rebuild-libopentelemetry_cpp130-0-1_h813649"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-cpp-core-feedstock/pull/64",
   "id": 5082316194,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-cpp-core-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-30T09:38:13.656740",
+  "last_fetched": "2026-10-30T11:19:36.678824",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T11:18:08Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-10-30T09:37:10Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T11:18:12Z"
 }

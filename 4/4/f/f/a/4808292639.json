@@ -1,12 +1,13 @@
 {
-  "ETag": "\"d48eb66b765bba0cb949c974d4119787360d96c4a46a10e9308cae0b5d819747\"",
-  "Last-Modified": "Sat, 10 Oct 2026 03:13:02 GMT",
+  "ETag": "\"6b0d271eacd5b7ccad99c2ef51baa32e1a54ae30b19e8220ab6a9284f2c6b541\"",
+  "Last-Modified": "Fri, 30 Oct 2026 14:11:25 GMT",
   "base": {
     "repo": {
       "name": "cesard-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T14:11:25Z",
+  "closed_by": "johntruckenbrodt",
   "created_at": "2026-10-10T03:11:23Z",
   "draft": false,
   "e_tag": "\"a8379018199fc069f7af4cd4fe44da11024ec9b2e1fa07818f8592bd790d2e7f\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/cesard-feedstock/pull/11",
   "id": 4808292639,
   "labels": [],
-  "last_fetched": "2026-10-24T19:30:17.560641",
+  "last_fetched": "2026-10-30T14:12:46.590565",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-10T03:13:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T14:11:25Z"
 }

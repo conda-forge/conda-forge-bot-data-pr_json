@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ddfeab7c35c1786bdbed374d5d9cf954d3f2df97850cc43a2fd98b6de9caf841\"",
+  "Last-Modified": "Fri, 30 Oct 2026 19:08:55 GMT",
   "base": {
     "repo": {
       "name": "moyopy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T19:08:55Z",
   "closed_by": null,
   "created_at": "2026-10-30T17:34:22Z",
   "draft": false,
   "e_tag": "\"fdcd754ba22da7ec0b12f4c9cc48a540952241719b10d45436c5226ca7ce0cd5\"",
   "head": {
-    "ref": "0.22.0_h528f18"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/moyopy-feedstock/pull/31",
   "id": 5088511948,
   "labels": [],
-  "last_fetched": "2026-10-30T17:34:23.134847",
+  "last_fetched": "2026-10-30T19:10:00.018901",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T19:08:55Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-10-30T17:34:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T19:08:55Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"8bfad63b3b5ad6c1491202bb59296aabe8b634fd9351ac32c5fea3bffaa008a1\"",
+  "ETag": "W/\"4224edc94bee979ea0216797e6bf1494cee9de3f452745248104d7b1c6d47fcf\"",
   "Last-Modified": "Fri, 30 Oct 2026 23:27:15 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/objgraph-feedstock/pull/10",
   "id": 4892232832,
-  "labels": [],
-  "last_fetched": "2026-10-30T23:28:43.874684",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T23:27:18.408088",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

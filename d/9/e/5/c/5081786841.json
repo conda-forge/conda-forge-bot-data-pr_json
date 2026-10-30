@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9cfb801b4717d45f31462742578af1a491ec2bfe482ef4baa7984b1f2a0f61f2\"",
+  "Last-Modified": "Fri, 30 Oct 2026 08:51:03 GMT",
   "base": {
     "repo": {
       "name": "openinference-semantic-conventions-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T08:50:58Z",
   "closed_by": null,
   "created_at": "2026-10-30T08:47:36Z",
   "draft": false,
   "e_tag": "\"2987d2eefb47f51a4277d55eca0e5116227d28d109d34812018024dfde3ca7fe\"",
   "head": {
-    "ref": "0.1.43_h84ca17"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openinference-semantic-conventions-feedstock/pull/39",
   "id": 5081786841,
   "labels": [],
-  "last_fetched": "2026-10-30T08:47:37.291178",
+  "last_fetched": "2026-10-30T08:52:07.700995",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T08:50:58Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-10-30T08:47:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T08:51:03Z"
 }

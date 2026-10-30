@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3c5d6f6cec80d0ab4546258515b05b2d47bf91fd90efcadb3859f42736c42ead\"",
+  "Last-Modified": "Fri, 30 Oct 2026 01:36:19 GMT",
   "base": {
     "repo": {
       "name": "influx-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T01:36:15Z",
   "closed_by": null,
   "created_at": "2026-10-30T01:31:19Z",
   "draft": false,
   "e_tag": "\"6f5167c56b87c45807fd40c7dba8ea4055552df98dd8f5d42a8210d65e9ca7ed\"",
   "head": {
-    "ref": "2.9.1_h696f18"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/influx-cli-feedstock/pull/5",
   "id": 5078074814,
   "labels": [],
-  "last_fetched": "2026-10-30T01:31:20.261441",
+  "last_fetched": "2026-10-30T01:38:12.175393",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T01:36:15Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-30T01:31:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T01:36:19Z"
 }

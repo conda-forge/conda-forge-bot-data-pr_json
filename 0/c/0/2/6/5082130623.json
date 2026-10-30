@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f48417adb447c3b10f2feca770dc1af43f4d251534e4cd7d83090b8795bf00ff\"",
-  "Last-Modified": "Fri, 30 Oct 2026 09:19:19 GMT",
+  "ETag": "\"485c750786ad3de7a3e3641da7be3372052a5e422a2c93cb821560d6f0d52e41\"",
+  "Last-Modified": "Fri, 30 Oct 2026 09:52:56 GMT",
   "base": {
     "repo": {
       "name": "sentencepiece-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T09:52:56Z",
   "closed_by": null,
   "created_at": "2026-10-30T09:19:13Z",
   "draft": false,
   "e_tag": "\"e3758586754eb0174c2db0536c99b5b40fb4758798aa227ad5011d2b2128ff0f\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h82220c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sentencepiece-feedstock/pull/80",
   "id": 5082130623,
   "labels": [],
-  "last_fetched": "2026-10-30T09:22:32.166354",
+  "last_fetched": "2026-10-30T09:54:30.527998",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T09:52:56Z",
   "number": 80,
-  "state": "open",
-  "updated_at": "2026-10-30T09:20:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T09:52:56Z"
 }

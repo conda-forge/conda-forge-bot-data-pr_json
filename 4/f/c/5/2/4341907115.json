@@ -1,12 +1,13 @@
 {
-  "ETag": "\"31d4ef311658a606dd8597be441efed7dd8427f1be3b8b0b966a0d86a7c1076b\"",
-  "Last-Modified": "Wed, 26 Aug 2026 09:41:14 GMT",
+  "ETag": "W/\"31a6613b2da7aeff97b4fa431c324a61bb86b9b7dd428b0982b5c63445b240e9\"",
+  "Last-Modified": "Fri, 30 Oct 2026 18:44:01 GMT",
   "base": {
     "repo": {
       "name": "libpsl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T18:44:01Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-23T11:35:38Z",
   "draft": false,
   "e_tag": "\"d4958ffd58145520829df7f4f6e0ab788dee95d3a74aacbea80257e2bbbb18b7\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/libpsl-feedstock/pull/32",
   "id": 4341907115,
-  "labels": [],
-  "last_fetched": "2026-10-23T17:48:56.844225",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T18:44:04.658515",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-08-26T09:41:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T18:44:01Z"
 }

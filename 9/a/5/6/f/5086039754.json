@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ddd89bda9f95599ccbdd68fa081c4e1067ccec93eabf2b82273de1e015b18bff\"",
+  "Last-Modified": "Fri, 30 Oct 2026 14:36:41 GMT",
   "base": {
     "repo": {
       "name": "opendataloader-pdf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T14:36:37Z",
   "closed_by": null,
   "created_at": "2026-10-30T14:34:30Z",
   "draft": false,
   "e_tag": "\"c429ab504d021fc0023ddc4c8b3781b488179f71d88d28c53802a9748ff22cc7\"",
   "head": {
-    "ref": "2.5.17_hf9da4d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opendataloader-pdf-feedstock/pull/23",
   "id": 5086039754,
   "labels": [],
-  "last_fetched": "2026-10-30T14:34:31.613498",
+  "last_fetched": "2026-10-30T14:38:02.581151",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T14:36:37Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-10-30T14:34:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T14:36:41Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1cf20fc4b9e4f9e78b7fa19c6e5369eca0edce6f174bf67e7e91730aa434fc05\"",
+  "Last-Modified": "Fri, 30 Oct 2026 20:19:27 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-exporter-zipkin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T20:19:22Z",
   "closed_by": null,
   "created_at": "2026-10-30T20:10:33Z",
   "draft": false,
   "e_tag": "\"7d6dda45ed5d96869c594c6469ea4d7aa284d9ba98dd214eed626ad7bb3bd19c\"",
   "head": {
-    "ref": "1.45.2_h92e6e7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-exporter-zipkin-feedstock/pull/54",
   "id": 5090419082,
   "labels": [],
-  "last_fetched": "2026-10-30T20:10:34.673622",
+  "last_fetched": "2026-10-30T20:21:27.291520",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T20:19:22Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-10-30T20:10:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T20:19:27Z"
 }

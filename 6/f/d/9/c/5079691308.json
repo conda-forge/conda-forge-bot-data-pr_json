@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c67e1fc2b23cd1e34ef92262d4d803fbbd668b165c9592a5f595aad28361a993\"",
+  "Last-Modified": "Fri, 30 Oct 2026 13:13:16 GMT",
   "base": {
     "repo": {
       "name": "fpdf2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T13:13:16Z",
   "closed_by": null,
   "created_at": "2026-10-30T04:57:14Z",
   "draft": false,
   "e_tag": "\"75e15497f7c53b67353492ebc8690a7a639a68e0f6f99dd9cbc47d987527d133\"",
   "head": {
-    "ref": "2.9.0_h7a56e6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fpdf2-feedstock/pull/38",
   "id": 5079691308,
   "labels": [],
-  "last_fetched": "2026-10-30T04:57:15.361976",
+  "last_fetched": "2026-10-30T13:14:44.953562",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T13:13:16Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-10-30T04:57:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T13:13:16Z"
 }

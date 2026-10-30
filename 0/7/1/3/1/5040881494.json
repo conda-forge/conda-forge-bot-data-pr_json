@@ -1,5 +1,5 @@
 {
-  "ETag": "\"729be1c8c539c0b40b766478a273b3cf28e418924a4fe28af9338b0b7afc674a\"",
+  "ETag": "W/\"396a10cf1287adb786cadf65203a493f24f44a66c37f2156ac431ca331ace156\"",
   "Last-Modified": "Fri, 30 Oct 2026 14:58:39 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/ghostty-feedstock/pull/12",
   "id": 5040881494,
-  "labels": [],
-  "last_fetched": "2026-10-30T14:59:46.931417",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T14:58:41.505677",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

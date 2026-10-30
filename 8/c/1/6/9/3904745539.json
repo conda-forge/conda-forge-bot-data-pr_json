@@ -1,32 +1,29 @@
 {
-  "ETag": "\"6b984e987f443e2ba91bb1aba5549cbdacf83c45bebaf9454b157e75ef964e67\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"0c7f31451f205dc043ef66ee3be700e746ca8681b5cda5148297d338031c64bf\"",
+  "Last-Modified": "Fri, 30 Oct 2026 13:21:14 GMT",
   "base": {
     "repo": {
       "name": "odrpack-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T13:21:14Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-06-20T18:45:27Z",
   "draft": false,
   "e_tag": "\"cf131453cfc70e9e1f5516638f51b32d33b278b348b17bda9c026b9c84746fec\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "bot-pr_arm_osx_h044248"
   },
   "html_url": "https://github.com/conda-forge/odrpack-feedstock/pull/9",
   "id": 3904745539,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-10-30T13:21:12.347015",
+  "labels": [],
+  "last_fetched": "2026-10-30T13:22:25.060494",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-06-20T18:46:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T13:21:14Z"
 }

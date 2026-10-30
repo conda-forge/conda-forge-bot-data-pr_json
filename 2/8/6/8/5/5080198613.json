@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ddf4b41be616e0908e7ae72d9560b04c45c4c39b5285ce3be046bf382525937b\"",
+  "Last-Modified": "Fri, 30 Oct 2026 06:39:49 GMT",
   "base": {
     "repo": {
       "name": "certbot-dns-digitalocean-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T06:39:48Z",
   "closed_by": null,
   "created_at": "2026-10-30T06:02:11Z",
   "draft": false,
   "e_tag": "\"cb3eaa809fa95f1d21f1d814fe5ee5e4458643b6b260d9689f2fba8d4fe5298d\"",
   "head": {
-    "ref": "5.9.0_h11bbf2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/certbot-dns-digitalocean-feedstock/pull/11",
   "id": 5080198613,
   "labels": [],
-  "last_fetched": "2026-10-30T06:02:12.110803",
+  "last_fetched": "2026-10-30T06:41:17.388361",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-30T06:39:47Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-10-30T06:02:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T06:39:49Z"
 }

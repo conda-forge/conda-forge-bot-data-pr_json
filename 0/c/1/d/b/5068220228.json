@@ -1,29 +1,29 @@
 {
-  "ETag": "\"696d422b41963cdcaf395bb1763c0523638114eb69c4611c67b6dae06e073ad8\"",
-  "Last-Modified": "Thu, 29 Oct 2026 12:45:37 GMT",
+  "ETag": "W/\"af0947559c91fcefe4bbce758de7d3dcc9de91ed0dce3155bf1066f1607fa24d\"",
+  "Last-Modified": "Fri, 30 Oct 2026 10:39:13 GMT",
   "base": {
     "repo": {
       "name": "itemadapter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T10:39:12Z",
   "closed_by": null,
   "created_at": "2026-10-29T12:44:05Z",
   "draft": false,
   "e_tag": "\"fb64bfc8bea16b1467f6d81722a5e9c517655ce80d8014ea554ca8950be47d8f\"",
   "head": {
-    "ref": "0.14.0_hfa0ad2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/itemadapter-feedstock/pull/17",
   "id": 5068220228,
   "labels": [],
-  "last_fetched": "2026-10-29T13:59:08.552045",
+  "last_fetched": "2026-10-30T10:40:26.242347",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-30T10:39:12Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-29T12:45:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T10:39:13Z"
 }

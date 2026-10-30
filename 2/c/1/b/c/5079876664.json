@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e0037798c1f1832b3c95bbddf4e68a4d4bbb7552ec4e2610fcd91b1a0a8c50dd\"",
+  "Last-Modified": "Fri, 30 Oct 2026 05:31:40 GMT",
   "base": {
     "repo": {
       "name": "dcm2niix-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T05:31:35Z",
   "closed_by": null,
   "created_at": "2026-10-30T05:21:19Z",
   "draft": false,
   "e_tag": "\"c9a8367427e2cf02ed277435b66be96be75e0025a971adfe7fce857374e666e9\"",
   "head": {
-    "ref": "1.0.20261029_he73825"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dcm2niix-feedstock/pull/32",
   "id": 5079876664,
   "labels": [],
-  "last_fetched": "2026-10-30T05:21:19.868343",
+  "last_fetched": "2026-10-30T05:32:44.885696",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T05:31:35Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-10-30T05:21:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T05:31:40Z"
 }

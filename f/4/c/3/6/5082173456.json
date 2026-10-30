@@ -1,6 +1,6 @@
 {
-  "ETag": "\"6019cb2cecd7a0351a11115c8baf0d3ac137147a9a228457644f5e74934625ed\"",
-  "Last-Modified": "Fri, 30 Oct 2026 09:24:25 GMT",
+  "ETag": "\"36daacd9d699afc3ed13ff2693910c60188607ce12837b1d81050a9d42d769c5\"",
+  "Last-Modified": "Fri, 30 Oct 2026 12:05:08 GMT",
   "base": {
     "repo": {
       "name": "coremltools-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/coremltools-feedstock/pull/39",
   "id": 5082173456,
-  "labels": [],
-  "last_fetched": "2026-10-30T09:57:25.664644",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2431771297,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNDMxNzcxMjk3",
+      "url": "https://api.github.com/repos/conda-forge/coremltools-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-30T12:06:36.961144",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 39,
   "state": "open",
-  "updated_at": "2026-10-30T09:24:25Z"
+  "updated_at": "2026-10-30T12:05:08Z"
 }

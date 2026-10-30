@@ -1,27 +1,29 @@
 {
+  "ETag": "\"323d9c545a2a9c5255209cb4800911a3135323b22edd55eabe9c577fb31719ba\"",
+  "Last-Modified": "Fri, 30 Oct 2026 10:37:51 GMT",
   "base": {
     "repo": {
       "name": "types-pycurl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T10:37:47Z",
   "closed_by": null,
   "created_at": "2026-10-30T10:35:29Z",
   "draft": false,
   "e_tag": "\"e4772903674fbe09ef8de1e322b8ba042059b33f52c8142b24ea4bd2aabf35b3\"",
   "head": {
-    "ref": "7.49.0.20261030_hc0df04"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-pycurl-feedstock/pull/41",
   "id": 5082996672,
   "labels": [],
-  "last_fetched": "2026-10-30T10:35:30.284109",
+  "last_fetched": "2026-10-30T10:39:13.156030",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T10:37:47Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-30T10:35:29Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T10:37:51Z"
 }

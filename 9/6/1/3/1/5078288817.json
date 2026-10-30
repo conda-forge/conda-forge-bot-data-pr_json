@@ -1,27 +1,29 @@
 {
+  "ETag": "\"afa9bb0b7691c776746560411e1e66de7af054822d51b77599b586fcbf518430\"",
+  "Last-Modified": "Fri, 30 Oct 2026 02:01:38 GMT",
   "base": {
     "repo": {
       "name": "openinference-instrumentation-langchain-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T02:01:34Z",
   "closed_by": null,
   "created_at": "2026-10-30T01:58:01Z",
   "draft": false,
   "e_tag": "\"4101dbb8d7f74417c827705d77c0812ab4a8511caefa4ffe1400a447cf2398d2\"",
   "head": {
-    "ref": "0.1.81_h27e0a6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openinference-instrumentation-langchain-feedstock/pull/73",
   "id": 5078288817,
   "labels": [],
-  "last_fetched": "2026-10-30T01:58:02.681795",
+  "last_fetched": "2026-10-30T02:02:42.626830",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T02:01:34Z",
   "number": 73,
-  "state": "open",
-  "updated_at": "2026-10-30T01:58:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T02:01:38Z"
 }

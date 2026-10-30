@@ -1,5 +1,5 @@
 {
-  "ETag": "\"87ad02d79d06cd32e253ad443e14618adbc8adfb746cb54f0d341b703554b392\"",
+  "ETag": "W/\"b0ab19cdb83b6d546e50bde830c13a6f881fa9a1ed829a013da951466b61ed2c\"",
   "Last-Modified": "Fri, 30 Oct 2026 13:31:03 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/connected-components-3d-feedstock/pull/40",
   "id": 4364202401,
-  "labels": [],
-  "last_fetched": "2026-10-30T13:32:42.709861",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T13:31:06.587832",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

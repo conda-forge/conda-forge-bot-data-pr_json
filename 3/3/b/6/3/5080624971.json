@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5c4ccb53b08612176f2688392e671120eb4f43aab569ba4d4bd8f794c2ff3602\"",
-  "Last-Modified": "Fri, 30 Oct 2026 06:52:36 GMT",
+  "ETag": "\"802b7d450d0b178d6d8fb7dc5a54596726d52f4b304423ee52a705ded60363b2\"",
+  "Last-Modified": "Fri, 30 Oct 2026 19:35:18 GMT",
   "base": {
     "repo": {
       "name": "dm-tree-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T19:35:18Z",
   "closed_by": null,
   "created_at": "2026-10-30T06:51:06Z",
   "draft": false,
   "e_tag": "\"50bbb2253a87af61db1b5b7786ddb2c774cb070569368625c69eec84d8a9c56d\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h7b6654"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dm-tree-feedstock/pull/52",
   "id": 5080624971,
   "labels": [],
-  "last_fetched": "2026-10-30T07:22:46.273292",
+  "last_fetched": "2026-10-30T19:36:55.922915",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-30T19:35:18Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-10-30T06:52:36Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T19:35:18Z"
 }

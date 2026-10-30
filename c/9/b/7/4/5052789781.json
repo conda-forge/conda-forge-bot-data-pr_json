@@ -1,18 +1,18 @@
 {
-  "ETag": "\"a24c78952d8bcf83a236407445066ba0e0f284d3f272fabf2aca0e6964644ffe\"",
-  "Last-Modified": "Fri, 30 Oct 2026 11:00:59 GMT",
+  "ETag": "W/\"301514a761e344269e62b5b6039c4bdbb954e4387d23ddda6db3dcba5705dc51\"",
+  "Last-Modified": "Fri, 30 Oct 2026 11:17:50 GMT",
   "base": {
     "repo": {
       "name": "halotools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T11:17:46Z",
   "closed_by": null,
   "created_at": "2026-10-28T15:06:47Z",
   "draft": false,
   "e_tag": "\"fe745af62b89f18dbe9b7477e555022ee09c223e59b8c56e58a3106238f7252d\"",
   "head": {
-    "ref": "0.9.5_hc0c035"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/halotools-feedstock/pull/36",
   "id": 5052789781,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/halotools-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-30T11:02:35.168504",
+  "last_fetched": "2026-10-30T11:19:18.113420",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-30T11:17:46Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-10-30T11:00:59Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T11:17:50Z"
 }

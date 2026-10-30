@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fffe7e1bdb5dffce806a7f3a00ed472dc859fbeee25e2dcd8a11a4b13d015099\"",
+  "Last-Modified": "Fri, 30 Oct 2026 15:00:09 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-psycopg2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T15:00:05Z",
   "closed_by": null,
   "created_at": "2026-10-30T14:57:01Z",
   "draft": false,
   "e_tag": "\"a7f70b68c163e0ce5cc06dd9041fd5c02c0cd7c485a309357f5cfb8efa9fb1cd\"",
   "head": {
-    "ref": "0.66b2_haf5672"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-psycopg2-feedstock/pull/44",
   "id": 5086359217,
   "labels": [],
-  "last_fetched": "2026-10-30T14:57:02.417395",
+  "last_fetched": "2026-10-30T15:01:34.967957",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T15:00:05Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-10-30T14:57:01Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T15:00:09Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"46ab2c7484ae305293202e4ba8ecab5f62185a5afcdc85d7e03067ac93f26f7b\"",
-  "Last-Modified": "Tue, 11 Aug 2026 08:47:18 GMT",
+  "ETag": "W/\"8e8cb580fd0e5719e0509d28c3a9f4eef0b567053ee53a32d1182f5873d05cef\"",
+  "Last-Modified": "Fri, 30 Oct 2026 19:28:20 GMT",
   "base": {
     "repo": {
       "name": "multicharge-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T19:28:20Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-11T08:44:16Z",
   "draft": false,
   "e_tag": "\"75ba1f9c7db6dd3687107b2581eb1c8c5479e75d70056f4d3c03c9c0901dc315\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/multicharge-feedstock/pull/9",
   "id": 4251594649,
-  "labels": [],
-  "last_fetched": "2026-10-23T17:37:55.456576",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T19:28:22.995044",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-08-11T08:47:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T19:28:20Z"
 }

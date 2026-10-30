@@ -1,13 +1,13 @@
 {
-  "ETag": "\"72f5362c55c9a5c2e642391326112fbadf5a2af9e71e5fee8ea7bea53e857d84\"",
-  "Last-Modified": "Fri, 23 Oct 2026 12:00:11 GMT",
+  "ETag": "W/\"fe91b8c67140678f8a4c3f34b94b14c7b142adc38ff82cd5d2f457039f743dc2\"",
+  "Last-Modified": "Fri, 30 Oct 2026 23:57:16 GMT",
   "base": {
     "repo": {
       "name": "scinumtools3-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-10-30T23:57:16Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-23T11:58:42Z",
   "draft": false,
   "e_tag": "\"9efc81376f71707a4844c67e2be7e3a9bb98c4864bec0fb4afa466c62028742a\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/scinumtools3-feedstock/pull/26",
   "id": 4982371380,
-  "labels": [],
-  "last_fetched": "2026-10-23T14:29:20.019832",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-30T23:57:18.448746",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-10-23T12:00:11Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T23:57:16Z"
 }

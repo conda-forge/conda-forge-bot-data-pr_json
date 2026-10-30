@@ -1,27 +1,29 @@
 {
+  "ETag": "\"68ab0b9ffa825ac84992991e43f2596987da50fcde233ff619f5ef4f23bbcf5c\"",
+  "Last-Modified": "Fri, 30 Oct 2026 16:50:37 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-asyncpg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T16:50:33Z",
   "closed_by": null,
   "created_at": "2026-10-30T16:47:03Z",
   "draft": false,
   "e_tag": "\"5da09bb5f9ad910262dd65cf7f41b43772a476d32507584161913485df7aeb42\"",
   "head": {
-    "ref": "0.66b2_h444605"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-asyncpg-feedstock/pull/58",
   "id": 5087880856,
   "labels": [],
-  "last_fetched": "2026-10-30T16:47:04.238729",
+  "last_fetched": "2026-10-30T16:52:12.854440",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T16:50:33Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-30T16:47:03Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T16:50:37Z"
 }

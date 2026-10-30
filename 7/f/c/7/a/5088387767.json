@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cdf39a8ced6f1b7cdd6d9759494e903fccca4c2dde4b1b8eb3272cb5a0f0aa21\"",
+  "Last-Modified": "Fri, 30 Oct 2026 17:35:19 GMT",
   "base": {
     "repo": {
       "name": "hf-xet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T17:35:14Z",
   "closed_by": null,
   "created_at": "2026-10-30T17:24:50Z",
   "draft": false,
   "e_tag": "\"a375b36c2230671d8875454768fa3c5943d4684fb29dae266abd1c631c6db621\"",
   "head": {
-    "ref": "1.8.0_h43b702"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hf-xet-feedstock/pull/43",
   "id": 5088387767,
   "labels": [],
-  "last_fetched": "2026-10-30T17:24:51.522969",
+  "last_fetched": "2026-10-30T17:36:28.860187",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T17:35:14Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-10-30T17:24:50Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T17:35:19Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"7749b98330048a5dc17b85d86e4fc7f4ee6077e628c1a6c366a82ccfac720d19\"",
+  "Last-Modified": "Fri, 30 Oct 2026 00:11:08 GMT",
   "base": {
     "repo": {
       "name": "newrelic-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/newrelic-feedstock/pull/195",
   "id": 5077270658,
-  "labels": [],
-  "last_fetched": "2026-10-29T23:54:30.911672",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891024886,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDI0ODg2",
+      "url": "https://api.github.com/repos/conda-forge/newrelic-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-30T00:12:05.842591",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 195,
   "state": "open",
-  "updated_at": "2026-10-29T23:54:29Z"
+  "updated_at": "2026-10-30T00:11:08Z"
 }

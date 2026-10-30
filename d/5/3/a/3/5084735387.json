@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c83479d36095a2c41c19284042aeb4c31ab66ec45237b008841811574ae0332c\"",
-  "Last-Modified": "Fri, 30 Oct 2026 13:01:17 GMT",
+  "ETag": "\"7cfe21dbe2018f587915c4033c38a9aeace8a633058d1d8eb384533d49ff2053\"",
+  "Last-Modified": "Fri, 30 Oct 2026 18:39:53 GMT",
   "base": {
     "repo": {
       "name": "nvidia-dali-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T18:39:53Z",
   "closed_by": null,
   "created_at": "2026-10-30T12:59:39Z",
   "draft": false,
   "e_tag": "\"786ad19cfef95dbd0ede221e7689dd86040177fa1f9d30ab7cedad873629b591\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h3bf5c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nvidia-dali-python-feedstock/pull/89",
   "id": 5084735387,
   "labels": [],
-  "last_fetched": "2026-10-30T14:22:24.158182",
+  "last_fetched": "2026-10-30T18:41:37.547580",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T18:39:53Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-10-30T13:01:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T18:39:53Z"
 }

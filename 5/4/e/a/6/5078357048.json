@@ -1,29 +1,41 @@
 {
-  "ETag": "\"64e4be1e2a0ecff3b194c0e26631466cc99341d7639c196fde48e3b4cd91da65\"",
-  "Last-Modified": "Fri, 30 Oct 2026 02:08:02 GMT",
+  "ETag": "\"b9220a61ac788deeb66f56cbd211387c0ed045dd29a21c7ca9c96e450b92ae02\"",
+  "Last-Modified": "Fri, 30 Oct 2026 03:37:29 GMT",
   "base": {
     "repo": {
       "name": "airflow-supervisor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T03:37:25Z",
   "closed_by": null,
   "created_at": "2026-10-30T02:06:34Z",
   "draft": false,
   "e_tag": "\"bcba40a82e3376502c23f154b67d21bccbb41b1447278a60712a4719558134a5\"",
   "head": {
-    "ref": "1.11.4_h77c06e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/airflow-supervisor-feedstock/pull/51",
   "id": 5078357048,
-  "labels": [],
-  "last_fetched": "2026-10-30T02:44:51.744497",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7376496774,
+      "name": "automerge",
+      "node_id": "LA_kwDOMoZvj88AAAABt6xohg",
+      "url": "https://api.github.com/repos/conda-forge/airflow-supervisor-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-30T03:38:23.560397",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-30T03:37:25Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-10-30T02:08:02Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T03:37:29Z"
 }

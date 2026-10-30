@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e51cc57ab8dcb761453cd3201a2b2aa09bd59f7e488d48c6ecb7c74c6ae034d0\"",
+  "Last-Modified": "Fri, 30 Oct 2026 08:37:06 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-proto-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T08:37:02Z",
   "closed_by": null,
   "created_at": "2026-10-30T08:33:46Z",
   "draft": false,
   "e_tag": "\"a71b154b956833708362833afec08a7d4948a8c2a3ecc4d88d4c9f29fc963e68\"",
   "head": {
-    "ref": "1.45.2_h8438af"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-proto-feedstock/pull/80",
   "id": 5081644128,
   "labels": [],
-  "last_fetched": "2026-10-30T08:33:47.348642",
+  "last_fetched": "2026-10-30T08:38:29.444244",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T08:37:01Z",
   "number": 80,
-  "state": "open",
-  "updated_at": "2026-10-30T08:33:46Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T08:37:06Z"
 }

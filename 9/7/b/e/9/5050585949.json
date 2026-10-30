@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ebf5f7e644cb800fee25a269fae82247c319a676dda7a0e883d7ed48373e6782\"",
-  "Last-Modified": "Wed, 28 Oct 2026 15:22:23 GMT",
+  "ETag": "\"d826637cd6f6366a0583800620df6fcaacd4955c08188c755d86ae4bca02ac6e\"",
+  "Last-Modified": "Fri, 30 Oct 2026 09:43:19 GMT",
   "base": {
     "repo": {
       "name": "proxsuite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-30T09:43:19Z",
   "closed_by": null,
   "created_at": "2026-10-28T12:37:44Z",
   "draft": false,
   "e_tag": "\"f82e8ca115787712189e25634817b2a8bc8a7ef27a7595114502141c3b194b2a\"",
   "head": {
-    "ref": "0.8.2_h354fe9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/proxsuite-feedstock/pull/75",
   "id": 5050585949,
   "labels": [],
-  "last_fetched": "2026-10-28T15:43:58.144522",
+  "last_fetched": "2026-10-30T09:44:48.806732",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-30T09:43:19Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-28T15:22:23Z"
+  "state": "closed",
+  "updated_at": "2026-10-30T09:43:19Z"
 }

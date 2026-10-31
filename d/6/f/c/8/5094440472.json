@@ -1,6 +1,6 @@
 {
-  "ETag": "\"10c4bb46b5a3fa27e4c2f4032ce9f98dda32fb0465c0b2701620f6faefbad619\"",
-  "Last-Modified": "Sat, 31 Oct 2026 04:18:38 GMT",
+  "ETag": "\"6a6e2eef89849fc989388f552df1a12b7d4fc6344535ffefe631352314ecfcae\"",
+  "Last-Modified": "Sat, 31 Oct 2026 09:01:31 GMT",
   "base": {
     "repo": {
       "name": "wetterdienst-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/wetterdienst-feedstock/pull/231",
   "id": 5094440472,
-  "labels": [],
-  "last_fetched": "2026-10-31T04:43:01.041542",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2497608089,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNDk3NjA4MDg5",
+      "url": "https://api.github.com/repos/conda-forge/wetterdienst-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-31T09:03:08.101241",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 231,
   "state": "open",
-  "updated_at": "2026-10-31T04:18:38Z"
+  "updated_at": "2026-10-31T09:01:31Z"
 }

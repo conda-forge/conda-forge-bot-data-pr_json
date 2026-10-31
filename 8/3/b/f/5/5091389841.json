@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1482aa83879ec303d19ef3ed8b4db1a39878655f25d26168015ff390bee8cf32\"",
-  "Last-Modified": "Fri, 30 Oct 2026 21:43:04 GMT",
+  "ETag": "\"e7b0955311999bcd70203c999928f6e25bada3e2b19479e3f1c5fa3c33ca3b7b\"",
+  "Last-Modified": "Sat, 31 Oct 2026 14:52:57 GMT",
   "base": {
     "repo": {
       "name": "hoomd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T14:52:57Z",
   "closed_by": null,
   "created_at": "2026-10-30T21:41:27Z",
   "draft": false,
   "e_tag": "\"a19cd807de53b3c3537d6539d43103d411e68608249068d88bb7f659db78c1bf\"",
   "head": {
-    "ref": "7.2.1_haee81b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hoomd-feedstock/pull/151",
   "id": 5091389841,
   "labels": [],
-  "last_fetched": "2026-10-30T21:58:07.477213",
+  "last_fetched": "2026-10-31T14:54:13.737194",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-31T14:52:57Z",
   "number": 151,
-  "state": "open",
-  "updated_at": "2026-10-30T21:43:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T14:52:57Z"
 }

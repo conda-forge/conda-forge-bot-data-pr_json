@@ -1,5 +1,5 @@
 {
-  "ETag": "\"980fc14e43ed1690ebbf4d60f34265744898a6c3b4148fa14df427a3c6793015\"",
+  "ETag": "W/\"5dd598279ec7c2c1c04f7d13aae6b487984930f9ea3b6e201c56f90ad292be47\"",
   "Last-Modified": "Sat, 31 Oct 2026 15:42:25 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/ormar-feedstock/pull/29",
   "id": 5042147734,
-  "labels": [],
-  "last_fetched": "2026-10-31T15:43:59.707428",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-31T15:42:28.453701",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

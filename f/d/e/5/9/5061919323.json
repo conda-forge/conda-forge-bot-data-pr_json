@@ -1,29 +1,29 @@
 {
-  "ETag": "\"63d38e6d875273e8ddd0bd9bb335cfb4af2f2d06dde601061164b574fcce9be9\"",
-  "Last-Modified": "Fri, 30 Oct 2026 13:09:48 GMT",
+  "ETag": "\"66171c3b4b3a2633bcfce0540b4c0cbf81a250426e4d2d93bc77af19057a75ec\"",
+  "Last-Modified": "Sat, 31 Oct 2026 01:45:48 GMT",
   "base": {
     "repo": {
       "name": "torchvision-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T01:45:47Z",
   "closed_by": null,
   "created_at": "2026-10-29T04:02:28Z",
   "draft": false,
   "e_tag": "\"cdffdaeb4856e2d9880b83f5b62816f73229bbb865cbe00afc3cdc2935dedb50\"",
   "head": {
-    "ref": "0.29.2_h140bff"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/torchvision-feedstock/pull/169",
   "id": 5061919323,
   "labels": [],
-  "last_fetched": "2026-10-30T15:42:52.523688",
+  "last_fetched": "2026-10-31T01:46:53.673782",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-10-31T01:45:47Z",
   "number": 169,
-  "state": "open",
-  "updated_at": "2026-10-30T13:09:48Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T01:45:48Z"
 }

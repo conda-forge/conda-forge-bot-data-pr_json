@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3b07f28f0df85d46a526481da48b2ec6e31ba8bbaf94a4a3ef131b43d6da5761\"",
+  "Last-Modified": "Sat, 31 Oct 2026 03:09:00 GMT",
   "base": {
     "repo": {
       "name": "django-nyt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T03:08:56Z",
   "closed_by": null,
   "created_at": "2026-10-31T03:07:04Z",
   "draft": false,
   "e_tag": "\"000cd03662ff157f37e0af56e73d787c885a50cf003c607030ef6677bf0def11\"",
   "head": {
-    "ref": "1.6.1_h796324"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-nyt-feedstock/pull/8",
   "id": 5093930712,
   "labels": [],
-  "last_fetched": "2026-10-31T03:07:05.342614",
+  "last_fetched": "2026-10-31T03:10:25.424671",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T03:08:56Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-31T03:07:04Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T03:09:00Z"
 }

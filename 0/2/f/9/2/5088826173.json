@@ -1,18 +1,18 @@
 {
-  "ETag": "\"4c2514525db37936282b9d27532f37281608d83a00a9b624a5ac4e0b81bf7f43\"",
-  "Last-Modified": "Sat, 31 Oct 2026 02:32:00 GMT",
+  "ETag": "\"1ba6cb79f0f8adf0863d04d021206f0b178efebf7ce86a7f02de80aede07b162\"",
+  "Last-Modified": "Sat, 31 Oct 2026 04:59:22 GMT",
   "base": {
     "repo": {
       "name": "onnxruntime-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T04:59:17Z",
   "closed_by": null,
   "created_at": "2026-10-30T17:59:57Z",
   "draft": false,
   "e_tag": "\"72103bdc16f1c79f3a71f3a36849816df5c76e67e440bd11f53f78a599127de5\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h9ddd0e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/onnxruntime-feedstock/pull/220",
   "id": 5088826173,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/onnxruntime-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-31T02:33:35.214261",
+  "last_fetched": "2026-10-31T05:00:27.395277",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T04:59:17Z",
   "number": 220,
-  "state": "open",
-  "updated_at": "2026-10-31T02:32:00Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T04:59:22Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"63aa50c878e6c6d32feaa21cc20d117638746c0b8e8aef8c439216fbf52dd466\"",
-  "Last-Modified": "Fri, 09 Oct 2026 14:31:50 GMT",
+  "ETag": "\"fd8ba47270cd3aa28a69710bf2305bdb2f41c671f8c81af75d4fa01559259380\"",
+  "Last-Modified": "Sat, 31 Oct 2026 14:04:56 GMT",
   "base": {
     "repo": {
       "name": "anneal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T14:04:56Z",
+  "closed_by": "HaoZeke",
   "created_at": "2026-10-09T14:31:49Z",
   "draft": false,
   "e_tag": "\"e451f63c0fc37293d7847c65c32d3bbbe8dc320f038c9b56b8e9f386f8477221\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/anneal-feedstock/pull/7",
   "id": 4801832646,
   "labels": [],
-  "last_fetched": "2026-10-31T01:44:29.400116",
+  "last_fetched": "2026-10-31T14:06:29.678734",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-09T14:33:30Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T14:04:56Z"
 }

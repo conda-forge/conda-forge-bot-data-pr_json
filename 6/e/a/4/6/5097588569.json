@@ -1,4 +1,6 @@
 {
+  "ETag": "\"34aeb59d4d4f1874ec8fb3911eae5a986af490f9bdb3eae8dcd351d1e4719624\"",
+  "Last-Modified": "Sat, 31 Oct 2026 12:43:08 GMT",
   "base": {
     "repo": {
       "name": "opencv-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/opencv-feedstock/pull/566",
   "id": 5097588569,
-  "labels": [],
-  "last_fetched": "2026-10-31T12:41:17.432849",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891028494,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDI4NDk0",
+      "url": "https://api.github.com/repos/conda-forge/opencv-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-31T12:44:50.697915",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 566,
   "state": "open",
-  "updated_at": "2026-10-31T12:41:16Z"
+  "updated_at": "2026-10-31T12:43:08Z"
 }

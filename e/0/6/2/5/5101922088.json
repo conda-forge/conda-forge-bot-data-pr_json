@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0237f296947f5ba9b060efd8a874ce100261d7c4d7169684c480b9523d68ce70\"",
+  "Last-Modified": "Sat, 31 Oct 2026 22:33:58 GMT",
   "base": {
     "repo": {
       "name": "eerepr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T22:33:58Z",
   "closed_by": null,
   "created_at": "2026-10-31T21:59:12Z",
   "draft": false,
   "e_tag": "\"88047591b6d91844aa721f4c1c6e32e45be859d59c164660e1d9d724b13fb518\"",
   "head": {
-    "ref": "0.1.4_h91931c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/eerepr-feedstock/pull/7",
   "id": 5101922088,
   "labels": [],
-  "last_fetched": "2026-10-31T21:59:12.962510",
+  "last_fetched": "2026-10-31T22:35:06.062513",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T22:33:58Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-31T21:59:12Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T22:33:58Z"
 }

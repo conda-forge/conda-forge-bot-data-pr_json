@@ -1,29 +1,29 @@
 {
-  "ETag": "\"120df5ad2213f59f21260e126df6c715286c60580bd9f75241084dc56ec00ae4\"",
-  "Last-Modified": "Sat, 31 Oct 2026 00:20:34 GMT",
+  "ETag": "\"a1b200049ac2e4ad44f1da5bc3328130bbdb130a06f8122cdd392d3e05bb2885\"",
+  "Last-Modified": "Sat, 31 Oct 2026 11:09:54 GMT",
   "base": {
     "repo": {
       "name": "paraview-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T11:09:54Z",
   "closed_by": null,
   "created_at": "2026-10-31T00:19:04Z",
   "draft": false,
   "e_tag": "\"1e000f320e8a21d79840509110c1d53876ae7d56e6cd29d8837cf02d4f21ad6e\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h95d350"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/paraview-feedstock/pull/347",
   "id": 5092776571,
   "labels": [],
-  "last_fetched": "2026-10-31T02:31:14.610335",
+  "last_fetched": "2026-10-31T11:11:23.596570",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-31T11:09:54Z",
   "number": 347,
-  "state": "open",
-  "updated_at": "2026-10-31T00:20:34Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T11:09:54Z"
 }

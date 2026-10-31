@@ -1,12 +1,13 @@
 {
-  "ETag": "\"5b3509e9500387c6220a53134690564375f9f2d9ebc1d2cfefc1e3db0db89819\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"bf317ef70fdcb9003d8fe7d825c9b43641e1961c7953df7046271e44929b7051\"",
+  "Last-Modified": "Sat, 31 Oct 2026 15:39:23 GMT",
   "base": {
     "repo": {
       "name": "dggrid-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T15:39:22Z",
+  "closed_by": "allixender",
   "created_at": "2026-05-09T19:38:40Z",
   "draft": false,
   "e_tag": "\"a17acd2f0eb972bba81498d3c82b4ef76fa53a980c86e8b806ed6bb06625652e\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/dggrid-feedstock/pull/24",
   "id": 3655756301,
   "labels": [],
-  "last_fetched": "2026-10-26T02:38:01.519019",
+  "last_fetched": "2026-10-31T15:40:56.790734",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-05-09T19:40:16Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T15:39:23Z"
 }

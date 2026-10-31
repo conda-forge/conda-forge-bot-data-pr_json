@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c8cbc472091a8fffa6a0c0e665cf6c1e837e69239824d00931eccb17ab48de8d\"",
+  "Last-Modified": "Sat, 31 Oct 2026 01:24:02 GMT",
   "base": {
     "repo": {
       "name": "seamm-dashboard-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T01:23:59Z",
   "closed_by": null,
   "created_at": "2026-10-31T01:20:20Z",
   "draft": false,
   "e_tag": "\"f1fd9427c5edb69cf5b4646d9ed3f35d802a4ea1170e74dd0d1d522f9cf46a70\"",
   "head": {
-    "ref": "2026.10.30_h204f34"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/seamm-dashboard-client-feedstock/pull/21",
   "id": 5093207198,
   "labels": [],
-  "last_fetched": "2026-10-31T01:20:20.912242",
+  "last_fetched": "2026-10-31T01:25:28.260623",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T01:23:58Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-10-31T01:20:20Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T01:24:02Z"
 }

@@ -1,32 +1,29 @@
 {
-  "ETag": "\"24ceb096b6fc0c31a8cc89837b6aae57b556f04558feac29c03b818ff37429b7\"",
-  "Last-Modified": "Fri, 02 Oct 2026 08:11:19 GMT",
+  "ETag": "\"f4a5a3da264490789bd447fd9e39c72c2b7226b6f4f87189f45711c1abc30029\"",
+  "Last-Modified": "Sat, 31 Oct 2026 02:21:44 GMT",
   "base": {
     "repo": {
       "name": "opencosmo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T02:21:44Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-02T08:09:44Z",
   "draft": false,
   "e_tag": "\"d6e56d9af37f9145a067aaf0bd0c57aa68970e403202692f56980ee512d9627a\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "rebuild-python315-0-1_hbaf9d2"
   },
   "html_url": "https://github.com/conda-forge/opencosmo-feedstock/pull/45",
   "id": 4714183376,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-10-31T02:21:43.006600",
+  "labels": [],
+  "last_fetched": "2026-10-31T06:44:23.430520",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-10-02T08:11:19Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T02:21:44Z"
 }

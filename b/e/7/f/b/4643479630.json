@@ -1,12 +1,13 @@
 {
-  "ETag": "\"ae21cff1bab128c60da688f92e2ee9ec672e719023c6261ada918a8eb9228691\"",
-  "Last-Modified": "Fri, 25 Sep 2026 23:08:18 GMT",
+  "ETag": "W/\"dfb7a662ab9484e1ae2a4d69ed63833552e378de8649907fec99df4060dcb2ab\"",
+  "Last-Modified": "Sat, 31 Oct 2026 17:42:57 GMT",
   "base": {
     "repo": {
       "name": "isitgr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T17:42:57Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-25T23:06:41Z",
   "draft": false,
   "e_tag": "\"1e4a3a6f63c963b2f3659d9f1e325c910f2d16e53d9e224fd3ed2765c927795c\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/isitgr-feedstock/pull/24",
   "id": 4643479630,
-  "labels": [],
-  "last_fetched": "2026-10-24T15:33:44.293161",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-31T17:43:00.346044",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-09-25T23:08:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T17:42:57Z"
 }

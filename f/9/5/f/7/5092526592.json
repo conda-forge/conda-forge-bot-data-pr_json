@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5e81dd9caa009054148f6de9373584c82aed1b5a798cfafeb67898542f9c22f9\"",
-  "Last-Modified": "Fri, 30 Oct 2026 23:48:42 GMT",
+  "ETag": "\"c649d7feea90d3d5b4434ba6d655dd1e25127ea40b337ff24784778906286def\"",
+  "Last-Modified": "Sat, 31 Oct 2026 04:03:51 GMT",
   "base": {
     "repo": {
       "name": "prek-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T04:03:51Z",
   "closed_by": null,
   "created_at": "2026-10-30T23:47:09Z",
   "draft": false,
   "e_tag": "\"0a354532ff39b0b3526c49b8a3faad0cd788e9521406482f98ab8054accc1886\"",
   "head": {
-    "ref": "0.5.9_h4df15b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/prek-feedstock/pull/69",
   "id": 5092526592,
   "labels": [],
-  "last_fetched": "2026-10-31T00:38:12.207550",
+  "last_fetched": "2026-10-31T04:05:26.746020",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-31T04:03:51Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-10-30T23:48:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T04:03:51Z"
 }

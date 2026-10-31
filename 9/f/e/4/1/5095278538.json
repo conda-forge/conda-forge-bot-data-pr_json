@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dbf6b08b84a09733f8f35fb7059e8416f0a742a5e8ebccec993f3b0a48ec38ac\"",
+  "Last-Modified": "Sat, 31 Oct 2026 09:21:24 GMT",
   "base": {
     "repo": {
       "name": "wagtail-nav-menus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T09:21:24Z",
   "closed_by": null,
   "created_at": "2026-10-31T06:39:27Z",
   "draft": false,
   "e_tag": "\"de62bc31fceac97eaeb4b7a32eae92aa9e71d39b48f6a64c874fd15c94f210c9\"",
   "head": {
-    "ref": "3.15.0_h2c6318"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wagtail-nav-menus-feedstock/pull/9",
   "id": 5095278538,
   "labels": [],
-  "last_fetched": "2026-10-31T06:39:27.831526",
+  "last_fetched": "2026-10-31T09:22:33.827597",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T09:21:24Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-31T06:39:27Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T09:21:24Z"
 }

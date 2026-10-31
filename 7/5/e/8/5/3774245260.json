@@ -1,5 +1,5 @@
 {
-  "ETag": "\"2ee7c9d7cd2c9a0505bf132cfa657ca44a2f535c858cbc7d7769f72fc8be632e\"",
+  "ETag": "W/\"3fec9eaadb21cb974d01f842eef946b0731af18f45fdf3d6348937ac807769fa\"",
   "Last-Modified": "Sat, 31 Oct 2026 13:15:09 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/fatrop-feedstock/pull/11",
   "id": 3774245260,
-  "labels": [],
-  "last_fetched": "2026-10-31T13:16:38.064393",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-31T13:15:12.286403",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

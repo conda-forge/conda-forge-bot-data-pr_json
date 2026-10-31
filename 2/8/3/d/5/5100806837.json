@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1d197c26f82e4ec5990ac545786a48b7edcff2f0ca3624593e8fa0d5e58f0530\"",
+  "Last-Modified": "Sat, 31 Oct 2026 19:35:07 GMT",
   "base": {
     "repo": {
       "name": "r-parallelly-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T19:35:02Z",
   "closed_by": null,
   "created_at": "2026-10-31T19:27:33Z",
   "draft": false,
   "e_tag": "\"eea2262ef29d41fd60ef2eb46c02363ca1afa7d667b9f58a5122461c22338408\"",
   "head": {
-    "ref": "1.50.0_ha6d987"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-parallelly-feedstock/pull/45",
   "id": 5100806837,
   "labels": [],
-  "last_fetched": "2026-10-31T19:27:34.465190",
+  "last_fetched": "2026-10-31T19:36:30.815541",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T19:35:02Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-10-31T19:27:33Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T19:35:07Z"
 }

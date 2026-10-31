@@ -1,29 +1,29 @@
 {
-  "ETag": "\"34b8cd5a74ddb34715bb0a61abfcbf5fe7b29f89568d973aa021389776d5a7b0\"",
-  "Last-Modified": "Fri, 30 Oct 2026 21:59:43 GMT",
+  "ETag": "\"e3c9d70e3163b47827201d019cc0b738421f34bc5642b4f9bab20f7b03365f16\"",
+  "Last-Modified": "Sat, 31 Oct 2026 00:42:48 GMT",
   "base": {
     "repo": {
       "name": "tabmat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T00:42:48Z",
   "closed_by": null,
   "created_at": "2026-10-30T21:58:11Z",
   "draft": false,
   "e_tag": "\"9ccacef4f9b08da85fae9859ce57e4aa9ee94e1b8507c7f6f437032e3968fad9\"",
   "head": {
-    "ref": "4.3.0_hc39dbf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tabmat-feedstock/pull/65",
   "id": 5091562848,
   "labels": [],
-  "last_fetched": "2026-10-30T22:28:12.795351",
+  "last_fetched": "2026-10-31T00:43:56.697758",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-31T00:42:48Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-30T21:59:43Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T00:42:48Z"
 }

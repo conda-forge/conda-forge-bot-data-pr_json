@@ -1,18 +1,18 @@
 {
-  "ETag": "\"b9341b8fcd67cb10a58b67febd1f851f39370033b0a8f926aec7886873c5ea92\"",
-  "Last-Modified": "Sat, 31 Oct 2026 07:49:21 GMT",
+  "ETag": "\"6f9f9aa8527dbad46e86bd9e74e3bb8466c9025b093cdc7a0eb6275ca7ee9197\"",
+  "Last-Modified": "Sat, 31 Oct 2026 07:58:41 GMT",
   "base": {
     "repo": {
       "name": "tblite-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T07:58:37Z",
   "closed_by": null,
   "created_at": "2026-10-30T17:33:00Z",
   "draft": false,
   "e_tag": "\"8c795ccaaa0842f80356d7a806ca658a6f63d2c4577614c9e2b023910062473e\"",
   "head": {
-    "ref": "0.8.0_h613a03"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tblite-python-feedstock/pull/28",
   "id": 5088494364,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/tblite-python-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-31T07:50:53.836707",
+  "last_fetched": "2026-10-31T07:59:39.192480",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T07:58:37Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-10-31T07:49:21Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T07:58:41Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"fc78ecffc333ae05224815523db879851df4848a280cb69d6f5f91a3e6f93d04\"",
-  "Last-Modified": "Fri, 11 Sep 2026 21:03:47 GMT",
+  "ETag": "W/\"0eba363223b36cfb9e44a677acb80e21ffe2698776f87209a76d63323b142f82\"",
+  "Last-Modified": "Sat, 31 Oct 2026 18:44:09 GMT",
   "base": {
     "repo": {
       "name": "dm-tree-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T18:44:09Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-11T21:01:55Z",
   "draft": false,
   "e_tag": "\"27f55b35922f902207bbe44f5a0f933a76e1696b6453d09c09287b31ed3f5c53\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/dm-tree-feedstock/pull/51",
   "id": 4509716611,
-  "labels": [],
-  "last_fetched": "2026-10-24T15:34:07.278212",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-31T18:44:11.585778",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-09-11T21:03:47Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T18:44:09Z"
 }

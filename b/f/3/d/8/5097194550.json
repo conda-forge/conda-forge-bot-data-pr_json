@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e50389e1f7ad3b97687f0a830e178c9cfa820451de3695c6efb23018e94b80a2\"",
+  "Last-Modified": "Sat, 31 Oct 2026 11:56:27 GMT",
   "base": {
     "repo": {
       "name": "r-languageserver-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T11:56:23Z",
   "closed_by": null,
   "created_at": "2026-10-31T11:44:15Z",
   "draft": false,
   "e_tag": "\"4ad260300892dd324db656265d849fbfbbd34b06b490816929436b6840107892\"",
   "head": {
-    "ref": "0.3.21_h9b2279"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-languageserver-feedstock/pull/30",
   "id": 5097194550,
   "labels": [],
-  "last_fetched": "2026-10-31T11:44:16.353216",
+  "last_fetched": "2026-10-31T11:57:29.725898",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T11:56:23Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-31T11:44:15Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T11:56:27Z"
 }

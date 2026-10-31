@@ -1,12 +1,13 @@
 {
-  "ETag": "\"7a91aaa87d94612f2127a6ab61d7947d5831e348c315bbfaba925c8fea3e60fd\"",
-  "Last-Modified": "Fri, 18 Sep 2026 23:17:39 GMT",
+  "ETag": "W/\"8c90a0bcc5ec720a3c92b96547f519108143f7a9808cb3a8a521aae730d816d1\"",
+  "Last-Modified": "Sat, 31 Oct 2026 23:15:33 GMT",
   "base": {
     "repo": {
       "name": "r-lasr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T23:15:33Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-18T23:16:01Z",
   "draft": false,
   "e_tag": "\"f8798bd1e088967c0a213880439c115a1af390bb00d6c0cf4f06c6f4c9411f29\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/r-lasr-feedstock/pull/33",
   "id": 4574176912,
-  "labels": [],
-  "last_fetched": "2026-10-24T19:19:19.187888",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-31T23:15:35.970464",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-09-18T23:17:39Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T23:15:33Z"
 }

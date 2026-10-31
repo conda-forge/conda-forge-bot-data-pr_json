@@ -1,6 +1,6 @@
 {
-  "ETag": "\"cb9d2e65307c337cd76a41ec244fabbc7a9d6393916da175e406afefd81d5f4a\"",
-  "Last-Modified": "Mon, 26 Oct 2026 17:09:59 GMT",
+  "ETag": "\"4251c1e1140ba4396091d5c81beeac02dbeee55f4151412fe7a37a251c2e2fc8\"",
+  "Last-Modified": "Sat, 31 Oct 2026 02:24:17 GMT",
   "base": {
     "repo": {
       "name": "qt-webengine-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/qt-webengine-feedstock/pull/107",
   "id": 5021537176,
-  "labels": [],
-  "last_fetched": "2026-10-26T17:24:31.493282",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3807772983,
+      "name": "automerge",
+      "node_id": "LA_kwDOGzdqzc7i9gE3",
+      "url": "https://api.github.com/repos/conda-forge/qt-webengine-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-31T02:25:49.338159",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 107,
   "state": "open",
-  "updated_at": "2026-10-26T17:09:59Z"
+  "updated_at": "2026-10-31T02:24:17Z"
 }

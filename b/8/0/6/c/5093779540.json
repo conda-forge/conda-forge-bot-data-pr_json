@@ -1,27 +1,29 @@
 {
+  "ETag": "\"db2e3558a4f16736682cc92a5c833c3beb57238d1e58414de81540c6b92d5b47\"",
+  "Last-Modified": "Sat, 31 Oct 2026 02:57:37 GMT",
   "base": {
     "repo": {
       "name": "r-h5lite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T02:57:33Z",
   "closed_by": null,
   "created_at": "2026-10-31T02:47:18Z",
   "draft": false,
   "e_tag": "\"49de4a257690a6a67914cb7619d113262baa4790e8ae80605e602b89d17180b2\"",
   "head": {
-    "ref": "2.2.0.0_h8c72da"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-h5lite-feedstock/pull/4",
   "id": 5093779540,
   "labels": [],
-  "last_fetched": "2026-10-31T02:47:19.263452",
+  "last_fetched": "2026-10-31T02:59:05.129084",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T02:57:33Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-31T02:47:18Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T02:57:37Z"
 }

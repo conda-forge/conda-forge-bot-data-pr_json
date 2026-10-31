@@ -1,27 +1,29 @@
 {
+  "ETag": "\"216e56a9e2c9f74dc41d2697edd2ddf241139291c4380928f57920f6f6fe95df\"",
+  "Last-Modified": "Sat, 31 Oct 2026 16:39:41 GMT",
   "base": {
     "repo": {
       "name": "python-multipart-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T16:39:41Z",
   "closed_by": null,
   "created_at": "2026-10-31T16:33:32Z",
   "draft": false,
   "e_tag": "\"f2c908b7ab8af545d006068ea70062017ecf7569bff1d74dc1ff966255017f3e\"",
   "head": {
-    "ref": "0.0.33_h58db55"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-multipart-feedstock/pull/34",
   "id": 5099437702,
   "labels": [],
-  "last_fetched": "2026-10-31T16:33:33.931965",
+  "last_fetched": "2026-10-31T16:41:10.574071",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T16:39:41Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-10-31T16:33:32Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T16:39:41Z"
 }

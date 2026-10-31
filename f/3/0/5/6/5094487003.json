@@ -1,6 +1,6 @@
 {
-  "ETag": "\"f1a959606414c64ee93e61ab76b5c4e155a04f50c53aca256e94cf85e456813e\"",
-  "Last-Modified": "Sat, 31 Oct 2026 04:25:39 GMT",
+  "ETag": "\"328fa43e9ee2abe614270f1009b434a2d3844617c28aef35aec39db962e08af7\"",
+  "Last-Modified": "Sat, 31 Oct 2026 09:03:05 GMT",
   "base": {
     "repo": {
       "name": "std-uritemplate-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/std-uritemplate-feedstock/pull/18",
   "id": 5094487003,
-  "labels": [],
-  "last_fetched": "2026-10-31T06:43:20.203160",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6977573479,
+      "name": "automerge",
+      "node_id": "LA_kwDOL-a_mc8AAAABn-VSZw",
+      "url": "https://api.github.com/repos/conda-forge/std-uritemplate-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-31T09:03:23.023978",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-10-31T04:25:39Z"
+  "updated_at": "2026-10-31T09:03:05Z"
 }

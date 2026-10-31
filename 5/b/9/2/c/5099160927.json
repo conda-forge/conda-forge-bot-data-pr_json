@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e1c41aa5825945dcee180940535a63353298c05eca4449bad486110ffa090d48\"",
+  "Last-Modified": "Sat, 31 Oct 2026 16:06:20 GMT",
   "base": {
     "repo": {
       "name": "magpylib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T16:06:16Z",
   "closed_by": null,
   "created_at": "2026-10-31T15:57:31Z",
   "draft": false,
   "e_tag": "\"5eded62b3e2302c586c45e3c4a8127722fb2d113a21af37441a49692c6d4412e\"",
   "head": {
-    "ref": "6.1.0_h0d0893"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/magpylib-feedstock/pull/48",
   "id": 5099160927,
   "labels": [],
-  "last_fetched": "2026-10-31T15:57:32.368980",
+  "last_fetched": "2026-10-31T16:07:20.592816",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T16:06:16Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-10-31T15:57:31Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T16:06:20Z"
 }

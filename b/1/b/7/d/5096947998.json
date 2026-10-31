@@ -1,27 +1,29 @@
 {
+  "ETag": "\"49780cf3750d12084457a6df6580b12ab69b6e3c3f517d2208fcc8a80f01569e\"",
+  "Last-Modified": "Sat, 31 Oct 2026 11:11:55 GMT",
   "base": {
     "repo": {
       "name": "hyperframes-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T11:11:51Z",
   "closed_by": null,
   "created_at": "2026-10-31T11:06:17Z",
   "draft": false,
   "e_tag": "\"c39b952347eb6b93b638a57437275c1d118d8363065b06d042be8fd28e854dfb\"",
   "head": {
-    "ref": "0.8.223_hb0b7c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hyperframes-feedstock/pull/92",
   "id": 5096947998,
   "labels": [],
-  "last_fetched": "2026-10-31T11:06:18.290388",
+  "last_fetched": "2026-10-31T11:13:25.288785",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T11:11:51Z",
   "number": 92,
-  "state": "open",
-  "updated_at": "2026-10-31T11:06:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T11:11:55Z"
 }

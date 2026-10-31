@@ -1,27 +1,29 @@
 {
+  "ETag": "\"75eee42765396474dda859f0addc3345fbe8929f81fe0341cb2102315e7a21c8\"",
+  "Last-Modified": "Sat, 31 Oct 2026 19:32:55 GMT",
   "base": {
     "repo": {
       "name": "pyngrok-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T19:32:51Z",
   "closed_by": null,
   "created_at": "2026-10-31T19:29:42Z",
   "draft": false,
   "e_tag": "\"249a09e04e42bf371623c5e1f34fafe0db4de0607c26867f2ebf97a6baa42757\"",
   "head": {
-    "ref": "9.1.1_h062ac2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyngrok-feedstock/pull/88",
   "id": 5100823589,
   "labels": [],
-  "last_fetched": "2026-10-31T19:29:43.285458",
+  "last_fetched": "2026-10-31T19:33:58.289839",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T19:32:51Z",
   "number": 88,
-  "state": "open",
-  "updated_at": "2026-10-31T19:29:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T19:32:55Z"
 }

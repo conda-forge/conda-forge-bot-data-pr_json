@@ -1,18 +1,18 @@
 {
-  "ETag": "\"4251c1e1140ba4396091d5c81beeac02dbeee55f4151412fe7a37a251c2e2fc8\"",
-  "Last-Modified": "Sat, 31 Oct 2026 02:24:17 GMT",
+  "ETag": "\"4467c397f57764434e0c4de3e5bf2215728073c7dd7bd91928ecaf816294621e\"",
+  "Last-Modified": "Sat, 31 Oct 2026 05:06:03 GMT",
   "base": {
     "repo": {
       "name": "qt-webengine-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T05:05:58Z",
   "closed_by": null,
   "created_at": "2026-10-26T17:08:25Z",
   "draft": false,
   "e_tag": "\"bbd224d4d09ea34d3ef6ed98dc3fe3ad175742b24e11358075178d3418069939\"",
   "head": {
-    "ref": "6.11.3_hcbf304"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-webengine-feedstock/pull/107",
   "id": 5021537176,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/qt-webengine-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-31T02:25:49.338159",
+  "last_fetched": "2026-10-31T05:07:24.383785",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T05:05:58Z",
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-10-31T02:24:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T05:06:03Z"
 }

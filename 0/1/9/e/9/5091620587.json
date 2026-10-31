@@ -1,18 +1,18 @@
 {
-  "ETag": "\"b9aa49d2e1af9e6360616ad8e188e925b09c275b6a24d90b66f4e0123997d98d\"",
-  "Last-Modified": "Sat, 31 Oct 2026 09:43:37 GMT",
+  "ETag": "\"feafbbda6f3299e8d698467f1f01c07637f359bf8df9f71956538a8d724b2867\"",
+  "Last-Modified": "Sat, 31 Oct 2026 09:45:20 GMT",
   "base": {
     "repo": {
       "name": "grpcio-status-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T09:45:16Z",
   "closed_by": null,
   "created_at": "2026-10-30T22:03:49Z",
   "draft": false,
   "e_tag": "\"c5916beb1a47ce628ad05fb10c6c6f56b367c4c736fc02c00da520581c8cbe45\"",
   "head": {
-    "ref": "1.85.1_hbb9c0b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/grpcio-status-feedstock/pull/87",
   "id": 5091620587,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/grpcio-status-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-10-31T09:45:10.944706",
+  "last_fetched": "2026-10-31T09:46:22.827185",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T09:45:16Z",
   "number": 87,
-  "state": "open",
-  "updated_at": "2026-10-31T09:43:37Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T09:45:20Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"8b68e9e19ba25595d1b20b4e51d7fd4bd99221e75d78ed33fbceaef37ae9b614\"",
+  "ETag": "W/\"9e2df5f20bc5ce77172ed1bee645538525d74d7149bee19f7787c36ca5249f2f\"",
   "Last-Modified": "Sat, 31 Oct 2026 01:27:40 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/headroom-ai-feedstock/pull/14",
   "id": 4954078479,
-  "labels": [],
-  "last_fetched": "2026-10-31T01:29:12.637098",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-31T01:27:42.096429",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

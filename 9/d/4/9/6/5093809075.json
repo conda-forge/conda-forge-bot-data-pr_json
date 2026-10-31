@@ -1,6 +1,6 @@
 {
-  "ETag": "\"40bc5650ef99ac6b4c684d133d3a68b90857635fad934cb2d8652c9609cb720e\"",
-  "Last-Modified": "Sat, 31 Oct 2026 02:52:54 GMT",
+  "ETag": "\"b5d2400e6e814f6acf4fed8ea4a0077460ca78f30f09ba4192d412ec8a5075e7\"",
+  "Last-Modified": "Sat, 31 Oct 2026 09:00:29 GMT",
   "base": {
     "repo": {
       "name": "pyspark-client-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyspark-client-feedstock/pull/4",
   "id": 5093809075,
-  "labels": [],
-  "last_fetched": "2026-10-31T05:27:51.010758",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10552272488,
+      "name": "automerge",
+      "node_id": "LA_kwDORz-15M8AAAACdPbmaA",
+      "url": "https://api.github.com/repos/conda-forge/pyspark-client-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-10-31T09:01:56.768363",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 4,
   "state": "open",
-  "updated_at": "2026-10-31T02:52:54Z"
+  "updated_at": "2026-10-31T09:00:29Z"
 }

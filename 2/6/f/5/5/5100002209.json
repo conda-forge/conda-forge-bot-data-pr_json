@@ -1,27 +1,29 @@
 {
+  "ETag": "\"07380055de41e273f821b9b68cc71f6547953a5a8558b9674945aecd16426ed7\"",
+  "Last-Modified": "Sat, 31 Oct 2026 17:49:47 GMT",
   "base": {
     "repo": {
       "name": "configurable-http-proxy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T17:49:44Z",
   "closed_by": null,
   "created_at": "2026-10-31T17:42:38Z",
   "draft": false,
   "e_tag": "\"7ce9e833c3b10b4c97281511a78cab90404285ddd020100a6ede9b164669340d\"",
   "head": {
-    "ref": "5.4.0_hce6428"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/configurable-http-proxy-feedstock/pull/75",
   "id": 5100002209,
   "labels": [],
-  "last_fetched": "2026-10-31T17:42:39.032202",
+  "last_fetched": "2026-10-31T17:51:19.672381",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T17:49:44Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-31T17:42:38Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T17:49:47Z"
 }

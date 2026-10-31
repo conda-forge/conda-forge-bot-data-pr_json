@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c95251edcf68c096a8553f2d88403e53c269c0ab463051e145396497677e89b0\"",
-  "Last-Modified": "Sat, 31 Oct 2026 01:18:42 GMT",
+  "ETag": "\"30d8a9baa7b2c0e7bb7a6a49478b26aa158814426945876499fa8b5457aaf715\"",
+  "Last-Modified": "Sat, 31 Oct 2026 02:23:33 GMT",
   "base": {
     "repo": {
       "name": "mfpymake-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T02:22:15Z",
   "closed_by": null,
   "created_at": "2026-10-31T01:17:05Z",
   "draft": false,
   "e_tag": "\"23179fd46b070ef606368f24dc7112cd1ed4d1b5dc0cc8b80811803af19a61ec\"",
   "head": {
-    "ref": "2.0.1_h266da5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mfpymake-feedstock/pull/9",
   "id": 5093186701,
   "labels": [],
-  "last_fetched": "2026-10-31T02:22:01.527321",
+  "last_fetched": "2026-10-31T07:57:35.892151",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-10-31T02:22:15Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-10-31T01:18:42Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T02:23:33Z"
 }

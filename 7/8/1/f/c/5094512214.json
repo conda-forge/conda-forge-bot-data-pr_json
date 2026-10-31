@@ -1,27 +1,29 @@
 {
+  "ETag": "\"65545c92726d900af4a577eb93ea46a08ca09412b25c54a7f0c63e4d1dde1518\"",
+  "Last-Modified": "Sat, 31 Oct 2026 04:33:13 GMT",
   "base": {
     "repo": {
       "name": "pptxgenjs-plus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T04:33:09Z",
   "closed_by": null,
   "created_at": "2026-10-31T04:28:14Z",
   "draft": false,
   "e_tag": "\"54c2edd2a7a6569e77c44ca79c029eabc13fbaf1e2a3b33d87d25dfce18c65cc\"",
   "head": {
-    "ref": "4.3.5_h17f2db"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pptxgenjs-plus-feedstock/pull/5",
   "id": 5094512214,
   "labels": [],
-  "last_fetched": "2026-10-31T04:28:16.004076",
+  "last_fetched": "2026-10-31T04:34:40.248283",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T04:33:09Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-31T04:28:14Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T04:33:13Z"
 }

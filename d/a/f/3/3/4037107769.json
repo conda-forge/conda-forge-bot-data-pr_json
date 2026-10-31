@@ -1,5 +1,5 @@
 {
-  "ETag": "\"0c95146375fd6c928ec3822ba703311fe9d584637afb944a1ce9761c472f2fdf\"",
+  "ETag": "W/\"4b91736626ef841882274de669cd54a8eb88ba9e6d0f333ce9367a3dd0c08291\"",
   "Last-Modified": "Sat, 31 Oct 2026 09:16:25 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/thrift-cpp-feedstock/pull/82",
   "id": 4037107769,
-  "labels": [],
-  "last_fetched": "2026-10-31T09:17:31.183976",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-10-31T09:16:27.523478",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

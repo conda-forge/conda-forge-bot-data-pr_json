@@ -1,12 +1,13 @@
 {
-  "ETag": "\"a71ff4093e51d9346e3ca1e984057f8ff84befa3f923ab947650b41f351ab51b\"",
-  "Last-Modified": "Fri, 09 Oct 2026 21:14:30 GMT",
+  "ETag": "\"6539e339a18230ddeb9d65de413832e3ffe813992cb02071dbbce7deec972e57\"",
+  "Last-Modified": "Sat, 31 Oct 2026 03:42:52 GMT",
   "base": {
     "repo": {
       "name": "aws-c-mqtt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T03:42:52Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-09T21:12:44Z",
   "draft": false,
   "e_tag": "\"7f05868b85b459dcbdc8c517768295c7e4b825e2064ef913d1c4dabe592e734b\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/aws-c-mqtt-feedstock/pull/302",
   "id": 4805922435,
   "labels": [],
-  "last_fetched": "2026-10-24T02:33:10.995655",
+  "last_fetched": "2026-10-31T03:44:25.879398",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 302,
-  "state": "open",
-  "updated_at": "2026-10-09T21:17:22Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T03:42:52Z"
 }

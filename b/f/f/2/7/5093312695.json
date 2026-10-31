@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9544b3da5385d71bb9e3aaf7c01fe42ae1452ea371935912304e462cd53872ce\"",
+  "Last-Modified": "Sat, 31 Oct 2026 01:40:10 GMT",
   "base": {
     "repo": {
       "name": "seamm-util-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-10-31T01:40:06Z",
   "closed_by": null,
   "created_at": "2026-10-31T01:36:17Z",
   "draft": false,
   "e_tag": "\"4e3fe951d2536e527875a5112c27f2def18d145f915dc411d0fb135c2109c3e3\"",
   "head": {
-    "ref": "2026.10.30_hb800c3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/seamm-util-feedstock/pull/43",
   "id": 5093312695,
   "labels": [],
-  "last_fetched": "2026-10-31T01:36:18.560197",
+  "last_fetched": "2026-10-31T01:41:20.903122",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-10-31T01:40:06Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-10-31T01:36:17Z"
+  "state": "closed",
+  "updated_at": "2026-10-31T01:40:10Z"
 }

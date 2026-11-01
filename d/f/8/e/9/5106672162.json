@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0c467a842190359570e3ede9744512e5ee0486f5f523a6c576d7bf831dbefbae\"",
+  "Last-Modified": "Sun, 01 Nov 2026 11:27:18 GMT",
   "base": {
     "repo": {
       "name": "pyreadr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T11:27:18Z",
   "closed_by": null,
   "created_at": "2026-11-01T10:56:36Z",
   "draft": false,
   "e_tag": "\"b3b30491c4c8079d50a5d226e0cd27f049a3fadb0607e58b82fde1e2813d5ce0\"",
   "head": {
-    "ref": "0.5.9_he91664"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyreadr-feedstock/pull/67",
   "id": 5106672162,
   "labels": [],
-  "last_fetched": "2026-11-01T10:56:36.902610",
+  "last_fetched": "2026-11-01T11:28:32.749931",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T11:27:18Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-11-01T10:56:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T11:27:18Z"
 }

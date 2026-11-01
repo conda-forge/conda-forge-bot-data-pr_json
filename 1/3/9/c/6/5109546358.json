@@ -1,27 +1,29 @@
 {
+  "ETag": "\"998b4214870c8e81b778ffe1e6b96bfbbab95b0d04c8c35977b6144a55f9bf2f\"",
+  "Last-Modified": "Sun, 01 Nov 2026 17:01:27 GMT",
   "base": {
     "repo": {
       "name": "graphifyy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T17:01:23Z",
   "closed_by": null,
   "created_at": "2026-11-01T16:59:31Z",
   "draft": false,
   "e_tag": "\"eefa794c30025cb61c4aeb32ca6cdf54645259d5deef2b1378e8d6047f1b1861\"",
   "head": {
-    "ref": "0.9.100_hb4c688"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/graphifyy-feedstock/pull/103",
   "id": 5109546358,
   "labels": [],
-  "last_fetched": "2026-11-01T16:59:32.199874",
+  "last_fetched": "2026-11-01T17:03:08.614204",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T17:01:23Z",
   "number": 103,
-  "state": "open",
-  "updated_at": "2026-11-01T16:59:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T17:01:27Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"9c2192fc3134f5d2622f3baffd4c97b3e21b28a7c1f44c6065e9b41a7eb86dcb\"",
+  "ETag": "\"baf810b1f9034cec8d21145b4028ae7cad7171e7b78b9728b8ce1165138251d4\"",
   "Last-Modified": "Sat, 12 Sep 2026 02:24:34 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"9db248d2da13875e7daf4caebaf9f69b7e875f0aad0ad7b895f893da697af42f\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h07e5c5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xcfun-feedstock/pull/25",
   "id": 4511107937,
-  "labels": [],
-  "last_fetched": "2026-10-25T03:03:08.258837",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-01T03:58:40.036111",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 25,

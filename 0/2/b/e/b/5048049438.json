@@ -1,29 +1,29 @@
 {
-  "ETag": "\"93e14b49610640241c8806b2393a2328fc93fa4f8ce6565572c0cd69d2748dd5\"",
-  "Last-Modified": "Wed, 28 Oct 2026 09:19:13 GMT",
+  "ETag": "\"c41155881d0e164cbb5e787951983a199a58094b110043472af384cf0cfaa041\"",
+  "Last-Modified": "Sun, 01 Nov 2026 21:36:01 GMT",
   "base": {
     "repo": {
       "name": "scons-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T21:36:01Z",
   "closed_by": null,
   "created_at": "2026-10-28T09:17:43Z",
   "draft": false,
   "e_tag": "\"d04796d36467e09d791056873a741cb7add3da195e2b709a0d5ed26bd03fe004\"",
   "head": {
-    "ref": "bot-pr_arch_arm64_win_h0dabce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scons-feedstock/pull/58",
   "id": 5048049438,
   "labels": [],
-  "last_fetched": "2026-10-28T10:31:01.830041",
+  "last_fetched": "2026-11-01T21:37:26.498380",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-01T21:36:01Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-10-28T09:19:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T21:36:01Z"
 }

@@ -1,32 +1,29 @@
 {
-  "ETag": "\"4430f19356e1dad91f0831b64e7656059a0c44ba1fb8edf06e3ed903698dcb7d\"",
-  "Last-Modified": "Sat, 19 Sep 2026 16:16:01 GMT",
+  "ETag": "\"49cb1fc0fc336f2299461151a12bcc9cfc89f7fde4b0cf64fa734b44252b41d7\"",
+  "Last-Modified": "Sun, 01 Nov 2026 09:18:57 GMT",
   "base": {
     "repo": {
       "name": "sparsax-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T09:18:56Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-19T16:14:16Z",
   "draft": false,
   "e_tag": "\"906e50b0ab59103f2c76faef07ef2e2c73734b67dd7e921e572ff48964c47018\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "0.10.0_h335e39"
   },
   "html_url": "https://github.com/conda-forge/sparsax-feedstock/pull/6",
   "id": 4578919014,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-11-01T08:18:54.724515",
+  "labels": [],
+  "last_fetched": "2026-11-01T09:18:06.064638",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-09-19T16:16:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T09:18:57Z"
 }

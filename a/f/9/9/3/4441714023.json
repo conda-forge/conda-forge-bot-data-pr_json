@@ -1,6 +1,6 @@
 {
-  "ETag": "\"c3fc7e6780b035b5084727857f56af4316a3d5ca304ef77a3ca34f8e57d92177\"",
-  "Last-Modified": "Fri, 04 Sep 2026 16:26:30 GMT",
+  "ETag": "\"08df9ac07d66c89931ac0bc1c0569e2c29e63b04653289a7695cd0061ddc85a7\"",
+  "Last-Modified": "Sun, 01 Nov 2026 17:57:30 GMT",
   "base": {
     "repo": {
       "name": "python-igraph-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/python-igraph-feedstock/pull/101",
   "id": 4441714023,
-  "labels": [],
-  "last_fetched": "2026-10-31T23:59:13.891699",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891174344,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTc0MzQ0",
+      "url": "https://api.github.com/repos/conda-forge/python-igraph-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-01T17:59:04.156729",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 101,
   "state": "open",
-  "updated_at": "2026-09-04T16:26:30Z"
+  "updated_at": "2026-11-01T17:57:30Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"dadfa953162c7b2f2f59ff47a4439849e7c45e0d3ace1de7357c05d9086d1106\"",
-  "Last-Modified": "Sun, 01 Nov 2026 09:34:54 GMT",
+  "ETag": "\"fc1484bcc6a437fd374035e6c4d3a3409ef98e6f4d03389a191166c898723443\"",
+  "Last-Modified": "Sun, 01 Nov 2026 10:25:11 GMT",
   "base": {
     "repo": {
       "name": "arrow-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T10:25:11Z",
   "closed_by": null,
   "created_at": "2026-10-31T06:52:17Z",
-  "draft": true,
+  "draft": false,
   "e_tag": "\"0ca5c0eb2736c7271ad5395ba5d6fd1f50ef537c65ff108b2c97f1485dab88a3\"",
   "head": {
-    "ref": "rebuild-libopentelemetry_cpp130-0-1_hac2e97"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arrow-cpp-feedstock/pull/2070",
   "id": 5095349930,
   "labels": [],
-  "last_fetched": "2026-11-01T09:29:42.875318",
+  "last_fetched": "2026-11-01T10:26:38.661523",
   "last_modified": null,
-  "mergeable": false,
-  "mergeable_state": "dirty",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "unstable",
+  "merged": true,
+  "merged_at": "2026-11-01T10:25:11Z",
   "number": 2070,
-  "state": "open",
-  "updated_at": "2026-11-01T09:34:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T10:25:11Z"
 }

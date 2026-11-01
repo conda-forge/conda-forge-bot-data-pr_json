@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5eb8cc7799aee140955dc38aa841b255ff5099cd4a45c2fc5ac8ae8f2d459ae1\"",
-  "Last-Modified": "Tue, 27 Oct 2026 20:40:45 GMT",
+  "ETag": "\"8a9b57c15c5fb23448826034bf48242b432895e6acb4641424c930f7dacb6606\"",
+  "Last-Modified": "Sun, 01 Nov 2026 21:56:26 GMT",
   "base": {
     "repo": {
       "name": "edgetest-hub-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T21:56:25Z",
   "closed_by": null,
   "created_at": "2026-10-27T20:39:04Z",
   "draft": false,
   "e_tag": "\"daa656efeee36c1323786cdcc2caa25557214be658daaf145fd8f8cc1f5ad11f\"",
   "head": {
-    "ref": "2026.10.0_h341a3e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/edgetest-hub-feedstock/pull/19",
   "id": 5040778208,
   "labels": [],
-  "last_fetched": "2026-10-28T00:45:27.239422",
+  "last_fetched": "2026-11-01T21:58:02.275861",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T21:56:25Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-10-27T20:40:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T21:56:26Z"
 }

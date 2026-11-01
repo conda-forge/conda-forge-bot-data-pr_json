@@ -1,27 +1,29 @@
 {
+  "ETag": "\"585547261635726205e2eb408d17ed24a27157890088c784aed8e0da298946c2\"",
+  "Last-Modified": "Sun, 01 Nov 2026 02:04:08 GMT",
   "base": {
     "repo": {
       "name": "obscura-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T02:04:05Z",
   "closed_by": null,
   "created_at": "2026-11-01T01:44:56Z",
   "draft": false,
   "e_tag": "\"91b2c45edabd8ef295a252fa1d3d59ab9b8b7979ae2523ff34db99c6fa55e4f2\"",
   "head": {
-    "ref": "0.2.6_hc00bdc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/obscura-feedstock/pull/18",
   "id": 5103411957,
   "labels": [],
-  "last_fetched": "2026-11-01T01:44:56.854984",
+  "last_fetched": "2026-11-01T02:05:32.636923",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T02:04:05Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-01T01:44:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T02:04:08Z"
 }

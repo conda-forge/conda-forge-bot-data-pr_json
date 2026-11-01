@@ -1,27 +1,29 @@
 {
+  "ETag": "\"85e3a42faacfb79dc4c7fddbe3c034511a50799954f98b4c8d46bac7d5c62ab4\"",
+  "Last-Modified": "Sun, 01 Nov 2026 05:45:50 GMT",
   "base": {
     "repo": {
       "name": "janitor-rs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T05:45:50Z",
   "closed_by": null,
   "created_at": "2026-11-01T05:31:07Z",
   "draft": false,
   "e_tag": "\"48c748ba8c986fb38bcf912b3a96ebbc14b3ac35caea0d460605b95173d497e4\"",
   "head": {
-    "ref": "0.6.7_he332ad"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/janitor-rs-feedstock/pull/16",
   "id": 5104704775,
   "labels": [],
-  "last_fetched": "2026-11-01T05:31:08.529009",
+  "last_fetched": "2026-11-01T05:47:23.575220",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T05:45:50Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-01T05:31:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T05:45:55Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"1720081b05c9dc08fb6764f4e449ce1ef2df13725d0477d19db8ee341892a910\"",
-  "Last-Modified": "Sun, 01 Nov 2026 11:22:46 GMT",
+  "ETag": "\"d5894693b53babcad441b4e80fd601baa43b84eaaa22d8a82b43a8988cb30719\"",
+  "Last-Modified": "Sun, 01 Nov 2026 12:55:35 GMT",
   "base": {
     "repo": {
       "name": "arrow-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T12:55:35Z",
   "closed_by": null,
   "created_at": "2026-11-01T02:07:58Z",
   "draft": false,
   "e_tag": "\"42493473ac816a410ad0cb66f682e3dc27de6689414235cf9e142070f7cf9e87\"",
   "head": {
-    "ref": "rebuild-libthrift0250-0-1_h77cf70"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arrow-cpp-feedstock/pull/2073",
   "id": 5103541450,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/arrow-cpp-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-01T11:24:13.287963",
+  "last_fetched": "2026-11-01T12:57:02.967952",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-01T12:55:35Z",
   "number": 2073,
-  "state": "open",
-  "updated_at": "2026-11-01T11:22:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T12:55:35Z"
 }

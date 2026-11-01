@@ -1,40 +1,28 @@
 {
-  "ETag": "\"80a0db55564fbcabc8667edb1e16273615414afd1497e85a007ee1690a0f8d36\"",
-  "Last-Modified": "Sat, 31 Oct 2026 22:30:22 GMT",
+  "ETag": "\"5bf4a623a12c4ec0d4b374d1d4fab441599ccb378ef7c60c8a9690588ffa8a3c\"",
+  "Last-Modified": "Sun, 01 Nov 2026 05:09:17 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T05:09:16Z",
   "created_at": "2026-10-12T21:42:23Z",
   "draft": false,
   "e_tag": "\"f82e80ec51093648f905a2fa52b5a71e8cbfa7090f878b5915863319bc54df8e\"",
   "head": {
-    "ref": "3.12.0_h14e47f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-cpp-feedstock/pull/216",
   "id": 4835323429,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 1938965633,
-      "name": "automerge",
-      "node_id": "MDU6TGFiZWwxOTM4OTY1NjMz",
-      "url": "https://api.github.com/repos/conda-forge/google-cloud-cpp-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-10-31T22:43:55.352232",
+  "labels": [],
+  "last_fetched": "2026-11-01T05:10:46.700948",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-01T05:09:16Z",
   "number": 216,
-  "state": "open",
-  "updated_at": "2026-10-31T22:30:22Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T05:09:17Z"
 }

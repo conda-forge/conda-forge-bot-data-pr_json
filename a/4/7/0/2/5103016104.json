@@ -1,29 +1,41 @@
 {
-  "ETag": "\"da094e3c3e54b9201740bfbb15909a22925671f0daf3c2f7c7a1f97d14f04a64\"",
-  "Last-Modified": "Sun, 01 Nov 2026 00:45:07 GMT",
+  "ETag": "\"c01f1f51b868699d0036b78fda3e8209df15fc565be7d7815c72e97a09aa802c\"",
+  "Last-Modified": "Sun, 01 Nov 2026 18:28:50 GMT",
   "base": {
     "repo": {
       "name": "strenum-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T18:28:46Z",
   "closed_by": null,
   "created_at": "2026-11-01T00:43:41Z",
   "draft": false,
   "e_tag": "\"1db361208533a193ce02268b155396c31b84aa9e6a081b6ac79e6ce3cc6ab7f8\"",
   "head": {
-    "ref": "0.5.0_haa6c86"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/strenum-feedstock/pull/7",
   "id": 5103016104,
-  "labels": [],
-  "last_fetched": "2026-11-01T03:21:33.108232",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5218676503,
+      "name": "automerge",
+      "node_id": "LA_kwDOJEl-O88AAAABNw6vFw",
+      "url": "https://api.github.com/repos/conda-forge/strenum-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-01T18:29:11.623549",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-01T18:28:46Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-01T00:45:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T18:28:50Z"
 }

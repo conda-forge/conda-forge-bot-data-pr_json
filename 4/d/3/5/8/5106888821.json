@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6b919a78a7263240584aa405dabf9396a2970f6f2c637fcd9377562c935c771f\"",
+  "Last-Modified": "Sun, 01 Nov 2026 11:27:53 GMT",
   "base": {
     "repo": {
       "name": "django-mptt-admin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T11:27:49Z",
   "closed_by": null,
   "created_at": "2026-11-01T11:26:00Z",
   "draft": false,
   "e_tag": "\"5d1db6e9bf790e22a66fb85de771ec6188743a585d682dd249fd76a2da23591d\"",
   "head": {
-    "ref": "3.1.1_h5755a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-mptt-admin-feedstock/pull/25",
   "id": 5106888821,
   "labels": [],
-  "last_fetched": "2026-11-01T11:26:01.635845",
+  "last_fetched": "2026-11-01T11:29:23.280268",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T11:27:49Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-11-01T11:26:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T11:27:53Z"
 }

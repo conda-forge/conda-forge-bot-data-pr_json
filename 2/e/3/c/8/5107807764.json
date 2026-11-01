@@ -1,27 +1,29 @@
 {
+  "ETag": "\"da0f179b3dabd96cb35bab72fdeb99f0dac4adddec32df76c31f576f91837f95\"",
+  "Last-Modified": "Sun, 01 Nov 2026 13:47:18 GMT",
   "base": {
     "repo": {
       "name": "fluidsynth-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T13:47:17Z",
   "closed_by": null,
   "created_at": "2026-11-01T13:31:46Z",
   "draft": false,
   "e_tag": "\"ead05afcabe9d233bdbda61a1d4b0591174b47ef1475113b40d9f6baffc361bf\"",
   "head": {
-    "ref": "2.6.2_h8fe6cc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fluidsynth-feedstock/pull/69",
   "id": 5107807764,
   "labels": [],
-  "last_fetched": "2026-11-01T13:31:47.826261",
+  "last_fetched": "2026-11-01T13:48:22.571019",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T13:47:17Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-11-01T13:31:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T13:47:18Z"
 }

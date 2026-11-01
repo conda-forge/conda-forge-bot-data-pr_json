@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c9964ff09944d025096c1272ae8107f49acef0f1dd0e78e1a777dccf121f8f13\"",
+  "Last-Modified": "Sun, 01 Nov 2026 01:47:31 GMT",
   "base": {
     "repo": {
       "name": "jlgametheory-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T01:47:30Z",
   "closed_by": null,
   "created_at": "2026-11-01T01:21:09Z",
   "draft": false,
   "e_tag": "\"c7c19928a8e04f2cfe6abc08a196c4b5355f071ec3a19a580b35328ba652ff5a\"",
   "head": {
-    "ref": "0.4.1_h35ea3b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jlgametheory-feedstock/pull/8",
   "id": 5103272225,
   "labels": [],
-  "last_fetched": "2026-11-01T01:21:10.642677",
+  "last_fetched": "2026-11-01T01:49:17.964395",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-01T01:47:30Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-01T01:21:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T01:47:31Z"
 }

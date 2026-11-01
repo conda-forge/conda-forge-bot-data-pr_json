@@ -1,6 +1,6 @@
 {
-  "ETag": "\"33508613f229efb89b6499da97d8651bbb48a731e004775ad9e3882e701c673d\"",
-  "Last-Modified": "Sun, 01 Nov 2026 10:38:47 GMT",
+  "ETag": "\"96082818eff9510ba6847e2c8522d579045e6a3de8ba226ff54a88eb85105f15\"",
+  "Last-Modified": "Sun, 01 Nov 2026 18:28:09 GMT",
   "base": {
     "repo": {
       "name": "verilator-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/verilator-feedstock/pull/77",
   "id": 5106328471,
-  "labels": [],
-  "last_fetched": "2026-11-01T11:28:17.390439",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2042593782,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMDQyNTkzNzgy",
+      "url": "https://api.github.com/repos/conda-forge/verilator-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-01T18:29:18.236866",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 77,
   "state": "open",
-  "updated_at": "2026-11-01T10:38:47Z"
+  "updated_at": "2026-11-01T18:28:09Z"
 }

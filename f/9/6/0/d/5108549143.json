@@ -1,27 +1,29 @@
 {
+  "ETag": "\"09689d65739bcdc3447074aeea37c2ec6590ed63ff99a4dcebbacaf16f2883ad\"",
+  "Last-Modified": "Sun, 01 Nov 2026 15:02:15 GMT",
   "base": {
     "repo": {
       "name": "netgen-lvs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T15:02:12Z",
   "closed_by": null,
   "created_at": "2026-11-01T15:00:12Z",
   "draft": false,
   "e_tag": "\"f9d1d34565843b763b91ad13f16cc19fcd0933bdd7772733fa35d773257f04ad\"",
   "head": {
-    "ref": "1.5.327_h6288cc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/netgen-lvs-feedstock/pull/4",
   "id": 5108549143,
   "labels": [],
-  "last_fetched": "2026-11-01T15:00:13.126477",
+  "last_fetched": "2026-11-01T15:03:40.263115",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T15:02:12Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-01T15:00:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T15:02:15Z"
 }

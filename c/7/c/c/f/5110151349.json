@@ -1,4 +1,6 @@
 {
+  "ETag": "\"6cf0ef6e2e18a638ecc2e2e4484cf1d0408b1309d7051a8fc3d0f5f1517338f4\"",
+  "Last-Modified": "Sun, 01 Nov 2026 18:24:44 GMT",
   "base": {
     "repo": {
       "name": "steampipe-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/steampipe-feedstock/pull/81",
   "id": 5110151349,
-  "labels": [],
-  "last_fetched": "2026-11-01T18:14:13.415484",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3880533647,
+      "name": "automerge",
+      "node_id": "LA_kwDOG7GDwM7nTD6P",
+      "url": "https://api.github.com/repos/conda-forge/steampipe-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-01T18:26:04.298208",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 81,
   "state": "open",
-  "updated_at": "2026-11-01T18:14:12Z"
+  "updated_at": "2026-11-01T18:24:44Z"
 }

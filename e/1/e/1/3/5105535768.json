@@ -1,6 +1,6 @@
 {
-  "ETag": "\"48c84ce80bc412c8f692f56cbccb5a1929254d272888b770dac70ee1b3e2b728\"",
-  "Last-Modified": "Sun, 01 Nov 2026 09:03:45 GMT",
+  "ETag": "\"21dc650f3d306eb16e62fbf898acc72b0ebd8578862be5e3257e0108e9274186\"",
+  "Last-Modified": "Sun, 01 Nov 2026 11:22:47 GMT",
   "base": {
     "repo": {
       "name": "arrow-cpp-feedstock"
@@ -9,15 +9,27 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-11-01T07:58:47Z",
-  "draft": true,
+  "draft": false,
   "e_tag": "\"f803359240ee70752f7d0b08e78c024149e331265444de08e1d0e42481eeeedb\"",
   "head": {
     "ref": "rebuild-libthrift0250-0-1_h78b225"
   },
   "html_url": "https://github.com/conda-forge/arrow-cpp-feedstock/pull/2082",
   "id": 5105535768,
-  "labels": [],
-  "last_fetched": "2026-11-01T08:18:53.188223",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890794230,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwNzk0MjMw",
+      "url": "https://api.github.com/repos/conda-forge/arrow-cpp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-01T11:24:21.078650",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 2082,
   "state": "open",
-  "updated_at": "2026-11-01T09:03:45Z"
+  "updated_at": "2026-11-01T11:22:47Z"
 }

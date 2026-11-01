@@ -1,6 +1,6 @@
 {
-  "ETag": "\"9f9dd69b0553b21b4dd4ff0dc77ec0e0033b10b78c08c3186a7ed4fbdb99c6bb\"",
-  "Last-Modified": "Sat, 31 Oct 2026 09:51:10 GMT",
+  "ETag": "\"1c892de8a2e8f8814edc6a778a6ced06737fc72958ae7a8828a3dc41ff5bce33\"",
+  "Last-Modified": "Sun, 01 Nov 2026 02:02:05 GMT",
   "base": {
     "repo": {
       "name": "tox-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/tox-feedstock/pull/276",
   "id": 5096451154,
-  "labels": [],
-  "last_fetched": "2026-10-31T13:14:34.568481",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891419592,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDE5NTky",
+      "url": "https://api.github.com/repos/conda-forge/tox-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-01T02:03:16.297252",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 276,
   "state": "open",
-  "updated_at": "2026-10-31T09:51:10Z"
+  "updated_at": "2026-11-01T02:02:05Z"
 }

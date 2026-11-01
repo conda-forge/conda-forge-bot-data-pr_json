@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6056b3a18e6361e3051fb225e528b063b8c8328d34c41de07fdb5c102a8c5225\"",
+  "Last-Modified": "Sun, 01 Nov 2026 20:06:52 GMT",
   "base": {
     "repo": {
       "name": "dbetto-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T20:06:48Z",
   "closed_by": null,
   "created_at": "2026-11-01T20:04:33Z",
   "draft": false,
   "e_tag": "\"ae1eb9fc31fcc4c3518f20803cc5716e8ca690b5a49a6f200f5b25dcbef0d213\"",
   "head": {
-    "ref": "1.4.2_he5f604"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dbetto-feedstock/pull/15",
   "id": 5111048235,
   "labels": [],
-  "last_fetched": "2026-11-01T20:04:34.589956",
+  "last_fetched": "2026-11-01T20:08:13.150533",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T20:06:48Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-01T20:04:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T20:06:52Z"
 }

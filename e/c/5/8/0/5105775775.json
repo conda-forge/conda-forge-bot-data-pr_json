@@ -1,4 +1,6 @@
 {
+  "ETag": "\"a2d0857d0413574e68069333b335495c76129a94f0d133ccde88be8ce3577048\"",
+  "Last-Modified": "Sun, 01 Nov 2026 09:38:06 GMT",
   "base": {
     "repo": {
       "name": "arrow-cpp-feedstock"
@@ -6,8 +8,8 @@
   },
   "closed_at": null,
   "closed_by": null,
-  "created_at": "2026-11-01T08:35:17Z",
-  "draft": false,
+  "created_at": "2026-11-01T09:35:17Z",
+  "draft": true,
   "e_tag": "\"072fd455fc589ae51054f7d14767500f8b3b7637780da21f2e6087e207fef6e7\"",
   "head": {
     "ref": "rebuild-libgoogle_cloud312-0-1_ha0376d"
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/arrow-cpp-feedstock/pull/2084",
   "id": 5105775775,
   "labels": [],
-  "last_fetched": "2026-11-01T08:35:18.329948",
+  "last_fetched": "2026-11-01T08:42:54.543002",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 2084,
   "state": "open",
-  "updated_at": "2026-11-01T08:35:17Z"
+  "updated_at": "2026-11-01T09:38:06Z"
 }

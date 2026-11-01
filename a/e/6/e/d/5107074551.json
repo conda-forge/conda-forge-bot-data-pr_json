@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b4782f78611419cfba875e1190b68792e4c46654d3bc352d3d0ae8680f1def58\"",
-  "Last-Modified": "Sun, 01 Nov 2026 11:55:23 GMT",
+  "ETag": "\"df513052ee49ba027acafebaf49d1707613d39d3c46c043a206567b79394999f\"",
+  "Last-Modified": "Sun, 01 Nov 2026 12:00:42 GMT",
   "base": {
     "repo": {
       "name": "flux-mirror-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-01T12:00:42Z",
   "closed_by": null,
   "created_at": "2026-11-01T11:54:00Z",
   "draft": false,
   "e_tag": "\"71d207fd84dda22fab957c5b4dd57145c273e0a816f7006add523d120029055c\"",
   "head": {
-    "ref": "0.12.0_h07e3dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flux-mirror-feedstock/pull/20",
   "id": 5107074551,
   "labels": [],
-  "last_fetched": "2026-11-01T11:57:22.960286",
+  "last_fetched": "2026-11-01T12:02:13.355383",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-01T12:00:41Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-01T11:55:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-01T12:00:47Z"
 }

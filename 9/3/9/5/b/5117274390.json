@@ -1,29 +1,29 @@
 {
-  "ETag": "\"51d35d05c3bc6c35d47dea2ebc91b232096f14d1285bab04ceca2f69c602afae\"",
-  "Last-Modified": "Mon, 02 Nov 2026 08:30:01 GMT",
+  "ETag": "\"86492561ad89f4de4a5f47d2090357b0ea81055f27e6289241ef72facd6fac69\"",
+  "Last-Modified": "Mon, 02 Nov 2026 15:48:22 GMT",
   "base": {
     "repo": {
       "name": "ira-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T15:48:22Z",
   "closed_by": null,
   "created_at": "2026-11-02T08:28:29Z",
   "draft": false,
   "e_tag": "\"dc984359ceded80c61478cc6dad1a0c0ae13b70b868415f35ccd91b41d83bfc5\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h10d9fb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ira-feedstock/pull/3",
   "id": 5117274390,
   "labels": [],
-  "last_fetched": "2026-11-02T14:21:12.585191",
+  "last_fetched": "2026-11-02T15:50:09.210006",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-02T15:48:22Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-11-02T08:30:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T15:48:22Z"
 }

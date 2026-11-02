@@ -1,27 +1,29 @@
 {
+  "ETag": "\"59ed0636f5bc11c5ad25f60c2b00b273d4074f7ed6d1a0c62b70732b304a7eac\"",
+  "Last-Modified": "Mon, 02 Nov 2026 18:31:30 GMT",
   "base": {
     "repo": {
       "name": "datamodel-code-generator-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T18:31:30Z",
   "closed_by": null,
   "created_at": "2026-11-02T18:23:16Z",
   "draft": false,
   "e_tag": "\"d213cfd5b65535215d5d380c07a43b5a5f6ae6ce0e76d953754ea21f1677fdac\"",
   "head": {
-    "ref": "0.88.0_h8db65a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/datamodel-code-generator-feedstock/pull/121",
   "id": 5125303408,
   "labels": [],
-  "last_fetched": "2026-11-02T18:23:17.539609",
+  "last_fetched": "2026-11-02T18:33:18.778062",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T18:31:30Z",
   "number": 121,
-  "state": "open",
-  "updated_at": "2026-11-02T18:23:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T18:31:30Z"
 }

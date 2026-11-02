@@ -1,27 +1,29 @@
 {
+  "ETag": "\"69bffb3df8d188aa602eb96fe60787721aee2df4d1989aa7fb1fed3598221729\"",
+  "Last-Modified": "Mon, 02 Nov 2026 13:07:23 GMT",
   "base": {
     "repo": {
       "name": "cargo-flamegraph-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T13:07:23Z",
   "closed_by": null,
   "created_at": "2026-11-02T13:03:13Z",
   "draft": false,
   "e_tag": "\"56100d61219231031b716eedc9858f30fbe5040e044f2501755b57162873db86\"",
   "head": {
-    "ref": "0.6.15_h78b068"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cargo-flamegraph-feedstock/pull/10",
   "id": 5120755901,
   "labels": [],
-  "last_fetched": "2026-11-02T13:03:14.784870",
+  "last_fetched": "2026-11-02T13:09:03.467873",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T13:07:23Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-02T13:03:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T13:07:28Z"
 }

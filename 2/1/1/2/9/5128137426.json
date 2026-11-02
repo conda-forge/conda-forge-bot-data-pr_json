@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f891813e8b5ba98268379d4c1383df54e9366c51fc924b38cf3a7d88a5dcdaca\"",
+  "Last-Modified": "Mon, 02 Nov 2026 22:14:29 GMT",
   "base": {
     "repo": {
       "name": "flyctl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T22:14:25Z",
   "closed_by": null,
   "created_at": "2026-11-02T22:03:10Z",
   "draft": false,
   "e_tag": "\"1ea8642eea6ff09438db4c49fa362010b0e61c60d21806e81ca5eb0ba9c348c5\"",
   "head": {
-    "ref": "0.5.2_h2e8565"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flyctl-feedstock/pull/91",
   "id": 5128137426,
   "labels": [],
-  "last_fetched": "2026-11-02T22:03:11.128683",
+  "last_fetched": "2026-11-02T22:15:34.307616",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-02T22:14:25Z",
   "number": 91,
-  "state": "open",
-  "updated_at": "2026-11-02T22:03:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T22:14:29Z"
 }

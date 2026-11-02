@@ -1,29 +1,32 @@
 {
-  "ETag": "\"474e7db7884e6fd5925e880f5da2e7aa0be33aacb722ead6372632afb8749fa6\"",
-  "Last-Modified": "Mon, 02 Nov 2026 16:59:05 GMT",
+  "ETag": "\"aea54e1ebafa153091f716b5ae21873274b4a3e87df9a72ce64cc7cca58ee08a\"",
+  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
   "base": {
     "repo": {
       "name": "sdl2_mixer-feedstock"
     }
   },
-  "closed_at": "2026-11-02T16:59:05Z",
-  "closed_by": "regro-cf-autotick-bot",
+  "closed_at": null,
   "created_at": "2026-06-03T08:26:35Z",
   "draft": false,
   "e_tag": "\"35e1fdf6105db4b26ca6836e769981750965f6f316f2135d39f477d4dcf3bf95\"",
   "head": {
-    "ref": "3.2.4_h462075"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sdl2_mixer-feedstock/pull/23",
   "id": 3793842699,
-  "labels": [],
-  "last_fetched": "2026-11-02T17:00:46.262822",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-02T16:59:02.936264",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 23,
-  "state": "closed",
-  "updated_at": "2026-11-02T16:59:05Z"
+  "state": "open",
+  "updated_at": "2026-06-03T08:28:31Z"
 }

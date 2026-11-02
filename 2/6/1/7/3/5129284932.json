@@ -1,27 +1,29 @@
 {
+  "ETag": "\"570361371c0772a9a8accca42573d781c15d4fe2120386d7a481d91fda24b11a\"",
+  "Last-Modified": "Mon, 02 Nov 2026 23:55:03 GMT",
   "base": {
     "repo": {
       "name": "ntfy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T23:54:59Z",
   "closed_by": null,
   "created_at": "2026-11-02T23:47:59Z",
   "draft": false,
   "e_tag": "\"897e6fd7a8eba914173cdfb7b8a973e0aa8d6dfead8288eaf3ac3748fddbab1a\"",
   "head": {
-    "ref": "2.37.1_h026344"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ntfy-feedstock/pull/33",
   "id": 5129284932,
   "labels": [],
-  "last_fetched": "2026-11-02T23:47:59.762991",
+  "last_fetched": "2026-11-02T23:56:30.962817",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-02T23:54:59Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-02T23:47:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T23:55:03Z"
 }

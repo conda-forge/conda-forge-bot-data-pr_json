@@ -1,12 +1,13 @@
 {
-  "ETag": "\"12ed7b647661b71deb3b5a22cf30aa7f8ebffefb245ab4dfc4c8d9f8b7711ea4\"",
-  "Last-Modified": "Sat, 19 Sep 2026 09:40:28 GMT",
+  "ETag": "W/\"733e67e1110992732189711056b9c3007d9f59ae240e16e90755a2353e9675c4\"",
+  "Last-Modified": "Mon, 02 Nov 2026 03:58:19 GMT",
   "base": {
     "repo": {
       "name": "pyxdameraulevenshtein-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T03:58:19Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-19T09:38:37Z",
   "draft": false,
   "e_tag": "\"ebd870c56606c569208813fa76ad83636fcbe1035576e714ab735a275bb9025a\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/pyxdameraulevenshtein-feedstock/pull/46",
   "id": 4576831367,
-  "labels": [],
-  "last_fetched": "2026-10-25T17:46:06.031167",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-02T03:58:21.416357",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-09-19T09:40:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T03:58:19Z"
 }

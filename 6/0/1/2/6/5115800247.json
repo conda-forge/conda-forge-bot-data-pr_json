@@ -1,29 +1,29 @@
 {
-  "ETag": "\"878a2ddddff4ee80dd1d7fb6a1477cb69c880ed88a3bcb650a73886045a17ee6\"",
-  "Last-Modified": "Mon, 02 Nov 2026 06:08:11 GMT",
+  "ETag": "\"3e1a1fe0eec87228c60b3e540185025be6c2f97451a96736a1337955a5bb04bc\"",
+  "Last-Modified": "Mon, 02 Nov 2026 15:32:36 GMT",
   "base": {
     "repo": {
       "name": "deepxde-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T15:32:36Z",
   "closed_by": null,
   "created_at": "2026-11-02T06:06:46Z",
   "draft": false,
   "e_tag": "\"028b3e87103c2eb86f7805d2b6eefc59d4c8ffc3cf9f063e89454564ec4bb376\"",
   "head": {
-    "ref": "1.15.1_h666311"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deepxde-feedstock/pull/82",
   "id": 5115800247,
   "labels": [],
-  "last_fetched": "2026-11-02T14:42:38.267463",
+  "last_fetched": "2026-11-02T15:33:47.767611",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-02T15:32:36Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-11-02T06:08:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T15:32:36Z"
 }

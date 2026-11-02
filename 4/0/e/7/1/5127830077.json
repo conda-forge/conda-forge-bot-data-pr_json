@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5c66f9905d7c0d04c22966a18fb40afd39ef10bdd25377cc1052d223def5f8c0\"",
+  "Last-Modified": "Mon, 02 Nov 2026 21:41:17 GMT",
   "base": {
     "repo": {
       "name": "msal_requests_auth-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T21:41:11Z",
   "closed_by": null,
   "created_at": "2026-11-02T21:38:00Z",
   "draft": false,
   "e_tag": "\"29f5a88035aa478a2ed2addaf1b1dd117a8f0252746a298ae3059e22638192ff\"",
   "head": {
-    "ref": "0.9.4_h9ac7d7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/msal_requests_auth-feedstock/pull/19",
   "id": 5127830077,
   "labels": [],
-  "last_fetched": "2026-11-02T21:38:01.298378",
+  "last_fetched": "2026-11-02T21:42:53.737233",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T21:41:11Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-11-02T21:38:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T21:41:17Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"16a6ab350c9c57537bf81438867b00ba0f410640d184db9da2ca0d8e88199cfe\"",
+  "Last-Modified": "Mon, 02 Nov 2026 13:14:44 GMT",
   "base": {
     "repo": {
       "name": "billiard-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T13:14:39Z",
   "closed_by": null,
   "created_at": "2026-11-02T13:02:05Z",
   "draft": false,
   "e_tag": "\"e2c04e246313027695bdcc83abb744cf804fdf1861027e8fff3c5178eef86e60\"",
   "head": {
-    "ref": "4.3.2_h8a1f4c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/billiard-feedstock/pull/72",
   "id": 5120741154,
   "labels": [],
-  "last_fetched": "2026-11-02T13:02:06.496324",
+  "last_fetched": "2026-11-02T13:16:14.089477",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T13:14:39Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-11-02T13:02:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T13:14:44Z"
 }

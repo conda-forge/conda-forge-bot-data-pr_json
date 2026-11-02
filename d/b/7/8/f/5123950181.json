@@ -1,27 +1,29 @@
 {
+  "ETag": "\"52cc95a88a4cf3f14fcca2fe2e71c5d2d8d2d2c5357064909bee25aea1b8ff09\"",
+  "Last-Modified": "Mon, 02 Nov 2026 16:49:39 GMT",
   "base": {
     "repo": {
       "name": "r-rsvd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T16:49:39Z",
   "closed_by": null,
   "created_at": "2026-11-02T16:45:31Z",
   "draft": false,
   "e_tag": "\"48d82245cf2fe60278ea44ea34650d85d61cc3190dc008c5ac143addf1c60646\"",
   "head": {
-    "ref": "2.0.0_h5b1115"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-rsvd-feedstock/pull/15",
   "id": 5123950181,
   "labels": [],
-  "last_fetched": "2026-11-02T16:45:32.064570",
+  "last_fetched": "2026-11-02T16:50:56.700575",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T16:49:39Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-02T16:45:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T16:49:44Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"c25b83dbff39872fe303ace44f9c74690da6ca43ab8631ffa70a658251ed370a\"",
-  "Last-Modified": "Sun, 20 Sep 2026 02:01:52 GMT",
+  "ETag": "W/\"179cf43a61d4149e779a416cf1e36b47af4e6ef269ff9040a3f4699b37d8d0aa\"",
+  "Last-Modified": "Mon, 02 Nov 2026 07:21:25 GMT",
   "base": {
     "repo": {
       "name": "ira-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T07:21:25Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-20T02:00:07Z",
   "draft": false,
   "e_tag": "\"511e589f76557f3d78e3e09c43c57d5d509fed689717e940079c5b6aebfdee1b\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/ira-feedstock/pull/2",
   "id": 4581801540,
-  "labels": [],
-  "last_fetched": "2026-10-25T20:23:44.434068",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-02T07:21:28.316325",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-09-20T02:01:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T07:21:25Z"
 }

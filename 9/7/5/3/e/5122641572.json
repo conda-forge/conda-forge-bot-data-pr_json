@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1cb9357a77ac486113338fe28ab5cb6167f9060894d3c5425ab324ea7571cfe2\"",
+  "Last-Modified": "Mon, 02 Nov 2026 15:18:39 GMT",
   "base": {
     "repo": {
       "name": "mkdocs-git-revision-date-localized-plugin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T15:18:35Z",
   "closed_by": null,
   "created_at": "2026-11-02T15:14:55Z",
   "draft": false,
   "e_tag": "\"2d766145795f9b8596f638a4f65942c8f3a3667ac5c3f4ffd6c1c941867eac3e\"",
   "head": {
-    "ref": "1.6.3_h6ad4e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mkdocs-git-revision-date-localized-plugin-feedstock/pull/22",
   "id": 5122641572,
   "labels": [],
-  "last_fetched": "2026-11-02T15:14:56.515261",
+  "last_fetched": "2026-11-02T15:20:07.129646",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T15:18:35Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-02T15:14:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T15:18:39Z"
 }

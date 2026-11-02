@@ -1,12 +1,13 @@
 {
-  "ETag": "\"f3386747dc6ba66dfbdd81bd1f2485d1949ba08760d2f9d46d8ffa33aff8f13f\"",
-  "Last-Modified": "Sat, 19 Sep 2026 23:24:45 GMT",
+  "ETag": "W/\"f6ecfc0f498d9e85ce3e765d9c475b1ec2623d9ac29fdcd6df818a2f029f92f4\"",
+  "Last-Modified": "Mon, 02 Nov 2026 19:16:34 GMT",
   "base": {
     "repo": {
       "name": "s2geometry-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T19:16:34Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-19T23:24:43Z",
   "draft": false,
   "e_tag": "\"23c02c55ed476695c162bfe6db22763fe44e0e8b156f2b437db8b4d34b32d334\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/s2geometry-feedstock/pull/44",
   "id": 4581184667,
-  "labels": [],
-  "last_fetched": "2026-10-26T17:24:17.089212",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-02T19:16:36.703793",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-09-19T23:26:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T19:16:34Z"
 }

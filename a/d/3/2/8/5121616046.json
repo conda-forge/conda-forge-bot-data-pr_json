@@ -1,29 +1,41 @@
 {
-  "ETag": "\"d5afae0e31e93a2ce55cde957df92803e0e4a4ba0e3d6438d8eb427b9148a336\"",
-  "Last-Modified": "Mon, 02 Nov 2026 14:06:57 GMT",
+  "ETag": "\"26283548dea14665d8cacc5a13ff6b1d9c0503a6d5cea6bcd5410cc7f1d8cb69\"",
+  "Last-Modified": "Mon, 02 Nov 2026 15:51:08 GMT",
   "base": {
     "repo": {
       "name": "arabic-reshaper-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T15:51:04Z",
   "closed_by": null,
   "created_at": "2026-11-02T14:05:17Z",
   "draft": false,
   "e_tag": "\"48abc07bf3b8aebb38671fe45ef901019a3f8ed0268017cee98b63ec99a0c1ec\"",
   "head": {
-    "ref": "3.1.0_had02e4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arabic-reshaper-feedstock/pull/2",
   "id": 5121616046,
-  "labels": [],
-  "last_fetched": "2026-11-02T14:31:34.880612",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11755819296,
+      "name": "automerge",
+      "node_id": "LA_kwDOTwiqbs8AAAACvLORIA",
+      "url": "https://api.github.com/repos/conda-forge/arabic-reshaper-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-02T15:52:02.202668",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-02T15:51:04Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-02T14:06:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T15:51:08Z"
 }

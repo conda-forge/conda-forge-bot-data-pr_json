@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3d822d096f0e59dbad0e8f28888a39bf56dd1746e6772d2b0886c1330c66ded4\"",
-  "Last-Modified": "Mon, 02 Nov 2026 02:49:36 GMT",
+  "ETag": "\"550984514184baa82ebf054dcc8d5ca85905d585c21f6b516a8dd2d846808a0c\"",
+  "Last-Modified": "Mon, 02 Nov 2026 12:17:42 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-microsoft-azure-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-microsoft-azure-feedstock/pull/74",
   "id": 5114168455,
-  "labels": [],
-  "last_fetched": "2026-11-02T07:32:17.790313",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2772961579,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzcyOTYxNTc5",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-microsoft-azure-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-02T12:19:16.861440",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 74,
   "state": "open",
-  "updated_at": "2026-11-02T02:49:36Z"
+  "updated_at": "2026-11-02T12:17:42Z"
 }

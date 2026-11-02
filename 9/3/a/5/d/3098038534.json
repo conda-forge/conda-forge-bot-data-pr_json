@@ -1,12 +1,13 @@
 {
-  "ETag": "\"15743ea2b738f09e2e28e169b86cf2753b54f4abf60a2440f7f055f87a55aa23\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"5ab9ac5d3103782309593cd858ae270d37f0568c622e2ea7d0885c709eca890e\"",
+  "Last-Modified": "Mon, 02 Nov 2026 13:28:07 GMT",
   "base": {
     "repo": {
       "name": "pypiserver-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T13:28:07Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-12-12T23:26:51Z",
   "draft": false,
   "e_tag": "\"24e7e9abe6e3c7fa1c0338c4a80cc7efb7ece89dccf3647bff44dfd58d55a3e1\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pypiserver-feedstock/pull/9",
   "id": 3098038534,
   "labels": [],
-  "last_fetched": "2026-10-26T04:31:43.482528",
+  "last_fetched": "2026-11-02T13:29:50.717508",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 9,
-  "state": "open",
-  "updated_at": "2025-12-12T23:28:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T13:28:07Z"
 }

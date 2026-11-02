@@ -1,18 +1,18 @@
 {
-  "ETag": "\"da82209e3e78bdbe89ee96d0ec33eabac3193c262f39606d06584e8de44b2bdc\"",
-  "Last-Modified": "Mon, 02 Nov 2026 01:48:43 GMT",
+  "ETag": "\"905c3005459dfe82378d09891fdc672d099b525732e6f91e33e6aeccab7f0228\"",
+  "Last-Modified": "Mon, 02 Nov 2026 01:56:58 GMT",
   "base": {
     "repo": {
       "name": "lcms2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T01:56:54Z",
   "closed_by": null,
   "created_at": "2026-11-01T00:42:14Z",
   "draft": false,
   "e_tag": "\"b224fb3c0a46ccbfd711a56a3431a9eee24f1844f23df73ebd185416ad997a84\"",
   "head": {
-    "ref": "2.20_h2033c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lcms2-feedstock/pull/37",
   "id": 5103005352,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/lcms2-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-02T01:50:14.513923",
+  "last_fetched": "2026-11-02T01:58:26.236143",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T01:56:54Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-11-02T01:48:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T01:56:58Z"
 }

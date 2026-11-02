@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1958d5764869b782e29c38923f191da335491ebb0c71ff574c38235e3c5adcb8\"",
+  "Last-Modified": "Mon, 02 Nov 2026 22:33:14 GMT",
   "base": {
     "repo": {
       "name": "yaozarrs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T22:33:13Z",
   "closed_by": null,
   "created_at": "2026-11-02T21:22:49Z",
   "draft": false,
   "e_tag": "\"28e4f8d976fcf7e2572dc7775d0345c6537b2c43534cf76bb4112454ecaa750d\"",
   "head": {
-    "ref": "0.4.0_h353b6c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yaozarrs-feedstock/pull/10",
   "id": 5127638530,
   "labels": [],
-  "last_fetched": "2026-11-02T21:22:50.161178",
+  "last_fetched": "2026-11-02T22:34:42.390164",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-02T22:33:13Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-02T21:22:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T22:33:14Z"
 }

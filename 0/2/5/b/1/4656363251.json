@@ -1,12 +1,13 @@
 {
-  "ETag": "\"2f954446b79d4071aa8f1b510e7b4e9a75932ea318f84094c1cc30caf1f2ee0e\"",
-  "Last-Modified": "Sun, 27 Sep 2026 19:57:19 GMT",
+  "ETag": "W/\"c968598063891b9d73e2667153af1352d56a8972dadd04280300bf7f15bdfa5e\"",
+  "Last-Modified": "Mon, 02 Nov 2026 18:33:54 GMT",
   "base": {
     "repo": {
       "name": "transformations-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T18:33:54Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-27T19:55:47Z",
   "draft": false,
   "e_tag": "\"147c3f38a6b80316adef6d1c5a99a6a0f8552f84e57a38979281de914dc5568d\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/transformations-feedstock/pull/20",
   "id": 4656363251,
-  "labels": [],
-  "last_fetched": "2026-10-26T17:47:36.835189",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-02T18:33:58.072661",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-09-27T19:57:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T18:33:54Z"
 }

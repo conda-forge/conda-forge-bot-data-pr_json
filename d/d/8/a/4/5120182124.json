@@ -1,27 +1,29 @@
 {
+  "ETag": "\"28daeea4dc578ecf44ef99a3c10be32f0d40d41bfa3fd57a1b1b47a60b1873af\"",
+  "Last-Modified": "Mon, 02 Nov 2026 12:36:24 GMT",
   "base": {
     "repo": {
       "name": "pycrdt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T12:36:24Z",
   "closed_by": null,
   "created_at": "2026-11-02T12:18:46Z",
   "draft": false,
   "e_tag": "\"e02bcfb0f2567333a929108e03d89ea11965dbc4ce36123dd89bdb319aed0ec3\"",
   "head": {
-    "ref": "0.14.13_h99c5db"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pycrdt-feedstock/pull/127",
   "id": 5120182124,
   "labels": [],
-  "last_fetched": "2026-11-02T12:18:47.031765",
+  "last_fetched": "2026-11-02T12:38:00.583570",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T12:36:24Z",
   "number": 127,
-  "state": "open",
-  "updated_at": "2026-11-02T12:18:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T12:36:24Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "\"69d97325408d3536da51409ee8731f739891ca31fcdc380060a454eb74fa4d61\"",
-  "Last-Modified": "Mon, 02 Nov 2026 13:12:15 GMT",
+  "ETag": "\"f73aa189010fd2a09c073c27fbf86c7dd7b76fbd81c5ef9d87a9081d9b6d3d10\"",
+  "Last-Modified": "Mon, 02 Nov 2026 13:38:05 GMT",
   "base": {
     "repo": {
       "name": "conda-auth-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T13:38:05Z",
   "created_at": "2025-01-13T13:05:17Z",
   "draft": false,
   "e_tag": "\"75999fe557df1ec524bbcd44633c8b0e43268372872b28022167de903d67b195\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_hec8381"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/conda-auth-feedstock/pull/6",
   "id": 2273789849,
   "labels": [],
-  "last_fetched": "2026-11-02T13:29:03.033233",
+  "last_fetched": "2026-11-02T13:39:39.882641",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-02T13:38:05Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-02T13:12:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T13:38:05Z"
 }

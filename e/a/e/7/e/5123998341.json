@@ -1,29 +1,29 @@
 {
-  "ETag": "\"dbacd824675db44e632f3d73d24954df3f9e6000e8992fa63c8501f85682d409\"",
-  "Last-Modified": "Mon, 02 Nov 2026 16:50:16 GMT",
+  "ETag": "\"c6c09a8724ec9593e54df7d16612f1a8989d3895350262faf818a3667cbd72cc\"",
+  "Last-Modified": "Mon, 02 Nov 2026 17:16:14 GMT",
   "base": {
     "repo": {
       "name": "aube-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T17:16:09Z",
   "closed_by": null,
   "created_at": "2026-11-02T16:48:52Z",
   "draft": false,
   "e_tag": "\"e22a3631bc54925492af1744706c9606ad7c786a4128fa26e528e5faf57b5dab\"",
   "head": {
-    "ref": "2.9.0_h78fc8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aube-feedstock/pull/53",
   "id": 5123998341,
   "labels": [],
-  "last_fetched": "2026-11-02T16:58:37.356667",
+  "last_fetched": "2026-11-02T17:16:47.103916",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T17:16:09Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-11-02T16:50:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T17:16:14Z"
 }

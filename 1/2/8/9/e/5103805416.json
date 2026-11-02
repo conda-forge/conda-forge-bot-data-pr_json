@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0c54c2b1febb75573a33c53d55fb8170569a15667203240fbd777cda7fb50a62\"",
-  "Last-Modified": "Sun, 01 Nov 2026 03:03:09 GMT",
+  "ETag": "\"77265042a64d134f246a7ba746ea111dadc27753b959297667b7111590fa38b3\"",
+  "Last-Modified": "Mon, 02 Nov 2026 17:06:48 GMT",
   "base": {
     "repo": {
       "name": "gnuradio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T17:06:48Z",
   "closed_by": null,
   "created_at": "2026-11-01T02:50:31Z",
   "draft": false,
   "e_tag": "\"dabdad08686eca717a5c3a2ab018f18a00a9a56a91dc45954aa721edf1516829\"",
   "head": {
-    "ref": "rebuild-libthrift0250-0-1_h479bf0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gnuradio-feedstock/pull/316",
   "id": 5103805416,
   "labels": [],
-  "last_fetched": "2026-11-01T05:27:52.671673",
+  "last_fetched": "2026-11-02T17:08:28.116846",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T17:06:48Z",
   "number": 316,
-  "state": "open",
-  "updated_at": "2026-11-01T03:03:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T17:06:48Z"
 }

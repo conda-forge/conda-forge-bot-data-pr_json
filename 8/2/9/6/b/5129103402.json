@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c26cfeffee1def0e23e4d13de3ba3d2af4cc0f420fadb4ec03bab3991f0e782a\"",
+  "Last-Modified": "Mon, 02 Nov 2026 23:32:56 GMT",
   "base": {
     "repo": {
       "name": "geant4-data-radioactivedecay-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T23:32:52Z",
   "closed_by": null,
   "created_at": "2026-11-02T23:29:21Z",
   "draft": false,
   "e_tag": "\"dac329994e8d3e02af51554c2d490119d053c47264d6747caaead8e8941bfdeb\"",
   "head": {
-    "ref": "6.1.3_h53870c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geant4-data-radioactivedecay-feedstock/pull/10",
   "id": 5129103402,
   "labels": [],
-  "last_fetched": "2026-11-02T23:29:22.118053",
+  "last_fetched": "2026-11-02T23:34:19.529554",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-02T23:32:52Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-02T23:29:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T23:32:56Z"
 }

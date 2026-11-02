@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a68cedbbc9532653023911d657163eca628fcace85afcf2353e86decc31a47e4\"",
-  "Last-Modified": "Sat, 31 Oct 2026 22:44:30 GMT",
+  "ETag": "\"f4cfc05052dcbc870c2572f7a7a09f311096ef9024e99b101683374c438b5ad0\"",
+  "Last-Modified": "Mon, 02 Nov 2026 16:11:54 GMT",
   "base": {
     "repo": {
       "name": "mubody-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T16:11:54Z",
   "closed_by": null,
   "created_at": "2026-10-31T22:43:04Z",
   "draft": false,
   "e_tag": "\"e5820c78d5bf2548978c78b057532fa38dc5440f45692d1a1b0cedf6617a83aa\"",
   "head": {
-    "ref": "0.2.0_h6fcfb8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mubody-feedstock/pull/6",
   "id": 5102229622,
   "labels": [],
-  "last_fetched": "2026-10-31T23:27:26.565765",
+  "last_fetched": "2026-11-02T16:12:58.246370",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T16:11:54Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-31T22:44:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T16:11:54Z"
 }

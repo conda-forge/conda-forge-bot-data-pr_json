@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"c6b804e66908f0632e4158ac0c06a2deab6d89f8e0711afdef44a3b4bdb781dc\"",
+  "Last-Modified": "Mon, 02 Nov 2026 19:27:23 GMT",
   "base": {
     "repo": {
       "name": "gh-actions-lock-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T19:27:19Z",
   "closed_by": null,
   "created_at": "2026-11-02T19:22:49Z",
   "draft": false,
   "e_tag": "\"372c94c6b72b57344d673b664de03b5de5deb3e5c27f66d4e12438c0446138bf\"",
   "head": {
-    "ref": "0.4.1_had8737"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gh-actions-lock-feedstock/pull/4",
   "id": 5126087753,
   "labels": [],
-  "last_fetched": "2026-11-02T19:22:50.382998",
+  "last_fetched": "2026-11-02T19:28:51.050888",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-02T19:27:19Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-02T19:22:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T19:27:23Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "\"63c56daa99298153728227b88be918c614f734d42474f181964b10a751a60508\"",
-  "Last-Modified": "Mon, 02 Nov 2026 12:59:27 GMT",
+  "ETag": "\"a3aa4a162fc517cf8edf61f3332731145ee4fc94677ccafd694ea6e26638cba7\"",
+  "Last-Modified": "Mon, 02 Nov 2026 16:29:47 GMT",
   "base": {
     "repo": {
       "name": "cosmosis-build-standard-library-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T16:29:47Z",
   "created_at": "2026-10-02T13:48:47Z",
   "draft": false,
   "e_tag": "\"5359a050a0d8159b4df4a714bf1e8799707c54e96aab286a3e78c34d403bb065\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h47145d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cosmosis-build-standard-library-feedstock/pull/28",
   "id": 4717223282,
   "labels": [],
-  "last_fetched": "2026-11-02T14:19:22.660609",
+  "last_fetched": "2026-11-02T16:31:40.800809",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-02T16:29:47Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-02T12:59:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T16:29:47Z"
 }

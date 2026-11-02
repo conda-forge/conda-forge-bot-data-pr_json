@@ -1,12 +1,13 @@
 {
-  "ETag": "\"63bc5258f6bfbf80d1ca4c43a37b73e6ee7b077f0683f3b433a3d50c395190be\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"18ea46c242b4a749c8057869034765d2797eb90b84a9f19023f9829624b79598\"",
+  "Last-Modified": "Mon, 02 Nov 2026 16:48:44 GMT",
   "base": {
     "repo": {
       "name": "cursor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T16:48:44Z",
+  "closed_by": "duncanmmacleod",
   "created_at": "2025-01-08T06:47:31Z",
   "draft": false,
   "e_tag": "\"f99ef0a97e548b73a70aaa5320edbc94f94286b1c4590962bcfe5e5ffb60a220\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/cursor-feedstock/pull/2",
   "id": 2265332139,
   "labels": [],
-  "last_fetched": "2026-10-26T21:58:47.086170",
+  "last_fetched": "2026-11-02T16:50:22.747535",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 2,
-  "state": "open",
-  "updated_at": "2025-01-08T06:49:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T16:48:44Z"
 }

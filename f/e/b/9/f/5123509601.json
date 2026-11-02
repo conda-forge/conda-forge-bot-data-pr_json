@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6fdf083776d4ba679c2abadc83581bd8461b4b4d6032d77e6c58f6797df6108f\"",
+  "Last-Modified": "Mon, 02 Nov 2026 16:36:03 GMT",
   "base": {
     "repo": {
       "name": "pycrdt-websocket-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T16:36:03Z",
   "closed_by": null,
   "created_at": "2026-11-02T16:13:51Z",
   "draft": false,
   "e_tag": "\"9dd4582472a7ef6ab01fba8bff615ed0c9f5a288a5ab9e1fa6ca48dfe3caf71b\"",
   "head": {
-    "ref": "0.16.6_hb30db0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pycrdt-websocket-feedstock/pull/28",
   "id": 5123509601,
   "labels": [],
-  "last_fetched": "2026-11-02T16:13:52.811985",
+  "last_fetched": "2026-11-02T16:37:33.621247",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T16:36:03Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-02T16:13:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T16:36:03Z"
 }

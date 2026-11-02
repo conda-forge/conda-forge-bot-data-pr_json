@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e7cceccab886062521649eb634ce47247c13d7d564ca8da4f2f0ca4344d2a88e\"",
+  "Last-Modified": "Mon, 02 Nov 2026 13:26:31 GMT",
   "base": {
     "repo": {
       "name": "confluence-markdown-exporter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T13:26:26Z",
   "closed_by": null,
   "created_at": "2026-11-02T13:24:38Z",
   "draft": false,
   "e_tag": "\"4cdc29658273a3f982686b7da80f0dc1cede9fe84f487fe93248fdd49805a0dc\"",
   "head": {
-    "ref": "5.6.0_hee70ed"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/confluence-markdown-exporter-feedstock/pull/16",
   "id": 5121052804,
   "labels": [],
-  "last_fetched": "2026-11-02T13:24:39.379401",
+  "last_fetched": "2026-11-02T13:28:20.945189",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": true,
+  "merged_at": "2026-11-02T13:26:26Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-02T13:24:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T13:26:31Z"
 }

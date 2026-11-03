@@ -1,18 +1,18 @@
 {
-  "ETag": "\"5d09bc61f725fff61df15fed67ad9405fb413682fcb3402535e67f5b01cc7379\"",
-  "Last-Modified": "Tue, 03 Nov 2026 18:39:51 GMT",
+  "ETag": "\"1b11a96f15ff1651bd5a2f327a7e6b6d34bbbde2b01b762d1c86e09aa8aebea0\"",
+  "Last-Modified": "Tue, 03 Nov 2026 20:35:15 GMT",
   "base": {
     "repo": {
       "name": "arrow-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T20:35:10Z",
   "closed_by": null,
   "created_at": "2026-11-03T18:00:19Z",
   "draft": false,
   "e_tag": "\"0039c8572bf9109f95b17d354195feb6563dfe796643d7d0695b8ed1002b60ef\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h96f756"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arrow-cpp-feedstock/pull/2090",
   "id": 5142108181,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/arrow-cpp-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-03T18:41:37.568790",
+  "last_fetched": "2026-11-03T20:36:49.300524",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T20:35:10Z",
   "number": 2090,
-  "state": "open",
-  "updated_at": "2026-11-03T18:39:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T20:35:15Z"
 }

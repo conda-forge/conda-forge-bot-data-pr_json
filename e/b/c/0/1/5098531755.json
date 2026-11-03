@@ -1,29 +1,29 @@
 {
-  "ETag": "\"02299d3bab6cd1eb477a735499df5416e9da9ee9475ad84b6458aa97f7d635a8\"",
-  "Last-Modified": "Sat, 31 Oct 2026 14:41:43 GMT",
+  "ETag": "\"afe8ed1b8f4c76ffe92bafd28742dbbe079e09d15a66145f4869094839a76112\"",
+  "Last-Modified": "Tue, 03 Nov 2026 16:16:18 GMT",
   "base": {
     "repo": {
       "name": "polars-ds-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T16:16:18Z",
   "closed_by": null,
   "created_at": "2026-10-31T14:40:14Z",
   "draft": false,
   "e_tag": "\"8724f801308225bceebc911dd44139bf6f89e3e8d1fcfee3eedef572d675ea57\"",
   "head": {
-    "ref": "0.14.0_hc96e62"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/polars-ds-feedstock/pull/46",
   "id": 5098531755,
   "labels": [],
-  "last_fetched": "2026-10-31T17:14:49.933265",
+  "last_fetched": "2026-11-03T16:18:16.555526",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T16:16:18Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-10-31T14:41:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T16:16:18Z"
 }

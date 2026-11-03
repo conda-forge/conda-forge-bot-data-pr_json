@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b09cd5d4bbee01743a5bc4fb4ad10ddc481d194b9f08ac4213b05ba6e04a60e5\"",
+  "Last-Modified": "Tue, 03 Nov 2026 04:37:29 GMT",
   "base": {
     "repo": {
       "name": "iwe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T04:37:25Z",
   "closed_by": null,
   "created_at": "2026-11-03T04:14:00Z",
   "draft": false,
   "e_tag": "\"0c4f37eed7df0a6bfbc3fadf7f681deff9c9088e8257fbf919de3e3b13396aa1\"",
   "head": {
-    "ref": "0.30.0_h775362"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/iwe-feedstock/pull/52",
   "id": 5131783954,
   "labels": [],
-  "last_fetched": "2026-11-03T04:14:01.621535",
+  "last_fetched": "2026-11-03T04:39:01.170811",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T04:37:25Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-11-03T04:14:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T04:37:29Z"
 }

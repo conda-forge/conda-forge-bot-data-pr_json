@@ -1,5 +1,5 @@
 {
-  "ETag": "\"e63e17ad80c03508fc98d62c117b4e2d90fbc422017b84e59cc7cce238615011\"",
+  "ETag": "W/\"be487e07c551074d501dafe5743c4da80f5b1d81c2eacf2508cce99dabc9b1ab\"",
   "Last-Modified": "Tue, 03 Nov 2026 09:27:58 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/perpetual-feedstock/pull/40",
   "id": 4668365896,
-  "labels": [],
-  "last_fetched": "2026-11-03T09:29:33.474249",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T09:28:01.151473",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

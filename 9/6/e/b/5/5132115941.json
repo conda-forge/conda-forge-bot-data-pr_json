@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dbaf38df725f6ce7ba58934610b194ba957d8465a21272a17c68d859128032b6\"",
+  "Last-Modified": "Tue, 03 Nov 2026 04:57:38 GMT",
   "base": {
     "repo": {
       "name": "pdb-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T04:57:34Z",
   "closed_by": null,
   "created_at": "2026-11-03T04:55:46Z",
   "draft": false,
   "e_tag": "\"2c618c6ee785e2924890649a87fb440e6d23734c8a8338ecca742b6a83c842ea\"",
   "head": {
-    "ref": "2.7.1_h69ae66"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pdb-tools-feedstock/pull/8",
   "id": 5132115941,
   "labels": [],
-  "last_fetched": "2026-11-03T04:55:47.554253",
+  "last_fetched": "2026-11-03T04:59:00.549147",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T04:57:34Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-03T04:55:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T04:57:38Z"
 }

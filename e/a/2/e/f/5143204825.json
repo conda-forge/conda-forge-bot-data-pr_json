@@ -1,11 +1,13 @@
 {
+  "ETag": "W/\"87e299f70593b6d41815e182c2b249be26d117c3d34bb6d6cf70fcb396d1b103\"",
+  "Last-Modified": "Tue, 03 Nov 2026 19:55:46 GMT",
   "base": {
     "repo": {
       "name": "oss-harmony-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-03T19:55:46Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-03T19:22:55Z",
   "draft": false,
   "e_tag": "\"c0ba9914f5296419d1ee93118a4a4c880a95c0310232dccb32249684da837484\"",
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/oss-harmony-feedstock/pull/1",
   "id": 5143204825,
-  "labels": [],
-  "last_fetched": "2026-11-03T19:22:56.830357",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 12945433927,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOVhp7fc8AAAADA5ulRw",
+      "url": "https://api.github.com/repos/conda-forge/oss-harmony-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T19:55:50.228459",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-03T19:22:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T19:55:46Z"
 }

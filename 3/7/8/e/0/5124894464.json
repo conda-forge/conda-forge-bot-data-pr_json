@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9210dd22574c85ff2fa48355cee30fd7775d320ec70bc196a82b422aff9e1799\"",
-  "Last-Modified": "Mon, 02 Nov 2026 17:55:17 GMT",
+  "ETag": "\"be5cfaf6dbf55a41ddb401ce839affff164627fc362efd2836001dd7f1986e5d\"",
+  "Last-Modified": "Tue, 03 Nov 2026 12:02:00 GMT",
   "base": {
     "repo": {
       "name": "wetterdienst-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T12:02:00Z",
   "closed_by": null,
   "created_at": "2026-11-02T17:53:41Z",
   "draft": false,
   "e_tag": "\"9426062ba09a4de6629c7c7546814841ffe9e645d563fc8a300692f245eca2ca\"",
   "head": {
-    "ref": "0.182.0_h08d184"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wetterdienst-feedstock/pull/234",
   "id": 5124894464,
   "labels": [],
-  "last_fetched": "2026-11-03T11:17:03.893897",
+  "last_fetched": "2026-11-03T12:03:48.546851",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T12:02:00Z",
   "number": 234,
-  "state": "open",
-  "updated_at": "2026-11-02T17:55:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T12:02:00Z"
 }

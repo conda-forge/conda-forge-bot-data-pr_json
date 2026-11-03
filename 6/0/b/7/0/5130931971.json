@@ -1,27 +1,29 @@
 {
+  "ETag": "\"44d640033f8a6c68d72a685e0bd609c13ed0ae64f7010fc74823c4b7c8716ce1\"",
+  "Last-Modified": "Tue, 03 Nov 2026 02:38:51 GMT",
   "base": {
     "repo": {
       "name": "pspg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T02:38:48Z",
   "closed_by": null,
   "created_at": "2026-11-03T02:33:59Z",
   "draft": false,
   "e_tag": "\"2e99dbd665ee94fc116beaf78a4b505fc5a7366ebb7125a8be4228db3a85c4d6\"",
   "head": {
-    "ref": "5.9.1_headd87"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pspg-feedstock/pull/11",
   "id": 5130931971,
   "labels": [],
-  "last_fetched": "2026-11-03T02:34:00.540299",
+  "last_fetched": "2026-11-03T02:40:27.295076",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T02:38:47Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-03T02:33:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T02:38:51Z"
 }

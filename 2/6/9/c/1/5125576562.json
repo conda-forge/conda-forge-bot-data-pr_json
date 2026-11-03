@@ -1,29 +1,29 @@
 {
-  "ETag": "\"68d0bde1407a039bbefa0d9812b96c5fc73f39f755fb5297e0d3aa471b1074d1\"",
-  "Last-Modified": "Mon, 02 Nov 2026 18:45:59 GMT",
+  "ETag": "\"dcff59154205274b396ad2d4973759df004ab90a841a5fd0b7269cbe30020372\"",
+  "Last-Modified": "Mon, 02 Nov 2026 21:18:34 GMT",
   "base": {
     "repo": {
       "name": "imageio-ffmpeg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-02T21:17:01Z",
   "closed_by": null,
   "created_at": "2026-11-02T18:44:22Z",
   "draft": false,
   "e_tag": "\"72ffe1267cc2c2213806f86fffc028dcf619a7f32b50c234ff1c447406ce32f1\"",
   "head": {
-    "ref": "0.8.0_hc6f1db"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imageio-ffmpeg-feedstock/pull/20",
   "id": 5125576562,
   "labels": [],
-  "last_fetched": "2026-11-02T21:16:26.656512",
+  "last_fetched": "2026-11-03T00:38:08.942286",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-02T21:17:01Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-02T18:45:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-02T21:18:34Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"826b6731a822a2d0eb193c28b2f7d25c22d6621008940b0474b705aa4d1faedc\"",
-  "Last-Modified": "Mon, 21 Sep 2026 00:56:47 GMT",
+  "ETag": "\"a0217088ee3767243f76a412bf13ad297cc976c6c6651318d78d07592216b270\"",
+  "Last-Modified": "Tue, 03 Nov 2026 02:57:34 GMT",
   "base": {
     "repo": {
       "name": "scalable-vs-packs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T02:57:34Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-21T00:56:46Z",
   "draft": false,
   "e_tag": "\"36d0cbfcc04d11f483f124a1dbf2c6262b44ed4bb984a8aaff7f41ede0ca6552\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/scalable-vs-packs-feedstock/pull/13",
   "id": 4586957962,
   "labels": [],
-  "last_fetched": "2026-10-26T21:48:52.956479",
+  "last_fetched": "2026-11-03T02:58:43.672663",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-09-21T00:58:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T02:57:34Z"
 }

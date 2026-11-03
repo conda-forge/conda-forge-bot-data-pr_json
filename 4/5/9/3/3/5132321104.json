@@ -1,27 +1,29 @@
 {
+  "ETag": "\"356dcf379de4b2aa373538c499058aec5c023290bfe23d098f2b0d727496ec66\"",
+  "Last-Modified": "Tue, 03 Nov 2026 05:32:02 GMT",
   "base": {
     "repo": {
       "name": "cubic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T05:31:58Z",
   "closed_by": null,
   "created_at": "2026-11-03T05:21:29Z",
   "draft": false,
   "e_tag": "\"eb8cee8a46ef64f1f54bf9a2b6787fdc4b313a90d61dee6c6a3d506478f389f1\"",
   "head": {
-    "ref": "0.27.1_hc35c6e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cubic-feedstock/pull/18",
   "id": 5132321104,
   "labels": [],
-  "last_fetched": "2026-11-03T05:21:30.538702",
+  "last_fetched": "2026-11-03T05:33:23.338931",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T05:31:58Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-03T05:21:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T05:32:02Z"
 }

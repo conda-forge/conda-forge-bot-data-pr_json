@@ -1,29 +1,41 @@
 {
-  "ETag": "\"d04cadbb67894f7e3bfc612d182b6d27f5dae7621db0e4038eed31d2d041e653\"",
-  "Last-Modified": "Tue, 03 Nov 2026 09:19:00 GMT",
+  "ETag": "\"229f5571cb06242747f4c8b72e402fa3111b736ebc647e7f0d73ddc21be0fc75\"",
+  "Last-Modified": "Tue, 03 Nov 2026 16:23:41 GMT",
   "base": {
     "repo": {
       "name": "geocube-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T16:23:41Z",
   "closed_by": null,
   "created_at": "2026-11-03T09:17:27Z",
   "draft": false,
   "e_tag": "\"8952225bd08cab2d6612a9810e596d600b8b3a1bf4c58a12421a5e8f74d7b2f9\"",
   "head": {
-    "ref": "0.8.0_h84aa93"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geocube-feedstock/pull/44",
   "id": 5134719974,
-  "labels": [],
-  "last_fetched": "2026-11-03T10:27:36.378171",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890882585,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODgyNTg1",
+      "url": "https://api.github.com/repos/conda-forge/geocube-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-03T16:23:59.084649",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T16:23:41Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-11-03T09:19:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T16:23:46Z"
 }

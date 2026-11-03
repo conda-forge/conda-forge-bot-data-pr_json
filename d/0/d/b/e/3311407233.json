@@ -1,5 +1,5 @@
 {
-  "ETag": "\"7a09f555edb1d2106710ce4f55b853a1059e59a4de31dca46aaebbecd1d0e2d8\"",
+  "ETag": "W/\"f01ff2deb617f61837def1156c7e45c93eab6f908a5fd3f46e5a2a047ded2beb\"",
   "Last-Modified": "Tue, 03 Nov 2026 23:15:43 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/orange3-network-feedstock/pull/32",
   "id": 3311407233,
-  "labels": [],
-  "last_fetched": "2026-11-03T23:16:44.873421",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T23:15:45.848697",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

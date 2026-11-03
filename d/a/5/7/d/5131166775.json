@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0d60dc2c605662ea171e77148c18a2e651047e61d83a76322d54a533a58d9b07\"",
-  "Last-Modified": "Tue, 03 Nov 2026 03:01:05 GMT",
+  "ETag": "\"bc4f9bc8304987a8a393b41a12ca897dd445b7a5e85bca35b410090fd48802aa\"",
+  "Last-Modified": "Tue, 03 Nov 2026 08:30:04 GMT",
   "base": {
     "repo": {
       "name": "daqp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T08:30:04Z",
   "closed_by": null,
   "created_at": "2026-11-03T02:59:24Z",
   "draft": false,
   "e_tag": "\"19f12986057b838578911c81e1fea708724e96e072ea650e492ee30eb0ff1f4c\"",
   "head": {
-    "ref": "0.11.0_h554a67"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/daqp-feedstock/pull/40",
   "id": 5131166775,
   "labels": [],
-  "last_fetched": "2026-11-03T04:19:41.061407",
+  "last_fetched": "2026-11-03T08:31:48.377700",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T08:30:04Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-11-03T03:01:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T08:30:04Z"
 }

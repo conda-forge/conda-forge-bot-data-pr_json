@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4475d22b88880e26622618b1fbe3834a98210e108c03eb5234c25344eb204148\"",
-  "Last-Modified": "Mon, 02 Nov 2026 18:02:11 GMT",
+  "ETag": "\"665ff6f46588570591697cabca56a6c098152054c0e7b30ab2f5183cc447cfab\"",
+  "Last-Modified": "Tue, 03 Nov 2026 10:15:00 GMT",
   "base": {
     "repo": {
       "name": "eon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T10:15:00Z",
   "closed_by": null,
   "created_at": "2026-11-02T18:02:09Z",
   "draft": false,
   "e_tag": "\"c3861e881e2384baa2605c88233e1ed83d54a82af0ef2f6f2c7b443269d82cc4\"",
   "head": {
-    "ref": "rebuild-pytorch214-0-1_h314019"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/eon-feedstock/pull/37",
   "id": 5125009326,
   "labels": [],
-  "last_fetched": "2026-11-02T19:15:07.914676",
+  "last_fetched": "2026-11-03T10:16:40.129322",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T10:15:00Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-11-02T18:05:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T10:15:00Z"
 }

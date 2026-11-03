@@ -1,27 +1,29 @@
 {
+  "ETag": "\"16a9889ee027223fd7614b832c3fdadcf00c9bae75586d2a7dc162f0350fdfed\"",
+  "Last-Modified": "Tue, 03 Nov 2026 01:25:48 GMT",
   "base": {
     "repo": {
       "name": "pytao-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T01:25:44Z",
   "closed_by": null,
   "created_at": "2026-11-03T01:20:12Z",
   "draft": false,
   "e_tag": "\"13e8c92f72d3799832bb9a0d1e76d1328118ff269532a6ced07ff76f84f1c465\"",
   "head": {
-    "ref": "1.4.0_h09b28b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytao-feedstock/pull/79",
   "id": 5130178106,
   "labels": [],
-  "last_fetched": "2026-11-03T01:20:13.663673",
+  "last_fetched": "2026-11-03T01:27:15.743306",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T01:25:44Z",
   "number": 79,
-  "state": "open",
-  "updated_at": "2026-11-03T01:20:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T01:25:48Z"
 }

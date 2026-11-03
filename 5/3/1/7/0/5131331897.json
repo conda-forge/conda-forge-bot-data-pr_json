@@ -1,27 +1,29 @@
 {
+  "ETag": "\"52d500eb7bb5eb98c00cef35ff8025aec7291b795d23067492549e23c2ea2991\"",
+  "Last-Modified": "Tue, 03 Nov 2026 03:25:48 GMT",
   "base": {
     "repo": {
       "name": "tailscale-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T03:25:44Z",
   "closed_by": null,
   "created_at": "2026-11-03T03:18:33Z",
   "draft": false,
   "e_tag": "\"a6557bb9843a4ed6f11019a4836a4b4b3705eb94aecdd0520e01f9b81de0cb65\"",
   "head": {
-    "ref": "1.104.5_h30ead7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tailscale-feedstock/pull/63",
   "id": 5131331897,
   "labels": [],
-  "last_fetched": "2026-11-03T03:18:34.452047",
+  "last_fetched": "2026-11-03T03:26:58.934018",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T03:25:44Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-11-03T03:18:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T03:25:48Z"
 }

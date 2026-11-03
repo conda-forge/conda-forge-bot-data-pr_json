@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e62ee089107b8bc44bb155793357b09f737acc49d2f3d3d431570ade2439eb77\"",
+  "Last-Modified": "Tue, 03 Nov 2026 01:52:25 GMT",
   "base": {
     "repo": {
       "name": "hookee-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T01:52:21Z",
   "closed_by": null,
   "created_at": "2026-11-03T01:49:15Z",
   "draft": false,
   "e_tag": "\"85f57d3f1d9236ba132d3d02823bebe4efaffb0499952407e1a9e240fd3ac226\"",
   "head": {
-    "ref": "3.0.2_h60a8c2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hookee-feedstock/pull/71",
   "id": 5130489460,
   "labels": [],
-  "last_fetched": "2026-11-03T01:49:16.107524",
+  "last_fetched": "2026-11-03T01:53:29.708067",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T01:52:21Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-11-03T01:49:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T01:52:25Z"
 }

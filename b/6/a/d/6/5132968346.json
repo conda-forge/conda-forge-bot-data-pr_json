@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e5290fa3e651e9faa472c4fd2571cb5dcea9f7d0149a8f867fb88993bac68881\"",
+  "Last-Modified": "Tue, 03 Nov 2026 06:44:48 GMT",
   "base": {
     "repo": {
       "name": "docker-compose-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T06:44:45Z",
   "closed_by": null,
   "created_at": "2026-11-03T06:35:44Z",
   "draft": false,
   "e_tag": "\"0c480bab039813cd3717652aed06190c30536a841b4a8e36f648d29a8052ed53\"",
   "head": {
-    "ref": "5.7.0_h651031"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/docker-compose-feedstock/pull/114",
   "id": 5132968346,
   "labels": [],
-  "last_fetched": "2026-11-03T06:35:45.328466",
+  "last_fetched": "2026-11-03T06:46:19.277902",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T06:44:45Z",
   "number": 114,
-  "state": "open",
-  "updated_at": "2026-11-03T06:35:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T06:44:48Z"
 }

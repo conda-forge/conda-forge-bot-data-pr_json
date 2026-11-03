@@ -1,5 +1,5 @@
 {
-  "ETag": "\"153573e0eeb549a9834cfc0a5f8f17caaaef85b9e1682e4a5b0c0ef93650949b\"",
+  "ETag": "W/\"b2b2b0a1003718e5df2a1f0fc9660e63262497c765eab0791cc142e29d45dcec\"",
   "Last-Modified": "Tue, 03 Nov 2026 21:59:43 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/turbodbc-feedstock/pull/159",
   "id": 4073341742,
-  "labels": [],
-  "last_fetched": "2026-11-03T22:00:51.483674",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T21:59:47.612174",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

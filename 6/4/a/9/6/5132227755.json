@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0c56e827812d69c1a5cf71fa9329658fb0c16fcecbbb11127f2675d4a87b3662\"",
-  "Last-Modified": "Tue, 03 Nov 2026 05:11:29 GMT",
+  "ETag": "\"2c63db1856db8e507ae3642a961ca94b628d8411d0edb43ebcd92a4b728cd054\"",
+  "Last-Modified": "Tue, 03 Nov 2026 15:43:12 GMT",
   "base": {
     "repo": {
       "name": "django-appointment-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T15:43:12Z",
   "closed_by": null,
   "created_at": "2026-11-03T05:09:58Z",
   "draft": false,
   "e_tag": "\"1179a6392e22e7f003bdb824afde243ea934a5febdaa0eb2631a8326d9825cc6\"",
   "head": {
-    "ref": "3.13.1_h0e878f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-appointment-feedstock/pull/8",
   "id": 5132227755,
   "labels": [],
-  "last_fetched": "2026-11-03T07:43:35.276362",
+  "last_fetched": "2026-11-03T15:44:51.915823",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T15:43:12Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-03T05:11:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T15:43:12Z"
 }

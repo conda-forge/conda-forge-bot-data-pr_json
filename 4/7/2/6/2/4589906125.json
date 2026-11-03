@@ -1,12 +1,13 @@
 {
-  "ETag": "\"0e98f7b6de390299fb24f2c36bdc7742f8ef90b709004da6c087b9c488e7e26e\"",
-  "Last-Modified": "Mon, 21 Sep 2026 09:24:13 GMT",
+  "ETag": "W/\"8f92551303ec6b98e79c750a402a44f6bc016386a03f85362038297da36a593e\"",
+  "Last-Modified": "Tue, 03 Nov 2026 16:18:03 GMT",
   "base": {
     "repo": {
       "name": "polars-ds-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T16:18:03Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-21T09:22:40Z",
   "draft": false,
   "e_tag": "\"a4ba4077f457baf975caef45087529e8f2e51e1bdaa74560e0b1c855dfc83605\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/polars-ds-feedstock/pull/44",
   "id": 4589906125,
-  "labels": [],
-  "last_fetched": "2026-11-03T05:17:27.406423",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6734738690,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOLk3d_88AAAABkWv1Ag",
+      "url": "https://api.github.com/repos/conda-forge/polars-ds-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T16:18:07.412495",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-09-21T09:24:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T16:18:03Z"
 }

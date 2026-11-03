@@ -1,12 +1,13 @@
 {
-  "ETag": "\"34b70aeaa950cdf2f6362bfd1816f3557172f45674171a26853ad7aea9692cb5\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"a7403e54abe47f6bc7180f5b2c5bee8aab7522b72d6f55a7b9c2a7cb3f2b93da\"",
+  "Last-Modified": "Tue, 03 Nov 2026 17:59:15 GMT",
   "base": {
     "repo": {
       "name": "latex-rubber-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T17:59:15Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-01-17T21:53:22Z",
   "draft": false,
   "e_tag": "\"0881d2f6c355f06c75d225bdedca0f8af84b6c7c7909a4a02db54e33a80e50d1\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/latex-rubber-feedstock/pull/5",
   "id": 2285120601,
-  "labels": [],
-  "last_fetched": "2026-10-27T14:55:01.040179",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T17:59:18.655833",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 5,
-  "state": "open",
-  "updated_at": "2025-01-17T21:54:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T17:59:15Z"
 }

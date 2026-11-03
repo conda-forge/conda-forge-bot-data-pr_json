@@ -1,6 +1,6 @@
 {
-  "ETag": "\"099aaf51c76cce6bd2ad723dfee9601ed640f711caebc6ebe496092102563e65\"",
-  "Last-Modified": "Mon, 02 Nov 2026 18:19:39 GMT",
+  "ETag": "\"31df09e72877db604edb4da758d6601c593a04ec2d392533adb152f58a4739b1\"",
+  "Last-Modified": "Tue, 03 Nov 2026 00:28:25 GMT",
   "base": {
     "repo": {
       "name": "pyqt-builder-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyqt-builder-feedstock/pull/31",
   "id": 5125232987,
-  "labels": [],
-  "last_fetched": "2026-11-02T19:43:55.590451",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3825353491,
+      "name": "automerge",
+      "node_id": "LA_kwDOG1S2MM7kAkMT",
+      "url": "https://api.github.com/repos/conda-forge/pyqt-builder-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-03T00:30:00.274957",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 31,
   "state": "open",
-  "updated_at": "2026-11-02T18:19:39Z"
+  "updated_at": "2026-11-03T00:28:25Z"
 }

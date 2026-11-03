@@ -1,4 +1,6 @@
 {
+  "ETag": "\"575b6cdc937c9ebd2082d4d7e2eb32a07d8576c15912d792204a682bcb82d11b\"",
+  "Last-Modified": "Tue, 03 Nov 2026 18:44:53 GMT",
   "base": {
     "repo": {
       "name": "openmvs-split-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/openmvs-split-feedstock/pull/4",
   "id": 5137940247,
-  "labels": [],
-  "last_fetched": "2026-11-03T13:20:27.557466",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12937373512,
+      "name": "automerge",
+      "node_id": "LA_kwDOVg5ezs8AAAADAyCnSA",
+      "url": "https://api.github.com/repos/conda-forge/openmvs-split-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-03T18:46:41.840300",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 4,
   "state": "open",
-  "updated_at": "2026-11-03T13:20:26Z"
+  "updated_at": "2026-11-03T18:44:53Z"
 }

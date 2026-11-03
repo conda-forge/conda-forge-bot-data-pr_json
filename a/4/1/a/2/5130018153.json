@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9f4c10f26bad5cce1f003f401b067eec8447d5dc38c8601dbfa040427be8c858\"",
+  "Last-Modified": "Tue, 03 Nov 2026 01:31:59 GMT",
   "base": {
     "repo": {
       "name": "fastpotify-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T01:31:55Z",
   "closed_by": null,
   "created_at": "2026-11-03T01:05:08Z",
   "draft": false,
   "e_tag": "\"9be4932e491e64bd3bd5f517187bee9af6d13c67da962aa38f2ee67ba2231510\"",
   "head": {
-    "ref": "0.17.0_h71fa55"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fastpotify-feedstock/pull/33",
   "id": 5130018153,
   "labels": [],
-  "last_fetched": "2026-11-03T01:05:09.089983",
+  "last_fetched": "2026-11-03T01:33:46.441243",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T01:31:55Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-03T01:05:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T01:31:59Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"edd8afc3585fa189ea58729e248d4b1f0488d55d77660bd1085a0eea5baf1c14\"",
+  "Last-Modified": "Tue, 03 Nov 2026 19:35:19 GMT",
   "base": {
     "repo": {
       "name": "landau-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T19:35:15Z",
   "closed_by": null,
   "created_at": "2026-11-03T19:31:27Z",
   "draft": false,
   "e_tag": "\"49e962a99f0dad93e3e43ab28367ca6ee4c60dd24fbb21782aeeb6c6f2d1eb38\"",
   "head": {
-    "ref": "1.17.0_h787b59"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/landau-feedstock/pull/36",
   "id": 5143313284,
   "labels": [],
-  "last_fetched": "2026-11-03T19:31:28.834483",
+  "last_fetched": "2026-11-03T19:37:23.424891",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T19:35:15Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-03T19:31:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T19:35:19Z"
 }

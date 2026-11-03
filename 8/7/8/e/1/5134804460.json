@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7372ec792ccfdd1605671c28be3618d966896aed7fc6b5e2fdc70270dc42ae29\"",
+  "Last-Modified": "Tue, 03 Nov 2026 09:26:16 GMT",
   "base": {
     "repo": {
       "name": "json-repair-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T09:26:11Z",
   "closed_by": null,
   "created_at": "2026-11-03T09:24:24Z",
   "draft": false,
   "e_tag": "\"52243127456a0e8b02f165aedccaeb9389f800b3bb97ddee57d731bc5c134ea4\"",
   "head": {
-    "ref": "0.64.4_h2399f1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/json-repair-feedstock/pull/120",
   "id": 5134804460,
   "labels": [],
-  "last_fetched": "2026-11-03T09:24:25.632125",
+  "last_fetched": "2026-11-03T09:27:39.180191",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T09:26:11Z",
   "number": 120,
-  "state": "open",
-  "updated_at": "2026-11-03T09:24:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T09:26:16Z"
 }

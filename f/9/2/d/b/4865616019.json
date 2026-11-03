@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fe78da2f378ad491e00f1cb82bb5e7a5843b7025ac624846bef79bd4437f4031\"",
-  "Last-Modified": "Wed, 14 Oct 2026 22:49:59 GMT",
+  "ETag": "\"42690b39e2f18baf2709090eee00d6ebaf3addf864aa685d1c3a5904d18ed2f4\"",
+  "Last-Modified": "Tue, 03 Nov 2026 15:09:29 GMT",
   "base": {
     "repo": {
       "name": "anaconda-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T15:09:28Z",
   "closed_by": null,
   "created_at": "2026-10-14T22:48:19Z",
   "draft": false,
   "e_tag": "\"f5475af2bc4561a62411eb178c5ff222ffaf98dac5eded75699460f7787b29d9\"",
   "head": {
-    "ref": "1.16.0_h9c30cf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anaconda-client-feedstock/pull/65",
   "id": 4865616019,
   "labels": [],
-  "last_fetched": "2026-10-29T05:43:10.795374",
+  "last_fetched": "2026-11-03T15:10:35.692529",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T15:09:28Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-14T22:49:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T15:09:29Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a61d3579fd8a199c95077702f0375ca2c92a7f141bab7efb7e6858584a11f479\"",
+  "Last-Modified": "Tue, 03 Nov 2026 05:57:12 GMT",
   "base": {
     "repo": {
       "name": "lammpsparser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T05:57:09Z",
   "closed_by": null,
   "created_at": "2026-11-03T05:55:21Z",
   "draft": false,
   "e_tag": "\"21f08ee2b0e177aaf3e25afa3c1f143326643d217ecec000b10bc373843c01f8\"",
   "head": {
-    "ref": "0.1.2_hffa674"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lammpsparser-feedstock/pull/20",
   "id": 5132603332,
   "labels": [],
-  "last_fetched": "2026-11-03T05:55:22.262082",
+  "last_fetched": "2026-11-03T05:58:41.349384",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T05:57:09Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-03T05:55:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T05:57:12Z"
 }

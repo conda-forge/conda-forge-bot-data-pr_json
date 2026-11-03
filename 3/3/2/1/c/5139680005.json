@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a45ead661607acbaf83c6022d5938a0ff953c73cd4d20ed498520bc67fbfabc9\"",
-  "Last-Modified": "Tue, 03 Nov 2026 15:15:44 GMT",
+  "ETag": "\"a085321ffffa76427fd0cf0284935872edeabb0055cba92e30bbe2f7ec475257\"",
+  "Last-Modified": "Tue, 03 Nov 2026 23:31:14 GMT",
   "base": {
     "repo": {
       "name": "libcxx-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/libcxx-feedstock/pull/307",
   "id": 5139680005,
-  "labels": [],
-  "last_fetched": "2026-11-03T17:44:48.606242",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890955178,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTU1MTc4",
+      "url": "https://api.github.com/repos/conda-forge/libcxx-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-03T23:32:55.537307",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 307,
   "state": "open",
-  "updated_at": "2026-11-03T15:15:44Z"
+  "updated_at": "2026-11-03T23:31:14Z"
 }

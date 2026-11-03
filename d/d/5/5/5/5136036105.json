@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ceb391dbfaa664202cd31d8a0e60cc91766caaed23ca5c7936b189c2f2726b39\"",
+  "Last-Modified": "Tue, 03 Nov 2026 13:01:29 GMT",
   "base": {
     "repo": {
       "name": "orthonym-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T13:01:28Z",
   "closed_by": null,
   "created_at": "2026-11-03T10:58:24Z",
   "draft": false,
   "e_tag": "\"5b8f68a4cc4c8ef825375636b0904239de06f400f2ae454c19fa8e7f01183699\"",
   "head": {
-    "ref": "1.1.0_h820a6c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/orthonym-feedstock/pull/6",
   "id": 5136036105,
   "labels": [],
-  "last_fetched": "2026-11-03T10:58:26.062324",
+  "last_fetched": "2026-11-03T13:02:50.776174",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T13:01:28Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-03T10:58:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T13:01:29Z"
 }

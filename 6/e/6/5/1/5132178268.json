@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c419eacb46ddb6900618649bc912c9e525ee48fe00bfb73015d4a859c3b034ef\"",
+  "Last-Modified": "Tue, 03 Nov 2026 05:07:30 GMT",
   "base": {
     "repo": {
       "name": "earthengine-api-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T05:07:26Z",
   "closed_by": null,
   "created_at": "2026-11-03T05:03:44Z",
   "draft": false,
   "e_tag": "\"63e8cb38535c5c4f26671f5842338948cdad3748595d6da4683912feaf85329f\"",
   "head": {
-    "ref": "1.7.51_h93603f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/earthengine-api-feedstock/pull/399",
   "id": 5132178268,
   "labels": [],
-  "last_fetched": "2026-11-03T05:03:45.656971",
+  "last_fetched": "2026-11-03T05:08:30.613472",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T05:07:26Z",
   "number": 399,
-  "state": "open",
-  "updated_at": "2026-11-03T05:03:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T05:07:30Z"
 }

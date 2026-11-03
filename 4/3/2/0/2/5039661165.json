@@ -1,5 +1,5 @@
 {
-  "ETag": "\"c7d241df399687e2ac8d3ab5240453a9425ebfcf95b41431cfda7f9994b0518b\"",
+  "ETag": "W/\"b91b4a2d73cfa473bf751a5d0f2b8d0c31f19a8f280d89368d419f68c2605748\"",
   "Last-Modified": "Tue, 03 Nov 2026 20:59:38 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/ssort-feedstock/pull/22",
   "id": 5039661165,
-  "labels": [],
-  "last_fetched": "2026-11-03T21:01:01.960822",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T20:59:45.022258",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

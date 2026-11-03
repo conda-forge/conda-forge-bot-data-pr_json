@@ -1,18 +1,18 @@
 {
-  "ETag": "\"362815839c42dfa3389462d1dd6e017e4957cffc9774d81c6014b253cd7dee5f\"",
-  "Last-Modified": "Tue, 03 Nov 2026 05:22:33 GMT",
+  "ETag": "\"8232699639aba167f8f02ef77008eb5af7026ae2d8a3089b5cd2182539f86df7\"",
+  "Last-Modified": "Tue, 03 Nov 2026 05:31:59 GMT",
   "base": {
     "repo": {
       "name": "act-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T05:31:55Z",
   "closed_by": null,
   "created_at": "2026-11-03T05:20:31Z",
   "draft": false,
   "e_tag": "\"326f93caf7f919b9e749a7f955e4446f5f9e55acdd8d738e4064235bd8c647f8\"",
   "head": {
-    "ref": "0.2.95_hdd5cf3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/act-feedstock/pull/33",
   "id": 5132313365,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/act-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-03T05:24:21.568669",
+  "last_fetched": "2026-11-03T05:33:36.029841",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T05:31:55Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-03T05:22:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T05:31:59Z"
 }

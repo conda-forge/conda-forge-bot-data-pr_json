@@ -1,29 +1,41 @@
 {
-  "ETag": "\"322b004106ee6af433bd0b2b2a0a2bab20b4a912708e06f78b141aa7c7b99834\"",
-  "Last-Modified": "Mon, 02 Nov 2026 01:04:33 GMT",
+  "ETag": "\"d03c19a70a59376d6f0f4754a2d68704b50b4621a283827581757dfa3eed7ef3\"",
+  "Last-Modified": "Tue, 03 Nov 2026 15:35:06 GMT",
   "base": {
     "repo": {
       "name": "airflow-laminar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T15:35:06Z",
   "closed_by": null,
   "created_at": "2026-11-02T01:02:46Z",
   "draft": false,
   "e_tag": "\"ce0402d5ad5807b13140e75e8edd3d0029b99514da5ea65699782a2f32e0d138\"",
   "head": {
-    "ref": "1.19.1_hd2b5cd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/airflow-laminar-feedstock/pull/8",
   "id": 5113359869,
-  "labels": [],
-  "last_fetched": "2026-11-02T02:34:27.297543",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9542821520,
+      "name": "automerge",
+      "node_id": "LA_kwDOQK5iXs8AAAACOMvmkA",
+      "url": "https://api.github.com/repos/conda-forge/airflow-laminar-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-03T15:35:54.293743",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T15:35:06Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-02T01:04:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T15:35:12Z"
 }

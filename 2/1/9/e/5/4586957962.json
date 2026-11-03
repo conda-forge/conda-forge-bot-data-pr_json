@@ -1,5 +1,5 @@
 {
-  "ETag": "\"a0217088ee3767243f76a412bf13ad297cc976c6c6651318d78d07592216b270\"",
+  "ETag": "W/\"3b52528d62ad677ffbdb6c324278fe511d37a40aef6fa48dbb926d53c74e4624\"",
   "Last-Modified": "Tue, 03 Nov 2026 02:57:34 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/scalable-vs-packs-feedstock/pull/13",
   "id": 4586957962,
-  "labels": [],
-  "last_fetched": "2026-11-03T02:58:43.672663",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T02:57:37.406650",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

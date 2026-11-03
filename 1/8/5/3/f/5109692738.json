@@ -1,29 +1,29 @@
 {
-  "ETag": "\"064a2cbb30e71790f7f54b322313a7cf1f91cb60accbf6392c185964a4eaf6b0\"",
-  "Last-Modified": "Sun, 01 Nov 2026 17:18:02 GMT",
+  "ETag": "\"edc12a2e27a548e13e7b545887749b300232d7127bb56b5df998b82a92ae25c8\"",
+  "Last-Modified": "Tue, 03 Nov 2026 12:47:20 GMT",
   "base": {
     "repo": {
       "name": "ouxinfo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T12:47:20Z",
   "closed_by": null,
   "created_at": "2026-11-01T17:16:26Z",
   "draft": false,
   "e_tag": "\"acb16fca9cbb3cbf133ec20882601bda92f33cbca7d7aa9a854e3c17bdd8f65a\"",
   "head": {
-    "ref": "1.2.1_h8f69f1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ouxinfo-feedstock/pull/4",
   "id": 5109692738,
   "labels": [],
-  "last_fetched": "2026-11-02T02:58:33.656882",
+  "last_fetched": "2026-11-03T12:48:49.097709",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T12:47:20Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-01T17:18:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T12:47:20Z"
 }

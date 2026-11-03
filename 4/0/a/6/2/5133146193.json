@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e287bd31f09a624e65d72b473194ded0a07939d17b2ab01746064e64cb6d9fe5\"",
+  "Last-Modified": "Tue, 03 Nov 2026 07:21:40 GMT",
   "base": {
     "repo": {
       "name": "tirith-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T07:21:40Z",
   "closed_by": null,
   "created_at": "2026-11-03T06:54:28Z",
   "draft": false,
   "e_tag": "\"294a29e78c6ff5fb7a04efaf48c5e9e377d777685f47c91d9569e5c2c48c3de4\"",
   "head": {
-    "ref": "0.5.0_hb1b263"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tirith-feedstock/pull/23",
   "id": 5133146193,
   "labels": [],
-  "last_fetched": "2026-11-03T06:54:29.288831",
+  "last_fetched": "2026-11-03T07:23:11.473563",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T07:21:40Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-03T06:54:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T07:21:40Z"
 }

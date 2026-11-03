@@ -1,6 +1,6 @@
 {
-  "ETag": "\"bff1f049a22a42e7688354d5634d33bb48a37a76b6f15a2eb4752c6e7e41cf98\"",
-  "Last-Modified": "Tue, 03 Nov 2026 05:53:40 GMT",
+  "ETag": "\"27d84dbc3d555416dcc1e8a3402280fe67def32da7e7d732c0737d651d7a0999\"",
+  "Last-Modified": "Tue, 03 Nov 2026 12:30:12 GMT",
   "base": {
     "repo": {
       "name": "psycopg2-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/psycopg2-feedstock/pull/152",
   "id": 5132574320,
-  "labels": [],
-  "last_fetched": "2026-11-03T09:28:06.671971",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891099183,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDk5MTgz",
+      "url": "https://api.github.com/repos/conda-forge/psycopg2-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-03T12:31:48.357010",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 152,
   "state": "open",
-  "updated_at": "2026-11-03T05:53:40Z"
+  "updated_at": "2026-11-03T12:30:12Z"
 }

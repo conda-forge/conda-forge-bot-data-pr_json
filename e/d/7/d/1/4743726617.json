@@ -1,29 +1,32 @@
 {
-  "ETag": "\"601da0cf1616f61eeab00cbe4eceebacc741b48603dcc5168a749b3f28cb8fb5\"",
-  "Last-Modified": "Tue, 03 Nov 2026 15:59:52 GMT",
+  "ETag": "\"23dbe970d4d7d96916e728f17aa0e76c8f28b95469ba2c10b5ef02ebbff26127\"",
+  "Last-Modified": "Mon, 05 Oct 2026 10:46:49 GMT",
   "base": {
     "repo": {
       "name": "pytensor-suite-feedstock"
     }
   },
-  "closed_at": "2026-11-03T15:59:52Z",
-  "closed_by": "regro-cf-autotick-bot",
+  "closed_at": null,
   "created_at": "2026-10-05T10:46:48Z",
   "draft": false,
   "e_tag": "\"dcafd4fdd7d62c1bd40984b1c6bbb94a821743f76be57b3ef607b00ebe5d21f4\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h9348f3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytensor-suite-feedstock/pull/250",
   "id": 4743726617,
-  "labels": [],
-  "last_fetched": "2026-11-03T16:01:29.471049",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T15:59:49.889092",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 250,
-  "state": "closed",
-  "updated_at": "2026-11-03T15:59:52Z"
+  "state": "open",
+  "updated_at": "2026-10-05T10:48:25Z"
 }

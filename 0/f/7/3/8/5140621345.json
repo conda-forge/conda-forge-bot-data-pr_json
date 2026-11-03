@@ -1,4 +1,6 @@
 {
+  "ETag": "\"e53b89a93dc1a15d0b769280f395a8fdd37c30de7b22a49c1bf34cf60168478c\"",
+  "Last-Modified": "Tue, 03 Nov 2026 16:24:27 GMT",
   "base": {
     "repo": {
       "name": "pygetm-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pygetm-feedstock/pull/45",
   "id": 5140621345,
-  "labels": [],
-  "last_fetched": "2026-11-03T16:14:56.627223",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7178811907,
+      "name": "automerge",
+      "node_id": "LA_kwDOMTnOr88AAAABq-P6Aw",
+      "url": "https://api.github.com/repos/conda-forge/pygetm-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-03T16:26:13.354667",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 45,
   "state": "open",
-  "updated_at": "2026-11-03T16:14:55Z"
+  "updated_at": "2026-11-03T16:24:27Z"
 }

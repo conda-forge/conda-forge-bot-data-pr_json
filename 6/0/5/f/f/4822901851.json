@@ -1,5 +1,5 @@
 {
-  "ETag": "\"3476a1ef5d431f58791604f79f3dd57b04f0b6cc6206343669d20cc1110c18f5\"",
+  "ETag": "W/\"e6f954c4b354b4b8696753f505e29529547cec20c534255b6ee19dc621344e7b\"",
   "Last-Modified": "Tue, 03 Nov 2026 10:42:49 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/anneal-feedstock/pull/8",
   "id": 4822901851,
-  "labels": [],
-  "last_fetched": "2026-11-03T10:44:20.610385",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-03T10:42:51.776651",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

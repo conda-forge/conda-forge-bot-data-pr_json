@@ -1,6 +1,6 @@
 {
-  "ETag": "\"f84da57aa81f623b1231987dff52caa595c78d5f8cf8de7f49e7bde6b9c301bc\"",
-  "Last-Modified": "Mon, 21 Sep 2026 23:43:03 GMT",
+  "ETag": "\"508b0b5eef0e9421c77ca9a5e14627067fd81a464ebebf5cb1cf996c186b611b\"",
+  "Last-Modified": "Tue, 03 Nov 2026 16:51:04 GMT",
   "base": {
     "repo": {
       "name": "lal-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/lal-feedstock/pull/121",
   "id": 4597114753,
-  "labels": [],
-  "last_fetched": "2026-10-28T02:58:53.144665",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890952979,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTUyOTc5",
+      "url": "https://api.github.com/repos/conda-forge/lal-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-03T16:52:20.065574",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 121,
   "state": "open",
-  "updated_at": "2026-09-21T23:43:03Z"
+  "updated_at": "2026-11-03T16:51:04Z"
 }

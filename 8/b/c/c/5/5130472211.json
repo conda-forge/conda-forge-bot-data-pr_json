@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b6fb991248e719c47783b6da7c4104fdd872756540787216ef88d09e502ae08e\"",
+  "Last-Modified": "Tue, 03 Nov 2026 01:49:39 GMT",
   "base": {
     "repo": {
       "name": "langchain-anthropic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T01:49:34Z",
   "closed_by": null,
   "created_at": "2026-11-03T01:47:40Z",
   "draft": false,
   "e_tag": "\"c4fcbba4169e7dd0a3360d3e516661af346887e0500b2a8173041cdfa333a68c\"",
   "head": {
-    "ref": "1.7.9_hc56a69"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langchain-anthropic-feedstock/pull/84",
   "id": 5130472211,
   "labels": [],
-  "last_fetched": "2026-11-03T01:47:41.634349",
+  "last_fetched": "2026-11-03T01:50:44.611538",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T01:49:34Z",
   "number": 84,
-  "state": "open",
-  "updated_at": "2026-11-03T01:47:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T01:49:39Z"
 }

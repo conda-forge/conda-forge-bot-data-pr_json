@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bd30c3edb01e24445c70ae3655ee623afc945a040da6da713e0a1ab68af9599d\"",
+  "Last-Modified": "Tue, 03 Nov 2026 17:31:54 GMT",
   "base": {
     "repo": {
       "name": "stac-pydantic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T17:31:54Z",
   "closed_by": null,
   "created_at": "2026-11-03T17:27:55Z",
   "draft": false,
   "e_tag": "\"93e328d74b1076c83a6d5f98ce98f69122613bd49a586bdd9b6126cbdbb98a2b\"",
   "head": {
-    "ref": "3.7.2_hdc5c94"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/stac-pydantic-feedstock/pull/6",
   "id": 5141676921,
   "labels": [],
-  "last_fetched": "2026-11-03T17:27:56.329895",
+  "last_fetched": "2026-11-03T17:33:07.739799",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-03T17:31:54Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-03T17:27:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T17:31:54Z"
 }

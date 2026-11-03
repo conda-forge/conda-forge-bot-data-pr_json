@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a29ac2a5f32f9636e55096f18cc95f4db7958571c981cee41d1da7d4d37e84e5\"",
-  "Last-Modified": "Tue, 03 Nov 2026 06:45:00 GMT",
+  "ETag": "\"61c7b0df6d1ebbd1eaafcf78a754f6b7a98df21d230d4e4a775938bd432528a4\"",
+  "Last-Modified": "Tue, 03 Nov 2026 14:01:18 GMT",
   "base": {
     "repo": {
       "name": "robotframework-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/robotframework-feedstock/pull/47",
   "id": 5133055107,
-  "labels": [],
-  "last_fetched": "2026-11-03T11:28:53.285784",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891331590,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzMxNTkw",
+      "url": "https://api.github.com/repos/conda-forge/robotframework-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-03T14:02:25.757693",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 47,
   "state": "open",
-  "updated_at": "2026-11-03T06:46:32Z"
+  "updated_at": "2026-11-03T14:01:18Z"
 }

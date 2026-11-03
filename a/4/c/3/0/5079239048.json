@@ -1,29 +1,29 @@
 {
-  "ETag": "\"863b9f8851f084620fbd7b3decadd7603f75b8161ba59408b67552d1a8e32bfe\"",
-  "Last-Modified": "Fri, 30 Oct 2026 04:00:29 GMT",
+  "ETag": "\"bea934bd8b56d0438958a3a9206628bcbd08e64721f8b89066c758d57b901752\"",
+  "Last-Modified": "Tue, 03 Nov 2026 16:15:18 GMT",
   "base": {
     "repo": {
       "name": "nodejs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T16:15:18Z",
   "closed_by": null,
   "created_at": "2026-10-30T03:58:39Z",
   "draft": false,
   "e_tag": "\"b71aff5a3358de7fc1fa9af92ff66cff3c27b2aaa2ced1e94bec69808d6b0b76\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_he05be4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nodejs-feedstock/pull/523",
   "id": 5079239048,
   "labels": [],
-  "last_fetched": "2026-10-30T04:43:15.092120",
+  "last_fetched": "2026-11-03T16:16:51.962304",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T16:15:18Z",
   "number": 523,
-  "state": "open",
-  "updated_at": "2026-10-30T04:00:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T16:15:18Z"
 }

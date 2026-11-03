@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2e3a7e224ef030ea2340ab1261839c1d74b7861312190b01631ac306cf4e52c2\"",
-  "Last-Modified": "Tue, 03 Nov 2026 04:18:41 GMT",
+  "ETag": "\"1cc3090730a669da93b308f952e7126be957302f9e52fece2017956489309dde\"",
+  "Last-Modified": "Tue, 03 Nov 2026 15:54:08 GMT",
   "base": {
     "repo": {
       "name": "gars_field-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-03T15:54:08Z",
   "closed_by": null,
   "created_at": "2026-11-03T04:16:53Z",
   "draft": false,
   "e_tag": "\"87d64eeefb27480714b79b6699cc022c44cc0a9bce7148d5752f1a2eca329456\"",
   "head": {
-    "ref": "0.3.4_h8fd138"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gars_field-feedstock/pull/8",
   "id": 5131807350,
   "labels": [],
-  "last_fetched": "2026-11-03T05:44:02.805065",
+  "last_fetched": "2026-11-03T15:55:36.016956",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-03T15:54:08Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-03T04:20:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-03T15:54:08Z"
 }

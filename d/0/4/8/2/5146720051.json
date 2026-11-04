@@ -1,29 +1,29 @@
 {
-  "ETag": "\"78b31d5ef21013af61be54f87190feb20cc879b10fbf83f9d8f53b3c45ebe766\"",
-  "Last-Modified": "Wed, 04 Nov 2026 10:22:45 GMT",
+  "ETag": "\"94187b4a370c942b4bf9770ae556f2c4f1a533802533b3e77776284a96d6ac7a\"",
+  "Last-Modified": "Wed, 04 Nov 2026 12:21:54 GMT",
   "base": {
     "repo": {
       "name": "bbf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T12:21:54Z",
   "closed_by": null,
   "created_at": "2026-11-04T00:29:49Z",
   "draft": false,
   "e_tag": "\"0616c9876d67a0ba23f8efecedb8fac8d560b4f74550c574830c76cba6e1ca55\"",
   "head": {
-    "ref": "0.7.2_h7bcb97"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bbf-feedstock/pull/15",
   "id": 5146720051,
   "labels": [],
-  "last_fetched": "2026-11-04T11:59:21.790599",
+  "last_fetched": "2026-11-04T12:23:22.439753",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T12:21:54Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-04T10:22:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T12:21:54Z"
 }

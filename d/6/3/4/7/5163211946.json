@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5fdb878ec64cbf917f4cc10aadeaa5e1e42de9c9029d22e9ceeb774c6d8f3a8e\"",
+  "Last-Modified": "Wed, 04 Nov 2026 23:51:59 GMT",
   "base": {
     "repo": {
       "name": "msgvault-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T23:51:58Z",
   "closed_by": null,
   "created_at": "2026-11-04T23:18:46Z",
   "draft": false,
   "e_tag": "\"008028c4779ba7efa83fb81cd1d5e51b0cbcaa31cbb0a7cefdd988a0dced8499\"",
   "head": {
-    "ref": "0.23.0_h8b02d8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/msgvault-feedstock/pull/31",
   "id": 5163211946,
   "labels": [],
-  "last_fetched": "2026-11-04T23:18:47.179209",
+  "last_fetched": "2026-11-04T23:53:08.475480",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T23:51:58Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-04T23:18:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T23:51:59Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"cf4d4688f449a45ce7041b8f31ae0e0e510417b67b44c88024c71ccbbc559521\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"765acac6e85e3a35e481b54e21c7347dde648566f2c2a7f07f8dfe6e04c9d109\"",
+  "Last-Modified": "Wed, 04 Nov 2026 08:19:35 GMT",
   "base": {
     "repo": {
       "name": "texinfo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T08:19:35Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-03-04T08:15:23Z",
   "draft": false,
   "e_tag": "\"f8d3c3980193a2718df2ff49ad6f2e022bc50b8c9259542616a6ab7bf31055fd\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/texinfo-feedstock/pull/25",
   "id": 3352284159,
-  "labels": [],
-  "last_fetched": "2026-11-02T20:16:00.710371",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891416985,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxNDE2OTg1",
+      "url": "https://api.github.com/repos/conda-forge/texinfo-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T08:19:39.232257",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-03-04T08:16:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T08:19:35Z"
 }

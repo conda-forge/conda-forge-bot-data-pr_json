@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e21fe4812947a9547f8d838c34472d18f4eec3454c8c3c0a4d31798e99c46fbd\"",
-  "Last-Modified": "Tue, 03 Nov 2026 22:55:42 GMT",
+  "ETag": "\"9ddbb6673103eb149c988b136a9f2fd2f7975c7b41fe5ae04fd3a27c183d3b89\"",
+  "Last-Modified": "Wed, 04 Nov 2026 21:13:36 GMT",
   "base": {
     "repo": {
       "name": "lld-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/lld-feedstock/pull/172",
   "id": 5145769373,
-  "labels": [],
-  "last_fetched": "2026-11-03T23:43:37.510863",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891014072,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDE0MDcy",
+      "url": "https://api.github.com/repos/conda-forge/lld-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T21:15:17.349838",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 172,
   "state": "open",
-  "updated_at": "2026-11-03T22:55:42Z"
+  "updated_at": "2026-11-04T21:13:36Z"
 }

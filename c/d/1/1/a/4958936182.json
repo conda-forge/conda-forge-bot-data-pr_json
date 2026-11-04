@@ -1,29 +1,41 @@
 {
-  "ETag": "\"66b9e5b98acfda67d66d3c2492274ddb73977324583a744b6c275767a19ebb3d\"",
-  "Last-Modified": "Wed, 04 Nov 2026 11:56:22 GMT",
+  "ETag": "\"545aacf17b9a5670e4a8bea8c5fe0b324d52768abc795c7deb0753698236af25\"",
+  "Last-Modified": "Wed, 04 Nov 2026 12:13:44 GMT",
   "base": {
     "repo": {
       "name": "haystack-ai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T12:13:41Z",
   "closed_by": null,
   "created_at": "2026-10-21T21:59:28Z",
   "draft": false,
   "e_tag": "\"f4662fffdbd0712cee1f4b9d52838c5b73f806c4ae1ce41747e331ad5d142146\"",
   "head": {
-    "ref": "3.4.1_h5815bc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/haystack-ai-feedstock/pull/73",
   "id": 4958936182,
-  "labels": [],
-  "last_fetched": "2026-11-04T12:00:27.132044",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6453975783,
+      "name": "automerge",
+      "node_id": "LA_kwDOLHR07s8AAAABgK_a5w",
+      "url": "https://api.github.com/repos/conda-forge/haystack-ai-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T12:14:08.261660",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T12:13:41Z",
   "number": 73,
-  "state": "open",
-  "updated_at": "2026-11-04T11:56:22Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T12:13:44Z"
 }

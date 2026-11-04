@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4834a26749f13a4782bd9690e7fa3d9c0d2a18d3c30274738d186adf20ee65e8\"",
-  "Last-Modified": "Wed, 04 Nov 2026 12:00:42 GMT",
+  "ETag": "\"12ac99495867ffc18915f071f6c9fdaf0b6e44c18e03365d5def7362760726df\"",
+  "Last-Modified": "Wed, 04 Nov 2026 13:30:17 GMT",
   "base": {
     "repo": {
       "name": "clingo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T13:30:17Z",
   "closed_by": null,
   "created_at": "2026-11-04T01:06:17Z",
   "draft": false,
   "e_tag": "\"f5d533f7cdb6c88ffcf0e51f50db47c95ecb7c1e0a3b657949587b65fd16387b\"",
   "head": {
-    "ref": "5.8.3_h284709"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/clingo-feedstock/pull/34",
   "id": 5147059145,
   "labels": [],
-  "last_fetched": "2026-11-04T12:36:00.693596",
+  "last_fetched": "2026-11-04T13:31:55.384896",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T13:30:17Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-11-04T12:00:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T13:30:17Z"
 }

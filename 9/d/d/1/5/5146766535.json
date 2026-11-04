@@ -1,27 +1,29 @@
 {
+  "ETag": "\"73102deab044d03fdd66d9afeab77d131955bc013a643fbd27897aac6551bdcb\"",
+  "Last-Modified": "Wed, 04 Nov 2026 00:37:53 GMT",
   "base": {
     "repo": {
       "name": "fastapi-pagination-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T00:37:49Z",
   "closed_by": null,
   "created_at": "2026-11-04T00:34:35Z",
   "draft": false,
   "e_tag": "\"e1960bd3c82bec1526f10a81734aad7efb4df32bd5e12647f006a90c2efef53b\"",
   "head": {
-    "ref": "0.16.2_h23029a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fastapi-pagination-feedstock/pull/41",
   "id": 5146766535,
   "labels": [],
-  "last_fetched": "2026-11-04T00:34:36.094098",
+  "last_fetched": "2026-11-04T00:39:02.371715",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T00:37:49Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-11-04T00:34:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T00:37:53Z"
 }

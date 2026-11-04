@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c9e71d32de11f46b1d1ae7b774e5291dadba3b3fff8bccc93c30fbfd06da2fbe\"",
+  "Last-Modified": "Wed, 04 Nov 2026 09:00:25 GMT",
   "base": {
     "repo": {
       "name": "types-python-dateutil-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T09:00:20Z",
   "closed_by": null,
   "created_at": "2026-11-04T08:57:40Z",
   "draft": false,
   "e_tag": "\"39df86caddef18e0e14ae62e029d9343150eade23c2d5291c5691cad9a822b68\"",
   "head": {
-    "ref": "2.9.0.20261104_h5e787c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-python-dateutil-feedstock/pull/68",
   "id": 5151674748,
   "labels": [],
-  "last_fetched": "2026-11-04T08:57:41.737054",
+  "last_fetched": "2026-11-04T09:01:38.650558",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T09:00:20Z",
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-11-04T08:57:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T09:00:25Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"48614dbaaa8197acfd5f598162a3aecadd38e6fc429ba7406e25cf1d9523c170\"",
-  "Last-Modified": "Sat, 31 Oct 2026 15:23:28 GMT",
+  "ETag": "\"5d25797ee1773776a012718d3b5f3209b73b2580efc9f7fe2a760a50080ffee6\"",
+  "Last-Modified": "Wed, 04 Nov 2026 15:43:47 GMT",
   "base": {
     "repo": {
       "name": "lalframe-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/lalframe-feedstock/pull/61",
   "id": 5098878308,
-  "labels": [],
-  "last_fetched": "2026-10-31T18:58:36.715259",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890953060,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTUzMDYw",
+      "url": "https://api.github.com/repos/conda-forge/lalframe-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T15:45:20.788657",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 61,
   "state": "open",
-  "updated_at": "2026-10-31T15:23:28Z"
+  "updated_at": "2026-11-04T15:43:47Z"
 }

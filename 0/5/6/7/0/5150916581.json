@@ -1,6 +1,6 @@
 {
-  "ETag": "\"11dcd3acda477a50beae934f9218e1217c6d48d445a03f0a55d509ad275f7eca\"",
-  "Last-Modified": "Wed, 04 Nov 2026 07:54:23 GMT",
+  "ETag": "\"7a1a0f6671a8e9fb15d41e77c68e3af776db892b458c3eb40218ab99edd37396\"",
+  "Last-Modified": "Wed, 04 Nov 2026 15:06:10 GMT",
   "base": {
     "repo": {
       "name": "signalrcore-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/signalrcore-feedstock/pull/15",
   "id": 5150916581,
-  "labels": [],
-  "last_fetched": "2026-11-04T08:21:40.775266",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2354496669,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMzU0NDk2NjY5",
+      "url": "https://api.github.com/repos/conda-forge/signalrcore-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T15:06:38.857897",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 15,
   "state": "open",
-  "updated_at": "2026-11-04T07:55:58Z"
+  "updated_at": "2026-11-04T15:06:10Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"39898295ea1d07ccd908b99bc20d873c9408f0bc7ba45f0cdcd185e613b4453c\"",
-  "Last-Modified": "Tue, 03 Nov 2026 22:45:37 GMT",
+  "ETag": "\"8bd9a21f581eb5c89812a33c217cd1450b503b7e90cabe1a5f0f2803a41f7e3c\"",
+  "Last-Modified": "Wed, 04 Nov 2026 09:42:24 GMT",
   "base": {
     "repo": {
       "name": "vlmrun-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T09:42:24Z",
   "closed_by": null,
   "created_at": "2026-11-03T22:44:11Z",
   "draft": false,
   "e_tag": "\"ee02eab4996493e721971ed646442a935b97f393a894ab7f46e9582ab1586da2\"",
   "head": {
-    "ref": "0.9.3_h1f1aee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vlmrun-feedstock/pull/11",
   "id": 5145665589,
   "labels": [],
-  "last_fetched": "2026-11-04T00:51:40.912054",
+  "last_fetched": "2026-11-04T09:44:04.829644",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T09:42:24Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-03T22:45:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T09:42:24Z"
 }

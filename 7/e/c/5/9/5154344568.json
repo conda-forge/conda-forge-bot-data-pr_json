@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2fb9a81940c6b68e9ba17eee830507fce046c2b5b966c4f15731c3fc56e989a3\"",
+  "Last-Modified": "Wed, 04 Nov 2026 12:39:48 GMT",
   "base": {
     "repo": {
       "name": "ultralytics-thop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T12:39:44Z",
   "closed_by": null,
   "created_at": "2026-11-04T12:37:39Z",
   "draft": false,
   "e_tag": "\"48d6f51ca4013da28ec47f835e59bd12556fa5753ad325259504318c63f0ad32\"",
   "head": {
-    "ref": "2.2.5_h8550ba"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ultralytics-thop-feedstock/pull/20",
   "id": 5154344568,
   "labels": [],
-  "last_fetched": "2026-11-04T12:37:40.211160",
+  "last_fetched": "2026-11-04T12:40:56.635740",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T12:39:44Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-04T12:37:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T12:39:48Z"
 }

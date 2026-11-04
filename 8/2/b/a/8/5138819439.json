@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d84e91567bf53769645e79d2cb39583f79de8679db9bfb32cc27fa85beb25e7d\"",
-  "Last-Modified": "Tue, 03 Nov 2026 14:20:20 GMT",
+  "ETag": "\"aa2542e9ccc55a2dc6c1e32766058f3fd737511898ec97ec495c9f0e5ec8b994\"",
+  "Last-Modified": "Wed, 04 Nov 2026 21:06:01 GMT",
   "base": {
     "repo": {
       "name": "openmp-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/openmp-feedstock/pull/242",
   "id": 5138819439,
-  "labels": [],
-  "last_fetched": "2026-11-03T15:58:46.559705",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891028838,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDI4ODM4",
+      "url": "https://api.github.com/repos/conda-forge/openmp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T21:07:29.373253",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 242,
   "state": "open",
-  "updated_at": "2026-11-03T14:21:42Z"
+  "updated_at": "2026-11-04T21:06:01Z"
 }

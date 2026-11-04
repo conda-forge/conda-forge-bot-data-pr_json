@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"cf8a829b50d9ada17bb2cbde18bedad035e84eaae77f26ffc84df190e0ffaafc\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"e59bf5e7e0f9164da74c7dbed38eae1a82f5926ceab007e6c82833a6ed33eeee\"",
+  "Last-Modified": "Wed, 04 Nov 2026 22:15:57 GMT",
   "base": {
     "repo": {
       "name": "microfilm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T22:15:56Z",
+  "closed_by": "guiwitz",
   "created_at": "2024-12-24T05:31:50Z",
   "draft": false,
   "e_tag": "\"6d8d94680898d31e50dad625f0ff471d74ccbcb810a42050a2a52a002f8a6d0f\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/microfilm-feedstock/pull/4",
   "id": 2250488592,
   "labels": [],
-  "last_fetched": "2026-11-02T23:28:06.410594",
+  "last_fetched": "2026-11-04T22:17:31.759374",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 4,
-  "state": "open",
-  "updated_at": "2024-12-24T05:33:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T22:15:57Z"
 }

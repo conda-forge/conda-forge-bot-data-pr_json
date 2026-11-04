@@ -1,27 +1,29 @@
 {
+  "ETag": "\"000dc7daed0b671291e6c46873b6df364eb3ff26f0c497bb486f2d22986b396c\"",
+  "Last-Modified": "Wed, 04 Nov 2026 14:36:04 GMT",
   "base": {
     "repo": {
       "name": "mache-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T14:36:04Z",
   "closed_by": null,
   "created_at": "2026-11-04T14:13:20Z",
   "draft": false,
   "e_tag": "\"14c7de1b0f18442751707f2ffffd8b341cf081f4c71e4319cd57f75cbb92be2e\"",
   "head": {
-    "ref": "5.4.0_h9208be"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mache-feedstock/pull/133",
   "id": 5155735114,
   "labels": [],
-  "last_fetched": "2026-11-04T14:13:20.912868",
+  "last_fetched": "2026-11-04T14:37:56.870786",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T14:36:04Z",
   "number": 133,
-  "state": "open",
-  "updated_at": "2026-11-04T14:13:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T14:36:04Z"
 }

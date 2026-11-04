@@ -1,12 +1,13 @@
 {
-  "ETag": "\"7464cd8be4840fd105b2656ae41e58b4ca4c9eebb149f8d70e12ea4802539ec2\"",
-  "Last-Modified": "Tue, 22 Sep 2026 09:06:41 GMT",
+  "ETag": "\"00f516a4e138f7aa52edb857ce031d091f8b3e448baad06996df6a846fe3b8b4\"",
+  "Last-Modified": "Wed, 04 Nov 2026 01:16:25 GMT",
   "base": {
     "repo": {
       "name": "datalad-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T01:16:25Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-22T09:05:03Z",
   "draft": false,
   "e_tag": "\"4c4b09e2856228a57fa9e8446336e203db9e1c362654078f3aabaa425d3a638e\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/datalad-feedstock/pull/151",
   "id": 4600295519,
   "labels": [],
-  "last_fetched": "2026-10-27T22:58:04.698865",
+  "last_fetched": "2026-11-04T01:17:42.527314",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 151,
-  "state": "open",
-  "updated_at": "2026-09-22T09:06:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T01:16:25Z"
 }

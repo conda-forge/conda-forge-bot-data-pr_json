@@ -1,29 +1,29 @@
 {
-  "ETag": "\"247ccfebbdb804b532d959d50779765efdd6bc4312879378ef222faad16237bb\"",
-  "Last-Modified": "Wed, 21 Oct 2026 13:33:58 GMT",
+  "ETag": "W/\"ab78656ac5a4cb566cc2bc1d89499cda64a840f06095b4168865be1b5a6cbcff\"",
+  "Last-Modified": "Wed, 04 Nov 2026 02:59:48 GMT",
   "base": {
     "repo": {
       "name": "vllm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T02:59:48Z",
   "closed_by": null,
   "created_at": "2026-10-18T11:00:37Z",
   "draft": false,
   "e_tag": "\"b897b9734c35a7481a08e7386ddcb6653efa0d0ac2dc3791643d878b5b7a816c\"",
   "head": {
-    "ref": "0.32.0_h6072da"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vllm-feedstock/pull/71",
   "id": 4908498640,
   "labels": [],
-  "last_fetched": "2026-10-28T16:44:35.113546",
+  "last_fetched": "2026-11-04T03:01:05.710253",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T02:59:48Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-10-21T13:33:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T02:59:48Z"
 }

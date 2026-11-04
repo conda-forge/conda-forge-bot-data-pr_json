@@ -1,27 +1,29 @@
 {
+  "ETag": "\"95f03ddc6f3ac986e82fdee8afa3858e5115d4c0e9582448625a654f6c02cf0f\"",
+  "Last-Modified": "Wed, 04 Nov 2026 07:02:07 GMT",
   "base": {
     "repo": {
       "name": "atuin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T07:02:02Z",
   "closed_by": null,
   "created_at": "2026-11-04T06:31:39Z",
   "draft": false,
   "e_tag": "\"e01fa68d1cbe2606d234abc19ee1b996be20ce8308d1a5f6c2da9db4d568e16c\"",
   "head": {
-    "ref": "18.24.5_h77ec51"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/atuin-feedstock/pull/57",
   "id": 5150008214,
   "labels": [],
-  "last_fetched": "2026-11-04T06:31:39.918992",
+  "last_fetched": "2026-11-04T07:03:33.290392",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T07:02:02Z",
   "number": 57,
-  "state": "open",
-  "updated_at": "2026-11-04T06:31:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T07:02:07Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"956a18456bd213bccbe420e56e2ab402ac9fd9085cef898a4a66695779a55e28\"",
+  "Last-Modified": "Wed, 04 Nov 2026 04:43:03 GMT",
   "base": {
     "repo": {
       "name": "runpod-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T04:42:58Z",
   "closed_by": null,
   "created_at": "2026-11-04T04:40:23Z",
   "draft": false,
   "e_tag": "\"7f93e4a1bb0e7369dc1ed7098e60543889e5d19e80803bf736af5273d2c8d046\"",
   "head": {
-    "ref": "2.1.0_h973422"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/runpod-python-feedstock/pull/11",
   "id": 5148972101,
   "labels": [],
-  "last_fetched": "2026-11-04T04:40:24.718944",
+  "last_fetched": "2026-11-04T04:44:35.533211",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T04:42:58Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-04T04:40:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T04:43:03Z"
 }

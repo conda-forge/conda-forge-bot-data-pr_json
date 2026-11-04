@@ -1,5 +1,5 @@
 {
-  "ETag": "\"a06c4c63e8061809a247ae0d2c788c4e0ed793786bbfa3d5152b6708f9f91374\"",
+  "ETag": "W/\"625181a05fd27581f744f9ef0eacfd0d9282ad2b456bbd3f6b4e46e1fa7a5759\"",
   "Last-Modified": "Wed, 04 Nov 2026 23:42:25 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pymmcore-feedstock/pull/38",
   "id": 4538988064,
-  "labels": [],
-  "last_fetched": "2026-11-04T23:43:36.256929",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T23:42:28.814065",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

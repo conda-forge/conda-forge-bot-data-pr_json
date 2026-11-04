@@ -1,18 +1,18 @@
 {
-  "ETag": "\"5d25797ee1773776a012718d3b5f3209b73b2580efc9f7fe2a760a50080ffee6\"",
-  "Last-Modified": "Wed, 04 Nov 2026 15:43:47 GMT",
+  "ETag": "\"602c9b15dfd74272b304a19202a0682aa69ebe3b6508c8acbe7b9641cb0f7ff4\"",
+  "Last-Modified": "Wed, 04 Nov 2026 15:53:20 GMT",
   "base": {
     "repo": {
       "name": "lalframe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T15:53:16Z",
   "closed_by": null,
   "created_at": "2026-10-31T15:21:59Z",
   "draft": false,
   "e_tag": "\"4befeb705b0e853e71d07a3ef6c8e2a9710120626193e6b71ef48694df19aa42\"",
   "head": {
-    "ref": "3.1.0_h696d7f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lalframe-feedstock/pull/61",
   "id": 5098878308,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/lalframe-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-04T15:45:20.788657",
+  "last_fetched": "2026-11-04T15:54:55.076978",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T15:53:16Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-04T15:43:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T15:53:20Z"
 }

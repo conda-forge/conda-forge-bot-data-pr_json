@@ -1,29 +1,29 @@
 {
-  "ETag": "\"efcc261383288aa29fd51cf553c5c04f1a14a6aaa8815ba2ee15125b975637b0\"",
-  "Last-Modified": "Wed, 04 Nov 2026 09:55:55 GMT",
+  "ETag": "\"ca2e912bb8380f81abe2473473d82881b659f6a3d75cdc275d667e1e187e0ca0\"",
+  "Last-Modified": "Wed, 04 Nov 2026 17:47:43 GMT",
   "base": {
     "repo": {
       "name": "wavespectra-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T17:47:43Z",
   "closed_by": null,
   "created_at": "2026-11-04T09:54:17Z",
   "draft": false,
   "e_tag": "\"a0a677ee2d836864d19c1ee54e71a1a2eee0949a7289291b281386598fee8d52\"",
   "head": {
-    "ref": "4.9.1_h9f92f1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wavespectra-feedstock/pull/49",
   "id": 5152355005,
   "labels": [],
-  "last_fetched": "2026-11-04T14:58:22.312835",
+  "last_fetched": "2026-11-04T17:49:03.716775",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T17:47:43Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-11-04T09:55:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T17:47:43Z"
 }

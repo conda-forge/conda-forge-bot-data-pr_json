@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b1170403ddb9e5a667a5a520d2c8c7755bcbc7972f79ce9a0fc0637315e69100\"",
-  "Last-Modified": "Wed, 04 Nov 2026 06:32:10 GMT",
+  "ETag": "\"24dd4f8c057eff748dceba7aa3f6b22683c222893ab2f186b278e2d2909b08ba\"",
+  "Last-Modified": "Wed, 04 Nov 2026 11:37:06 GMT",
   "base": {
     "repo": {
       "name": "apispec-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apispec-feedstock/pull/86",
   "id": 5149998635,
-  "labels": [],
-  "last_fetched": "2026-11-04T10:43:06.866882",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890793369,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwNzkzMzY5",
+      "url": "https://api.github.com/repos/conda-forge/apispec-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T11:38:20.788282",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 86,
   "state": "open",
-  "updated_at": "2026-11-04T06:32:10Z"
+  "updated_at": "2026-11-04T11:37:06Z"
 }

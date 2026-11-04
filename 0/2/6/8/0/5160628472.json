@@ -1,29 +1,41 @@
 {
-  "ETag": "\"5598effa1e1103e49adac6ee85bf0ebd600b0afa7ff5977ceeaa01d020b58aa5\"",
-  "Last-Modified": "Wed, 04 Nov 2026 20:38:01 GMT",
+  "ETag": "\"1481b83a75f53066f1bff01da8e17297dac83edfb423dfa879df794c0dcc234c\"",
+  "Last-Modified": "Wed, 04 Nov 2026 21:26:12 GMT",
   "base": {
     "repo": {
       "name": "riskfolio-lib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T21:26:08Z",
   "closed_by": null,
   "created_at": "2026-11-04T19:52:07Z",
   "draft": false,
   "e_tag": "\"fe37963ae8e1018a6950022b679c3af92abbd9ce324ff0e578008f0fa573ca03\"",
   "head": {
-    "ref": "7.4.1_h3b7014"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/riskfolio-lib-feedstock/pull/38",
   "id": 5160628472,
-  "labels": [],
-  "last_fetched": "2026-11-04T21:14:12.990738",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4428641096,
+      "name": "automerge",
+      "node_id": "LA_kwDOH0vlfM8AAAABB_ezSA",
+      "url": "https://api.github.com/repos/conda-forge/riskfolio-lib-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T21:27:03.463635",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T21:26:08Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-04T20:38:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T21:26:12Z"
 }

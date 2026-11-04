@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6d8d7ecf4392485d06cdafe9268a8d16b1a4cce5f4577a00cd4c1e068dc64075\"",
+  "Last-Modified": "Wed, 04 Nov 2026 16:48:17 GMT",
   "base": {
     "repo": {
       "name": "ory-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T16:48:13Z",
   "closed_by": null,
   "created_at": "2026-11-04T16:45:07Z",
   "draft": false,
   "e_tag": "\"df769cb75d9a55eb0ef5f5375e132523863603fdd030c979a4333b9912147a71\"",
   "head": {
-    "ref": "1.22.91_h9f8550"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ory-client-feedstock/pull/64",
   "id": 5158040792,
   "labels": [],
-  "last_fetched": "2026-11-04T16:45:08.170186",
+  "last_fetched": "2026-11-04T16:49:40.506417",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T16:48:13Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-11-04T16:45:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T16:48:17Z"
 }

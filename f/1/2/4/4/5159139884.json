@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d6b86e6a62f0872e0003e7bca711f862a5893f7e2d5e90236f08add07fa4c34b\"",
+  "Last-Modified": "Wed, 04 Nov 2026 18:08:26 GMT",
   "base": {
     "repo": {
       "name": "ringspy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T18:08:21Z",
   "closed_by": null,
   "created_at": "2026-11-04T18:04:13Z",
   "draft": false,
   "e_tag": "\"98285783bb4659d1ea654f3cafd04b6e715ae05eaf217d5a27a66e9065ffddf1\"",
   "head": {
-    "ref": "2.1.0_hab5df5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ringspy-feedstock/pull/10",
   "id": 5159139884,
   "labels": [],
-  "last_fetched": "2026-11-04T18:04:14.481513",
+  "last_fetched": "2026-11-04T18:09:51.821707",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T18:08:21Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-04T18:04:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T18:08:26Z"
 }

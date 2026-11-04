@@ -1,5 +1,5 @@
 {
-  "ETag": "\"00f516a4e138f7aa52edb857ce031d091f8b3e448baad06996df6a846fe3b8b4\"",
+  "ETag": "W/\"9350fe10fbe7a3c29a482278bb752d5491b335c12213ebaf20520fc10e761fe1\"",
   "Last-Modified": "Wed, 04 Nov 2026 01:16:25 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/datalad-feedstock/pull/151",
   "id": 4600295519,
-  "labels": [],
-  "last_fetched": "2026-11-04T01:17:42.527314",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T01:16:27.599231",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

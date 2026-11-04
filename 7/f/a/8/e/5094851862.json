@@ -1,6 +1,6 @@
 {
-  "ETag": "\"6990c41c93895d0db42af33fa2ef7a9456eaa28c3983fad67e807ec695ec7dff\"",
-  "Last-Modified": "Wed, 04 Nov 2026 01:43:05 GMT",
+  "ETag": "\"c3428c91b4ca78c1f1b131fdaea7cedd692bce3c2a5ae84afa9456bd89a40736\"",
+  "Last-Modified": "Wed, 04 Nov 2026 01:45:12 GMT",
   "base": {
     "repo": {
       "name": "leafmap-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/leafmap-feedstock/pull/323",
   "id": 5094851862,
-  "labels": [],
-  "last_fetched": "2026-11-04T01:43:16.291318",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2813148580,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyODEzMTQ4NTgw",
+      "url": "https://api.github.com/repos/conda-forge/leafmap-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T01:46:16.299473",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 323,
   "state": "open",
-  "updated_at": "2026-11-04T01:43:05Z"
+  "updated_at": "2026-11-04T01:45:12Z"
 }

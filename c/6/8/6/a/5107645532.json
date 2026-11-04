@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6a092d53cebde49cb7ea0ad934b98a537fd15be6fc053ddb6d70065989dfea2b\"",
-  "Last-Modified": "Wed, 04 Nov 2026 10:49:23 GMT",
+  "ETag": "W/\"560a353efe68cced40f56eb5a8a130e506a4913681bda2635d28ada681fb97f3\"",
+  "Last-Modified": "Wed, 04 Nov 2026 11:39:46 GMT",
   "base": {
     "repo": {
       "name": "npe2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T11:39:46Z",
   "closed_by": null,
   "created_at": "2026-11-01T13:10:02Z",
   "draft": false,
   "e_tag": "\"f8bc1e061953594dc6cb0c3501bd9ef1b0437d6bed0e2857f50419a440c5a9b7\"",
   "head": {
-    "ref": "0.10.1_h2cc5ab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/npe2-feedstock/pull/46",
   "id": 5107645532,
   "labels": [],
-  "last_fetched": "2026-11-04T11:01:00.038246",
+  "last_fetched": "2026-11-04T11:40:52.106935",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T11:39:46Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-11-04T10:49:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T11:39:46Z"
 }

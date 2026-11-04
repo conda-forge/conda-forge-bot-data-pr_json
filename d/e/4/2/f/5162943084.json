@@ -1,4 +1,6 @@
 {
+  "ETag": "\"2bb245cf150fb4be4cb0c1ae92fa82ba6b20cf8dbed19e545d297f2655ecfea0\"",
+  "Last-Modified": "Wed, 04 Nov 2026 23:33:24 GMT",
   "base": {
     "repo": {
       "name": "nvimgcodec-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/nvimgcodec-feedstock/pull/22",
   "id": 5162943084,
-  "labels": [],
-  "last_fetched": "2026-11-04T22:54:57.026260",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8464084549,
+      "name": "automerge",
+      "node_id": "LA_kwDOOaXKvs8AAAAB-H-uRQ",
+      "url": "https://api.github.com/repos/conda-forge/nvimgcodec-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T23:34:30.453237",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 22,
   "state": "open",
-  "updated_at": "2026-11-04T22:54:56Z"
+  "updated_at": "2026-11-04T23:33:24Z"
 }

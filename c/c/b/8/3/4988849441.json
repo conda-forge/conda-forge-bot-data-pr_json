@@ -1,29 +1,29 @@
 {
-  "ETag": "\"01ca3c764d57220e8934708e20156534f83cb76e798b019a8ce6d83fe232190a\"",
-  "Last-Modified": "Fri, 23 Oct 2026 20:30:25 GMT",
+  "ETag": "\"79b6f723322e5ac1a7f944dea12c5184eac31b78779fd86b39f8539e2a9d163e\"",
+  "Last-Modified": "Wed, 04 Nov 2026 10:30:38 GMT",
   "base": {
     "repo": {
       "name": "ink-md-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T10:30:38Z",
   "closed_by": null,
   "created_at": "2026-10-23T20:28:51Z",
   "draft": false,
   "e_tag": "\"da6e38b99d031cbfdbb38b600ffe46522a5952edfef294290f9f877efcea1d26\"",
   "head": {
-    "ref": "0.13.0_h18d275"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ink-md-feedstock/pull/6",
   "id": 4988849441,
   "labels": [],
-  "last_fetched": "2026-10-30T23:56:52.544328",
+  "last_fetched": "2026-11-04T10:31:45.737666",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T10:30:38Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-10-23T20:30:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T10:30:38Z"
 }

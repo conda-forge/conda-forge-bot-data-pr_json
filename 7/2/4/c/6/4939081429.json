@@ -1,5 +1,5 @@
 {
-  "ETag": "\"c534d7ea2837b916580770e28b8de5ee90df2b7a026569582487dc399746c4e8\"",
+  "ETag": "W/\"6d04664a32d5b052cf2d56f7fce743eb88919b7c1170c1d07f5fe5e9d92b76e2\"",
   "Last-Modified": "Wed, 04 Nov 2026 00:51:35 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/blessed-feedstock/pull/55",
   "id": 4939081429,
-  "labels": [],
-  "last_fetched": "2026-11-04T00:52:53.576354",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T00:51:38.264663",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

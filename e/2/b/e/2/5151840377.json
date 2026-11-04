@@ -1,29 +1,29 @@
 {
-  "ETag": "\"391a29ca6b0dde4ec3c9d0ffdccdaf240eb051d60ce86b4b8919d737e9d9d2e1\"",
-  "Last-Modified": "Wed, 04 Nov 2026 09:12:43 GMT",
+  "ETag": "\"e241df1c37c2f225bc7ab0b5bce56f12fe5324a31b2cbf4cd498b5d87f20651b\"",
+  "Last-Modified": "Wed, 04 Nov 2026 13:03:36 GMT",
   "base": {
     "repo": {
       "name": "python-zlib-ng-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T13:03:36Z",
   "closed_by": null,
   "created_at": "2026-11-04T09:11:02Z",
   "draft": false,
   "e_tag": "\"36fc7803fea8e2f49b16e9965e32b03f7f57440a233bef23ecaa1f79d8b524ff\"",
   "head": {
-    "ref": "1.1.0_hf64ddc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-zlib-ng-feedstock/pull/28",
   "id": 5151840377,
   "labels": [],
-  "last_fetched": "2026-11-04T11:42:54.236482",
+  "last_fetched": "2026-11-04T13:05:15.474236",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T13:03:36Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-04T09:12:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T13:03:36Z"
 }

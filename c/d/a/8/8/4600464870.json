@@ -1,17 +1,17 @@
 {
-  "ETag": "\"a412ef53ea22e81d4c31131d4421f6975a45ea2b7c18801dc58882a438e0f1cb\"",
-  "Last-Modified": "Wed, 04 Nov 2026 22:01:28 GMT",
+  "ETag": "\"8317fe441ee24bde9b0942f3ee31e92652da144f11a521d019f45becf6a50104\"",
+  "Last-Modified": "Wed, 04 Nov 2026 22:04:48 GMT",
   "base": {
     "repo": {
       "name": "databroker-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T22:04:45Z",
   "created_at": "2026-09-22T09:25:53Z",
   "draft": false,
   "e_tag": "\"12477cd54da33ee251b2be8057073ff2e8643a6a71051c6f90504770ae510587\"",
   "head": {
-    "ref": "2.0.2_h00e4ad"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/databroker-feedstock/pull/82",
   "id": 4600464870,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/databroker-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-04T22:03:03.084237",
+  "last_fetched": "2026-11-04T22:05:54.684524",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T22:04:45Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-11-04T22:01:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T22:04:48Z"
 }

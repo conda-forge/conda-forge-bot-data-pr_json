@@ -1,29 +1,29 @@
 {
-  "ETag": "\"acbc16a3859afd1de1ce6ebfe7ef642fa0709aa1e2001f8500a6f8c2ac533578\"",
-  "Last-Modified": "Wed, 04 Nov 2026 13:26:45 GMT",
+  "ETag": "\"31224be954f6d8f8499e856d5d3093606ba52905a1291fcc1e332f7a7e0bedc2\"",
+  "Last-Modified": "Wed, 04 Nov 2026 15:27:58 GMT",
   "base": {
     "repo": {
       "name": "onednn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T15:27:53Z",
   "closed_by": null,
   "created_at": "2026-11-04T13:25:10Z",
   "draft": false,
   "e_tag": "\"764e0c84deb654b8a47a7ee3eb1acd4a590a15f718e49da1a3b17a91ff5d6589\"",
   "head": {
-    "ref": "3.14.2_hdbfaa4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/onednn-feedstock/pull/125",
   "id": 5155035273,
   "labels": [],
-  "last_fetched": "2026-11-04T14:27:54.541248",
+  "last_fetched": "2026-11-04T15:29:04.926390",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T15:27:53Z",
   "number": 125,
-  "state": "open",
-  "updated_at": "2026-11-04T13:26:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T15:27:58Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ace11b4ca1cd6ec1b0262de5fa49a4dea024666707b8fb58c1b19e33455decff\"",
+  "Last-Modified": "Wed, 04 Nov 2026 07:43:01 GMT",
   "base": {
     "repo": {
       "name": "pyhanko-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T07:42:57Z",
   "closed_by": null,
   "created_at": "2026-11-04T07:41:07Z",
   "draft": false,
   "e_tag": "\"29c6aab7850a98a1242c82061da66c5d4b2cade88a688f9e2c5ce73ec7283c6f\"",
   "head": {
-    "ref": "0.38.1_h7dddce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyhanko-feedstock/pull/28",
   "id": 5150756037,
   "labels": [],
-  "last_fetched": "2026-11-04T07:41:08.812801",
+  "last_fetched": "2026-11-04T07:44:27.423797",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T07:42:57Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-04T07:41:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T07:43:01Z"
 }

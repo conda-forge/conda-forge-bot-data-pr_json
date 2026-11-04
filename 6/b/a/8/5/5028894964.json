@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0874cbef883e8f90722bf2d400fde1eca453f6e5e7545062ca31c5dbdbd92882\"",
-  "Last-Modified": "Tue, 27 Oct 2026 05:09:37 GMT",
+  "ETag": "\"83a712ffe2258588294e1caafd9141679ce5f93bef54105605e70d526334cf69\"",
+  "Last-Modified": "Wed, 04 Nov 2026 08:30:21 GMT",
   "base": {
     "repo": {
       "name": "console_bridge-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T08:30:20Z",
   "closed_by": null,
   "created_at": "2026-10-27T05:08:07Z",
   "draft": false,
   "e_tag": "\"8cfe27174b7aa3d607f0809e1c4233443ce9690646023cc28a7d78cd8a221c1a\"",
   "head": {
-    "ref": "bot-pr_riscv64_h231bfb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/console_bridge-feedstock/pull/13",
   "id": 5028894964,
   "labels": [],
-  "last_fetched": "2026-11-03T08:58:51.910417",
+  "last_fetched": "2026-11-04T08:31:53.411012",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T08:30:20Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-27T05:09:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T08:30:21Z"
 }

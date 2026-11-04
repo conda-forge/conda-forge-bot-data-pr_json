@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0b67659a52611030d1f698735201c2d254ebc8abc1c1e1f480dc58ec3f9ffaf1\"",
-  "Last-Modified": "Wed, 04 Nov 2026 01:18:54 GMT",
+  "ETag": "\"420113f3bc6858a5abb4eb55351c864bfdfef32f382e47a21c5ad56ad27e0915\"",
+  "Last-Modified": "Wed, 04 Nov 2026 20:17:50 GMT",
   "base": {
     "repo": {
       "name": "pyfakefs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T20:17:50Z",
   "closed_by": null,
   "created_at": "2026-11-04T01:17:21Z",
   "draft": false,
   "e_tag": "\"341d6d697e7a108e728d2225dfcbc8fe3648bad0bd698c1b7a8e9592ab0de147\"",
   "head": {
-    "ref": "6.3.2_h37241f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyfakefs-feedstock/pull/74",
   "id": 5147162239,
   "labels": [],
-  "last_fetched": "2026-11-04T01:57:36.585948",
+  "last_fetched": "2026-11-04T20:18:58.634599",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T20:17:50Z",
   "number": 74,
-  "state": "open",
-  "updated_at": "2026-11-04T01:18:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T20:17:50Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"aab5ab3597d2ecb7ca1587ba4ea8d871616bdefa5146ab356238ea989e24e719\"",
+  "Last-Modified": "Wed, 04 Nov 2026 17:42:02 GMT",
   "base": {
     "repo": {
       "name": "pytest-env-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T17:42:01Z",
   "closed_by": null,
   "created_at": "2026-11-04T16:36:32Z",
   "draft": false,
   "e_tag": "\"94e39ab5b508d7eeb440e219173497ddbe81096120c7cc9360253838d15fe64f\"",
   "head": {
-    "ref": "1.8.5_he61980"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytest-env-feedstock/pull/23",
   "id": 5157916141,
   "labels": [],
-  "last_fetched": "2026-11-04T16:36:33.879004",
+  "last_fetched": "2026-11-04T17:43:11.643314",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T17:42:01Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-04T16:36:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T17:42:02Z"
 }

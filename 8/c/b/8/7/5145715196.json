@@ -1,18 +1,18 @@
 {
-  "ETag": "\"5f97690742e21faefdd20f49027dd353f964bc7044c8d2bbb9f4f86c888f86e4\"",
-  "Last-Modified": "Tue, 03 Nov 2026 23:11:35 GMT",
+  "ETag": "\"af4ae55c48a035fe533d73856f8eacc474dd9dcbdf5c001e6a030f423711dee6\"",
+  "Last-Modified": "Wed, 04 Nov 2026 17:09:19 GMT",
   "base": {
     "repo": {
       "name": "together-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T17:09:19Z",
   "closed_by": null,
   "created_at": "2026-11-03T22:48:53Z",
   "draft": false,
   "e_tag": "\"10c7bb2569843a8019afbcf3dbb2dbe5e1ddb190ed6d0886f609f11ce512cf58\"",
   "head": {
-    "ref": "3.1.0_h3d2daa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/together-feedstock/pull/61",
   "id": 5145715196,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/together-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-03T23:13:05.582521",
+  "last_fetched": "2026-11-04T17:10:45.482904",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T17:09:19Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-03T23:11:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T17:09:19Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d3aaaf5bbe4c8b38dfe09fe5f370945e6159bd6e369ceaa75467a2c6b20d6e48\"",
-  "Last-Modified": "Tue, 03 Nov 2026 15:02:05 GMT",
+  "ETag": "\"d3e9f260d3db31edd8ac659e39e39fbf874a44b01e80609beb9e4e0abebf23d0\"",
+  "Last-Modified": "Wed, 04 Nov 2026 07:48:15 GMT",
   "base": {
     "repo": {
       "name": "lap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T07:48:15Z",
   "closed_by": null,
   "created_at": "2026-11-03T15:00:25Z",
   "draft": false,
   "e_tag": "\"cf77e323798b56e78fc76a1a76d56879428187950bd8e16d812de71c1e49d35e\"",
   "head": {
-    "ref": "0.5.14_h8cda63"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lap-feedstock/pull/23",
   "id": 5139466913,
   "labels": [],
-  "last_fetched": "2026-11-03T15:18:23.014586",
+  "last_fetched": "2026-11-04T07:49:45.676136",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T07:48:15Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-03T15:02:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T07:48:15Z"
 }

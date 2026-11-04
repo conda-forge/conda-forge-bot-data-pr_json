@@ -1,18 +1,18 @@
 {
-  "ETag": "\"08ece88a9299ca2a2a9fccaf4393754d54e6dc85d168fc4a2e0aa6e09424ceaa\"",
-  "Last-Modified": "Wed, 04 Nov 2026 18:22:44 GMT",
+  "ETag": "\"92b42b4c64e0c109e6c7294546fe894ed2c9987cb0f3344ff5faa6d54daa46fc\"",
+  "Last-Modified": "Wed, 04 Nov 2026 19:11:09 GMT",
   "base": {
     "repo": {
       "name": "pixi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T19:11:05Z",
   "closed_by": null,
   "created_at": "2026-11-04T18:21:08Z",
   "draft": false,
   "e_tag": "\"927f744ca5ab5acc1f3382ffe1d1e02dbe814a3d52846d6572e4046fbad94da5\"",
   "head": {
-    "ref": "0.84.1_h30a8f5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pixi-feedstock/pull/224",
   "id": 5159372901,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/pixi-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-04T18:23:50.424007",
+  "last_fetched": "2026-11-04T19:12:40.092874",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T19:11:05Z",
   "number": 224,
-  "state": "open",
-  "updated_at": "2026-11-04T18:22:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T19:11:09Z"
 }

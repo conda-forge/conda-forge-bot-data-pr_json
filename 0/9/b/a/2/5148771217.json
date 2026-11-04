@@ -1,27 +1,29 @@
 {
+  "ETag": "\"21213febe22e9068b5fbc077adac97618f58ed8286a9c77ca1f1367a28ce48de\"",
+  "Last-Modified": "Wed, 04 Nov 2026 04:19:21 GMT",
   "base": {
     "repo": {
       "name": "yfinance-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T04:19:17Z",
   "closed_by": null,
   "created_at": "2026-11-04T04:17:25Z",
   "draft": false,
   "e_tag": "\"4808187468810f36dcff173e0d6f2e6e82571187ce68bfe6fe0f59e64f66fde2\"",
   "head": {
-    "ref": "1.8.0_h9871c4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yfinance-feedstock/pull/117",
   "id": 5148771217,
   "labels": [],
-  "last_fetched": "2026-11-04T04:17:26.542478",
+  "last_fetched": "2026-11-04T04:20:25.973011",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T04:19:17Z",
   "number": 117,
-  "state": "open",
-  "updated_at": "2026-11-04T04:17:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T04:19:21Z"
 }

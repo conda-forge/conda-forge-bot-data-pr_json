@@ -1,29 +1,29 @@
 {
-  "ETag": "\"24e44d054f87ece98c220cab173f4e020c3daa93ecd31a2415a9d01db456b2e8\"",
-  "Last-Modified": "Tue, 03 Nov 2026 19:45:32 GMT",
+  "ETag": "\"4d0dfa6ff0b65719da88fe0c358e7eb71853d5e3f9ecbbaaf8c159041c816897\"",
+  "Last-Modified": "Wed, 04 Nov 2026 08:45:31 GMT",
   "base": {
     "repo": {
       "name": "watch-duck-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T08:45:31Z",
   "closed_by": null,
   "created_at": "2026-11-03T19:42:57Z",
   "draft": false,
   "e_tag": "\"faca8ea469bc916edd646975dac10845f4b3a469dfacc0d71221a16e128d0d6e\"",
   "head": {
-    "ref": "1.3.0_h2ddfb0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/watch-duck-feedstock/pull/4",
   "id": 5143461799,
   "labels": [],
-  "last_fetched": "2026-11-04T00:36:47.796271",
+  "last_fetched": "2026-11-04T08:47:01.163438",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T08:45:31Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-03T19:45:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T08:45:31Z"
 }

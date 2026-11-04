@@ -1,13 +1,13 @@
 {
-  "ETag": "\"288559901ea5f288afe4adfd7706d0f55e0c3c0c87e770e2d0373f6694baf855\"",
-  "Last-Modified": "Tue, 20 Oct 2026 16:43:42 GMT",
+  "ETag": "\"c534d7ea2837b916580770e28b8de5ee90df2b7a026569582487dc399746c4e8\"",
+  "Last-Modified": "Wed, 04 Nov 2026 00:51:35 GMT",
   "base": {
     "repo": {
       "name": "blessed-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-04T00:51:35Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-20T16:37:59Z",
   "draft": false,
   "e_tag": "\"971b1309e32f409d618b26dc8e05b065bdf2e0acbcd6c7835959311caf04a487\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/blessed-feedstock/pull/55",
   "id": 4939081429,
   "labels": [],
-  "last_fetched": "2026-10-27T22:27:56.238541",
+  "last_fetched": "2026-11-04T00:52:53.576354",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-10-20T16:43:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T00:51:35Z"
 }

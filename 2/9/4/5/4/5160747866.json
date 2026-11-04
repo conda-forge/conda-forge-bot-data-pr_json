@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0e790d0833be457b85596c89e79763b88ed3d15cee100ef9218448f60f25d5bf\"",
+  "Last-Modified": "Wed, 04 Nov 2026 20:11:23 GMT",
   "base": {
     "repo": {
       "name": "opening-hours-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T20:11:23Z",
   "closed_by": null,
   "created_at": "2026-11-04T20:00:51Z",
   "draft": false,
   "e_tag": "\"7a096e4db2047bd958b5930dea19f7fe946fe3cf1c22c7dab63799b2015b015c\"",
   "head": {
-    "ref": "2.1.5_he94097"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opening-hours-py-feedstock/pull/19",
   "id": 5160747866,
   "labels": [],
-  "last_fetched": "2026-11-04T20:00:52.529376",
+  "last_fetched": "2026-11-04T20:13:05.410088",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T20:11:23Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-11-04T20:00:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T20:11:27Z"
 }

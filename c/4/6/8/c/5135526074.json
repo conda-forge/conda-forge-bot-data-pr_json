@@ -1,13 +1,13 @@
 {
-  "ETag": "\"c71771c8e7aa2e31b7425223b9d0dfeaf647cb9b2f4951addf8abd0b8173e414\"",
-  "Last-Modified": "Wed, 04 Nov 2026 00:02:39 GMT",
+  "ETag": "W/\"b528dd1005bce4b640212444fb85eb63d056add6ed14dbf490b957544fc09b6a\"",
+  "Last-Modified": "Wed, 04 Nov 2026 09:27:09 GMT",
   "base": {
     "repo": {
       "name": "kombu-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-04T09:27:09Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-03T10:19:40Z",
   "draft": false,
   "e_tag": "\"879419389cd89f7e167fb4caa9b1c8063768a49f10ba3d1ed5bf2f0d58b698e4\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/kombu-feedstock/pull/92",
   "id": 5135526074,
-  "labels": [],
-  "last_fetched": "2026-11-04T00:04:02.678067",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890952390,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwOTUyMzkw",
+      "url": "https://api.github.com/repos/conda-forge/kombu-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T09:27:13.215626",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 92,
-  "state": "open",
-  "updated_at": "2026-11-04T00:02:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T09:27:09Z"
 }

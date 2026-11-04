@@ -1,5 +1,5 @@
 {
-  "ETag": "\"34d7ebacae17b1219451a46945136474f99ab90370fb5e8310f2f779bba277d4\"",
+  "ETag": "\"e4591b85673f689c0e3269426736bdc8154a29c6aec3b49cecc8d191af068011\"",
   "Last-Modified": "Tue, 06 Oct 2026 06:35:25 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"37ccbc0fae445e98cb2b77eb26873100ff69d968621f219515f2cc17d06f7169\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_he2c805"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/onnx-feedstock/pull/170",
   "id": 4755067483,
-  "labels": [],
-  "last_fetched": "2026-10-27T18:44:47.765221",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T06:45:49.252508",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 170,

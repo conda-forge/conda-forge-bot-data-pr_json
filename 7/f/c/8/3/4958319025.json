@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0d327a2d13b6f2a39342fc1829825094d4bbb9f191ae8c5f6d565db2e3960399\"",
-  "Last-Modified": "Tue, 03 Nov 2026 21:23:26 GMT",
+  "ETag": "\"7c11b829fe659cc04d92bda029220cfbbe9da550d1b3c9f51261a50d5233edd2\"",
+  "Last-Modified": "Wed, 04 Nov 2026 07:40:19 GMT",
   "base": {
     "repo": {
       "name": "backblaze-b2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T07:40:18Z",
   "closed_by": null,
   "created_at": "2026-10-21T21:02:45Z",
   "draft": false,
   "e_tag": "\"b51ddcae6a48b6638393301899dfc3a31f1c4971742724c69bd13162d1871f30\"",
   "head": {
-    "ref": "5.0.1_hc87d74"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/backblaze-b2-feedstock/pull/17",
   "id": 4958319025,
   "labels": [],
-  "last_fetched": "2026-11-03T21:31:56.464395",
+  "last_fetched": "2026-11-04T07:41:46.613588",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T07:40:18Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-11-03T21:23:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T07:40:19Z"
 }

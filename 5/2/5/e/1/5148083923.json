@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0ca57803e8d17fc89bc69f3bc7049b2157f657332287140fda2ebe49cddf1283\"",
-  "Last-Modified": "Wed, 04 Nov 2026 03:01:02 GMT",
+  "ETag": "\"6b86ba7d17e6a0030d8d3302e2d1ae824f57b55fdcc1a3ea7046dbedef4c81cc\"",
+  "Last-Modified": "Wed, 04 Nov 2026 07:00:03 GMT",
   "base": {
     "repo": {
       "name": "mypy_extensions-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T07:00:02Z",
   "closed_by": null,
   "created_at": "2026-11-04T03:01:01Z",
   "draft": false,
   "e_tag": "\"60bc575ed7ffe39756bf462c285f71a1ab9af56c04aa09e2883aa8dd8b72965f\"",
   "head": {
-    "ref": "1.2.0_h74ee1f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mypy_extensions-feedstock/pull/21",
   "id": 5148083923,
   "labels": [],
-  "last_fetched": "2026-11-04T04:43:28.350618",
+  "last_fetched": "2026-11-04T07:01:54.291180",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T07:00:02Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-04T03:02:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T07:00:03Z"
 }

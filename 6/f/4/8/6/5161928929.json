@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a0230bf1783d7e17eb9f445742ef38f6e7cc644895a7041d3669aca73d99f1a0\"",
+  "Last-Modified": "Wed, 04 Nov 2026 21:35:51 GMT",
   "base": {
     "repo": {
       "name": "aws-c-http-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T21:35:47Z",
   "closed_by": null,
   "created_at": "2026-11-04T21:30:08Z",
   "draft": false,
   "e_tag": "\"aba999f2858b166e9cecaad001de5fdc6691f26f5c8086b1817f6d0838ad76ac\"",
   "head": {
-    "ref": "1.2.0_h9c4d7e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-c-http-feedstock/pull/308",
   "id": 5161928929,
   "labels": [],
-  "last_fetched": "2026-11-04T21:30:09.987786",
+  "last_fetched": "2026-11-04T21:37:10.569797",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T21:35:47Z",
   "number": 308,
-  "state": "open",
-  "updated_at": "2026-11-04T21:30:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T21:35:51Z"
 }

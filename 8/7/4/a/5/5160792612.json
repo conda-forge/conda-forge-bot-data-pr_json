@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9224b8d3aec1243f6b7223a2180f02d8c193e4f37f968a8d91c6f766c9fb1c83\"",
+  "Last-Modified": "Wed, 04 Nov 2026 20:51:02 GMT",
   "base": {
     "repo": {
       "name": "pystac-ext-render-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T20:51:01Z",
   "closed_by": null,
   "created_at": "2026-11-04T20:04:13Z",
   "draft": false,
   "e_tag": "\"13685107481311b82ec05ca6fa0c0425aba20303bbe2d1dd1df6c10e041d8f5a\"",
   "head": {
-    "ref": "2.0.1_h0d6e64"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pystac-ext-render-feedstock/pull/1",
   "id": 5160792612,
   "labels": [],
-  "last_fetched": "2026-11-04T20:04:14.818798",
+  "last_fetched": "2026-11-04T20:52:45.958555",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T20:51:01Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-04T20:04:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T20:51:02Z"
 }

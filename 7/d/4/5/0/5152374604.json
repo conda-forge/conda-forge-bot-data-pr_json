@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6d79ae65aa5aeb8380f0c0f328d3de0e05d2fd86e17ff8cf3993617673cfbf99\"",
+  "Last-Modified": "Wed, 04 Nov 2026 10:00:16 GMT",
   "base": {
     "repo": {
       "name": "dbt-redshift-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T10:00:10Z",
   "closed_by": null,
   "created_at": "2026-11-04T09:55:51Z",
   "draft": false,
   "e_tag": "\"b50b6e5a0dc2f97c798061e70fe671a9d4eb13159aa88384f2b8649fa5179abc\"",
   "head": {
-    "ref": "1.11.2_hac24b8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dbt-redshift-feedstock/pull/46",
   "id": 5152374604,
   "labels": [],
-  "last_fetched": "2026-11-04T09:55:52.229298",
+  "last_fetched": "2026-11-04T10:01:44.115132",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T10:00:10Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-11-04T09:55:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T10:00:16Z"
 }

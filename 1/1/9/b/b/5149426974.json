@@ -1,18 +1,18 @@
 {
-  "ETag": "\"24f1c3d7cc751b59ff1e94c6c6b04f64c576b91e763b00713869d6614a04a318\"",
-  "Last-Modified": "Wed, 04 Nov 2026 06:51:36 GMT",
+  "ETag": "\"07af129a98308707b43bf57c1ae9df27e4804cb8eeed7936cb788d57d80e95d6\"",
+  "Last-Modified": "Wed, 04 Nov 2026 07:25:40 GMT",
   "base": {
     "repo": {
       "name": "pyiceberg-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T07:25:36Z",
   "closed_by": null,
   "created_at": "2026-11-04T05:32:06Z",
   "draft": false,
   "e_tag": "\"8f7f5ffa0825adcbdc91003f8803d956275c93cc19e277a313a7f406be9bae35\"",
   "head": {
-    "ref": "0.11.0_hd98334"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyiceberg-core-feedstock/pull/4",
   "id": 5149426974,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/pyiceberg-core-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-04T06:52:55.099201",
+  "last_fetched": "2026-11-04T07:27:00.042406",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T07:25:36Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-04T06:51:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T07:25:40Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"4fac39e5237ff9f8369c30cd23b594e839b9cdd388c2d4522994a9ac194ce3ff\"",
+  "ETag": "W/\"ba79cd9449f6bf1fcd5ef5cc795b59041f39df6ce04077d11aae503d85255b75\"",
   "Last-Modified": "Wed, 04 Nov 2026 11:43:17 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pkgconf-feedstock/pull/32",
   "id": 5046539376,
-  "labels": [],
-  "last_fetched": "2026-11-04T11:44:43.384341",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T11:43:20.195403",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

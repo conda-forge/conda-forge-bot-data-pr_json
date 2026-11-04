@@ -1,12 +1,13 @@
 {
-  "ETag": "\"592b9eb718589c0f613d664d4411c25d1c140d07539912cadef106d0c0c25e26\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"f80389a0e83e8147e91d02d14983ef6e0ea8b03f3fb4d77c78e315555ea5ab9c\"",
+  "Last-Modified": "Wed, 04 Nov 2026 08:58:36 GMT",
   "base": {
     "repo": {
       "name": "inotify-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T08:58:35Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2021-09-21T15:34:04Z",
   "draft": false,
   "head": {
@@ -15,12 +16,12 @@
   "html_url": "https://github.com/conda-forge/inotify-tools-feedstock/pull/9",
   "id": 739087634,
   "labels": [],
-  "last_fetched": "2026-10-28T08:44:55.690104",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "last_fetched": "2026-11-04T09:00:12.798206",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 9,
-  "state": "open",
-  "updated_at": "2022-03-13T13:25:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T08:58:36Z"
 }

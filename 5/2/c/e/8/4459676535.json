@@ -1,12 +1,13 @@
 {
-  "ETag": "\"169a300005554177814d444b56e65bf3222797c653d22b9757431018c7d4015a\"",
-  "Last-Modified": "Mon, 07 Sep 2026 02:47:38 GMT",
+  "ETag": "\"74268b940cb542bead174bb92f3fb598fd8fce69e52be54beebab70f87d44be3\"",
+  "Last-Modified": "Wed, 04 Nov 2026 03:30:13 GMT",
   "base": {
     "repo": {
       "name": "kuyruk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T03:30:13Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-07T02:46:06Z",
   "draft": false,
   "e_tag": "\"c841b73234b77df5bb649acd3479aed91f84e51ad4d4197f28a3b239c2ebc7d1\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/kuyruk-feedstock/pull/46",
   "id": 4459676535,
   "labels": [],
-  "last_fetched": "2026-10-28T02:00:00.332580",
+  "last_fetched": "2026-11-04T03:31:42.799060",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-09-07T02:47:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T03:30:13Z"
 }

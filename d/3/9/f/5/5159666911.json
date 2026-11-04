@@ -1,4 +1,6 @@
 {
+  "ETag": "\"c28750ef9ddfc2f1572a80857e67fae2e93797a7975f79c805cd27e0e67d194c\"",
+  "Last-Modified": "Wed, 04 Nov 2026 18:44:06 GMT",
   "base": {
     "repo": {
       "name": "act-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/act-feedstock/pull/35",
   "id": 5159666911,
-  "labels": [],
-  "last_fetched": "2026-11-04T18:42:20.042476",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7078035855,
+      "name": "automerge",
+      "node_id": "LA_kwDOMJAD-s8AAAABpeJBjw",
+      "url": "https://api.github.com/repos/conda-forge/act-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T18:45:36.552638",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 35,
   "state": "open",
-  "updated_at": "2026-11-04T18:42:18Z"
+  "updated_at": "2026-11-04T18:44:06Z"
 }

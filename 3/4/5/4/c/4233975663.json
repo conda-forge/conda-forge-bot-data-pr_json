@@ -1,28 +1,28 @@
 {
-  "ETag": "\"43d8116330fe2ed36fdea90517bac40d8f192748f00944a1817af71284d1c85a\"",
-  "Last-Modified": "Sat, 08 Aug 2026 09:01:43 GMT",
+  "ETag": "\"0dc9b46723024d19a96766faa32998772e056d6c0f3edfb5a0286b82a2157c2e\"",
+  "Last-Modified": "Wed, 04 Nov 2026 09:32:15 GMT",
   "base": {
     "repo": {
       "name": "neper-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T09:32:15Z",
   "created_at": "2026-08-08T09:00:04Z",
   "draft": false,
   "e_tag": "\"ed6851884612cd8f172f559dc35c41587c5fcf3a6dcf658cf38dbe0a295b21f0\"",
   "head": {
-    "ref": "rebuild-gsl28-0-1_h68f67f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/neper-feedstock/pull/34",
   "id": 4233975663,
   "labels": [],
-  "last_fetched": "2026-11-02T23:29:02.476417",
+  "last_fetched": "2026-11-04T09:33:59.221315",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T09:32:15Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-08-08T09:01:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T09:32:15Z"
 }

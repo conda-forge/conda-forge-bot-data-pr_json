@@ -1,27 +1,29 @@
 {
+  "ETag": "\"14b3b77e47adb68d3692a1a0b0c5f5af40ab8cbeca085e576f30a3d44ff39e91\"",
+  "Last-Modified": "Wed, 04 Nov 2026 11:26:30 GMT",
   "base": {
     "repo": {
       "name": "pyzmq-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T11:26:29Z",
   "closed_by": null,
   "created_at": "2026-11-04T08:59:34Z",
   "draft": false,
   "e_tag": "\"98866d56641c304d040a0bd845ee907e447c40f7ea7984f354aa53a7642df6fe\"",
   "head": {
-    "ref": "27.3.0_h9142ed"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyzmq-feedstock/pull/134",
   "id": 5151698532,
   "labels": [],
-  "last_fetched": "2026-11-04T08:59:35.823434",
+  "last_fetched": "2026-11-04T11:28:05.538030",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T11:26:29Z",
   "number": 134,
-  "state": "open",
-  "updated_at": "2026-11-04T08:59:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T11:26:30Z"
 }

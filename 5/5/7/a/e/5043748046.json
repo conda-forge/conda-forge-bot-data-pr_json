@@ -1,5 +1,5 @@
 {
-  "ETag": "\"615aa5910716ac9b9c179eb127e0d91fb739529772771e4e7ed50cb7af6f8e6c\"",
+  "ETag": "W/\"5f0421e4fdfeb6644177767e9c656f076719fe44fb3fc7c4c3c41f9de4157003\"",
   "Last-Modified": "Wed, 04 Nov 2026 05:42:24 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/labbench-feedstock/pull/15",
   "id": 5043748046,
-  "labels": [],
-  "last_fetched": "2026-11-04T05:43:44.382518",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T05:42:27.477605",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

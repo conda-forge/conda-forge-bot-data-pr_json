@@ -1,27 +1,29 @@
 {
+  "ETag": "\"032f5c0486f8870c0f8abff22a8b865b08fd11286288bd6dd32beaab97eac13d\"",
+  "Last-Modified": "Wed, 04 Nov 2026 03:55:11 GMT",
   "base": {
     "repo": {
       "name": "coreforecast-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T03:55:11Z",
   "closed_by": null,
   "created_at": "2026-11-04T02:59:12Z",
   "draft": false,
   "e_tag": "\"ed8ec604bb6669f008eb2736041ce78c242dfc05afeaf13e467e349e51fbe361\"",
   "head": {
-    "ref": "0.0.20_h82b0c5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/coreforecast-feedstock/pull/30",
   "id": 5148068797,
   "labels": [],
-  "last_fetched": "2026-11-04T02:59:12.942971",
+  "last_fetched": "2026-11-04T03:56:16.678223",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T03:55:11Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-04T02:59:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T03:55:11Z"
 }

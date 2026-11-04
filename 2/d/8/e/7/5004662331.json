@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cd39746180d3b0cfedfbca0230950b217f8a49de86fc8ffb3c4f0439b50eb3ac\"",
-  "Last-Modified": "Sun, 25 Oct 2026 12:20:30 GMT",
+  "ETag": "\"0a1122ba3c0b0f192d2c8c14d31e4e6b17ffac682fd4acb3531064d2deaf5591\"",
+  "Last-Modified": "Wed, 04 Nov 2026 07:46:24 GMT",
   "base": {
     "repo": {
       "name": "pyopensky-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T07:46:24Z",
   "closed_by": null,
   "created_at": "2026-10-25T12:18:58Z",
   "draft": false,
   "e_tag": "\"72ae74199e9dee3ba27394102bc7119b5e2eeffba054be27c3078f4bb21e95a2\"",
   "head": {
-    "ref": "2.18_h189770"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyopensky-feedstock/pull/17",
   "id": 5004662331,
   "labels": [],
-  "last_fetched": "2026-11-01T13:43:02.426675",
+  "last_fetched": "2026-11-04T07:48:11.056963",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T07:46:23Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-25T12:20:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T07:46:24Z"
 }

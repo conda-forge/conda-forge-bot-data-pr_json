@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"25700337da7032dc79096321647c1639853681ee90c0d38d1f29ee53c4f6d3e4\"",
-  "Last-Modified": "Wed, 04 Nov 2026 15:14:43 GMT",
+  "ETag": "\"5bc15c4265418b1701640e5dec56900c3acffaaec70091d44a063274194a151a\"",
+  "Last-Modified": "Wed, 04 Nov 2026 19:46:27 GMT",
   "base": {
     "repo": {
       "name": "deepgram-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T19:46:27Z",
   "closed_by": null,
   "created_at": "2026-11-04T15:13:04Z",
   "draft": false,
   "e_tag": "\"531635be3cca7dc954018f10ef2f04fed769b7851b6b1d3d93b56c7d73301703\"",
   "head": {
-    "ref": "7.17.0_h43613b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deepgram-sdk-feedstock/pull/107",
   "id": 5156657320,
   "labels": [],
-  "last_fetched": "2026-11-04T16:45:32.342663",
+  "last_fetched": "2026-11-04T19:47:35.156721",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T19:46:27Z",
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-11-04T15:14:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T19:46:27Z"
 }

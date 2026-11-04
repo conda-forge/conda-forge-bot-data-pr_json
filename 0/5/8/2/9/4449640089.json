@@ -1,12 +1,13 @@
 {
-  "ETag": "\"24c25b9128b71b75f8a92c96a4340f30cc2086952e49c537f5740324d30f23d2\"",
-  "Last-Modified": "Sat, 05 Sep 2026 08:31:42 GMT",
+  "ETag": "\"3aea7a920ead6daeed0554526b603849e1d2570732d5e0986debff0407173e63\"",
+  "Last-Modified": "Wed, 04 Nov 2026 10:37:25 GMT",
   "base": {
     "repo": {
       "name": "appscript-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T10:37:25Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-05T08:30:06Z",
   "draft": false,
   "e_tag": "\"c67ab8669d123d03d5abb49d1c9b90011de99c9d24728beea6885a3b8326420d\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/appscript-feedstock/pull/30",
   "id": 4449640089,
-  "labels": [],
-  "last_fetched": "2026-11-02T03:34:16.774334",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890793608,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwNzkzNjA4",
+      "url": "https://api.github.com/repos/conda-forge/appscript-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T10:37:49.781053",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-09-05T08:31:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T10:37:25Z"
 }

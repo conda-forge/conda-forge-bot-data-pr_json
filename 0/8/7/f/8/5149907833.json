@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fb64200115f44f27b78c422bd28a4e851dd02e5880c4fee2f442a88f9aeee91b\"",
+  "Last-Modified": "Wed, 04 Nov 2026 06:25:59 GMT",
   "base": {
     "repo": {
       "name": "r-datawizard-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T06:25:55Z",
   "closed_by": null,
   "created_at": "2026-11-04T06:22:25Z",
   "draft": false,
   "e_tag": "\"64c1d58af0c3e0fcb2438d655357c627aff751eedd29a5217260de09f48cfeba\"",
   "head": {
-    "ref": "1.5.0_h2cafa8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-datawizard-feedstock/pull/42",
   "id": 5149907833,
   "labels": [],
-  "last_fetched": "2026-11-04T06:22:26.826104",
+  "last_fetched": "2026-11-04T06:27:24.641952",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T06:25:55Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-11-04T06:22:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T06:25:59Z"
 }

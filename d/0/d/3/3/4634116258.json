@@ -1,6 +1,6 @@
 {
-  "ETag": "\"df559edf18810d78aae879ec0330bc0de89d9055a579c7f7c65bbe5c5746dfc2\"",
-  "Last-Modified": "Wed, 04 Nov 2026 10:43:54 GMT",
+  "ETag": "\"591240986ebb6f676db8a3b50b217afd2755136e78b03d4ca17995681fe3533d\"",
+  "Last-Modified": "Wed, 04 Nov 2026 12:01:29 GMT",
   "base": {
     "repo": {
       "name": "google-crc32c-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/google-crc32c-feedstock/pull/38",
   "id": 4634116258,
-  "labels": [],
-  "last_fetched": "2026-11-04T10:59:02.902158",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2223089182,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMjIzMDg5MTgy",
+      "url": "https://api.github.com/repos/conda-forge/google-crc32c-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T12:02:41.749760",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 38,
   "state": "open",
-  "updated_at": "2026-11-04T10:43:54Z"
+  "updated_at": "2026-11-04T12:01:29Z"
 }

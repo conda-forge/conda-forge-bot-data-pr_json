@@ -1,18 +1,18 @@
 {
-  "ETag": "\"586d37764d36948c02db823b140641fc4ba7e62fb4965000e38b4c6cf1e675c7\"",
-  "Last-Modified": "Wed, 04 Nov 2026 11:36:12 GMT",
+  "ETag": "\"e4b3ab7c840d659cf332b24a0824acf1170b3e9a2d56faaa028f08542b36b333\"",
+  "Last-Modified": "Wed, 04 Nov 2026 11:38:00 GMT",
   "base": {
     "repo": {
       "name": "darabonba-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T11:37:56Z",
   "closed_by": null,
   "created_at": "2026-11-03T15:22:24Z",
   "draft": false,
   "e_tag": "\"5a52d934bd6748d3bee8914ef1e6f7b083114a11c75138a2ec3245c2f43cb291\"",
   "head": {
-    "ref": "1.0.10_h330f60"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/darabonba-core-feedstock/pull/8",
   "id": 5139809641,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/darabonba-core-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-04T11:37:14.030363",
+  "last_fetched": "2026-11-04T11:39:26.229284",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T11:37:56Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-04T11:36:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T11:38:00Z"
 }

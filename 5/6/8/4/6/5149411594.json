@@ -1,27 +1,29 @@
 {
+  "ETag": "\"82a966e77d515d2ef86a73b84417ac0eb841ffcedd3aeb8e867735dfe13b0c88\"",
+  "Last-Modified": "Wed, 04 Nov 2026 06:13:36 GMT",
   "base": {
     "repo": {
       "name": "napari-skimage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T06:13:36Z",
   "closed_by": null,
   "created_at": "2026-11-04T05:30:14Z",
   "draft": false,
   "e_tag": "\"0436e231e208bc27435c65cde014206bc2ca0ee03dde62a50414d106ffa0ca92\"",
   "head": {
-    "ref": "0.7.3_h65e48c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/napari-skimage-feedstock/pull/8",
   "id": 5149411594,
   "labels": [],
-  "last_fetched": "2026-11-04T05:30:16.136525",
+  "last_fetched": "2026-11-04T06:14:49.101683",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T06:13:36Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-04T05:30:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T06:13:36Z"
 }

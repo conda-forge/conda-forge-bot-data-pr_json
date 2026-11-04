@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e3ae55b7bbc51b505595f6c620aa4fe9718b6cf381ff4f274b1ffeacf9d4981e\"",
-  "Last-Modified": "Tue, 22 Sep 2026 09:32:03 GMT",
+  "ETag": "\"911baeec9f10ec92252628c7f61f4451547339805cfc73ed65bbb72fb11d87df\"",
+  "Last-Modified": "Wed, 04 Nov 2026 21:56:47 GMT",
   "base": {
     "repo": {
       "name": "databroker-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/databroker-feedstock/pull/82",
   "id": 4600464870,
-  "labels": [],
-  "last_fetched": "2026-11-04T02:32:23.658105",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890865422,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODY1NDIy",
+      "url": "https://api.github.com/repos/conda-forge/databroker-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-04T21:57:24.639758",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 82,
   "state": "open",
-  "updated_at": "2026-09-22T09:32:03Z"
+  "updated_at": "2026-11-04T21:56:47Z"
 }

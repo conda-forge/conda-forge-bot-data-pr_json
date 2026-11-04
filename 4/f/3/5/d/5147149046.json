@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c9478f32c962dbf904fc3577b955b189c27ef0d41f783e30a25cef71d9ab3beb\"",
-  "Last-Modified": "Wed, 04 Nov 2026 01:17:26 GMT",
+  "ETag": "\"82caac8d8951267b91759ec0a6797388a9fdacb6323c12c20f7b645d0810482d\"",
+  "Last-Modified": "Wed, 04 Nov 2026 06:22:28 GMT",
   "base": {
     "repo": {
       "name": "flux-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T06:22:27Z",
   "closed_by": null,
   "created_at": "2026-11-04T01:15:55Z",
   "draft": false,
   "e_tag": "\"51149a65a207a172d938459808d5236407d52b742b183fc4549f476a5467cf7e\"",
   "head": {
-    "ref": "0.91.0_h6c09e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flux-core-feedstock/pull/128",
   "id": 5147149046,
   "labels": [],
-  "last_fetched": "2026-11-04T02:21:21.278446",
+  "last_fetched": "2026-11-04T06:23:56.406692",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T06:22:27Z",
   "number": 128,
-  "state": "open",
-  "updated_at": "2026-11-04T01:17:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T06:22:28Z"
 }

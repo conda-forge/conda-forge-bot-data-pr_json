@@ -1,12 +1,13 @@
 {
-  "ETag": "\"743d72eaa48fb95011d98dad84becbd4f3f49e78bdb858d43566218a37927b72\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"0c6009e30821368040a405125ad501957f8f7991edeae6e1f0245289391319bb\"",
+  "Last-Modified": "Wed, 04 Nov 2026 14:30:26 GMT",
   "base": {
     "repo": {
       "name": "microfilm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T14:30:26Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2024-12-16T22:16:33Z",
   "draft": false,
   "e_tag": "\"e0af1447a5f462ca75e69ef5c207603e80183aaf87ef87218aeea2bf43a4fc95\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/microfilm-feedstock/pull/3",
   "id": 2238373527,
-  "labels": [],
-  "last_fetched": "2026-11-02T12:57:07.183672",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 4123045000,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOHUmgC871wKyI",
+      "url": "https://api.github.com/repos/conda-forge/microfilm-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-04T14:30:30.401363",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 3,
-  "state": "open",
-  "updated_at": "2024-12-28T11:40:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T14:30:26Z"
 }

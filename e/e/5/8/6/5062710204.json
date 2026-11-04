@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cc798e56d5d3b7cf5598d20d091a97db9acd679710a805b6165b294d32fd42d9\"",
-  "Last-Modified": "Sun, 01 Nov 2026 00:52:54 GMT",
+  "ETag": "\"1def781c179f49ef6b48ad9e3c6511f43d3af1a2a26e3d499e1838f4a6b30a20\"",
+  "Last-Modified": "Wed, 04 Nov 2026 06:56:31 GMT",
   "base": {
     "repo": {
       "name": "cylp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T06:56:31Z",
   "closed_by": null,
   "created_at": "2026-10-29T05:20:46Z",
   "draft": false,
   "e_tag": "\"f68e428a9174a83babf67595bf235e71abb6be46b56cadc351a43bad885c497f\"",
   "head": {
-    "ref": "0.94.1_h1b4290"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cylp-feedstock/pull/11",
   "id": 5062710204,
   "labels": [],
-  "last_fetched": "2026-11-01T02:32:40.887301",
+  "last_fetched": "2026-11-04T06:58:18.693077",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-04T06:56:31Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-01T00:52:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T06:56:31Z"
 }

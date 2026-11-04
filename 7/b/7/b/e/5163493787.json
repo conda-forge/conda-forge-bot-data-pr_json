@@ -1,27 +1,29 @@
 {
+  "ETag": "\"72b46306deade340c4e328c348ebbd89c990da7702c274a246c7b23c869c92a1\"",
+  "Last-Modified": "Wed, 04 Nov 2026 23:48:20 GMT",
   "base": {
     "repo": {
       "name": "mypy_boto3_dynamodb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-04T23:48:16Z",
   "closed_by": null,
   "created_at": "2026-11-04T23:46:26Z",
   "draft": false,
   "e_tag": "\"8b68a470af6c59d01f7329d88ab8fd1597c85b32c9861f84494f2cd80a5c7116\"",
   "head": {
-    "ref": "1.43.124_h1fbab3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mypy_boto3_dynamodb-feedstock/pull/238",
   "id": 5163493787,
   "labels": [],
-  "last_fetched": "2026-11-04T23:46:27.428605",
+  "last_fetched": "2026-11-04T23:49:25.894895",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-04T23:48:16Z",
   "number": 238,
-  "state": "open",
-  "updated_at": "2026-11-04T23:46:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-04T23:48:20Z"
 }

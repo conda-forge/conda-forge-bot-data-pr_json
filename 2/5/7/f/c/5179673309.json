@@ -1,18 +1,18 @@
 {
-  "ETag": "\"bc348ba04bef64eefe36bbae006e283d9e1e7e0e192de9ced1e9ae99667ca9f5\"",
-  "Last-Modified": "Thu, 05 Nov 2026 22:56:08 GMT",
+  "ETag": "\"f50be3ed948203918a55eff49f38291d3eaa58b7ef20d43f22bc7e3c30803b8b\"",
+  "Last-Modified": "Thu, 05 Nov 2026 23:01:36 GMT",
   "base": {
     "repo": {
       "name": "nepenthe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T23:01:30Z",
   "closed_by": null,
   "created_at": "2026-11-05T22:27:39Z",
   "draft": false,
   "e_tag": "\"029452faa43ff51a49db6b1b26412c5cfcabb138c7799ca2409fe3d442797426\"",
   "head": {
-    "ref": "0.2.3_hc1d413"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nepenthe-feedstock/pull/12",
   "id": 5179673309,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/nepenthe-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-05T22:57:37.200574",
+  "last_fetched": "2026-11-05T23:02:57.198188",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T23:01:30Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-05T22:56:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T23:01:36Z"
 }

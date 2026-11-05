@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b6102ba81b23f7383a3593f3da8b64771fd76cc83033f0c882e63662ff1f369f\"",
+  "Last-Modified": "Thu, 05 Nov 2026 22:37:13 GMT",
   "base": {
     "repo": {
       "name": "cvat-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T22:37:12Z",
   "closed_by": null,
   "created_at": "2026-11-05T22:34:55Z",
   "draft": false,
   "e_tag": "\"a7c591961619a663d93bed92902e14e2c30b2f04188d9a7d97626cb47be5a32e\"",
   "head": {
-    "ref": "2.82.0_h19fe04"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cvat-sdk-feedstock/pull/85",
   "id": 5179751457,
   "labels": [],
-  "last_fetched": "2026-11-05T22:34:55.999560",
+  "last_fetched": "2026-11-05T22:38:38.458592",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T22:37:12Z",
   "number": 85,
-  "state": "open",
-  "updated_at": "2026-11-05T22:34:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T22:37:18Z"
 }

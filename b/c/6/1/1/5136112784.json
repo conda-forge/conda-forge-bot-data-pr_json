@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ee9f273275e0f54ce84717b0a4a06a5aebfd4bad7c7f30b764de06ca93d75823\"",
-  "Last-Modified": "Tue, 03 Nov 2026 11:05:56 GMT",
+  "ETag": "\"2355e428fad8b333aad9c96bc1b769abfde731bb2fc07149353441b6dc29209a\"",
+  "Last-Modified": "Thu, 05 Nov 2026 08:36:45 GMT",
   "base": {
     "repo": {
       "name": "pyarrow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T08:36:45Z",
   "closed_by": null,
   "created_at": "2026-11-03T11:04:20Z",
   "draft": false,
   "e_tag": "\"e7a2a9d711c89f5fdbe4d7ab7ec3bceed1af367db7d83b909121515ae59ad358\"",
   "head": {
-    "ref": "26.0.1_h985b24"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyarrow-feedstock/pull/191",
   "id": 5136112784,
   "labels": [],
-  "last_fetched": "2026-11-03T11:43:16.326987",
+  "last_fetched": "2026-11-05T08:37:57.749675",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T08:36:45Z",
   "number": 191,
-  "state": "open",
-  "updated_at": "2026-11-03T11:05:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T08:36:45Z"
 }

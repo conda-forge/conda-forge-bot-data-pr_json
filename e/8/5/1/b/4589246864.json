@@ -1,28 +1,28 @@
 {
-  "ETag": "\"04f7b3695b7c8144a529191ca8d1dfbb520746336bb1122150718a83485a8ca5\"",
-  "Last-Modified": "Mon, 21 Sep 2026 08:03:51 GMT",
+  "ETag": "\"bfc2e76166154908ee7bd817cda160f30bfc08efc27a860ca4c82dd2b2817426\"",
+  "Last-Modified": "Thu, 05 Nov 2026 16:36:40 GMT",
   "base": {
     "repo": {
       "name": "tensorstore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T16:36:40Z",
   "created_at": "2026-09-21T08:02:01Z",
   "draft": false,
   "e_tag": "\"cd628c345bad134110fc15849a51108e003c9ae56de869951cce7f39b6bd233b\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hdb82d7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tensorstore-feedstock/pull/86",
   "id": 4589246864,
   "labels": [],
-  "last_fetched": "2026-11-03T01:03:36.197463",
+  "last_fetched": "2026-11-05T16:37:53.273321",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T16:36:40Z",
   "number": 86,
-  "state": "open",
-  "updated_at": "2026-09-21T08:03:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T16:36:40Z"
 }

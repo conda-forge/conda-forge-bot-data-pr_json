@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4ea018e4832861fd42e4f0f22fc9aed7527fee79c4f422360c1df1d5c4d142d8\"",
+  "Last-Modified": "Thu, 05 Nov 2026 11:23:43 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-litellm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T11:23:43Z",
   "closed_by": null,
   "created_at": "2026-11-05T11:21:45Z",
   "draft": false,
   "e_tag": "\"5ba3e6943f4769f4198e8130049a2a1c64f63f34d37ddf9cb28ee9e222e70630\"",
   "head": {
-    "ref": "0.63.0_h6e95f5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-litellm-feedstock/pull/11",
   "id": 5170685096,
   "labels": [],
-  "last_fetched": "2026-11-05T11:21:47.733140",
+  "last_fetched": "2026-11-05T11:25:22.324637",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T11:23:43Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-05T11:21:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T11:23:48Z"
 }

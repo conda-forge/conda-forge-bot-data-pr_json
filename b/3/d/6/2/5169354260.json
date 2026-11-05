@@ -1,29 +1,29 @@
 {
-  "ETag": "\"95b7fe04766fc9c6f9d185c60279d5db6bfd3cb1b913fd59be15ca7e0e71f912\"",
-  "Last-Modified": "Thu, 05 Nov 2026 09:40:11 GMT",
+  "ETag": "\"201a73ab1556500c0367251f16b02a8c33f9cd5b0b0e69ccabb94f835ba5dac7\"",
+  "Last-Modified": "Thu, 05 Nov 2026 13:50:09 GMT",
   "base": {
     "repo": {
       "name": "jax-rrtmgp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T13:50:09Z",
   "closed_by": null,
   "created_at": "2026-11-05T09:38:43Z",
   "draft": false,
   "e_tag": "\"ff1382e594577de403ec9b53e82e94e58ed4ad30d1360a48485d0d1d46e2363c\"",
   "head": {
-    "ref": "0.6.0_h2a221f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jax-rrtmgp-feedstock/pull/5",
   "id": 5169354260,
   "labels": [],
-  "last_fetched": "2026-11-05T13:27:46.262972",
+  "last_fetched": "2026-11-05T13:51:20.872772",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T13:50:09Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-05T09:40:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T13:50:09Z"
 }

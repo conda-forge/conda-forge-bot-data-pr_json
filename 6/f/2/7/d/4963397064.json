@@ -1,13 +1,13 @@
 {
-  "ETag": "\"8ed9ee383101edc6dc0b2206f4c94265386bf320acb53a77ab9bc34138ee7e1d\"",
-  "Last-Modified": "Thu, 22 Oct 2026 06:58:47 GMT",
+  "ETag": "\"29c580f8ff8bada4002f90402f709fa2c00ed257e9931ba7912998baf349aad5\"",
+  "Last-Modified": "Thu, 05 Nov 2026 17:00:03 GMT",
   "base": {
     "repo": {
       "name": "frozendict-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-05T17:00:03Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-22T06:57:22Z",
   "draft": false,
   "e_tag": "\"05f4c9e0c75da330a507d6d1fd776a124acce809f8bd1e96c04b61fd48c61790\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/frozendict-feedstock/pull/75",
   "id": 4963397064,
   "labels": [],
-  "last_fetched": "2026-10-29T12:58:30.462652",
+  "last_fetched": "2026-11-05T17:01:33.400693",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-10-22T06:58:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T17:00:03Z"
 }

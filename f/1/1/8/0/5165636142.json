@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f512e1c1f646e2f12544cfd6f335c4cd4698cf286e5f1f642fc79ff4b965fe3a\"",
+  "Last-Modified": "Thu, 05 Nov 2026 03:33:07 GMT",
   "base": {
     "repo": {
       "name": "soupsieve-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T03:33:02Z",
   "closed_by": null,
   "created_at": "2026-11-05T03:29:27Z",
   "draft": false,
   "e_tag": "\"12287f77deb8b155a1e919b968e7f710196b8b245327f3b5fd3e20f80baae5a0\"",
   "head": {
-    "ref": "4.0.1_he2c08e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/soupsieve-feedstock/pull/61",
   "id": 5165636142,
   "labels": [],
-  "last_fetched": "2026-11-05T03:29:28.761392",
+  "last_fetched": "2026-11-05T03:34:32.355015",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T03:33:02Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-05T03:29:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T03:33:07Z"
 }

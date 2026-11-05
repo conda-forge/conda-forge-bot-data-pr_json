@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4db35232b87da90bc18443c3e18b6c22006eb3d6be74933670bb4cb6e720dcba\"",
-  "Last-Modified": "Thu, 05 Nov 2026 00:07:58 GMT",
+  "ETag": "\"bbb14f22f4b397b910da22889eb043f18fdd22ea98cc50533e74ea2bdb941851\"",
+  "Last-Modified": "Thu, 05 Nov 2026 12:09:55 GMT",
   "base": {
     "repo": {
       "name": "bilby.cython-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T12:09:55Z",
   "closed_by": null,
   "created_at": "2026-11-05T00:06:29Z",
   "draft": false,
   "e_tag": "\"dae517e23d494376be70dbfb26cfbb721a8b39ffc05edd3857c0686abfd8ab4f\"",
   "head": {
-    "ref": "0.6.0_h9bfac5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bilby.cython-feedstock/pull/28",
   "id": 5163693764,
   "labels": [],
-  "last_fetched": "2026-11-05T00:52:48.514857",
+  "last_fetched": "2026-11-05T12:11:30.495832",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T12:09:55Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-05T00:07:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T12:09:55Z"
 }

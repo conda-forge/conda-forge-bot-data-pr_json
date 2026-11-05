@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3956e1fce81e192ea194a5184a3bbdb68267e0d36a1ca6891f8618076b8b1a05\"",
-  "Last-Modified": "Mon, 02 Nov 2026 05:24:05 GMT",
+  "ETag": "\"bd4e33f3fe4f145e93b67bebc0890e34614afdd27cb6f3db43bdb0f0b3c40047\"",
+  "Last-Modified": "Thu, 05 Nov 2026 22:00:02 GMT",
   "base": {
     "repo": {
       "name": "goatools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T22:00:02Z",
   "closed_by": null,
   "created_at": "2026-11-02T05:22:39Z",
   "draft": false,
   "e_tag": "\"e1a691305e28f8879cef2296999ba0fa01c47677f9409b5765b24a2e7b7c69bf\"",
   "head": {
-    "ref": "1.6.9_h181c63"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/goatools-feedstock/pull/30",
   "id": 5115410266,
   "labels": [],
-  "last_fetched": "2026-11-02T07:30:39.223252",
+  "last_fetched": "2026-11-05T22:01:18.507571",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T22:00:02Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-02T05:24:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T22:00:02Z"
 }

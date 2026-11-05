@@ -1,18 +1,18 @@
 {
-  "ETag": "\"2d30e43f4113b6cc81b2cd578e27f7d43750bfcf4830e71004b10eef65f0d156\"",
-  "Last-Modified": "Thu, 05 Nov 2026 00:43:08 GMT",
+  "ETag": "\"dbb4626f4eef633ed73dacb94973d8f27c0eff27ab905965baffc1785d08833f\"",
+  "Last-Modified": "Thu, 05 Nov 2026 01:25:53 GMT",
   "base": {
     "repo": {
       "name": "quadrants-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T01:25:51Z",
   "closed_by": null,
   "created_at": "2026-11-04T21:32:01Z",
   "draft": false,
   "e_tag": "\"51ad876847619ce2da1cf7990913f33f07630b51b383c449f5613c6bcd461214\"",
   "head": {
-    "ref": "1.4.0_h59b147"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/quadrants-feedstock/pull/9",
   "id": 5161951960,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/quadrants-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-05T00:44:37.481893",
+  "last_fetched": "2026-11-05T01:27:23.838435",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T01:25:51Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-05T00:43:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T01:25:53Z"
 }

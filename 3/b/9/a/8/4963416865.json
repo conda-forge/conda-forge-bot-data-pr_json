@@ -1,5 +1,5 @@
 {
-  "ETag": "\"5422a74fe80b959d2f7d9897c84d1422494d65c0c98dcd2799de57e989a8fb7c\"",
+  "ETag": "W/\"5b23dbeadc175da364e40410704107d83fdca0f14670991a3d29a3c8305b549b\"",
   "Last-Modified": "Thu, 05 Nov 2026 17:57:01 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/frozendict-feedstock/pull/76",
   "id": 4963416865,
-  "labels": [],
-  "last_fetched": "2026-11-05T17:58:09.861008",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-05T17:57:03.624572",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

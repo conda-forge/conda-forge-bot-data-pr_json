@@ -1,27 +1,29 @@
 {
+  "ETag": "\"804e0925e1ac198b9c54ea29a6ffab056466af899209b317b464a712cf13f73e\"",
+  "Last-Modified": "Thu, 05 Nov 2026 07:15:00 GMT",
   "base": {
     "repo": {
       "name": "cargo-zigbuild-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T07:14:55Z",
   "closed_by": null,
   "created_at": "2026-11-05T07:09:15Z",
   "draft": false,
   "e_tag": "\"7551673811c4c991d795358fe65758e812234384721a72f4e691a35bb1853989\"",
   "head": {
-    "ref": "0.24.1_h81a471"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cargo-zigbuild-feedstock/pull/22",
   "id": 5167614866,
   "labels": [],
-  "last_fetched": "2026-11-05T07:09:16.563002",
+  "last_fetched": "2026-11-05T07:16:22.315419",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T07:14:55Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-05T07:09:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T07:15:00Z"
 }

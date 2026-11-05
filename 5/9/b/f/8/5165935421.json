@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bb395ba20018a720ea3074523dc15011b39b5419f00783bd28402897165abcc7\"",
+  "Last-Modified": "Thu, 05 Nov 2026 04:18:14 GMT",
   "base": {
     "repo": {
       "name": "ptufile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T04:18:14Z",
   "closed_by": null,
   "created_at": "2026-11-05T04:04:28Z",
   "draft": false,
   "e_tag": "\"ce2bbe584a454f2170b5751e47de91d8e8dbc77cd579d91c24013369683d5714\"",
   "head": {
-    "ref": "2026.11.5_h92c125"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ptufile-feedstock/pull/24",
   "id": 5165935421,
   "labels": [],
-  "last_fetched": "2026-11-05T04:04:29.583817",
+  "last_fetched": "2026-11-05T04:20:08.394788",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T04:18:14Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-11-05T04:04:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T04:18:14Z"
 }

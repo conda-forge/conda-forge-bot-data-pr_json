@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3fe7ed79a4850456b1a0a0d224724717020a5c6155cea3d593848afe82304aa9\"",
+  "Last-Modified": "Thu, 05 Nov 2026 18:28:40 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-chromadb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T18:28:36Z",
   "closed_by": null,
   "created_at": "2026-11-05T18:24:08Z",
   "draft": false,
   "e_tag": "\"79adad71d0d25334cc7c821a58350cd37c361b8ca8b3f937db1868b2e917fb28\"",
   "head": {
-    "ref": "0.63.0_h3326b3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-chromadb-feedstock/pull/90",
   "id": 5176558342,
   "labels": [],
-  "last_fetched": "2026-11-05T18:24:09.706315",
+  "last_fetched": "2026-11-05T18:29:42.507702",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T18:28:36Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-11-05T18:24:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T18:28:40Z"
 }

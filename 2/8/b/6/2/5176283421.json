@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a54364fc1729ac485337b97e812e35c448a1c862f8ec7583d178050b1f7c7ae9\"",
-  "Last-Modified": "Thu, 05 Nov 2026 20:19:32 GMT",
+  "ETag": "\"c8aa23ace1d4f281ce4a271381f60a907a776b3932d8f1297342bb21aac3dbd9\"",
+  "Last-Modified": "Thu, 05 Nov 2026 20:52:06 GMT",
   "base": {
     "repo": {
       "name": "xclim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T20:52:06Z",
   "closed_by": null,
   "created_at": "2026-11-05T18:02:58Z",
   "draft": false,
   "e_tag": "\"33a19bc57f7b48397f99c725599730533613a3a4c8cd23c5bcf30acd265bdc5a\"",
   "head": {
-    "ref": "1.0.0_h913839"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xclim-feedstock/pull/105",
   "id": 5176283421,
   "labels": [],
-  "last_fetched": "2026-11-05T20:42:41.379017",
+  "last_fetched": "2026-11-05T20:53:33.959157",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T20:52:06Z",
   "number": 105,
-  "state": "open",
-  "updated_at": "2026-11-05T20:19:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T20:52:06Z"
 }

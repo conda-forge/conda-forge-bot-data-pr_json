@@ -1,6 +1,6 @@
 {
-  "ETag": "\"afc9255beca84c012886be46fc0b1c57ce9ebdfea44e11a27c1253a4c91d54e9\"",
-  "Last-Modified": "Thu, 05 Nov 2026 22:29:11 GMT",
+  "ETag": "\"bc348ba04bef64eefe36bbae006e283d9e1e7e0e192de9ced1e9ae99667ca9f5\"",
+  "Last-Modified": "Thu, 05 Nov 2026 22:56:08 GMT",
   "base": {
     "repo": {
       "name": "nepenthe-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/nepenthe-feedstock/pull/12",
   "id": 5179673309,
-  "labels": [],
-  "last_fetched": "2026-11-05T22:42:36.938687",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11955276494,
+      "name": "automerge",
+      "node_id": "LA_kwDOUEBOI88AAAACyJcKzg",
+      "url": "https://api.github.com/repos/conda-forge/nepenthe-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-05T22:57:37.200574",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 12,
   "state": "open",
-  "updated_at": "2026-11-05T22:29:11Z"
+  "updated_at": "2026-11-05T22:56:08Z"
 }

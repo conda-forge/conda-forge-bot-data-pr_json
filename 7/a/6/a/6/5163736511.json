@@ -1,29 +1,29 @@
 {
-  "ETag": "\"be6bc6d5aa42abbf99de35d77bc7974d153f52b514b72c73da25a08c3275365a\"",
-  "Last-Modified": "Thu, 05 Nov 2026 00:12:15 GMT",
+  "ETag": "\"db727cc8c23c5c7e2ec78f204693fdeb3a464e92f397f1e127caffca2d40297d\"",
+  "Last-Modified": "Thu, 05 Nov 2026 17:18:01 GMT",
   "base": {
     "repo": {
       "name": "gcloud-aio-auth-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T17:18:01Z",
   "closed_by": null,
   "created_at": "2026-11-05T00:10:35Z",
   "draft": false,
   "e_tag": "\"5e7b199c88b7cecd96c63c38cb1bc9370e35a9ff7c756523d51e4d88805663cd\"",
   "head": {
-    "ref": "5.6.1_h27f007"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gcloud-aio-auth-feedstock/pull/27",
   "id": 5163736511,
   "labels": [],
-  "last_fetched": "2026-11-05T02:31:30.201077",
+  "last_fetched": "2026-11-05T22:43:21.489066",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T17:18:01Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-11-05T00:12:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T17:18:01Z"
 }

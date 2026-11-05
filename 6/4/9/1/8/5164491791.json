@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0101810cca1d9ed18a9d66c11d9a83a19e4d8b794b02d4af7e43d86f03a57c29\"",
+  "Last-Modified": "Thu, 05 Nov 2026 01:38:50 GMT",
   "base": {
     "repo": {
       "name": "pnpm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T01:38:45Z",
   "closed_by": null,
   "created_at": "2026-11-05T01:28:59Z",
   "draft": false,
   "e_tag": "\"df8f857f95d18f7fa10558304c2ed8e1472a012040d86137347aeb26efea704a\"",
   "head": {
-    "ref": "12.18.0_h5b85d8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pnpm-feedstock/pull/253",
   "id": 5164491791,
   "labels": [],
-  "last_fetched": "2026-11-05T01:29:00.060391",
+  "last_fetched": "2026-11-05T01:40:19.303805",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T01:38:45Z",
   "number": 253,
-  "state": "open",
-  "updated_at": "2026-11-05T01:28:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T01:38:50Z"
 }

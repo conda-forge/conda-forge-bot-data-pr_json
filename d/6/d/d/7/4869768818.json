@@ -1,5 +1,5 @@
 {
-  "ETag": "\"1d47cbcb5a168f735e67b831132094d50217e8cb7a5865850c55fbb7e91f94ce\"",
+  "ETag": "\"deb5314c7247aabd788b8ecc342cea4a8bda316e3fce07f680c5e83ab4f90c76\"",
   "Last-Modified": "Thu, 15 Oct 2026 07:28:33 GMT",
   "base": {
     "repo": {
@@ -12,15 +12,19 @@
   "draft": false,
   "e_tag": "\"fb8722dc0c956468d510f3b3af749704e2e8d76cf85b6aab56cf62e610431e4e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hc2fd92"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xaitk-saliency-feedstock/pull/29",
   "id": 4869768818,
-  "labels": [],
-  "last_fetched": "2026-10-29T21:43:39.601026",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-05T21:58:30.418884",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 29,

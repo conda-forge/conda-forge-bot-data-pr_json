@@ -1,12 +1,13 @@
 {
-  "ETag": "\"89ba52ba85f30d2f20a56e59d40c9a2765c069e7db199eb61fd5af6f0f0b846f\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"d475955c0655931e9d5407b2dc6fc7783d925f808e7439c4d9077c0042e012fe\"",
+  "Last-Modified": "Thu, 05 Nov 2026 11:14:30 GMT",
   "base": {
     "repo": {
       "name": "codechecker-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T11:14:30Z",
+  "closed_by": "wolfv",
   "created_at": "2025-10-07T10:11:28Z",
   "draft": false,
   "e_tag": "\"48569f8bcb82f28d9f58f892f04363849c5b7eb052a7ebf74ee483c35536a1f0\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/codechecker-feedstock/pull/23",
   "id": 2893414678,
   "labels": [],
-  "last_fetched": "2026-11-02T00:57:36.884211",
+  "last_fetched": "2026-11-05T11:15:48.889653",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 23,
-  "state": "open",
-  "updated_at": "2025-10-07T10:13:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T11:14:30Z"
 }

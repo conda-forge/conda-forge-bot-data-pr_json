@@ -1,29 +1,29 @@
 {
-  "ETag": "\"45e11c057f37116c6c78e81d16fb5e84a9fbc2157611b738ead7ca7517e87bc6\"",
-  "Last-Modified": "Thu, 05 Nov 2026 00:21:18 GMT",
+  "ETag": "\"a47ff2ab9c8179706a02f0169c6f1779a41a0ab646a275b9e34ed53354a77edf\"",
+  "Last-Modified": "Thu, 05 Nov 2026 05:00:31 GMT",
   "base": {
     "repo": {
       "name": "pathsim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T05:00:31Z",
   "closed_by": null,
   "created_at": "2026-11-05T00:21:17Z",
   "draft": false,
   "e_tag": "\"4a94aa2f90302258959f0a84f7009401165b33fba8a04cb19607f715440e1bd9\"",
   "head": {
-    "ref": "0.30.0_h2b3329"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pathsim-feedstock/pull/38",
   "id": 5163841488,
   "labels": [],
-  "last_fetched": "2026-11-05T00:39:25.139444",
+  "last_fetched": "2026-11-05T05:02:03.481464",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T05:00:31Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-05T00:22:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T05:00:31Z"
 }

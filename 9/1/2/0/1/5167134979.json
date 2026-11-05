@@ -1,29 +1,29 @@
 {
-  "ETag": "\"59a46d3507e9b9acffcc5002b690772e9253e52fc510c5821c28a26565e7c439\"",
-  "Last-Modified": "Thu, 05 Nov 2026 06:21:40 GMT",
+  "ETag": "\"e8618ad9e917a7d3cb6d25e1fc072ed934677440b5fc0bf0562af2d118b7ef3b\"",
+  "Last-Modified": "Thu, 05 Nov 2026 06:32:48 GMT",
   "base": {
     "repo": {
       "name": "r-stanheaders-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T06:32:44Z",
   "closed_by": null,
   "created_at": "2026-11-05T06:20:08Z",
   "draft": false,
   "e_tag": "\"97d95ddcba4e40ecdfadaff09be3a03320048ef019ae90e3a16e77e3bbaad490\"",
   "head": {
-    "ref": "2.39.1.1_hbe687b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-stanheaders-feedstock/pull/42",
   "id": 5167134979,
   "labels": [],
-  "last_fetched": "2026-11-05T06:26:40.375252",
+  "last_fetched": "2026-11-05T06:34:25.318852",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T06:32:44Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-11-05T06:21:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T06:32:48Z"
 }

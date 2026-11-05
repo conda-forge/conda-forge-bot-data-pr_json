@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2c0c080a6bd9c58b7726bcea5d182fb58c8a1364d5efbe412f4f6db346e07c41\"",
+  "Last-Modified": "Thu, 05 Nov 2026 07:16:42 GMT",
   "base": {
     "repo": {
       "name": "ansible-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T07:16:38Z",
   "closed_by": null,
   "created_at": "2026-11-05T07:08:11Z",
   "draft": false,
   "e_tag": "\"90ea7d7b87918e812274f9a0ff6aa3ed572262b728931f870abb604f47684974\"",
   "head": {
-    "ref": "14.6.0_h42bcd6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ansible-feedstock/pull/195",
   "id": 5167603464,
   "labels": [],
-  "last_fetched": "2026-11-05T07:08:12.759542",
+  "last_fetched": "2026-11-05T07:18:05.471592",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T07:16:38Z",
   "number": 195,
-  "state": "open",
-  "updated_at": "2026-11-05T07:08:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T07:16:42Z"
 }

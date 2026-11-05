@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5c7623ada67eb00ff196ade46942c5f52cf2e4db5fd7fc0c7785906b6a42e075\"",
+  "Last-Modified": "Thu, 05 Nov 2026 04:40:51 GMT",
   "base": {
     "repo": {
       "name": "angular-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T04:40:51Z",
   "closed_by": null,
   "created_at": "2026-11-05T04:38:47Z",
   "draft": false,
   "e_tag": "\"5aff279aad8026c739edff57458f32ea00cfb25f18bb41004a13a3520bd01e4d\"",
   "head": {
-    "ref": "22.2.6_h848e49"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/angular-cli-feedstock/pull/104",
   "id": 5166225802,
   "labels": [],
-  "last_fetched": "2026-11-05T04:38:48.327901",
+  "last_fetched": "2026-11-05T04:42:15.646386",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T04:40:51Z",
   "number": 104,
-  "state": "open",
-  "updated_at": "2026-11-05T04:38:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T04:40:56Z"
 }

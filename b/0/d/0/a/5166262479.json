@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a3074cf89cf1867bfcab1cd8eca8248259b10e4677c32e612cadf6c610057ae2\"",
+  "Last-Modified": "Thu, 05 Nov 2026 04:47:52 GMT",
   "base": {
     "repo": {
       "name": "melange-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T04:47:46Z",
   "closed_by": null,
   "created_at": "2026-11-05T04:43:02Z",
   "draft": false,
   "e_tag": "\"7da78341705a4f8864b6c4df5a059870b020f7165afb0ce78ed339a6cccb9507\"",
   "head": {
-    "ref": "0.10.2_hc575d5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/melange-feedstock/pull/14",
   "id": 5166262479,
   "labels": [],
-  "last_fetched": "2026-11-05T04:43:03.236364",
+  "last_fetched": "2026-11-05T04:48:50.728411",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T04:47:46Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-05T04:43:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T04:47:52Z"
 }

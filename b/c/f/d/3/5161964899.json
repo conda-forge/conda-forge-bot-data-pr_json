@@ -1,18 +1,18 @@
 {
-  "ETag": "\"e0e98c20805c8715e0893e2660ab42e31ce4556db94f6150966faf62ca5f5173\"",
-  "Last-Modified": "Thu, 05 Nov 2026 00:48:41 GMT",
+  "ETag": "\"a20e62b153719024f40f3857b569e337369296ab5913cec9d120677791bdbedf\"",
+  "Last-Modified": "Thu, 05 Nov 2026 01:21:26 GMT",
   "base": {
     "repo": {
       "name": "librerun-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T01:21:22Z",
   "closed_by": null,
   "created_at": "2026-11-04T21:33:07Z",
   "draft": false,
   "e_tag": "\"ba17545b5b26de9a8f6941adb72e56a8b3f23c02f9a746c57ce98136d88093be\"",
   "head": {
-    "ref": "0.42.0_h6dbfbc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/librerun-sdk-feedstock/pull/98",
   "id": 5161964899,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/librerun-sdk-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-05T00:50:22.254863",
+  "last_fetched": "2026-11-05T01:22:53.309848",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T01:21:22Z",
   "number": 98,
-  "state": "open",
-  "updated_at": "2026-11-05T00:48:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T01:21:26Z"
 }

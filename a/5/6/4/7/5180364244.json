@@ -1,4 +1,6 @@
 {
+  "ETag": "\"ced42884e18a5b9b50bd98c3e58536ed1de70101cecd52d0a4adda52293e8a76\"",
+  "Last-Modified": "Thu, 05 Nov 2026 23:39:59 GMT",
   "base": {
     "repo": {
       "name": "vtk-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/vtk-feedstock/pull/463",
   "id": 5180364244,
-  "labels": [],
-  "last_fetched": "2026-11-05T23:37:06.031623",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891425800,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDI1ODAw",
+      "url": "https://api.github.com/repos/conda-forge/vtk-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-05T23:41:54.261213",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 463,
   "state": "open",
-  "updated_at": "2026-11-05T23:37:04Z"
+  "updated_at": "2026-11-05T23:39:59Z"
 }

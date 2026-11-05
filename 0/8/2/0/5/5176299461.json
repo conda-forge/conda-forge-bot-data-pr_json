@@ -1,18 +1,18 @@
 {
-  "ETag": "\"82b5700eb321a3919e8639d11363902644dbbf095da114adefa620bbc7237970\"",
-  "Last-Modified": "Thu, 05 Nov 2026 18:05:49 GMT",
+  "ETag": "\"feb12b6cce50cd496b3e214c00bd7a0a900f39dda10f7f4153d0a44b59dd093c\"",
+  "Last-Modified": "Thu, 05 Nov 2026 18:36:34 GMT",
   "base": {
     "repo": {
       "name": "typst-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T18:36:29Z",
   "closed_by": null,
   "created_at": "2026-11-05T18:04:12Z",
   "draft": false,
   "e_tag": "\"2e3080552f8b7151914b4cd98e29d59da5fe08b6a7e06225f39a55f6e897afcf\"",
   "head": {
-    "ref": "0.15.2_h991a06"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/typst-py-feedstock/pull/46",
   "id": 5176299461,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/typst-py-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-05T18:07:08.805007",
+  "last_fetched": "2026-11-05T18:37:59.524233",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T18:36:29Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-11-05T18:05:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T18:36:34Z"
 }

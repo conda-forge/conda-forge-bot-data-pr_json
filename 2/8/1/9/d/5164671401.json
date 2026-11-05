@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b0e400242a01ea15edca2d26ee76c84af564058f680bba14eb66ae1fe7800677\"",
+  "Last-Modified": "Thu, 05 Nov 2026 01:50:31 GMT",
   "base": {
     "repo": {
       "name": "metro-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T01:50:27Z",
   "closed_by": null,
   "created_at": "2026-11-05T01:48:16Z",
   "draft": false,
   "e_tag": "\"4a519a2c71a733b3a6564b83198fcc6eb7aca102ea15bc9c46d0a57aa61b26f2\"",
   "head": {
-    "ref": "0.87.3_h81c1a9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/metro-feedstock/pull/27",
   "id": 5164671401,
   "labels": [],
-  "last_fetched": "2026-11-05T01:48:17.096015",
+  "last_fetched": "2026-11-05T01:52:01.286891",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T01:50:27Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-11-05T01:48:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T01:50:31Z"
 }

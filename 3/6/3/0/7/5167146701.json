@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c9944458125fb3466fd53a06129d1c4eb75b3bb6e071391bcb82ff0223a31029\"",
+  "Last-Modified": "Thu, 05 Nov 2026 06:25:30 GMT",
   "base": {
     "repo": {
       "name": "r-ggchangepoint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T06:25:26Z",
   "closed_by": null,
   "created_at": "2026-11-05T06:21:21Z",
   "draft": false,
   "e_tag": "\"f50da4ddc3b53d13db6c01f1327892943809712e874daa96a9c31bac706bdf1c\"",
   "head": {
-    "ref": "0.7.0_hb52e97"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-ggchangepoint-feedstock/pull/9",
   "id": 5167146701,
   "labels": [],
-  "last_fetched": "2026-11-05T06:21:22.441962",
+  "last_fetched": "2026-11-05T06:26:36.272480",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T06:25:26Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-05T06:21:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T06:25:30Z"
 }

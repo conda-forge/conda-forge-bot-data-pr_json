@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a30cc6958877183e315bcb52b08ccad34a64c607899e1c5ba5bc22c9e00026d2\"",
+  "Last-Modified": "Thu, 05 Nov 2026 13:54:35 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-anthropic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T13:54:31Z",
   "closed_by": null,
   "created_at": "2026-11-05T13:51:24Z",
   "draft": false,
   "e_tag": "\"0014c9224b568e548b3732cc10b21d44187a38d38a022e7a834316b68fd77c4e\"",
   "head": {
-    "ref": "0.63.0_he177fb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-anthropic-feedstock/pull/86",
   "id": 5172669023,
   "labels": [],
-  "last_fetched": "2026-11-05T13:51:25.715255",
+  "last_fetched": "2026-11-05T13:55:55.697542",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T13:54:31Z",
   "number": 86,
-  "state": "open",
-  "updated_at": "2026-11-05T13:51:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T13:54:35Z"
 }

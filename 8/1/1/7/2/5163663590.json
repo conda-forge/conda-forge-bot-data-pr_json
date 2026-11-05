@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c4e84ea3c1f0b85870f8921aa1e377eee822d0ddd3f526cc9326f63b76627dd5\"",
+  "Last-Modified": "Thu, 05 Nov 2026 00:10:10 GMT",
   "base": {
     "repo": {
       "name": "phelel-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T00:10:06Z",
   "closed_by": null,
   "created_at": "2026-11-05T00:03:46Z",
   "draft": false,
   "e_tag": "\"49a141754aa0d398df6a63451b46886e03ae9b8aa13581039b216bbf5d4167be\"",
   "head": {
-    "ref": "0.19.0_h458f08"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phelel-feedstock/pull/27",
   "id": 5163663590,
   "labels": [],
-  "last_fetched": "2026-11-05T00:03:46.911742",
+  "last_fetched": "2026-11-05T00:11:11.048149",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T00:10:06Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-11-05T00:03:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T00:10:10Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a94860ef9b6fb4725ff2e481d8bb38dee73f5321864c7c0a98a6caf3120093a2\"",
+  "Last-Modified": "Thu, 05 Nov 2026 10:07:06 GMT",
   "base": {
     "repo": {
       "name": "paho-mqtt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T10:07:06Z",
   "closed_by": null,
   "created_at": "2026-11-05T05:19:40Z",
   "draft": false,
   "e_tag": "\"748567c3a76e46a7a66e2be85304e298dd303bcdd341eaf30c351728d5f186b5\"",
   "head": {
-    "ref": "2.2.0_ha251bc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/paho-mqtt-feedstock/pull/12",
   "id": 5166591418,
   "labels": [],
-  "last_fetched": "2026-11-05T05:19:41.020841",
+  "last_fetched": "2026-11-05T10:08:44.491555",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T10:07:05Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-05T05:19:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T10:07:06Z"
 }

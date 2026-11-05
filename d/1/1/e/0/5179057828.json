@@ -1,6 +1,6 @@
 {
-  "ETag": "\"abd6f1c6c0951ae694d7be6ad95c8120b7f5d34c8776ca2706f4e1c320632b55\"",
-  "Last-Modified": "Thu, 05 Nov 2026 21:35:17 GMT",
+  "ETag": "\"323475d1b08f832da555fde18d5b60220b4656e9db3678b6b2be5f0bb30e219b\"",
+  "Last-Modified": "Thu, 05 Nov 2026 22:31:23 GMT",
   "base": {
     "repo": {
       "name": "ioos_qc-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/ioos_qc-feedstock/pull/16",
   "id": 5179057828,
-  "labels": [],
-  "last_fetched": "2026-11-05T22:27:39.669870",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890945761,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTQ1NzYx",
+      "url": "https://api.github.com/repos/conda-forge/ioos_qc-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-05T22:32:32.375708",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 16,
   "state": "open",
-  "updated_at": "2026-11-05T21:35:17Z"
+  "updated_at": "2026-11-05T22:32:16Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0d49d9347a77d03a8fb6a032b8489c8c762f1de460415a72771be0110097090f\"",
+  "Last-Modified": "Thu, 05 Nov 2026 17:23:53 GMT",
   "base": {
     "repo": {
       "name": "hstcal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T17:23:48Z",
   "closed_by": null,
   "created_at": "2026-11-05T16:58:59Z",
   "draft": false,
   "e_tag": "\"b9f9833f76e9e83635dac49d86e35bdcc12e490a447d30821dc0b2cb9b2055d3\"",
   "head": {
-    "ref": "3.3.0_ha767e9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hstcal-feedstock/pull/45",
   "id": 5175424649,
   "labels": [],
-  "last_fetched": "2026-11-05T16:59:00.404505",
+  "last_fetched": "2026-11-05T17:25:26.509795",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T17:23:48Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-11-05T16:58:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T17:23:53Z"
 }

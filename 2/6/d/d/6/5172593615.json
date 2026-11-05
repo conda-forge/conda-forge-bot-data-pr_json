@@ -1,4 +1,6 @@
 {
+  "ETag": "\"899fc2e0ce39bc3f4ec6e07e8f05b0bc660906745f1f7682e03d07529b1548dd\"",
+  "Last-Modified": "Thu, 05 Nov 2026 14:01:22 GMT",
   "base": {
     "repo": {
       "name": "herdr-app-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/herdr-app-feedstock/pull/2",
   "id": 5172593615,
-  "labels": [],
-  "last_fetched": "2026-11-05T13:46:03.182589",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12969092395,
+      "name": "automerge",
+      "node_id": "LA_kwDOVj6qfs8AAAADBQSlKw",
+      "url": "https://api.github.com/repos/conda-forge/herdr-app-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-05T14:01:33.354608",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 2,
   "state": "open",
-  "updated_at": "2026-11-05T13:46:02Z"
+  "updated_at": "2026-11-05T14:01:22Z"
 }

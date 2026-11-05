@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6858179d9a6b1dc39e3bc73c63dbdcc0230d37899f2bc477df8b614a3504d7b5\"",
+  "Last-Modified": "Thu, 05 Nov 2026 23:57:53 GMT",
   "base": {
     "repo": {
       "name": "pz-rail-base-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T23:57:53Z",
   "closed_by": null,
   "created_at": "2026-11-05T23:40:53Z",
   "draft": false,
   "e_tag": "\"539f1bfac9c03cd314987770193f00281bd6143cbd39d658c653de4b1bd0502a\"",
   "head": {
-    "ref": "2.0.12_h63b414"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pz-rail-base-feedstock/pull/38",
   "id": 5180399826,
   "labels": [],
-  "last_fetched": "2026-11-05T23:40:53.933140",
+  "last_fetched": "2026-11-05T23:59:05.711145",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T23:57:53Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-05T23:40:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T23:57:53Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"313a38b6062aa088371996a0dde5092b4435a83fd94b2ee505818f868883560d\"",
-  "Last-Modified": "Thu, 05 Nov 2026 10:40:37 GMT",
+  "ETag": "\"f6a82cb512aab54997978124d98c0e4314f6c00ce597c9e69489ab5af3cc15df\"",
+  "Last-Modified": "Thu, 05 Nov 2026 17:09:07 GMT",
   "base": {
     "repo": {
       "name": "lalsimulation-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/lalsimulation-feedstock/pull/82",
   "id": 5097114399,
-  "labels": [],
-  "last_fetched": "2026-11-05T11:17:34.426761",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890953134,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTUzMTM0",
+      "url": "https://api.github.com/repos/conda-forge/lalsimulation-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-05T17:10:20.268053",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 82,
   "state": "open",
-  "updated_at": "2026-11-05T10:40:37Z"
+  "updated_at": "2026-11-05T17:09:07Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c30b8bb8bc53a080efb1b395e61e861c87cb5fc45a8ffa4f90491d5af0f994e8\"",
-  "Last-Modified": "Wed, 04 Nov 2026 19:26:06 GMT",
+  "ETag": "\"e641c5f90125c9b7f2ac3c80364d11879bd095cda7d731b4b1e87c23a38706af\"",
+  "Last-Modified": "Thu, 05 Nov 2026 23:03:40 GMT",
   "base": {
     "repo": {
       "name": "coscine-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T23:03:40Z",
   "closed_by": null,
   "created_at": "2026-11-04T19:24:21Z",
   "draft": false,
   "e_tag": "\"11625121a8be73c9b73c792ac795330cd657deccf8b90de923c4f59a4234c1c3\"",
   "head": {
-    "ref": "0.12.3_h7cc457"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/coscine-feedstock/pull/49",
   "id": 5160257419,
   "labels": [],
-  "last_fetched": "2026-11-04T23:57:50.607184",
+  "last_fetched": "2026-11-05T23:05:08.771688",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T23:03:40Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-11-04T19:26:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T23:03:40Z"
 }

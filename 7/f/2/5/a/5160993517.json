@@ -1,29 +1,29 @@
 {
-  "ETag": "\"98bdbf473bbd076948b056e282d762d5ed86264ac68ca56b159515a4e6b95f31\"",
-  "Last-Modified": "Wed, 04 Nov 2026 20:20:45 GMT",
+  "ETag": "\"09f597765904080e3e82136a252fbb9ab143ecc742952786a6fead0b1f8769dc\"",
+  "Last-Modified": "Thu, 05 Nov 2026 07:18:06 GMT",
   "base": {
     "repo": {
       "name": "xlwings-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T07:18:06Z",
   "closed_by": null,
   "created_at": "2026-11-04T20:19:18Z",
   "draft": false,
   "e_tag": "\"a0cdb2f22cfbffc68e7493297ab58498fc7e14e6cf78636d5a0cca8d7a70f70e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h5ae2f1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xlwings-feedstock/pull/214",
   "id": 5160993517,
   "labels": [],
-  "last_fetched": "2026-11-04T21:15:00.836987",
+  "last_fetched": "2026-11-05T07:19:39.965470",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T07:18:06Z",
   "number": 214,
-  "state": "open",
-  "updated_at": "2026-11-04T20:20:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T07:18:06Z"
 }

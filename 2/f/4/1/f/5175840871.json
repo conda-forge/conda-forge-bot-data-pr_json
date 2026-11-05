@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8c67f326bbf99ff2965fe9df063343f9c7f686f8b5f24ed00f2d072142d1fd61\"",
+  "Last-Modified": "Thu, 05 Nov 2026 17:33:29 GMT",
   "base": {
     "repo": {
       "name": "cwl-utils-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T17:33:24Z",
   "closed_by": null,
   "created_at": "2026-11-05T17:29:17Z",
   "draft": false,
   "e_tag": "\"64c01801575926781fe7a1a153ddae2fc2b2da3c8c1438bfea00b5dce98956dc\"",
   "head": {
-    "ref": "0.46_hd1251b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cwl-utils-feedstock/pull/33",
   "id": 5175840871,
   "labels": [],
-  "last_fetched": "2026-11-05T17:29:18.524082",
+  "last_fetched": "2026-11-05T17:35:05.342409",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T17:33:24Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-05T17:29:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T17:33:29Z"
 }

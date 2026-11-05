@@ -1,29 +1,41 @@
 {
-  "ETag": "\"8b2f721eff40bccb1b2144054aaf7462a3212e1a68f261fb960712908968d9c4\"",
-  "Last-Modified": "Thu, 05 Nov 2026 11:09:26 GMT",
+  "ETag": "\"64c7960c415501e97753d170a23a2965f001b5c31f6592f85cff3b3db73d181e\"",
+  "Last-Modified": "Thu, 05 Nov 2026 16:21:46 GMT",
   "base": {
     "repo": {
       "name": "opentelemetry-instrumentation-agno-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T16:21:41Z",
   "closed_by": null,
   "created_at": "2026-11-05T11:09:25Z",
   "draft": false,
   "e_tag": "\"7c38822c71142c5d3e3a9d051a0ef8cfe35822c53f1a0906655340578a2221db\"",
   "head": {
-    "ref": "0.63.0_h3ce13e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentelemetry-instrumentation-agno-feedstock/pull/41",
   "id": 5170530269,
-  "labels": [],
-  "last_fetched": "2026-11-05T11:17:16.070194",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9706321152,
+      "name": "automerge",
+      "node_id": "LA_kwDOQb7Ej88AAAACQoq1AA",
+      "url": "https://api.github.com/repos/conda-forge/opentelemetry-instrumentation-agno-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-05T16:22:13.342606",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T16:21:41Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-11-05T11:09:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T16:21:46Z"
 }

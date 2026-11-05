@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e7b01b4f5bab8746a6ab54155364bb47e92977eab67eb0e5567c915a1c89f255\"",
-  "Last-Modified": "Wed, 04 Nov 2026 15:15:52 GMT",
+  "ETag": "\"4f0de8b137c9c0b7225284ce284846619e2aa2d847b10182639e3395764d468c\"",
+  "Last-Modified": "Thu, 05 Nov 2026 13:15:13 GMT",
   "base": {
     "repo": {
       "name": "lal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T13:15:12Z",
   "closed_by": null,
   "created_at": "2026-11-04T09:31:55Z",
   "draft": false,
   "e_tag": "\"91b1ca62376ace279c2a493ef064f8ea229dc15e897e2574b9f0f992beaf7117\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_h932132"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lal-feedstock/pull/124",
   "id": 5152106292,
   "labels": [],
-  "last_fetched": "2026-11-05T02:32:28.954915",
+  "last_fetched": "2026-11-05T13:16:24.766805",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T13:15:12Z",
   "number": 124,
-  "state": "open",
-  "updated_at": "2026-11-04T15:15:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T13:15:13Z"
 }

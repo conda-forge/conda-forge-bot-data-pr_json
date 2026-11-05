@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cfe1608a00fafc8e1aa3a3d1a84f2273beec64e7134ac87854b8f6f00ddde326\"",
+  "Last-Modified": "Thu, 05 Nov 2026 06:33:22 GMT",
   "base": {
     "repo": {
       "name": "microfilm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T06:33:22Z",
   "closed_by": null,
   "created_at": "2026-11-05T04:40:33Z",
   "draft": false,
   "e_tag": "\"218cc2b4e43cf6e0791bcb9631e1b9a35f3538cb343d05254c7812790cba2a1b\"",
   "head": {
-    "ref": "0.4.0_ha5917c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/microfilm-feedstock/pull/6",
   "id": 5166241054,
   "labels": [],
-  "last_fetched": "2026-11-05T04:40:34.701847",
+  "last_fetched": "2026-11-05T06:34:28.516293",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T06:33:22Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-05T04:40:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T06:33:22Z"
 }

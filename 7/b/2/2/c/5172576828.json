@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ea3d77743be941b7fe4e205212ed7e02f964e7da3dcd180d4f83cef138c9445d\"",
+  "Last-Modified": "Thu, 05 Nov 2026 13:46:43 GMT",
   "base": {
     "repo": {
       "name": "pytest-ansible-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T13:46:39Z",
   "closed_by": null,
   "created_at": "2026-11-05T13:44:50Z",
   "draft": false,
   "e_tag": "\"e4ac5ba925c59f6088ac105905aa49bbca4a0f13c3713b5bdc324464103512c2\"",
   "head": {
-    "ref": "26.11.0_h1a1dc5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytest-ansible-feedstock/pull/4",
   "id": 5172576828,
   "labels": [],
-  "last_fetched": "2026-11-05T13:44:52.154259",
+  "last_fetched": "2026-11-05T13:48:14.378747",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T13:46:39Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-05T13:44:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T13:46:43Z"
 }

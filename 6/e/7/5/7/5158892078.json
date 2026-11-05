@@ -1,29 +1,29 @@
 {
-  "ETag": "\"76bee8bb15df59b0c010e0107dcfe2539b52277886e0a89a12e4de309b0779c6\"",
-  "Last-Modified": "Wed, 04 Nov 2026 17:47:32 GMT",
+  "ETag": "\"1a51aec2ed5ba9f23421eaa3fb7d807a5ea0fb947d3d5a809dd57cddc048c837\"",
+  "Last-Modified": "Thu, 05 Nov 2026 08:41:25 GMT",
   "base": {
     "repo": {
       "name": "holm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T08:41:25Z",
   "closed_by": null,
   "created_at": "2026-11-04T17:45:53Z",
   "draft": false,
   "e_tag": "\"815f47d2110268e3d83b6c9f93c3e99d3d502f05fbd5cb2d6fec602fdf861231\"",
   "head": {
-    "ref": "0.11.2_h4d7a3b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/holm-feedstock/pull/7",
   "id": 5158892078,
   "labels": [],
-  "last_fetched": "2026-11-04T18:30:26.250154",
+  "last_fetched": "2026-11-05T08:42:56.356484",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T08:41:25Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-04T17:47:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T08:41:25Z"
 }

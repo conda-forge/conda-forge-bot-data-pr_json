@@ -1,27 +1,29 @@
 {
+  "ETag": "\"564a1d2470c10156a3abdf7861a49660e78db0b4e1b372cfeafb26d44568d8db\"",
+  "Last-Modified": "Thu, 05 Nov 2026 18:16:03 GMT",
   "base": {
     "repo": {
       "name": "vsp-otel-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T18:16:02Z",
   "closed_by": null,
   "created_at": "2026-11-05T17:11:45Z",
   "draft": false,
   "e_tag": "\"f540f52185f682e6d23661d396b930f789d993178900140f8f0d985fa99e2e0c\"",
   "head": {
-    "ref": "0.1.3_h909578"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vsp-otel-feedstock/pull/1",
   "id": 5175601800,
   "labels": [],
-  "last_fetched": "2026-11-05T17:11:46.596075",
+  "last_fetched": "2026-11-05T18:17:08.906713",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T18:16:02Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-05T17:11:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T18:16:03Z"
 }

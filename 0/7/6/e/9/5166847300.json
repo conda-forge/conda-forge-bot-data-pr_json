@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2ac2ac2de2874a8cbc2545743d734f9ae15bf8ac4fd1daad46441daecc7f512b\"",
+  "Last-Modified": "Thu, 05 Nov 2026 06:10:05 GMT",
   "base": {
     "repo": {
       "name": "gz-physics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T06:10:02Z",
   "closed_by": null,
   "created_at": "2026-11-05T05:49:05Z",
   "draft": false,
   "e_tag": "\"3896564c82a3c68bed6a679d26c1de47162969866b175d2b927d543a8668bb3a\"",
   "head": {
-    "ref": "9.6.1_h5842f5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-physics-feedstock/pull/93",
   "id": 5166847300,
   "labels": [],
-  "last_fetched": "2026-11-05T05:49:06.338873",
+  "last_fetched": "2026-11-05T06:11:28.872579",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T06:10:02Z",
   "number": 93,
-  "state": "open",
-  "updated_at": "2026-11-05T05:49:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T06:10:05Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"75f6aff6d2ff0a5f6603171aa70cd8fb18bcabca93a0b3ba09a38318f61cf04d\"",
-  "Last-Modified": "Thu, 05 Nov 2026 17:29:27 GMT",
+  "ETag": "\"100529f9e87d15cb0abdfeef430c43b7e957c26d5fe84fcc1e0435d8143c0c3a\"",
+  "Last-Modified": "Thu, 05 Nov 2026 20:56:27 GMT",
   "base": {
     "repo": {
       "name": "vaex-viz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T20:56:27Z",
   "closed_by": null,
   "created_at": "2026-11-05T17:27:40Z",
   "draft": false,
   "e_tag": "\"482c552b9fb9f9b5b20b5aaf3cb207e7213abc83a9fff2e379e16efb60b4b69c\"",
   "head": {
-    "ref": "0.6.1_h98da67"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vaex-viz-feedstock/pull/30",
   "id": 5175818688,
   "labels": [],
-  "last_fetched": "2026-11-05T18:59:05.439052",
+  "last_fetched": "2026-11-05T20:57:47.079288",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T20:56:27Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-05T17:29:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T20:56:27Z"
 }

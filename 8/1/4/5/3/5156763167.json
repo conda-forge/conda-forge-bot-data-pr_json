@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0360536eb96c3ab42ce3fa7d9234ae5688b0a3c3506e92136285e953f3832da6\"",
-  "Last-Modified": "Wed, 04 Nov 2026 22:40:52 GMT",
+  "ETag": "\"d055f8458ee09d35c27f72f024c713072af883f4039535c6cbf157fb5bde14d6\"",
+  "Last-Modified": "Thu, 05 Nov 2026 03:51:11 GMT",
   "base": {
     "repo": {
       "name": "mlflow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T03:51:11Z",
   "closed_by": null,
   "created_at": "2026-11-04T15:19:54Z",
   "draft": false,
   "e_tag": "\"f5b13c3889df4320c444139df08d2c74ea6145e5b06b91e4b93d8e54ec3ab06c\"",
   "head": {
-    "ref": "3.18.0_h5ffe66"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mlflow-feedstock/pull/275",
   "id": 5156763167,
   "labels": [],
-  "last_fetched": "2026-11-04T23:27:44.933876",
+  "last_fetched": "2026-11-05T03:52:15.048838",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T03:51:11Z",
   "number": 275,
-  "state": "open",
-  "updated_at": "2026-11-04T22:40:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T03:51:11Z"
 }

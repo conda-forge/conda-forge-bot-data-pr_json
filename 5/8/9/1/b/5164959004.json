@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"2ae2216dda32bf5adedb458d88c30f9485820d45af2f463927f0e05177cb4c04\"",
-  "Last-Modified": "Thu, 05 Nov 2026 02:19:24 GMT",
+  "ETag": "\"f2d4c93df3a513f897cecc6f73bda533b96340c24350c2584c2cd12840a0ed08\"",
+  "Last-Modified": "Thu, 05 Nov 2026 10:58:03 GMT",
   "base": {
     "repo": {
       "name": "pystac-ext-item-assets-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T10:58:03Z",
   "closed_by": null,
   "created_at": "2026-11-05T02:17:54Z",
   "draft": false,
   "e_tag": "\"6c3ce39d8e39a04323369f54b207c89f516d31e86591f5d96f61f918fcd7b4c3\"",
   "head": {
-    "ref": "1.0.2_hdd75f6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pystac-ext-item-assets-feedstock/pull/2",
   "id": 5164959004,
   "labels": [],
-  "last_fetched": "2026-11-05T02:43:25.196797",
+  "last_fetched": "2026-11-05T10:59:35.082038",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T10:58:03Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-05T02:19:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T10:58:03Z"
 }

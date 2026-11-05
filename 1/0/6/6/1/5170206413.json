@@ -1,11 +1,13 @@
 {
+  "ETag": "W/\"ae5564c2f252ff4c693390177dd443bc7cec920430af1b4ab9a3ee249f5e0608\"",
+  "Last-Modified": "Thu, 05 Nov 2026 10:51:27 GMT",
   "base": {
     "repo": {
       "name": "cuiman-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-05T10:51:27Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-05T10:43:53Z",
   "draft": false,
   "e_tag": "\"4cdfd02072bb2120f67e0b8c52f9357fd1b518561cef6e985416acc16ca22760\"",
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cuiman-feedstock/pull/14",
   "id": 5170206413,
-  "labels": [],
-  "last_fetched": "2026-11-05T10:43:54.250990",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 9618097374,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOQSvD188AAAACPUiE3g",
+      "url": "https://api.github.com/repos/conda-forge/cuiman-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-05T10:51:29.871944",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-05T10:43:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T10:51:27Z"
 }

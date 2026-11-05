@@ -1,29 +1,29 @@
 {
-  "ETag": "\"15805f535b7dfc5fedaf4ede7496c24dac6d8351e768968d07b04f250d1bb08c\"",
-  "Last-Modified": "Thu, 05 Nov 2026 02:21:58 GMT",
+  "ETag": "W/\"bfc81ceab6b13f6ba38de8c52db1ba4c1d6a19a0f5c769a5780bb4d9f404540f\"",
+  "Last-Modified": "Thu, 05 Nov 2026 10:49:58 GMT",
   "base": {
     "repo": {
       "name": "pystac-ext-label-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T10:49:58Z",
   "closed_by": null,
   "created_at": "2026-11-05T02:20:20Z",
   "draft": false,
   "e_tag": "\"43e3138edfb8e367980a378a8a5fce0666a0eaef8a65ca4898dc148a0f01d3f4\"",
   "head": {
-    "ref": "1.0.3_h600697"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pystac-ext-label-feedstock/pull/2",
   "id": 5164982232,
   "labels": [],
-  "last_fetched": "2026-11-05T04:20:12.744861",
+  "last_fetched": "2026-11-05T10:51:27.553234",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-05T10:49:58Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-05T02:21:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T10:49:58Z"
 }

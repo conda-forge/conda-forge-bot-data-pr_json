@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c7a9f51ab6c5fcf9ff7e5f313de387af4f64d8b3b4b610e83f82c196a36dfc3d\"",
+  "Last-Modified": "Thu, 05 Nov 2026 20:48:02 GMT",
   "base": {
     "repo": {
       "name": "assertpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-05T20:47:57Z",
   "closed_by": null,
   "created_at": "2026-11-05T20:44:47Z",
   "draft": false,
   "e_tag": "\"05c77721072cb3168a301ad0904a77b8e12ccdc58ced1a4b2a86a7a5040d091e\"",
   "head": {
-    "ref": "2.36.0_h8ff4cd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/assertpy-feedstock/pull/14",
   "id": 5178439861,
   "labels": [],
-  "last_fetched": "2026-11-05T20:44:48.124384",
+  "last_fetched": "2026-11-05T20:49:29.034227",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-05T20:47:57Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-05T20:44:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-05T20:48:02Z"
 }

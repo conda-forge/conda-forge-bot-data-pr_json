@@ -1,6 +1,6 @@
 {
-  "ETag": "\"7c61d3817ec2467bcd921ddc9531026fa2022e470f861d99d20863b7d0054b80\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"7abb093f4bb478474dfcadec71dd770f473f48b7bb80aabeb71d556366155fcc\"",
+  "Last-Modified": "Fri, 06 Nov 2026 20:39:44 GMT",
   "base": {
     "repo": {
       "name": "libatomic_ops-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/libatomic_ops-feedstock/pull/25",
   "id": 3053200868,
-  "labels": [],
-  "last_fetched": "2026-11-04T12:59:10.460103",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890954887,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTU0ODg3",
+      "url": "https://api.github.com/repos/conda-forge/libatomic_ops-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-06T20:41:14.372650",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 25,
   "state": "open",
-  "updated_at": "2025-11-28T07:40:24Z"
+  "updated_at": "2026-11-06T20:39:44Z"
 }

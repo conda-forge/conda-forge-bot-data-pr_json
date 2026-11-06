@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a2d0b1731821c9e631e1fa854f5ba4cbc4caf136ed670235198d22417e7dc248\"",
+  "Last-Modified": "Fri, 06 Nov 2026 04:58:08 GMT",
   "base": {
     "repo": {
       "name": "jupyterhub-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T04:58:08Z",
   "closed_by": null,
   "created_at": "2026-11-06T04:52:43Z",
   "draft": false,
   "e_tag": "\"f788505adcf9466d4f94bc094e1a2b4e84aea46b0c9089b02dd90e868b967416\"",
   "head": {
-    "ref": "6.2.0_hec9308"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jupyterhub-feedstock/pull/103",
   "id": 5183096869,
   "labels": [],
-  "last_fetched": "2026-11-06T04:52:43.820302",
+  "last_fetched": "2026-11-06T04:59:41.922145",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T04:58:08Z",
   "number": 103,
-  "state": "open",
-  "updated_at": "2026-11-06T04:52:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T04:58:13Z"
 }

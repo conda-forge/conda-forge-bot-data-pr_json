@@ -1,13 +1,13 @@
 {
-  "ETag": "\"66a9ade099c9b2efc2d5855b7064aa32aa2aabb65cb02d3775446f086a197412\"",
-  "Last-Modified": "Fri, 30 Oct 2026 07:24:56 GMT",
+  "ETag": "W/\"adbc0b93978f9869ea03c6910324cf9b1f8d714f9626c47e1333495abd6d8542\"",
+  "Last-Modified": "Fri, 06 Nov 2026 10:19:26 GMT",
   "base": {
     "repo": {
       "name": "snowflake-snowpark-python-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-06T10:19:26Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-30T07:23:14Z",
   "draft": false,
   "e_tag": "\"18a6920207705c838d5b02eec482df814cc3de6192bb0525cfe451432d448ad9\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/snowflake-snowpark-python-feedstock/pull/160",
   "id": 5080939606,
-  "labels": [],
-  "last_fetched": "2026-10-30T07:43:42.622583",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-06T10:19:29.120631",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 160,
-  "state": "open",
-  "updated_at": "2026-10-30T07:24:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T10:19:26Z"
 }

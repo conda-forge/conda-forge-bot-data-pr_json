@@ -1,13 +1,13 @@
 {
-  "ETag": "\"60b51d55bf0fe00ff249fe730cd11a6c75dc486ecbe4801a19aba218d3d9ef64\"",
-  "Last-Modified": "Mon, 19 Oct 2026 12:23:41 GMT",
+  "ETag": "\"1c1f6a4c5fa55330ce95874b7618aca2542e1def2c822ca5fe87085e4bf317dd\"",
+  "Last-Modified": "Fri, 06 Nov 2026 06:36:21 GMT",
   "base": {
     "repo": {
       "name": "jsonpatch-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-06T06:36:21Z",
+  "closed_by": "beenje",
   "created_at": "2026-10-19T12:20:28Z",
   "draft": false,
   "e_tag": "\"2ac0775f1e8f838827a4ea18743b40866ae826f84aa124ba5f0b32242cef24ae\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/jsonpatch-feedstock/pull/24",
   "id": 4920830504,
   "labels": [],
-  "last_fetched": "2026-11-03T01:59:56.730286",
+  "last_fetched": "2026-11-06T06:37:42.781983",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-19T12:23:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T06:36:22Z"
 }

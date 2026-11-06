@@ -1,29 +1,29 @@
 {
-  "ETag": "\"81accae0efc8bdbe9e10242dfbc90b840d125c152f9d4f620925404965210407\"",
-  "Last-Modified": "Thu, 05 Nov 2026 23:54:24 GMT",
+  "ETag": "\"0415acf8f85259a0f5f0b7f28b0d42e181f26bba7a348aaa68487dc29e81554c\"",
+  "Last-Modified": "Fri, 06 Nov 2026 13:17:23 GMT",
   "base": {
     "repo": {
       "name": "curifactory-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T13:17:22Z",
   "closed_by": null,
   "created_at": "2026-11-05T23:52:57Z",
   "draft": false,
   "e_tag": "\"07fb87a515a65e038eecec6dc0e0b9e91f2c3100e92edd397a617191f6e1e1d2\"",
   "head": {
-    "ref": "0.20.6_h3d481c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/curifactory-feedstock/pull/33",
   "id": 5180513535,
   "labels": [],
-  "last_fetched": "2026-11-06T02:22:10.770773",
+  "last_fetched": "2026-11-06T13:18:52.107547",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T13:17:22Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-05T23:54:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T13:17:23Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "\"55c2657deff95926e951d1ddb6f9047db2d6eb68819420c493cfcbb8ff9becf0\"",
-  "Last-Modified": "Fri, 06 Nov 2026 03:23:13 GMT",
+  "ETag": "\"eabbaed79b3bf764fc605b12b8f53f366f8ff5199df54b35b9fab994cffeacdb\"",
+  "Last-Modified": "Fri, 06 Nov 2026 03:55:51 GMT",
   "base": {
     "repo": {
       "name": "liquidprompt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T03:55:50Z",
   "created_at": "2026-07-05T18:17:26Z",
   "draft": false,
   "e_tag": "\"5e41834c1e846e99835287ed4454c73e0071653c0ade4fa3a8d349c1f8daf890\"",
   "head": {
-    "ref": "2.3.0_h77f0a9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/liquidprompt-feedstock/pull/7",
   "id": 3994424297,
   "labels": [],
-  "last_fetched": "2026-11-06T03:29:51.954915",
+  "last_fetched": "2026-11-06T03:57:20.516225",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T03:55:50Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-06T03:23:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T03:55:51Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"4dd76b50a41744714f01773ce762b2f80ab1bdde98e4d23d1fac1f8e5e7cbfac\"",
-  "Last-Modified": "Mon, 21 Sep 2026 12:03:44 GMT",
+  "ETag": "W/\"d15237f34551cf93f41839bcd9d037f9659a41145ab4ce9c507238ff16ade5e2\"",
+  "Last-Modified": "Fri, 06 Nov 2026 06:00:50 GMT",
   "base": {
     "repo": {
       "name": "am3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T06:00:50Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-21T12:01:56Z",
   "draft": false,
   "e_tag": "\"a65693e839855a7c03cf422555921764ab7b40f9a22c23488530578254488396\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/am3-feedstock/pull/7",
   "id": 4591244115,
-  "labels": [],
-  "last_fetched": "2026-11-03T04:58:39.880611",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 9088729739,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOPbrQMc8AAAACHbsCiw",
+      "url": "https://api.github.com/repos/conda-forge/am3-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-06T06:00:53.464181",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-09-21T12:03:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T06:00:50Z"
 }

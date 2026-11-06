@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c4ad0902de798490d67fd787e1e55b7bf9df2033390743846e59a9b11e7b4890\"",
-  "Last-Modified": "Fri, 06 Nov 2026 09:24:45 GMT",
+  "ETag": "\"9043b71d999ced3f184af316806993ee64c8d2922707262dd00411aad4799f3b\"",
+  "Last-Modified": "Fri, 06 Nov 2026 17:59:56 GMT",
   "base": {
     "repo": {
       "name": "stglib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T17:59:55Z",
   "closed_by": null,
   "created_at": "2026-11-06T09:23:11Z",
   "draft": false,
   "e_tag": "\"b1f55eb3a0be036a70b13e131b177f035a09b0b2ef1ae05c39d47462b50a2d54\"",
   "head": {
-    "ref": "1.14.1_hcb1c8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/stglib-feedstock/pull/65",
   "id": 5185697796,
   "labels": [],
-  "last_fetched": "2026-11-06T10:18:25.927980",
+  "last_fetched": "2026-11-06T18:01:25.217195",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T17:59:55Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-11-06T09:24:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T17:59:56Z"
 }

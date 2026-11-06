@@ -1,18 +1,18 @@
 {
-  "ETag": "\"133655fd01def722173c4da9a42c615142fa688dcbcf2d0095dd201197f53395\"",
-  "Last-Modified": "Fri, 06 Nov 2026 21:05:40 GMT",
+  "ETag": "\"3c5c6e01ecc729a450d3a9b9f0025bea9f708070a8d6b879dc620c763fbd3915\"",
+  "Last-Modified": "Fri, 06 Nov 2026 23:04:15 GMT",
   "base": {
     "repo": {
       "name": "supabase-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T23:04:07Z",
   "closed_by": null,
   "created_at": "2026-11-06T17:31:05Z",
   "draft": false,
   "e_tag": "\"83082fc61cc42e4e126c82eb2f9bbdf02c951edbcedde978bdf994bfb96c30b7\"",
   "head": {
-    "ref": "2.34.1_h33a8c5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/supabase-feedstock/pull/106",
   "id": 5191972291,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/supabase-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-06T21:07:14.664889",
+  "last_fetched": "2026-11-06T23:06:02.128779",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T23:04:07Z",
   "number": 106,
-  "state": "open",
-  "updated_at": "2026-11-06T21:05:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T23:04:15Z"
 }

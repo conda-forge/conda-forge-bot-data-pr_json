@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fd63c4b72fc71b51be409f0a5bf42a0416bf7e43b6d7aad2907c2533fac2b485\"",
-  "Last-Modified": "Fri, 30 Oct 2026 19:19:37 GMT",
+  "ETag": "\"c5b3010c03cde97a52476fb37a8dee90fea7ca7603e4b6bb3808e2986673ad66\"",
+  "Last-Modified": "Fri, 06 Nov 2026 17:58:57 GMT",
   "base": {
     "repo": {
       "name": "pyspark-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T17:58:57Z",
   "closed_by": null,
   "created_at": "2026-10-30T19:17:53Z",
   "draft": false,
   "e_tag": "\"80c6f92495ef884f0b8627e215b5bf5b91e051889e91fc809d66e0fc9959ce26\"",
   "head": {
-    "ref": "4.3.0_h745678"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyspark-feedstock/pull/65",
   "id": 5089826292,
   "labels": [],
-  "last_fetched": "2026-10-30T19:59:13.193565",
+  "last_fetched": "2026-11-06T18:00:37.424160",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T17:58:57Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-10-30T19:19:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T17:58:57Z"
 }

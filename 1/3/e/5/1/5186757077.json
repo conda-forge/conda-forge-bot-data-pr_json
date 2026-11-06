@@ -1,27 +1,29 @@
 {
+  "ETag": "\"781c051fc6039def76e0ac30f44615abe6c6ff0928b8cbcdb75c2465e369fc22\"",
+  "Last-Modified": "Fri, 06 Nov 2026 13:25:46 GMT",
   "base": {
     "repo": {
       "name": "soco-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T13:25:46Z",
   "closed_by": null,
   "created_at": "2026-11-06T10:55:36Z",
   "draft": false,
   "e_tag": "\"5c6d87016bbe12b357d8328019d00674fb1552307b0f59c53acc982ecbf78507\"",
   "head": {
-    "ref": "0.32.2_haecd5a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/soco-feedstock/pull/5",
   "id": 5186757077,
   "labels": [],
-  "last_fetched": "2026-11-06T10:55:37.071547",
+  "last_fetched": "2026-11-06T13:27:17.033733",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T13:25:46Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-06T10:55:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T13:25:46Z"
 }

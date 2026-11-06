@@ -1,29 +1,29 @@
 {
-  "ETag": "\"295d4888882474281b569913343e06a4b130cb42626593fcea57cc5e188a810e\"",
-  "Last-Modified": "Fri, 06 Nov 2026 01:23:04 GMT",
+  "ETag": "\"05179f666d4fa790618c4f91312fc51269a231ec069964327852d781e9763b71\"",
+  "Last-Modified": "Fri, 06 Nov 2026 15:05:24 GMT",
   "base": {
     "repo": {
       "name": "bodo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T15:05:23Z",
   "closed_by": null,
   "created_at": "2026-11-06T01:21:27Z",
   "draft": false,
   "e_tag": "\"104896a88f21bc41c64a34393f5ab34e799054cc2ae3d728db52bd6631860e6e\"",
   "head": {
-    "ref": "rebuild-libboost190-0-1_h8ce31e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bodo-feedstock/pull/72",
   "id": 5181326328,
   "labels": [],
-  "last_fetched": "2026-11-06T06:00:01.107953",
+  "last_fetched": "2026-11-06T15:07:00.327559",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T15:05:23Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-11-06T01:23:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T15:05:24Z"
 }

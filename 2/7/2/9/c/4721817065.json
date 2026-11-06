@@ -1,28 +1,28 @@
 {
-  "ETag": "\"a5fb51302589922ec17bd7e6979042f5a20108b48ac17afbf273430663bd576b\"",
-  "Last-Modified": "Sun, 04 Oct 2026 02:10:17 GMT",
+  "ETag": "\"4afcf833d401469297f834746bb60228cd348d35c57b06ccce9ad9a1dcf7cb7c\"",
+  "Last-Modified": "Fri, 06 Nov 2026 20:10:19 GMT",
   "base": {
     "repo": {
       "name": "gravity-toolkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T20:10:19Z",
   "created_at": "2026-10-02T21:46:31Z",
   "draft": false,
   "e_tag": "\"9518eea2e272a8a68e140ec9569f1e16667d5850c10833edc7dfcb256fe65162\"",
   "head": {
-    "ref": "1.2.8_h5df9d1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gravity-toolkit-feedstock/pull/5",
   "id": 4721817065,
   "labels": [],
-  "last_fetched": "2026-11-02T01:59:46.025768",
+  "last_fetched": "2026-11-06T20:12:00.869968",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T20:10:19Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-04T02:10:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T20:10:19Z"
 }

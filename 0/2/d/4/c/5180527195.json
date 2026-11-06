@@ -1,27 +1,29 @@
 {
+  "ETag": "\"85a78c67d108cab918f9906bb12ae45c8ccd8d6445c74a95b16e092090f02a7c\"",
+  "Last-Modified": "Fri, 06 Nov 2026 00:06:07 GMT",
   "base": {
     "repo": {
       "name": "pythonradex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T00:06:04Z",
   "closed_by": null,
   "created_at": "2026-11-05T23:54:26Z",
   "draft": false,
   "e_tag": "\"56854f083fd7fed374ac3036c2a591483fd5a4c3b05fb2ba8242169428438336\"",
   "head": {
-    "ref": "3.0.1_hd78e8c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pythonradex-feedstock/pull/9",
   "id": 5180527195,
   "labels": [],
-  "last_fetched": "2026-11-05T23:54:27.280717",
+  "last_fetched": "2026-11-06T00:07:35.033968",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T00:06:04Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-05T23:54:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T00:06:07Z"
 }

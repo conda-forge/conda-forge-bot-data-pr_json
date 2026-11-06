@@ -1,13 +1,13 @@
 {
-  "ETag": "\"57a2c5eaf340b719a26be9556dbf2717cf574b45e05451529c933138abb78cc4\"",
-  "Last-Modified": "Sat, 17 Oct 2026 15:04:07 GMT",
+  "ETag": "W/\"735b08450b84acc479ca0429adf09f43233f0185dd0dd50657d4e0d02c65ec12\"",
+  "Last-Modified": "Fri, 06 Nov 2026 16:03:02 GMT",
   "base": {
     "repo": {
       "name": "vaex-core-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-06T16:03:02Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-17T15:02:31Z",
   "draft": false,
   "e_tag": "\"64b5e7b9a2e2496affd15dbc870e4eb984f3d3e96ec854056934fe5608b83bd0\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/vaex-core-feedstock/pull/103",
   "id": 4901151938,
-  "labels": [],
-  "last_fetched": "2026-10-31T17:15:43.996572",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891423607,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxNDIzNjA3",
+      "url": "https://api.github.com/repos/conda-forge/vaex-core-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-06T16:03:05.998425",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 103,
-  "state": "open",
-  "updated_at": "2026-10-17T15:04:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T16:03:02Z"
 }

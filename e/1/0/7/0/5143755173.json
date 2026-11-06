@@ -1,18 +1,18 @@
 {
-  "ETag": "\"6504aee191a997175f5ca6d3031b9273eb3b43d549ccbc3d14d279c1a74af554\"",
-  "Last-Modified": "Fri, 06 Nov 2026 11:31:35 GMT",
+  "ETag": "\"d1acb7130e2be3801a40fb54637d09c8a97c124022310e34bdfbac11b67b1709\"",
+  "Last-Modified": "Fri, 06 Nov 2026 11:38:48 GMT",
   "base": {
     "repo": {
       "name": "igwn-ligolw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T11:38:44Z",
   "closed_by": null,
   "created_at": "2026-11-03T20:05:53Z",
   "draft": false,
   "e_tag": "\"fb7503f80aa760e4e847a18903c452bc2feb7f6a7b977917e428a11e9e711132\"",
   "head": {
-    "ref": "rebuild-python315-0-1_he998a8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/igwn-ligolw-feedstock/pull/10",
   "id": 5143755173,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/igwn-ligolw-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-06T11:32:45.853859",
+  "last_fetched": "2026-11-06T11:40:30.884551",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T11:38:44Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-06T11:31:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T11:38:48Z"
 }

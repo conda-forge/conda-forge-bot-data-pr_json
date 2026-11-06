@@ -1,12 +1,13 @@
 {
-  "ETag": "\"8d181f827706d31b87ddecb33be1c2788288c072f552934a37fb4fd8e52098c9\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"973eed47a9d561cb166888528791e33b649a50c1dd7d9c8ebf23edff9930e548\"",
+  "Last-Modified": "Fri, 06 Nov 2026 16:04:25 GMT",
   "base": {
     "repo": {
       "name": "vaex-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T16:04:25Z",
+  "closed_by": "maartenbreddels",
   "created_at": "2024-06-13T06:32:56Z",
   "draft": false,
   "head": {
@@ -15,12 +16,12 @@
   "html_url": "https://github.com/conda-forge/vaex-core-feedstock/pull/99",
   "id": 1917929006,
   "labels": [],
-  "last_fetched": "2026-10-31T22:43:29.587725",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "last_fetched": "2026-11-06T16:06:09.859046",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 99,
-  "state": "open",
-  "updated_at": "2024-06-13T06:33:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T16:04:25Z"
 }

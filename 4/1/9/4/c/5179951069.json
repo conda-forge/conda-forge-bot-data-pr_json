@@ -1,29 +1,29 @@
 {
-  "ETag": "\"367bc9e2dcb84a8d3c9d96d4f3fef762d815636e48d457abc30a93158d1d6d95\"",
-  "Last-Modified": "Thu, 05 Nov 2026 22:55:53 GMT",
+  "ETag": "\"ac714fc22fba508257cf04991b3daa388b38ec8cee86b8b1f89861dcd8526cf7\"",
+  "Last-Modified": "Fri, 06 Nov 2026 08:58:11 GMT",
   "base": {
     "repo": {
       "name": "jupyter-releaser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T08:58:11Z",
   "closed_by": null,
   "created_at": "2026-11-05T22:54:28Z",
   "draft": false,
   "e_tag": "\"3a7db5d5e8be868ef9b3d48b065ddb0b0c707ed0a61d0a1c8d6fa9d8b9b46d06\"",
   "head": {
-    "ref": "1.12.0_h1264c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jupyter-releaser-feedstock/pull/61",
   "id": 5179951069,
   "labels": [],
-  "last_fetched": "2026-11-05T23:16:04.359353",
+  "last_fetched": "2026-11-06T08:59:45.391430",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T08:58:11Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-05T22:55:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T08:58:11Z"
 }

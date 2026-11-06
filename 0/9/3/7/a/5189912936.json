@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5738eacab1f1369bd2984c314c9068d5308628f697277dad0d97e4cfb7ab6045\"",
+  "Last-Modified": "Fri, 06 Nov 2026 15:13:41 GMT",
   "base": {
     "repo": {
       "name": "cargo-cyclonedx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T15:13:36Z",
   "closed_by": null,
   "created_at": "2026-11-06T15:06:53Z",
   "draft": false,
   "e_tag": "\"50538f057edce336c490aa8c3e307d9bb9aefa49ba7dae9ad24b674a0250343e\"",
   "head": {
-    "ref": "0.5.10_h2a8a27"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cargo-cyclonedx-feedstock/pull/5",
   "id": 5189912936,
   "labels": [],
-  "last_fetched": "2026-11-06T15:06:54.508000",
+  "last_fetched": "2026-11-06T15:15:17.274623",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T15:13:36Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-06T15:06:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T15:13:41Z"
 }

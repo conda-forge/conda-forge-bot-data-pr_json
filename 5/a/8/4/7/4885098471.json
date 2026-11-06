@@ -1,5 +1,5 @@
 {
-  "ETag": "\"dd35a0b8297fcca090d498bb8fac249a48cae9e132105d551212f7aa60b19aa6\"",
+  "ETag": "W/\"81c2cb4d8e687c2f7318a27ee034e17cbc11666832aa1b5983a099ce7ae4efbd\"",
   "Last-Modified": "Fri, 06 Nov 2026 21:57:48 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyobjc-core-feedstock/pull/91",
   "id": 4885098471,
-  "labels": [],
-  "last_fetched": "2026-11-06T21:59:28.385165",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-06T21:57:50.582038",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

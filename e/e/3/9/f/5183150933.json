@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e36f3e900e640e40f7002e44cb8f9cba92c89a30d67a1e91df45d4c06ec24614\"",
+  "Last-Modified": "Fri, 06 Nov 2026 05:01:01 GMT",
   "base": {
     "repo": {
       "name": "pdm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T05:00:57Z",
   "closed_by": null,
   "created_at": "2026-11-06T04:59:15Z",
   "draft": false,
   "e_tag": "\"850d72c6ec0ac4ba4b243d6b0fa082337beb5c7b12c7dfc00fc72f3207ea20e5\"",
   "head": {
-    "ref": "2.29.7_hf4f8ff"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pdm-feedstock/pull/177",
   "id": 5183150933,
   "labels": [],
-  "last_fetched": "2026-11-06T04:59:16.239510",
+  "last_fetched": "2026-11-06T05:02:16.406242",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T05:00:57Z",
   "number": 177,
-  "state": "open",
-  "updated_at": "2026-11-06T04:59:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T05:01:01Z"
 }

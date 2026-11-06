@@ -1,28 +1,28 @@
 {
-  "ETag": "\"bf954a8ebe5eaf8011a7df4a3aaf09533d6a4ae4d6ae8865957e4ed29f792c01\"",
-  "Last-Modified": "Fri, 23 Oct 2026 00:20:03 GMT",
+  "ETag": "\"9e6bde9315f15b00d25c8430199aa5e2b39dd796203f1d1b26ae421e7b37f0e0\"",
+  "Last-Modified": "Fri, 06 Nov 2026 09:31:08 GMT",
   "base": {
     "repo": {
       "name": "opensees-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T09:31:07Z",
   "created_at": "2026-09-10T07:10:37Z",
   "draft": false,
   "e_tag": "\"98657a33b9702772eaae626eb8c31975b7e8b0a27397d86431c6fd608132986e\"",
   "head": {
-    "ref": "bot-pr_arch_hd7c1b4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opensees-feedstock/pull/15",
   "id": 4492956281,
   "labels": [],
-  "last_fetched": "2026-10-30T09:31:53.173568",
+  "last_fetched": "2026-11-06T09:32:59.999440",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T09:31:07Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-23T00:20:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T09:31:08Z"
 }

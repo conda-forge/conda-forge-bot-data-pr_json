@@ -1,6 +1,6 @@
 {
-  "ETag": "\"c1e54cd671e5cb80702b55cad720e29ef6de2ed069883a67c22a70a4905e8551\"",
-  "Last-Modified": "Fri, 06 Nov 2026 11:47:42 GMT",
+  "ETag": "\"918f25ee134882b56dfc97dad41f075e3c0a38c7e294e94b2d2adee2492ae4b8\"",
+  "Last-Modified": "Fri, 06 Nov 2026 13:48:10 GMT",
   "base": {
     "repo": {
       "name": "lalmetaio-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/lalmetaio-feedstock/pull/52",
   "id": 5097174103,
-  "labels": [],
-  "last_fetched": "2026-11-06T13:28:26.596213",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890953122,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTUzMTIy",
+      "url": "https://api.github.com/repos/conda-forge/lalmetaio-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-06T13:49:48.663025",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 52,
   "state": "open",
-  "updated_at": "2026-11-06T11:47:42Z"
+  "updated_at": "2026-11-06T13:48:10Z"
 }

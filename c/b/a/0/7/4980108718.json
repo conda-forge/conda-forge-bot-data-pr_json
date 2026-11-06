@@ -1,13 +1,13 @@
 {
-  "ETag": "\"3dde9c5421ebbcfe6e0cd052f020529f5f79a52567c8f5a4d06b0ae3417126a7\"",
-  "Last-Modified": "Fri, 23 Oct 2026 10:14:10 GMT",
+  "ETag": "W/\"62f1063f108294c55d5e3d3c4afeb373805bebbcc47246e7e5c640a3a4ce982e\"",
+  "Last-Modified": "Fri, 06 Nov 2026 19:43:04 GMT",
   "base": {
     "repo": {
       "name": "snowpark-connect-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-06T19:43:04Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-23T08:37:27Z",
   "draft": false,
   "e_tag": "\"5f4603b9b65ca2b2a3e32f195a7c86d9a8f5b7d7663fac590702b3c7157a8a64\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/snowpark-connect-feedstock/pull/41",
   "id": 4980108718,
-  "labels": [],
-  "last_fetched": "2026-10-30T19:29:52.772482",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-06T19:43:07.393425",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-10-23T10:14:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T19:43:04Z"
 }

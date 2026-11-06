@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3cdf96dfa3485cf0d584a4f9164802cf48833da01c9b8e17fa722b7a7c3839a7\"",
+  "Last-Modified": "Fri, 06 Nov 2026 02:26:40 GMT",
   "base": {
     "repo": {
       "name": "typed-settings-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T02:26:37Z",
   "closed_by": null,
   "created_at": "2026-11-06T02:12:52Z",
   "draft": false,
   "e_tag": "\"4bf9aeb860ee6e3554d17bf734fc7da9815c5b16eb49b43d89d8903d24b72248\"",
   "head": {
-    "ref": "26.1.0_h4f0e4a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/typed-settings-feedstock/pull/36",
   "id": 5181778520,
   "labels": [],
-  "last_fetched": "2026-11-06T02:12:53.445410",
+  "last_fetched": "2026-11-06T02:28:06.530303",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T02:26:37Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-06T02:12:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T02:26:40Z"
 }

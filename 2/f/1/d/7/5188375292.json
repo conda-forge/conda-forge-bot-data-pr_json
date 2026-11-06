@@ -1,6 +1,6 @@
 {
-  "ETag": "\"70cfb13d76073886ce32178262a5da9fc2aedefc105180c9381a31bfd8911bfc\"",
-  "Last-Modified": "Fri, 06 Nov 2026 15:17:44 GMT",
+  "ETag": "\"f377d8b0fc7693243ce66492203bb3e21df2037852546b57f2572af8abfcd262\"",
+  "Last-Modified": "Fri, 06 Nov 2026 16:27:12 GMT",
   "base": {
     "repo": {
       "name": "kitty-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/kitty-feedstock/pull/83",
   "id": 5188375292,
-  "labels": [],
-  "last_fetched": "2026-11-06T15:19:50.994844",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890951980,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTUxOTgw",
+      "url": "https://api.github.com/repos/conda-forge/kitty-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-06T16:28:58.021100",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 83,
   "state": "open",
-  "updated_at": "2026-11-06T15:17:44Z"
+  "updated_at": "2026-11-06T16:27:12Z"
 }

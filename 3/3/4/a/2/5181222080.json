@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4ab36e53dbe8f0b00b0406c023e4a4b8313ace33833547b16c91899b51862f8b\"",
+  "Last-Modified": "Fri, 06 Nov 2026 01:11:55 GMT",
   "base": {
     "repo": {
       "name": "sonar-scanner-msbuild-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T01:11:50Z",
   "closed_by": null,
   "created_at": "2026-11-06T01:09:39Z",
   "draft": false,
   "e_tag": "\"eaea9b7d3beda4214becdec743a7cf022e42f1c529842459a19f6612505faeff\"",
   "head": {
-    "ref": "12.1.0.12898_hbe5d65"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sonar-scanner-msbuild-feedstock/pull/22",
   "id": 5181222080,
   "labels": [],
-  "last_fetched": "2026-11-06T01:09:40.420824",
+  "last_fetched": "2026-11-06T01:13:03.049680",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T01:11:50Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-06T01:09:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T01:11:55Z"
 }

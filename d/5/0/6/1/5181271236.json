@@ -1,27 +1,29 @@
 {
+  "ETag": "\"48575dcb0720ca115c60944adceeb3b7a68f9d2050f58b84d0454d0e3a1caca1\"",
+  "Last-Modified": "Fri, 06 Nov 2026 01:17:09 GMT",
   "base": {
     "repo": {
       "name": "unstructured-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T01:17:04Z",
   "closed_by": null,
   "created_at": "2026-11-06T01:15:10Z",
   "draft": false,
   "e_tag": "\"60eb2d52548a2e39a5448f0d85308ba58884e0299883c8f91ee30d81fe45450f\"",
   "head": {
-    "ref": "0.47.0_hadd4d1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/unstructured-client-feedstock/pull/81",
   "id": 5181271236,
   "labels": [],
-  "last_fetched": "2026-11-06T01:15:11.212766",
+  "last_fetched": "2026-11-06T01:18:36.904068",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T01:17:04Z",
   "number": 81,
-  "state": "open",
-  "updated_at": "2026-11-06T01:15:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T01:17:09Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"55488d2bcfe9e3b44dbc2f3ace6de75a70941d9b80522b4d49a6ea4e4bac9605\"",
-  "Last-Modified": "Tue, 03 Nov 2026 15:23:06 GMT",
+  "ETag": "\"028eef280d7ec09d866d8a92ec659aa3b66a7d80542f6bccf15d39323b5ff3dd\"",
+  "Last-Modified": "Fri, 06 Nov 2026 18:32:50 GMT",
   "base": {
     "repo": {
       "name": "airportsdata-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/airportsdata-feedstock/pull/17",
   "id": 5139771224,
-  "labels": [],
-  "last_fetched": "2026-11-03T16:00:07.030969",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8019382788,
+      "name": "automerge",
+      "node_id": "LA_kwDONr1kA88AAAAB3f4SBA",
+      "url": "https://api.github.com/repos/conda-forge/airportsdata-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-06T18:33:58.449118",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 17,
   "state": "open",
-  "updated_at": "2026-11-03T15:23:06Z"
+  "updated_at": "2026-11-06T18:32:50Z"
 }

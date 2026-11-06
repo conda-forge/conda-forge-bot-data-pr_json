@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5c1bfbee619f1b41c86c57af0975c1a5c7c02c0c4b6cc2e8b909f5d0bd4eded5\"",
+  "Last-Modified": "Fri, 06 Nov 2026 16:22:51 GMT",
   "base": {
     "repo": {
       "name": "schnetpack-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T16:22:46Z",
   "closed_by": null,
   "created_at": "2026-11-06T16:20:24Z",
   "draft": false,
   "e_tag": "\"b45912a96591b178c14ef7ed9c7d3ddd93e14d1ca2fb2e946d9851f1370b3f60\"",
   "head": {
-    "ref": "2.3.0_h76c534"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/schnetpack-feedstock/pull/19",
   "id": 5190993972,
   "labels": [],
-  "last_fetched": "2026-11-06T16:20:25.642964",
+  "last_fetched": "2026-11-06T16:24:18.543076",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T16:22:46Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-11-06T16:20:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T16:22:51Z"
 }

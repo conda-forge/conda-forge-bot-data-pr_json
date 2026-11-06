@@ -1,18 +1,18 @@
 {
-  "ETag": "\"3c300b59f460187cd89f555c7d7421b78a9da582cebe44102fb15265d874f159\"",
-  "Last-Modified": "Fri, 06 Nov 2026 13:42:06 GMT",
+  "ETag": "\"92e585122bc4c3fa4656c7c52a579a65d83c2f43c370ec9bfa581cadd68452b6\"",
+  "Last-Modified": "Fri, 06 Nov 2026 13:46:22 GMT",
   "base": {
     "repo": {
       "name": "robotframework-robocop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T13:46:17Z",
   "closed_by": null,
   "created_at": "2026-11-06T13:16:45Z",
   "draft": false,
   "e_tag": "\"35afd963ddaa2b228b248ca75366bf40e8cbd68c36d5127466aec86923a56f9e\"",
   "head": {
-    "ref": "9.2.0_h02c0b7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/robotframework-robocop-feedstock/pull/134",
   "id": 5188403609,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/robotframework-robocop-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-06T13:43:47.957367",
+  "last_fetched": "2026-11-06T13:47:28.434695",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T13:46:17Z",
   "number": 134,
-  "state": "open",
-  "updated_at": "2026-11-06T13:42:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T13:46:22Z"
 }

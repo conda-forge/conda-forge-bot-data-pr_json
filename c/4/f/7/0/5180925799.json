@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c8473eab7af0f6adba93ad0e82be001d1807d65c09801000431d437738cf0cf8\"",
-  "Last-Modified": "Fri, 06 Nov 2026 00:38:38 GMT",
+  "ETag": "\"9dcab978aea98f97449048ebc25c46781429f8c5f053d96529ca638205a9f155\"",
+  "Last-Modified": "Fri, 06 Nov 2026 09:06:18 GMT",
   "base": {
     "repo": {
       "name": "a2ui-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T09:06:18Z",
   "closed_by": null,
   "created_at": "2026-11-06T00:36:26Z",
   "draft": false,
   "e_tag": "\"8200878cf13cf655b908d0d93de2fd295a73cdec44f76594a532b7433abdcdde\"",
   "head": {
-    "ref": "0.5.0_h53579e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/a2ui-core-feedstock/pull/1",
   "id": 5180925799,
   "labels": [],
-  "last_fetched": "2026-11-06T06:27:37.588499",
+  "last_fetched": "2026-11-06T09:08:03.659203",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T09:06:18Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-06T00:38:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T09:06:18Z"
 }

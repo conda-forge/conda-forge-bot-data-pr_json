@@ -1,29 +1,29 @@
 {
-  "ETag": "\"23542be10fda591231425b219864200fe564b5a40ee430a164a4ea75335049c0\"",
-  "Last-Modified": "Thu, 05 Nov 2026 16:32:28 GMT",
+  "ETag": "\"785f0030b1e509626959178230cb9dbf8540dfa6a5aa3d2dd24419de4eff4992\"",
+  "Last-Modified": "Fri, 06 Nov 2026 09:27:54 GMT",
   "base": {
     "repo": {
       "name": "bssunfold-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T09:27:54Z",
   "closed_by": null,
   "created_at": "2026-11-05T16:31:06Z",
   "draft": false,
   "e_tag": "\"02ebb55d162dec5626576f4382e7151c514482586158b2aac8c473c5f5618697\"",
   "head": {
-    "ref": "0.32.0_h1efec2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bssunfold-feedstock/pull/26",
   "id": 5175029491,
   "labels": [],
-  "last_fetched": "2026-11-05T18:33:02.118786",
+  "last_fetched": "2026-11-06T09:29:06.561669",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T09:27:54Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-11-05T16:32:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T09:27:54Z"
 }

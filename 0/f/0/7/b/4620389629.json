@@ -1,28 +1,28 @@
 {
-  "ETag": "\"1888e083b12a9de9f0687f1a8955e80844f95ba76609c22f3e8c68abe7595d80\"",
-  "Last-Modified": "Thu, 24 Sep 2026 01:18:05 GMT",
+  "ETag": "\"ac89c4bdeb3ef7f0bcdced535e716461c0ff3ea5d076ec23cf979ae6244f862a\"",
+  "Last-Modified": "Fri, 06 Nov 2026 07:18:04 GMT",
   "base": {
     "repo": {
       "name": "castxml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T07:18:04Z",
   "created_at": "2026-09-24T01:16:27Z",
   "draft": false,
   "e_tag": "\"fcb65df4fa7b4ffa04b23b005cf61142efaf55d3c9d3b3e1077f1cd0b492a3bf\"",
   "head": {
-    "ref": "0.8.0_h63a2cb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/castxml-feedstock/pull/5",
   "id": 4620389629,
   "labels": [],
-  "last_fetched": "2026-11-05T11:17:01.196439",
+  "last_fetched": "2026-11-06T07:19:23.780181",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T07:18:04Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-09-24T01:18:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T07:18:04Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e898d19294c7c9038e1cb8baf4bb4e3fd19780cea87fa051faec6eef82ce689f\"",
-  "Last-Modified": "Thu, 05 Nov 2026 23:06:21 GMT",
+  "ETag": "\"8783e60d3b6fdff293359ae5fcc48721643ed06a7cdeecabb318289e376aeec9\"",
+  "Last-Modified": "Fri, 06 Nov 2026 08:39:43 GMT",
   "base": {
     "repo": {
       "name": "lerobot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T08:39:43Z",
   "closed_by": null,
   "created_at": "2026-11-05T19:27:51Z",
   "draft": false,
   "e_tag": "\"63e48677c05fc2f44450d6a02e2d4350eb0d09e2488651ff85a342eb6afd2635\"",
   "head": {
-    "ref": "0.7.0_h07ed28"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lerobot-feedstock/pull/21",
   "id": 5177441272,
   "labels": [],
-  "last_fetched": "2026-11-06T01:02:42.300416",
+  "last_fetched": "2026-11-06T08:41:15.494424",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T08:39:43Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-05T23:06:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T08:39:43Z"
 }

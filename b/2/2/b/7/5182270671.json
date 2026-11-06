@@ -1,29 +1,29 @@
 {
-  "ETag": "\"74533c14cb18d0ef1c1bba264749b44bc7b462f96849ceff9d854f08c2469ce5\"",
-  "Last-Modified": "Fri, 06 Nov 2026 03:12:37 GMT",
+  "ETag": "\"3b435ec8ea8683dfc62e3b76768e0f024780b3a1c0cdb3233520def1890fa0be\"",
+  "Last-Modified": "Fri, 06 Nov 2026 17:22:57 GMT",
   "base": {
     "repo": {
       "name": "schwifty-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T17:22:56Z",
   "closed_by": null,
   "created_at": "2026-11-06T03:10:59Z",
   "draft": false,
   "e_tag": "\"15eab54af54f1eafba035654782417ce5a6679780ed3e423ae0786b2846d62cf\"",
   "head": {
-    "ref": "2026.11.0_had24e5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/schwifty-feedstock/pull/46",
   "id": 5182270671,
   "labels": [],
-  "last_fetched": "2026-11-06T03:30:39.044821",
+  "last_fetched": "2026-11-06T17:24:33.179005",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T17:22:56Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-11-06T03:12:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T17:22:57Z"
 }

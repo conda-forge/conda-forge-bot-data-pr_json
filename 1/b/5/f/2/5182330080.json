@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ec341970b1748aa2732c145785384059e88aa1e807433126aca9104a73d57480\"",
+  "Last-Modified": "Fri, 06 Nov 2026 03:44:30 GMT",
   "base": {
     "repo": {
       "name": "easysnowdata-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T03:44:30Z",
   "closed_by": null,
   "created_at": "2026-11-06T03:18:03Z",
   "draft": false,
   "e_tag": "\"176b5a3033f115826de4b994ebd140414becb06b0ac6f2eb8932b42608c3a0c5\"",
   "head": {
-    "ref": "0.3.7_hce7fc2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/easysnowdata-feedstock/pull/17",
   "id": 5182330080,
   "labels": [],
-  "last_fetched": "2026-11-06T03:18:03.860140",
+  "last_fetched": "2026-11-06T03:45:38.699420",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T03:44:30Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-11-06T03:18:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T03:44:30Z"
 }

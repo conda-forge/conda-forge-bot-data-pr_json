@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3a39e2f826c3c3a0d02c86be52ca1348c8ec759b1b79d9bbda735acf6b803720\"",
-  "Last-Modified": "Fri, 06 Nov 2026 13:48:59 GMT",
+  "ETag": "\"39e06713005d4a9c7954c86ce07a406c94bd458e051ccfba214624ca30377200\"",
+  "Last-Modified": "Fri, 06 Nov 2026 16:42:20 GMT",
   "base": {
     "repo": {
       "name": "lalburst-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/lalburst-feedstock/pull/54",
   "id": 5097238751,
-  "labels": [],
-  "last_fetched": "2026-11-06T14:58:39.914338",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890953048,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTUzMDQ4",
+      "url": "https://api.github.com/repos/conda-forge/lalburst-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-06T16:43:53.218811",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 54,
   "state": "open",
-  "updated_at": "2026-11-06T13:48:59Z"
+  "updated_at": "2026-11-06T16:42:20Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"14a6bed9a06376403c1dbaaf9dc861c0b8ecd9ce5519122ae10082ec85e44ed8\"",
-  "Last-Modified": "Fri, 06 Nov 2026 19:12:56 GMT",
+  "ETag": "\"3ea935516341f6de41bc769873e14e10478ee64c2206f7746fe066b65a6fee35\"",
+  "Last-Modified": "Fri, 06 Nov 2026 22:02:03 GMT",
   "base": {
     "repo": {
       "name": "phoebusgen-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T22:02:03Z",
   "closed_by": null,
   "created_at": "2026-11-06T19:11:22Z",
   "draft": false,
   "e_tag": "\"ab12f08926a8dcf4f3f834ce8a3a9298f287353ef9ab27c4eddce28a85f534c7\"",
   "head": {
-    "ref": "3.4.0_ha40bbb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phoebusgen-feedstock/pull/3",
   "id": 5193237089,
   "labels": [],
-  "last_fetched": "2026-11-06T19:59:39.127617",
+  "last_fetched": "2026-11-06T22:03:14.946705",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T22:02:03Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-11-06T19:12:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T22:02:03Z"
 }

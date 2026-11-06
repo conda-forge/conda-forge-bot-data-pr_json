@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5a0a05213cc6e29c39b7028f984dcfd1f6e526c1a13a94fb963898d73b3418ab\"",
+  "Last-Modified": "Fri, 06 Nov 2026 20:42:46 GMT",
   "base": {
     "repo": {
       "name": "nestjs-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T20:42:42Z",
   "closed_by": null,
   "created_at": "2026-11-06T20:40:25Z",
   "draft": false,
   "e_tag": "\"5d90b34409e85fecbaea7b0f6a84ea030fa56633f96d16df17feb738082da3d8\"",
   "head": {
-    "ref": "12.0.12_ha91e6a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nestjs-cli-feedstock/pull/35",
   "id": 5194322358,
   "labels": [],
-  "last_fetched": "2026-11-06T20:40:26.641479",
+  "last_fetched": "2026-11-06T20:44:26.489052",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T20:42:42Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-11-06T20:40:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T20:42:46Z"
 }

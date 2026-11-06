@@ -1,29 +1,29 @@
 {
-  "ETag": "\"33ea70e99f6c0093a73f84d694a80499b42c9957ba08d5458d17345f933f224d\"",
-  "Last-Modified": "Thu, 05 Nov 2026 23:47:25 GMT",
+  "ETag": "\"a37b40690216269a677e5c0ee8ed596c7826afd380d450a6b4aa3152ee5233ed\"",
+  "Last-Modified": "Fri, 06 Nov 2026 14:39:22 GMT",
   "base": {
     "repo": {
       "name": "acro-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T14:39:22Z",
   "closed_by": null,
   "created_at": "2026-11-05T23:45:55Z",
   "draft": false,
   "e_tag": "\"f16713cf42945de16cffaf547b3a7146cf9b1f0ebb06fa47d57ecaf7e50be987\"",
   "head": {
-    "ref": "1.1.0_h5739fc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/acro-feedstock/pull/9",
   "id": 5180447325,
   "labels": [],
-  "last_fetched": "2026-11-06T02:58:08.517223",
+  "last_fetched": "2026-11-06T14:40:57.253415",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T14:39:22Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-05T23:47:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T14:39:22Z"
 }

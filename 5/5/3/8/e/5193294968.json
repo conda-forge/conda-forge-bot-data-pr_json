@@ -1,29 +1,29 @@
 {
-  "ETag": "\"75ef9b64bba2417e4788adaa1f871cc8f1233b1a391405022acfb8587a30e501\"",
-  "Last-Modified": "Fri, 06 Nov 2026 19:17:26 GMT",
+  "ETag": "\"d7bf60d2636d78aa8f82c2a4a488581f9e05d4b0861a7dae9c5894d594465168\"",
+  "Last-Modified": "Fri, 06 Nov 2026 21:17:27 GMT",
   "base": {
     "repo": {
       "name": "styro-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T21:17:27Z",
   "closed_by": null,
   "created_at": "2026-11-06T19:15:53Z",
   "draft": false,
   "e_tag": "\"7ec87191f1401606ec71cdf57dad23fb36fbfe0a717cb704378c20921ec55695\"",
   "head": {
-    "ref": "0.1.40_h8aeeab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/styro-feedstock/pull/33",
   "id": 5193294968,
   "labels": [],
-  "last_fetched": "2026-11-06T20:18:51.920271",
+  "last_fetched": "2026-11-06T21:18:46.689100",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T21:17:27Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-06T19:17:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T21:17:27Z"
 }

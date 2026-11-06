@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8fbf06b7103d9e5dc1eb157bff0f4b9023f8a97c7049c0888915b57f7aa8cd9c\"",
+  "Last-Modified": "Fri, 06 Nov 2026 02:51:50 GMT",
   "base": {
     "repo": {
       "name": "pythermalcomfort-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T02:51:50Z",
   "closed_by": null,
   "created_at": "2026-11-05T12:56:34Z",
   "draft": false,
   "e_tag": "\"8749d61eb1dd36bbf5f5c26733887cecb948e2407119e693f56118bbfe15083a\"",
   "head": {
-    "ref": "4.8.1_he82527"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pythermalcomfort-feedstock/pull/14",
   "id": 5171914825,
   "labels": [],
-  "last_fetched": "2026-11-05T12:56:35.458891",
+  "last_fetched": "2026-11-06T02:53:20.465114",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T02:51:50Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-05T12:56:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T02:51:50Z"
 }

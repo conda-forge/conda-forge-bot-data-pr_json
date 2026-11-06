@@ -1,6 +1,6 @@
 {
-  "ETag": "\"71b086fd06c2c1848b237531f68aafd8589ffb1916bfd43be785af9e990c14bb\"",
-  "Last-Modified": "Fri, 06 Nov 2026 17:34:02 GMT",
+  "ETag": "\"133655fd01def722173c4da9a42c615142fa688dcbcf2d0095dd201197f53395\"",
+  "Last-Modified": "Fri, 06 Nov 2026 21:05:40 GMT",
   "base": {
     "repo": {
       "name": "supabase-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/supabase-feedstock/pull/106",
   "id": 5191972291,
-  "labels": [],
-  "last_fetched": "2026-11-06T17:59:47.652798",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4822035371,
+      "name": "automerge",
+      "node_id": "LA_kwDOIeMe1M8AAAABH2prqw",
+      "url": "https://api.github.com/repos/conda-forge/supabase-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-06T21:07:14.664889",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 106,
   "state": "open",
-  "updated_at": "2026-11-06T17:34:02Z"
+  "updated_at": "2026-11-06T21:05:40Z"
 }

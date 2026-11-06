@@ -1,27 +1,29 @@
 {
+  "ETag": "\"22b43edcf949530c45bbbed28b5d1e8174d4c5921fae1dfd11a45c87bd53bfc0\"",
+  "Last-Modified": "Fri, 06 Nov 2026 12:09:16 GMT",
   "base": {
     "repo": {
       "name": "cdxgen-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T12:09:16Z",
   "closed_by": null,
   "created_at": "2026-11-06T12:02:05Z",
   "draft": false,
   "e_tag": "\"da85980ea0f4763ed74618924f11a56663b1406f53cc9895f4b85ad62f38634b\"",
   "head": {
-    "ref": "12.9.1_he86557"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cdxgen-feedstock/pull/7",
   "id": 5187514559,
   "labels": [],
-  "last_fetched": "2026-11-06T12:02:06.042278",
+  "last_fetched": "2026-11-06T12:10:38.667916",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T12:09:16Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-06T12:02:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T12:09:20Z"
 }

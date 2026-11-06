@@ -1,28 +1,28 @@
 {
-  "ETag": "\"f9997bc10486354eb55645cc985b3a4a8fd9f4c599545bda23915eed4e99ed03\"",
-  "Last-Modified": "Thu, 17 Sep 2026 21:10:14 GMT",
+  "ETag": "\"815e0ee273815e446cb6076c1d493ae27e6db4c7e2a13083bc888096ca8d2a24\"",
+  "Last-Modified": "Fri, 06 Nov 2026 14:18:39 GMT",
   "base": {
     "repo": {
       "name": "libnetworkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T14:18:38Z",
   "created_at": "2026-09-17T21:08:26Z",
   "draft": false,
   "e_tag": "\"989534004b7dc5959a4551c5bb3b8f6736e5496127c58a93dbc281bb6d82e1b3\"",
   "head": {
-    "ref": "11.2.2_h514add"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libnetworkit-feedstock/pull/18",
   "id": 4563001120,
   "labels": [],
-  "last_fetched": "2026-11-06T08:21:51.656737",
+  "last_fetched": "2026-11-06T14:20:14.719148",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T14:18:38Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-09-17T21:10:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T14:18:39Z"
 }

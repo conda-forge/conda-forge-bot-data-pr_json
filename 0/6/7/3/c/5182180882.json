@@ -1,29 +1,29 @@
 {
-  "ETag": "\"87f2a2b4a5ab1bb0462bf975902f7aa0137890218931e4becd0aa7e1216120a1\"",
-  "Last-Modified": "Fri, 06 Nov 2026 03:02:19 GMT",
+  "ETag": "\"8ee4bea472d0d4a0f69e2d2ada64d5a26d2f50c9913e45a9a133e358b1f6f3e8\"",
+  "Last-Modified": "Fri, 06 Nov 2026 16:15:19 GMT",
   "base": {
     "repo": {
       "name": "datalab-capsule-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T16:15:19Z",
   "closed_by": null,
   "created_at": "2026-11-06T03:00:50Z",
   "draft": false,
   "e_tag": "\"07d391041f2e38c918c4f48c95cad930c7159f41ec7555dadc0d8a88f5943db7\"",
   "head": {
-    "ref": "0.2.0_h508407"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/datalab-capsule-feedstock/pull/1",
   "id": 5182180882,
   "labels": [],
-  "last_fetched": "2026-11-06T03:43:54.618246",
+  "last_fetched": "2026-11-06T16:16:52.319245",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T16:15:19Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-06T03:02:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T16:15:19Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"685b66cd89dc929fd66e4a6e6419662820299c79e4e4281c6455d6a9b1254dae\"",
+  "Last-Modified": "Fri, 06 Nov 2026 16:42:17 GMT",
   "base": {
     "repo": {
       "name": "mc3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T16:42:17Z",
   "closed_by": null,
   "created_at": "2026-11-06T16:15:23Z",
   "draft": false,
   "e_tag": "\"d70af03774e6204ba3bb8f1e2763c3ec3432593c8fefe2935d855c798950be41\"",
   "head": {
-    "ref": "3.3.1_hb41346"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mc3-feedstock/pull/32",
   "id": 5190922626,
   "labels": [],
-  "last_fetched": "2026-11-06T16:15:24.742423",
+  "last_fetched": "2026-11-06T16:43:51.829884",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T16:42:17Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-11-06T16:15:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T16:42:17Z"
 }

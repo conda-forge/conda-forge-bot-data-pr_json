@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f985d32ce6df2f386cc7cd4fb8c03a896bc37ad640919af1710510148d7fdda5\"",
+  "Last-Modified": "Fri, 06 Nov 2026 15:52:40 GMT",
   "base": {
     "repo": {
       "name": "ibm-cloud-sdk-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T15:52:36Z",
   "closed_by": null,
   "created_at": "2026-11-06T15:50:47Z",
   "draft": false,
   "e_tag": "\"ded919be27d241cda2aa01c1137b7248b25bc90522122093fb9491ca98e7ab8a\"",
   "head": {
-    "ref": "3.28.2_hd26fe2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ibm-cloud-sdk-core-feedstock/pull/61",
   "id": 5190556881,
   "labels": [],
-  "last_fetched": "2026-11-06T15:50:48.716885",
+  "last_fetched": "2026-11-06T15:53:54.623623",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T15:52:36Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-06T15:50:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T15:52:40Z"
 }

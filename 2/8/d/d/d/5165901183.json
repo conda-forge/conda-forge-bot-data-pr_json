@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a9d950921003caf8b7d30121d1cb3a3009510f1c8b8a96d3d9446002626f04a0\"",
-  "Last-Modified": "Thu, 05 Nov 2026 04:02:05 GMT",
+  "ETag": "\"b9dccdefda03a4602ee2617503f8b179f8c8e45b3a580df04eb8a3ce54b79353\"",
+  "Last-Modified": "Fri, 06 Nov 2026 14:52:55 GMT",
   "base": {
     "repo": {
       "name": "yt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T14:52:55Z",
   "closed_by": null,
   "created_at": "2026-11-05T04:00:22Z",
   "draft": false,
   "e_tag": "\"62bfa5582bb767574e42b118d541a01ab8c219c32bf32d7d0eb560c8d23551f5\"",
   "head": {
-    "ref": "4.4.4_hae4d8e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yt-feedstock/pull/121",
   "id": 5165901183,
   "labels": [],
-  "last_fetched": "2026-11-05T05:43:27.528577",
+  "last_fetched": "2026-11-06T14:54:06.834132",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T14:52:55Z",
   "number": 121,
-  "state": "open",
-  "updated_at": "2026-11-05T04:02:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T14:52:55Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"28d40da90c63eefb23990a2840861ad6308cabc8bacd9367f4d20912b6f3a3dc\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"f940e3eece28093d03c21c073f22a80392f70224ada24d79b581720afce1d2b5\"",
+  "Last-Modified": "Fri, 06 Nov 2026 12:49:06 GMT",
   "base": {
     "repo": {
       "name": "kitty-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T12:49:06Z",
+  "closed_by": "wolfv",
   "created_at": "2025-03-30T22:28:40Z",
   "draft": false,
   "e_tag": "\"11b07e8c13bf1e00ca39a86c50fa8f46706ae641b1dec4bd8cdedec44e007003\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/kitty-feedstock/pull/78",
   "id": 2427764330,
   "labels": [],
-  "last_fetched": "2026-11-02T18:00:02.582713",
+  "last_fetched": "2026-11-06T12:50:38.154351",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 78,
-  "state": "open",
-  "updated_at": "2025-03-30T22:30:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T12:49:06Z"
 }

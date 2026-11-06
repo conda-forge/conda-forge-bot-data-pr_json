@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3a05fbe974f7daa4a6a89573086f92dec2b14af9faa28ff10209d044533ce776\"",
+  "Last-Modified": "Fri, 06 Nov 2026 18:35:45 GMT",
   "base": {
     "repo": {
       "name": "crewai-suite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T18:35:45Z",
   "closed_by": null,
   "created_at": "2026-11-06T17:16:45Z",
   "draft": false,
   "e_tag": "\"6a670d0f20d92058fc323d136b4dfd3e518beac27418051334b8cf00824aa18b\"",
   "head": {
-    "ref": "1.15.36_ha9f602"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/crewai-suite-feedstock/pull/38",
   "id": 5191771923,
   "labels": [],
-  "last_fetched": "2026-11-06T17:16:45.936850",
+  "last_fetched": "2026-11-06T18:37:11.323695",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T18:35:45Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-06T17:16:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T18:35:45Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"13a36251b460cfc7f5244fff5cc46b92c8248f90d171f2de34e8f40a69b6812c\"",
-  "Last-Modified": "Fri, 06 Nov 2026 07:05:19 GMT",
+  "ETag": "\"fa8dd761b2dcbe09a82e0b1b5343f3a3c96f64b6f9f6c650451c7826a7bfe01f\"",
+  "Last-Modified": "Fri, 06 Nov 2026 15:19:56 GMT",
   "base": {
     "repo": {
       "name": "kafka-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T15:19:56Z",
   "closed_by": null,
   "created_at": "2026-11-06T07:03:53Z",
   "draft": false,
   "e_tag": "\"9dd02c27c889eeb6b03bbfd58415bb00ab7cb7fefa34c2d271f499bb7dc098ad\"",
   "head": {
-    "ref": "3.0.13_ha22a8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kafka-python-feedstock/pull/59",
   "id": 5184235521,
   "labels": [],
-  "last_fetched": "2026-11-06T08:42:53.424478",
+  "last_fetched": "2026-11-06T15:21:38.189554",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-06T15:19:56Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-11-06T07:05:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T15:19:56Z"
 }

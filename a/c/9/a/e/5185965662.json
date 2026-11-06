@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fcca2d5ee0b2aace7ee572ada9bc1149b3ff5730f0813a027c52c7532ca261be\"",
+  "Last-Modified": "Fri, 06 Nov 2026 10:25:52 GMT",
   "base": {
     "repo": {
       "name": "redisvl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-06T10:25:52Z",
   "closed_by": null,
   "created_at": "2026-11-06T09:46:51Z",
   "draft": false,
   "e_tag": "\"9d336af99ae79960a60ae23b786ab5dfaed38ffcca730d4b5e0ae7e5e99537d0\"",
   "head": {
-    "ref": "0.31.0_ha2b29a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/redisvl-feedstock/pull/26",
   "id": 5185965662,
   "labels": [],
-  "last_fetched": "2026-11-06T09:46:52.593822",
+  "last_fetched": "2026-11-06T10:27:32.882086",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-06T10:25:52Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-11-06T09:46:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-06T10:25:52Z"
 }

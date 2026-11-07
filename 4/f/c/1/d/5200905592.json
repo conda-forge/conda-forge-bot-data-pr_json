@@ -1,6 +1,6 @@
 {
-  "ETag": "\"94cf7c3a40563e07f40cbb894c80fe1f055694832114c0055d3358eaf704fd1e\"",
-  "Last-Modified": "Sat, 07 Nov 2026 10:56:30 GMT",
+  "ETag": "\"c4fbd1047546be13320a18d43d95140a24b48d21b869bf1e6d3d0063ff7cefa2\"",
+  "Last-Modified": "Sat, 07 Nov 2026 13:50:02 GMT",
   "base": {
     "repo": {
       "name": "s2geometry-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/s2geometry-feedstock/pull/47",
   "id": 5200905592,
-  "labels": [],
-  "last_fetched": "2026-11-07T12:20:40.165961",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2462366075,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNDYyMzY2MDc1",
+      "url": "https://api.github.com/repos/conda-forge/s2geometry-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-07T13:50:57.739823",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 47,
   "state": "open",
-  "updated_at": "2026-11-07T10:58:01Z"
+  "updated_at": "2026-11-07T13:50:02Z"
 }

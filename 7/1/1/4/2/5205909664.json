@@ -1,18 +1,18 @@
 {
-  "ETag": "\"b493a6579eda64eb67e840118d6f1ee29a95a8b45040140b0042fc2729256957\"",
-  "Last-Modified": "Sat, 07 Nov 2026 21:37:40 GMT",
+  "ETag": "\"6271180c404e4225938effc87e62f052a5aee9a511912753f5f29e16bf99892d\"",
+  "Last-Modified": "Sat, 07 Nov 2026 21:46:53 GMT",
   "base": {
     "repo": {
       "name": "osl-dynamics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T21:46:50Z",
   "closed_by": null,
   "created_at": "2026-11-07T21:15:35Z",
   "draft": false,
   "e_tag": "\"b9ce1b9d50a3bf55a15280c4f00251bd70420dbd8300e23aba9711184407fd93\"",
   "head": {
-    "ref": "3.8.0_hf2cd01"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/osl-dynamics-feedstock/pull/12",
   "id": 5205909664,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/osl-dynamics-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-07T21:39:04.866600",
+  "last_fetched": "2026-11-07T21:48:21.110002",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T21:46:50Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-07T21:37:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T21:46:53Z"
 }

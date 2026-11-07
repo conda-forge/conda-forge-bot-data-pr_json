@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ed1d3110e670ace4fca33d13280cfab2682d4cacd95ef02cb8f8349d09b90eb2\"",
-  "Last-Modified": "Sat, 07 Nov 2026 14:44:04 GMT",
+  "ETag": "\"e0f555cdf364206f86e94e7034a436768f33149254162fb301db53e34db41d12\"",
+  "Last-Modified": "Sat, 07 Nov 2026 18:39:52 GMT",
   "base": {
     "repo": {
       "name": "torchcodec-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T18:39:52Z",
   "closed_by": null,
   "created_at": "2026-10-25T18:22:45Z",
   "draft": false,
   "e_tag": "\"573aa67224eb29c47cb78ee4a13d940b1f0b16490c684b44a72df3b92c647096\"",
   "head": {
-    "ref": "rebuild-pytorch214-0-1_he59ea2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/torchcodec-feedstock/pull/90",
   "id": 5007434973,
   "labels": [],
-  "last_fetched": "2026-11-07T14:58:46.106075",
+  "last_fetched": "2026-11-07T18:41:29.546507",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T18:39:52Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-11-07T14:44:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T18:39:52Z"
 }

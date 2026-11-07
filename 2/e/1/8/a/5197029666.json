@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e79dfaf6a621516485735d67f8df85a3df10b435420ab5876789c27080dcbf98\"",
+  "Last-Modified": "Sat, 07 Nov 2026 01:10:33 GMT",
   "base": {
     "repo": {
       "name": "r-pulsar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T01:10:29Z",
   "closed_by": null,
   "created_at": "2026-11-07T01:06:42Z",
   "draft": false,
   "e_tag": "\"05556e180541cdb559da0342af6d086084fa144e6a1f86ffe8a93069fceaaea4\"",
   "head": {
-    "ref": "0.3.14_h7b1701"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-pulsar-feedstock/pull/14",
   "id": 5197029666,
   "labels": [],
-  "last_fetched": "2026-11-07T01:06:43.374212",
+  "last_fetched": "2026-11-07T01:11:58.964600",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-07T01:10:29Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-07T01:06:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T01:10:33Z"
 }

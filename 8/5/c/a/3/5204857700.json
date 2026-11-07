@@ -1,27 +1,29 @@
 {
+  "ETag": "\"779f96c04a9b12e6c1c3e876cab0ed2f2fb4e8ebc1c1eac637e220efd4e4a209\"",
+  "Last-Modified": "Sat, 07 Nov 2026 19:18:10 GMT",
   "base": {
     "repo": {
       "name": "nbqa-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T19:18:10Z",
   "closed_by": null,
   "created_at": "2026-11-07T18:54:36Z",
   "draft": false,
   "e_tag": "\"c43be29f89130fa66fa630b6f9d72002cbc039c36f75a1e2b8a3fe4da8bf36fa\"",
   "head": {
-    "ref": "1.10.0_h5baeb5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nbqa-feedstock/pull/61",
   "id": 5204857700,
   "labels": [],
-  "last_fetched": "2026-11-07T18:54:36.908534",
+  "last_fetched": "2026-11-07T19:19:38.176486",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-07T19:18:10Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-07T18:54:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T19:18:10Z"
 }

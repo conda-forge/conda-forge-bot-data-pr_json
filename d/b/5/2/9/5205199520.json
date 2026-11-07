@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c9faed03f93fd996f8d38e9b7684df43b6427f22f925619af5aa61dfd8407f8f\"",
+  "Last-Modified": "Sat, 07 Nov 2026 20:01:40 GMT",
   "base": {
     "repo": {
       "name": "strawberry-graphql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T20:01:39Z",
   "closed_by": null,
   "created_at": "2026-11-07T19:41:15Z",
   "draft": false,
   "e_tag": "\"64086a1e778ced48e35c8e9da2deaa059d0d0aa5ff550b8cdbd76ac869b53c2f\"",
   "head": {
-    "ref": "0.341.2_hfb79bf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/strawberry-graphql-feedstock/pull/516",
   "id": 5205199520,
   "labels": [],
-  "last_fetched": "2026-11-07T19:41:16.354707",
+  "last_fetched": "2026-11-07T20:03:08.513897",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-07T20:01:39Z",
   "number": 516,
-  "state": "open",
-  "updated_at": "2026-11-07T19:41:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T20:01:40Z"
 }

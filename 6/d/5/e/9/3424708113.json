@@ -1,32 +1,29 @@
 {
-  "ETag": "\"95e91be75f72ef0442fae87aedae3161f46e795ff9c3706ce8d872e5a2fc95cb\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"43b1a198ad1f67d4b1272f68002ef738dbf4610ca313b137dc1d3a32ce9ef079\"",
+  "Last-Modified": "Sat, 07 Nov 2026 16:44:37 GMT",
   "base": {
     "repo": {
       "name": "ryaml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T16:44:37Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-03-20T12:09:18Z",
   "draft": false,
   "e_tag": "\"5c354bf0c51ad12f2e4b70898e7c7ecbc50a59a4896751ab6b8db3e11a49349b\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "rebuild-python314-0-1_ha832d6"
   },
   "html_url": "https://github.com/conda-forge/ryaml-feedstock/pull/1",
   "id": 3424708113,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-11-07T16:44:35.528417",
+  "labels": [],
+  "last_fetched": "2026-11-07T16:46:29.562183",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-03-20T12:10:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T16:44:37Z"
 }

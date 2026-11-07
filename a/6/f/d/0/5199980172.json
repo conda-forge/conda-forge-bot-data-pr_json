@@ -1,27 +1,41 @@
 {
+  "ETag": "\"f453160c6a8ed4db6aea4a6f9e93c583c6b5f679b249f93f6d38134b800c2cda\"",
+  "Last-Modified": "Sat, 07 Nov 2026 08:50:56 GMT",
   "base": {
     "repo": {
       "name": "swig-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T08:50:52Z",
   "closed_by": null,
   "created_at": "2026-11-07T08:45:25Z",
   "draft": false,
   "e_tag": "\"3c89fc0e798314707fd499d84ce9266b556e00d94cf60b3913e3806ad849d76e\"",
   "head": {
-    "ref": "rebuild-pcre21049-0-1_he5525b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/swig-feedstock/pull/68",
   "id": 5199980172,
-  "labels": [],
-  "last_fetched": "2026-11-07T08:45:26.004297",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891413079,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDEzMDc5",
+      "url": "https://api.github.com/repos/conda-forge/swig-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-07T08:51:47.453521",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-07T08:50:51Z",
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-11-07T08:45:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T08:50:56Z"
 }

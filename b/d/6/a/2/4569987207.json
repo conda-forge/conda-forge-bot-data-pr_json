@@ -1,5 +1,5 @@
 {
-  "ETag": "\"39ff76345e80fd9c4902351c4af3cc6e255290e1164e2179d5dc07a4a1663707\"",
+  "ETag": "\"bf1f78feb2cf7be902e10abefeb96eaf006e60e83f711a51db0d24d7c6bf9be5\"",
   "Last-Modified": "Fri, 18 Sep 2026 15:00:04 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"530bf3566b670d57c592803d27e921faa3feef01b325f2a3cef0d3f470ea51ee\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_hf2fa76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/s2geometry-feedstock/pull/43",
   "id": 4569987207,
-  "labels": [],
-  "last_fetched": "2026-10-31T05:57:59.269873",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-07T08:29:52.547830",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 43,

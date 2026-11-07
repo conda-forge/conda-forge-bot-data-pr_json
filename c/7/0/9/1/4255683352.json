@@ -1,5 +1,5 @@
 {
-  "ETag": "\"5850569460d584034c96ea28bd3c3cfdbe490ba9a5427a6211f8754a4bead024\"",
+  "ETag": "W/\"1b936fc52acea4b37c3765da278bf547a982bb4b759c9f35b8c146ac01f09251\"",
   "Last-Modified": "Sat, 07 Nov 2026 00:59:24 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/tblite-feedstock/pull/26",
   "id": 4255683352,
-  "labels": [],
-  "last_fetched": "2026-11-07T01:00:47.521875",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-07T00:59:26.955546",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

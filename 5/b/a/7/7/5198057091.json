@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6a5ce887397906af95c4c31a90d0c223dc7ca49084147bac7c1ee87b23d80820\"",
+  "Last-Modified": "Sat, 07 Nov 2026 03:54:04 GMT",
   "base": {
     "repo": {
       "name": "overturemaps-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T03:54:04Z",
   "closed_by": null,
   "created_at": "2026-11-07T03:36:24Z",
   "draft": false,
   "e_tag": "\"29cfb7f7fcaee4d5a63b40522fa9b2047bc35a93e70d467feb7f0d7118801c76\"",
   "head": {
-    "ref": "2.1.0_h3efbef"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/overturemaps-feedstock/pull/24",
   "id": 5198057091,
   "labels": [],
-  "last_fetched": "2026-11-07T03:36:25.362767",
+  "last_fetched": "2026-11-07T03:55:17.895983",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-07T03:54:04Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-11-07T03:36:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T03:54:04Z"
 }

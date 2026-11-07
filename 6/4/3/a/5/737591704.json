@@ -1,5 +1,5 @@
 {
-  "ETag": "\"973dee80738e1b6183c6459da6b009314dead488dea6ea387f5e6cc42d5f5d32\"",
+  "ETag": "\"ccfca0980b6d54a78fc5d3e419b9e9e5a6f046b4f86f3fe93a3e92a39d8e78e1\"",
   "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
   "base": {
     "repo": {
@@ -10,14 +10,18 @@
   "created_at": "2021-09-20T13:40:59Z",
   "draft": false,
   "head": {
-    "ref": "3.21.9.0_hf896ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/inotify-tools-feedstock/pull/8",
   "id": 737591704,
-  "labels": [],
-  "last_fetched": "2026-10-31T09:57:48.659478",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-07T22:59:43.425012",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 8,

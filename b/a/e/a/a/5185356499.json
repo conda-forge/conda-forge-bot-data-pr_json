@@ -1,6 +1,6 @@
 {
-  "ETag": "\"c448b2fa24fef23c4f801d0ba4909663e88aff28e3b396bdb2276d2aa32b33d8\"",
-  "Last-Modified": "Sat, 07 Nov 2026 12:53:57 GMT",
+  "ETag": "\"a07c4c625cb7be5224a284e9c56347efd6fa2e657c002198eb9b4d2f2bdd33b0\"",
+  "Last-Modified": "Sat, 07 Nov 2026 13:00:06 GMT",
   "base": {
     "repo": {
       "name": "go-yq-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/go-yq-feedstock/pull/68",
   "id": 5185356499,
-  "labels": [],
-  "last_fetched": "2026-11-07T12:59:07.088916",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4807841439,
+      "name": "automerge",
+      "node_id": "LA_kwDOIcsrhM8AAAABHpHWnw",
+      "url": "https://api.github.com/repos/conda-forge/go-yq-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-07T13:01:36.448069",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 68,
   "state": "open",
-  "updated_at": "2026-11-07T12:53:57Z"
+  "updated_at": "2026-11-07T13:00:06Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ba048d548137731a1f27d6751a69a99639bcd917947a35547c2c15da02b158f7\"",
+  "Last-Modified": "Sat, 07 Nov 2026 08:30:26 GMT",
   "base": {
     "repo": {
       "name": "dart-sass-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T08:30:22Z",
   "closed_by": null,
   "created_at": "2026-11-07T08:25:19Z",
   "draft": false,
   "e_tag": "\"302dff2056dcf0c366c61e8b9a5241e8e1dad03118b28dcad764a866015a5a56\"",
   "head": {
-    "ref": "1.108.1_hf5a374"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dart-sass-feedstock/pull/45",
   "id": 5199860647,
   "labels": [],
-  "last_fetched": "2026-11-07T08:25:20.581380",
+  "last_fetched": "2026-11-07T08:31:48.107572",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-07T08:30:22Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-11-07T08:25:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T08:30:26Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4f45465282df57eec0a3918bbb90fc65e2f7a56b143a65fc194aff2e9676dc0e\"",
-  "Last-Modified": "Sat, 07 Nov 2026 07:12:43 GMT",
+  "ETag": "\"5dceae014b65d7b0d097c0a4ec5f0f2f25bf0baaf19ceea33bb09d73e4bebb1e\"",
+  "Last-Modified": "Sat, 07 Nov 2026 11:22:58 GMT",
   "base": {
     "repo": {
       "name": "ffmpeg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T11:22:58Z",
   "closed_by": null,
   "created_at": "2026-11-07T06:59:43Z",
   "draft": false,
   "e_tag": "\"1453714c64600725c2db323e71f160f27667bb78aa607cbdccd308257025a256\"",
   "head": {
-    "ref": "rebuild-aom315-0-1_haa3aac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ffmpeg-feedstock/pull/420",
   "id": 5199311689,
   "labels": [],
-  "last_fetched": "2026-11-07T08:28:37.230245",
+  "last_fetched": "2026-11-07T11:24:25.551234",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T11:22:58Z",
   "number": 420,
-  "state": "open",
-  "updated_at": "2026-11-07T07:12:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T11:22:58Z"
 }

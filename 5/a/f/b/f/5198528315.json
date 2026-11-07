@@ -1,29 +1,29 @@
 {
-  "ETag": "\"878dd0e76be4d9bad514b0280aef6dc27bbc8d016f3f7ea383d2e2f12d362eb7\"",
-  "Last-Modified": "Sat, 07 Nov 2026 04:51:58 GMT",
+  "ETag": "\"dc4f6b68acfdff5ae5cef0ee4ceae946522d85f050a5d11041b0f7c0ba0601e8\"",
+  "Last-Modified": "Sat, 07 Nov 2026 15:05:26 GMT",
   "base": {
     "repo": {
       "name": "graphql-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T15:05:26Z",
   "closed_by": null,
   "created_at": "2026-11-07T04:50:32Z",
   "draft": false,
   "e_tag": "\"123e785a3df6ed7c4962319d69c08fcfc1b95d852887b9794a439d65b41ed44f\"",
   "head": {
-    "ref": "3.3.2_h036f7a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/graphql-core-feedstock/pull/50",
   "id": 5198528315,
   "labels": [],
-  "last_fetched": "2026-11-07T05:16:53.892433",
+  "last_fetched": "2026-11-07T15:06:51.673383",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T15:05:26Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-11-07T04:51:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T15:05:26Z"
 }

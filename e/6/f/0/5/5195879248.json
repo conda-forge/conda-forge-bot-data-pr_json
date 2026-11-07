@@ -1,6 +1,6 @@
 {
-  "ETag": "\"f360c064b7ac42c0524ae973bc02b317cabb12c6d70802fe21dd10282b2e6c22\"",
-  "Last-Modified": "Fri, 06 Nov 2026 22:58:09 GMT",
+  "ETag": "\"787aabe3aa392af163c64036c028fbd29e9e08024e348d397a8095d91f3e1c8f\"",
+  "Last-Modified": "Sat, 07 Nov 2026 10:08:02 GMT",
   "base": {
     "repo": {
       "name": "click-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/click-feedstock/pull/70",
   "id": 5195879248,
-  "labels": [],
-  "last_fetched": "2026-11-07T03:57:58.152026",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890806908,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODA2OTA4",
+      "url": "https://api.github.com/repos/conda-forge/click-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-07T10:09:32.475500",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 70,
   "state": "open",
-  "updated_at": "2026-11-06T22:58:09Z"
+  "updated_at": "2026-11-07T10:08:02Z"
 }

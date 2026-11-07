@@ -1,12 +1,13 @@
 {
-  "ETag": "\"4ad8217e447ddabb88675093769d3c8dc7ed843936b6d3421422afb95d0e30a4\"",
-  "Last-Modified": "Fri, 04 Sep 2026 07:13:51 GMT",
+  "ETag": "\"f60ab075a689d12681dfbc44828132612429266a66ac2e48d5e2fd3967623f94\"",
+  "Last-Modified": "Sat, 07 Nov 2026 02:58:01 GMT",
   "base": {
     "repo": {
       "name": "pycryptodome-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T02:58:01Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-04T07:12:15Z",
   "draft": false,
   "e_tag": "\"0cad4e985ff21cfa9dbf5a71e395de54ba26ddfd4f44cff7c5fbafc9e3a9a15f\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pycryptodome-feedstock/pull/67",
   "id": 4440142702,
   "labels": [],
-  "last_fetched": "2026-10-30T23:58:15.725375",
+  "last_fetched": "2026-11-07T02:59:30.160473",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-09-04T07:13:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T02:58:01Z"
 }

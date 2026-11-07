@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b3a0fc002ac49082ba6beb4e6fa7994eacbce24257974a1e06ce4680eddfa19e\"",
-  "Last-Modified": "Sat, 07 Nov 2026 16:16:29 GMT",
+  "ETag": "\"b208b7a9468ffd16bd283639a779990efe75d0b4e53ca28eaba681183afa2b5e\"",
+  "Last-Modified": "Sat, 07 Nov 2026 18:26:19 GMT",
   "base": {
     "repo": {
       "name": "librttopo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T18:26:18Z",
   "closed_by": null,
   "created_at": "2026-11-07T16:14:44Z",
   "draft": false,
   "e_tag": "\"48b284e51b942caf9c385ad273e4299ff5184c34dbee20f020c7037a3ccedb2b\"",
   "head": {
-    "ref": "rebuild-geos3150-0-1_he4db9c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/librttopo-feedstock/pull/25",
   "id": 5203510717,
   "labels": [],
-  "last_fetched": "2026-11-07T16:58:30.032492",
+  "last_fetched": "2026-11-07T18:27:43.810464",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T18:26:18Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-11-07T16:16:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T18:26:19Z"
 }

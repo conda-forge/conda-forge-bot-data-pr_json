@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d3de9e7e0c73ddde6059e8b1c168e29ae505eff16b0da916c14c67f46a70736b\"",
-  "Last-Modified": "Sat, 07 Nov 2026 04:00:07 GMT",
+  "ETag": "\"aca1401775cbb757821a81e9e2d0828fe1ce3ec7ab2b5eccf29cc82bf0b34544\"",
+  "Last-Modified": "Sat, 07 Nov 2026 09:41:38 GMT",
   "base": {
     "repo": {
       "name": "pytables-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T09:41:38Z",
   "closed_by": null,
   "created_at": "2026-11-07T03:58:18Z",
   "draft": false,
   "e_tag": "\"5facc6d36c0308e602a6f1f7081bf5ee66908abb386228fd9f451d52736cf571\"",
   "head": {
-    "ref": "rebuild-c_blosc235-0-1_h07ea16"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytables-feedstock/pull/130",
   "id": 5198201876,
   "labels": [],
-  "last_fetched": "2026-11-07T05:27:22.471235",
+  "last_fetched": "2026-11-07T09:42:55.570669",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T09:41:38Z",
   "number": 130,
-  "state": "open",
-  "updated_at": "2026-11-07T04:00:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T09:41:38Z"
 }

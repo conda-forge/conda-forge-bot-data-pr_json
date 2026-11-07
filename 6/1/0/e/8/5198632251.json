@@ -1,27 +1,29 @@
 {
+  "ETag": "\"786a4a536bc10b25febcc797c5e37e79271e4906742e99b2d3d63366d1d2c5b3\"",
+  "Last-Modified": "Sat, 07 Nov 2026 08:39:45 GMT",
   "base": {
     "repo": {
       "name": "qt-webengine-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T08:39:45Z",
   "closed_by": null,
   "created_at": "2026-11-07T05:05:48Z",
   "draft": false,
   "e_tag": "\"54ab016c9197d167c66b32f5e6833c4b80b0250738af8471ca29b5657006b164\"",
   "head": {
-    "ref": "rebuild-snappy13-0-1_he1a259"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-webengine-feedstock/pull/110",
   "id": 5198632251,
   "labels": [],
-  "last_fetched": "2026-11-07T05:05:49.281184",
+  "last_fetched": "2026-11-07T08:41:16.989914",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-07T08:39:45Z",
   "number": 110,
-  "state": "open",
-  "updated_at": "2026-11-07T05:05:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T08:39:45Z"
 }

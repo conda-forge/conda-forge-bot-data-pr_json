@@ -1,12 +1,13 @@
 {
-  "ETag": "\"42973effc6d0f4fccb4262c49dd08b278f662d120f2580d268c59bec94025682\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"798dd8ab1c2254a48d157d3977fd83b27bbe8f44cf9bfe6b57e8712c5766a6ef\"",
+  "Last-Modified": "Sat, 07 Nov 2026 01:28:48 GMT",
   "base": {
     "repo": {
       "name": "vaex-astro-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T01:28:48Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2024-11-28T15:08:47Z",
   "draft": false,
   "e_tag": "\"a4a56bebff6ef8d17bac9f3c221da92232c82d6a975a7d64ad4ed8a8b2461dbe\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/vaex-astro-feedstock/pull/23",
   "id": 2205958398,
-  "labels": [],
-  "last_fetched": "2026-10-31T01:18:14.549552",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-07T01:28:51.241474",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 23,
-  "state": "open",
-  "updated_at": "2024-11-28T15:10:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T01:28:48Z"
 }

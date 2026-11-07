@@ -1,29 +1,29 @@
 {
-  "ETag": "\"454da2c1f0dfb51847447afe69c30e4ac9079ac01d362927a4b62ff09ca987f1\"",
-  "Last-Modified": "Sat, 07 Nov 2026 16:44:18 GMT",
+  "ETag": "\"fb7d2c016373b55a44b36a0edff0a331364e690a02029f44c3bd01ef8cbe2da7\"",
+  "Last-Modified": "Sat, 07 Nov 2026 23:31:59 GMT",
   "base": {
     "repo": {
       "name": "pybinny-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T23:31:59Z",
   "closed_by": null,
   "created_at": "2026-11-07T16:42:53Z",
   "draft": false,
   "e_tag": "\"6bedc58ee50e78af9622f43ab160e24c74e0fe28d6095189aa17e97fb4cd370a\"",
   "head": {
-    "ref": "0.8.0_h2f2fbc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pybinny-feedstock/pull/2",
   "id": 5203772759,
   "labels": [],
-  "last_fetched": "2026-11-07T20:27:09.036294",
+  "last_fetched": "2026-11-07T23:33:24.992581",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T23:31:59Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-07T16:44:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T23:31:59Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bacad90d3290b79b7a6df3bfd2d9ae8ef822c5b45cfcd725895c61ed9b132e35\"",
-  "Last-Modified": "Sat, 07 Nov 2026 09:41:54 GMT",
+  "ETag": "\"c98d4f5e720d0115297f2e1447aa2b8b3ade7a1bf4f80bf90106aa45e9ce6ebb\"",
+  "Last-Modified": "Sat, 07 Nov 2026 16:24:20 GMT",
   "base": {
     "repo": {
       "name": "sdtfile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T16:24:20Z",
   "closed_by": null,
   "created_at": "2026-11-07T09:40:32Z",
   "draft": false,
   "e_tag": "\"1fc3ae9fe1531dafb9fed8519e26f1b1c7e10302a9ff10ead3ba8cd805e64f70\"",
   "head": {
-    "ref": "2026.11.6_h649266"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sdtfile-feedstock/pull/28",
   "id": 5200356164,
   "labels": [],
-  "last_fetched": "2026-11-07T15:28:56.631492",
+  "last_fetched": "2026-11-07T16:25:50.983598",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T16:24:20Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-07T09:41:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T16:24:20Z"
 }

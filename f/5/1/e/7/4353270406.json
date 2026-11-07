@@ -1,12 +1,13 @@
 {
-  "ETag": "\"101d2da77181ac092c43496a6d51ce8348bcb15dddf951035957a6440981cfe2\"",
-  "Last-Modified": "Mon, 24 Aug 2026 23:43:32 GMT",
+  "ETag": "\"3b140c571d8239766bc00034ca17b529ac5f300753dab0d07e2cd2eecde00334\"",
+  "Last-Modified": "Sat, 07 Nov 2026 05:30:06 GMT",
   "base": {
     "repo": {
       "name": "apple-container-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T05:30:06Z",
+  "closed_by": "xhochy",
   "created_at": "2026-08-24T23:41:57Z",
   "draft": false,
   "e_tag": "\"1c1485aa0a1fc3a4deb9139e93dfdc7ba9ecb2c3f507730407a9bb4003835b22\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/apple-container-feedstock/pull/3",
   "id": 4353270406,
   "labels": [],
-  "last_fetched": "2026-11-04T07:58:39.089211",
+  "last_fetched": "2026-11-07T05:31:32.087626",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-08-24T23:43:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T05:30:06Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"b493a6579eda64eb67e840118d6f1ee29a95a8b45040140b0042fc2729256957\"",
+  "Last-Modified": "Sat, 07 Nov 2026 21:37:40 GMT",
   "base": {
     "repo": {
       "name": "osl-dynamics-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/osl-dynamics-feedstock/pull/12",
   "id": 5205909664,
-  "labels": [],
-  "last_fetched": "2026-11-07T21:15:35.824939",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12564274079,
+      "name": "automerge",
+      "node_id": "LA_kwDOU92s3c8AAAAC7OObnw",
+      "url": "https://api.github.com/repos/conda-forge/osl-dynamics-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-07T21:39:04.866600",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 12,
   "state": "open",
-  "updated_at": "2026-11-07T21:15:35Z"
+  "updated_at": "2026-11-07T21:37:40Z"
 }

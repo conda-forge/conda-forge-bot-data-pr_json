@@ -1,29 +1,29 @@
 {
-  "ETag": "\"73d4ddf74f3dd7bb5337a0d75b47f8d91bf396e109ae9f6783e033049eb2d99e\"",
-  "Last-Modified": "Sat, 07 Nov 2026 01:57:40 GMT",
+  "ETag": "\"349582e973af0c8c612234c12f8851e3f710707e0df41f636258fa454a8c6018\"",
+  "Last-Modified": "Sat, 07 Nov 2026 08:13:57 GMT",
   "base": {
     "repo": {
       "name": "aws-lc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T08:13:56Z",
   "closed_by": null,
   "created_at": "2026-11-07T01:56:07Z",
   "draft": false,
   "e_tag": "\"9f81e668d6616c1ec74dba2bc02c561338f131931024dd912a5ebc6d6a8e08eb\"",
   "head": {
-    "ref": "5.13.0_haca18b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-lc-feedstock/pull/8",
   "id": 5197371637,
   "labels": [],
-  "last_fetched": "2026-11-07T06:23:32.030766",
+  "last_fetched": "2026-11-07T08:15:32.251571",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T08:13:56Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-07T01:57:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T08:13:57Z"
 }

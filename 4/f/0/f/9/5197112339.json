@@ -1,29 +1,29 @@
 {
-  "ETag": "\"39b6f942e9eaef028b1aac817a465875e409b4a8a0d8847d48a7ea2a6aee8e1d\"",
-  "Last-Modified": "Sat, 07 Nov 2026 01:19:51 GMT",
+  "ETag": "\"02d292245d8c27e54b326f647e74953cf511951b9410f7e87a3207c10117d917\"",
+  "Last-Modified": "Sat, 07 Nov 2026 10:00:12 GMT",
   "base": {
     "repo": {
       "name": "virtualenv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T10:00:12Z",
   "closed_by": null,
   "created_at": "2026-11-07T01:18:10Z",
   "draft": false,
   "e_tag": "\"e6f85a974374df50a9ebc43c0d11520626ad96f416d30dcfad73ad6b54ed02ad\"",
   "head": {
-    "ref": "21.15.6_hdc0fa3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/virtualenv-feedstock/pull/215",
   "id": 5197112339,
   "labels": [],
-  "last_fetched": "2026-11-07T02:42:42.293935",
+  "last_fetched": "2026-11-07T10:01:15.860112",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T10:00:12Z",
   "number": 215,
-  "state": "open",
-  "updated_at": "2026-11-07T01:19:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T10:00:12Z"
 }

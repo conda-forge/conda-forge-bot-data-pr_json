@@ -1,29 +1,29 @@
 {
-  "ETag": "\"873a9b75e2a92c75e5f1c62dd9ea14a393b71545c64de6363f51d01832d4dfa3\"",
-  "Last-Modified": "Sat, 07 Nov 2026 10:06:10 GMT",
+  "ETag": "\"c48fe0f7598e5dff08dc2ba7b9198ecbaf13c123f719581aa3a9ced4ad51bb4b\"",
+  "Last-Modified": "Sat, 07 Nov 2026 12:29:44 GMT",
   "base": {
     "repo": {
       "name": "conda-forge-pinning-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T12:29:44Z",
   "closed_by": null,
   "created_at": "2026-11-06T23:25:25Z",
   "draft": false,
   "e_tag": "\"a181b73febfa19bc95e31a451503a0f753c2dcd65d4052f903ad48bee2ff1ff4\"",
   "head": {
-    "ref": "new_pin-geos-3.15.0-0-_h768efb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/9124",
   "id": 5196173364,
   "labels": [],
-  "last_fetched": "2026-11-07T10:43:34.425342",
+  "last_fetched": "2026-11-07T12:30:49.003865",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T12:29:44Z",
   "number": 9124,
-  "state": "open",
-  "updated_at": "2026-11-07T10:06:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T12:29:44Z"
 }

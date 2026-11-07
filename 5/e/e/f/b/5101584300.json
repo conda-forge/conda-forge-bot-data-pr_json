@@ -1,13 +1,13 @@
 {
-  "ETag": "\"32e380eb1feaa1bd704379b0dbc6df3591169acaf20a5b7f36daec292e5020d4\"",
-  "Last-Modified": "Sat, 31 Oct 2026 21:14:09 GMT",
+  "ETag": "W/\"494ff2fe3efa4ae5b85fb53a669b57be894e3e577dec41c8fc854fa6310f7933\"",
+  "Last-Modified": "Sat, 07 Nov 2026 23:28:31 GMT",
   "base": {
     "repo": {
       "name": "r-base-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-07T23:28:30Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-31T21:12:42Z",
   "draft": false,
   "e_tag": "\"aa77f3b3aa6f236dffd2d460f94e52b1117c3b4f3307fcf23cac198d1aa51377\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/r-base-feedstock/pull/437",
   "id": 5101584300,
-  "labels": [],
-  "last_fetched": "2026-10-31T22:43:11.801566",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-07T23:28:33.259630",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 437,
-  "state": "open",
-  "updated_at": "2026-10-31T21:14:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T23:28:31Z"
 }

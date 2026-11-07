@@ -1,29 +1,41 @@
 {
-  "ETag": "\"5e8400d709979dae4020daaf2b137285bb75947e4678f1d05a7f16faa96c1ae8\"",
-  "Last-Modified": "Sat, 07 Nov 2026 00:48:01 GMT",
+  "ETag": "\"de5a69b3bfe4bded84a66aa94becba6e2e97986ed5fd47a6338b9785c34d0b3a\"",
+  "Last-Modified": "Sat, 07 Nov 2026 05:29:19 GMT",
   "base": {
     "repo": {
       "name": "higgstools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T05:29:14Z",
   "closed_by": null,
   "created_at": "2026-11-07T00:46:14Z",
   "draft": false,
   "e_tag": "\"94a7f10b1daae7b894760e0423c47a36b536ae592e99008907135b4d688be146\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h0b51d5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/higgstools-feedstock/pull/1",
   "id": 5196879817,
-  "labels": [],
-  "last_fetched": "2026-11-07T03:42:42.692446",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12987986975,
+      "name": "automerge",
+      "node_id": "LA_kwDOVlsKC88AAAADBiT0Hw",
+      "url": "https://api.github.com/repos/conda-forge/higgstools-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-07T05:30:04.894224",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-07T05:29:14Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-07T00:48:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T05:29:19Z"
 }

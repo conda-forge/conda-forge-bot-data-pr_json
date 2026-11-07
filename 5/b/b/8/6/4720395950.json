@@ -1,12 +1,13 @@
 {
-  "ETag": "\"c4bb82c6f44acfcd20fc2203af07c11e1f2e3d27494bb5813cf05f1423085776\"",
-  "Last-Modified": "Fri, 02 Oct 2026 19:12:46 GMT",
+  "ETag": "\"164805a38b7896a57227fc801e51791b6241f67a71a0c2ccb78b07c82db0fe2a\"",
+  "Last-Modified": "Sat, 07 Nov 2026 22:28:04 GMT",
   "base": {
     "repo": {
       "name": "python-box-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T22:28:04Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-02T19:10:56Z",
   "draft": false,
   "e_tag": "\"6ee0ca3cbbf2347db52d3f83e1f9473826cdfe04c6437938338506a2f8d9296d\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/python-box-feedstock/pull/62",
   "id": 4720395950,
   "labels": [],
-  "last_fetched": "2026-10-31T19:57:44.055779",
+  "last_fetched": "2026-11-07T22:29:34.045283",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-10-02T19:12:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T22:28:04Z"
 }

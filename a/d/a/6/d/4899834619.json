@@ -1,5 +1,5 @@
 {
-  "ETag": "\"8daa23f1173374ddd6c37b1c3d98e61db15f8b3be4913ff74d5c9cbc56aa7a4d\"",
+  "ETag": "W/\"d565ba361334acdd0bfea01f8f49b825f8268aa2cf620bfbd7ebc65add877303\"",
   "Last-Modified": "Sat, 07 Nov 2026 22:28:01 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/wavespectra-feedstock/pull/48",
   "id": 4899834619,
-  "labels": [],
-  "last_fetched": "2026-11-07T22:29:32.950949",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-07T22:28:04.189826",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

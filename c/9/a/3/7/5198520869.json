@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4e2ef6cc6a041ae0729320edf14f44e420e370bb6c69001a0c93b030c746075f\"",
+  "Last-Modified": "Sat, 07 Nov 2026 04:51:18 GMT",
   "base": {
     "repo": {
       "name": "botocore-stubs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-07T04:51:13Z",
   "closed_by": null,
   "created_at": "2026-11-07T04:49:28Z",
   "draft": false,
   "e_tag": "\"fa9d3b9f9c34b3619d7655d5367c5ff0692f4728d5c1a3291a4b2e6e7390b892\"",
   "head": {
-    "ref": "1.43.126_h139031"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/botocore-stubs-feedstock/pull/837",
   "id": 5198520869,
   "labels": [],
-  "last_fetched": "2026-11-07T04:49:30.047279",
+  "last_fetched": "2026-11-07T04:52:50.006593",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-07T04:51:13Z",
   "number": 837,
-  "state": "open",
-  "updated_at": "2026-11-07T04:49:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-07T04:51:18Z"
 }

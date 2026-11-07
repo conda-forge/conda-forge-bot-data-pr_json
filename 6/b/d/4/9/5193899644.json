@@ -1,6 +1,6 @@
 {
-  "ETag": "\"63d352f4e4df2e216c442acfd56e3d3f95b07dc3010ccf0e19a3c674e39b681b\"",
-  "Last-Modified": "Fri, 06 Nov 2026 20:09:15 GMT",
+  "ETag": "\"921ed112b0969b644180c600916a8453389a8173d58f249bf8cc4bdbbdae8cd3\"",
+  "Last-Modified": "Sat, 07 Nov 2026 02:47:30 GMT",
   "base": {
     "repo": {
       "name": "wgpu-py-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/wgpu-py-feedstock/pull/66",
   "id": 5193899644,
-  "labels": [],
-  "last_fetched": "2026-11-06T21:14:37.451040",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5973034861,
+      "name": "automerge",
+      "node_id": "LA_kwDOKUoEC88AAAABZAVHbQ",
+      "url": "https://api.github.com/repos/conda-forge/wgpu-py-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-07T02:49:18.857482",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 66,
   "state": "open",
-  "updated_at": "2026-11-06T20:09:15Z"
+  "updated_at": "2026-11-07T02:47:30Z"
 }

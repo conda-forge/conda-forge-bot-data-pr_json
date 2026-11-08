@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0f8ea076f55d3bd0c538ed1cb14b31694647625e692f16fdc3951e930c5f5305\"",
-  "Last-Modified": "Tue, 03 Nov 2026 17:25:55 GMT",
+  "ETag": "\"c568fc590fec8b7017e0ab82dd8af346225b97492e234144e43bfe5cefb12ffd\"",
+  "Last-Modified": "Sun, 08 Nov 2026 10:03:00 GMT",
   "base": {
     "repo": {
       "name": "salabim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T10:03:00Z",
   "closed_by": null,
   "created_at": "2026-11-03T17:24:07Z",
   "draft": false,
   "e_tag": "\"42a6fe00b83c699be95ab7e9310eb3496d07215c04b703f6098068b999ae6fd2\"",
   "head": {
-    "ref": "26.0.9_hd0e317"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/salabim-feedstock/pull/60",
   "id": 5141624557,
   "labels": [],
-  "last_fetched": "2026-11-03T23:27:40.753268",
+  "last_fetched": "2026-11-08T11:44:09.656766",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-08T10:03:00Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-11-03T17:25:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T10:03:00Z"
 }

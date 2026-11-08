@@ -1,5 +1,5 @@
 {
-  "ETag": "\"142854a457c7ebc74df1213eeb4fddad20aca8f7784ac0a4c38cfc8dc5b032db\"",
+  "ETag": "\"e755f5e9afdeaf263ef6a9e5256e8acfe5d2f240ef8aa9c9f7f1bccd5f6b4011\"",
   "Last-Modified": "Sat, 26 Sep 2026 13:23:05 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"3ac9210945564072eec2e769011e4579c3f979086d02b065bda827ac0ebe33b4\"",
   "head": {
-    "ref": "bot-pr_arm_osx_h018628"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cuda-profiler-api-feedstock/pull/31",
   "id": 4647266626,
-  "labels": [],
-  "last_fetched": "2026-11-01T02:22:23.905121",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-08T02:22:41.866657",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 31,

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"706470e0f66bc13fba69167fe396f8f38fce336efaba38cb8a42d80093245cfc\"",
+  "Last-Modified": "Sun, 08 Nov 2026 04:40:43 GMT",
   "base": {
     "repo": {
       "name": "r-pak-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T04:40:39Z",
   "closed_by": null,
   "created_at": "2026-11-08T04:34:06Z",
   "draft": false,
   "e_tag": "\"5ad9da2a828ca396c4d46f670f0e1d411919b2d840ad0070cd43bfd7c75906ee\"",
   "head": {
-    "ref": "0.11.2_h075a03"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-pak-feedstock/pull/36",
   "id": 5208657650,
   "labels": [],
-  "last_fetched": "2026-11-08T04:34:07.338625",
+  "last_fetched": "2026-11-08T04:42:04.661619",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T04:40:39Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-08T04:34:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T04:40:43Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cbb284f7f984680ec4447422208de6945dd0e1992bd8c261868e5d80ff3c3a32\"",
+  "Last-Modified": "Sun, 08 Nov 2026 21:34:11 GMT",
   "base": {
     "repo": {
       "name": "seaweedfs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T21:34:07Z",
   "closed_by": null,
   "created_at": "2026-11-08T21:25:29Z",
   "draft": false,
   "e_tag": "\"ba86fd2a102571d1830cd9dbce358ba0ee3e58186c268a0f01e1cd27805332f5\"",
   "head": {
-    "ref": "4.53_h7cebab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/seaweedfs-feedstock/pull/67",
   "id": 5215271405,
   "labels": [],
-  "last_fetched": "2026-11-08T21:25:29.764408",
+  "last_fetched": "2026-11-08T21:35:16.248688",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T21:34:07Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-11-08T21:25:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T21:34:11Z"
 }

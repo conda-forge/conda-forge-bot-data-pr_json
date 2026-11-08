@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f4187e339ca615220becf99110f193822d15cdce0bda82451a15293dadc4218e\"",
-  "Last-Modified": "Sat, 07 Nov 2026 04:17:28 GMT",
+  "ETag": "\"a15bf959c99adcfca81e2563fea58ba7c6e3a45cbf6b1ab92edca0c37e9191e1\"",
+  "Last-Modified": "Sun, 08 Nov 2026 15:53:57 GMT",
   "base": {
     "repo": {
       "name": "momentum-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T15:53:56Z",
   "closed_by": null,
   "created_at": "2026-11-07T04:16:00Z",
   "draft": false,
   "e_tag": "\"d7afad859652864ef13af114dcc21327c3702598b8977a6f5beb88da5df0797f\"",
   "head": {
-    "ref": "rebuild-librerun_sdk0420-0-1_h09d354"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/momentum-feedstock/pull/310",
   "id": 5198316971,
   "labels": [],
-  "last_fetched": "2026-11-07T05:27:30.666706",
+  "last_fetched": "2026-11-08T15:55:24.211679",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-08T15:53:56Z",
   "number": 310,
-  "state": "open",
-  "updated_at": "2026-11-07T04:17:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T15:53:57Z"
 }

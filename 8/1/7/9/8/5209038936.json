@@ -1,27 +1,29 @@
 {
+  "ETag": "\"746a465e7835ef45d290af8d444a5ac0d3682bf86a40600579444a2803a50f26\"",
+  "Last-Modified": "Sun, 08 Nov 2026 05:50:51 GMT",
   "base": {
     "repo": {
       "name": "geolibre-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T05:50:46Z",
   "closed_by": null,
   "created_at": "2026-11-08T05:48:40Z",
   "draft": false,
   "e_tag": "\"aaa11b4b60c86997dbe1d8ca469bc37282f5d8b5b8ef0d5d33882acf80ec8c90\"",
   "head": {
-    "ref": "3.7.0_h2d8b65"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geolibre-feedstock/pull/40",
   "id": 5209038936,
   "labels": [],
-  "last_fetched": "2026-11-08T05:48:41.200500",
+  "last_fetched": "2026-11-08T05:52:01.530953",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T05:50:46Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-11-08T05:48:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T05:50:51Z"
 }

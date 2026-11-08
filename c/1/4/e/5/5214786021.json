@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2c076db11c471e65b2e384bc9fae443d17811df4ae98115cbe348875161b2e73\"",
+  "Last-Modified": "Sun, 08 Nov 2026 20:22:15 GMT",
   "base": {
     "repo": {
       "name": "latexmk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T20:22:10Z",
   "closed_by": null,
   "created_at": "2026-11-08T20:20:23Z",
   "draft": false,
   "e_tag": "\"ae274bb97e6e1082e11f3628ae7a0ba4da0bc01a51f04f20b40feb065dc28f63\"",
   "head": {
-    "ref": "4.89_hab1205"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/latexmk-feedstock/pull/9",
   "id": 5214786021,
   "labels": [],
-  "last_fetched": "2026-11-08T20:20:24.838553",
+  "last_fetched": "2026-11-08T20:23:14.232965",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T20:22:10Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-08T20:20:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T20:22:15Z"
 }

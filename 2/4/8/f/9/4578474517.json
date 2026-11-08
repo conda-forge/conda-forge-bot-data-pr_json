@@ -1,5 +1,5 @@
 {
-  "ETag": "\"15decdc9fd4220fafff13c4fb81654d1315b0836fb51be827b7a9dfde9f4adde\"",
+  "ETag": "W/\"1d1d3c9b08eda6b5fb31261988a2715b7aea85ca62df3c5a01a5e2f593d7fb59\"",
   "Last-Modified": "Sun, 08 Nov 2026 15:58:07 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/skyproj-feedstock/pull/32",
   "id": 4578474517,
-  "labels": [],
-  "last_fetched": "2026-11-08T15:59:50.699017",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-08T15:58:09.483581",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

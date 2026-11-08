@@ -1,28 +1,40 @@
 {
-  "ETag": "\"d144b40a4e7ef7f24f9cbab763245e888aef05163ec371b050be3fd877184d27\"",
-  "Last-Modified": "Sat, 07 Nov 2026 22:40:39 GMT",
+  "ETag": "\"682204f040c392b71da4f1e2f0c2c16a686d49c578e56128b1f2504ac6d63738\"",
+  "Last-Modified": "Sun, 08 Nov 2026 17:26:30 GMT",
   "base": {
     "repo": {
       "name": "avrocpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T17:26:26Z",
   "created_at": "2026-08-14T14:07:18Z",
   "draft": false,
   "e_tag": "\"79acc6b541a7ff1e78000b957cd6a008452ea2d2cc132ca5da107eb49b4f6d47\"",
   "head": {
-    "ref": "1.12.2_hfeac18"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/avrocpp-feedstock/pull/39",
   "id": 4280455907,
-  "labels": [],
-  "last_fetched": "2026-11-07T23:42:33.977930",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890796341,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwNzk2MzQx",
+      "url": "https://api.github.com/repos/conda-forge/avrocpp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-08T17:27:15.867326",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-08T17:26:26Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-11-07T22:40:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T17:26:30Z"
 }

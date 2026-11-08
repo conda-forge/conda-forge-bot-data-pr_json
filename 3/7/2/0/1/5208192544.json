@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a8ebc1a5cfc68749d22bdbf1e86ad5d4527b7f9957dad6e2898dafbd8614d0fc\"",
+  "Last-Modified": "Sun, 08 Nov 2026 03:25:13 GMT",
   "base": {
     "repo": {
       "name": "universal-ctags-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T03:25:08Z",
   "closed_by": null,
   "created_at": "2026-11-08T03:13:27Z",
   "draft": false,
   "e_tag": "\"3f49816cee8cbca452b0452949aefb8042cdb4be16f68b5ee8d95b90824b0e53\"",
   "head": {
-    "ref": "6.2.20261108.0_hebdad6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/universal-ctags-feedstock/pull/287",
   "id": 5208192544,
   "labels": [],
-  "last_fetched": "2026-11-08T03:13:28.557872",
+  "last_fetched": "2026-11-08T03:26:48.066602",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T03:25:08Z",
   "number": 287,
-  "state": "open",
-  "updated_at": "2026-11-08T03:13:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T03:25:13Z"
 }

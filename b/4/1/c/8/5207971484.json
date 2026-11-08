@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d51a66e8154ed6e05628c44c8730c4090447e44d2fc8f536baf79065d5cee2ef\"",
-  "Last-Modified": "Sun, 08 Nov 2026 10:16:19 GMT",
+  "ETag": "\"cb7425250438157f63dea52d1ec7dc931dcc16533723286dc86b281b5c35338d\"",
+  "Last-Modified": "Sun, 08 Nov 2026 19:52:52 GMT",
   "base": {
     "repo": {
       "name": "torchaudio-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/torchaudio-feedstock/pull/54",
   "id": 5207971484,
-  "labels": [],
-  "last_fetched": "2026-11-08T11:16:44.964741",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7598740403,
+      "name": "automerge",
+      "node_id": "LA_kwDOM_u39M8AAAABxOuTsw",
+      "url": "https://api.github.com/repos/conda-forge/torchaudio-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-08T19:54:09.256594",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 54,
   "state": "open",
-  "updated_at": "2026-11-08T10:16:19Z"
+  "updated_at": "2026-11-08T19:52:52Z"
 }

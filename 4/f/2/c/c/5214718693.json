@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5ce6cf1fd8ab2183aac69348e22928d8ab37efe32080374228fd68534975da11\"",
+  "Last-Modified": "Sun, 08 Nov 2026 20:37:36 GMT",
   "base": {
     "repo": {
       "name": "cppbmad-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T20:37:32Z",
   "closed_by": null,
   "created_at": "2026-11-08T20:11:17Z",
   "draft": false,
   "e_tag": "\"96a024518f1eea6f0de1a65954ed4041cd518f2caf8659fd88adda215522e1e7\"",
   "head": {
-    "ref": "20261108-0_hf2b27c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cppbmad-feedstock/pull/70",
   "id": 5214718693,
   "labels": [],
-  "last_fetched": "2026-11-08T20:11:17.892237",
+  "last_fetched": "2026-11-08T20:39:05.584237",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T20:37:32Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-11-08T20:11:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T20:37:36Z"
 }

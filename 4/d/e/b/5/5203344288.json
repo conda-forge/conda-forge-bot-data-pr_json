@@ -1,18 +1,18 @@
 {
-  "ETag": "\"a9ce27fc5fba7e24fb5e21da4d9ef078899d762065dad1f691e15e6c38884f2e\"",
-  "Last-Modified": "Sun, 08 Nov 2026 05:42:23 GMT",
+  "ETag": "\"cfca98ffe7fc843d004133003f58c46d658d61bc2e664f28aebccf0741b35708\"",
+  "Last-Modified": "Sun, 08 Nov 2026 05:46:57 GMT",
   "base": {
     "repo": {
       "name": "xorg-xf86vidmodeproto-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T05:46:54Z",
   "closed_by": null,
   "created_at": "2026-11-07T15:56:38Z",
   "draft": false,
   "e_tag": "\"2d1b86585fb6255a1059c696fbdfc0051fbe05a373e5d62d9aa048895621cf39\"",
   "head": {
-    "ref": "bot-pr_riscv64_hc61ef1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xorg-xf86vidmodeproto-feedstock/pull/10",
   "id": 5203344288,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/xorg-xf86vidmodeproto-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-08T05:43:47.353451",
+  "last_fetched": "2026-11-08T05:48:23.065398",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-08T05:46:54Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-08T05:42:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T05:46:57Z"
 }

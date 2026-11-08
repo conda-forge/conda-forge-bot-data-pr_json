@@ -1,27 +1,29 @@
 {
+  "ETag": "\"de2f4051b1a9483e9439a9b0afddc7465643f2ad46981ae2a6fd0442120cdd2b\"",
+  "Last-Modified": "Sun, 08 Nov 2026 01:35:43 GMT",
   "base": {
     "repo": {
       "name": "libtree-sitter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T01:35:39Z",
   "closed_by": null,
   "created_at": "2026-11-08T01:30:16Z",
   "draft": false,
   "e_tag": "\"6e9260637b7e36985e8df0cfae424ad727505c789e9f35932a18494c5af37e71\"",
   "head": {
-    "ref": "0.27.2_h6ef031"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libtree-sitter-feedstock/pull/54",
   "id": 5207588789,
   "labels": [],
-  "last_fetched": "2026-11-08T01:30:17.211337",
+  "last_fetched": "2026-11-08T01:37:15.387008",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T01:35:39Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-08T01:30:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T01:35:43Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"41e3115c909a20137d0b0be80ae89a771abce40c8989f6fbb448a99cbea85fbd\"",
-  "Last-Modified": "Sun, 08 Nov 2026 02:58:03 GMT",
+  "ETag": "\"309dc07385114487a8a692d23966717e6f1726660c5c07615b34f82b0e595a47\"",
+  "Last-Modified": "Sun, 08 Nov 2026 16:25:54 GMT",
   "base": {
     "repo": {
       "name": "derivkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T16:25:54Z",
   "closed_by": null,
   "created_at": "2026-11-08T02:58:02Z",
   "draft": false,
   "e_tag": "\"03a94e55b06be839c9c7e2ef7f52ce90b876d18e50966eb94b9c534ca006cf01\"",
   "head": {
-    "ref": "1.5.0_h17a1ae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/derivkit-feedstock/pull/4",
   "id": 5208096022,
   "labels": [],
-  "last_fetched": "2026-11-08T03:20:18.981414",
+  "last_fetched": "2026-11-08T16:27:27.544946",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-08T16:25:54Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-08T02:59:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T16:25:54Z"
 }

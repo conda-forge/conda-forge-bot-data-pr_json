@@ -1,29 +1,29 @@
 {
-  "ETag": "\"779ff011967afa4804aabb263347855e9cfd9a6cc355aa238898801a7116089a\"",
-  "Last-Modified": "Sun, 08 Nov 2026 04:30:15 GMT",
+  "ETag": "\"7506b7b7c5d791efd22e69971771a6045193d8781847f7d035c9cec1fdf30e8a\"",
+  "Last-Modified": "Sun, 08 Nov 2026 22:19:22 GMT",
   "base": {
     "repo": {
       "name": "abicheck-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T22:19:22Z",
   "closed_by": null,
   "created_at": "2026-11-07T08:14:01Z",
   "draft": false,
   "e_tag": "\"7b6e9a2204feb98a37557bb971b5fbca387f31c6618760fd124433eda6b017e1\"",
   "head": {
-    "ref": "0.8.0_hc5b4d2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/abicheck-feedstock/pull/12",
   "id": 5199790629,
   "labels": [],
-  "last_fetched": "2026-11-08T05:57:40.449291",
+  "last_fetched": "2026-11-08T22:21:03.292072",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-08T22:19:22Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-08T04:30:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T22:19:22Z"
 }

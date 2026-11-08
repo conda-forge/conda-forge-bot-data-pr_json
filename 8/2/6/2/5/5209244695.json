@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6846e4de619411408ebaf52eb516a5738891ef9ae86e7077f2a0886462127185\"",
+  "Last-Modified": "Sun, 08 Nov 2026 07:11:14 GMT",
   "base": {
     "repo": {
       "name": "pycryptodome-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T07:11:14Z",
   "closed_by": null,
   "created_at": "2026-11-08T06:29:34Z",
   "draft": false,
   "e_tag": "\"a85806d67a97bf31efe2ede24cb59737d9427401529427eabe4bb8173bdaf84d\"",
   "head": {
-    "ref": "4.4.0_h729344"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pycryptodome-feedstock/pull/76",
   "id": 5209244695,
   "labels": [],
-  "last_fetched": "2026-11-08T06:29:36.313733",
+  "last_fetched": "2026-11-08T07:12:18.511980",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T07:11:14Z",
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-11-08T06:29:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T07:11:14Z"
 }

@@ -1,32 +1,29 @@
 {
-  "ETag": "\"e755f5e9afdeaf263ef6a9e5256e8acfe5d2f240ef8aa9c9f7f1bccd5f6b4011\"",
-  "Last-Modified": "Sat, 26 Sep 2026 13:23:05 GMT",
+  "ETag": "\"30471fafa7509bffab4ed6f1bee6a5cce868734a3fa3807de4394ff8b2e14347\"",
+  "Last-Modified": "Sun, 08 Nov 2026 02:22:43 GMT",
   "base": {
     "repo": {
       "name": "cuda-profiler-api-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T02:22:43Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-26T13:21:35Z",
   "draft": false,
   "e_tag": "\"3ac9210945564072eec2e769011e4579c3f979086d02b065bda827ac0ebe33b4\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "bot-pr_arm_osx_h018628"
   },
   "html_url": "https://github.com/conda-forge/cuda-profiler-api-feedstock/pull/31",
   "id": 4647266626,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-11-08T02:22:41.866657",
+  "labels": [],
+  "last_fetched": "2026-11-08T02:24:32.708440",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-09-26T13:23:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T02:22:43Z"
 }

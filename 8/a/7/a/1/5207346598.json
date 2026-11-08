@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e5f4817e20575ca7c8941c12bd9f3c524d0c0c4d06fed891481c4b0ead08a064\"",
-  "Last-Modified": "Sun, 08 Nov 2026 00:52:03 GMT",
+  "ETag": "\"459d2688239ba0e9c602eabad6669508759226fac46c244c1ac67a79f51778c7\"",
+  "Last-Modified": "Sun, 08 Nov 2026 09:04:14 GMT",
   "base": {
     "repo": {
       "name": "automake-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T09:04:14Z",
   "closed_by": null,
   "created_at": "2026-11-08T00:50:26Z",
   "draft": false,
   "e_tag": "\"e861cea3f72aab869f34219b85b50428d31749fdf3105c67cc2a06030028e319\"",
   "head": {
-    "ref": "1.20_hf1a363"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/automake-feedstock/pull/39",
   "id": 5207346598,
   "labels": [],
-  "last_fetched": "2026-11-08T04:27:34.927631",
+  "last_fetched": "2026-11-08T11:17:27.472052",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-08T09:04:14Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-11-08T00:52:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T09:04:14Z"
 }

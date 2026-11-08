@@ -1,5 +1,5 @@
 {
-  "ETag": "\"0fd3a7697d428bf368ec9170b224ed83a350c969612f8c8f948b15dfef2bf34b\"",
+  "ETag": "W/\"0ed542378b30f3ed57863c46e83a29abec9185d4a7a6d32cf697739621a1f973\"",
   "Last-Modified": "Sun, 08 Nov 2026 06:23:31 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pycryptodome-feedstock/pull/71",
   "id": 4904292841,
-  "labels": [],
-  "last_fetched": "2026-11-08T06:24:34.090520",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-08T06:23:33.141677",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

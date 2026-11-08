@@ -1,27 +1,29 @@
 {
+  "ETag": "\"032b2cafe0a617248cd5b0e9c234bbe34f1636bc9644a0daab62751b09d9717e\"",
+  "Last-Modified": "Sun, 08 Nov 2026 18:27:54 GMT",
   "base": {
     "repo": {
       "name": "tflint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T18:27:49Z",
   "closed_by": null,
   "created_at": "2026-11-08T18:21:15Z",
   "draft": false,
   "e_tag": "\"b2e48595f2cf2d78c18667d54fb20dd8d09d7a4490ca38bd715144e55e7439e4\"",
   "head": {
-    "ref": "0.66.0_h410ac4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tflint-feedstock/pull/92",
   "id": 5213878747,
   "labels": [],
-  "last_fetched": "2026-11-08T18:21:16.936930",
+  "last_fetched": "2026-11-08T18:29:27.614983",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T18:27:49Z",
   "number": 92,
-  "state": "open",
-  "updated_at": "2026-11-08T18:21:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T18:27:54Z"
 }

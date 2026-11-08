@@ -1,13 +1,13 @@
 {
-  "ETag": "\"6915a31d61b9c3e28a34c404d7a254530a1abea793ad827abf3a0524cc09475d\"",
-  "Last-Modified": "Sun, 01 Nov 2026 12:37:11 GMT",
+  "ETag": "W/\"07997e4410091424e9ee6b3d035fda4de48ec0813cdaca567c15305a013a4472\"",
+  "Last-Modified": "Sun, 08 Nov 2026 20:43:35 GMT",
   "base": {
     "repo": {
       "name": "bodo-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-08T20:43:35Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-27T10:27:44Z",
   "draft": false,
   "e_tag": "\"ea68a45cfe3b06ecc3ef158a04ed67ad0393a987146f0420e5995faafe26f04b\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/bodo-feedstock/pull/69",
   "id": 5032363862,
-  "labels": [],
-  "last_fetched": "2026-11-01T14:15:49.366585",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-08T20:43:37.894791",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-11-01T12:37:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T20:43:35Z"
 }

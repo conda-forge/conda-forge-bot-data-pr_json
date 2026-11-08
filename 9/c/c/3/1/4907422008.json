@@ -1,29 +1,33 @@
 {
-  "ETag": "\"a43b05beb1e77f70d28af253aedcd5d6409efadb9b676b4f4a18fb47a08933a5\"",
-  "Last-Modified": "Sun, 08 Nov 2026 15:59:12 GMT",
+  "ETag": "\"670bda5e5418b7ba1a4bfac67b9a49673b6aa47b9828b98b67870c3da053256b\"",
+  "Last-Modified": "Sun, 18 Oct 2026 07:59:51 GMT",
   "base": {
     "repo": {
       "name": "turbodbc-feedstock"
     }
   },
-  "closed_at": "2026-11-08T15:59:12Z",
-  "closed_by": "regro-cf-autotick-bot",
+  "closed_at": null,
+  "closed_by": null,
   "created_at": "2026-10-18T07:58:09Z",
   "draft": false,
   "e_tag": "\"5ead7cbc0cb619728e5dd24423b711cf2e373fed22c89370a52df0fdaa0d32a3\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hd102e5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/turbodbc-feedstock/pull/160",
   "id": 4907422008,
-  "labels": [],
-  "last_fetched": "2026-11-08T16:00:21.755550",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-08T15:59:09.885544",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 160,
-  "state": "closed",
-  "updated_at": "2026-11-08T15:59:12Z"
+  "state": "open",
+  "updated_at": "2026-10-18T07:59:51Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dfb445b502f20016c5f3789d8bfed5771e60a199a6e164e575ed8c3557e6a70b\"",
+  "Last-Modified": "Sun, 08 Nov 2026 22:52:30 GMT",
   "base": {
     "repo": {
       "name": "rtk-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T22:52:26Z",
   "closed_by": null,
   "created_at": "2026-11-08T22:40:34Z",
   "draft": false,
   "e_tag": "\"51d7528a4d71fe44913ef79a281ab9cf535f01933dc213f98fa5e207bee5db6a\"",
   "head": {
-    "ref": "1.2.0_h87c78e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rtk-cli-feedstock/pull/36",
   "id": 5215841958,
   "labels": [],
-  "last_fetched": "2026-11-08T22:40:35.084208",
+  "last_fetched": "2026-11-08T22:53:36.035440",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-08T22:52:26Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-08T22:40:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T22:52:30Z"
 }

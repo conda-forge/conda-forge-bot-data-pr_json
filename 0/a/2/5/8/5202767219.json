@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fa93f1add18d3619c2b070675f5eb5d9c54dac31df81dadf2714f8342975d370\"",
-  "Last-Modified": "Sat, 07 Nov 2026 14:54:32 GMT",
+  "ETag": "\"c598d1003128311f70cf90d45aae0c6124cbd701882538f8def3084a2bbffba4\"",
+  "Last-Modified": "Sun, 08 Nov 2026 20:42:28 GMT",
   "base": {
     "repo": {
       "name": "vit-pytorch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-08T20:42:28Z",
   "closed_by": null,
   "created_at": "2026-11-07T14:53:02Z",
   "draft": false,
   "e_tag": "\"214e325cf8101509d6bbee8db8a966709c080d282a9cf40a0a2380a0f74d45aa\"",
   "head": {
-    "ref": "1.26.14_h318b88"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vit-pytorch-feedstock/pull/90",
   "id": 5202767219,
   "labels": [],
-  "last_fetched": "2026-11-07T15:27:14.536353",
+  "last_fetched": "2026-11-08T20:43:34.265384",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-08T20:42:28Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-11-07T14:54:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-08T20:42:28Z"
 }

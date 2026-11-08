@@ -1,6 +1,6 @@
 {
-  "ETag": "\"87f7e0d33fc41a2c3bd26af5578ea301f282f83a66538e91ad5f3cee81b10478\"",
-  "Last-Modified": "Sat, 07 Nov 2026 07:05:59 GMT",
+  "ETag": "\"52498154e7b7e04192ef139719e71c08c9dfa3819427a71346756dacd5b98072\"",
+  "Last-Modified": "Sun, 08 Nov 2026 15:56:55 GMT",
   "base": {
     "repo": {
       "name": "rocksdb-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/rocksdb-feedstock/pull/132",
   "id": 5199348951,
-  "labels": [],
-  "last_fetched": "2026-11-07T08:29:43.802788",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1993489469,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxOTkzNDg5NDY5",
+      "url": "https://api.github.com/repos/conda-forge/rocksdb-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-08T15:58:24.740094",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 132,
   "state": "open",
-  "updated_at": "2026-11-07T07:05:59Z"
+  "updated_at": "2026-11-08T15:56:55Z"
 }

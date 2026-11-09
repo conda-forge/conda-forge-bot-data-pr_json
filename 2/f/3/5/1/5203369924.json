@@ -1,29 +1,41 @@
 {
-  "ETag": "\"17ef4c9a1c9ceb815743081679da157a222a782e8f8932349f405c1b86e9a10d\"",
-  "Last-Modified": "Sat, 07 Nov 2026 16:01:06 GMT",
+  "ETag": "\"cd299fe9fdb046d4e941fcf561968ed214101a3ddf94832f5761b19f827b011a\"",
+  "Last-Modified": "Mon, 09 Nov 2026 00:34:01 GMT",
   "base": {
     "repo": {
       "name": "xorg-libxxf86vm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T00:34:01Z",
   "closed_by": null,
   "created_at": "2026-11-07T15:59:32Z",
   "draft": false,
   "e_tag": "\"b9848507983f8c58dd84d9c90b83f07b451508faf997e58757b1023ad103509a\"",
   "head": {
-    "ref": "bot-pr_riscv64_h8ceff8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xorg-libxxf86vm-feedstock/pull/12",
   "id": 5203369924,
-  "labels": [],
-  "last_fetched": "2026-11-07T16:42:27.732170",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5183644123,
+      "name": "automerge",
+      "node_id": "LA_kwDOJA5yMM8AAAABNPgh2w",
+      "url": "https://api.github.com/repos/conda-forge/xorg-libxxf86vm-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T00:34:34.426825",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T00:34:00Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-07T16:01:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T00:34:01Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8c788978b045f9ee5daa57d94d19290c0f07d10c1aa5655ab7999d1bf45b2605\"",
-  "Last-Modified": "Fri, 06 Nov 2026 22:59:12 GMT",
+  "ETag": "\"1921f09e0dbf9e4ff4765bbfb4f52bf19e9fee8cfe5544942012774a1920842c\"",
+  "Last-Modified": "Mon, 09 Nov 2026 22:02:12 GMT",
   "base": {
     "repo": {
       "name": "fugue-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T22:02:11Z",
   "closed_by": null,
   "created_at": "2026-11-06T22:57:42Z",
   "draft": false,
   "e_tag": "\"93fe64843153ba103c2a2f86efb462a1dc600104e1f81f49af98c8e7f8fece59\"",
   "head": {
-    "ref": "0.9.8_h17fa93"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fugue-feedstock/pull/34",
   "id": 5195891609,
   "labels": [],
-  "last_fetched": "2026-11-06T23:14:53.709004",
+  "last_fetched": "2026-11-09T22:03:45.499983",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T22:02:11Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-11-06T22:59:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T22:02:12Z"
 }

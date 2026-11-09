@@ -1,6 +1,6 @@
 {
-  "ETag": "\"5d1078bd7c218a227dbc3f0e81e32bed75ca9824fc46c11b8516936cfea8b9c3\"",
-  "Last-Modified": "Sat, 07 Nov 2026 16:09:15 GMT",
+  "ETag": "\"bc0a57bad72091e6322024759f7bebed2440406d9be7ea554482615af78029ae\"",
+  "Last-Modified": "Mon, 09 Nov 2026 00:34:05 GMT",
   "base": {
     "repo": {
       "name": "xorg-libxinerama-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/xorg-libxinerama-feedstock/pull/9",
   "id": 5203449537,
-  "labels": [],
-  "last_fetched": "2026-11-07T18:00:10.582599",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891499051,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDk5MDUx",
+      "url": "https://api.github.com/repos/conda-forge/xorg-libxinerama-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T00:35:36.528589",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 9,
   "state": "open",
-  "updated_at": "2026-11-07T16:09:15Z"
+  "updated_at": "2026-11-09T00:34:05Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b9fbfb9f201a5d0aa49c3d77651cdd8f1d2ed8968ae9cab10c6d53355ba3ef1d\"",
-  "Last-Modified": "Mon, 09 Nov 2026 16:23:48 GMT",
+  "ETag": "\"10905d1bcc11b4a913023e9a2f1ec6d031494e44a73971c4c63847288847ab7a\"",
+  "Last-Modified": "Mon, 09 Nov 2026 17:12:23 GMT",
   "base": {
     "repo": {
       "name": "jupyverse-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T17:12:23Z",
   "closed_by": null,
   "created_at": "2026-11-09T11:52:53Z",
   "draft": false,
   "e_tag": "\"e190660d7e1518ea82c1bb185444327fb70eb321e0b0def08e6f1bf359f55724\"",
   "head": {
-    "ref": "0.14.20_h032ec8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jupyverse-feedstock/pull/101",
   "id": 5223417170,
   "labels": [],
-  "last_fetched": "2026-11-09T16:25:22.353089",
+  "last_fetched": "2026-11-09T17:13:31.063620",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T17:12:23Z",
   "number": 101,
-  "state": "open",
-  "updated_at": "2026-11-09T16:23:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T17:12:23Z"
 }

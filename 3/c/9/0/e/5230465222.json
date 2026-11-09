@@ -1,27 +1,29 @@
 {
+  "ETag": "\"faa30a031e04266d918a2877da417b74efa26e1fd116901cec96e1d877431b65\"",
+  "Last-Modified": "Mon, 09 Nov 2026 23:10:21 GMT",
   "base": {
     "repo": {
       "name": "typer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T23:10:20Z",
   "closed_by": null,
   "created_at": "2026-11-09T20:13:12Z",
   "draft": false,
   "e_tag": "\"e7ad6b564c68b165bc1ba3dfaebaef05005097c50b9b7475b2e230f382851733\"",
   "head": {
-    "ref": "0.29.0_h0fc496"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/typer-feedstock/pull/92",
   "id": 5230465222,
   "labels": [],
-  "last_fetched": "2026-11-09T20:13:14.005007",
+  "last_fetched": "2026-11-09T23:11:57.833062",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T23:10:20Z",
   "number": 92,
-  "state": "open",
-  "updated_at": "2026-11-09T20:13:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T23:10:21Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"b3ffe1e297cdad0454c81b8054c10ba4c6036dacef8f020ffb1332e734053378\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"ed18269ae628456bfd171ea4339ad6ee559def53eed6075bc4b8fa5afd37bb45\"",
+  "Last-Modified": "Mon, 09 Nov 2026 10:43:41 GMT",
   "base": {
     "repo": {
       "name": "conda-forge-repodata-patches-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T10:43:41Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-02-03T22:57:46Z",
   "draft": false,
   "e_tag": "\"970449ace39e5ae5edde79032aeb66d2c0eec1f2f259c5c6990d5d48cd6cd793\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/pull/1145",
   "id": 3243316551,
-  "labels": [],
-  "last_fetched": "2026-11-02T09:34:19.298817",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T10:43:44.916574",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 1145,
-  "state": "open",
-  "updated_at": "2026-02-03T22:59:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T10:43:41Z"
 }

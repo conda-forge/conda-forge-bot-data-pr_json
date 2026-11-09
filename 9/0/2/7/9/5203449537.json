@@ -1,18 +1,18 @@
 {
-  "ETag": "\"bc0a57bad72091e6322024759f7bebed2440406d9be7ea554482615af78029ae\"",
-  "Last-Modified": "Mon, 09 Nov 2026 00:34:05 GMT",
+  "ETag": "\"345105a2c6c85e80b80622cf4cf450714e42eff594218f91c8e3a8801e6da7c2\"",
+  "Last-Modified": "Mon, 09 Nov 2026 00:44:20 GMT",
   "base": {
     "repo": {
       "name": "xorg-libxinerama-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T00:44:16Z",
   "closed_by": null,
   "created_at": "2026-11-07T16:07:47Z",
   "draft": false,
   "e_tag": "\"b0e56978ce5fceb68217b8ac25f8b2d2e251f5b2932fbfae505254c57746b886\"",
   "head": {
-    "ref": "bot-pr_riscv64_h046bfb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xorg-libxinerama-feedstock/pull/9",
   "id": 5203449537,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/xorg-libxinerama-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-09T00:35:36.528589",
+  "last_fetched": "2026-11-09T00:45:54.957621",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T00:44:16Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-09T00:34:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T00:44:20Z"
 }

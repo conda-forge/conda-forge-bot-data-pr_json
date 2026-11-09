@@ -1,5 +1,5 @@
 {
-  "ETag": "\"db20c119eb865b45a7c4f910d934b7587365eff6f83a2553e262dddcbb889939\"",
+  "ETag": "W/\"acb04348f95d383212f284d09d5d604f651282a5a1c64c45668395fdc2696b9a\"",
   "Last-Modified": "Mon, 09 Nov 2026 11:17:39 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/kivy-feedstock/pull/82",
   "id": 4454143827,
-  "labels": [],
-  "last_fetched": "2026-11-09T11:18:48.413999",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T11:17:42.275743",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

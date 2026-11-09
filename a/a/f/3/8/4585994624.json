@@ -1,5 +1,5 @@
 {
-  "ETag": "\"5ebece3dfced5244b719fa8d2de1910e026e16fdfb9cc930cc1e43db5fcf6b4c\"",
+  "ETag": "\"44969798e8b36bce72a31c532bfd1510988628596572e299f7ea2da7b24d0ad9\"",
   "Last-Modified": "Sun, 20 Sep 2026 20:46:19 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"02eda9031cf1761e34cd96b2d540dd3202d1f4f6bde991c6f86bc4ac205730b2\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h3b2746"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aicspylibczi-feedstock/pull/15",
   "id": 4585994624,
-  "labels": [],
-  "last_fetched": "2026-11-02T16:30:05.933992",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T20:28:42.260523",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 15,

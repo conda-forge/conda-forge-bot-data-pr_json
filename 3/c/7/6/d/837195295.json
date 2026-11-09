@@ -1,5 +1,5 @@
 {
-  "ETag": "\"0ca4a459c595bcea112c24998a2c4d3f9ec9d2bebe6ee7b3694aed1f23b2809d\"",
+  "ETag": "W/\"403b0830ad132cf95608078334f755814942ec37b43c6e84beb45221e9605833\"",
   "Last-Modified": "Mon, 09 Nov 2026 23:14:30 GMT",
   "base": {
     "repo": {
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/etcd-feedstock/pull/41",
   "id": 837195295,
-  "labels": [],
-  "last_fetched": "2026-11-09T23:15:38.897442",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T23:14:33.195522",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a4afc77b19a8382af5964d64964efc527916d1e01ebe58f75f2845e680a10e89\"",
-  "Last-Modified": "Sat, 07 Nov 2026 05:52:07 GMT",
+  "ETag": "\"c86fdbdd0ab0d2b64543ad0577288efd191cd79751482ddfdb83a8698d84d149\"",
+  "Last-Modified": "Mon, 09 Nov 2026 21:56:58 GMT",
   "base": {
     "repo": {
       "name": "cbor2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T21:56:57Z",
   "closed_by": null,
   "created_at": "2026-11-07T05:50:20Z",
   "draft": false,
   "e_tag": "\"ae7b4519f6ee2a49ed85905615ab3283b9dd1917d96b26c727f605b5fd8365f8\"",
   "head": {
-    "ref": "6.2.1_he668f7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cbor2-feedstock/pull/35",
   "id": 5198895437,
   "labels": [],
-  "last_fetched": "2026-11-07T09:58:33.379609",
+  "last_fetched": "2026-11-09T21:58:42.428807",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T21:56:57Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-11-07T05:52:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T21:56:58Z"
 }

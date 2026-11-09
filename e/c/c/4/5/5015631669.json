@@ -1,5 +1,5 @@
 {
-  "ETag": "\"fcf77eab05f63cd7d8676325249b822b7656fce66ab6f88e518eb3af7d964bfe\"",
+  "ETag": "W/\"857379a6b0079de9b80fd32577580551ffc0fc74ce9c71f96edf938b0720f729\"",
   "Last-Modified": "Mon, 09 Nov 2026 13:57:54 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/arcticdb-feedstock/pull/623",
   "id": 5015631669,
-  "labels": [],
-  "last_fetched": "2026-11-09T13:59:28.651740",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T13:57:58.060947",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

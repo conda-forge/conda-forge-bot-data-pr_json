@@ -1,29 +1,29 @@
 {
-  "ETag": "\"602aebbb2113cbfe5f3886001c8c52fc89017dfc415f2926bbeaea402639cc2e\"",
-  "Last-Modified": "Fri, 06 Nov 2026 21:33:40 GMT",
+  "ETag": "\"55ca99a883a6844f75ab1562b5f5058368323d42439959bac3d6bc982d4138f1\"",
+  "Last-Modified": "Mon, 09 Nov 2026 22:25:57 GMT",
   "base": {
     "repo": {
       "name": "r-zcurve-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T22:25:54Z",
   "closed_by": null,
   "created_at": "2026-11-06T21:23:04Z",
   "draft": false,
   "e_tag": "\"a01a1969a1b4fcd622ebb7858a2754d2cbf115f0d4f77a78cef6fe9c0a0c201c\"",
   "head": {
-    "ref": "2.5.0_h977d82"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-zcurve-feedstock/pull/15",
   "id": 5194832209,
   "labels": [],
-  "last_fetched": "2026-11-07T00:35:14.287988",
+  "last_fetched": "2026-11-09T22:27:12.039589",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T22:25:54Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-06T21:33:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T22:25:57Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"adf98fa835e49e7dd02291e6f27db6a16f9d4818d640ddc87c98f8e03b8aa201\"",
+  "Last-Modified": "Mon, 09 Nov 2026 17:46:40 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-vsphere-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T17:46:40Z",
   "closed_by": null,
   "created_at": "2026-11-09T17:31:38Z",
   "draft": false,
   "e_tag": "\"8f5a0f71b2383d161247029f764253a46aa1c42398baf4752a3ced1b6a410eb6\"",
   "head": {
-    "ref": "2.18.0_he15595"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-vsphere-feedstock/pull/63",
   "id": 5228233115,
   "labels": [],
-  "last_fetched": "2026-11-09T17:31:39.740654",
+  "last_fetched": "2026-11-09T17:48:19.208994",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T17:46:40Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-11-09T17:31:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T17:46:45Z"
 }

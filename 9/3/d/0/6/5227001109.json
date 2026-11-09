@@ -1,27 +1,29 @@
 {
+  "ETag": "\"173d40e44cb0af02ac9a0b6bfce2be108ba09448f47e6ee35080f38d29f95d80\"",
+  "Last-Modified": "Mon, 09 Nov 2026 16:12:20 GMT",
   "base": {
     "repo": {
       "name": "r-beepr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T16:12:16Z",
   "closed_by": null,
   "created_at": "2026-11-09T16:08:27Z",
   "draft": false,
   "e_tag": "\"f8fd544faac5682784a3cf419b85d604ba37b9096e0498ac43015198c9348291\"",
   "head": {
-    "ref": "2.0.1_h3f6abd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-beepr-feedstock/pull/6",
   "id": 5227001109,
   "labels": [],
-  "last_fetched": "2026-11-09T16:08:28.210333",
+  "last_fetched": "2026-11-09T16:13:30.237794",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T16:12:16Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-09T16:08:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T16:12:20Z"
 }

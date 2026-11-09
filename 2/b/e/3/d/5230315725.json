@@ -1,4 +1,6 @@
 {
+  "ETag": "\"88d54bb22f93801b281f24e0168628d7670ce43911a2d75f79744e394a677fb1\"",
+  "Last-Modified": "Mon, 09 Nov 2026 20:18:30 GMT",
   "base": {
     "repo": {
       "name": "polyline-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/polyline-feedstock/pull/10",
   "id": 5230315725,
-  "labels": [],
-  "last_fetched": "2026-11-09T20:02:20.448091",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891096994,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDk2OTk0",
+      "url": "https://api.github.com/repos/conda-forge/polyline-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T20:18:34.128614",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 10,
   "state": "open",
-  "updated_at": "2026-11-09T20:02:19Z"
+  "updated_at": "2026-11-09T20:18:30Z"
 }

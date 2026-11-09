@@ -1,18 +1,18 @@
 {
-  "ETag": "\"ea5afb578fd228c840fcaadbe33a0bd9078654b6c448326922f0afdc92f270f4\"",
-  "Last-Modified": "Mon, 09 Nov 2026 21:36:32 GMT",
+  "ETag": "\"c86b54ca136ad2a6c1e3f908faf4fce36ff5dfba78c70d08380b115a49183459\"",
+  "Last-Modified": "Mon, 09 Nov 2026 21:38:39 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-presto-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T21:38:34Z",
   "closed_by": null,
   "created_at": "2026-11-09T21:08:22Z",
   "draft": false,
   "e_tag": "\"9e590915902c232e0810aead79251649dbed4edd3df17899075ac5d185d24a57\"",
   "head": {
-    "ref": "6.0.0_h87ff70"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-presto-feedstock/pull/55",
   "id": 5231214781,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-presto-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-09T21:37:38.470411",
+  "last_fetched": "2026-11-09T21:40:00.914398",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T21:38:34Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-11-09T21:36:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T21:38:39Z"
 }

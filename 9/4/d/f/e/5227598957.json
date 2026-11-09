@@ -1,4 +1,6 @@
 {
+  "ETag": "\"f35cfc13058b09d80a880a513dfd25660871103eb939ad31b904f43c0dac5add\"",
+  "Last-Modified": "Mon, 09 Nov 2026 17:19:24 GMT",
   "base": {
     "repo": {
       "name": "postgis-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/postgis-feedstock/pull/160",
   "id": 5227598957,
-  "labels": [],
-  "last_fetched": "2026-11-09T16:48:05.197274",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891097278,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDk3Mjc4",
+      "url": "https://api.github.com/repos/conda-forge/postgis-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T17:20:32.062143",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 160,
   "state": "open",
-  "updated_at": "2026-11-09T16:48:04Z"
+  "updated_at": "2026-11-09T17:19:24Z"
 }

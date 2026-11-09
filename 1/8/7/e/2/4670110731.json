@@ -1,17 +1,17 @@
 {
-  "ETag": "\"70b29011173dfc97a7b48a0a55aae0cd31b38d9fb7e946bf3f5f4571b4fbec47\"",
-  "Last-Modified": "Mon, 09 Nov 2026 08:03:30 GMT",
+  "ETag": "\"66c258f30992927501e1db706e441ecab7a61b764b502ae2a8b7da74400c5911\"",
+  "Last-Modified": "Mon, 09 Nov 2026 10:07:35 GMT",
   "base": {
     "repo": {
       "name": "sage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T10:07:30Z",
   "created_at": "2026-09-28T22:36:54Z",
   "draft": false,
   "e_tag": "\"d8f44329fb1d9809740f498e2ff9e5db70a0ac6e98fabb7d47e0355f158d8bfb\"",
   "head": {
-    "ref": "10.10_h3fc918"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sage-feedstock/pull/143",
   "id": 4670110731,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/sage-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-09T08:05:16.497438",
+  "last_fetched": "2026-11-09T10:08:53.659911",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T10:07:30Z",
   "number": 143,
-  "state": "open",
-  "updated_at": "2026-11-09T08:03:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T10:07:35Z"
 }

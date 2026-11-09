@@ -1,29 +1,29 @@
 {
-  "ETag": "\"774548d8a2c76eafac1fd82b40b530aea30075be1c71947589e0043a11c86ad2\"",
-  "Last-Modified": "Mon, 09 Nov 2026 18:00:07 GMT",
+  "ETag": "\"639e5f66e33b5f5ffff42deb2be4cd802873c5a264eba91f18ce7ffd6a439599\"",
+  "Last-Modified": "Mon, 09 Nov 2026 18:06:56 GMT",
   "base": {
     "repo": {
       "name": "tree_sitter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T18:06:52Z",
   "closed_by": null,
   "created_at": "2026-11-09T17:46:33Z",
   "draft": false,
   "e_tag": "\"b37e844c181d3649ca383a7f58fe6887cbd81e0def5f3e5165ce874baf578650\"",
   "head": {
-    "ref": "0.26.1_h3450b5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tree_sitter-feedstock/pull/40",
   "id": 5228448875,
   "labels": [],
-  "last_fetched": "2026-11-09T18:01:40.596308",
+  "last_fetched": "2026-11-09T18:08:00.631725",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T18:06:52Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-11-09T18:00:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T18:06:56Z"
 }

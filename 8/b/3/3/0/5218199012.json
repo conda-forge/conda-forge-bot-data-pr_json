@@ -1,4 +1,6 @@
 {
+  "ETag": "\"bff02fa35931962b34a23f5730d3b181401e2db5d8f2575abf33e782ef695f8f\"",
+  "Last-Modified": "Mon, 09 Nov 2026 03:24:22 GMT",
   "base": {
     "repo": {
       "name": "mpv-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/mpv-feedstock/pull/20",
   "id": 5218199012,
-  "labels": [],
-  "last_fetched": "2026-11-09T03:22:43.781382",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6430117932,
+      "name": "automerge",
+      "node_id": "LA_kwDOLExh188AAAABf0PQLA",
+      "url": "https://api.github.com/repos/conda-forge/mpv-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T03:26:20.672410",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 20,
   "state": "open",
-  "updated_at": "2026-11-09T03:22:42Z"
+  "updated_at": "2026-11-09T03:24:22Z"
 }

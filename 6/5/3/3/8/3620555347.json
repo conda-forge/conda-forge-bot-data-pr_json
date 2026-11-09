@@ -1,5 +1,5 @@
 {
-  "ETag": "\"c2ed0f2e8190a5e6ff1e70957bf08a4376fc05544d56c1678a4874bae17e3c0c\"",
+  "ETag": "\"4c63116a5058c1a885b0c7a25657759234e43d54b21c2d9408e4d7689e2b44f2\"",
   "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"72d49b2cdf44a4ea39f925e483b29b4acefd53542cfe208acfb3329031507722\"",
   "head": {
-    "ref": "rebuild-libboost190-0-1_h86a265"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/khiops-driver-gcs-feedstock/pull/15",
   "id": 3620555347,
-  "labels": [],
-  "last_fetched": "2026-11-02T09:34:05.197895",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T13:29:12.003020",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 15,

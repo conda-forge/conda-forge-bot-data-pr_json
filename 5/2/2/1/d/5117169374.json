@@ -1,13 +1,13 @@
 {
-  "ETag": "\"44a331d58f7bd83f345a4f2c0431b7fc9f173baf7aa7cd91a91b3454a863bcc5\"",
-  "Last-Modified": "Mon, 02 Nov 2026 08:19:21 GMT",
+  "ETag": "W/\"0b6ad1938dfb5ccc3928a9a2046bb6c91c01ae9aaf8e7b8ccac9f7e117e13f0d\"",
+  "Last-Modified": "Mon, 09 Nov 2026 10:59:37 GMT",
   "base": {
     "repo": {
       "name": "diffpy.apps-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-09T10:59:37Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-02T08:19:19Z",
   "draft": false,
   "e_tag": "\"48b93d02e67f4609b8819a5411dc5c212051905947a7a3ff9b6cdc7a8c90aa2d\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/diffpy.apps-feedstock/pull/2",
   "id": 5117169374,
-  "labels": [],
-  "last_fetched": "2026-11-02T10:57:32.378314",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T10:59:39.832412",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-02T08:21:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T10:59:37Z"
 }

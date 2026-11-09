@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cde563c8e79a0394361c88b7ee2a201f85e36c0bf19231475641b0e926e2fc16\"",
-  "Last-Modified": "Mon, 09 Nov 2026 00:20:52 GMT",
+  "ETag": "\"a7af4b64e4258a99ae9a0591dabc59a373194cadb7871d17829b039b43a94141\"",
+  "Last-Modified": "Mon, 09 Nov 2026 11:19:26 GMT",
   "base": {
     "repo": {
       "name": "prov-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T11:19:26Z",
   "closed_by": null,
   "created_at": "2026-11-09T00:19:19Z",
   "draft": false,
   "e_tag": "\"c4dea0b4bd548459024affb3dfef55542c0f692d0303f8046f8ffb1bbbde5f32\"",
   "head": {
-    "ref": "3.3.0_h32d67e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/prov-feedstock/pull/31",
   "id": 5216688005,
   "labels": [],
-  "last_fetched": "2026-11-09T03:33:00.400122",
+  "last_fetched": "2026-11-09T11:20:55.579762",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T11:19:26Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-09T00:20:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T11:19:26Z"
 }

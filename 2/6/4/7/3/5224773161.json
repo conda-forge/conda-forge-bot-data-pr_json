@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bcef78776681793369327123b32ce4bc06d951d4cd913aa4b0ac4b0a8aefc8de\"",
-  "Last-Modified": "Mon, 09 Nov 2026 13:38:02 GMT",
+  "ETag": "\"54842e0b1ae00351a457a96369e1e7128eb2fd3407b47d2c05198484d77768e5\"",
+  "Last-Modified": "Mon, 09 Nov 2026 22:43:08 GMT",
   "base": {
     "repo": {
       "name": "essreflectometry-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T22:43:08Z",
   "closed_by": null,
   "created_at": "2026-11-09T13:38:01Z",
   "draft": false,
   "e_tag": "\"b67ffe8f3928bb144467c5a2486ee15c35dcfc9d9152194a483cd88e1047e67f\"",
   "head": {
-    "ref": "26.11.0_h223f87"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/essreflectometry-feedstock/pull/17",
   "id": 5224773161,
   "labels": [],
-  "last_fetched": "2026-11-09T13:58:38.382624",
+  "last_fetched": "2026-11-09T22:44:35.184102",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T22:43:08Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-11-09T13:39:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T22:43:08Z"
 }

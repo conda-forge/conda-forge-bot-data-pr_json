@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c1d399d00c6503801a9f7d31273bbf321f3d16d999ac1b31261fcec6f156c2e8\"",
+  "Last-Modified": "Mon, 09 Nov 2026 23:18:19 GMT",
   "base": {
     "repo": {
       "name": "qiskit-ibm-runtime-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T23:18:16Z",
   "closed_by": null,
   "created_at": "2026-11-09T23:16:20Z",
   "draft": false,
   "e_tag": "\"5be76239379968a93f14cd721df7545aa615b5521e3ffbecda48256823a41b7a\"",
   "head": {
-    "ref": "0.52.0_h1df4ed"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qiskit-ibm-runtime-feedstock/pull/78",
   "id": 5232791777,
   "labels": [],
-  "last_fetched": "2026-11-09T23:16:21.119025",
+  "last_fetched": "2026-11-09T23:19:55.225073",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T23:18:15Z",
   "number": 78,
-  "state": "open",
-  "updated_at": "2026-11-09T23:16:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T23:18:19Z"
 }

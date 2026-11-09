@@ -1,13 +1,13 @@
 {
-  "ETag": "\"50635085ed5f86867284d59d42487661bbd19225cfe45a24cc901941fd59f834\"",
-  "Last-Modified": "Sat, 07 Nov 2026 05:25:37 GMT",
+  "ETag": "W/\"e194f5af0fcf03acd91b18f82e983693aa9a7762f7c3b7ac930fb837a0f229d0\"",
+  "Last-Modified": "Mon, 09 Nov 2026 07:19:22 GMT",
   "base": {
     "repo": {
       "name": "hdf5plugin-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-09T07:19:22Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-07T05:24:08Z",
   "draft": false,
   "e_tag": "\"fec7d423ca731cc275c9a8205f1ebee748e7f92c42d438449045dd94a98a6cd8\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/hdf5plugin-feedstock/pull/83",
   "id": 5198740237,
-  "labels": [],
-  "last_fetched": "2026-11-07T05:28:54.161040",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1684139783,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxNjg0MTM5Nzgz",
+      "url": "https://api.github.com/repos/conda-forge/hdf5plugin-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T07:19:25.238087",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 83,
-  "state": "open",
-  "updated_at": "2026-11-07T05:25:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T07:19:22Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e1eaeb97210f96269065392a23d9fbca228c4ac5a872aafebda76f1a5cdf6247\"",
-  "Last-Modified": "Sun, 08 Nov 2026 20:03:37 GMT",
+  "ETag": "\"4fee1efa731e573c599d738b2646e4dc4f775fa57b030d6cc8cd58bbbe880125\"",
+  "Last-Modified": "Mon, 09 Nov 2026 01:32:08 GMT",
   "base": {
     "repo": {
       "name": "cyclopts-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T01:32:08Z",
   "closed_by": null,
   "created_at": "2026-11-08T20:03:36Z",
   "draft": false,
   "e_tag": "\"8f9b8dedfe561ea4d50e8582171aa021ead823d98dadc84a1aa15724bfcf8c22\"",
   "head": {
-    "ref": "5.4.0_h6426a7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cyclopts-feedstock/pull/154",
   "id": 5214659515,
   "labels": [],
-  "last_fetched": "2026-11-09T00:42:06.709168",
+  "last_fetched": "2026-11-09T01:33:19.944894",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T01:32:08Z",
   "number": 154,
-  "state": "open",
-  "updated_at": "2026-11-08T20:05:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T01:32:08Z"
 }

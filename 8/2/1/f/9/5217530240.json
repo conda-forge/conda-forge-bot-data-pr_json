@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f35ae09faaef93aca0076f7a22339177408e36b9f21f03b2cbc1bd2df89412ea\"",
+  "Last-Modified": "Mon, 09 Nov 2026 02:06:20 GMT",
   "base": {
     "repo": {
       "name": "modelbase-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T02:06:15Z",
   "closed_by": null,
   "created_at": "2026-11-09T02:03:02Z",
   "draft": false,
   "e_tag": "\"6954e7cc3556038469e893f654e7e91eda55c553a192641fdb7a81d2e0b85dc9\"",
   "head": {
-    "ref": "1.59.23_h23de3b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/modelbase-feedstock/pull/208",
   "id": 5217530240,
   "labels": [],
-  "last_fetched": "2026-11-09T02:03:03.756192",
+  "last_fetched": "2026-11-09T02:07:26.390368",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T02:06:15Z",
   "number": 208,
-  "state": "open",
-  "updated_at": "2026-11-09T02:03:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T02:06:20Z"
 }

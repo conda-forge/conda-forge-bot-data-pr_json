@@ -1,29 +1,29 @@
 {
-  "ETag": "\"60694cedfd7d3222f521d583a252701b823063cfc1df6a50c639b9e874fa861f\"",
-  "Last-Modified": "Sat, 07 Nov 2026 08:24:19 GMT",
+  "ETag": "\"93fc8624192e0d9c418a1b5787e044471263e1eec66f32ad722bf7aaa2bb0dc3\"",
+  "Last-Modified": "Mon, 09 Nov 2026 21:57:48 GMT",
   "base": {
     "repo": {
       "name": "fastgit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T21:57:48Z",
   "closed_by": null,
   "created_at": "2026-11-07T08:22:46Z",
   "draft": false,
   "e_tag": "\"9a4abf02a77b5dc0a1572830d9645342257b4e0af9cb56365df5ee5dd15c2bf1\"",
   "head": {
-    "ref": "0.1.5_ha62624"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fastgit-feedstock/pull/11",
   "id": 5199845646,
   "labels": [],
-  "last_fetched": "2026-11-07T09:27:25.600916",
+  "last_fetched": "2026-11-09T21:59:21.937949",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T21:57:48Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-07T08:24:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T21:57:48Z"
 }

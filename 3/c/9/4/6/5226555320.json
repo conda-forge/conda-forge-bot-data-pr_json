@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c66a15e8638f7f71c065dc449c5a653acab7462a8a40d2b9d79f8c43bbad67d7\"",
+  "Last-Modified": "Mon, 09 Nov 2026 16:12:00 GMT",
   "base": {
     "repo": {
       "name": "libxnvme-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T16:12:00Z",
   "closed_by": null,
   "created_at": "2026-11-09T15:38:23Z",
   "draft": false,
   "e_tag": "\"7891b71de370fb25f9f8fc1e1efc7c92e0ec2892aee9bfd17ed9159d5f2ef278\"",
   "head": {
-    "ref": "rebuild-liburing215-0-1_h666988"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libxnvme-feedstock/pull/4",
   "id": 5226555320,
   "labels": [],
-  "last_fetched": "2026-11-09T15:38:24.470388",
+  "last_fetched": "2026-11-09T16:13:26.695109",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T16:12:00Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-09T15:38:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T16:12:00Z"
 }

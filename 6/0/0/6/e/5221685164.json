@@ -1,29 +1,29 @@
 {
-  "ETag": "\"dfca7e80bb5d767a01c12a5d31c6de6c099bdc5d2c3ede58a62a30d7e136c644\"",
-  "Last-Modified": "Mon, 09 Nov 2026 09:30:48 GMT",
+  "ETag": "\"2a323a379adfd30aee58cb748f5499f134ca3087f6bf1947b64f6a19f88bfd26\"",
+  "Last-Modified": "Mon, 09 Nov 2026 09:39:17 GMT",
   "base": {
     "repo": {
       "name": "niquests-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T09:39:17Z",
   "closed_by": null,
   "created_at": "2026-11-09T09:30:47Z",
   "draft": false,
   "e_tag": "\"05c39985646b09ac9bb23db20cd6475c0b05a797cd53370e8e2e7a9d6095df81\"",
   "head": {
-    "ref": "3.21.3_h61f74f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/niquests-feedstock/pull/21",
   "id": 5221685164,
   "labels": [],
-  "last_fetched": "2026-11-09T09:34:01.508066",
+  "last_fetched": "2026-11-09T09:40:56.734216",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T09:39:17Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-09T09:30:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T09:39:17Z"
 }

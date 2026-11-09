@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d170b6c8d4b51d802b522522fca5cca1c0cb2b68eea18e1b26958bb04b58f43c\"",
-  "Last-Modified": "Mon, 09 Nov 2026 20:21:47 GMT",
+  "ETag": "\"7bf23fe3056c3c4d17de2228c5a5962e593d393ffea8e38fae6f340db2c2ac8c\"",
+  "Last-Modified": "Mon, 09 Nov 2026 20:44:20 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-yandex-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-yandex-feedstock/pull/44",
   "id": 5230559403,
-  "labels": [],
-  "last_fetched": "2026-11-09T20:43:26.152764",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2772960836,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzcyOTYwODM2",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-yandex-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T20:45:56.577373",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 44,
   "state": "open",
-  "updated_at": "2026-11-09T20:21:47Z"
+  "updated_at": "2026-11-09T20:44:23Z"
 }

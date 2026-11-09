@@ -1,6 +1,6 @@
 {
-  "ETag": "\"28d6bc3f0266b211746642e933124f322749a315e13933ce6ffe9b73d61f414b\"",
-  "Last-Modified": "Sun, 08 Nov 2026 22:12:55 GMT",
+  "ETag": "\"a0bdf440150632371e5e67d60d607b88772063da4713bad567a78bc9121515b8\"",
+  "Last-Modified": "Mon, 09 Nov 2026 13:47:17 GMT",
   "base": {
     "repo": {
       "name": "pylibmc-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/pylibmc-feedstock/pull/23",
   "id": 5215029906,
-  "labels": [],
-  "last_fetched": "2026-11-08T23:42:49.791009",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891105885,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTA1ODg1",
+      "url": "https://api.github.com/repos/conda-forge/pylibmc-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T13:48:33.589602",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 23,
   "state": "open",
-  "updated_at": "2026-11-08T22:12:55Z"
+  "updated_at": "2026-11-09T13:47:17Z"
 }

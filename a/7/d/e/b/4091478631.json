@@ -1,29 +1,32 @@
 {
-  "ETag": "\"80ae68d021da3f95b179751a33d32ddaf1594f0b975690e0d33280308455b9c3\"",
-  "Last-Modified": "Mon, 09 Nov 2026 21:15:19 GMT",
+  "ETag": "\"2e89e311d4c9dd9dee35e250d981631854c4018889dda6c3c55a7aeb0694de04\"",
+  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
   "base": {
     "repo": {
       "name": "folly-feedstock"
     }
   },
-  "closed_at": "2026-11-09T21:15:19Z",
-  "closed_by": "regro-cf-autotick-bot",
+  "closed_at": null,
   "created_at": "2026-07-20T13:33:18Z",
   "draft": false,
   "e_tag": "\"135af305e234b87eaa376eb9e4103631c2edc18a20eb33469e9db9f6d7ecf270\"",
   "head": {
-    "ref": "rebuild-libboost190-0-1_h798fd0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/folly-feedstock/pull/346",
   "id": 4091478631,
-  "labels": [],
-  "last_fetched": "2026-11-09T21:16:59.808530",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T21:15:17.099232",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 346,
-  "state": "closed",
-  "updated_at": "2026-11-09T21:15:19Z"
+  "state": "open",
+  "updated_at": "2026-07-20T13:34:52Z"
 }

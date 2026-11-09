@@ -1,12 +1,13 @@
 {
-  "ETag": "\"2d764d7179608763c6819453f50ca268d195726e1480e3e1fdd11610e0d093f3\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"a0005e0711c2e5a30bb82f739b1a8469fde72a0db70c49dbae4b2fcf8a5c4fc0\"",
+  "Last-Modified": "Mon, 09 Nov 2026 15:43:46 GMT",
   "base": {
     "repo": {
       "name": "etcd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T15:43:46Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2022-04-13T20:16:04Z",
   "draft": false,
   "head": {
@@ -15,12 +16,12 @@
   "html_url": "https://github.com/conda-forge/etcd-feedstock/pull/42",
   "id": 909320221,
   "labels": [],
-  "last_fetched": "2026-11-02T15:28:36.272643",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "last_fetched": "2026-11-09T15:45:25.383392",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 42,
-  "state": "open",
-  "updated_at": "2022-04-13T20:25:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T15:43:46Z"
 }

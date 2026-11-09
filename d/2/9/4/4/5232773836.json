@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f686f16e9f48a5df52aa26833674d1ce432f3acea75a489b2efb7551e46aee19\"",
+  "Last-Modified": "Mon, 09 Nov 2026 23:18:05 GMT",
   "base": {
     "repo": {
       "name": "amazon-braket-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T23:18:05Z",
   "closed_by": null,
   "created_at": "2026-11-09T23:14:40Z",
   "draft": false,
   "e_tag": "\"1d9d003bf7582e475ea128190e9d2d9d542febc92270d6400979c287112352b6\"",
   "head": {
-    "ref": "1.127.8_h88105d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/amazon-braket-sdk-feedstock/pull/279",
   "id": 5232773836,
   "labels": [],
-  "last_fetched": "2026-11-09T23:14:41.316380",
+  "last_fetched": "2026-11-09T23:19:39.821789",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T23:18:05Z",
   "number": 279,
-  "state": "open",
-  "updated_at": "2026-11-09T23:14:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T23:18:10Z"
 }

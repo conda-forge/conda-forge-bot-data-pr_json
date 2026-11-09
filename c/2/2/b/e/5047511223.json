@@ -1,6 +1,6 @@
 {
-  "ETag": "\"eb81250c9ee121bc152f29d819cc484a95dda6f888e66c1b24f357b4d03eb9fd\"",
-  "Last-Modified": "Wed, 28 Oct 2026 08:33:03 GMT",
+  "ETag": "\"69b7677e484f5c67caac4da59fa1369c01be1909c7a602122ddc84c352a235e6\"",
+  "Last-Modified": "Mon, 09 Nov 2026 13:29:35 GMT",
   "base": {
     "repo": {
       "name": "grep-feedstock"
@@ -9,7 +9,7 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-10-28T08:31:29Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"dd458565d162a8ab244e064b5791cdf9e8f355c2b6c165f40225ddc2e09f93e5\"",
   "head": {
     "ref": "bot-pr_arch_arm64_win_h5b1f87"
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/grep-feedstock/pull/20",
   "id": 5047511223,
   "labels": [],
-  "last_fetched": "2026-11-04T18:58:14.097683",
+  "last_fetched": "2026-11-09T16:29:25.609032",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 20,
   "state": "open",
-  "updated_at": "2026-10-28T08:33:03Z"
+  "updated_at": "2026-11-09T13:29:35Z"
 }

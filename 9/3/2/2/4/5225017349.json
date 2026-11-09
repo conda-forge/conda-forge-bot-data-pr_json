@@ -1,27 +1,29 @@
 {
+  "ETag": "\"122747510572422c7bb70bd05be475368d70d421614bcc3ae549256b4fc92cf0\"",
+  "Last-Modified": "Mon, 09 Nov 2026 15:11:26 GMT",
   "base": {
     "repo": {
       "name": "sdl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T15:11:26Z",
   "closed_by": null,
   "created_at": "2026-11-09T13:55:52Z",
   "draft": false,
   "e_tag": "\"e1fd3d6cdf4b89237d575f3feee316a2c93ef4c900bcb3fbdb004ae31ffabcec\"",
   "head": {
-    "ref": "rebuild-liburing215-0-1_h2aefe7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sdl-feedstock/pull/65",
   "id": 5225017349,
   "labels": [],
-  "last_fetched": "2026-11-09T13:55:53.256936",
+  "last_fetched": "2026-11-09T15:13:00.413591",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T15:11:26Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-11-09T13:55:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T15:11:26Z"
 }

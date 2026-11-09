@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e341387c5546a25db834d53ac5b5c7bf4518c4e5d9f7007ddcd24790b541df53\"",
-  "Last-Modified": "Sun, 08 Nov 2026 21:50:17 GMT",
+  "ETag": "\"b7439b61cf996736e8df4ae4dfc553d4ddedd2b5f979092c75047f13edab4dd5\"",
+  "Last-Modified": "Mon, 09 Nov 2026 10:01:23 GMT",
   "base": {
     "repo": {
       "name": "cadwyn-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cadwyn-feedstock/pull/31",
   "id": 5215439874,
-  "labels": [],
-  "last_fetched": "2026-11-09T08:45:28.794642",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8530789334,
+      "name": "automerge",
+      "node_id": "LA_kwDOOhWR9M8AAAAB_HmD1g",
+      "url": "https://api.github.com/repos/conda-forge/cadwyn-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T10:02:32.638615",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 31,
   "state": "open",
-  "updated_at": "2026-11-08T21:50:17Z"
+  "updated_at": "2026-11-09T10:01:23Z"
 }

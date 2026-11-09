@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7725ce31912165fdd7840a9250d17584ec616413567ceb19e155c50cf767254a\"",
-  "Last-Modified": "Mon, 09 Nov 2026 13:26:00 GMT",
+  "ETag": "\"48f4ecb11342fefc0d3199195d9fa312ebd82f6bfdf90790ab69d0eee7310254\"",
+  "Last-Modified": "Mon, 09 Nov 2026 14:23:33 GMT",
   "base": {
     "repo": {
       "name": "librobometry-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T14:23:33Z",
   "closed_by": null,
   "created_at": "2026-11-09T10:17:56Z",
   "draft": false,
   "e_tag": "\"4761584ae63fbbdb82a0fbf0c547b10280221b98ad339e593ef0be8899c45c84\"",
   "head": {
-    "ref": "2.0.0_he5dbfa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/librobometry-feedstock/pull/54",
   "id": 5222277996,
   "labels": [],
-  "last_fetched": "2026-11-09T13:26:49.855462",
+  "last_fetched": "2026-11-09T14:25:18.452706",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T14:23:33Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-09T13:26:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T14:23:33Z"
 }

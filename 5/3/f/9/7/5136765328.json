@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2a697beca1456863b580726be283c906c52b27a055013f8efdeee03e4790e49e\"",
-  "Last-Modified": "Tue, 03 Nov 2026 15:13:05 GMT",
+  "ETag": "\"602a32ef0a372b0046a14e382665c46fc6875d726ab98a884bb9905ff1f2d13b\"",
+  "Last-Modified": "Mon, 09 Nov 2026 10:21:13 GMT",
   "base": {
     "repo": {
       "name": "r-rmumps-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T10:21:13Z",
   "closed_by": null,
   "created_at": "2026-11-03T11:53:40Z",
   "draft": false,
   "e_tag": "\"5bc4484fb4d3ef5d6bde996889022216e5c1b3f8f6357c7941a168eb07d014ef\"",
   "head": {
-    "ref": "5.9.1_1_h0f8414"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-rmumps-feedstock/pull/32",
   "id": 5136765328,
   "labels": [],
-  "last_fetched": "2026-11-03T16:45:44.040487",
+  "last_fetched": "2026-11-09T10:22:40.154774",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T10:21:12Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-11-03T15:13:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T10:21:13Z"
 }

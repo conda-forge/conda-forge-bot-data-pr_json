@@ -1,32 +1,29 @@
 {
-  "ETag": "\"4c63116a5058c1a885b0c7a25657759234e43d54b21c2d9408e4d7689e2b44f2\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"b035e3c109eaf7b1ab4f87177d492a8514e7fc880d4ca32310fd97ce081ba8b0\"",
+  "Last-Modified": "Mon, 09 Nov 2026 13:29:14 GMT",
   "base": {
     "repo": {
       "name": "khiops-driver-gcs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T13:29:14Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-05-03T17:17:10Z",
   "draft": false,
   "e_tag": "\"72d49b2cdf44a4ea39f925e483b29b4acefd53542cfe208acfb3329031507722\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "rebuild-libboost190-0-1_h86a265"
   },
   "html_url": "https://github.com/conda-forge/khiops-driver-gcs-feedstock/pull/15",
   "id": 3620555347,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-11-09T13:29:12.003020",
+  "labels": [],
+  "last_fetched": "2026-11-09T13:30:48.727732",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-05-03T17:18:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T13:29:14Z"
 }

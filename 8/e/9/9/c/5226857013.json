@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d0fbcc84aff58a59ee475329c810f028abae59dfe5d9b5f27b2703d335bf96d3\"",
+  "Last-Modified": "Mon, 09 Nov 2026 16:08:01 GMT",
   "base": {
     "repo": {
       "name": "syft-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T16:08:00Z",
   "closed_by": null,
   "created_at": "2026-11-09T15:58:43Z",
   "draft": false,
   "e_tag": "\"334ec7c1a4ec3c5be879ecf92c566371df88a00e7efc9a1e5e16b17f30572258\"",
   "head": {
-    "ref": "1.57.1_h5d2c14"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/syft-feedstock/pull/106",
   "id": 5226857013,
   "labels": [],
-  "last_fetched": "2026-11-09T15:58:44.693106",
+  "last_fetched": "2026-11-09T16:09:24.609916",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T16:08:00Z",
   "number": 106,
-  "state": "open",
-  "updated_at": "2026-11-09T15:58:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T16:08:06Z"
 }

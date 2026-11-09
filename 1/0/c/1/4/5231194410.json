@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e340262c1c3903158cf5e3530c59eb19d6ed532580a6c7b3fa7f5a8d1bb2f425\"",
-  "Last-Modified": "Mon, 09 Nov 2026 21:06:57 GMT",
+  "ETag": "\"0d345170b4d7593f4332b543eb58579972edd60577f2df7b1beec468e7dff39f\"",
+  "Last-Modified": "Mon, 09 Nov 2026 21:48:22 GMT",
   "base": {
     "repo": {
       "name": "flake8-bugbear-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/flake8-bugbear-feedstock/pull/63",
   "id": 5231194410,
-  "labels": [],
-  "last_fetched": "2026-11-09T21:44:07.768746",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890877250,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODc3MjUw",
+      "url": "https://api.github.com/repos/conda-forge/flake8-bugbear-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T21:49:26.781176",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 63,
   "state": "open",
-  "updated_at": "2026-11-09T21:08:35Z"
+  "updated_at": "2026-11-09T21:48:22Z"
 }

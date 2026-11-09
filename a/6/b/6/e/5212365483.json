@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b7b20024a840856cad00c16e6eff9a05c9d9a92c4bdd1f4140be39a68b8b16f1\"",
-  "Last-Modified": "Sun, 08 Nov 2026 15:02:50 GMT",
+  "ETag": "\"749ec230148195c07337266cdbcccb3323f1dc7e83b3cf266753cec7300a6c11\"",
+  "Last-Modified": "Mon, 09 Nov 2026 10:48:52 GMT",
   "base": {
     "repo": {
       "name": "pyodbc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T10:48:52Z",
   "closed_by": null,
   "created_at": "2026-11-08T15:01:21Z",
   "draft": false,
   "e_tag": "\"34d33d7b81e9bf4bef98b99811e3615d87a401cf7ea901400a281ddb9327c85c\"",
   "head": {
-    "ref": "5.5.0_hd60852"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyodbc-feedstock/pull/52",
   "id": 5212365483,
   "labels": [],
-  "last_fetched": "2026-11-08T20:57:22.161054",
+  "last_fetched": "2026-11-09T10:50:16.452562",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T10:48:52Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-11-08T15:02:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T10:48:52Z"
 }

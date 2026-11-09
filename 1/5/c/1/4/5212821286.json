@@ -1,18 +1,18 @@
 {
-  "ETag": "\"2eb69232463483af04a22e9b7f88aab5332a2e026bf89e91d54e901ddc6e69d9\"",
-  "Last-Modified": "Mon, 09 Nov 2026 09:22:06 GMT",
+  "ETag": "\"323835d81f445e3a38720fab7e9fc8f64e48bf316338ccbf31913d598f5f27d4\"",
+  "Last-Modified": "Mon, 09 Nov 2026 09:22:53 GMT",
   "base": {
     "repo": {
       "name": "pylsp-rope-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T09:22:48Z",
   "closed_by": null,
   "created_at": "2026-11-08T16:02:26Z",
   "draft": false,
   "e_tag": "\"1749d1284696ee14d2a20bbf37c6f0175be9ac82a5755a275a800a76fe8b33a3\"",
   "head": {
-    "ref": "0.1.18_h5d2651"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylsp-rope-feedstock/pull/3",
   "id": 5212821286,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/pylsp-rope-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-09T09:22:20.110468",
+  "last_fetched": "2026-11-09T09:24:21.917674",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T09:22:48Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-11-09T09:22:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T09:22:53Z"
 }

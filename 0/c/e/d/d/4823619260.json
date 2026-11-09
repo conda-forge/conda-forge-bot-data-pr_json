@@ -1,5 +1,5 @@
 {
-  "ETag": "\"27d7a00b086de927f09a74f52aca0b5aef2214c2a990a4aad9215909976637fe\"",
+  "ETag": "W/\"cb393950b84c0b8c4c6442054522340cdecb1292adf3e54384643426a2f1a815\"",
   "Last-Modified": "Mon, 09 Nov 2026 18:32:23 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pymeep-feedstock/pull/113",
   "id": 4823619260,
-  "labels": [],
-  "last_fetched": "2026-11-09T18:33:36.395404",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-09T18:32:25.932606",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

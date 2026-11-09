@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7d19ae448e9eceba609cf95c01396a8a6e3bba27652c5d34728058a438eed706\"",
-  "Last-Modified": "Mon, 09 Nov 2026 08:04:02 GMT",
+  "ETag": "\"f22d40fd78dad8396ca4bf709014a53e44a67e02bd48bf869aad250a24ba17b1\"",
+  "Last-Modified": "Mon, 09 Nov 2026 10:15:16 GMT",
   "base": {
     "repo": {
       "name": "orange3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T10:15:16Z",
   "closed_by": null,
   "created_at": "2026-11-09T01:36:53Z",
   "draft": false,
   "e_tag": "\"6d76055a6297dc97075e9a0017186cc4d75e590a16a00f58ea28b8ebfb819bae\"",
   "head": {
-    "ref": "3.41.0_h03f313"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/orange3-feedstock/pull/161",
   "id": 5217330099,
   "labels": [],
-  "last_fetched": "2026-11-09T08:24:01.936199",
+  "last_fetched": "2026-11-09T10:16:27.842642",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T10:15:15Z",
   "number": 161,
-  "state": "open",
-  "updated_at": "2026-11-09T08:04:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T10:15:16Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2f48909c5994ff597da24d0b67070f463738e7176077ce57ca20395ba515c2eb\"",
+  "Last-Modified": "Mon, 09 Nov 2026 15:46:28 GMT",
   "base": {
     "repo": {
       "name": "pymc-marketing-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T15:46:28Z",
   "closed_by": null,
   "created_at": "2026-11-09T15:07:32Z",
   "draft": false,
   "e_tag": "\"d24704d74b6c67b02d123aa4d9bbd094a16b3de2630e8db1b689b5c84cd22f68\"",
   "head": {
-    "ref": "1.4.0_h0b57aa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pymc-marketing-feedstock/pull/49",
   "id": 5226087849,
   "labels": [],
-  "last_fetched": "2026-11-09T15:07:34.059964",
+  "last_fetched": "2026-11-09T15:47:55.629121",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T15:46:27Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-11-09T15:07:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T15:46:28Z"
 }

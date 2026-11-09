@@ -1,29 +1,29 @@
 {
-  "ETag": "\"084de6bb1c5193e6ea58808d0851e064af58ff6bf15f28a849b52ceb273e47b2\"",
-  "Last-Modified": "Mon, 09 Nov 2026 01:15:46 GMT",
+  "ETag": "\"ab77b03d343269147761145eea4b03f1c475a49a604a5ba86bd655e0cc825a60\"",
+  "Last-Modified": "Mon, 09 Nov 2026 19:19:13 GMT",
   "base": {
     "repo": {
       "name": "django-cotton-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T19:19:13Z",
   "closed_by": null,
   "created_at": "2026-11-09T01:14:12Z",
   "draft": false,
   "e_tag": "\"9a06bea1e04d70180950b3c768d4310354ce07e2b01c0d062bdf5128b14bfd8c\"",
   "head": {
-    "ref": "2.9.0_h9953dc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-cotton-feedstock/pull/54",
   "id": 5217154987,
   "labels": [],
-  "last_fetched": "2026-11-09T01:28:35.728857",
+  "last_fetched": "2026-11-09T19:20:27.102279",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T19:19:12Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-09T01:15:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T19:19:13Z"
 }

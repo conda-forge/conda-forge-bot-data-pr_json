@@ -1,6 +1,6 @@
 {
-  "ETag": "\"9d59956581a49ab3624798aa113917236903c1c98a8b2110000d787cd897fd8d\"",
-  "Last-Modified": "Sat, 31 Oct 2026 14:49:03 GMT",
+  "ETag": "\"4dfa809bc97451ad9ad931133568708a4bedecf8971a93bb8a1ee99a145e6301\"",
+  "Last-Modified": "Mon, 09 Nov 2026 17:01:43 GMT",
   "base": {
     "repo": {
       "name": "lalinference-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/lalinference-feedstock/pull/78",
   "id": 5098459549,
-  "labels": [],
-  "last_fetched": "2026-11-07T18:42:12.336920",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890953075,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTUzMDc1",
+      "url": "https://api.github.com/repos/conda-forge/lalinference-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-09T17:03:12.992384",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 78,
   "state": "open",
-  "updated_at": "2026-10-31T14:49:03Z"
+  "updated_at": "2026-11-09T17:01:43Z"
 }

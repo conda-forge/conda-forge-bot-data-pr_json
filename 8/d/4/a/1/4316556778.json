@@ -1,28 +1,28 @@
 {
-  "ETag": "\"a6f58fdfb62a6a8021f2283e511eb36ae472ea177eb8b261e0308e35272aea25\"",
-  "Last-Modified": "Wed, 19 Aug 2026 18:38:48 GMT",
+  "ETag": "\"52c5216a7652d64119dc1c9a81e5d33aa051cde1d4b6bf88af0bdbe30a7c193e\"",
+  "Last-Modified": "Mon, 09 Nov 2026 16:40:22 GMT",
   "base": {
     "repo": {
       "name": "pyproject2conda-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T16:40:21Z",
   "created_at": "2026-08-19T18:36:57Z",
   "draft": false,
   "e_tag": "\"ed37e2d19d53e1f769926e27f4218e11b297b39147f71e28d7cfd48250aa53f3\"",
   "head": {
-    "ref": "0.23.2_h6922ea"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyproject2conda-feedstock/pull/37",
   "id": 4316556778,
   "labels": [],
-  "last_fetched": "2026-11-06T18:45:12.490606",
+  "last_fetched": "2026-11-09T16:42:10.681016",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-09T16:40:21Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-08-19T18:38:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T16:40:22Z"
 }

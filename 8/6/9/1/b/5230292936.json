@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ca237a4df64634f66adc4434f6fe59833d75bae39b3dd8fc5c5bcc97fa1b6b36\"",
+  "Last-Modified": "Mon, 09 Nov 2026 20:12:45 GMT",
   "base": {
     "repo": {
       "name": "cocoindex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T20:12:40Z",
   "closed_by": null,
   "created_at": "2026-11-09T20:00:43Z",
   "draft": false,
   "e_tag": "\"e4b31a2c5f362c08f393058c385c400212fb35539949a4c89a667d71d27c354a\"",
   "head": {
-    "ref": "1.2.0_hf93e1d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cocoindex-feedstock/pull/30",
   "id": 5230292936,
   "labels": [],
-  "last_fetched": "2026-11-09T20:00:44.307817",
+  "last_fetched": "2026-11-09T20:14:10.647292",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T20:12:40Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-09T20:00:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T20:12:45Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fbfaf61bdc973864bc06cdf85cc87e47b0fa9f8ba7f04e73b274a0ef4ce906c8\"",
+  "Last-Modified": "Mon, 09 Nov 2026 20:13:32 GMT",
   "base": {
     "repo": {
       "name": "exoscale-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-09T20:13:28Z",
   "closed_by": null,
   "created_at": "2026-11-09T20:06:16Z",
   "draft": false,
   "e_tag": "\"7a6ca454a255bb7cd920d74d8a0aa2675847f77a88009fa73ae6309c5d8e1686\"",
   "head": {
-    "ref": "1.104.1_hda3751"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/exoscale-cli-feedstock/pull/23",
   "id": 5230369912,
   "labels": [],
-  "last_fetched": "2026-11-09T20:06:17.233793",
+  "last_fetched": "2026-11-09T20:14:56.374387",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-09T20:13:28Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-09T20:06:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-09T20:13:32Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"50400f97246c7d45206926ccb0fd8a37a5ab4c6aab37abddd513182cf42dbffa\"",
+  "ETag": "\"69308aa46bc54f6bbb967a7b9cd1e93c6a4908253f933660c49fd3159a6bdbce\"",
   "Last-Modified": "Sun, 06 Sep 2026 13:42:38 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"0906adca4b5b0234812973ed5c156576ca26068a4b28a04b9cda61684f79c8e8\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h4d3521"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ryaml-feedstock/pull/2",
   "id": 4456398134,
-  "labels": [],
-  "last_fetched": "2026-11-03T05:27:21.880891",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-10T06:45:13.607173",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 2,

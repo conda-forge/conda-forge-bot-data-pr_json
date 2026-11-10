@@ -1,6 +1,6 @@
 {
-  "ETag": "\"bc00d64f8a413a14ccb15b577be65f048246b0390dd5df19fbf85adf634a56c7\"",
-  "Last-Modified": "Tue, 10 Nov 2026 08:38:53 GMT",
+  "ETag": "\"cb970f00c2f493c8ab943f8b78ac149a9532a1295f6895b9ca132d4ef74026e3\"",
+  "Last-Modified": "Tue, 10 Nov 2026 14:30:41 GMT",
   "base": {
     "repo": {
       "name": "pitchfork-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/pitchfork-feedstock/pull/32",
   "id": 5238103723,
-  "labels": [],
-  "last_fetched": "2026-11-10T09:43:41.784863",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11396219515,
+      "name": "automerge",
+      "node_id": "LA_kwDOTLUtoc8AAAACp0SCew",
+      "url": "https://api.github.com/repos/conda-forge/pitchfork-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T14:31:58.636344",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 32,
   "state": "open",
-  "updated_at": "2026-11-10T08:38:53Z"
+  "updated_at": "2026-11-10T14:30:41Z"
 }

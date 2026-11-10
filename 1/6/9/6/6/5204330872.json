@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d3018a21c28a2ae21f0187343505330c9c11cdacfdf61eaa6a36ec0c2310dae6\"",
-  "Last-Modified": "Sat, 07 Nov 2026 17:50:33 GMT",
+  "ETag": "\"f096230be4f4b7e3fe7f8f76187235216ec9edd0c6d2ac361060d66b30c7e646\"",
+  "Last-Modified": "Tue, 10 Nov 2026 00:11:51 GMT",
   "base": {
     "repo": {
       "name": "janome-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/janome-feedstock/pull/10",
   "id": 5204330872,
-  "labels": [],
-  "last_fetched": "2026-11-07T17:58:07.610817",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2595231283,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNTk1MjMxMjgz",
+      "url": "https://api.github.com/repos/conda-forge/janome-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T00:12:57.710533",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 10,
   "state": "open",
-  "updated_at": "2026-11-07T17:50:33Z"
+  "updated_at": "2026-11-10T00:11:51Z"
 }

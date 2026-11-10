@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3973f1c93b253d12c3304ce17aa4e5292923ef6b66805ec84d9b6661c639c887\"",
+  "Last-Modified": "Tue, 10 Nov 2026 20:42:28 GMT",
   "base": {
     "repo": {
       "name": "haystack-ai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T20:42:24Z",
   "closed_by": null,
   "created_at": "2026-11-10T20:40:15Z",
   "draft": false,
   "e_tag": "\"1b366b25b2f17b4ffb2864f19e62f5732eb29695ad94c54c19512e7ec9632dfb\"",
   "head": {
-    "ref": "3.5.0_hae956e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/haystack-ai-feedstock/pull/74",
   "id": 5248534050,
   "labels": [],
-  "last_fetched": "2026-11-10T20:40:16.935973",
+  "last_fetched": "2026-11-10T20:43:33.388859",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T20:42:24Z",
   "number": 74,
-  "state": "open",
-  "updated_at": "2026-11-10T20:40:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T20:42:28Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"4a2fe2fda5e3efca8eaf045e9f156413eabc9783b1d0fd1c891e73e882fdf119\"",
-  "Last-Modified": "Tue, 10 Nov 2026 00:36:00 GMT",
+  "ETag": "\"1f940e20f4321f5e745734c86da8f40dcb320a2bdb0f035ea7b6452ac9c171dc\"",
+  "Last-Modified": "Tue, 10 Nov 2026 00:40:33 GMT",
   "base": {
     "repo": {
       "name": "janome-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T00:40:30Z",
   "closed_by": null,
   "created_at": "2026-11-07T17:49:10Z",
   "draft": false,
   "e_tag": "\"72fc41165ddb7cfb99ecc07025ec0eb16a98d70189a9d2e82c038ae5656105f6\"",
   "head": {
-    "ref": "0.5.1_h3542fb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/janome-feedstock/pull/10",
   "id": 5204330872,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/janome-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-10T00:37:42.349378",
+  "last_fetched": "2026-11-10T00:41:36.731092",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T00:40:30Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-10T00:36:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T00:40:33Z"
 }

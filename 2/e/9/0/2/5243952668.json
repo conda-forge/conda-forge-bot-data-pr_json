@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fafa2521c274416ff8ce0d1274643f9ff310551f9e9a537112a310f9c9055b55\"",
-  "Last-Modified": "Tue, 10 Nov 2026 15:29:32 GMT",
+  "ETag": "\"dc14ee3695be1399b074556a444d9e45b76b7815379319a1e4ba128e201fb538\"",
+  "Last-Modified": "Tue, 10 Nov 2026 18:53:32 GMT",
   "base": {
     "repo": {
       "name": "nvidia-dali-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T18:53:32Z",
   "closed_by": null,
   "created_at": "2026-11-10T15:27:47Z",
   "draft": false,
   "e_tag": "\"779eb823eae1a1367ade269483a0ae7173efb043c55d47ae9232de748bf8ea15\"",
   "head": {
-    "ref": "rebuild-cfitsio470-0-1_h56087c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nvidia-dali-python-feedstock/pull/90",
   "id": 5243952668,
   "labels": [],
-  "last_fetched": "2026-11-10T16:30:22.523646",
+  "last_fetched": "2026-11-10T18:55:05.872703",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T18:53:32Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-11-10T15:29:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T18:53:32Z"
 }

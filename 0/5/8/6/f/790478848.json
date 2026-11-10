@@ -1,5 +1,5 @@
 {
-  "ETag": "\"12e649a6567456aca31b25d1e52823b1cb153d4888fc3f40ea350428eb1bdf17\"",
+  "ETag": "W/\"d18316b12e54bf4a24002225f2e489f802a12c60ac3905816da2d587296aed2e\"",
   "Last-Modified": "Tue, 10 Nov 2026 16:18:29 GMT",
   "base": {
     "repo": {
@@ -15,8 +15,12 @@
   },
   "html_url": "https://github.com/conda-forge/fast-dds-feedstock/pull/12",
   "id": 790478848,
-  "labels": [],
-  "last_fetched": "2026-11-10T16:20:29.754189",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-10T16:18:32.964089",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,

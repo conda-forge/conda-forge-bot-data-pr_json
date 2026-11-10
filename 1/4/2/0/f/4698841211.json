@@ -1,17 +1,17 @@
 {
-  "ETag": "\"99ea9f88e59f910cd0f485572e752519276404cbc6bdc5bee95605f656523c73\"",
-  "Last-Modified": "Tue, 10 Nov 2026 02:42:40 GMT",
+  "ETag": "\"03dd80cf2bb6c9d39a3a7a4fa3a1467294f62fc1bd340d432e151f4903d92139\"",
+  "Last-Modified": "Tue, 10 Nov 2026 02:52:38 GMT",
   "base": {
     "repo": {
       "name": "lcalc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T02:52:34Z",
   "created_at": "2026-10-01T03:24:44Z",
   "draft": false,
   "e_tag": "\"61be43fe22ff2aa764589e8a722194ce72859f7f48dd37f6f8260af953872e9b\"",
   "head": {
-    "ref": "2.2.2_h4b1546"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lcalc-feedstock/pull/23",
   "id": 4698841211,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/lcalc-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-10T02:44:00.400044",
+  "last_fetched": "2026-11-10T02:53:54.312102",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T02:52:34Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-10T02:43:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T02:52:38Z"
 }

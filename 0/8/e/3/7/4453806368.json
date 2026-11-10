@@ -1,6 +1,6 @@
 {
-  "ETag": "\"1f2c16bfce1dbff30ab931d1f7dbc00a13b6bbe9876d813a945f9276e9a88de8\"",
-  "Last-Modified": "Sun, 06 Sep 2026 00:54:04 GMT",
+  "ETag": "\"eb99c626b56982e4a0be10a9d5efef7699f58672c9e3fc89a6ec3f967260ea53\"",
+  "Last-Modified": "Tue, 10 Nov 2026 09:19:18 GMT",
   "base": {
     "repo": {
       "name": "pysingular-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pysingular-feedstock/pull/20",
   "id": 4453806368,
-  "labels": [],
-  "last_fetched": "2026-11-09T11:57:54.876650",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891110550,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTEwNTUw",
+      "url": "https://api.github.com/repos/conda-forge/pysingular-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T09:20:27.577604",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 20,
   "state": "open",
-  "updated_at": "2026-09-06T00:54:04Z"
+  "updated_at": "2026-11-10T09:19:18Z"
 }

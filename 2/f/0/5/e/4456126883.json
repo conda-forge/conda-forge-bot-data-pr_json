@@ -1,6 +1,6 @@
 {
-  "ETag": "\"58d2c4416e20265d87536dfb86bf7d8f5ec21843568c7b5b291f64d4a2023bd6\"",
-  "Last-Modified": "Sun, 06 Sep 2026 12:31:12 GMT",
+  "ETag": "\"1872f98ed7707cfff1d72bf671013ccb9c68d52c703e9c713a7a6938c7c4909f\"",
+  "Last-Modified": "Tue, 10 Nov 2026 09:19:10 GMT",
   "base": {
     "repo": {
       "name": "pari_jupyter-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/pari_jupyter-feedstock/pull/26",
   "id": 4456126883,
-  "labels": [],
-  "last_fetched": "2026-11-09T20:18:44.207067",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891092721,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDkyNzIx",
+      "url": "https://api.github.com/repos/conda-forge/pari_jupyter-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T09:20:25.410157",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 26,
   "state": "open",
-  "updated_at": "2026-09-06T12:32:48Z"
+  "updated_at": "2026-11-10T09:19:10Z"
 }

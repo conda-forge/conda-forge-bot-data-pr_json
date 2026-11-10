@@ -1,18 +1,18 @@
 {
-  "ETag": "\"fc9997a0d2893dad86fa0bf13caebc18ee8e7d64d4c774b41f2d0fe85c001353\"",
-  "Last-Modified": "Tue, 10 Nov 2026 13:26:01 GMT",
+  "ETag": "\"7092b6b6f49108dde9c9cc91277b9bb5a7477964d352da74396e15b06fba5d01\"",
+  "Last-Modified": "Tue, 10 Nov 2026 13:54:37 GMT",
   "base": {
     "repo": {
       "name": "idyntree-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T13:54:32Z",
   "closed_by": null,
   "created_at": "2026-11-10T13:23:01Z",
   "draft": false,
   "e_tag": "\"ed9f18043fec0ebeb66585a4806fdbdd26d2e089a050d5cf219d3f1f14108e91\"",
   "head": {
-    "ref": "rebuild-ipopt31420-0-1_hf4efaa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/idyntree-feedstock/pull/159",
   "id": 5242031231,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/idyntree-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-10T13:28:16.872814",
+  "last_fetched": "2026-11-10T13:55:45.438257",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T13:54:32Z",
   "number": 159,
-  "state": "open",
-  "updated_at": "2026-11-10T13:26:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T13:54:37Z"
 }

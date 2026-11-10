@@ -1,27 +1,29 @@
 {
+  "ETag": "\"65f4786a7a7cc2ffd9c6b20637fdee82332f11cc0be1a3f575416f8e33066644\"",
+  "Last-Modified": "Tue, 10 Nov 2026 06:01:26 GMT",
   "base": {
     "repo": {
       "name": "exiftool-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T06:01:21Z",
   "closed_by": null,
   "created_at": "2026-11-10T05:50:17Z",
   "draft": false,
   "e_tag": "\"8e162ddc877d32a0085108428e4a43bb475f11505d93a7f8648e5e35795d45fe\"",
   "head": {
-    "ref": "13.62_h2194ec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/exiftool-feedstock/pull/31",
   "id": 5236541479,
   "labels": [],
-  "last_fetched": "2026-11-10T05:50:18.834195",
+  "last_fetched": "2026-11-10T06:02:46.085941",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T06:01:21Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-10T05:50:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T06:01:26Z"
 }

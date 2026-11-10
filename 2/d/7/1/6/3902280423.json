@@ -1,6 +1,6 @@
 {
-  "ETag": "\"48550e416245d2fce3c71918f0a6b9f5e2a642eb62bdb85fe4115fc5b8b1d727\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"924d9042dacbc19adaa808a445383f511c8ac6a64d6ee3afe9ad176979775563\"",
+  "Last-Modified": "Tue, 10 Nov 2026 11:16:20 GMT",
   "base": {
     "repo": {
       "name": "realalg-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/realalg-feedstock/pull/3",
   "id": 3902280423,
-  "labels": [],
-  "last_fetched": "2026-11-07T10:43:19.928054",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4863635418,
+      "name": "automerge",
+      "node_id": "LA_kwDOIik-Vs8AAAABIeUv2g",
+      "url": "https://api.github.com/repos/conda-forge/realalg-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T11:18:01.638229",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 3,
   "state": "open",
-  "updated_at": "2026-06-20T04:03:46Z"
+  "updated_at": "2026-11-10T11:16:20Z"
 }

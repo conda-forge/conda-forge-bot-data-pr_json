@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e11ea3a9f7ab8380e02581369b218376e156a485cdeebb70206df64c959e77ee\"",
-  "Last-Modified": "Tue, 10 Nov 2026 03:33:51 GMT",
+  "ETag": "\"7984a6a6702183b38ec8b71306b53d89ed4fbde399bb4565bd60fc8876608f68\"",
+  "Last-Modified": "Tue, 10 Nov 2026 10:51:53 GMT",
   "base": {
     "repo": {
       "name": "getcalspec-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T10:51:52Z",
   "closed_by": null,
   "created_at": "2026-11-10T03:31:48Z",
   "draft": false,
   "e_tag": "\"0759d0d1e61c8e5c61dc77396bfa0597d9f052e9d4bf1b8fb3c992c4da9cf3dc\"",
   "head": {
-    "ref": "2.3.5_he60300"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/getcalspec-feedstock/pull/12",
   "id": 5235301009,
   "labels": [],
-  "last_fetched": "2026-11-10T08:33:30.329943",
+  "last_fetched": "2026-11-10T10:53:26.405562",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T10:51:52Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-10T03:33:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T10:51:53Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"067239c64ef45ced90b43cb95d1f8e5b56c193a5439f3db17171617675825e85\"",
+  "Last-Modified": "Tue, 10 Nov 2026 07:07:05 GMT",
   "base": {
     "repo": {
       "name": "arize-phoenix-evals-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T07:07:01Z",
   "closed_by": null,
   "created_at": "2026-11-10T07:03:57Z",
   "draft": false,
   "e_tag": "\"8395092ac18c7d17a85d36f9b20a2967f8592788b155cdcba8ca92777465c2c7\"",
   "head": {
-    "ref": "3.10.0_he491b7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arize-phoenix-evals-feedstock/pull/90",
   "id": 5237256012,
   "labels": [],
-  "last_fetched": "2026-11-10T07:03:58.720341",
+  "last_fetched": "2026-11-10T07:08:19.995861",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T07:07:01Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-11-10T07:03:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T07:07:05Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"792bbae106cb68394674c4f315f6162752336f56cad8da59830c30b87f26ea6f\"",
+  "Last-Modified": "Tue, 10 Nov 2026 21:03:02 GMT",
   "base": {
     "repo": {
       "name": "rs1090-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T21:02:58Z",
   "closed_by": null,
   "created_at": "2026-11-10T20:44:29Z",
   "draft": false,
   "e_tag": "\"e83e92a0c8c8de6bedbd847e7de3ea0a448a3442760be48f002f72898a29e8a7\"",
   "head": {
-    "ref": "0.8.1_h760d7e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rs1090-feedstock/pull/32",
   "id": 5248590181,
   "labels": [],
-  "last_fetched": "2026-11-10T20:44:30.296840",
+  "last_fetched": "2026-11-10T21:04:28.909680",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T21:02:58Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-11-10T20:44:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T21:03:02Z"
 }

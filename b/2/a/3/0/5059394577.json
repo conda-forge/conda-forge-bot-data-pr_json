@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2d1bf98bbbb782205accf9b55212e8ae36006c928926ea723ec2762df10cbb3e\"",
-  "Last-Modified": "Wed, 28 Oct 2026 23:35:21 GMT",
+  "ETag": "\"17ef5eb8a3f409968c066de8b48e6440525ad870ab8e0c8a7117c4b276ca9282\"",
+  "Last-Modified": "Tue, 10 Nov 2026 21:04:01 GMT",
   "base": {
     "repo": {
       "name": "mcp-server-fetch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T21:04:01Z",
   "closed_by": null,
   "created_at": "2026-10-28T23:33:45Z",
   "draft": false,
   "e_tag": "\"7361927087d23bc7c3de49008b7b8f00f8d90cf1e76a3b4279723208b967da30\"",
   "head": {
-    "ref": "2026.10.28_hf7fc4e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mcp-server-fetch-feedstock/pull/8",
   "id": 5059394577,
   "labels": [],
-  "last_fetched": "2026-11-05T04:45:20.461374",
+  "last_fetched": "2026-11-10T21:05:35.029911",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T21:04:01Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-10-28T23:35:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T21:04:01Z"
 }

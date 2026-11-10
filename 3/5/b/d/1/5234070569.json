@@ -1,29 +1,29 @@
 {
-  "ETag": "\"93bdf15477c9006297b54c9763b09065bb08ade0051a782a294bbace7b693871\"",
-  "Last-Modified": "Tue, 10 Nov 2026 02:37:27 GMT",
+  "ETag": "\"98c8a137bfe3bfa9301b5502570158d8eb0561195e4d47f5758ea8d5153930ac\"",
+  "Last-Modified": "Tue, 10 Nov 2026 15:30:33 GMT",
   "base": {
     "repo": {
       "name": "bline-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T15:30:32Z",
   "closed_by": null,
   "created_at": "2026-11-10T01:23:08Z",
   "draft": false,
   "e_tag": "\"1b1bbe947beafd12db04c868d3cb06d0c88cdb933bd313933524cbd843339018\"",
   "head": {
-    "ref": "1.1.0_h2baa4a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bline-feedstock/pull/1",
   "id": 5234070569,
   "labels": [],
-  "last_fetched": "2026-11-10T04:59:43.634519",
+  "last_fetched": "2026-11-10T15:31:47.562699",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T15:30:32Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-10T02:37:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T15:30:33Z"
 }

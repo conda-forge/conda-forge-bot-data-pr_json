@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0ca7a92c3a8cc4997da374b7cfc88bf75c4b468424a3b392f221f9f47afcf9d3\"",
-  "Last-Modified": "Mon, 09 Nov 2026 15:14:17 GMT",
+  "ETag": "\"88e1143368b34597e1a1c9586d630a20046431b23f664dda62135aedfdba4ec5\"",
+  "Last-Modified": "Tue, 10 Nov 2026 09:30:00 GMT",
   "base": {
     "repo": {
       "name": "jobard-remote-dask-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T09:29:59Z",
   "closed_by": null,
   "created_at": "2026-11-09T15:12:39Z",
   "draft": false,
   "e_tag": "\"0700a489a78af05af6b1ed386765fd09c32c59f22c9befe5ce95dd6682263048\"",
   "head": {
-    "ref": "1.8.1_h00370a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jobard-remote-dask-feedstock/pull/33",
   "id": 5226165280,
   "labels": [],
-  "last_fetched": "2026-11-09T15:58:28.642043",
+  "last_fetched": "2026-11-10T09:31:43.938595",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T09:29:59Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-09T15:14:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T09:30:00Z"
 }

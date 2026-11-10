@@ -1,6 +1,6 @@
 {
-  "ETag": "\"cf933cc9d3130cbabc50b5cc15635fd448e758dc6a6fd928be4318a37769b616\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"8394d62d1073de716d6a9329db081fdce7a131906c9f523dd1070aa5677c7481\"",
+  "Last-Modified": "Tue, 10 Nov 2026 10:55:32 GMT",
   "base": {
     "repo": {
       "name": "veerer-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/veerer-feedstock/pull/3",
   "id": 3536972891,
-  "labels": [],
-  "last_fetched": "2026-11-04T12:35:06.104525",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6335884869,
+      "name": "automerge",
+      "node_id": "LA_kwDOK62APs8AAAABeaXuRQ",
+      "url": "https://api.github.com/repos/conda-forge/veerer-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T10:56:29.487040",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 3,
   "state": "open",
-  "updated_at": "2026-04-16T00:58:27Z"
+  "updated_at": "2026-11-10T10:55:32Z"
 }

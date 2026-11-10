@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b1bb1681bc858ce590bf1b867bdb39ac817b2bbb697ef72ea90b61148a8044a2\"",
-  "Last-Modified": "Tue, 10 Nov 2026 02:37:30 GMT",
+  "ETag": "\"e3bd87c8128e9612095b54dce13c4fa0f5504920027c610492651f8967bd227e\"",
+  "Last-Modified": "Tue, 10 Nov 2026 15:32:04 GMT",
   "base": {
     "repo": {
       "name": "fixhdr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T15:32:04Z",
   "closed_by": null,
   "created_at": "2026-11-10T00:24:04Z",
   "draft": false,
   "e_tag": "\"00890b3779331f04d535a316ddcaed364c5090ba8687a244bc94a5a458055467\"",
   "head": {
-    "ref": "1.1.0_h21b3f6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fixhdr-feedstock/pull/1",
   "id": 5233493818,
   "labels": [],
-  "last_fetched": "2026-11-10T03:43:20.424024",
+  "last_fetched": "2026-11-10T15:33:35.539362",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T15:32:04Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-10T02:37:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T15:32:04Z"
 }

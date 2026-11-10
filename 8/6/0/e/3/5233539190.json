@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a4ed59f469eebe858338b70c87dfb8819e7bd4157611bb2a2d9f0975466d8d06\"",
-  "Last-Modified": "Tue, 10 Nov 2026 00:59:58 GMT",
+  "ETag": "\"c356899a3591f615587671e15fe5387fe5217221f687bd3fda783a256b0ea27e\"",
+  "Last-Modified": "Tue, 10 Nov 2026 14:06:02 GMT",
   "base": {
     "repo": {
       "name": "diffoscope-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/diffoscope-feedstock/pull/223",
   "id": 5233539190,
-  "labels": [],
-  "last_fetched": "2026-11-10T02:42:55.090106",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890867324,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODY3MzI0",
+      "url": "https://api.github.com/repos/conda-forge/diffoscope-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T14:07:47.896105",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 223,
   "state": "open",
-  "updated_at": "2026-11-10T00:59:58Z"
+  "updated_at": "2026-11-10T14:06:02Z"
 }

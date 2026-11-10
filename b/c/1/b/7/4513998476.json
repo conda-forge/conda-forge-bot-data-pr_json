@@ -1,12 +1,13 @@
 {
-  "ETag": "\"dabaee6fec3f94fd8c71931c5bdfc00baedfa966e54e333e40c557e4039e1404\"",
-  "Last-Modified": "Sat, 12 Sep 2026 15:33:36 GMT",
+  "ETag": "\"0ef28710de2bc676d66a0a0fc6de557c33eb2f9afb8093609c17c6cfab5ba2cf\"",
+  "Last-Modified": "Tue, 10 Nov 2026 04:57:32 GMT",
   "base": {
     "repo": {
       "name": "libsecret-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T04:57:32Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-12T15:31:45Z",
   "draft": false,
   "e_tag": "\"0702809c73faa270323ad9fa9bb70cc8a9571011c63dc1857fad4fb367b78f39\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/libsecret-feedstock/pull/13",
   "id": 4513998476,
   "labels": [],
-  "last_fetched": "2026-11-03T02:23:23.603864",
+  "last_fetched": "2026-11-10T04:58:58.255099",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-09-12T15:33:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T04:57:32Z"
 }

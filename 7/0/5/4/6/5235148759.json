@@ -1,29 +1,29 @@
 {
-  "ETag": "\"af426952702426537e443341fc6676568c0229bc087c390c6b4a7acee31b0a46\"",
-  "Last-Modified": "Tue, 10 Nov 2026 03:16:45 GMT",
+  "ETag": "\"ad441ee6fd0f9134d847c0fefe67c76e8bfb652891aacacee72209f4235ced16\"",
+  "Last-Modified": "Tue, 10 Nov 2026 15:33:28 GMT",
   "base": {
     "repo": {
       "name": "lopt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T15:33:27Z",
   "closed_by": null,
   "created_at": "2026-11-10T03:15:17Z",
   "draft": false,
   "e_tag": "\"86af72a221115da0a50e91953486034b6cdaad13fbc632d22c1d689b97ef97f8\"",
   "head": {
-    "ref": "1.1.0_h3cd863"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lopt-feedstock/pull/1",
   "id": 5235148759,
   "labels": [],
-  "last_fetched": "2026-11-10T05:42:57.224890",
+  "last_fetched": "2026-11-10T15:35:03.625814",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T15:33:27Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-10T03:16:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T15:33:28Z"
 }

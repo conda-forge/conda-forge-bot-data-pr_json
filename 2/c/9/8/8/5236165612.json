@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6ef1b87bf2e0656dd765eca69ca3172ceb3f61e5cd7116c6fa144faacc7c152e\"",
-  "Last-Modified": "Tue, 10 Nov 2026 05:10:15 GMT",
+  "ETag": "\"a6e1a5e60b9cda76116ef10cd6bec249e3cee12e4a71c15fcb3c62ad32bc5d38\"",
+  "Last-Modified": "Tue, 10 Nov 2026 09:15:12 GMT",
   "base": {
     "repo": {
       "name": "ydb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T09:15:11Z",
   "closed_by": null,
   "created_at": "2026-11-10T05:08:33Z",
   "draft": false,
   "e_tag": "\"36340424f0932a2dce64517df777d7a5276e8a48e921d8116dd7d4baa4489cf9\"",
   "head": {
-    "ref": "3.35.0_h1ec5f5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ydb-feedstock/pull/60",
   "id": 5236165612,
   "labels": [],
-  "last_fetched": "2026-11-10T06:26:33.167029",
+  "last_fetched": "2026-11-10T09:16:48.500113",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T09:15:11Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-11-10T05:10:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T09:15:12Z"
 }

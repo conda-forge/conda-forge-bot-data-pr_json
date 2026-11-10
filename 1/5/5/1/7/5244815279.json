@@ -1,29 +1,29 @@
 {
-  "ETag": "\"83aea1fda9bd2fe5f6a822baafa0ee65fd3cf3d08d8c65440509eb2f46a9e50d\"",
-  "Last-Modified": "Tue, 10 Nov 2026 16:21:24 GMT",
+  "ETag": "\"4d9e81d6a9bf28773832f784f89cfaa0358bdcea43a8774849cbd5df6dc448b1\"",
+  "Last-Modified": "Tue, 10 Nov 2026 23:10:02 GMT",
   "base": {
     "repo": {
       "name": "rudof-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T23:10:02Z",
   "closed_by": null,
   "created_at": "2026-11-10T16:21:23Z",
   "draft": false,
   "e_tag": "\"a2f108bfaf4822d37fff6a74b19d881bac4f9760a13ce839150ec3739161c61c\"",
   "head": {
-    "ref": "0.3.39_hc5fb5a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rudof-feedstock/pull/124",
   "id": 5244815279,
   "labels": [],
-  "last_fetched": "2026-11-10T21:15:39.161627",
+  "last_fetched": "2026-11-10T23:11:41.454820",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T23:10:02Z",
   "number": 124,
-  "state": "open",
-  "updated_at": "2026-11-10T16:23:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T23:10:02Z"
 }

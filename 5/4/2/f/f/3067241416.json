@@ -1,12 +1,13 @@
 {
-  "ETag": "\"4d57d6b3ab43018f99a9d1e7d451042043353fbcfdb366157b7d22416335e04e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"a616c81336f2fca7596b7671856fc5c8f15e395f533a7840f9786eb8f460284d\"",
+  "Last-Modified": "Tue, 10 Nov 2026 03:34:06 GMT",
   "base": {
     "repo": {
       "name": "python-mint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T03:34:06Z",
+  "closed_by": "pletzer",
   "created_at": "2025-12-03T12:21:40Z",
   "draft": false,
   "e_tag": "\"ca7f41de33552d8bc452629c4f190c7ddcdd1474784aa3a016adddf94b169be2\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/python-mint-feedstock/pull/79",
   "id": 3067241416,
   "labels": [],
-  "last_fetched": "2026-11-09T13:57:37.138259",
+  "last_fetched": "2026-11-10T03:35:38.728151",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 79,
-  "state": "open",
-  "updated_at": "2025-12-03T12:23:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T03:34:06Z"
 }

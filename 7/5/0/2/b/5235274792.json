@@ -1,27 +1,29 @@
 {
+  "ETag": "\"af9dc72a931d1c1b4c94038211a4be3227c3c7eb6a83b618def4978debbd8d92\"",
+  "Last-Modified": "Tue, 10 Nov 2026 05:40:17 GMT",
   "base": {
     "repo": {
       "name": "laplace-torch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T05:40:16Z",
   "closed_by": null,
   "created_at": "2026-11-10T03:28:40Z",
   "draft": false,
   "e_tag": "\"86d2cff6f50dabdd93cde00dea3c712c66c469e27304f9e4b4574e7b99d60fd0\"",
   "head": {
-    "ref": "0.5.1_h2eb89c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/laplace-torch-feedstock/pull/9",
   "id": 5235274792,
   "labels": [],
-  "last_fetched": "2026-11-10T03:28:41.589401",
+  "last_fetched": "2026-11-10T05:41:49.494869",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T05:40:16Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-10T03:28:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T05:40:17Z"
 }

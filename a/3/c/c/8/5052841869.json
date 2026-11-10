@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0a21fa75fe4a7eedb4ae9556e7ade8e9453e5124e4a07397256644f3532aa26f\"",
-  "Last-Modified": "Tue, 10 Nov 2026 19:21:59 GMT",
+  "ETag": "\"75d569d208c6da93a91cfd5cb75fe56142573546b4b63b67f282522b0f265476\"",
+  "Last-Modified": "Tue, 10 Nov 2026 19:39:57 GMT",
   "base": {
     "repo": {
       "name": "skimpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T19:39:57Z",
   "closed_by": null,
   "created_at": "2026-10-28T15:10:14Z",
   "draft": false,
   "e_tag": "\"3a06dc2bd492a3b03f71ce131081d3526fcd791ebb09dcafa6615e46473902f2\"",
   "head": {
-    "ref": "0.0.22_hed6407"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/skimpy-feedstock/pull/6",
   "id": 5052841869,
   "labels": [],
-  "last_fetched": "2026-11-10T19:28:44.901960",
+  "last_fetched": "2026-11-10T19:41:34.044234",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T19:39:57Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-10T19:21:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T19:39:57Z"
 }

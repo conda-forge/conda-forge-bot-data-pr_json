@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5742c55eb57e037b5aaa04e4cedbdfef3266674ca46ae3e25abee9030642e275\"",
+  "Last-Modified": "Tue, 10 Nov 2026 18:24:07 GMT",
   "base": {
     "repo": {
       "name": "icclim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T18:24:02Z",
   "closed_by": null,
   "created_at": "2026-11-10T18:19:44Z",
   "draft": false,
   "e_tag": "\"b242bcb83c4f811da595dc5d99b0f065cefa150859863baeb41086f4643c8be5\"",
   "head": {
-    "ref": "7.3.5_hf61ebe"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/icclim-feedstock/pull/43",
   "id": 5246558891,
   "labels": [],
-  "last_fetched": "2026-11-10T18:19:45.065885",
+  "last_fetched": "2026-11-10T18:25:46.059580",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T18:24:02Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-11-10T18:19:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T18:24:07Z"
 }

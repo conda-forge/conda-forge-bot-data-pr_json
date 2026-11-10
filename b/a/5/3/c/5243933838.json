@@ -1,18 +1,18 @@
 {
-  "ETag": "\"2ef26ba768e693c47e5e8a63698bdacfdaca57309e96fbfda7270407177a40ee\"",
-  "Last-Modified": "Tue, 10 Nov 2026 17:19:34 GMT",
+  "ETag": "\"27784d51558bb1a1017229042d39f7a9057fef44afa841a64169705e6ccdf848\"",
+  "Last-Modified": "Tue, 10 Nov 2026 17:23:17 GMT",
   "base": {
     "repo": {
       "name": "libvips-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T17:23:13Z",
   "closed_by": null,
   "created_at": "2026-11-10T15:26:32Z",
   "draft": false,
   "e_tag": "\"f95426aee0fecdfc46468351f46ac1d2b5519b80ae9b28d5633f801a95f1c983\"",
   "head": {
-    "ref": "rebuild-cfitsio470-0-1_h0a928b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libvips-feedstock/pull/175",
   "id": 5243933838,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/libvips-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-10T17:20:48.024260",
+  "last_fetched": "2026-11-10T17:24:39.140400",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T17:23:13Z",
   "number": 175,
-  "state": "open",
-  "updated_at": "2026-11-10T17:19:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T17:23:17Z"
 }

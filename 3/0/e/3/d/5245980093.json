@@ -1,29 +1,29 @@
 {
-  "ETag": "\"be8a0fe6280492c03d693b75c7511bd44f46463e5295ebe82c45f8e58c419d23\"",
-  "Last-Modified": "Tue, 10 Nov 2026 17:40:40 GMT",
+  "ETag": "\"57f01e06d39e42283f1676fb6c8474934216f8281219bfc26d33f14881255a32\"",
+  "Last-Modified": "Tue, 10 Nov 2026 18:45:33 GMT",
   "base": {
     "repo": {
       "name": "huira-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T18:45:33Z",
   "closed_by": null,
   "created_at": "2026-11-10T17:40:39Z",
   "draft": false,
   "e_tag": "\"dfab9754dd8a2e3fc8300aa84532f1d9af9e6563cf3ab4b8c2487c472744db2a\"",
   "head": {
-    "ref": "rebuild-cfitsio470-0-1_h5d28e7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/huira-feedstock/pull/8",
   "id": 5245980093,
   "labels": [],
-  "last_fetched": "2026-11-10T18:19:02.647456",
+  "last_fetched": "2026-11-10T18:46:44.203321",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T18:45:33Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-10T17:42:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T18:45:33Z"
 }

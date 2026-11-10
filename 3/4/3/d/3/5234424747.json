@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9f773f66623516870b44e547e2bdc6955d81171ea72f9eac4f52a3eb28422245\"",
+  "Last-Modified": "Tue, 10 Nov 2026 01:59:50 GMT",
   "base": {
     "repo": {
       "name": "zae-limiter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T01:59:45Z",
   "closed_by": null,
   "created_at": "2026-11-10T01:57:41Z",
   "draft": false,
   "e_tag": "\"a405bfba4dd11cb6c712eea58a243b42e21b4c98017f91b6f0612b160e943260\"",
   "head": {
-    "ref": "0.18.0_h76040c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zae-limiter-feedstock/pull/30",
   "id": 5234424747,
   "labels": [],
-  "last_fetched": "2026-11-10T01:57:42.229122",
+  "last_fetched": "2026-11-10T02:00:55.909789",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T01:59:45Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-10T01:57:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T01:59:50Z"
 }

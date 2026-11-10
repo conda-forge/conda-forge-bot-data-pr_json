@@ -1,29 +1,29 @@
 {
-  "ETag": "\"497a9e3af51edb9234c9fcf362f6fe73eb223cd7db2af653cb855ba0b5c5f556\"",
-  "Last-Modified": "Tue, 10 Nov 2026 14:54:07 GMT",
+  "ETag": "\"0732f397fb528a151fa1cd5f675cdb7c1851279732a0913542bd95d61fcb0136\"",
+  "Last-Modified": "Tue, 10 Nov 2026 15:30:58 GMT",
   "base": {
     "repo": {
       "name": "calday-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T15:30:57Z",
   "closed_by": null,
   "created_at": "2026-11-10T03:26:07Z",
   "draft": false,
   "e_tag": "\"d99d8b203ef67d808da296e863f9dc4da67c48a0e9729fb14a1d27bf3918ae5b\"",
   "head": {
-    "ref": "1.1.0_h43ea8d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/calday-feedstock/pull/1",
   "id": 5235253367,
   "labels": [],
-  "last_fetched": "2026-11-10T15:18:16.179439",
+  "last_fetched": "2026-11-10T15:32:59.574799",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T15:30:57Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-10T14:54:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T15:30:58Z"
 }

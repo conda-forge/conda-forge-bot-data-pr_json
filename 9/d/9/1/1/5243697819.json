@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8287a83a7b0b7277cffaa9b029ba0a42a342ed9947aeb36ec2be4f270082186b\"",
+  "Last-Modified": "Tue, 10 Nov 2026 15:51:57 GMT",
   "base": {
     "repo": {
       "name": "psmpi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T15:51:57Z",
   "closed_by": null,
   "created_at": "2026-11-10T15:11:36Z",
   "draft": false,
   "e_tag": "\"cd7744b036da045957b43f94a88fafc342421039d4692c7b3341111c2e0e26e3\"",
   "head": {
-    "ref": "rebuild-json_c019-0-1_h82469a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/psmpi-feedstock/pull/44",
   "id": 5243697819,
   "labels": [],
-  "last_fetched": "2026-11-10T15:11:37.599065",
+  "last_fetched": "2026-11-10T15:53:33.691084",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T15:51:57Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-11-10T15:11:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T15:51:57Z"
 }

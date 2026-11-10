@@ -1,18 +1,18 @@
 {
-  "ETag": "\"aa1c291835d6aef4e4a2cb6634ebddd09ad0693e42a61d5e57e3685fb4bed592\"",
-  "Last-Modified": "Tue, 10 Nov 2026 22:25:07 GMT",
+  "ETag": "\"a823f8016400a060afc7a92ba94e06ea54f6120594359ac49e67288b875bd84c\"",
+  "Last-Modified": "Tue, 10 Nov 2026 22:30:18 GMT",
   "base": {
     "repo": {
       "name": "asyncmy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T22:30:14Z",
   "closed_by": null,
   "created_at": "2026-11-10T20:22:34Z",
   "draft": false,
   "e_tag": "\"6bc4de5ec23e35137a899ad55503838d359334b7f820de47293cd95d0ab1ecc0\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h292f68"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/asyncmy-feedstock/pull/1",
   "id": 5248295425,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/asyncmy-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-10T22:26:28.882054",
+  "last_fetched": "2026-11-10T22:31:26.020602",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T22:30:14Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-10T22:25:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T22:30:18Z"
 }

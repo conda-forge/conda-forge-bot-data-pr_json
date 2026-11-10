@@ -1,6 +1,6 @@
 {
-  "ETag": "\"6b85988e57a9bbc039119ddbe7b817c663e7c6fde7ddc2b8a99f7897cbd99d16\"",
-  "Last-Modified": "Sat, 26 Sep 2026 10:21:09 GMT",
+  "ETag": "\"f3d7e3bbe953db0c2b455038daee97fb255c97fb51b9208ed2d7599e2acfed69\"",
+  "Last-Modified": "Tue, 10 Nov 2026 02:41:38 GMT",
   "base": {
     "repo": {
       "name": "pynormaliz-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/pynormaliz-feedstock/pull/21",
   "id": 4646438647,
-  "labels": [],
-  "last_fetched": "2026-11-08T12:59:16.561056",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4499307128,
+      "name": "automerge",
+      "node_id": "LA_kwDOH8Lk0s8AAAABDC36eA",
+      "url": "https://api.github.com/repos/conda-forge/pynormaliz-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T02:43:01.311551",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 21,
   "state": "open",
-  "updated_at": "2026-09-26T10:21:09Z"
+  "updated_at": "2026-11-10T02:41:38Z"
 }

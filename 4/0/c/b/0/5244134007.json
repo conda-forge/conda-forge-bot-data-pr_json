@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9b368cb0db683d11c7c095d4fe926fd7735379f6763ba79dd43ea255a3b6b22d\"",
-  "Last-Modified": "Tue, 10 Nov 2026 15:40:44 GMT",
+  "ETag": "\"c98a3b102ae16f70388b47458410e65d03c90b6be3bc8f521d0c5b56302ab44b\"",
+  "Last-Modified": "Tue, 10 Nov 2026 16:15:17 GMT",
   "base": {
     "repo": {
       "name": "kafkacat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T16:15:17Z",
   "closed_by": null,
   "created_at": "2026-11-10T15:39:08Z",
   "draft": false,
   "e_tag": "\"93cf81db0dbc531a125df1e983f61bceaa2b49a1d12936e14e2a4c0b2d399367\"",
   "head": {
-    "ref": "rebuild-librdkafka216-0-1_h441a36"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kafkacat-feedstock/pull/29",
   "id": 5244134007,
   "labels": [],
-  "last_fetched": "2026-11-10T15:44:48.310260",
+  "last_fetched": "2026-11-10T16:16:44.060242",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T16:15:17Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-11-10T15:40:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T16:15:17Z"
 }

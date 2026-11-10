@@ -1,13 +1,13 @@
 {
-  "ETag": "\"fb61a8139d3625fea651fe11ec26ca920d83025bfca22b4d7f30f960befcb0df\"",
-  "Last-Modified": "Mon, 09 Nov 2026 19:31:43 GMT",
+  "ETag": "W/\"c6482d922d01ba0ad35289e026689721ac752d1644b91cce7796bd77ab9a5026\"",
+  "Last-Modified": "Tue, 10 Nov 2026 13:37:52 GMT",
   "base": {
     "repo": {
       "name": "kedro-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-10T13:37:52Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-09T19:29:11Z",
   "draft": false,
   "e_tag": "\"d021ef416caafc987218d072ba06011317069df333b84981acc3aafdb335fde4\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/kedro-feedstock/pull/78",
   "id": 5229863024,
-  "labels": [],
-  "last_fetched": "2026-11-09T19:42:47.954638",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 2000129778,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwyMDAwMTI5Nzc4",
+      "url": "https://api.github.com/repos/conda-forge/kedro-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-10T13:37:55.734583",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 78,
-  "state": "open",
-  "updated_at": "2026-11-09T19:31:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T13:37:52Z"
 }

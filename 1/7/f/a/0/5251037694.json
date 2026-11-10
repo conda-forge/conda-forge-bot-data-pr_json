@@ -1,4 +1,6 @@
 {
+  "ETag": "\"bed4895969396ff20e3e90ab5e001cc0762f943f9f0f9286a6ac7566f4be6f09\"",
+  "Last-Modified": "Tue, 10 Nov 2026 23:55:16 GMT",
   "base": {
     "repo": {
       "name": "curies-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/curies-feedstock/pull/11",
   "id": 5251037694,
-  "labels": [],
-  "last_fetched": "2026-11-10T23:53:33.857147",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6383597206,
+      "name": "automerge",
+      "node_id": "LA_kwDOK_4D-M8AAAABfH32lg",
+      "url": "https://api.github.com/repos/conda-forge/curies-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T23:56:45.776922",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 11,
   "state": "open",
-  "updated_at": "2026-11-10T23:53:33Z"
+  "updated_at": "2026-11-10T23:55:16Z"
 }

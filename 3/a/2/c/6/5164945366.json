@@ -1,29 +1,41 @@
 {
-  "ETag": "\"7519faadc5a2675bca4f075299901881ba20fe5498ac5f4219238e150bf6c718\"",
-  "Last-Modified": "Thu, 05 Nov 2026 02:18:44 GMT",
+  "ETag": "\"a0b1d3abdd0bc445f4db2a78e6e08a96fff6793ed86adb87333c761d3573ebe4\"",
+  "Last-Modified": "Tue, 10 Nov 2026 18:21:28 GMT",
   "base": {
     "repo": {
       "name": "skillspector-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T18:21:25Z",
   "closed_by": null,
   "created_at": "2026-11-05T02:16:40Z",
   "draft": false,
   "e_tag": "\"4cf0d088c1a996d79ec29d0366e878bb4ebde0f3c510e771b10f7d9bfdfbf2a3\"",
   "head": {
-    "ref": "2.13.4_h9b3af6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/skillspector-feedstock/pull/7",
   "id": 5164945366,
-  "labels": [],
-  "last_fetched": "2026-11-05T02:57:35.394137",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12845021394,
+      "name": "automerge",
+      "node_id": "LA_kwDOVYP5Rc8AAAAC_Z940g",
+      "url": "https://api.github.com/repos/conda-forge/skillspector-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T18:22:09.863083",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T18:21:25Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-05T02:18:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T18:21:28Z"
 }

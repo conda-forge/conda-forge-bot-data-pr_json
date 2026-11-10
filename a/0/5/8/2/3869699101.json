@@ -1,17 +1,17 @@
 {
-  "ETag": "\"f9910aea8be2a64c1c279f61f511342c71e5af5b655e77d15f0d7e6cf169f3e4\"",
-  "Last-Modified": "Tue, 10 Nov 2026 03:44:20 GMT",
+  "ETag": "\"d9e4285d31eec7c9d1c345e756de1e0ebc8299eee175aa8b03f23de49fb8320c\"",
+  "Last-Modified": "Tue, 10 Nov 2026 04:03:03 GMT",
   "base": {
     "repo": {
       "name": "normaliz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T04:02:59Z",
   "created_at": "2026-06-15T17:24:33Z",
   "draft": false,
   "e_tag": "\"0720ca35d559b41542a9c4207fc590a02abcb51df7131f6884275b30000e13bc\"",
   "head": {
-    "ref": "rebuild-libflint35-0-1_h0b1d14"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/normaliz-feedstock/pull/65",
   "id": 3869699101,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/normaliz-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-10T03:45:52.069499",
+  "last_fetched": "2026-11-10T04:04:20.946909",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T04:02:59Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-11-10T03:44:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T04:03:03Z"
 }

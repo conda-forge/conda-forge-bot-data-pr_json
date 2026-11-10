@@ -1,18 +1,18 @@
 {
-  "ETag": "\"fb65c0f527074c87aedd0a00af5a2319754d5fde590fc1ba01a66ebbd8376cc4\"",
-  "Last-Modified": "Tue, 10 Nov 2026 17:21:55 GMT",
+  "ETag": "\"a31013acfd5575b99400c71c3acba4530e062375bbd5faba441eaaac0dccd8e8\"",
+  "Last-Modified": "Tue, 10 Nov 2026 17:46:29 GMT",
   "base": {
     "repo": {
       "name": "herwig-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T17:46:25Z",
   "closed_by": null,
   "created_at": "2026-11-10T11:41:16Z",
   "draft": false,
   "e_tag": "\"ca1d4fc66ccaea27195e513055ef172e5253d1401db721718e5e7aea99f052ab\"",
   "head": {
-    "ref": "rebuild-thepeg23-0-1_hd9ae80"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/herwig-feedstock/pull/9",
   "id": 5240647844,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/herwig-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-10T17:23:36.750944",
+  "last_fetched": "2026-11-10T17:47:40.801600",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T17:46:25Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-10T17:21:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T17:46:29Z"
 }

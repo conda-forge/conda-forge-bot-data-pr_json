@@ -1,5 +1,5 @@
 {
-  "ETag": "\"4c0ff5ecf3f2ee868747ee243b5965672153e4863063785180e0eb6eec6d3d5a\"",
+  "ETag": "\"081c81c9152a76e43fab09faac96a775b8d3a06b547695945893741f9c7cbd91\"",
   "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"5eff42aab69311460cf643dcbe59afc1f058cd343e639b291cc0c07fdc927235\"",
   "head": {
-    "ref": "noarch_python_min-migration-1_h8e1d5b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vaex-ml-feedstock/pull/22",
   "id": 2253805231,
-  "labels": [],
-  "last_fetched": "2026-11-03T19:18:50.653495",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-10T20:17:28.150875",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 22,

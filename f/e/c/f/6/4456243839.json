@@ -1,17 +1,17 @@
 {
-  "ETag": "\"8a3bfb814034cf88f0a5ceef855f78c16223d7d3dc928261f3871437dd5e8fa2\"",
-  "Last-Modified": "Tue, 10 Nov 2026 09:19:23 GMT",
+  "ETag": "\"5946a33950994709e9a6171043f116c31d6402a35199f06f28c1fe9c349ad2cb\"",
+  "Last-Modified": "Tue, 10 Nov 2026 09:26:58 GMT",
   "base": {
     "repo": {
       "name": "byexample-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T09:26:54Z",
   "created_at": "2026-09-06T13:00:26Z",
   "draft": false,
   "e_tag": "\"49859dc8773cea297b1d12ddad0e003e0908baca01f5838e1b75404a7544f96f\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h39b897"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/byexample-feedstock/pull/49",
   "id": 4456243839,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/byexample-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-10T09:20:58.991131",
+  "last_fetched": "2026-11-10T09:28:34.744982",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T09:26:54Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-11-10T09:19:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T09:26:58Z"
 }

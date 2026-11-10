@@ -1,29 +1,29 @@
 {
-  "ETag": "\"16731d703dec198c9e840d0b1ae3468f61841610835655e6fded38fb817bad6b\"",
-  "Last-Modified": "Tue, 10 Nov 2026 02:37:29 GMT",
+  "ETag": "\"6130a357196442d16cab396c67873a90e06ba0134cc7d9f3b9dc75dc69d03690\"",
+  "Last-Modified": "Tue, 10 Nov 2026 15:31:34 GMT",
   "base": {
     "repo": {
       "name": "coverplot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T15:31:34Z",
   "closed_by": null,
   "created_at": "2026-11-10T02:25:05Z",
   "draft": false,
   "e_tag": "\"578d9a941f4da7897af1fdc5fa6ad343d5daaee07f3527b280b335d9c5b636cb\"",
   "head": {
-    "ref": "1.1.0_h8bde3c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/coverplot-feedstock/pull/1",
   "id": 5234698767,
   "labels": [],
-  "last_fetched": "2026-11-10T09:58:07.963596",
+  "last_fetched": "2026-11-10T15:33:14.219091",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T15:31:34Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-10T02:37:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T15:31:34Z"
 }

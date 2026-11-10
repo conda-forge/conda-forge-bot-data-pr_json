@@ -1,4 +1,6 @@
 {
+  "ETag": "\"fc9997a0d2893dad86fa0bf13caebc18ee8e7d64d4c774b41f2d0fe85c001353\"",
+  "Last-Modified": "Tue, 10 Nov 2026 13:26:01 GMT",
   "base": {
     "repo": {
       "name": "idyntree-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/idyntree-feedstock/pull/159",
   "id": 5242031231,
-  "labels": [],
-  "last_fetched": "2026-11-10T13:23:01.911553",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3178575880,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMTc4NTc1ODgw",
+      "url": "https://api.github.com/repos/conda-forge/idyntree-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T13:27:39.690298",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 159,
   "state": "open",
-  "updated_at": "2026-11-10T13:23:01Z"
+  "updated_at": "2026-11-10T13:26:01Z"
 }

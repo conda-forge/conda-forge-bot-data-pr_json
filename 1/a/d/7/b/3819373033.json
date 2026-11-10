@@ -1,12 +1,13 @@
 {
-  "ETag": "\"4d40f4dd860f73da42af8f94a728b4d2d5e9eb91663a439434b5de88c1504ae4\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"1f86faa5e99e932a4ec71529a9de753c870f591c1b23df335868af6454e710a8\"",
+  "Last-Modified": "Tue, 10 Nov 2026 14:27:50 GMT",
   "base": {
     "repo": {
       "name": "pycalphad-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T14:27:50Z",
+  "closed_by": "bocklund",
   "created_at": "2026-06-07T16:16:49Z",
   "draft": false,
   "e_tag": "\"1659d55095c66e4fa9a5130670fdf4394e7df77a147b711a606380c636c85c95\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pycalphad-feedstock/pull/68",
   "id": 3819373033,
   "labels": [],
-  "last_fetched": "2026-11-03T16:30:15.967795",
+  "last_fetched": "2026-11-10T14:29:14.180353",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-06-07T16:18:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T14:27:50Z"
 }

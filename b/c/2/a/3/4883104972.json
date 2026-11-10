@@ -1,6 +1,6 @@
 {
-  "ETag": "\"fbfbb5c1a2442fa28f93e700930e5f91dcfa14fcb651451ddb78a9bfba9b6958\"",
-  "Last-Modified": "Fri, 16 Oct 2026 03:37:18 GMT",
+  "ETag": "\"10a828a90a5c378765c0552ca91ecd9a3e25f60cdb9d76c6db83ad94d3bc0801\"",
+  "Last-Modified": "Tue, 10 Nov 2026 02:49:56 GMT",
   "base": {
     "repo": {
       "name": "fricas-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/fricas-feedstock/pull/5",
   "id": 4883104972,
-  "labels": [],
-  "last_fetched": "2026-11-06T16:28:03.939902",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10070551674,
+      "name": "automerge",
+      "node_id": "LA_kwDORB5Jdc8AAAACWEBseg",
+      "url": "https://api.github.com/repos/conda-forge/fricas-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T02:51:04.936527",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 5,
   "state": "open",
-  "updated_at": "2026-10-16T03:37:18Z"
+  "updated_at": "2026-11-10T02:49:56Z"
 }

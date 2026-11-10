@@ -1,18 +1,18 @@
 {
-  "ETag": "\"9c919206323a6bbd5c839132b47a13472a472e76b846faed090f7b2cc4de361d\"",
-  "Last-Modified": "Tue, 10 Nov 2026 23:03:50 GMT",
+  "ETag": "\"c45d45d06ae9695ba5ef812031ced970623f293c009899667d1b7119bb335742\"",
+  "Last-Modified": "Tue, 10 Nov 2026 23:05:41 GMT",
   "base": {
     "repo": {
       "name": "fastapi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T23:05:37Z",
   "closed_by": null,
   "created_at": "2026-11-10T21:21:29Z",
   "draft": false,
   "e_tag": "\"2fd5d68e28321bd90f3ef1b5cbd25bcb72e565648fa963f82a1444e8f169b004\"",
   "head": {
-    "ref": "0.162.4_h58c8f3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fastapi-feedstock/pull/262",
   "id": 5249122201,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/fastapi-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-10T23:05:33.253880",
+  "last_fetched": "2026-11-10T23:06:46.325566",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T23:05:36Z",
   "number": 262,
-  "state": "open",
-  "updated_at": "2026-11-10T23:03:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T23:05:41Z"
 }

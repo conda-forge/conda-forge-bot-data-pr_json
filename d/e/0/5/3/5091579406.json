@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b3fc07ae3ae439f3d26ccef5148743e855f4024f69b6a09213c69bb6a1ff59bc\"",
-  "Last-Modified": "Fri, 30 Oct 2026 21:59:54 GMT",
+  "ETag": "\"242c68ea5c687af73bc05370dce6c898ed8ea823f829a1cfec07b6b52026d747\"",
+  "Last-Modified": "Tue, 10 Nov 2026 02:56:25 GMT",
   "base": {
     "repo": {
       "name": "superqt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T02:56:24Z",
   "closed_by": null,
   "created_at": "2026-10-30T21:59:51Z",
   "draft": false,
   "e_tag": "\"7252d1f74b8133716939590c57e38b985b5677107edca55530505bd11a53db6a\"",
   "head": {
-    "ref": "0.9.1_h99c233"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/superqt-feedstock/pull/49",
   "id": 5091579406,
   "labels": [],
-  "last_fetched": "2026-11-06T23:58:51.505598",
+  "last_fetched": "2026-11-10T02:58:16.831325",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T02:56:24Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-10-30T22:01:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T02:56:25Z"
 }

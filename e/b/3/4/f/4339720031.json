@@ -1,32 +1,29 @@
 {
-  "ETag": "\"ad23a24f07b45766408a10d68fc1dd51ea53a4e7586857fbc174f6017316283f\"",
-  "Last-Modified": "Sat, 22 Aug 2026 20:38:40 GMT",
+  "ETag": "\"99e167a520e380de27abf5f397e860f573dc52e4bb96e5b2f2ca45fe56947a46\"",
+  "Last-Modified": "Tue, 10 Nov 2026 03:59:28 GMT",
   "base": {
     "repo": {
       "name": "yarp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T03:59:28Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-22T20:36:39Z",
   "draft": false,
   "e_tag": "\"0cd08e11531582faf90e1855457c0a9f13bf50a08c57735436d052c69b1ffe46\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "4.0.0_h1de939"
   },
   "html_url": "https://github.com/conda-forge/yarp-feedstock/pull/107",
   "id": 4339720031,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-11-10T03:59:25.637997",
+  "labels": [],
+  "last_fetched": "2026-11-10T04:00:33.513085",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-08-22T20:38:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T03:59:28Z"
 }

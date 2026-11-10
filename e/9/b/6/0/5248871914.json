@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8fd358fe725e11380de6c2128bbe1c170d738702cdcc997cf55c9f7563b034fe\"",
+  "Last-Modified": "Tue, 10 Nov 2026 21:06:49 GMT",
   "base": {
     "repo": {
       "name": "open-clip-torch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T21:06:45Z",
   "closed_by": null,
   "created_at": "2026-11-10T21:03:43Z",
   "draft": false,
   "e_tag": "\"b5ff0a8ee87fc5111273730366596794a1ebf12d202e734919e1fc0e3ae1140f\"",
   "head": {
-    "ref": "4.2.2_hbf1947"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/open-clip-torch-feedstock/pull/38",
   "id": 5248871914,
   "labels": [],
-  "last_fetched": "2026-11-10T21:03:43.853228",
+  "last_fetched": "2026-11-10T21:07:54.237944",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T21:06:45Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-10T21:03:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T21:06:49Z"
 }

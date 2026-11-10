@@ -1,6 +1,6 @@
 {
-  "ETag": "\"ba28342fa9b5117ca0b22df5e7f697bddc6a8efbf6d9919591086f34fd54fb7c\"",
-  "Last-Modified": "Tue, 10 Nov 2026 01:57:00 GMT",
+  "ETag": "\"581f741d55251d333f8430577e17f2818435f1fc71b1d519bdcf67315d92ae2b\"",
+  "Last-Modified": "Tue, 10 Nov 2026 08:44:47 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-sendgrid-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-sendgrid-feedstock/pull/31",
   "id": 5234399357,
-  "labels": [],
-  "last_fetched": "2026-11-10T02:58:30.286974",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746837537,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM3NTM3",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-sendgrid-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T08:46:10.356117",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 31,
   "state": "open",
-  "updated_at": "2026-11-10T01:57:00Z"
+  "updated_at": "2026-11-10T08:44:47Z"
 }

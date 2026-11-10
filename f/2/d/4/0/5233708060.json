@@ -1,6 +1,6 @@
 {
-  "ETag": "\"336b6fa1d4da347db81473e1a393c09e1c2a0398efceafa8caa8a6ca705e00ec\"",
-  "Last-Modified": "Tue, 10 Nov 2026 00:45:54 GMT",
+  "ETag": "\"a076d71c86a7f04f811168a83373d3c541510bce768e249c0c5803904c97a0c4\"",
+  "Last-Modified": "Tue, 10 Nov 2026 08:42:02 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-celery-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-celery-feedstock/pull/71",
   "id": 5233708060,
-  "labels": [],
-  "last_fetched": "2026-11-10T01:29:40.089146",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746836051,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODM2MDUx",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-celery-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T08:43:29.297143",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 71,
   "state": "open",
-  "updated_at": "2026-11-10T00:47:35Z"
+  "updated_at": "2026-11-10T08:42:02Z"
 }

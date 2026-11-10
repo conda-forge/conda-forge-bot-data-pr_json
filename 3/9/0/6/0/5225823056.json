@@ -1,6 +1,6 @@
 {
-  "ETag": "\"ed1ba8c5c81b62d87abff8d700032eca00ce75e3e2c6966021a90dfc293ca075\"",
-  "Last-Modified": "Mon, 09 Nov 2026 14:51:51 GMT",
+  "ETag": "\"f061c6cdf7161e3bb58e623424d62db69ae94fe2cfed9c6142722127abcb8a7b\"",
+  "Last-Modified": "Tue, 10 Nov 2026 04:55:37 GMT",
   "base": {
     "repo": {
       "name": "cyclonedds-py-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/cyclonedds-py-feedstock/pull/8",
   "id": 5225823056,
-  "labels": [],
-  "last_fetched": "2026-11-09T15:45:18.260272",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11120216506,
+      "name": "automerge",
+      "node_id": "LA_kwDOSuzaEc8AAAACltEJug",
+      "url": "https://api.github.com/repos/conda-forge/cyclonedds-py-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T04:57:06.883427",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 8,
   "state": "open",
-  "updated_at": "2026-11-09T14:51:51Z"
+  "updated_at": "2026-11-10T04:55:37Z"
 }

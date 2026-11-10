@@ -1,32 +1,29 @@
 {
-  "ETag": "\"081c81c9152a76e43fab09faac96a775b8d3a06b547695945893741f9c7cbd91\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"207eb0597b3f050140b13b72c46b3d6f80ffa541f06ca7279dd6def8c9e3c1aa\"",
+  "Last-Modified": "Tue, 10 Nov 2026 20:17:30 GMT",
   "base": {
     "repo": {
       "name": "vaex-ml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T20:17:30Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2024-12-27T23:19:10Z",
   "draft": false,
   "e_tag": "\"5eff42aab69311460cf643dcbe59afc1f058cd343e639b291cc0c07fdc927235\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "noarch_python_min-migration-1_h8e1d5b"
   },
   "html_url": "https://github.com/conda-forge/vaex-ml-feedstock/pull/22",
   "id": 2253805231,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-11-10T20:17:28.150875",
+  "labels": [],
+  "last_fetched": "2026-11-10T20:19:30.609260",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 22,
-  "state": "open",
-  "updated_at": "2024-12-27T23:20:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T20:17:30Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "\"2aad946c06d0c886a7a0f44a916e850ded1492f5e41b5debeccaebb92e7a7d55\"",
-  "Last-Modified": "Thu, 24 Sep 2026 17:42:15 GMT",
+  "ETag": "\"52cd2ba0a29ac7c87e347fcadc58f7978820c32022f7fe4860a97453c70b2f1c\"",
+  "Last-Modified": "Tue, 10 Nov 2026 20:54:02 GMT",
   "base": {
     "repo": {
       "name": "chronon-ai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T20:54:12Z",
   "created_at": "2026-09-24T17:40:07Z",
   "draft": false,
   "e_tag": "\"2e2906abccdfd90a033f4bc051f260476d0ab60f74f3863153587184172f11ca\"",
   "head": {
-    "ref": "0.0.115_ha49e84"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/chronon-ai-feedstock/pull/41",
   "id": 4629112026,
   "labels": [],
-  "last_fetched": "2026-11-06T15:27:56.034944",
+  "last_fetched": "2026-11-10T20:55:48.042895",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T20:54:12Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-09-24T17:42:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T20:54:02Z"
 }

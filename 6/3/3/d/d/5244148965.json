@@ -1,29 +1,29 @@
 {
-  "ETag": "\"88b0f0b01b70b9cf56c1c796eca206e118121f6467c75e5113859dfab8e8b0db\"",
-  "Last-Modified": "Tue, 10 Nov 2026 15:41:48 GMT",
+  "ETag": "\"64540f2b11d7b622abb2ceebc8e207fe5c229d9bbce62188b2d54640a6fc40cb\"",
+  "Last-Modified": "Tue, 10 Nov 2026 22:04:27 GMT",
   "base": {
     "repo": {
       "name": "mq-bridge-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T22:04:27Z",
   "closed_by": null,
   "created_at": "2026-11-10T15:40:09Z",
   "draft": false,
   "e_tag": "\"d717b3e0d50d86f0c2310c8b5325eafee17ce7891288234993a6c827612f1fa6\"",
   "head": {
-    "ref": "rebuild-librdkafka216-0-1_h38d29e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mq-bridge-feedstock/pull/14",
   "id": 5244148965,
   "labels": [],
-  "last_fetched": "2026-11-10T15:59:39.432335",
+  "last_fetched": "2026-11-10T22:05:38.227661",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T22:04:27Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-10T15:41:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T22:04:27Z"
 }

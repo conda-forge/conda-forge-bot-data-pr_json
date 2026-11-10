@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d6b15eddc5575b45a1879f31c9c2a388e3d5c55c99764125f01cd4c8cc250160\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"8db0d6189ed0260e475b95fbb6d39ea17962d615dfdc8720efdcf1ba1db7965a\"",
+  "Last-Modified": "Tue, 10 Nov 2026 02:45:56 GMT",
   "base": {
     "repo": {
       "name": "eclib-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/eclib-feedstock/pull/62",
   "id": 3724562101,
-  "labels": [],
-  "last_fetched": "2026-11-09T22:15:00.864601",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890872071,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODcyMDcx",
+      "url": "https://api.github.com/repos/conda-forge/eclib-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T02:47:45.491983",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 62,
   "state": "open",
-  "updated_at": "2026-05-21T15:36:10Z"
+  "updated_at": "2026-11-10T02:45:56Z"
 }

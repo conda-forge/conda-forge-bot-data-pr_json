@@ -1,29 +1,29 @@
 {
-  "ETag": "\"31c6d5fd11b4379ffb65f356039f4ee06deb86fb9a6cc5288cbebba8ee446d71\"",
-  "Last-Modified": "Sun, 08 Nov 2026 18:07:42 GMT",
+  "ETag": "\"c17285c02ae3189fe6ed7688e04bf633c4b62dc97ea3f056d8cc8501f46e891a\"",
+  "Last-Modified": "Tue, 10 Nov 2026 12:07:08 GMT",
   "base": {
     "repo": {
       "name": "transitionlistener-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T12:07:08Z",
   "closed_by": null,
   "created_at": "2026-11-08T13:39:07Z",
   "draft": false,
   "e_tag": "\"079f8273709264a01dec196e22d0d920a4bcda16fe27149e359184d192629fe3\"",
   "head": {
-    "ref": "2.2.0_hc1539a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/transitionlistener-feedstock/pull/2",
   "id": 5211779116,
   "labels": [],
-  "last_fetched": "2026-11-08T18:42:49.207551",
+  "last_fetched": "2026-11-10T12:08:37.420138",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T12:07:07Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-08T18:07:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T12:07:08Z"
 }

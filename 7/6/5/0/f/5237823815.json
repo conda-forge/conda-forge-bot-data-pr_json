@@ -1,27 +1,29 @@
 {
+  "ETag": "\"202e38837d9842b0273c4c018abf6cb1175cfbf2b1508395e1b6f48b0b16257d\"",
+  "Last-Modified": "Tue, 10 Nov 2026 08:00:03 GMT",
   "base": {
     "repo": {
       "name": "anthropic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T07:59:59Z",
   "closed_by": null,
   "created_at": "2026-11-10T07:57:44Z",
   "draft": false,
   "e_tag": "\"3f86f629cb4a3e080ffd53351822e5c99458474b098d9afa98481d75b82606df\"",
   "head": {
-    "ref": "2.7.0_h8f87d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anthropic-feedstock/pull/223",
   "id": 5237823815,
   "labels": [],
-  "last_fetched": "2026-11-10T07:57:46.159855",
+  "last_fetched": "2026-11-10T08:02:03.599622",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T07:59:59Z",
   "number": 223,
-  "state": "open",
-  "updated_at": "2026-11-10T07:57:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T08:00:03Z"
 }

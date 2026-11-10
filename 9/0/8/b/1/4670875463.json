@@ -1,5 +1,5 @@
 {
-  "ETag": "\"b5d1d2c4fdb9c3df8615077839d53ab07d798f0aee86f90215c6a93c7f60d48b\"",
+  "ETag": "\"9ff4dfbe333a55c9a8b440e4c6dfc71a4969b46f52dfab70dae12a3b2c827e1d\"",
   "Last-Modified": "Tue, 29 Sep 2026 00:20:53 GMT",
   "base": {
     "repo": {
@@ -11,15 +11,19 @@
   "draft": false,
   "e_tag": "\"2712a79621fc1b0a31509329f3f18a12bb12b72b4fe8198830bd849cf7117e76\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hecdd06"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-sdk-feedstock/pull/439",
   "id": 4670875463,
-  "labels": [],
-  "last_fetched": "2026-11-03T23:17:22.460380",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-10T23:29:25.363793",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 439,

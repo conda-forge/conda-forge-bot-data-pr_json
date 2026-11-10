@@ -1,29 +1,29 @@
 {
-  "ETag": "\"35563455d8cdcf08e1f009068f3587443868138799c421ccd627a7ef0fed8265\"",
-  "Last-Modified": "Tue, 10 Nov 2026 21:03:58 GMT",
+  "ETag": "\"89b5d8666191f3f13ba256ea9680694835218a10d8fe1160d694325e5c57d037\"",
+  "Last-Modified": "Tue, 10 Nov 2026 22:51:35 GMT",
   "base": {
     "repo": {
       "name": "bedrock-agentcore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T22:51:35Z",
   "closed_by": null,
   "created_at": "2026-11-10T21:02:23Z",
   "draft": false,
   "e_tag": "\"2b0da9a4713c3328adf1861fd8e8fe5b573d389ae2749fc43a61b50768e48045\"",
   "head": {
-    "ref": "1.26.0_h8cfe5e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bedrock-agentcore-feedstock/pull/38",
   "id": 5248851539,
   "labels": [],
-  "last_fetched": "2026-11-10T22:17:04.798375",
+  "last_fetched": "2026-11-10T22:52:41.417232",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T22:51:35Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-10T21:03:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T22:51:35Z"
 }

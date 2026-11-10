@@ -1,12 +1,13 @@
 {
-  "ETag": "\"6dea4bd7ff9e3a2b4dff2a2cb651c9b21123cf91ef3569630e9faa02329e4f3e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"137c06eacdb876f861bf31dc86c83a696498e1781905acae60f461561e5db48d\"",
+  "Last-Modified": "Tue, 10 Nov 2026 01:28:47 GMT",
   "base": {
     "repo": {
       "name": "fast-dds-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T01:28:47Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2024-01-07T00:16:51Z",
   "draft": false,
   "head": {
@@ -14,13 +15,17 @@
   },
   "html_url": "https://github.com/conda-forge/fast-dds-feedstock/pull/16",
   "id": 1667558283,
-  "labels": [],
-  "last_fetched": "2026-11-02T20:43:42.683737",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-10T01:28:49.788022",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 16,
-  "state": "open",
-  "updated_at": "2024-01-07T16:57:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T01:28:47Z"
 }

@@ -1,5 +1,5 @@
 {
-  "ETag": "\"b1e3776c912d629eb573a7f42eb0c7d313e349b1350fdba2f1d37cad5c5692d1\"",
+  "ETag": "W/\"a239aedcbfd240363e98b12f97fff4185ed7f42f0d4f970bee856d4d6632031b\"",
   "Last-Modified": "Tue, 10 Nov 2026 08:33:33 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/zola-feedstock/pull/11",
   "id": 4230515762,
-  "labels": [],
-  "last_fetched": "2026-11-10T08:35:07.140462",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-10T08:33:36.278381",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

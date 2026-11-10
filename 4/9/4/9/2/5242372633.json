@@ -1,4 +1,6 @@
 {
+  "ETag": "\"ed1ab92074f45bfb46a402dec64d1d36d5a540eac8049ea847cd7df9fa522a8c\"",
+  "Last-Modified": "Tue, 10 Nov 2026 13:59:40 GMT",
   "base": {
     "repo": {
       "name": "hugin-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/hugin-feedstock/pull/91",
   "id": 5242372633,
-  "labels": [],
-  "last_fetched": "2026-11-10T13:46:44.893207",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2348227657,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMzQ4MjI3NjU3",
+      "url": "https://api.github.com/repos/conda-forge/hugin-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-10T14:00:59.999928",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 91,
   "state": "open",
-  "updated_at": "2026-11-10T13:46:43Z"
+  "updated_at": "2026-11-10T13:59:40Z"
 }

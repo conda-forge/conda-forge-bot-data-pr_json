@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fb02cd88723a0398f2842acba29389b52d4217e6129eb3eaad5c169d0a784284\"",
+  "Last-Modified": "Tue, 10 Nov 2026 06:10:09 GMT",
   "base": {
     "repo": {
       "name": "pysqa-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T06:10:05Z",
   "closed_by": null,
   "created_at": "2026-11-10T06:07:56Z",
   "draft": false,
   "e_tag": "\"d63b1c1fd3b776c94d117c4d79f8e6c456fa1df86c4a766a849987a62afdf2d2\"",
   "head": {
-    "ref": "1.2.0_h74edf5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pysqa-feedstock/pull/102",
   "id": 5236707717,
   "labels": [],
-  "last_fetched": "2026-11-10T06:07:57.299537",
+  "last_fetched": "2026-11-10T06:11:38.419446",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-10T06:10:05Z",
   "number": 102,
-  "state": "open",
-  "updated_at": "2026-11-10T06:07:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T06:10:09Z"
 }

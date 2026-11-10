@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fc53c21eca00f35f1d5d811f781ed1b8dffbcb6f66a22b4e18b6b93eed2c914b\"",
-  "Last-Modified": "Tue, 10 Nov 2026 16:57:26 GMT",
+  "ETag": "\"c12b21ad035a2ecbdd3f0a3611516d915cfc3e19f7ec5dd6b668f2acc7efd223\"",
+  "Last-Modified": "Tue, 10 Nov 2026 17:03:25 GMT",
   "base": {
     "repo": {
       "name": "splunk-opentelemetry-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-10T17:03:25Z",
   "closed_by": null,
   "created_at": "2026-10-29T19:15:07Z",
   "draft": false,
   "e_tag": "\"8121ba22ec3412cbd40516c6303ea2fc827a955d8a3167d18fb4e3dface49ed2\"",
   "head": {
-    "ref": "2.13.3_h55aa2e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/splunk-opentelemetry-feedstock/pull/21",
   "id": 5074118213,
   "labels": [],
-  "last_fetched": "2026-11-10T16:58:46.381301",
+  "last_fetched": "2026-11-10T17:04:46.726651",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-10T17:03:25Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-10T16:57:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-10T17:03:25Z"
 }

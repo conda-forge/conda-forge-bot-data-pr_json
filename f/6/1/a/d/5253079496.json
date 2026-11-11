@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5f9a86d1cba735039d7f56f5911fc544cc97950ec057a8faa8d9ef898aef3190\"",
+  "Last-Modified": "Wed, 11 Nov 2026 03:14:29 GMT",
   "base": {
     "repo": {
       "name": "piou-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T03:14:29Z",
   "closed_by": null,
   "created_at": "2026-11-11T03:10:53Z",
   "draft": false,
   "e_tag": "\"91b63f06ccdf0adba6e7a9ef340cd4fcc38ccf37e21e26806e997b845fbd3ca8\"",
   "head": {
-    "ref": "0.38.3_he2f5f3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/piou-feedstock/pull/98",
   "id": 5253079496,
   "labels": [],
-  "last_fetched": "2026-11-11T03:10:54.574239",
+  "last_fetched": "2026-11-11T03:15:33.667972",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T03:14:28Z",
   "number": 98,
-  "state": "open",
-  "updated_at": "2026-11-11T03:10:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T03:14:34Z"
 }

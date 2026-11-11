@@ -1,29 +1,29 @@
 {
-  "ETag": "\"eb4eda6654865f8950754c37f4f92f22cb3c6c309b89c14199c42adfde7a3a66\"",
-  "Last-Modified": "Wed, 11 Nov 2026 17:00:59 GMT",
+  "ETag": "\"95487c4d0ecff0281bf9f91ee964a373beedf03d4d0a86ef37dc75a9de67343a\"",
+  "Last-Modified": "Wed, 11 Nov 2026 22:26:59 GMT",
   "base": {
     "repo": {
       "name": "hvplot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T22:26:59Z",
   "closed_by": null,
   "created_at": "2026-11-10T23:59:12Z",
   "draft": false,
   "e_tag": "\"d68b1e59ab11d0d8a6c631de51cceee74124e3b8e9e8057d53ceec6dc29bd278\"",
   "head": {
-    "ref": "0.13.0_h90b438"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hvplot-feedstock/pull/39",
   "id": 5251095101,
   "labels": [],
-  "last_fetched": "2026-11-11T19:57:12.143637",
+  "last_fetched": "2026-11-11T22:28:50.020890",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T22:26:59Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-11-11T17:00:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T22:26:59Z"
 }

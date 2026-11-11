@@ -1,13 +1,13 @@
 {
-  "ETag": "\"e4080d3d8c1b160698a9a1be75e0aeb7765ecb4246651cba8f089912d5361847\"",
-  "Last-Modified": "Wed, 28 Oct 2026 22:58:17 GMT",
+  "ETag": "W/\"8ffa6f293838ce1df5f44d0f39fca36b25357eb51cbd6f45f1468d4c34c06cde\"",
+  "Last-Modified": "Wed, 11 Nov 2026 16:50:00 GMT",
   "base": {
     "repo": {
       "name": "vte-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-11T16:50:00Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-28T22:58:15Z",
   "draft": false,
   "e_tag": "\"6b9246633323bb43aa3f6194307a83f9122ce60d2289b93c9d54a9cab533e6d4\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/vte-feedstock/pull/4",
   "id": 5059026350,
-  "labels": [],
-  "last_fetched": "2026-11-05T06:45:23.268362",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 12203709718,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOUbnyLM8AAAAC12XVFg",
+      "url": "https://api.github.com/repos/conda-forge/vte-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-11T16:50:03.438585",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-10-28T23:00:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T16:50:00Z"
 }

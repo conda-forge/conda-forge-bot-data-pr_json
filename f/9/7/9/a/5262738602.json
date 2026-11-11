@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6ed8f4bc0dfc1d912ce617b5f629ac2c795cb5cdb600ed65d8817630cc9a00eb\"",
-  "Last-Modified": "Wed, 11 Nov 2026 16:09:34 GMT",
+  "ETag": "\"ed336771f00487c5481733ccb8965aa160e1c22ba8b669a93d0eb5adebe0c0c3\"",
+  "Last-Modified": "Wed, 11 Nov 2026 22:10:15 GMT",
   "base": {
     "repo": {
       "name": "openimageio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T22:10:15Z",
   "closed_by": null,
   "created_at": "2026-11-11T16:07:57Z",
   "draft": false,
   "e_tag": "\"b0b5ec93d795976a3006d912d6e0ba94ac6bd93ab904a323d10a7d0cc612334f\"",
   "head": {
-    "ref": "rebuild-openjph033-0-1_h47c217"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openimageio-feedstock/pull/178",
   "id": 5262738602,
   "labels": [],
-  "last_fetched": "2026-11-11T19:44:39.310690",
+  "last_fetched": "2026-11-11T22:11:51.245413",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T22:10:15Z",
   "number": 178,
-  "state": "open",
-  "updated_at": "2026-11-11T16:09:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T22:10:15Z"
 }

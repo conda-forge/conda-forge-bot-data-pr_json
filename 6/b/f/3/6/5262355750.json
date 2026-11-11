@@ -1,29 +1,29 @@
 {
-  "ETag": "\"34350555fa9e86b73119fe25235219a0cfee47f173d1f7b453eca75db97d85b5\"",
-  "Last-Modified": "Wed, 11 Nov 2026 15:43:34 GMT",
+  "ETag": "\"bc2ce8ce1220f9cd14e59ccaa1729498b335858973b9e7634ff54b0ce8415393\"",
+  "Last-Modified": "Wed, 11 Nov 2026 16:34:25 GMT",
   "base": {
     "repo": {
       "name": "nats-server-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T16:34:24Z",
   "closed_by": null,
   "created_at": "2026-11-11T15:42:02Z",
   "draft": false,
   "e_tag": "\"ad9c068eb2eced294e78e00536542fa04c87bc62fdab07f0e4799a0b20e92f31\"",
   "head": {
-    "ref": "2.15.3_h452df1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nats-server-feedstock/pull/4",
   "id": 5262355750,
   "labels": [],
-  "last_fetched": "2026-11-11T16:30:00.430056",
+  "last_fetched": "2026-11-11T16:36:02.598730",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T16:34:24Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-11T15:43:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T16:34:25Z"
 }

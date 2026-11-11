@@ -1,13 +1,13 @@
 {
-  "ETag": "\"5bf2eb49e1f1535ce7be53e5e869fea100f07b07eca73192e5612d3dec981b27\"",
-  "Last-Modified": "Wed, 28 Oct 2026 08:08:57 GMT",
+  "ETag": "\"7dda8edd3d4bfd48c41212056c7f74e74c99b2b9d832ae0e7e223d775707748f\"",
+  "Last-Modified": "Wed, 11 Nov 2026 13:57:50 GMT",
   "base": {
     "repo": {
       "name": "regex-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-11T13:57:50Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-28T08:07:23Z",
   "draft": false,
   "e_tag": "\"7f6859b9503dd1c608f5b0e6ec62a53d908c136106285d3814bc04361d3c8253\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/regex-feedstock/pull/182",
   "id": 5047245718,
   "labels": [],
-  "last_fetched": "2026-11-04T12:34:36.742366",
+  "last_fetched": "2026-11-11T13:59:22.887899",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 182,
-  "state": "open",
-  "updated_at": "2026-10-28T08:08:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T13:57:50Z"
 }

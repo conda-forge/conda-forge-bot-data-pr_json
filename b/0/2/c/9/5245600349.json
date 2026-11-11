@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9c9c9c8c9abf14e9a2f7da5b783834bd007339ac9921d3ced099429ef4be7ab3\"",
-  "Last-Modified": "Tue, 10 Nov 2026 17:15:45 GMT",
+  "ETag": "\"fbe3f18fa56b2f653a5141e7e584c46a96f052e8189989e38b963e34b1666a93\"",
+  "Last-Modified": "Wed, 11 Nov 2026 09:36:12 GMT",
   "base": {
     "repo": {
       "name": "panda-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T09:36:12Z",
   "closed_by": null,
   "created_at": "2026-11-10T17:14:14Z",
   "draft": false,
   "e_tag": "\"26c8b105e1317516fe6ba70a1ee7aaff54f968e891480aa31cea2e5091f8ed50\"",
   "head": {
-    "ref": "2.4.0_h9f40bf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/panda-client-feedstock/pull/136",
   "id": 5245600349,
   "labels": [],
-  "last_fetched": "2026-11-10T17:28:13.100377",
+  "last_fetched": "2026-11-11T09:37:32.545405",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T09:36:12Z",
   "number": 136,
-  "state": "open",
-  "updated_at": "2026-11-10T17:15:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T09:36:12Z"
 }

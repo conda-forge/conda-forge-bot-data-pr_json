@@ -1,28 +1,28 @@
 {
-  "ETag": "\"7d9f61c119e9a8e78cdb448917c704150a62111bdbf6d1e8d4fcd489ddb92b85\"",
-  "Last-Modified": "Sun, 20 Sep 2026 22:11:53 GMT",
+  "ETag": "\"4a72519951b65bf13590236fa0d12cbe2bc24078df609bbd9e15f17c5382a0d7\"",
+  "Last-Modified": "Wed, 11 Nov 2026 13:15:10 GMT",
   "base": {
     "repo": {
       "name": "pvextractor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T13:15:10Z",
   "created_at": "2026-09-20T22:10:06Z",
   "draft": false,
   "e_tag": "\"426ac7e488114cc06b326aba2505c922e5734e08d8cb6cc167e0a24928a39a90\"",
   "head": {
-    "ref": "0.5_h0188f6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pvextractor-feedstock/pull/8",
   "id": 4586324975,
   "labels": [],
-  "last_fetched": "2026-11-10T01:44:37.919619",
+  "last_fetched": "2026-11-11T13:16:22.199844",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T13:15:09Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-09-20T22:11:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T13:15:10Z"
 }

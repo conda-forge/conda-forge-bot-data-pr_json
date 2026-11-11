@@ -1,27 +1,29 @@
 {
+  "ETag": "\"afce43304a887c05eefd100cd8f898c83006a460c540f97a50b1924c9448d1eb\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:21:55 GMT",
   "base": {
     "repo": {
       "name": "codebook-lsp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T10:21:50Z",
   "closed_by": null,
   "created_at": "2026-11-11T10:02:35Z",
   "draft": false,
   "e_tag": "\"db4189d3f0f6af5a4c97efcc9fb4eca67bdfe088484f7294171eb6e5294ea34f\"",
   "head": {
-    "ref": "0.4.0_hec19f3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/codebook-lsp-feedstock/pull/27",
   "id": 5257461409,
   "labels": [],
-  "last_fetched": "2026-11-11T10:02:36.078705",
+  "last_fetched": "2026-11-11T10:23:09.113552",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T10:21:50Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-11-11T10:02:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:21:55Z"
 }

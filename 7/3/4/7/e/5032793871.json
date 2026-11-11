@@ -1,5 +1,5 @@
 {
-  "ETag": "\"49a0a92b0cfe8ccdfebcd7fa754c28463e51da099e68292c9e21781b785bc738\"",
+  "ETag": "\"3cbeea4d752d88ff46beea5b88e0e8dc11b5e8e3cf144eb02a4c8b8b255c0998\"",
   "Last-Modified": "Tue, 27 Oct 2026 11:03:59 GMT",
   "base": {
     "repo": {
@@ -12,15 +12,19 @@
   "draft": false,
   "e_tag": "\"b6d728893a011fe559f032e10986cb0bdeb5ee0de28df9045cd2a02dd3ed333a\"",
   "head": {
-    "ref": "rebuild-icu79-0-1_h115e54"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tensorflow-feedstock/pull/501",
   "id": 5032793871,
-  "labels": [],
-  "last_fetched": "2026-11-04T09:30:55.214739",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-11T10:18:35.581309",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 501,

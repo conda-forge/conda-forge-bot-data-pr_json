@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b9681c2a90acc728ad829c54a6d8c9cde298d787e57ceaa59b394af259cc3425\"",
-  "Last-Modified": "Thu, 05 Nov 2026 19:39:51 GMT",
+  "ETag": "\"e58476dc244dc19d053fa63df6d68ef497fb002331079a263f182c8b1f79837c\"",
+  "Last-Modified": "Wed, 11 Nov 2026 09:41:43 GMT",
   "base": {
     "repo": {
       "name": "git-pkgs-brief-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T09:41:43Z",
   "closed_by": null,
   "created_at": "2026-11-05T19:38:17Z",
   "draft": false,
   "e_tag": "\"29b929c7c9ba874e5c275af7a11a68008896a3aa894f04794ee6b6a1a2f5625f\"",
   "head": {
-    "ref": "0.15.0_h60670b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/git-pkgs-brief-feedstock/pull/2",
   "id": 5177578574,
   "labels": [],
-  "last_fetched": "2026-11-06T02:58:56.321723",
+  "last_fetched": "2026-11-11T09:43:30.763990",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T09:41:43Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-05T19:39:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T09:41:43Z"
 }

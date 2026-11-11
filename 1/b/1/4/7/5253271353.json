@@ -1,18 +1,18 @@
 {
-  "ETag": "\"60d1dd6f637d99c7bbbb0a14143d08fa1d7248fd6d1d3477135b96e9d1439f60\"",
-  "Last-Modified": "Wed, 11 Nov 2026 10:27:12 GMT",
+  "ETag": "\"7f6356bcd4e7be56df42acf2f9ef67f4e642ffbf2288d44b18223e5efd2f74e7\"",
+  "Last-Modified": "Wed, 11 Nov 2026 11:33:08 GMT",
   "base": {
     "repo": {
       "name": "texlive-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T11:33:04Z",
   "closed_by": null,
   "created_at": "2026-11-11T03:29:59Z",
   "draft": false,
   "e_tag": "\"33bb67aac701576a0269d0d99261fa9a2685b63344c983e16a8a604ccd3da2d2\"",
   "head": {
-    "ref": "rebuild-poppler2611-0-1_h9c6ab1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/texlive-core-feedstock/pull/115",
   "id": 5253271353,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/texlive-core-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-11T10:27:28.153346",
+  "last_fetched": "2026-11-11T11:34:32.748906",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T11:33:04Z",
   "number": 115,
-  "state": "open",
-  "updated_at": "2026-11-11T10:27:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T11:33:08Z"
 }

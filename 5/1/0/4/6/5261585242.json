@@ -1,27 +1,29 @@
 {
+  "ETag": "\"02a929c5451dab5bde3459addf32be36f524f9d804a4270fc64fe2c516a04d64\"",
+  "Last-Modified": "Wed, 11 Nov 2026 15:07:14 GMT",
   "base": {
     "repo": {
       "name": "pygmo_plugins_nonfree-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T15:07:14Z",
   "closed_by": null,
   "created_at": "2026-11-11T14:51:18Z",
   "draft": false,
   "e_tag": "\"b1ff5aa259ed40ec9140b16119ca987dd0332764827e43eee0b38db3783368a7\"",
   "head": {
-    "ref": "rebuild-ipopt31420-0-1_h0df04b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pygmo_plugins_nonfree-feedstock/pull/54",
   "id": 5261585242,
   "labels": [],
-  "last_fetched": "2026-11-11T14:51:19.501297",
+  "last_fetched": "2026-11-11T15:08:24.422657",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T15:07:14Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-11T14:51:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T15:07:14Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"758fe0b4bdfb802a2d954592872e8e9c46b4181b9d60741713d3d6ab43c6776b\"",
-  "Last-Modified": "Wed, 11 Nov 2026 04:24:31 GMT",
+  "ETag": "\"f1328294e3aea79043abdb47bf4582466fc2b216314f94145f155f37eb568889\"",
+  "Last-Modified": "Wed, 11 Nov 2026 18:57:01 GMT",
   "base": {
     "repo": {
       "name": "langchain-aws-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T18:57:01Z",
   "closed_by": null,
   "created_at": "2026-11-11T04:22:51Z",
   "draft": false,
   "e_tag": "\"f618a9775960d22f55ac7efb3fe742f21c50f87f4a62f33531ac9c1f2692431c\"",
   "head": {
-    "ref": "1.9.3_h378db5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langchain-aws-feedstock/pull/103",
   "id": 5253770349,
   "labels": [],
-  "last_fetched": "2026-11-11T06:27:03.200399",
+  "last_fetched": "2026-11-11T18:58:11.286003",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T18:57:01Z",
   "number": 103,
-  "state": "open",
-  "updated_at": "2026-11-11T04:24:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T18:57:01Z"
 }

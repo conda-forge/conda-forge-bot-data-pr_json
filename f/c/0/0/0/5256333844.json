@@ -1,27 +1,29 @@
 {
+  "ETag": "\"377849193e8d6e83f5b012267d2341796d6c7620aa982cf32a2571a1016dc3f8\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:04:30 GMT",
   "base": {
     "repo": {
       "name": "certbot-dns-rfc2136-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T10:04:30Z",
   "closed_by": null,
   "created_at": "2026-11-11T08:35:57Z",
   "draft": false,
   "e_tag": "\"4a012b303e19a121c162a6ddf86a22afd95e7af5f28d9fb391d805bd84cb8d46\"",
   "head": {
-    "ref": "5.10.0_hcfab38"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/certbot-dns-rfc2136-feedstock/pull/12",
   "id": 5256333844,
   "labels": [],
-  "last_fetched": "2026-11-11T08:35:57.910188",
+  "last_fetched": "2026-11-11T10:06:03.131917",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T10:04:30Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-11T08:35:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:04:30Z"
 }

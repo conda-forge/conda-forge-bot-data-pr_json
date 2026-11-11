@@ -1,18 +1,18 @@
 {
-  "ETag": "\"ebecffd7ae1de398c73d14877adfa06da55fd7708c711aa0fdcf08e1df5fb121\"",
-  "Last-Modified": "Wed, 11 Nov 2026 18:37:18 GMT",
+  "ETag": "\"54ae67a097c0fd9bdb256f44f3ed5e15a10d634e2bbb58a8e642a1f43f5416d7\"",
+  "Last-Modified": "Wed, 11 Nov 2026 18:40:34 GMT",
   "base": {
     "repo": {
       "name": "markdown-it-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T18:40:29Z",
   "closed_by": null,
   "created_at": "2026-11-10T22:38:55Z",
   "draft": false,
   "e_tag": "\"c81cad21e761204cf6fa57ab9a6f8fab2a11421a4c615ec9c1b02abfbba33a20\"",
   "head": {
-    "ref": "4.3.0_he82faa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/markdown-it-py-feedstock/pull/37",
   "id": 5250181245,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/markdown-it-py-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-11T18:38:32.079894",
+  "last_fetched": "2026-11-11T18:42:00.592847",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T18:40:29Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-11-11T18:37:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T18:40:34Z"
 }

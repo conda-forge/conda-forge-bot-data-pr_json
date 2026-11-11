@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3122c2241cb567163e6cc74d4ed37fe244d55476c6baf2aa60cc85dd60a54ee8\"",
+  "Last-Modified": "Wed, 11 Nov 2026 12:00:24 GMT",
   "base": {
     "repo": {
       "name": "pysmartdl2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T12:00:21Z",
   "closed_by": null,
   "created_at": "2026-11-11T11:58:33Z",
   "draft": false,
   "e_tag": "\"08694164be4e3cd896bb7f2b91d90628abdda9a7dc9d62f6e3753ac366543886\"",
   "head": {
-    "ref": "2.1.0_h2c9b82"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pysmartdl2-feedstock/pull/7",
   "id": 5259025539,
   "labels": [],
-  "last_fetched": "2026-11-11T11:58:34.730500",
+  "last_fetched": "2026-11-11T12:02:02.931224",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T12:00:21Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-11T11:58:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T12:00:24Z"
 }

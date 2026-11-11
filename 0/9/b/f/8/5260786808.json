@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0d338c9478db91e5eac9d33f901c275a4fa179e354d56ec90795022cc905b719\"",
+  "Last-Modified": "Wed, 11 Nov 2026 14:05:24 GMT",
   "base": {
     "repo": {
       "name": "jql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T14:05:21Z",
   "closed_by": null,
   "created_at": "2026-11-11T13:59:14Z",
   "draft": false,
   "e_tag": "\"ba3403733a5c6c9826de3f2df2b2af79692889237d5efcbede4e367527ad1bcd\"",
   "head": {
-    "ref": "9.0.4_h53eaed"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jql-feedstock/pull/24",
   "id": 5260786808,
   "labels": [],
-  "last_fetched": "2026-11-11T13:59:15.383138",
+  "last_fetched": "2026-11-11T14:06:52.654610",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T14:05:21Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-11-11T13:59:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T14:05:24Z"
 }

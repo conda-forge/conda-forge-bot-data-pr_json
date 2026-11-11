@@ -1,12 +1,13 @@
 {
-  "ETag": "\"6e955b72de61c9d58a3161f53c662a331e6e13489bf1d4cb244a5b4e98e7abd1\"",
-  "Last-Modified": "Tue, 22 Sep 2026 06:25:06 GMT",
+  "ETag": "\"e3d28f2b9b1b26f192f88ac9ca636a9f8e917b4a4c5b9b80c64e4ec77338a8a5\"",
+  "Last-Modified": "Wed, 11 Nov 2026 05:16:30 GMT",
   "base": {
     "repo": {
       "name": "bioimage-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T05:16:30Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-22T06:25:05Z",
   "draft": false,
   "e_tag": "\"5aab4f3b4b7d129c3ede15c468ca951c36e65f06d6bf7b44d210a8e74827b470\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/bioimage-cpp-feedstock/pull/12",
   "id": 4599092429,
   "labels": [],
-  "last_fetched": "2026-11-04T02:57:48.187680",
+  "last_fetched": "2026-11-11T05:17:34.699840",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-09-22T06:26:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T05:16:30Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"54d0b429d8ff67c0d54eb84e082def8a91eebfe45ffa9e6731447efb985acb59\"",
+  "Last-Modified": "Wed, 11 Nov 2026 19:25:24 GMT",
   "base": {
     "repo": {
       "name": "xorq-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T19:25:19Z",
   "closed_by": null,
   "created_at": "2026-11-11T19:20:36Z",
   "draft": false,
   "e_tag": "\"e0565fd663f824d8f0371bfa0e1d9a308ae3764e9f581f502746bf9cd9f7529d\"",
   "head": {
-    "ref": "0.4.12_h932d71"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xorq-feedstock/pull/16",
   "id": 5265462563,
   "labels": [],
-  "last_fetched": "2026-11-11T19:20:37.749199",
+  "last_fetched": "2026-11-11T19:26:29.092372",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T19:25:19Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-11T19:20:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T19:25:24Z"
 }

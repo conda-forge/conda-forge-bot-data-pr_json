@@ -1,5 +1,5 @@
 {
-  "ETag": "\"e3d28f2b9b1b26f192f88ac9ca636a9f8e917b4a4c5b9b80c64e4ec77338a8a5\"",
+  "ETag": "W/\"acbb56ea1c697be539f889ac6951066a0145d058df57aaa6d6371b73b4912467\"",
   "Last-Modified": "Wed, 11 Nov 2026 05:16:30 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/bioimage-cpp-feedstock/pull/12",
   "id": 4599092429,
-  "labels": [],
-  "last_fetched": "2026-11-11T05:17:34.699840",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-11T05:16:33.323483",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

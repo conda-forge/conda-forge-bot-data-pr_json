@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ba0d3b71f2936e5b02c5f173844ad4054d60b290e4731efc2d5d4a05ba178d8d\"",
-  "Last-Modified": "Wed, 11 Nov 2026 17:21:19 GMT",
+  "ETag": "\"1a307df9ad6f5d7d2bdcc7af87b0d09290bc7e0e5900111a2b3b2f76446ed314\"",
+  "Last-Modified": "Wed, 11 Nov 2026 19:39:36 GMT",
   "base": {
     "repo": {
       "name": "hashio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T19:39:36Z",
   "closed_by": null,
   "created_at": "2026-11-11T17:19:51Z",
   "draft": false,
   "e_tag": "\"f4c8688d3079ed4a631a5644e9cc35e4963d38aef8c4d15d6256dd9d2f055e4b\"",
   "head": {
-    "ref": "0.5.2_ha7e8e4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hashio-feedstock/pull/5",
   "id": 5263779242,
   "labels": [],
-  "last_fetched": "2026-11-11T18:58:36.397584",
+  "last_fetched": "2026-11-11T19:40:47.380313",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T19:39:36Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-11T17:21:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T19:39:36Z"
 }

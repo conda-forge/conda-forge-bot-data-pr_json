@@ -1,29 +1,41 @@
 {
-  "ETag": "\"718a584521e66c139dc090f700bf3174edd0863bcfb20ca6335b76d873c1cb8d\"",
-  "Last-Modified": "Wed, 11 Nov 2026 03:14:25 GMT",
+  "ETag": "\"e46cb081a7319396a37cc3de49e1789a6e114c6766074efd37de26cf9b9e5a58\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:42:10 GMT",
   "base": {
     "repo": {
       "name": "pytest-httpserver-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T10:42:06Z",
   "closed_by": null,
   "created_at": "2026-11-11T03:12:35Z",
   "draft": false,
   "e_tag": "\"20a234d265822a8b458182432c28c2c685257991f0b3592c72a642073d2ba641\"",
   "head": {
-    "ref": "1.2.1_hb171f6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytest-httpserver-feedstock/pull/28",
   "id": 5253096641,
-  "labels": [],
-  "last_fetched": "2026-11-11T04:29:34.628919",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891112455,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTEyNDU1",
+      "url": "https://api.github.com/repos/conda-forge/pytest-httpserver-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-11T10:42:58.258430",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T10:42:05Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-11T03:14:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:42:10Z"
 }

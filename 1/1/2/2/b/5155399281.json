@@ -1,5 +1,5 @@
 {
-  "ETag": "\"796504e9b83da2f006ade76e5dd394c82c2998097e24fcb2b95c4f2bfd90b8d1\"",
+  "ETag": "W/\"ff27eff6c314e5adb6a0c8e56f15fc3091581750c74d66a4f5b3b01214a0ef0b\"",
   "Last-Modified": "Wed, 11 Nov 2026 17:16:15 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/lalmetaio-feedstock/pull/54",
   "id": 5155399281,
-  "labels": [],
-  "last_fetched": "2026-11-11T17:17:47.100233",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-11T17:16:17.734612",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

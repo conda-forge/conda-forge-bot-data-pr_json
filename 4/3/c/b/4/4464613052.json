@@ -1,5 +1,5 @@
 {
-  "ETag": "\"4bbed14ebe8746e4c4bb448469592835ce08b4edd8a05b59906ecb78f0e918a4\"",
+  "ETag": "W/\"4328491008a83b7d8a4f28a7152e06e0bb666217957447638cbb6d6d9abe6888\"",
   "Last-Modified": "Wed, 11 Nov 2026 21:20:12 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/fastpath-feedstock/pull/14",
   "id": 4464613052,
-  "labels": [],
-  "last_fetched": "2026-11-11T21:21:21.631650",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-11T21:20:14.445144",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

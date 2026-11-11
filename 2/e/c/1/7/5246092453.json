@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"d198f6b150a736f5fa3fba35b67e70044a78c35f8cf3afb61ee8b1ed74a2c33d\"",
-  "Last-Modified": "Tue, 10 Nov 2026 17:48:19 GMT",
+  "ETag": "\"a66a69f91d17a2669da6a98c0cc15ec90c9959fd718af5e0aeaab2274d59fe68\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:51:55 GMT",
   "base": {
     "repo": {
       "name": "astromatic-swarp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T10:51:55Z",
   "closed_by": null,
   "created_at": "2026-11-10T17:48:18Z",
   "draft": false,
   "e_tag": "\"01656c7551c8dae2e3e6d0527142629276f55a314d89ee40fca9869d72075488\"",
   "head": {
-    "ref": "rebuild-cfitsio470-0-1_heb55e8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/astromatic-swarp-feedstock/pull/9",
   "id": 5246092453,
   "labels": [],
-  "last_fetched": "2026-11-10T18:19:46.600399",
+  "last_fetched": "2026-11-11T10:53:04.134521",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T10:51:55Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-10T17:49:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:51:55Z"
 }

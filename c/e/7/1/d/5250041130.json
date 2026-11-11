@@ -1,29 +1,29 @@
 {
-  "ETag": "\"297bc65396652d12d55425927d780fb4e676aab8a1911dac27cb6d01a97f8bc6\"",
-  "Last-Modified": "Tue, 10 Nov 2026 22:30:20 GMT",
+  "ETag": "\"38a38c775166a6678b64d603e8531d018ba46b562466373f9fb06ddff77f9f18\"",
+  "Last-Modified": "Wed, 11 Nov 2026 07:54:16 GMT",
   "base": {
     "repo": {
       "name": "pyflwdir-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T07:54:16Z",
   "closed_by": null,
   "created_at": "2026-11-10T22:28:44Z",
   "draft": false,
   "e_tag": "\"99b01e53dc777abedecc4fee9b9a69d0b9abef4c1be083956f201c8dbd0b9628\"",
   "head": {
-    "ref": "0.6.0_h0c4174"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyflwdir-feedstock/pull/27",
   "id": 5250041130,
   "labels": [],
-  "last_fetched": "2026-11-10T23:00:47.954330",
+  "last_fetched": "2026-11-11T07:56:04.071584",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T07:54:16Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-11-10T22:30:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T07:54:16Z"
 }

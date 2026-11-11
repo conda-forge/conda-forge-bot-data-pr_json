@@ -1,27 +1,29 @@
 {
+  "ETag": "\"667c7ed0e629e9b182b72117992d64fb358ea405ae2b76ed575a48fd5340d70e\"",
+  "Last-Modified": "Wed, 11 Nov 2026 12:19:19 GMT",
   "base": {
     "repo": {
       "name": "inference-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T12:19:14Z",
   "closed_by": null,
   "created_at": "2026-11-11T12:15:31Z",
   "draft": false,
   "e_tag": "\"9b542071e1bb4ac555a17d9f281cb779a3088c1317f96ad1cb62d24c1d20e18b\"",
   "head": {
-    "ref": "0.16.0_hd81dc8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/inference-tools-feedstock/pull/15",
   "id": 5259263743,
   "labels": [],
-  "last_fetched": "2026-11-11T12:15:32.123509",
+  "last_fetched": "2026-11-11T12:20:41.431650",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T12:19:14Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-11T12:15:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T12:19:19Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ffb0c88583b385f03440acf453905f34898b977a8c1cf8cb8896221765954b19\"",
-  "Last-Modified": "Tue, 10 Nov 2026 19:59:28 GMT",
+  "ETag": "\"5d1630f62cea6f0b201f107f2e643df97ce6b3d29d363c9fdb15d49128efd08c\"",
+  "Last-Modified": "Wed, 11 Nov 2026 06:33:59 GMT",
   "base": {
     "repo": {
       "name": "gnuastro-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T06:33:59Z",
   "closed_by": null,
   "created_at": "2026-11-10T19:57:48Z",
   "draft": false,
   "e_tag": "\"a75e4f0ad45d7b2cba7332bf5a0a5b4c173db5e5cd3465ddcf243879d59c691b\"",
   "head": {
-    "ref": "rebuild-cfitsio470-0-1_h664a8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gnuastro-feedstock/pull/62",
   "id": 5247951058,
   "labels": [],
-  "last_fetched": "2026-11-10T21:16:31.445394",
+  "last_fetched": "2026-11-11T06:35:12.960394",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T06:33:59Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-11-10T19:59:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T06:33:59Z"
 }

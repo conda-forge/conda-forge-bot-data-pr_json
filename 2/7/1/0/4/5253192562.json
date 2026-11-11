@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f8408922f958fe31cf878468975412cbddefccc26e8f022f47b4a583baa70797\"",
-  "Last-Modified": "Wed, 11 Nov 2026 03:23:24 GMT",
+  "ETag": "\"29d7e1ecbf0773ad7532412c2c62128b58f395b69f0c2766071514f67ef22571\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:26:56 GMT",
   "base": {
     "repo": {
       "name": "faker-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T10:26:56Z",
   "closed_by": null,
   "created_at": "2026-11-11T03:21:56Z",
   "draft": false,
   "e_tag": "\"9a4abab05c30bd08968371be30444765861823312727697598eebe4ba0c18855\"",
   "head": {
-    "ref": "40.54.0_hf1ea77"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/faker-feedstock/pull/361",
   "id": 5253192562,
   "labels": [],
-  "last_fetched": "2026-11-11T04:58:02.653812",
+  "last_fetched": "2026-11-11T10:29:04.317640",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T10:26:56Z",
   "number": 361,
-  "state": "open",
-  "updated_at": "2026-11-11T03:23:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:26:56Z"
 }

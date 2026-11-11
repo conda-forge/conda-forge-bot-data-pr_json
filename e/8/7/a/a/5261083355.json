@@ -1,27 +1,29 @@
 {
+  "ETag": "\"286701fea8121efd283291bfbec4fa724db940d49d61634b9b97a678db5109f6\"",
+  "Last-Modified": "Wed, 11 Nov 2026 14:28:56 GMT",
   "base": {
     "repo": {
       "name": "dart-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T14:28:51Z",
   "closed_by": null,
   "created_at": "2026-11-11T14:18:31Z",
   "draft": false,
   "e_tag": "\"58d987342bac9ee1148c23ef1d5fc52f80100ec72264ddabf1c31f055ca23563\"",
   "head": {
-    "ref": "3.14.0_h7354d8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dart-sdk-feedstock/pull/33",
   "id": 5261083355,
   "labels": [],
-  "last_fetched": "2026-11-11T14:18:32.749163",
+  "last_fetched": "2026-11-11T14:30:18.209117",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T14:28:51Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-11T14:18:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T14:28:56Z"
 }

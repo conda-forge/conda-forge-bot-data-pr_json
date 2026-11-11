@@ -1,28 +1,28 @@
 {
-  "ETag": "\"6a8dcf384855b5309c9b696b278dda06c0c45e26b37b9266dabb041ff767fdb2\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"62ed26883e180de055dab96daaf2b81c72007fbcf974e6716be989c32a67bcd6\"",
+  "Last-Modified": "Wed, 11 Nov 2026 12:03:34 GMT",
   "base": {
     "repo": {
       "name": "glueviz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T12:03:34Z",
   "created_at": "2026-07-01T11:14:49Z",
   "draft": false,
   "e_tag": "\"5ec816cfeb0b58cc6729c92e95fdd7b3d4a7bbb4c0bbed7619ca3de626881ef6\"",
   "head": {
-    "ref": "rebuild-python314-0-1_h7c8ec4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/glueviz-feedstock/pull/57",
   "id": 3970210264,
   "labels": [],
-  "last_fetched": "2026-11-09T18:22:20.893797",
+  "last_fetched": "2026-11-11T12:04:47.941679",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T12:03:34Z",
   "number": 57,
-  "state": "open",
-  "updated_at": "2026-07-01T11:16:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T12:03:34Z"
 }

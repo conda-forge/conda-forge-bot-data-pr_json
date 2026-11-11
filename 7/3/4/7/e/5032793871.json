@@ -1,33 +1,29 @@
 {
-  "ETag": "\"3cbeea4d752d88ff46beea5b88e0e8dc11b5e8e3cf144eb02a4c8b8b255c0998\"",
-  "Last-Modified": "Tue, 27 Oct 2026 11:03:59 GMT",
+  "ETag": "\"be025c99a60ea652d8cd5522a9a6061d745ebc0a7cfe935853c4f83df397df11\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:18:37 GMT",
   "base": {
     "repo": {
       "name": "tensorflow-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-11T10:18:37Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-27T11:02:11Z",
   "draft": false,
   "e_tag": "\"b6d728893a011fe559f032e10986cb0bdeb5ee0de28df9045cd2a02dd3ed333a\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "rebuild-icu79-0-1_h115e54"
   },
   "html_url": "https://github.com/conda-forge/tensorflow-feedstock/pull/501",
   "id": 5032793871,
-  "labels": [
-    {
-      "name": "bot-rerun"
-    }
-  ],
-  "last_fetched": "2026-11-11T10:18:35.581309",
+  "labels": [],
+  "last_fetched": "2026-11-11T10:20:41.326399",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 501,
-  "state": "open",
-  "updated_at": "2026-10-27T11:03:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:18:37Z"
 }

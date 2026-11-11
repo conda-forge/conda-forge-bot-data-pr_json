@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f7b99bb8fafb62ba0e262e9afc43483a217a96db99bf2226844ce81653c63d19\"",
+  "Last-Modified": "Wed, 11 Nov 2026 13:54:03 GMT",
   "base": {
     "repo": {
       "name": "pylsqpack-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T13:54:02Z",
   "closed_by": null,
   "created_at": "2026-11-11T10:18:07Z",
   "draft": false,
   "e_tag": "\"b8ac0d130fe3922db332270ffa2d22bad479f08cdfa22c1bb5c34ea444a2cdb6\"",
   "head": {
-    "ref": "1.1.0_h22bdb8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylsqpack-feedstock/pull/15",
   "id": 5257664699,
   "labels": [],
-  "last_fetched": "2026-11-11T10:18:08.187414",
+  "last_fetched": "2026-11-11T13:55:39.892575",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T13:54:02Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-11T10:18:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T13:54:03Z"
 }

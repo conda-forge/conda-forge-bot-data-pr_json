@@ -1,29 +1,29 @@
 {
-  "ETag": "\"871b21cd581a168c4e5f4926a9513fb28afc18c51823218adcf84c2c5510e438\"",
-  "Last-Modified": "Wed, 11 Nov 2026 22:13:43 GMT",
+  "ETag": "\"f2c8dc53bc4515418279ae5e29053d3c20e84e0f00b4790f1b66bc3a63b0f4f7\"",
+  "Last-Modified": "Wed, 11 Nov 2026 22:48:23 GMT",
   "base": {
     "repo": {
       "name": "zellij-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T22:48:19Z",
   "closed_by": null,
   "created_at": "2026-11-11T22:12:01Z",
   "draft": false,
   "e_tag": "\"433b5f4fd4e5e45c838fef3b0f9e8ff97d6df82bf8839a41a47004b36577ae12\"",
   "head": {
-    "ref": "0.46.0_hfe054d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zellij-feedstock/pull/20",
   "id": 5267531920,
   "labels": [],
-  "last_fetched": "2026-11-11T22:42:13.655511",
+  "last_fetched": "2026-11-11T22:49:56.809381",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T22:48:19Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-11T22:13:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T22:48:23Z"
 }

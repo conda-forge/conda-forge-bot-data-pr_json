@@ -1,12 +1,13 @@
 {
-  "ETag": "\"6ecbf016e74409e48cabcb0cf7844c1e44e1d30ffbacd2895ff8e70d0bb3ba4d\"",
-  "Last-Modified": "Mon, 07 Sep 2026 13:22:31 GMT",
+  "ETag": "\"4bbed14ebe8746e4c4bb448469592835ce08b4edd8a05b59906ecb78f0e918a4\"",
+  "Last-Modified": "Wed, 11 Nov 2026 21:20:12 GMT",
   "base": {
     "repo": {
       "name": "fastpath-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T21:20:12Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-07T13:20:47Z",
   "draft": false,
   "e_tag": "\"64b46c7d728d749e85a34e100204555af30180a74dfd290e6c7e2b98b98fb02a\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/fastpath-feedstock/pull/14",
   "id": 4464613052,
   "labels": [],
-  "last_fetched": "2026-11-04T19:15:53.131353",
+  "last_fetched": "2026-11-11T21:21:21.631650",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-09-07T13:22:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T21:20:12Z"
 }

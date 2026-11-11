@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1d2d2e931d41a3b6e5f412310d33ec3ae62bb169489bd85dd0862c84fd82238f\"",
-  "Last-Modified": "Wed, 11 Nov 2026 03:41:15 GMT",
+  "ETag": "\"4b6f4b7cc75cd64e2bdf9a91d36dce3402cde743b0198370c16713cbc42187f2\"",
+  "Last-Modified": "Wed, 11 Nov 2026 05:37:23 GMT",
   "base": {
     "repo": {
       "name": "libvips-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T05:37:23Z",
   "closed_by": null,
   "created_at": "2026-11-11T03:39:31Z",
   "draft": false,
   "e_tag": "\"d472689f10d2dbf585a676e1c5a5a46eba7e5daa27dcfc6389d11e7ff4c285e0\"",
   "head": {
-    "ref": "rebuild-poppler2611-0-1_h632a57"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libvips-feedstock/pull/176",
   "id": 5253364854,
   "labels": [],
-  "last_fetched": "2026-11-11T04:57:26.165046",
+  "last_fetched": "2026-11-11T05:38:44.340644",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T05:37:23Z",
   "number": 176,
-  "state": "open",
-  "updated_at": "2026-11-11T03:41:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T05:37:23Z"
 }

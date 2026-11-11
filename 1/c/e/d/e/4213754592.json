@@ -1,12 +1,13 @@
 {
-  "ETag": "\"44deebb45270dd2ff789a89eed35c574be6f4e03a9c16b1fd09f3174284d74fc\"",
-  "Last-Modified": "Wed, 05 Aug 2026 16:16:27 GMT",
+  "ETag": "\"d9e96c6fa75e121a1ec58009fdee118fa4c7303c35ca93efa11fd789ccc656e5\"",
+  "Last-Modified": "Wed, 11 Nov 2026 04:59:23 GMT",
   "base": {
     "repo": {
       "name": "zola-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T04:59:23Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-05T15:52:17Z",
   "draft": false,
   "e_tag": "\"fce13459d86c3a872e2cb78084afc6eea07896b5e6a2027b8752961f01e97ca3\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/zola-feedstock/pull/10",
   "id": 4213754592,
   "labels": [],
-  "last_fetched": "2026-11-03T22:00:11.683439",
+  "last_fetched": "2026-11-11T05:00:42.270559",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-08-05T16:16:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T04:59:23Z"
 }

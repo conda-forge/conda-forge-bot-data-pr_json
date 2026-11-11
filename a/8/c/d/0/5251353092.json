@@ -1,29 +1,29 @@
 {
-  "ETag": "\"68d24949e4a34b1b6734ae8490f1a4f2e9bfbb5136387ef18b8c837e3070e724\"",
-  "Last-Modified": "Wed, 11 Nov 2026 00:25:37 GMT",
+  "ETag": "\"cd973ce8d2a95ced6c0fbfd978ce220d5fde5c6873724533c7129a75bb966e1e\"",
+  "Last-Modified": "Wed, 11 Nov 2026 11:31:21 GMT",
   "base": {
     "repo": {
       "name": "sortmerna-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T11:31:21Z",
   "closed_by": null,
   "created_at": "2026-11-11T00:24:05Z",
   "draft": false,
   "e_tag": "\"b37b2ec66edb4924aac421eb652b741813ae9ee1326c6f84d8e612f0346eb742\"",
   "head": {
-    "ref": "8.0.2_h787c93"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sortmerna-feedstock/pull/31",
   "id": 5251353092,
   "labels": [],
-  "last_fetched": "2026-11-11T00:39:17.030032",
+  "last_fetched": "2026-11-11T11:33:02.011726",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T11:31:21Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-11T00:25:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T11:31:21Z"
 }

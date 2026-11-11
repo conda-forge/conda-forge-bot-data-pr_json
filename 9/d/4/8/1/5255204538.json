@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f421a7471e3887db8267c6a6cd2c8011077e9df51ce3f78893be9f98d6810c41\"",
+  "Last-Modified": "Wed, 11 Nov 2026 06:59:46 GMT",
   "base": {
     "repo": {
       "name": "django-avatar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T06:59:42Z",
   "closed_by": null,
   "created_at": "2026-11-11T06:56:29Z",
   "draft": false,
   "e_tag": "\"28bf23fb674e23bf975b450d35580b9e172342d0320db75eeae3effe9cd66f62\"",
   "head": {
-    "ref": "9.0.1_he03063"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-avatar-feedstock/pull/13",
   "id": 5255204538,
   "labels": [],
-  "last_fetched": "2026-11-11T06:56:30.248406",
+  "last_fetched": "2026-11-11T07:00:51.764430",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T06:59:42Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-11T06:56:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T06:59:46Z"
 }

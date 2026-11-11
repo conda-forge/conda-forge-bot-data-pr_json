@@ -1,29 +1,29 @@
 {
-  "ETag": "\"468a343aa04cf32f238a987f199e41e691bcd08c32a592ab194fafb6ffb87ba9\"",
-  "Last-Modified": "Wed, 11 Nov 2026 03:20:33 GMT",
+  "ETag": "\"f4abcb3228da0dc15b98c8fd4d9737474575bc704051ce341d9796c5f96a3261\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:56:37 GMT",
   "base": {
     "repo": {
       "name": "mypy-boto3-appflow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T10:56:37Z",
   "closed_by": null,
   "created_at": "2026-11-11T03:18:59Z",
   "draft": false,
   "e_tag": "\"987d10266da93134607a3512ca08c15952aca0ae19a28167fd775292062f4b1f\"",
   "head": {
-    "ref": "1.44.0_hc817a4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mypy-boto3-appflow-feedstock/pull/50",
   "id": 5253163219,
   "labels": [],
-  "last_fetched": "2026-11-11T05:29:41.210264",
+  "last_fetched": "2026-11-11T10:58:19.502523",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T10:56:37Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-11-11T03:20:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:56:37Z"
 }

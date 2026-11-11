@@ -1,12 +1,13 @@
 {
-  "ETag": "\"bc8018023ce25c4027601fa35e3ff7cea68c9a041f1f9881c06860134ea8fd5d\"",
-  "Last-Modified": "Mon, 31 Aug 2026 14:21:50 GMT",
+  "ETag": "W/\"837cfe1a7e2fea495b97f82e8c98b3a3fd5ef726b259b4086f979f4e14b5cb0f\"",
+  "Last-Modified": "Wed, 11 Nov 2026 17:59:50 GMT",
   "base": {
     "repo": {
       "name": "pyosmium-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T17:59:50Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-07-24T10:24:58Z",
   "draft": false,
   "e_tag": "\"3ca05732bf49dcfe3429cd6fc0835538c4c0aa22f4449918867fcb4a3d6676f7\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyosmium-feedstock/pull/5",
   "id": 4123914602,
-  "labels": [],
-  "last_fetched": "2026-11-10T16:59:28.296391",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 10512755836,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDORv4WVc8AAAACcpvsfA",
+      "url": "https://api.github.com/repos/conda-forge/pyosmium-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-11T17:59:53.738218",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-08-31T14:21:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T17:59:50Z"
 }

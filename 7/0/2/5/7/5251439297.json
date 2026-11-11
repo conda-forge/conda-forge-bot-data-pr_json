@@ -1,6 +1,6 @@
 {
-  "ETag": "\"f4bf8918d0240ce638ea2c0235562b3b115f0088061b66320e6640853e29a0d7\"",
-  "Last-Modified": "Wed, 11 Nov 2026 00:34:44 GMT",
+  "ETag": "\"06dcb53040d440bfcee53c57b87201daf596d52b10d593c702d63931e1bb9bab\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:45:22 GMT",
   "base": {
     "repo": {
       "name": "simplejson-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/simplejson-feedstock/pull/53",
   "id": 5251439297,
-  "labels": [],
-  "last_fetched": "2026-11-11T00:53:08.617794",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891339788,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzM5Nzg4",
+      "url": "https://api.github.com/repos/conda-forge/simplejson-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-11T10:45:49.911667",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 53,
   "state": "open",
-  "updated_at": "2026-11-11T00:34:44Z"
+  "updated_at": "2026-11-11T10:45:22Z"
 }

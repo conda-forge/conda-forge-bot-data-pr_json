@@ -1,6 +1,6 @@
 {
-  "ETag": "\"1a5f2f521e606a842043fe20b33acdd7f736fd6a05f5dd279ad0d0416fe6be1f\"",
-  "Last-Modified": "Wed, 11 Nov 2026 07:08:13 GMT",
+  "ETag": "\"9ec2beedfc5e3bab66a2de6adee67c6421cb67688a50d9545367ab5747651564\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:41:44 GMT",
   "base": {
     "repo": {
       "name": "certbot-dns-cloudflare-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/certbot-dns-cloudflare-feedstock/pull/12",
   "id": 5255312642,
-  "labels": [],
-  "last_fetched": "2026-11-11T08:42:57.265573",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9331023159,
+      "name": "automerge",
+      "node_id": "LA_kwDOP01BlM8AAAACLCwdNw",
+      "url": "https://api.github.com/repos/conda-forge/certbot-dns-cloudflare-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-11T10:43:14.161672",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 12,
   "state": "open",
-  "updated_at": "2026-11-11T07:08:13Z"
+  "updated_at": "2026-11-11T10:41:44Z"
 }

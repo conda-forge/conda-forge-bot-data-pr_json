@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"d139dd6bebd14e82deeb399d8e0b46a6dd6f39cf0e8be629fc3ae54eedb5d916\"",
-  "Last-Modified": "Wed, 11 Nov 2026 09:11:38 GMT",
+  "ETag": "\"125ffdf9c445ec9698bf6cb6f761f3837d9161ebce117a3f47e28674ef8b686c\"",
+  "Last-Modified": "Wed, 11 Nov 2026 14:00:33 GMT",
   "base": {
     "repo": {
       "name": "toil-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/toil-feedstock/pull/18",
   "id": 4959781580,
-  "labels": [],
-  "last_fetched": "2026-11-11T11:58:37.526187",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7997928343,
+      "name": "automerge",
+      "node_id": "LA_kwDONpmPRs8AAAAB3Lazlw",
+      "url": "https://api.github.com/repos/conda-forge/toil-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-11T14:02:10.342370",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-11-11T09:11:38Z"
+  "updated_at": "2026-11-11T14:00:33Z"
 }

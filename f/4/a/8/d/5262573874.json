@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1024649b7dc75cbad73c25cec78aff0df5dc9d512cd5a07df07868e8f462ed4e\"",
+  "Last-Modified": "Wed, 11 Nov 2026 15:59:00 GMT",
   "base": {
     "repo": {
       "name": "jsonpatch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T15:58:55Z",
   "closed_by": null,
   "created_at": "2026-11-11T15:57:03Z",
   "draft": false,
   "e_tag": "\"9a766ddf7c254f1c09d355b9373c0ef1799f622642ef054915a4a5cf661b0d83\"",
   "head": {
-    "ref": "1.47_h8a5b24"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jsonpatch-feedstock/pull/31",
   "id": 5262573874,
   "labels": [],
-  "last_fetched": "2026-11-11T15:57:04.144130",
+  "last_fetched": "2026-11-11T16:00:06.810493",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T15:58:55Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-11T15:57:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T15:59:00Z"
 }

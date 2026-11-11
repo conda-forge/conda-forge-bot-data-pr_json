@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f0c239a7fb9ce589cea1de380e88e8b6f26a687fadad1a1774c99ff365775ab3\"",
-  "Last-Modified": "Wed, 11 Nov 2026 14:17:52 GMT",
+  "ETag": "W/\"19aec5005022e14dd39d9126d00e5f7c279aea8376870b326e2f11bd853bb2ad\"",
+  "Last-Modified": "Wed, 11 Nov 2026 17:11:49 GMT",
   "base": {
     "repo": {
       "name": "types-boto3-secretsmanager-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T17:11:49Z",
   "closed_by": null,
   "created_at": "2026-11-11T14:16:14Z",
   "draft": false,
   "e_tag": "\"175fd27c7cab2718591f46d446758e321dea16066eb182d2972aa62fbe984573\"",
   "head": {
-    "ref": "1.44.0_h378380"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-boto3-secretsmanager-feedstock/pull/1",
   "id": 5261048471,
   "labels": [],
-  "last_fetched": "2026-11-11T15:16:17.941066",
+  "last_fetched": "2026-11-11T17:13:20.984886",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T17:11:48Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-11T14:17:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T17:11:49Z"
 }

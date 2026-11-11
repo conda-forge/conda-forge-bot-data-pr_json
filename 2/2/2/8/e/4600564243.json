@@ -1,12 +1,13 @@
 {
-  "ETag": "\"a7c7e982ac01d457fd43d9760024efb33f8f2fa75f9dbfce73cadcd6f7a65270\"",
-  "Last-Modified": "Tue, 22 Sep 2026 09:39:55 GMT",
+  "ETag": "\"64c8c44aa1a113618b70624079ada5202ec5c7cc7e9565dc8b05c0a5d21326ae\"",
+  "Last-Modified": "Wed, 11 Nov 2026 01:28:20 GMT",
   "base": {
     "repo": {
       "name": "casadi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T01:28:20Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-22T09:38:13Z",
   "draft": false,
   "e_tag": "\"7cc6aeef5d75d2f97ab268fbf18b45dce87cef6b9c992f439f122f85bb293c48\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/casadi-feedstock/pull/149",
   "id": 4600564243,
   "labels": [],
-  "last_fetched": "2026-11-04T00:52:25.477866",
+  "last_fetched": "2026-11-11T01:29:53.105289",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 149,
-  "state": "open",
-  "updated_at": "2026-09-22T09:39:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T01:28:20Z"
 }

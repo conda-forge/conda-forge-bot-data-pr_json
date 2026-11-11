@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a6fa82b58c9e41f1457a186fbff1d3f002b1cdcd327a7fc3d2fc07da6aacbe1c\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:24:35 GMT",
   "base": {
     "repo": {
       "name": "cf-plot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T10:24:35Z",
   "closed_by": null,
   "created_at": "2026-11-11T04:49:09Z",
   "draft": false,
   "e_tag": "\"af87d78709d8eb4c6aac9f0f1b02a370ac883a3ce6a54909d095c12ae442f273\"",
   "head": {
-    "ref": "3.6.0_h19004a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cf-plot-feedstock/pull/41",
   "id": 5254001613,
   "labels": [],
-  "last_fetched": "2026-11-11T04:49:10.657887",
+  "last_fetched": "2026-11-11T10:26:00.939884",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T10:24:35Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-11-11T04:49:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:24:35Z"
 }

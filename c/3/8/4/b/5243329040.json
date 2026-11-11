@@ -1,29 +1,29 @@
 {
-  "ETag": "\"87ecf3c176c554a2db1db5fa23aa42fa651ede27e81835387d81214ea53752c4\"",
-  "Last-Modified": "Tue, 10 Nov 2026 14:50:11 GMT",
+  "ETag": "\"5f510560fe97846da5b03a702084ad95b200df0f7bce6423f9e8acebdc2ca126\"",
+  "Last-Modified": "Wed, 11 Nov 2026 13:15:50 GMT",
   "base": {
     "repo": {
       "name": "umap-learn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T13:15:49Z",
   "closed_by": null,
   "created_at": "2026-11-10T14:48:35Z",
   "draft": false,
   "e_tag": "\"4369021d617ab104609523632fe1e1482bd5d49f76862b737a0c025a94d47cf9\"",
   "head": {
-    "ref": "0.6.0_h152f94"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/umap-learn-feedstock/pull/54",
   "id": 5243329040,
   "labels": [],
-  "last_fetched": "2026-11-10T17:29:37.042666",
+  "last_fetched": "2026-11-11T13:17:21.959703",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T13:15:49Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-10T14:50:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T13:15:50Z"
 }

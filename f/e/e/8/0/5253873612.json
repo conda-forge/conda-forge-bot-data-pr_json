@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2aab7f801758f5b8f89e119261f456d253131282e2bf3dad23e1e7f71a150bc7\"",
-  "Last-Modified": "Wed, 11 Nov 2026 04:35:53 GMT",
+  "ETag": "\"52a9bc1c1bfaf535e0bb87b82c36ea89c0cea040387c7dd5c20604fea0b6b5b7\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:44:17 GMT",
   "base": {
     "repo": {
       "name": "certbot-dns-sakuracloud-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T10:44:17Z",
   "closed_by": null,
   "created_at": "2026-11-11T04:34:25Z",
   "draft": false,
   "e_tag": "\"07a3af36aab53c03a2d5210fdd44b981302e85447648c0cec203631e76550511\"",
   "head": {
-    "ref": "5.10.0_h2cef1e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/certbot-dns-sakuracloud-feedstock/pull/12",
   "id": 5253873612,
   "labels": [],
-  "last_fetched": "2026-11-11T05:27:47.763369",
+  "last_fetched": "2026-11-11T10:45:27.434674",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T10:44:17Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-11T04:35:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:44:17Z"
 }

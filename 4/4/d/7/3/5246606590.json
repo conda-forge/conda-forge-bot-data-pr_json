@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0df2f54df5e8be853017d1e9b8ea89b7b6e5e9b62b958c16dd79e928c823cc31\"",
-  "Last-Modified": "Tue, 10 Nov 2026 18:24:43 GMT",
+  "ETag": "\"d382a950fd3ab109681cc783635dc6384038f6a6a09ec4302922fb5b30b2b505\"",
+  "Last-Modified": "Wed, 11 Nov 2026 07:29:03 GMT",
   "base": {
     "repo": {
       "name": "spiralstrip-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T07:29:03Z",
   "closed_by": null,
   "created_at": "2026-11-10T18:23:10Z",
   "draft": false,
   "e_tag": "\"7dd501b4fd8eb63da7128ce9968cbfb8c41a530a9af096fa156c7362102490eb\"",
   "head": {
-    "ref": "2.0.4_h600007"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spiralstrip-feedstock/pull/1",
   "id": 5246606590,
   "labels": [],
-  "last_fetched": "2026-11-10T23:14:44.659822",
+  "last_fetched": "2026-11-11T07:30:33.544000",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T07:29:03Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-10T18:24:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T07:29:03Z"
 }

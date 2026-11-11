@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cb0ebc9be27371b74723e2156ac06278b62320d7589262881f88e0cbfdb16fb1\"",
-  "Last-Modified": "Tue, 27 Oct 2026 17:52:02 GMT",
+  "ETag": "\"18dbc7ea8387be93e6f20be9947dc2c71bf35c7088783a4438e1cb7889442ff8\"",
+  "Last-Modified": "Wed, 11 Nov 2026 11:46:56 GMT",
   "base": {
     "repo": {
       "name": "autode-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T11:46:56Z",
   "closed_by": null,
   "created_at": "2026-10-27T16:50:28Z",
   "draft": false,
   "e_tag": "\"de60df65151d1d0673f8d7152a37fe765d175cfe5329235e810efebe12ff9d57\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h8f6610"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/autode-feedstock/pull/55",
   "id": 5037790474,
   "labels": [],
-  "last_fetched": "2026-11-10T23:42:46.325496",
+  "last_fetched": "2026-11-11T11:48:33.918326",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T11:46:56Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-10-27T17:52:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T11:46:56Z"
 }

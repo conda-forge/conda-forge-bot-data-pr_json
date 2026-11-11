@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a3c84f6385bbe44ff965ce9bfbe7748701e6c690e0894c793c6acf3735fb65fa\"",
+  "Last-Modified": "Wed, 11 Nov 2026 02:41:37 GMT",
   "base": {
     "repo": {
       "name": "qtkeychain-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T02:41:37Z",
   "closed_by": null,
   "created_at": "2026-11-11T02:17:28Z",
   "draft": false,
   "e_tag": "\"13e1190bf8c58248a8c4fcc7e00b07b771fc3acbae2776017509d1019b9fdb75\"",
   "head": {
-    "ref": "0.18.0_hfe3374"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qtkeychain-feedstock/pull/33",
   "id": 5252576176,
   "labels": [],
-  "last_fetched": "2026-11-11T02:17:29.141529",
+  "last_fetched": "2026-11-11T02:42:57.652186",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T02:41:37Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-11T02:17:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T02:41:37Z"
 }

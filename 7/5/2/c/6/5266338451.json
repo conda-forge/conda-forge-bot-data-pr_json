@@ -1,11 +1,13 @@
 {
+  "ETag": "W/\"d76677700e232b53509bfbf10fca27d4e122e03741b9d139fe77aba128148cbb\"",
+  "Last-Modified": "Wed, 11 Nov 2026 22:17:09 GMT",
   "base": {
     "repo": {
       "name": "xmake-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-11T22:17:09Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-11T20:28:08Z",
   "draft": false,
   "e_tag": "\"86a8e58d4d09ab2c17f4d2b02c63952813f5672ca9a818a5a8dee8318d1869f8\"",
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/xmake-feedstock/pull/4",
   "id": 5266338451,
-  "labels": [],
-  "last_fetched": "2026-11-11T20:28:08.937887",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 11396218796,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOTLUtRM8AAAACp0R_rA",
+      "url": "https://api.github.com/repos/conda-forge/xmake-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-11T22:17:13.408416",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-11T20:28:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T22:17:09Z"
 }

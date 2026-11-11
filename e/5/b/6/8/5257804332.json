@@ -1,18 +1,18 @@
 {
-  "ETag": "\"1398fb38ec48c1fd00840f06b9855c2a6e6e954c88cd5d7a6e969f967f089141\"",
-  "Last-Modified": "Wed, 11 Nov 2026 10:40:32 GMT",
+  "ETag": "\"1de6b17d2af60fab1185d9b8518f6e05cf3d2d050ab45806b8cc29d350bd8f46\"",
+  "Last-Modified": "Wed, 11 Nov 2026 10:44:34 GMT",
   "base": {
     "repo": {
       "name": "ctapipe_io_zfits-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T10:44:34Z",
   "closed_by": null,
   "created_at": "2026-11-11T10:28:38Z",
   "draft": false,
   "e_tag": "\"a2b8cce5c830807df4737ed87a4e38987f002f61a1ef147cec66836a5081cb6a\"",
   "head": {
-    "ref": "0.7.0_hdf314a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ctapipe_io_zfits-feedstock/pull/14",
   "id": 5257804332,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/ctapipe_io_zfits-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-11T10:41:46.322955",
+  "last_fetched": "2026-11-11T10:46:10.220796",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T10:44:34Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-11T10:40:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T10:44:39Z"
 }

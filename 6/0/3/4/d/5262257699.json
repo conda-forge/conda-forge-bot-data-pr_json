@@ -1,27 +1,29 @@
 {
+  "ETag": "\"92d0eac6e43d44974f440ba32fa3f37fccdc4eecde3e87f7c744c26a1eff3300\"",
+  "Last-Modified": "Wed, 11 Nov 2026 15:37:12 GMT",
   "base": {
     "repo": {
       "name": "urwid-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T15:37:12Z",
   "closed_by": null,
   "created_at": "2026-11-11T15:35:29Z",
   "draft": false,
   "e_tag": "\"6054fbab918e23f56b0b5a2ad34eee82057911a7b93eceae2799265f711a1405\"",
   "head": {
-    "ref": "5.1.2_h14708b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/urwid-feedstock/pull/96",
   "id": 5262257699,
   "labels": [],
-  "last_fetched": "2026-11-11T15:35:30.160380",
+  "last_fetched": "2026-11-11T15:38:49.568313",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T15:37:12Z",
   "number": 96,
-  "state": "open",
-  "updated_at": "2026-11-11T15:35:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T15:37:12Z"
 }

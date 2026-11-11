@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e9bb12246d6d5688a6c7d3a5726e64242c69a5c3d6628ed24ca375d05dd52978\"",
-  "Last-Modified": "Tue, 10 Nov 2026 20:45:24 GMT",
+  "ETag": "\"ead20631b05d496517ae5521c8517c87af1c63397be7031812d857064e1474ce\"",
+  "Last-Modified": "Wed, 11 Nov 2026 14:19:08 GMT",
   "base": {
     "repo": {
       "name": "pyrtools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T14:19:08Z",
   "closed_by": null,
   "created_at": "2026-11-09T21:10:56Z",
   "draft": false,
   "e_tag": "\"e7f7e56caa6af54d03eef3ed6fcbc677d09bd5c3432be7e285d5815a4bd7ef47\"",
   "head": {
-    "ref": "1.2.0_hc29dbe"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyrtools-feedstock/pull/15",
   "id": 5231250780,
   "labels": [],
-  "last_fetched": "2026-11-10T23:27:39.879279",
+  "last_fetched": "2026-11-11T14:20:45.052448",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T14:19:08Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-10T20:45:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T14:19:08Z"
 }

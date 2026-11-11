@@ -1,6 +1,6 @@
 {
-  "ETag": "\"6fb24999935baee8e46cf5618f587efc4147e0776a484ef2aeefc99ece9e2769\"",
-  "Last-Modified": "Tue, 10 Nov 2026 23:48:50 GMT",
+  "ETag": "\"d730e9d223d6a80a12047c100682900a0b1ede1742c7d9e413eee0c7f074d430\"",
+  "Last-Modified": "Wed, 11 Nov 2026 18:43:08 GMT",
   "base": {
     "repo": {
       "name": "myst-parser-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/myst-parser-feedstock/pull/59",
   "id": 5250970306,
-  "labels": [],
-  "last_fetched": "2026-11-11T08:31:41.249873",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1899089405,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODk5MDg5NDA1",
+      "url": "https://api.github.com/repos/conda-forge/myst-parser-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-11T18:44:21.303475",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 59,
   "state": "open",
-  "updated_at": "2026-11-10T23:48:50Z"
+  "updated_at": "2026-11-11T18:43:08Z"
 }

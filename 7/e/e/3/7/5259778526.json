@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e6e137c6853b8b67639c119c59311fa8d61a08a3461a08df9fb1cd64aba48a31\"",
+  "Last-Modified": "Wed, 11 Nov 2026 13:00:03 GMT",
   "base": {
     "repo": {
       "name": "example-robot-data-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T12:59:58Z",
   "closed_by": null,
   "created_at": "2026-11-11T12:51:01Z",
   "draft": false,
   "e_tag": "\"41faa45304351f4db06cd1ca9e7ad6c71cb5d0b188d10ca00e025eeaf7b44af0\"",
   "head": {
-    "ref": "7.0.0_hb622f9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/example-robot-data-feedstock/pull/62",
   "id": 5259778526,
   "labels": [],
-  "last_fetched": "2026-11-11T12:51:02.103083",
+  "last_fetched": "2026-11-11T13:01:27.227582",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-11T12:59:58Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-11-11T12:51:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T13:00:03Z"
 }

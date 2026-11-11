@@ -1,29 +1,29 @@
 {
-  "ETag": "\"492987e38bbfa0cac931307479619aca8a2545ae5aa435d10dfabed77ca8f913\"",
-  "Last-Modified": "Wed, 11 Nov 2026 11:09:58 GMT",
+  "ETag": "\"3e79c0ce04ed960ed5d6242ffb2308d442c7327a37b640f6d66101f86a35f866\"",
+  "Last-Modified": "Wed, 11 Nov 2026 11:38:16 GMT",
   "base": {
     "repo": {
       "name": "rsync-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T11:38:15Z",
   "closed_by": null,
   "created_at": "2026-11-11T11:08:15Z",
   "draft": false,
   "e_tag": "\"f3024077ad5eb36bd22eee095b48688ccdcaac3a345e4b5f347d2629f4ccda59\"",
   "head": {
-    "ref": "rebuild-lz4_c111-0-1_h46c1c1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rsync-feedstock/pull/55",
   "id": 5258341805,
   "labels": [],
-  "last_fetched": "2026-11-11T11:17:18.385597",
+  "last_fetched": "2026-11-11T11:39:51.320136",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T11:38:15Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-11-11T11:09:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T11:38:16Z"
 }

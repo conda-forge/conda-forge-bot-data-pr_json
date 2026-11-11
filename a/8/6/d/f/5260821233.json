@@ -1,29 +1,29 @@
 {
-  "ETag": "\"de7679d7c0abe167e69abfa5d4c6673acd6faa7c0c5a5cef908be11de58a1cf9\"",
-  "Last-Modified": "Wed, 11 Nov 2026 14:03:10 GMT",
+  "ETag": "\"df6e39a29d0cbb6e2c800b182708cb665f716086e66fcce91c02e89aae6b1eb0\"",
+  "Last-Modified": "Wed, 11 Nov 2026 14:58:00 GMT",
   "base": {
     "repo": {
       "name": "blpapi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-11T14:58:00Z",
   "closed_by": null,
   "created_at": "2026-11-11T14:01:31Z",
   "draft": false,
   "e_tag": "\"46258f854222482f96d1108db706d1510d8d2a2ac593aa5ae0b68f672dfccbc8\"",
   "head": {
-    "ref": "3.26.10.1_h81875d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/blpapi-feedstock/pull/75",
   "id": 5260821233,
   "labels": [],
-  "last_fetched": "2026-11-11T14:41:54.615893",
+  "last_fetched": "2026-11-11T14:59:52.076868",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-11T14:58:00Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-11-11T14:03:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-11T14:58:00Z"
 }

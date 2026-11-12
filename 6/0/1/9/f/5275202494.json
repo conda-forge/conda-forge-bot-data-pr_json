@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b81d4d27925add4867cfd9cdbb3d6372c04ac6667d552816fa98807591125d05\"",
-  "Last-Modified": "Thu, 12 Nov 2026 09:53:38 GMT",
+  "ETag": "\"6651e98fa2c729f9353335f159a1807172315e3f3a313e8be73f664a4cf04a88\"",
+  "Last-Modified": "Thu, 12 Nov 2026 14:36:52 GMT",
   "base": {
     "repo": {
       "name": "send2trash-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T14:36:51Z",
   "closed_by": null,
   "created_at": "2026-11-12T09:52:00Z",
   "draft": false,
   "e_tag": "\"0d52759bd6f70fa9e9bbeb09cdfea266e4c2f51d323d545560321bc11d468b1e\"",
   "head": {
-    "ref": "2.2.0_h4cf4ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/send2trash-feedstock/pull/11",
   "id": 5275202494,
   "labels": [],
-  "last_fetched": "2026-11-12T12:46:20.206395",
+  "last_fetched": "2026-11-12T14:38:21.818024",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T14:36:51Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-12T09:53:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T14:36:52Z"
 }

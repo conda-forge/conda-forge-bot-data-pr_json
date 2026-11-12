@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cb9d3143bc83ab31962f9087957eb8371bf1afd082801285c0869dc31b5d1534\"",
+  "Last-Modified": "Thu, 12 Nov 2026 20:21:44 GMT",
   "base": {
     "repo": {
       "name": "libsemigroups-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T20:21:44Z",
   "closed_by": null,
   "created_at": "2026-11-12T18:17:27Z",
   "draft": false,
   "e_tag": "\"e8de7009f984c32805a9a3339cc30316efa13a4326a30f3846dec8e39e1da0f8\"",
   "head": {
-    "ref": "3.6.2_hc67769"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libsemigroups-feedstock/pull/111",
   "id": 5282826496,
   "labels": [],
-  "last_fetched": "2026-11-12T18:17:28.099505",
+  "last_fetched": "2026-11-12T20:22:55.365798",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T20:21:44Z",
   "number": 111,
-  "state": "open",
-  "updated_at": "2026-11-12T18:17:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T20:21:49Z"
 }

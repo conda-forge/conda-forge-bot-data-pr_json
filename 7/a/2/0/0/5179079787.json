@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a3916da5b250e384b9b30c3967043a74c4153eb3b0045558c545ff0c18999b74\"",
-  "Last-Modified": "Thu, 05 Nov 2026 21:37:13 GMT",
+  "ETag": "\"ddfdb85730f33e010f7d66221bafc81df7d5af0b3408cf1110bd439f17bda6b8\"",
+  "Last-Modified": "Thu, 12 Nov 2026 18:34:36 GMT",
   "base": {
     "repo": {
       "name": "pytmc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T18:34:36Z",
   "closed_by": null,
   "created_at": "2026-11-05T21:35:36Z",
   "draft": false,
   "e_tag": "\"20dffdea98ca67e84be8054e80b077050584f010f251074253fcaa42ba1a0420\"",
   "head": {
-    "ref": "2.24.0_h431337"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytmc-feedstock/pull/48",
   "id": 5179079787,
   "labels": [],
-  "last_fetched": "2026-11-06T00:52:39.744948",
+  "last_fetched": "2026-11-12T18:36:16.674685",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T18:34:36Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-11-05T21:37:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T18:34:36Z"
 }

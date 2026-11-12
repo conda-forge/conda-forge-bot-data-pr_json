@@ -1,12 +1,13 @@
 {
-  "ETag": "\"26b33934f20e4343fdc9b4a3245be9011dd3d9e0d285586e62a0dd1140fb639e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"8ee0f95806557fcaf79ddaff20ad46c15e651e39813a39b9bfce991ecaaf0e80\"",
+  "Last-Modified": "Thu, 12 Nov 2026 17:37:21 GMT",
   "base": {
     "repo": {
       "name": "coredns-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T17:37:21Z",
+  "closed_by": "zplizzi",
   "created_at": "2026-02-06T13:38:44Z",
   "draft": false,
   "e_tag": "\"b854be7ac52a90cce89cbbb8dfa83e17552da87d41cc2a475118034a4df7dc2f\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/coredns-feedstock/pull/34",
   "id": 3254784589,
   "labels": [],
-  "last_fetched": "2026-11-08T08:42:44.684181",
+  "last_fetched": "2026-11-12T17:38:42.576801",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-02-06T13:40:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T17:37:21Z"
 }

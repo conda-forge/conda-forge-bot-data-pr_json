@@ -1,12 +1,13 @@
 {
-  "ETag": "\"78033f3a00d63f1a08ca4bde89b16128c69461131fc4e30dc8c23b8d6fd2a63c\"",
-  "Last-Modified": "Tue, 22 Sep 2026 05:30:59 GMT",
+  "ETag": "W/\"4e31de4d2207f6674a5ba45d6e5c931e667e174f90b5642c43509d2322a28712\"",
+  "Last-Modified": "Thu, 12 Nov 2026 09:15:40 GMT",
   "base": {
     "repo": {
       "name": "arch-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T09:15:40Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-22T05:29:11Z",
   "draft": false,
   "e_tag": "\"88b266d6378f18faddfee319372a9d4a6ebb1242faad167ef054baa0bae78b1e\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/arch-py-feedstock/pull/56",
   "id": 4598763015,
-  "labels": [],
-  "last_fetched": "2026-11-11T05:19:09.890559",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1688913764,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxNjg4OTEzNzY0",
+      "url": "https://api.github.com/repos/conda-forge/arch-py-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-12T09:15:43.737110",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-09-22T05:30:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T09:15:40Z"
 }

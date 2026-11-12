@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b6cb16f3015fcb57cca57fded07d41f8bcc6a5b6fd324b609aaf03a284dc41ce\"",
-  "Last-Modified": "Thu, 12 Nov 2026 11:44:06 GMT",
+  "ETag": "\"8133c8def09562707544d78121992060d25e079b68557103b581c6fe6e672a1f\"",
+  "Last-Modified": "Thu, 12 Nov 2026 14:51:45 GMT",
   "base": {
     "repo": {
       "name": "rocksdb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T14:51:45Z",
   "closed_by": null,
   "created_at": "2026-11-12T11:42:27Z",
   "draft": false,
   "e_tag": "\"ff1d028f7a8e187d8fa448a1977877bf4436b0e44331388f78d40ec55952469e\"",
   "head": {
-    "ref": "rebuild-lz4_c111-0-1_hf9ca5e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rocksdb-feedstock/pull/134",
   "id": 5276736523,
   "labels": [],
-  "last_fetched": "2026-11-12T13:29:36.687918",
+  "last_fetched": "2026-11-12T14:53:02.468564",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T14:51:45Z",
   "number": 134,
-  "state": "open",
-  "updated_at": "2026-11-12T11:44:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T14:51:45Z"
 }

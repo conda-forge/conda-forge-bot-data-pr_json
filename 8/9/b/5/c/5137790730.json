@@ -1,6 +1,6 @@
 {
-  "ETag": "\"2593f7885df722b9d98ac8f89bbb9ddf9cf7ff9e8a3174d8a984de279322dd0a\"",
-  "Last-Modified": "Thu, 12 Nov 2026 06:28:49 GMT",
+  "ETag": "\"d055cc196f04392db751ced08e67763191ac629ba2728ac09d3b388cb08f1723\"",
+  "Last-Modified": "Thu, 12 Nov 2026 22:37:55 GMT",
   "base": {
     "repo": {
       "name": "flang-rt-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/flang-rt-feedstock/pull/34",
   "id": 5137790730,
-  "labels": [],
-  "last_fetched": "2026-11-12T07:59:09.797582",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8431123947,
+      "name": "automerge",
+      "node_id": "LA_kwDOOW6NWc8AAAAB9oi96w",
+      "url": "https://api.github.com/repos/conda-forge/flang-rt-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-12T22:39:36.149126",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 34,
   "state": "open",
-  "updated_at": "2026-11-12T06:28:49Z"
+  "updated_at": "2026-11-12T22:37:55Z"
 }

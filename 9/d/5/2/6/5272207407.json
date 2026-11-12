@@ -1,29 +1,41 @@
 {
-  "ETag": "\"82d9263c28ee855d098a15f6ec9f530ad163ca85405fe7bd5c12412903798369\"",
-  "Last-Modified": "Thu, 12 Nov 2026 05:42:25 GMT",
+  "ETag": "\"515328f8c38fc29d9eb2c574f229cb7039c75f69b8e565354f700564d9f0b791\"",
+  "Last-Modified": "Thu, 12 Nov 2026 15:44:11 GMT",
   "base": {
     "repo": {
       "name": "spaday-codemirror-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T15:44:06Z",
   "closed_by": null,
   "created_at": "2026-11-12T05:40:55Z",
   "draft": false,
   "e_tag": "\"d0adec81831739bd7e18142106432c43d56e45bdfde90e19feb4f7cb0d9ff92b\"",
   "head": {
-    "ref": "0.2.1_hfc76c3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spaday-codemirror-feedstock/pull/3",
   "id": 5272207407,
-  "labels": [],
-  "last_fetched": "2026-11-12T05:43:48.245181",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12264230940,
+      "name": "automerge",
+      "node_id": "LA_kwDOUhYaZ88AAAAC2wFQHA",
+      "url": "https://api.github.com/repos/conda-forge/spaday-codemirror-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-12T15:44:32.681316",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T15:44:06Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-11-12T05:42:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T15:44:11Z"
 }

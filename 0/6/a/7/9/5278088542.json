@@ -1,27 +1,29 @@
 {
+  "ETag": "\"28fa0508a758e25ebd49a5f5b4fe12deaaffec92e746b1ec9bcccf4bbd70a031\"",
+  "Last-Modified": "Thu, 12 Nov 2026 13:18:48 GMT",
   "base": {
     "repo": {
       "name": "docker-squash-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T13:18:43Z",
   "closed_by": null,
   "created_at": "2026-11-12T13:16:30Z",
   "draft": false,
   "e_tag": "\"031de9029c02549bd80a9d5977b4e17716f71cc0161387a5728fd29a4df8ec8b\"",
   "head": {
-    "ref": "1.3.0_heae0f5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/docker-squash-feedstock/pull/12",
   "id": 5278088542,
   "labels": [],
-  "last_fetched": "2026-11-12T13:16:32.082623",
+  "last_fetched": "2026-11-12T13:20:11.469028",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T13:18:43Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-12T13:16:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T13:18:48Z"
 }

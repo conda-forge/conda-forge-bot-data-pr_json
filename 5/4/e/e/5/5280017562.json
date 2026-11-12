@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dba1336ebaa7d76f3aa75774ba344dfe788f0fd12cf386d2cb2700b4e1c779ab\"",
+  "Last-Modified": "Thu, 12 Nov 2026 15:22:16 GMT",
   "base": {
     "repo": {
       "name": "grpc-bazel-rules-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T15:22:12Z",
   "closed_by": null,
   "created_at": "2026-11-12T15:17:53Z",
   "draft": false,
   "e_tag": "\"e04b1c170f843983bc2f1957a1b062634cfe2a663c5e3560942f371a1cbb3548\"",
   "head": {
-    "ref": "1.85.2_he9c310"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/grpc-bazel-rules-feedstock/pull/35",
   "id": 5280017562,
   "labels": [],
-  "last_fetched": "2026-11-12T15:17:54.019842",
+  "last_fetched": "2026-11-12T16:42:38.233007",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T15:22:12Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-11-12T15:17:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T15:22:16Z"
 }

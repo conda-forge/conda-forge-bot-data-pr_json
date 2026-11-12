@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cdcf66bd24df320c8b2b2a625524001605cc575c87f32bee644629dbe9e5bfc1\"",
-  "Last-Modified": "Tue, 10 Nov 2026 03:15:49 GMT",
+  "ETag": "\"abadda94874c02c77648b7d2dc2a1f237363a63caba7e7320093788b27ae26c3\"",
+  "Last-Modified": "Thu, 12 Nov 2026 16:20:59 GMT",
   "base": {
     "repo": {
       "name": "tornado-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T16:20:58Z",
   "closed_by": null,
   "created_at": "2026-11-10T03:14:17Z",
   "draft": false,
   "e_tag": "\"1896e8230c1815616cc6f2b42e23faa88c88db2b421fd0066b049818765c6251\"",
   "head": {
-    "ref": "6.6.1_h84b3d1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tornado-feedstock/pull/90",
   "id": 5235138293,
   "labels": [],
-  "last_fetched": "2026-11-10T03:29:19.669882",
+  "last_fetched": "2026-11-12T16:22:38.591397",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T16:20:58Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-11-10T03:15:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T16:20:59Z"
 }

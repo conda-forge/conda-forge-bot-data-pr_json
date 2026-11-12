@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3eb3a2dc115d4be7dc6f9383a67db385d78ec2f998f37d85a4d6778a5bd0f9b2\"",
-  "Last-Modified": "Thu, 12 Nov 2026 02:45:50 GMT",
+  "ETag": "\"04e37f9251f76813c4cae9ee7563ca3cbe7602881ef98f30f8d3c7d7a328aa0a\"",
+  "Last-Modified": "Thu, 12 Nov 2026 08:00:47 GMT",
   "base": {
     "repo": {
       "name": "flyctl-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/flyctl-feedstock/pull/98",
   "id": 5270376468,
-  "labels": [],
-  "last_fetched": "2026-11-12T05:59:51.665260",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10758522190,
+      "name": "automerge",
+      "node_id": "LA_kwDOSJaNVM8AAAACgUIFTg",
+      "url": "https://api.github.com/repos/conda-forge/flyctl-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-12T08:02:17.738057",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 98,
   "state": "open",
-  "updated_at": "2026-11-12T02:45:50Z"
+  "updated_at": "2026-11-12T08:00:47Z"
 }

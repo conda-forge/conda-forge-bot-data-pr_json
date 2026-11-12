@@ -1,5 +1,5 @@
 {
-  "ETag": "\"49fed15c263e4be342c7f75030b9e4171172de00dab384d5366b8e91b8bb524f\"",
+  "ETag": "W/\"bb9938f5d98c7692a2f9a6125843ad0d85f5dd73511206c684e80c8026236233\"",
   "Last-Modified": "Thu, 12 Nov 2026 04:42:46 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/openssh-feedstock/pull/44",
   "id": 4765207499,
-  "labels": [],
-  "last_fetched": "2026-11-12T04:44:12.739174",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-12T04:42:48.582320",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

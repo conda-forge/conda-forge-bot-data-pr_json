@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e941962bfa1be73b9c4256fb0bddff4b5d9e7122a1df066c66e743ec9990adde\"",
-  "Last-Modified": "Thu, 12 Nov 2026 11:30:55 GMT",
+  "ETag": "\"32167e2b4d80429a1534e6f33857fe9e40ecdffaba05ff2ab604294fe1525e97\"",
+  "Last-Modified": "Thu, 12 Nov 2026 16:21:08 GMT",
   "base": {
     "repo": {
       "name": "runai-model-streamer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T16:21:08Z",
   "closed_by": null,
   "created_at": "2026-11-12T11:30:54Z",
   "draft": false,
   "e_tag": "\"aab11253363847ce14f88b42366970cb1fe732a81790b925813aef160344bbcf\"",
   "head": {
-    "ref": "0.17.3_hece975"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/runai-model-streamer-feedstock/pull/9",
   "id": 5276562967,
   "labels": [],
-  "last_fetched": "2026-11-12T13:27:43.825763",
+  "last_fetched": "2026-11-12T16:22:40.255831",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T16:21:08Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-12T11:32:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T16:21:08Z"
 }

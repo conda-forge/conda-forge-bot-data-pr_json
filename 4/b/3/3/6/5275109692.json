@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e4ac07f18dfc643d4dce7ccf6bdeecbf2391647ff6a9ce22a3f6c5661cd126fb\"",
+  "Last-Modified": "Thu, 12 Nov 2026 10:09:55 GMT",
   "base": {
     "repo": {
       "name": "cashocs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T10:09:51Z",
   "closed_by": null,
   "created_at": "2026-11-12T09:44:59Z",
   "draft": false,
   "e_tag": "\"8955d80445079edac6afd2fb05cbec1564b08c7daf5dc43625038ae98c57178c\"",
   "head": {
-    "ref": "2.11.1_hfcd719"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cashocs-feedstock/pull/129",
   "id": 5275109692,
   "labels": [],
-  "last_fetched": "2026-11-12T09:45:00.276160",
+  "last_fetched": "2026-11-12T10:11:21.682133",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T10:09:51Z",
   "number": 129,
-  "state": "open",
-  "updated_at": "2026-11-12T09:44:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T10:09:55Z"
 }

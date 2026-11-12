@@ -1,29 +1,29 @@
 {
-  "ETag": "\"34d605525e5893288970b4529db8f15c5c4b28ada3fb2b8c910c162417e2355a\"",
-  "Last-Modified": "Wed, 11 Nov 2026 21:00:47 GMT",
+  "ETag": "\"d9ec890bee3819a6d05c1856041222a434735c5efa10013757893b790474174b\"",
+  "Last-Modified": "Thu, 12 Nov 2026 00:11:33 GMT",
   "base": {
     "repo": {
       "name": "cbflib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T00:11:33Z",
   "closed_by": null,
   "created_at": "2026-11-07T10:50:37Z",
   "draft": false,
   "e_tag": "\"739e18f2783ba89f8826843853497d62ac88501a337ea64fe82a4aba27089b8f\"",
   "head": {
-    "ref": "rebuild-pcre21049-0-1_h8f83ba"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cbflib-feedstock/pull/10",
   "id": 5200851470,
   "labels": [],
-  "last_fetched": "2026-11-11T21:20:20.718997",
+  "last_fetched": "2026-11-12T00:13:13.894483",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T00:11:33Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-11T21:00:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T00:11:33Z"
 }

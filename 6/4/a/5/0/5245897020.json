@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b0da5fbe7088aee6445eda1e2e3ebbf0e90bb521e21c11122c89c05981c402c8\"",
-  "Last-Modified": "Tue, 10 Nov 2026 17:36:14 GMT",
+  "ETag": "\"f1aa6386574688a0c6766b38f458780fe90f5efed1a8be68c8d5f94c5923b64d\"",
+  "Last-Modified": "Thu, 12 Nov 2026 13:54:55 GMT",
   "base": {
     "repo": {
       "name": "healpix_cxx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T13:54:55Z",
   "closed_by": null,
   "created_at": "2026-11-10T17:34:37Z",
   "draft": false,
   "e_tag": "\"b44eefe0cb78f5812c798106a96de29eb12c6eebee13b50dc8c52d64718fa886\"",
   "head": {
-    "ref": "rebuild-cfitsio470-0-1_h723c96"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/healpix_cxx-feedstock/pull/42",
   "id": 5245897020,
   "labels": [],
-  "last_fetched": "2026-11-10T18:19:57.932979",
+  "last_fetched": "2026-11-12T13:56:19.141523",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T13:54:55Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-11-10T17:36:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T13:54:55Z"
 }

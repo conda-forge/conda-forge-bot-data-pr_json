@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cc4a1fedf809883dae6e11cdbbf9b9f473757c7146e6dd873fbc6380184d0d65\"",
+  "Last-Modified": "Thu, 12 Nov 2026 07:30:27 GMT",
   "base": {
     "repo": {
       "name": "pydantic-monty-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T07:30:23Z",
   "closed_by": null,
   "created_at": "2026-11-12T06:52:34Z",
   "draft": false,
   "e_tag": "\"1dd7e5ca14e75998e0c091916b0ec7a4cd46730ade2336461328387239970489\"",
   "head": {
-    "ref": "1.6.0_h48735f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pydantic-monty-feedstock/pull/35",
   "id": 5272980202,
   "labels": [],
-  "last_fetched": "2026-11-12T06:52:35.672582",
+  "last_fetched": "2026-11-12T07:31:41.010182",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T07:30:23Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-11-12T06:52:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T07:30:27Z"
 }

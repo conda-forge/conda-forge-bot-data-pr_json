@@ -1,5 +1,5 @@
 {
-  "ETag": "\"946092fdcaddfaeb6bca43cb41d98da4b79569baea4152aa9bb850672a6f66f2\"",
+  "ETag": "\"512544200c0b5e12fce30731aca08d026d2a0dd5001ef3df8799ccbe98a6fe97\"",
   "Last-Modified": "Thu, 05 Nov 2026 20:21:08 GMT",
   "base": {
     "repo": {
@@ -12,15 +12,19 @@
   "draft": false,
   "e_tag": "\"eb335d82647ebabed31327092b0ff3bc821ec8c4fdefa78f1ba0b5cc9d5d8af6\"",
   "head": {
-    "ref": "rebuild-azure_core_cpp1164-0-1_hc2ce60"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arcticdb-feedstock/pull/631",
   "id": 5168191217,
-  "labels": [],
-  "last_fetched": "2026-11-05T20:23:00.184081",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-12T22:18:58.039886",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 631,

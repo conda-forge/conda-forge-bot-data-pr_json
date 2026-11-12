@@ -1,18 +1,18 @@
 {
-  "ETag": "\"df44055f02abf0b484f9db35246579fa94d1f4949102b5d46c0c82ebc181aadc\"",
-  "Last-Modified": "Thu, 12 Nov 2026 15:30:15 GMT",
+  "ETag": "\"ff49f8a7aba47b52424698cb8222e3db0c16a520d7262ebf7d74a9b8badbaea9\"",
+  "Last-Modified": "Thu, 12 Nov 2026 15:40:22 GMT",
   "base": {
     "repo": {
       "name": "spaday-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T15:40:17Z",
   "closed_by": null,
   "created_at": "2026-11-12T05:34:44Z",
   "draft": false,
   "e_tag": "\"ba43c2abe6c5e45334a14d811e7152035de8e350adfac610c5b617ac9d4150b3\"",
   "head": {
-    "ref": "0.14.0_hd0f27d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spaday-feedstock/pull/38",
   "id": 5272150555,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/spaday-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-12T15:31:01.152836",
+  "last_fetched": "2026-11-12T15:41:51.939500",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T15:40:17Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-12T15:30:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T15:40:22Z"
 }

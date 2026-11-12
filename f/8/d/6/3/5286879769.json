@@ -1,27 +1,29 @@
 {
+  "ETag": "\"abf8c66ea725b9a39a1372ab1b55aac9c0081de81b1df2d9f7d69a8e5f14dc43\"",
+  "Last-Modified": "Thu, 12 Nov 2026 23:20:27 GMT",
   "base": {
     "repo": {
       "name": "aws_lambda_builders-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T23:20:23Z",
   "closed_by": null,
   "created_at": "2026-11-12T23:17:32Z",
   "draft": false,
   "e_tag": "\"29c1a295c55239f0774302e8f228444b8c7ed4ac900410453d56ab70229b8896\"",
   "head": {
-    "ref": "1.69.0_hec16c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws_lambda_builders-feedstock/pull/71",
   "id": 5286879769,
   "labels": [],
-  "last_fetched": "2026-11-12T23:17:33.676101",
+  "last_fetched": "2026-11-12T23:21:53.224357",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T23:20:23Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-11-12T23:17:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T23:20:27Z"
 }

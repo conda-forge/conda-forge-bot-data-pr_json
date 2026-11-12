@@ -1,29 +1,29 @@
 {
-  "ETag": "\"654e7d2c7d581eb53aa142a7629bee4420e917ccab741f9138248456dde98ad3\"",
-  "Last-Modified": "Thu, 12 Nov 2026 11:38:14 GMT",
+  "ETag": "\"53358b7a0bae9ecb2e74df30efc4e21d06fcc2d49064dfafb62b1ce09a6fdce5\"",
+  "Last-Modified": "Thu, 12 Nov 2026 18:57:05 GMT",
   "base": {
     "repo": {
       "name": "julia-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T18:57:05Z",
   "closed_by": null,
   "created_at": "2026-11-12T11:36:36Z",
   "draft": false,
   "e_tag": "\"bc270d6c81c5c742eba1a29d4e2f29edbdd989d0e07386f78165cbd6f2464c2a\"",
   "head": {
-    "ref": "rebuild-pcre21049-0-1_h489f8a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/julia-feedstock/pull/318",
   "id": 5276649994,
   "labels": [],
-  "last_fetched": "2026-11-12T14:58:59.919511",
+  "last_fetched": "2026-11-12T18:58:46.890743",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T18:57:05Z",
   "number": 318,
-  "state": "open",
-  "updated_at": "2026-11-12T11:38:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T18:57:05Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"803fef5f953fbb7565a46c910218aec2d364b7fdae35f269b6a4711593071cee\"",
-  "Last-Modified": "Thu, 12 Nov 2026 01:54:20 GMT",
+  "ETag": "W/\"4931098366f5956e2bef3c69d6cc9250920a70e207d6d5fc4c1302598aee3702\"",
+  "Last-Modified": "Thu, 12 Nov 2026 09:14:41 GMT",
   "base": {
     "repo": {
       "name": "google-ads-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T09:14:41Z",
   "closed_by": null,
   "created_at": "2026-11-12T01:52:46Z",
   "draft": false,
   "e_tag": "\"68e6d300fc1a36fc58056ef3dd6490f5eaecf9b3d6d9c3a1ed99565f47bc401b\"",
   "head": {
-    "ref": "35.1.0_h046f08"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-ads-feedstock/pull/61",
   "id": 5269871093,
   "labels": [],
-  "last_fetched": "2026-11-12T03:19:01.721349",
+  "last_fetched": "2026-11-12T09:15:44.212748",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T09:14:41Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-12T01:54:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T09:14:41Z"
 }

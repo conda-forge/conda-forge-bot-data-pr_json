@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4fab6d9e52bb49576559456b0c5685a9552736d0917c611d535fa9fc2a0e1200\"",
-  "Last-Modified": "Wed, 11 Nov 2026 18:04:20 GMT",
+  "ETag": "\"ce29cb5f334713399149e7a794a3ed64cda1d75a80f1d451c65a0c3223a70a3b\"",
+  "Last-Modified": "Thu, 12 Nov 2026 09:07:25 GMT",
   "base": {
     "repo": {
       "name": "impit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T09:07:25Z",
   "closed_by": null,
   "created_at": "2026-11-11T18:02:54Z",
   "draft": false,
   "e_tag": "\"faae35c9f688356892d205d246f364bef0e5da2c8fb5eb6f7c46f47182999944\"",
   "head": {
-    "ref": "0.15.3_hd58951"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/impit-feedstock/pull/12",
   "id": 5264406412,
   "labels": [],
-  "last_fetched": "2026-11-12T00:38:59.715771",
+  "last_fetched": "2026-11-12T09:09:18.003939",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T09:07:25Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-11T18:04:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T09:07:25Z"
 }

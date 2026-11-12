@@ -1,13 +1,13 @@
 {
-  "ETag": "\"25e38b6bf0890038c28a425a6866815927137eb6b5d0b13185a8cac18516dfc6\"",
-  "Last-Modified": "Tue, 10 Nov 2026 22:18:38 GMT",
+  "ETag": "W/\"5d60ac261741591931a783d27a0b44bce4711b66c5ebf749fdd4086095187b45\"",
+  "Last-Modified": "Thu, 12 Nov 2026 10:12:22 GMT",
   "base": {
     "repo": {
       "name": "hv-anndata-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-12T10:12:22Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-10T22:16:04Z",
   "draft": false,
   "e_tag": "\"f915684912b88a26aeb4b3cc8a18bab8b7124c132a93211dd1ba3588d6e57616\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/hv-anndata-feedstock/pull/2",
   "id": 5249874030,
-  "labels": [],
-  "last_fetched": "2026-11-10T23:58:03.257539",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 12870677594,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOVapxbc8AAAAC_yb0Wg",
+      "url": "https://api.github.com/repos/conda-forge/hv-anndata-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-12T10:12:25.760833",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-10T22:18:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T10:12:22Z"
 }

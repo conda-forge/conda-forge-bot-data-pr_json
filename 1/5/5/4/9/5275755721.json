@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5c75efc801bf049365ea5708069bb200b6b2f01f71aaa024492c0e59ecaa88d1\"",
-  "Last-Modified": "Thu, 12 Nov 2026 12:08:36 GMT",
+  "ETag": "\"66154163ec6601671f3522cd57cff9d226db9ccd670c1a6dd6b5bcbee42da5f3\"",
+  "Last-Modified": "Thu, 12 Nov 2026 14:01:46 GMT",
   "base": {
     "repo": {
       "name": "code-aster-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T14:01:46Z",
   "closed_by": null,
   "created_at": "2026-11-12T10:31:44Z",
   "draft": false,
   "e_tag": "\"99d29b6cf9e9eef7ae3496f85185b7fd9bd3d06d6ff5a96442e3bbf953f5780e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h3bd3f7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/code-aster-feedstock/pull/198",
   "id": 5275755721,
   "labels": [],
-  "last_fetched": "2026-11-12T12:45:05.768770",
+  "last_fetched": "2026-11-12T14:03:24.649274",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T14:01:46Z",
   "number": 198,
-  "state": "open",
-  "updated_at": "2026-11-12T12:08:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T14:01:46Z"
 }

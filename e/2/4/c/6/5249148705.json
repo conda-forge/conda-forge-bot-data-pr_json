@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5dd992e7d162fad2b929f2d6d03f4affc7bb4fe785880fdebd63a422846d386b\"",
-  "Last-Modified": "Thu, 12 Nov 2026 16:18:50 GMT",
+  "ETag": "W/\"1210751c9d5077a43ce02a016f2ac7bb08bcfe36bfb12a2962b390a466b44b94\"",
+  "Last-Modified": "Thu, 12 Nov 2026 19:38:15 GMT",
   "base": {
     "repo": {
       "name": "go-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T19:38:15Z",
   "closed_by": null,
   "created_at": "2026-11-10T21:23:34Z",
   "draft": false,
   "e_tag": "\"4979de7f87aa355ca490aec8fe6f54c4d6ad8561788ac1411aec16dff29245a6\"",
   "head": {
-    "ref": "1.27.4_habfbc8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/go-feedstock/pull/365",
   "id": 5249148705,
   "labels": [],
-  "last_fetched": "2026-11-12T18:22:16.658849",
+  "last_fetched": "2026-11-12T19:39:19.423488",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T19:38:15Z",
   "number": 365,
-  "state": "open",
-  "updated_at": "2026-11-12T16:18:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T19:38:15Z"
 }

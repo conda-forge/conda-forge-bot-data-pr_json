@@ -1,12 +1,13 @@
 {
-  "ETag": "\"672048db91030d2d985ef8fc1eac3b9ad1bffb181c4ca9367972bc3dec03e75a\"",
-  "Last-Modified": "Mon, 07 Sep 2026 19:42:07 GMT",
+  "ETag": "\"d1e6f52c36820513eee8b75ed788d758d946d3c9774b29fe8b013c3c9b953ba9\"",
+  "Last-Modified": "Thu, 12 Nov 2026 04:19:30 GMT",
   "base": {
     "repo": {
       "name": "mvapich-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T04:19:29Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-07T19:40:08Z",
   "draft": false,
   "e_tag": "\"2b1b749fd4f3592a7371b3a317a254748a97cb5d62c5f7ab4c333f34ccf88eea\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/mvapich-feedstock/pull/62",
   "id": 4467274613,
   "labels": [],
-  "last_fetched": "2026-11-05T03:45:00.002386",
+  "last_fetched": "2026-11-12T04:20:42.416951",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-09-07T19:42:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T04:19:30Z"
 }

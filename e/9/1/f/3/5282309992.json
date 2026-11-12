@@ -1,4 +1,6 @@
 {
+  "ETag": "\"1a6dc220916b11b9f408ad02a75046b7c5256798acae6cbaab2b27f7a664cd87\"",
+  "Last-Modified": "Thu, 12 Nov 2026 18:18:33 GMT",
   "base": {
     "repo": {
       "name": "yosys-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/yosys-feedstock/pull/58",
   "id": 5282309992,
-  "labels": [],
-  "last_fetched": "2026-11-12T17:41:39.987207",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5800323546,
+      "name": "automerge",
+      "node_id": "LA_kwDOKCYJi88AAAABWbnp2g",
+      "url": "https://api.github.com/repos/conda-forge/yosys-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-12T18:20:08.865188",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 58,
   "state": "open",
-  "updated_at": "2026-11-12T17:41:38Z"
+  "updated_at": "2026-11-12T18:18:33Z"
 }

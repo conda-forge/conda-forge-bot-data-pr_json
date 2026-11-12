@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6476a9a3ce2fdf46be7e850853a87942194d5e45f9035c0648445c4891c33d56\"",
-  "Last-Modified": "Thu, 12 Nov 2026 03:09:50 GMT",
+  "ETag": "\"867acf0c23e3952e01bf43bd10d50d0d0f60109bc906642546b46af333d2d581\"",
+  "Last-Modified": "Thu, 12 Nov 2026 19:58:46 GMT",
   "base": {
     "repo": {
       "name": "pyee-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T19:58:45Z",
   "closed_by": null,
   "created_at": "2026-11-12T03:08:11Z",
   "draft": false,
   "e_tag": "\"9ff1d0c586b13e97e8315f956ae225281138c1975afead6b941e54955dbb658b\"",
   "head": {
-    "ref": "16.0.2_ha8dffe"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyee-feedstock/pull/38",
   "id": 5270683082,
   "labels": [],
-  "last_fetched": "2026-11-12T04:42:56.846878",
+  "last_fetched": "2026-11-12T20:00:20.435974",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T19:58:45Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-12T03:09:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T19:58:46Z"
 }

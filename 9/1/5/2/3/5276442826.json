@@ -1,6 +1,6 @@
 {
-  "ETag": "\"738a62629a1bcc18b8108475728e5564caa2bf0267f3ee2c75f85090a52542ce\"",
-  "Last-Modified": "Thu, 12 Nov 2026 11:24:30 GMT",
+  "ETag": "\"22a815000bb5e857fa2723a5060d8b0ece95e4182c34b02c3b4c43f55e38826a\"",
+  "Last-Modified": "Thu, 12 Nov 2026 15:43:27 GMT",
   "base": {
     "repo": {
       "name": "raydar-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/raydar-feedstock/pull/15",
   "id": 5276442826,
-  "labels": [],
-  "last_fetched": "2026-11-12T11:58:24.975641",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6831021091,
+      "name": "automerge",
+      "node_id": "LA_kwDOLu_hM88AAAABlykcIw",
+      "url": "https://api.github.com/repos/conda-forge/raydar-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-12T15:45:18.625994",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 15,
   "state": "open",
-  "updated_at": "2026-11-12T11:24:30Z"
+  "updated_at": "2026-11-12T15:43:27Z"
 }

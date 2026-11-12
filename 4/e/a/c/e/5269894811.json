@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f7e4d02e0edd16fd4162cc76ebe4bbb3c5ae4396b758d3e4ba9da444a26d1ca5\"",
-  "Last-Modified": "Thu, 12 Nov 2026 01:56:36 GMT",
+  "ETag": "\"9cc3293d5fb8f1b6019e4844935a92ba1a2ace8d2c20bc2f50997cba16a42164\"",
+  "Last-Modified": "Thu, 12 Nov 2026 23:37:35 GMT",
   "base": {
     "repo": {
       "name": "setuptools-git-versioning-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T23:37:35Z",
   "closed_by": null,
   "created_at": "2026-11-12T01:54:52Z",
   "draft": false,
   "e_tag": "\"6600cd7b6bdaf4ad6d6e72b0d574668c0488dd9207067d2108bfe9de0155a026\"",
   "head": {
-    "ref": "3.2.1_h6d7e9e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/setuptools-git-versioning-feedstock/pull/16",
   "id": 5269894811,
   "labels": [],
-  "last_fetched": "2026-11-12T07:42:56.577496",
+  "last_fetched": "2026-11-12T23:38:52.603412",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T23:37:35Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-12T01:56:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T23:37:35Z"
 }

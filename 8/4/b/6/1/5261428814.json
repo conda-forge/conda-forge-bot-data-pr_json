@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9fbcae4705d7a7ea07d5f7d57f927fa2db0e7935549c69983554576c3b2c1d29\"",
-  "Last-Modified": "Wed, 11 Nov 2026 14:41:23 GMT",
+  "ETag": "\"7811f49d10cdbf9fcaa4eb2daab39e16eb7181513260bfd933716803b22bb011\"",
+  "Last-Modified": "Thu, 12 Nov 2026 12:06:27 GMT",
   "base": {
     "repo": {
       "name": "lalpulsar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T12:06:27Z",
   "closed_by": null,
   "created_at": "2026-11-11T14:41:22Z",
   "draft": false,
   "e_tag": "\"b24248f9b4252932f8a8fa0e9770d256882bf4ec0200756c8428c0dea5c98dbb\"",
   "head": {
-    "ref": "rebuild-cfitsio470-0-1_hcf43e9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lalpulsar-feedstock/pull/86",
   "id": 5261428814,
   "labels": [],
-  "last_fetched": "2026-11-11T21:01:24.634739",
+  "last_fetched": "2026-11-12T12:07:53.740265",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T12:06:27Z",
   "number": 86,
-  "state": "open",
-  "updated_at": "2026-11-11T14:42:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T12:06:27Z"
 }

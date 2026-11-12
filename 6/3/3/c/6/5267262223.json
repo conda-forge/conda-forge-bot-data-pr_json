@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c3ebd7c6cab749076acbabac5a16c8c037d8a6739f82faa13e84c99b0828f685\"",
-  "Last-Modified": "Wed, 11 Nov 2026 21:50:55 GMT",
+  "ETag": "\"0685d4258a482140990ae471d1d0e8a11fd1ae61656fcfdde1f4072608fade4c\"",
+  "Last-Modified": "Thu, 12 Nov 2026 02:01:06 GMT",
   "base": {
     "repo": {
       "name": "h5netcdf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T02:01:06Z",
   "closed_by": null,
   "created_at": "2026-11-11T21:49:27Z",
   "draft": false,
   "e_tag": "\"2b7f926a3b7816c384dbb1824948f51359ee54d32bc884f4d21dad4600426968\"",
   "head": {
-    "ref": "1.8.3_h263080"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/h5netcdf-feedstock/pull/63",
   "id": 5267262223,
   "labels": [],
-  "last_fetched": "2026-11-11T22:57:44.896015",
+  "last_fetched": "2026-11-12T02:02:41.174067",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T02:01:06Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-11-11T21:50:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T02:01:06Z"
 }

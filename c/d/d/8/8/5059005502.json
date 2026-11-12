@@ -1,13 +1,13 @@
 {
-  "ETag": "\"eb28d00656db705f45c11fe278cd12188953a75c59d3a689de35959adf76727d\"",
-  "Last-Modified": "Wed, 28 Oct 2026 22:58:00 GMT",
+  "ETag": "W/\"b5076135c62a8d2315b281eb40e0ecb264df883523b1268ff9cf2c637d541d06\"",
+  "Last-Modified": "Thu, 12 Nov 2026 03:43:45 GMT",
   "base": {
     "repo": {
       "name": "texlive-core-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-12T03:43:45Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-28T22:56:15Z",
   "draft": false,
   "e_tag": "\"338c26330b0e58d32f73576e5c9272da186519bb4b96522b34358a581f58aba4\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/texlive-core-feedstock/pull/114",
   "id": 5059005502,
-  "labels": [],
-  "last_fetched": "2026-11-05T00:38:55.093924",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-12T03:43:47.913710",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 114,
-  "state": "open",
-  "updated_at": "2026-10-28T22:58:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T03:43:45Z"
 }

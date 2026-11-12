@@ -1,5 +1,5 @@
 {
-  "ETag": "\"d1e6f52c36820513eee8b75ed788d758d946d3c9774b29fe8b013c3c9b953ba9\"",
+  "ETag": "W/\"b37153cae1c8103bfc08acfeb249285d87b6ca03ec80d0b2a2b2ca6a91387c24\"",
   "Last-Modified": "Thu, 12 Nov 2026 04:19:30 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/mvapich-feedstock/pull/62",
   "id": 4467274613,
-  "labels": [],
-  "last_fetched": "2026-11-12T04:20:42.416951",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-12T04:19:31.920422",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

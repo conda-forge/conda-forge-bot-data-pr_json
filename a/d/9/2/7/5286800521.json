@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fdd239eb2fe4596bfaad9af587c5ee6794f3a1a75490ea5644249e5f1ca339cb\"",
+  "Last-Modified": "Thu, 12 Nov 2026 23:15:25 GMT",
   "base": {
     "repo": {
       "name": "pyod-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T23:15:21Z",
   "closed_by": null,
   "created_at": "2026-11-12T23:11:30Z",
   "draft": false,
   "e_tag": "\"b0796f2cf2f87694c40135b09af7ae0b6d74553ac57a96c8fb6e3cec5e3ee356\"",
   "head": {
-    "ref": "3.6.8_h3ff6ba"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyod-feedstock/pull/68",
   "id": 5286800521,
   "labels": [],
-  "last_fetched": "2026-11-12T23:11:31.710566",
+  "last_fetched": "2026-11-12T23:16:55.850546",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T23:15:21Z",
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-11-12T23:11:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T23:15:25Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0f20cc9f55faa0680094b0b7d8f0063121781d1acffbbc4d62e39ae7494d0fae\"",
-  "Last-Modified": "Thu, 12 Nov 2026 16:58:42 GMT",
+  "ETag": "\"8464a07f72949d5f0018a740cd0dbc38b97053b9ddc7dbdfeee9c7efb386c06a\"",
+  "Last-Modified": "Thu, 12 Nov 2026 18:26:44 GMT",
   "base": {
     "repo": {
       "name": "deptry-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T18:26:43Z",
   "closed_by": null,
   "created_at": "2026-11-12T16:56:52Z",
   "draft": false,
   "e_tag": "\"4adfdbf597fb5d2aa2ee7441856fea966b560b08ded23ab53b5e2bade9172a4f\"",
   "head": {
-    "ref": "rebuild-python314t-0-1_h61bdff"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deptry-feedstock/pull/30",
   "id": 5281628103,
   "labels": [],
-  "last_fetched": "2026-11-12T18:21:42.785209",
+  "last_fetched": "2026-11-12T18:28:21.970574",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T18:26:43Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-12T16:58:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T18:26:44Z"
 }

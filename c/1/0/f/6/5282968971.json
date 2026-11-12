@@ -1,18 +1,18 @@
 {
-  "ETag": "\"e49d125ba702d257f0b175ad39a809d1d831608cac3cb1f79a1f4a3b016e0e10\"",
-  "Last-Modified": "Thu, 12 Nov 2026 18:33:27 GMT",
+  "ETag": "\"cd93e2525e8f24fecfb6f44ac908350429efb7cf3f23e1407e2af8a895408a0b\"",
+  "Last-Modified": "Thu, 12 Nov 2026 19:21:59 GMT",
   "base": {
     "repo": {
       "name": "perspective-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T19:21:55Z",
   "closed_by": null,
   "created_at": "2026-11-12T18:27:22Z",
   "draft": false,
   "e_tag": "\"1f6c058c3b527285b4834e62dc8586412e69d7ea035be163fb617a572d18cf42\"",
   "head": {
-    "ref": "5.9.1_hbd01c3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/perspective-feedstock/pull/258",
   "id": 5282968971,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/perspective-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-12T18:35:12.014019",
+  "last_fetched": "2026-11-12T19:23:34.109037",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T19:21:55Z",
   "number": 258,
-  "state": "open",
-  "updated_at": "2026-11-12T18:33:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T19:21:59Z"
 }

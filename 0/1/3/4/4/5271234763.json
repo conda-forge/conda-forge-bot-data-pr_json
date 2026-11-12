@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6ed5dd83ff78199fc580ff94cecfc9dc625887e5f862ae8e5b4314ad78ded24b\"",
-  "Last-Modified": "Thu, 12 Nov 2026 04:01:45 GMT",
+  "ETag": "\"14ecaea268e0f1bfb318b8f5942c3be2fc9a2ea9767b6eb586b9456ad4600beb\"",
+  "Last-Modified": "Thu, 12 Nov 2026 14:56:10 GMT",
   "base": {
     "repo": {
       "name": "granian-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T14:56:09Z",
   "closed_by": null,
   "created_at": "2026-11-12T04:00:17Z",
   "draft": false,
   "e_tag": "\"dcbd59ed3e317fb035d4b7d063a6df7a0d23727f31a040f9c088787e9de1c87d\"",
   "head": {
-    "ref": "2.8.8_hc8d56b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/granian-feedstock/pull/113",
   "id": 5271234763,
   "labels": [],
-  "last_fetched": "2026-11-12T04:19:13.170557",
+  "last_fetched": "2026-11-12T14:57:41.238888",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T14:56:09Z",
   "number": 113,
-  "state": "open",
-  "updated_at": "2026-11-12T04:01:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T14:56:10Z"
 }

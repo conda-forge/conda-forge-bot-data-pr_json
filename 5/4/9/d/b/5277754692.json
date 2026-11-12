@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c8d1b40bc7126bb1d37c51ce199b1013d45cf7e6a0273f0835736ab28b891261\"",
+  "Last-Modified": "Thu, 12 Nov 2026 16:20:21 GMT",
   "base": {
     "repo": {
       "name": "yarl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T16:20:21Z",
   "closed_by": null,
   "created_at": "2026-11-12T12:54:23Z",
   "draft": false,
   "e_tag": "\"d7c2fb5b6a6279b8a9eabda6eec329c034f6d509bcd937f1fd5002eb2e8fcf03\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h636788"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yarl-feedstock/pull/90",
   "id": 5277754692,
   "labels": [],
-  "last_fetched": "2026-11-12T12:54:24.342778",
+  "last_fetched": "2026-11-12T16:21:57.334996",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T16:20:21Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-11-12T12:54:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T16:20:21Z"
 }

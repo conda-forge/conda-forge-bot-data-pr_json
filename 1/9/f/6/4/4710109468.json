@@ -1,12 +1,13 @@
 {
-  "ETag": "\"a83547d846ecbdcf87c3309815bd3f6c131a28a933ca198c7c467edecb1aaaa3\"",
-  "Last-Modified": "Fri, 02 Oct 2026 11:36:05 GMT",
+  "ETag": "\"e462430aacbf0d14076b07ec3fd702eedc128eabd6ba5c0985d1192ddb5cac0c\"",
+  "Last-Modified": "Thu, 12 Nov 2026 20:02:16 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-run-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T20:02:16Z",
+  "closed_by": "conda-forge-admin",
   "created_at": "2026-10-01T21:57:07Z",
   "draft": false,
   "e_tag": "\"9346aad3ca3d4b7869e482894a75a7a74894464649174b98bf1ad6c664dc5118\"",
@@ -28,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/google-cloud-run-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-06T20:57:12.677067",
+  "last_fetched": "2026-11-12T20:03:53.099579",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-10-02T11:36:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T20:02:16Z"
 }

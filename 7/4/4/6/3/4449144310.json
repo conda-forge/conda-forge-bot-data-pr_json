@@ -1,12 +1,13 @@
 {
-  "ETag": "\"36e30448266e3aa9a88697143d08cbd90073a75a2cbc76515e7a45d682a98300\"",
-  "Last-Modified": "Sat, 05 Sep 2026 06:20:50 GMT",
+  "ETag": "W/\"72d920097a2451e62538dc5475230003018a4f3d3ff0cfee996eed26016ed25d\"",
+  "Last-Modified": "Thu, 12 Nov 2026 10:49:52 GMT",
   "base": {
     "repo": {
       "name": "tree-sitter-sql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T10:49:52Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-05T06:20:49Z",
   "draft": false,
   "e_tag": "\"e3c20495b88758c3df8ecb5645f9a0752d4862d6bb9da80718f316e95381231d\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/tree-sitter-sql-feedstock/pull/11",
   "id": 4449144310,
-  "labels": [],
-  "last_fetched": "2026-11-09T19:15:33.749625",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 8997382667,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOPSIKWc8AAAACGEkqCw",
+      "url": "https://api.github.com/repos/conda-forge/tree-sitter-sql-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-12T10:49:55.405214",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-09-05T06:22:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T10:49:52Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7dbfca1a1b0bc8f51253fed7d3a2db59423a33405f9ccfbd8699593f0d93b42b\"",
+  "Last-Modified": "Thu, 12 Nov 2026 07:49:41 GMT",
   "base": {
     "repo": {
       "name": "gpp-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T07:49:36Z",
   "closed_by": null,
   "created_at": "2026-11-12T07:46:06Z",
   "draft": false,
   "e_tag": "\"0b7c19cddae3c7e2e3c99fb103a782258328871693ed76e094d405b4ae374894\"",
   "head": {
-    "ref": "26.11.2_h5e1817"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gpp-client-feedstock/pull/55",
   "id": 5273583906,
   "labels": [],
-  "last_fetched": "2026-11-12T07:46:07.243094",
+  "last_fetched": "2026-11-12T07:50:42.071960",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T07:49:36Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-11-12T07:46:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T07:49:41Z"
 }

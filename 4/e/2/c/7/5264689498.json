@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d80e0ec42321ed186d38d0dc66ed7c56e1e6e0eed25fddbd6b44514b8bd6e5fc\"",
-  "Last-Modified": "Wed, 11 Nov 2026 18:22:49 GMT",
+  "ETag": "\"b3bc99408525a5bc4d8fe039e7092ecfbd9a5949f7ad405317c812fd82026b61\"",
+  "Last-Modified": "Thu, 12 Nov 2026 02:55:22 GMT",
   "base": {
     "repo": {
       "name": "gp-connect-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T02:55:22Z",
   "closed_by": null,
   "created_at": "2026-11-11T18:22:48Z",
   "draft": false,
   "e_tag": "\"5dd77f721ac8119db840216084f40e092a045ebafd42dc99db7ec29e37396fce\"",
   "head": {
-    "ref": "rebuild-lz4_c111-0-1_hffd521"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gp-connect-feedstock/pull/5",
   "id": 5264689498,
   "labels": [],
-  "last_fetched": "2026-11-11T20:16:59.512034",
+  "last_fetched": "2026-11-12T02:56:47.412236",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T02:55:21Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-11T18:24:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T02:55:22Z"
 }

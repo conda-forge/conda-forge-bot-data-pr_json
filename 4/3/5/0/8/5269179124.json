@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a842245cffedff70c768e733e8d7b6ff0dd354faedd40a3084050a5e16c97ac6\"",
+  "Last-Modified": "Thu, 12 Nov 2026 01:27:42 GMT",
   "base": {
     "repo": {
       "name": "hyalo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T01:27:38Z",
   "closed_by": null,
   "created_at": "2026-11-12T00:47:42Z",
   "draft": false,
   "e_tag": "\"72f58fe8428aa0939e292b2d34a827c01023053e83b39da40b3421682b107e91\"",
   "head": {
-    "ref": "0.26.1_h1410de"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hyalo-feedstock/pull/23",
   "id": 5269179124,
   "labels": [],
-  "last_fetched": "2026-11-12T00:47:43.381440",
+  "last_fetched": "2026-11-12T01:29:09.015409",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T01:27:38Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-12T00:47:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T01:27:42Z"
 }

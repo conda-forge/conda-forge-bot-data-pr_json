@@ -1,29 +1,29 @@
 {
-  "ETag": "\"07990429b0ddc74a1fb36dc20424e0d603007913b39d5a1086463285109cb453\"",
-  "Last-Modified": "Mon, 02 Nov 2026 22:01:17 GMT",
+  "ETag": "\"d34ac1b855876c6a91c54d0b3d659c0bb0cbdf78195c8b703ecf935dad7342b7\"",
+  "Last-Modified": "Thu, 12 Nov 2026 20:35:18 GMT",
   "base": {
     "repo": {
       "name": "esgcet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T20:35:18Z",
   "closed_by": null,
   "created_at": "2026-11-02T21:59:37Z",
   "draft": false,
   "e_tag": "\"72e0928581836f28c33a3069b43d06c7a3059914aba26ef8168af9ec724bd38a\"",
   "head": {
-    "ref": "5.5.4_h8a3582"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/esgcet-feedstock/pull/1",
   "id": 5128097194,
   "labels": [],
-  "last_fetched": "2026-11-10T04:20:55.689779",
+  "last_fetched": "2026-11-12T20:36:46.176983",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T20:35:18Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-02T22:01:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T20:35:18Z"
 }

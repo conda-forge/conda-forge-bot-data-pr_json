@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d6e99724e5fc712879d54733b23d8ddb23af879cf21625e01e992bba2e00d335\"",
-  "Last-Modified": "Thu, 12 Nov 2026 17:14:42 GMT",
+  "ETag": "\"59c094171897238c368abe063ad7b71e0d5f6180da55c7133523e5adb9e09176\"",
+  "Last-Modified": "Thu, 12 Nov 2026 17:46:07 GMT",
   "base": {
     "repo": {
       "name": "redis-server-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T17:46:07Z",
   "closed_by": null,
   "created_at": "2026-11-12T17:13:00Z",
   "draft": false,
   "e_tag": "\"3f326aa222df543df507fbeedbfbed5f00a7e2a41d8e3ad30472652541f4c3e0\"",
   "head": {
-    "ref": "8.10.3_h6402c8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/redis-server-feedstock/pull/62",
   "id": 5281874147,
   "labels": [],
-  "last_fetched": "2026-11-12T17:28:47.939864",
+  "last_fetched": "2026-11-12T17:47:51.114385",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T17:46:07Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-11-12T17:14:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T17:46:12Z"
 }

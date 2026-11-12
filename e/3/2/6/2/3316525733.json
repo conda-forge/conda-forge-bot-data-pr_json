@@ -1,12 +1,13 @@
 {
-  "ETag": "\"4e7274dbe35a5198e87e9b972e1e9670c725700a66309fa9a2dd9fdd45f8c835\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"9d4f47e52f5de5f693065a417248632b37a9a56e5c3eab95c1413fa35753c085\"",
+  "Last-Modified": "Thu, 12 Nov 2026 12:45:28 GMT",
   "base": {
     "repo": {
       "name": "sdt-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T12:45:28Z",
+  "closed_by": "lschr",
   "created_at": "2026-02-23T15:35:56Z",
   "draft": false,
   "e_tag": "\"80466b6141626593d1d70d3f8c33edde232526b073422e6d20d0dbb4a65b8044\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/sdt-python-feedstock/pull/38",
   "id": 3316525733,
   "labels": [],
-  "last_fetched": "2026-11-09T04:31:33.011788",
+  "last_fetched": "2026-11-12T12:46:37.028385",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-02-23T15:39:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T12:45:28Z"
 }

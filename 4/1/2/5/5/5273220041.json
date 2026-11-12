@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4d7ceb773702804256ae3072d6209f1f5faa2a9fbd9dd40ad3c11ed7f2a36712\"",
+  "Last-Modified": "Thu, 12 Nov 2026 07:20:08 GMT",
   "base": {
     "repo": {
       "name": "aqua-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T07:20:04Z",
   "closed_by": null,
   "created_at": "2026-11-12T07:13:27Z",
   "draft": false,
   "e_tag": "\"04b02b1d8df4267172f2de3e4a69554e360dbca614ca3c1ed7339425fc32ce90\"",
   "head": {
-    "ref": "2.67.0-lock.0_h8ff449"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aqua-feedstock/pull/76",
   "id": 5273220041,
   "labels": [],
-  "last_fetched": "2026-11-12T07:13:28.269321",
+  "last_fetched": "2026-11-12T07:21:16.719684",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T07:20:04Z",
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-11-12T07:13:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T07:20:08Z"
 }

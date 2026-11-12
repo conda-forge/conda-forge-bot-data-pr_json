@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ff408643f3a45a2a0f864186e4d8c820ed7488972e78bddbe4a4dcbeda7d6c1f\"",
-  "Last-Modified": "Thu, 05 Nov 2026 22:07:30 GMT",
+  "ETag": "\"3a15b62590dede9a7a1fe93dfc7e41540ecd13a55fa21cf96a9fb5f1d86481f1\"",
+  "Last-Modified": "Thu, 12 Nov 2026 20:19:23 GMT",
   "base": {
     "repo": {
       "name": "livekit-plugins-google-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T20:19:23Z",
   "closed_by": null,
   "created_at": "2026-11-05T22:05:41Z",
   "draft": false,
   "e_tag": "\"3618f46abde934662f5ea3c9c6df2c99e320007b6f4c8851c03350d4a38d92e6\"",
   "head": {
-    "ref": "1.8.11_h0fa3ee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/livekit-plugins-google-feedstock/pull/34",
   "id": 5179422995,
   "labels": [],
-  "last_fetched": "2026-11-06T03:43:19.344021",
+  "last_fetched": "2026-11-12T20:20:57.833066",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T20:19:23Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-11-05T22:07:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T20:19:23Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e51a56deb8cdea27e4eb672a6b2ae708f5ba65613abc917967002fb516af3d66\"",
-  "Last-Modified": "Thu, 12 Nov 2026 01:02:01 GMT",
+  "ETag": "\"0274a09a3a8fff6ef4126fc82a4fbcb078c4c99df0a8b1da92d1b5b0176b15b3\"",
+  "Last-Modified": "Thu, 12 Nov 2026 02:15:18 GMT",
   "base": {
     "repo": {
       "name": "colmap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T02:15:18Z",
   "closed_by": null,
   "created_at": "2026-11-11T16:20:11Z",
   "draft": false,
   "e_tag": "\"7bb41bd76e3c026e74ffb117313f01faea100c37ee7384057beec63ce9478206\"",
   "head": {
-    "ref": "rebuild-lz4_c111-0-1_hc1039f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/colmap-feedstock/pull/114",
   "id": 5262917804,
   "labels": [],
-  "last_fetched": "2026-11-12T01:58:53.418227",
+  "last_fetched": "2026-11-12T02:16:35.825993",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T02:15:18Z",
   "number": 114,
-  "state": "open",
-  "updated_at": "2026-11-12T01:02:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T02:15:18Z"
 }

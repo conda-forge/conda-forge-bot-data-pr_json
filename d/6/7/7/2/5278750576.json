@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a0d2b961a2938ca381e8a5cf0eefd477a1ddbef3aba004b86cb086cf66f6186c\"",
+  "Last-Modified": "Thu, 12 Nov 2026 14:02:34 GMT",
   "base": {
     "repo": {
       "name": "composio-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T14:02:29Z",
   "closed_by": null,
   "created_at": "2026-11-12T14:00:02Z",
   "draft": false,
   "e_tag": "\"856b68a95b7a32eeede6935c04c679a0fa073660909414d3474d1f49bc8451f8\"",
   "head": {
-    "ref": "2.1.31_hce2a6c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/composio-client-feedstock/pull/55",
   "id": 5278750576,
   "labels": [],
-  "last_fetched": "2026-11-12T14:00:03.086968",
+  "last_fetched": "2026-11-12T14:03:59.396404",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-12T14:02:29Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-11-12T14:00:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T14:02:34Z"
 }

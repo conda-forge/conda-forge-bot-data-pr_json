@@ -1,13 +1,13 @@
 {
-  "ETag": "\"236705e07deaf6641e4eab24e910a8a1a792091edfa942ac44ef2982dcca98ce\"",
-  "Last-Modified": "Wed, 28 Oct 2026 20:57:58 GMT",
+  "ETag": "W/\"249806c797c6854cb93626cb58332267c53c81ed9c934b1ced310b9bc943ceb5\"",
+  "Last-Modified": "Thu, 12 Nov 2026 09:31:02 GMT",
   "base": {
     "repo": {
       "name": "pyqt-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-12T09:31:02Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-28T20:56:01Z",
   "draft": false,
   "e_tag": "\"7b9c3295631faff6c6fe1984f863409f726f5089efdb66c1c62132047dfceced\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/pyqt-feedstock/pull/205",
   "id": 5057566668,
-  "labels": [],
-  "last_fetched": "2026-11-05T02:22:41.702264",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-12T09:31:06.115777",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 205,
-  "state": "open",
-  "updated_at": "2026-10-28T20:57:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T09:31:02Z"
 }

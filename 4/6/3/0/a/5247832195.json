@@ -1,29 +1,29 @@
 {
-  "ETag": "\"822cbb23809b4f9f3b7b1e6c8bd20c51c4fa0b8eb5cb1934c105a5a6e5441b9e\"",
-  "Last-Modified": "Tue, 10 Nov 2026 19:51:05 GMT",
+  "ETag": "\"8decf51666152408fcda9776b6223edc9cc88cb523a6c31e13e687c42d8cd9e7\"",
+  "Last-Modified": "Thu, 12 Nov 2026 14:57:28 GMT",
   "base": {
     "repo": {
       "name": "casacore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T14:57:27Z",
   "closed_by": null,
   "created_at": "2026-11-10T19:49:32Z",
   "draft": false,
   "e_tag": "\"8fbb64fadb9f8c7b4cfddbf3af492665aeffa387567e539346514109f6bb5ebe\"",
   "head": {
-    "ref": "rebuild-cfitsio470-0-1_h80a5f7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/casacore-feedstock/pull/119",
   "id": 5247832195,
   "labels": [],
-  "last_fetched": "2026-11-11T01:57:08.257787",
+  "last_fetched": "2026-11-12T14:58:59.768499",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T14:57:27Z",
   "number": 119,
-  "state": "open",
-  "updated_at": "2026-11-10T19:51:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T14:57:28Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"77372a9ee42bccbc9854ce364771b80f7b4cd947f97bd12238345e41edc7b852\"",
+  "Last-Modified": "Thu, 12 Nov 2026 15:59:44 GMT",
   "base": {
     "repo": {
       "name": "postgresql-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/postgresql-feedstock/pull/318",
   "id": 5280211343,
-  "labels": [],
-  "last_fetched": "2026-11-12T15:29:17.006189",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891097323,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDk3MzIz",
+      "url": "https://api.github.com/repos/conda-forge/postgresql-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-12T16:01:12.652544",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 318,
   "state": "open",
-  "updated_at": "2026-11-12T15:29:16Z"
+  "updated_at": "2026-11-12T15:59:44Z"
 }

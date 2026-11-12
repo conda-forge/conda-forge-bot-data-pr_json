@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9f16266c529c17150167f66b3d5f1f7812ea4e5624bf371b86c54a1d1553e5e1\"",
-  "Last-Modified": "Tue, 10 Nov 2026 19:25:04 GMT",
+  "ETag": "\"b91da915c9e8a2afe56c79e42f093e5885c31e01bbfafcdbca019ade0c934168\"",
+  "Last-Modified": "Thu, 12 Nov 2026 12:01:19 GMT",
   "base": {
     "repo": {
       "name": "snowflake.core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-12T12:01:19Z",
   "closed_by": null,
   "created_at": "2026-11-10T19:25:04Z",
   "draft": false,
   "e_tag": "\"a31805080258e50a02934c71c1b4d8eb00bcdab92ca397428e6aa311082a0a01\"",
   "head": {
-    "ref": "1.15.0_h97f6d9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/snowflake.core-feedstock/pull/36",
   "id": 5247487802,
   "labels": [],
-  "last_fetched": "2026-11-10T19:28:06.983495",
+  "last_fetched": "2026-11-12T12:02:37.948021",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-12T12:01:19Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-10T19:26:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-12T12:01:19Z"
 }

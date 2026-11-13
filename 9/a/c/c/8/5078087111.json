@@ -1,13 +1,13 @@
 {
-  "ETag": "\"cff7b8b583dad07d3c28d80ad4ea611ff496d5d1790e5121aa0250a1646e8375\"",
-  "Last-Modified": "Fri, 30 Oct 2026 01:34:45 GMT",
+  "ETag": "W/\"3c6634412e8607852c6788650fc0f7cba5933c3aaf2b27b7fb1d8e96399acbe8\"",
+  "Last-Modified": "Fri, 13 Nov 2026 07:19:15 GMT",
   "base": {
     "repo": {
       "name": "lbdevtools-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-13T07:19:15Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-30T01:32:54Z",
   "draft": false,
   "e_tag": "\"aef3c7615ce7231656e8f00fd14944d3f1ca0b5db7e2f35c4d00e6944ce05bd8\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/lbdevtools-feedstock/pull/50",
   "id": 5078087111,
-  "labels": [],
-  "last_fetched": "2026-11-06T06:47:26.158079",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-13T07:19:17.618233",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-10-30T01:34:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T07:19:15Z"
 }

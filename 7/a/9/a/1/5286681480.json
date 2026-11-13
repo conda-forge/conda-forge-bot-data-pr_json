@@ -1,29 +1,29 @@
 {
-  "ETag": "\"17e29c2104a425bd108c189536a39662c816de18028036a34a6738c19280ede4\"",
-  "Last-Modified": "Thu, 12 Nov 2026 23:03:41 GMT",
+  "ETag": "\"7e850ae4799ce4dc47a868c89254ef8eb5b1920a252525135b59b244e84a465a\"",
+  "Last-Modified": "Fri, 13 Nov 2026 16:08:21 GMT",
   "base": {
     "repo": {
       "name": "python-kaleido-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T16:08:21Z",
   "closed_by": null,
   "created_at": "2026-11-12T23:02:03Z",
   "draft": false,
   "e_tag": "\"7c1b81f3e54de2c08683bded941b209ca77bad702055396538a973c8ef94d902\"",
   "head": {
-    "ref": "1.5.1_h5edb71"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-kaleido-feedstock/pull/21",
   "id": 5286681480,
   "labels": [],
-  "last_fetched": "2026-11-13T01:28:23.986977",
+  "last_fetched": "2026-11-13T16:09:30.304005",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T16:08:20Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-12T23:03:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T16:08:21Z"
 }

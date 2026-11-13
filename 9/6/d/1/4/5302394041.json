@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0cb2cba6ce305192eaf89168fa1fc904bc551a3805c447bd3386f2a244d32682\"",
+  "Last-Modified": "Fri, 13 Nov 2026 20:34:51 GMT",
   "base": {
     "repo": {
       "name": "neqsim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T20:34:51Z",
   "closed_by": null,
   "created_at": "2026-11-13T20:30:31Z",
   "draft": false,
   "e_tag": "\"9fbb1f72964b66a0503e9e95e67c5771aeb2ea43a0cd72b2949d7ecbb0f9a675\"",
   "head": {
-    "ref": "3.29.0_h91c21c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/neqsim-feedstock/pull/26",
   "id": 5302394041,
   "labels": [],
-  "last_fetched": "2026-11-13T20:30:32.602914",
+  "last_fetched": "2026-11-13T20:37:40.344325",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T20:34:51Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-11-13T20:30:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T20:34:51Z"
 }

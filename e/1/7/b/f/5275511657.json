@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b151625544fd719ec292e6681237bf789c3b55fe5cbd615ed984916d0204c12c\"",
-  "Last-Modified": "Thu, 12 Nov 2026 10:16:13 GMT",
+  "ETag": "\"049929543e03109bf216f45eb3d4bcce530e57ebe81bc90b569ed82dae43f32a\"",
+  "Last-Modified": "Fri, 13 Nov 2026 11:26:05 GMT",
   "base": {
     "repo": {
       "name": "lalburst-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T11:26:05Z",
   "closed_by": null,
   "created_at": "2026-11-12T10:14:33Z",
   "draft": false,
   "e_tag": "\"92342bd9294c5d032cf29819624e532c613604a91f0e49401b11f19cc4d71872\"",
   "head": {
-    "ref": "3.0.1_h70e7fa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lalburst-feedstock/pull/57",
   "id": 5275511657,
   "labels": [],
-  "last_fetched": "2026-11-12T12:37:21.644354",
+  "last_fetched": "2026-11-13T11:27:36.020629",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T11:26:05Z",
   "number": 57,
-  "state": "open",
-  "updated_at": "2026-11-12T10:16:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T11:26:05Z"
 }

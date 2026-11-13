@@ -1,29 +1,29 @@
 {
-  "ETag": "\"29bd75dfa63ec06f28345a7277e281feedd1932ec175a1c25c5ae1e36492cb22\"",
-  "Last-Modified": "Thu, 12 Nov 2026 09:47:38 GMT",
+  "ETag": "\"033af700c1006edfe38ad651e8e6661f28b2beed47ba0a6a4909dca82ec4ce34\"",
+  "Last-Modified": "Fri, 13 Nov 2026 11:26:22 GMT",
   "base": {
     "repo": {
       "name": "lalmetaio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T11:26:22Z",
   "closed_by": null,
   "created_at": "2026-11-12T09:45:59Z",
   "draft": false,
   "e_tag": "\"d59448e1e86465e357a23030908601e750f0051d55a3a99df84d4a91946ecadd\"",
   "head": {
-    "ref": "4.1.1_h593fcb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lalmetaio-feedstock/pull/55",
   "id": 5275123084,
   "labels": [],
-  "last_fetched": "2026-11-12T10:44:06.633022",
+  "last_fetched": "2026-11-13T11:27:56.909607",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T11:26:22Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-11-12T09:47:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T11:26:22Z"
 }

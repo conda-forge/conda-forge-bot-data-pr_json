@@ -1,29 +1,29 @@
 {
-  "ETag": "\"85062826a204be36dc945d052f7b915ac9ad2996894c8c9b8a45b3e604c88f92\"",
-  "Last-Modified": "Fri, 13 Nov 2026 04:33:08 GMT",
+  "ETag": "W/\"8b41817f677b845d6698fedc6a6c16b6a810ef1c19ac9c7561121b2d9841c8c6\"",
+  "Last-Modified": "Fri, 13 Nov 2026 14:48:25 GMT",
   "base": {
     "repo": {
       "name": "metplus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T14:48:25Z",
   "closed_by": null,
   "created_at": "2026-11-13T04:31:25Z",
   "draft": false,
   "e_tag": "\"e95eadf4fc94a9342840a19852f3a61d5a5272c1767c6eb36985d77d78bf801f\"",
   "head": {
-    "ref": "rebuild-netcdf_cxx4432-0-1_hd31ec5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/metplus-feedstock/pull/24",
   "id": 5290047686,
   "labels": [],
-  "last_fetched": "2026-11-13T06:57:35.575156",
+  "last_fetched": "2026-11-13T14:49:58.170090",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T14:48:25Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-11-13T04:33:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T14:48:25Z"
 }

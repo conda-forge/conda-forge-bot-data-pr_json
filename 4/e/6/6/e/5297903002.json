@@ -1,27 +1,29 @@
 {
+  "ETag": "\"63b93fe2b35662c0f5f51a7f030e2614aacedd7ded7eeee331b58dcc53b8c58c\"",
+  "Last-Modified": "Fri, 13 Nov 2026 15:11:32 GMT",
   "base": {
     "repo": {
       "name": "llms-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T15:11:28Z",
   "closed_by": null,
   "created_at": "2026-11-13T15:09:29Z",
   "draft": false,
   "e_tag": "\"4ab6f922ee618753e673ade602925e202be5aca9f2926d8f3a8389f2e0639ce2\"",
   "head": {
-    "ref": "4.0.27_he77ff6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/llms-py-feedstock/pull/67",
   "id": 5297903002,
   "labels": [],
-  "last_fetched": "2026-11-13T15:09:30.418822",
+  "last_fetched": "2026-11-13T15:13:35.889915",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T15:11:28Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-11-13T15:09:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T15:11:32Z"
 }

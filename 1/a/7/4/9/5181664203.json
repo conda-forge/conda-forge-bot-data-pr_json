@@ -1,5 +1,5 @@
 {
-  "ETag": "\"65843ea1788206285ccf8b64067c18bba114fbf18ec202dfefc503346aa27416\"",
+  "ETag": "W/\"7764a638d16803b3add6b4e1f2e35164f0210fd5577bd35f05a6fb8aecc3696d\"",
   "Last-Modified": "Fri, 13 Nov 2026 12:35:44 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/jsonrpcserver-feedstock/pull/18",
   "id": 5181664203,
-  "labels": [],
-  "last_fetched": "2026-11-13T12:37:07.134206",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-13T12:35:46.185586",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

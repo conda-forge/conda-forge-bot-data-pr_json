@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e79a13f674115613d5fdc78603f304cd624fcd7380ce4d79617893910ad2e818\"",
+  "Last-Modified": "Fri, 13 Nov 2026 06:57:11 GMT",
   "base": {
     "repo": {
       "name": "rfdetr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T06:57:11Z",
   "closed_by": null,
   "created_at": "2026-11-13T06:02:29Z",
   "draft": false,
   "e_tag": "\"6a648be7056e342541dda2abf410de8edd24404a01c20f4aeaf948a5d368ae25\"",
   "head": {
-    "ref": "1.12.1_hb78487"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rfdetr-feedstock/pull/26",
   "id": 5290932800,
   "labels": [],
-  "last_fetched": "2026-11-13T06:02:29.760955",
+  "last_fetched": "2026-11-13T06:58:31.353811",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T06:57:11Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-11-13T06:02:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T06:57:11Z"
 }

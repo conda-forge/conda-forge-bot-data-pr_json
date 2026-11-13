@@ -1,29 +1,29 @@
 {
-  "ETag": "\"95b492a61b3eda44e470fc4b129128321e18280ce4257cdac10fc3267aef6fdd\"",
-  "Last-Modified": "Thu, 12 Nov 2026 19:04:30 GMT",
+  "ETag": "\"745b18f349da5e85541ad4e09c79b9b09dbf712912377433092182e5023e5f9c\"",
+  "Last-Modified": "Fri, 13 Nov 2026 00:46:25 GMT",
   "base": {
     "repo": {
       "name": "yaxt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T00:46:25Z",
   "closed_by": null,
   "created_at": "2026-11-12T19:02:57Z",
   "draft": false,
   "e_tag": "\"79129ae278f7befc5b7eaf88f32c6dd9257d8f18493c2c1a0de5d3ad9ebdd4d6\"",
   "head": {
-    "ref": "0.12.2.2_h5c8801"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yaxt-feedstock/pull/13",
   "id": 5283494820,
   "labels": [],
-  "last_fetched": "2026-11-12T19:43:55.356573",
+  "last_fetched": "2026-11-13T00:48:06.354623",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T00:46:25Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-12T19:04:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T00:46:25Z"
 }

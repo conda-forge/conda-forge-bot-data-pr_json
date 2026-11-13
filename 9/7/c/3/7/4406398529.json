@@ -1,12 +1,13 @@
 {
-  "ETag": "\"6469463e19b5b8a12aaad7789cc0e2759defac7e5543bd80d3573614f5402011\"",
-  "Last-Modified": "Mon, 31 Aug 2026 21:58:18 GMT",
+  "ETag": "W/\"178f3c820f39d19fb47eac15c09acfed4586af884869fd60d9ba108f4779f171\"",
+  "Last-Modified": "Fri, 13 Nov 2026 11:02:48 GMT",
   "base": {
     "repo": {
       "name": "folly-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T11:02:48Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-31T21:21:12Z",
   "draft": false,
   "e_tag": "\"3a2009bd1d969d0eaf67affa02b5626e272f48fff77d445833578d82d28fb83c\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/folly-feedstock/pull/353",
   "id": 4406398529,
-  "labels": [],
-  "last_fetched": "2026-11-12T01:58:09.212195",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3266390950,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwzMjY2MzkwOTUw",
+      "url": "https://api.github.com/repos/conda-forge/folly-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-13T11:02:51.143461",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 353,
-  "state": "open",
-  "updated_at": "2026-08-31T21:58:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T11:02:48Z"
 }

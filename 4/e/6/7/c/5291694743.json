@@ -1,18 +1,18 @@
 {
-  "ETag": "\"d45869a44d516ee54fee00ba827815e05033eb9852a211cd9ec15f3753f09b3f\"",
-  "Last-Modified": "Fri, 13 Nov 2026 19:28:44 GMT",
+  "ETag": "\"fecc5d33726f02279967fc1026c13aaf7e325fb9a6c625558693242a0e1d41f1\"",
+  "Last-Modified": "Fri, 13 Nov 2026 20:47:27 GMT",
   "base": {
     "repo": {
       "name": "hatch-rs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T20:47:24Z",
   "closed_by": null,
   "created_at": "2026-11-13T07:16:45Z",
   "draft": false,
   "e_tag": "\"cf0aa8ef85bd84672912e68299f91ce32fbf6b76a1ad5dca6ac3765f32a23cb5\"",
   "head": {
-    "ref": "0.6.1_ha495c8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hatch-rs-feedstock/pull/24",
   "id": 5291694743,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/hatch-rs-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-13T19:30:23.633646",
+  "last_fetched": "2026-11-13T20:48:46.469010",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T20:47:24Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-11-13T19:28:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T20:47:27Z"
 }

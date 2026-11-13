@@ -1,6 +1,6 @@
 {
-  "ETag": "\"030b70b38777993b7555ecbc338a76e0ca39f7182175c05c276e79af46c6078c\"",
-  "Last-Modified": "Fri, 13 Nov 2026 16:35:49 GMT",
+  "ETag": "\"3d1a96677f07549901beaf9e081c7aa06219b2bb3df9117b71f9d45dd4b58ad4\"",
+  "Last-Modified": "Fri, 13 Nov 2026 18:21:23 GMT",
   "base": {
     "repo": {
       "name": "nono-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/nono-feedstock/pull/98",
   "id": 5299173977,
-  "labels": [],
-  "last_fetched": "2026-11-13T17:45:03.480705",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10336005721,
+      "name": "automerge",
+      "node_id": "LA_kwDORdgo-c8AAAACaBLuWQ",
+      "url": "https://api.github.com/repos/conda-forge/nono-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T18:22:53.372913",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 98,
   "state": "open",
-  "updated_at": "2026-11-13T16:35:49Z"
+  "updated_at": "2026-11-13T18:21:23Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"c3822d4a9a994a1dc1b74a0cf62042d29b3fe940402919bc1107b97fe4aa2eb3\"",
-  "Last-Modified": "Thu, 12 Nov 2026 05:15:46 GMT",
+  "ETag": "\"98aff63822d58ee6e2aad22686a9f8ed245b50fed36f7b15fd78f408d049ea3d\"",
+  "Last-Modified": "Fri, 13 Nov 2026 01:34:32 GMT",
   "base": {
     "repo": {
       "name": "msdfgen-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/msdfgen-feedstock/pull/5",
   "id": 5271950493,
-  "labels": [],
-  "last_fetched": "2026-11-12T05:43:39.496751",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9325440560,
+      "name": "automerge",
+      "node_id": "LA_kwDOP0P2fc8AAAACK9buMA",
+      "url": "https://api.github.com/repos/conda-forge/msdfgen-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T01:35:44.906730",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 5,
   "state": "open",
-  "updated_at": "2026-11-12T05:15:46Z"
+  "updated_at": "2026-11-13T01:34:32Z"
 }

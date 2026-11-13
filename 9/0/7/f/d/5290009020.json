@@ -1,4 +1,6 @@
 {
+  "ETag": "\"b7fd6353180feffe4e1557ff69e65a0f7f4364f22e04f39ad0615d738c82249e\"",
+  "Last-Modified": "Fri, 13 Nov 2026 04:41:58 GMT",
   "base": {
     "repo": {
       "name": "trilinos-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/trilinos-feedstock/pull/89",
   "id": 5290009020,
-  "labels": [],
-  "last_fetched": "2026-11-13T04:27:31.698849",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891420209,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDIwMjA5",
+      "url": "https://api.github.com/repos/conda-forge/trilinos-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T04:43:02.668114",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 89,
   "state": "open",
-  "updated_at": "2026-11-13T04:27:30Z"
+  "updated_at": "2026-11-13T04:41:58Z"
 }

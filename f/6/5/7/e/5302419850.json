@@ -1,27 +1,29 @@
 {
+  "ETag": "\"33b71c029e91741eab043a8ced1f65e4e84c35b7c34ce11903b8da30210a445d\"",
+  "Last-Modified": "Fri, 13 Nov 2026 20:34:43 GMT",
   "base": {
     "repo": {
       "name": "django-jsonstore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T20:34:39Z",
   "closed_by": null,
   "created_at": "2026-11-13T20:32:32Z",
   "draft": false,
   "e_tag": "\"c7394497f65aa37f361df0d9cf485e69515cdb58cf87148fb1fe2bc98289618a\"",
   "head": {
-    "ref": "26.11.0_h2140d4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-jsonstore-feedstock/pull/5",
   "id": 5302419850,
   "labels": [],
-  "last_fetched": "2026-11-13T20:32:33.107445",
+  "last_fetched": "2026-11-13T20:35:47.621725",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T20:34:39Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-13T20:32:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T20:34:43Z"
 }

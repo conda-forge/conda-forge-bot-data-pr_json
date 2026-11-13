@@ -1,4 +1,6 @@
 {
+  "ETag": "\"0fc9d9e93d12a54d1b78becb11de5a3fb017402dfa582f344c7399ef93b09652\"",
+  "Last-Modified": "Fri, 13 Nov 2026 21:29:40 GMT",
   "base": {
     "repo": {
       "name": "rerun-sdk-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/rerun-sdk-feedstock/pull/156",
   "id": 5301205418,
-  "labels": [],
-  "last_fetched": "2026-11-13T18:59:21.785210",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5785044521,
+      "name": "automerge",
+      "node_id": "LA_kwDOKAw87c8AAAABWNDGKQ",
+      "url": "https://api.github.com/repos/conda-forge/rerun-sdk-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T21:31:07.993090",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 156,
   "state": "open",
-  "updated_at": "2026-11-13T18:59:20Z"
+  "updated_at": "2026-11-13T21:29:40Z"
 }

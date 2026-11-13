@@ -1,13 +1,13 @@
 {
-  "ETag": "\"bbf0dbab058c647c08ccf54ad143a1a2f53abb7d503354e867e27001b9a0364d\"",
-  "Last-Modified": "Fri, 06 Nov 2026 04:33:14 GMT",
+  "ETag": "W/\"c4256dd9280c51e039a4f2f10a368f00cd6e5c8bcb79ecd25684e32015361c32\"",
+  "Last-Modified": "Fri, 13 Nov 2026 11:28:59 GMT",
   "base": {
     "repo": {
       "name": "z5py-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-13T11:28:59Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-06T04:31:33Z",
   "draft": false,
   "e_tag": "\"c8e89dfa60fc19446e6c93ee95eb5fabc4036629a001763ab754bba6dce1163b\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/z5py-feedstock/pull/94",
   "id": 5182926881,
-  "labels": [],
-  "last_fetched": "2026-11-06T09:20:53.461059",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-13T11:29:01.434780",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 94,
-  "state": "open",
-  "updated_at": "2026-11-06T04:33:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T11:28:59Z"
 }

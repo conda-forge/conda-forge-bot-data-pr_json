@@ -1,28 +1,28 @@
 {
-  "ETag": "\"a69f741770a0cda2066a22aeb1add2d242c826cc6abd7e443037bb15dc9b21b3\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"631d510edc7192727cf893b39e5acc179119c92784ad4778d45c99d5d87298cc\"",
+  "Last-Modified": "Fri, 13 Nov 2026 16:29:00 GMT",
   "base": {
     "repo": {
       "name": "ipynbname-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T16:29:00Z",
   "created_at": "2025-08-18T00:21:27Z",
   "draft": false,
   "e_tag": "\"19d50b472ba69fdbd53d278c89ab1620cec9e3737d5ff01cf7c6f5821df58f45\"",
   "head": {
-    "ref": "2025.8.0.0_he4cf70"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ipynbname-feedstock/pull/5",
   "id": 2751638239,
   "labels": [],
-  "last_fetched": "2026-11-09T16:58:27.560784",
+  "last_fetched": "2026-11-13T16:32:15.101676",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T16:29:00Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2025-08-18T00:22:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T16:29:00Z"
 }

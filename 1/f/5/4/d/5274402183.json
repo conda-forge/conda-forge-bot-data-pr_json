@@ -1,18 +1,18 @@
 {
-  "ETag": "\"fc33953bd36e892b177a164e22a30ba3ab573041ed1628a2344037f1050c2700\"",
-  "Last-Modified": "Fri, 13 Nov 2026 00:00:45 GMT",
+  "ETag": "\"ccf525504ac2db59d6bf0893749aeb29793b32e1e6c94c7987188682b3acd857\"",
+  "Last-Modified": "Fri, 13 Nov 2026 10:17:50 GMT",
   "base": {
     "repo": {
       "name": "vtk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T10:17:47Z",
   "closed_by": null,
   "created_at": "2026-11-12T08:51:21Z",
   "draft": false,
   "e_tag": "\"c0d06be75a9fd885950940a28210c8cfc39d2711c040bea7bd00a65d1f49524c\"",
   "head": {
-    "ref": "rebuild-lz4_c111-0-1_hff6b04"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vtk-feedstock/pull/464",
   "id": 5274402183,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/vtk-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-13T00:02:16.278291",
+  "last_fetched": "2026-11-13T10:19:27.340033",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T10:17:47Z",
   "number": 464,
-  "state": "open",
-  "updated_at": "2026-11-13T00:00:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T10:17:50Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"697f31a49f6d02c1fb27b75bf3362e8805beb162a6429698f908887bd9b2c71d\"",
+  "Last-Modified": "Fri, 13 Nov 2026 23:56:48 GMT",
   "base": {
     "repo": {
       "name": "cellpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T23:56:43Z",
   "closed_by": null,
   "created_at": "2026-11-13T23:41:24Z",
   "draft": false,
   "e_tag": "\"dd297b7952e8d671ef0f0a767e255926e820c35d53719a873704b28296cec970\"",
   "head": {
-    "ref": "2.1.5.post11_h7d6fee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cellpy-feedstock/pull/85",
   "id": 5304626691,
   "labels": [],
-  "last_fetched": "2026-11-13T23:41:25.606802",
+  "last_fetched": "2026-11-13T23:58:38.297576",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T23:56:43Z",
   "number": 85,
-  "state": "open",
-  "updated_at": "2026-11-13T23:41:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T23:56:48Z"
 }

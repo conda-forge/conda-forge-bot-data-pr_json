@@ -1,6 +1,6 @@
 {
-  "ETag": "\"2b8926bf9143fea9811cf38538857cf1ed550e56254e3a38b479e6e97d65b22b\"",
-  "Last-Modified": "Fri, 13 Nov 2026 07:19:10 GMT",
+  "ETag": "\"d45869a44d516ee54fee00ba827815e05033eb9852a211cd9ec15f3753f09b3f\"",
+  "Last-Modified": "Fri, 13 Nov 2026 19:28:44 GMT",
   "base": {
     "repo": {
       "name": "hatch-rs-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/hatch-rs-feedstock/pull/24",
   "id": 5291694743,
-  "labels": [],
-  "last_fetched": "2026-11-13T12:58:21.994685",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9068863982,
+      "name": "automerge",
+      "node_id": "LA_kwDOPZmVos8AAAACHIvh7g",
+      "url": "https://api.github.com/repos/conda-forge/hatch-rs-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T19:30:23.633646",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 24,
   "state": "open",
-  "updated_at": "2026-11-13T07:19:10Z"
+  "updated_at": "2026-11-13T19:28:44Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3e02da79dee7a576386aa62fc4608b07ff4c74d50136c9c8c7fda6a31f72640b\"",
-  "Last-Modified": "Fri, 13 Nov 2026 01:05:04 GMT",
+  "ETag": "\"389d5b8ffd885f30271cc9e41d4365988d7a372d2c05ff0ae29cdd0ad25152da\"",
+  "Last-Modified": "Fri, 13 Nov 2026 17:54:06 GMT",
   "base": {
     "repo": {
       "name": "phidget22-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T17:54:06Z",
   "closed_by": null,
   "created_at": "2026-11-13T01:03:26Z",
   "draft": false,
   "e_tag": "\"082a52621fcfa126a1eb5118d3f15d1aa47c47f9f47f6f886796dcd316549197\"",
   "head": {
-    "ref": "1.27.20261112_h32721f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/phidget22-feedstock/pull/22",
   "id": 5288052960,
   "labels": [],
-  "last_fetched": "2026-11-13T01:18:48.306943",
+  "last_fetched": "2026-11-13T17:55:43.820605",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T17:54:06Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-13T01:05:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T17:54:06Z"
 }

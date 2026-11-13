@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b2e58e18b31b97c3b800fb2b23264823232dc4b57f15d3eb04f7f26d5d71788b\"",
+  "Last-Modified": "Fri, 13 Nov 2026 20:40:08 GMT",
   "base": {
     "repo": {
       "name": "tabpfn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T20:40:05Z",
   "closed_by": null,
   "created_at": "2026-11-13T20:37:50Z",
   "draft": false,
   "e_tag": "\"2dc13b3fa8d9e5a48ff897f5610570ccecc2b42fc6be497ca997a3f4e77348a0\"",
   "head": {
-    "ref": "10.0.0_hc8e0fa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tabpfn-feedstock/pull/67",
   "id": 5302492801,
   "labels": [],
-  "last_fetched": "2026-11-13T20:37:51.708906",
+  "last_fetched": "2026-11-13T20:41:36.589904",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T20:40:05Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-11-13T20:37:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T20:40:08Z"
 }

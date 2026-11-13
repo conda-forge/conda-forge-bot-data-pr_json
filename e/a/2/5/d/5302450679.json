@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a182210f8aefe3ddecd9208dd54a5e4e7eadb80e3b876816324c7aa17c3faefa\"",
+  "Last-Modified": "Fri, 13 Nov 2026 20:41:27 GMT",
   "base": {
     "repo": {
       "name": "gputaskman-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T20:41:27Z",
   "closed_by": null,
   "created_at": "2026-11-13T20:34:48Z",
   "draft": false,
   "e_tag": "\"100a0b0dc3f8214f63042ee43d4364f2049dc10f6f2ff4ac157cac0f27e0cb33\"",
   "head": {
-    "ref": "0.4.1_h80aebd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gputaskman-feedstock/pull/1",
   "id": 5302450679,
   "labels": [],
-  "last_fetched": "2026-11-13T20:34:49.014648",
+  "last_fetched": "2026-11-13T20:42:58.799194",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T20:41:27Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-13T20:34:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T20:41:27Z"
 }

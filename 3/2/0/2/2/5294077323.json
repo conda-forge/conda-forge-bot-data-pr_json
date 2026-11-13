@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4708501ebbfd223b127d8a3dcef6bdcd83c90a593dc3715a617cb54077e57a80\"",
+  "Last-Modified": "Fri, 13 Nov 2026 10:46:38 GMT",
   "base": {
     "repo": {
       "name": "numpy_groupies-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T10:46:38Z",
   "closed_by": null,
   "created_at": "2026-11-13T10:42:14Z",
   "draft": false,
   "e_tag": "\"c79989d03200e91683a8237dbcf667a64b47b209ba7aa1fed019b21ffc81f3b7\"",
   "head": {
-    "ref": "0.16.6_hb74f71"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/numpy_groupies-feedstock/pull/42",
   "id": 5294077323,
   "labels": [],
-  "last_fetched": "2026-11-13T10:42:15.467782",
+  "last_fetched": "2026-11-13T10:48:10.214031",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T10:46:38Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-11-13T10:42:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T10:46:38Z"
 }

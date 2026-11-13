@@ -1,41 +1,29 @@
 {
-  "ETag": "\"378883ed40a5f0c88898a0ab2a378efef5c01b2d3986a4c44379f6b114835902\"",
-  "Last-Modified": "Fri, 13 Nov 2026 01:32:32 GMT",
+  "ETag": "\"0756db48f12491642100ea7324fd421db41782da3c59008355c925eabfdd958d\"",
+  "Last-Modified": "Fri, 13 Nov 2026 01:38:04 GMT",
   "base": {
     "repo": {
       "name": "xwayland-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T01:38:04Z",
   "closed_by": null,
   "created_at": "2026-11-12T04:14:09Z",
   "draft": false,
   "e_tag": "\"d866d35990fe73d9efb6d20a0da543c897cd9787f9c9bd49723fb26ce1b67ffd\"",
   "head": {
-    "ref": "24.1.15_h954fa7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xwayland-feedstock/pull/3",
   "id": 5271377719,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 11777242800,
-      "name": "automerge",
-      "node_id": "LA_kwDOTywYw88AAAACvfp2sA",
-      "url": "https://api.github.com/repos/conda-forge/xwayland-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-11-13T01:33:38.935302",
+  "labels": [],
+  "last_fetched": "2026-11-13T01:39:05.463646",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T01:38:04Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-11-13T01:32:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T01:38:04Z"
 }

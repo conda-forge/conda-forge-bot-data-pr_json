@@ -1,27 +1,41 @@
 {
+  "ETag": "\"d71d633fcc242e82dd6a8d8f5a5c6808d16df4f940edf876fe148edea2557365\"",
+  "Last-Modified": "Fri, 13 Nov 2026 12:06:16 GMT",
   "base": {
     "repo": {
       "name": "conda-rattler-solver-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T12:06:12Z",
   "closed_by": null,
   "created_at": "2026-11-13T09:09:33Z",
   "draft": false,
   "e_tag": "\"3ed02c8032d87395f23bf273871c3270c42b53956fb31f5cc07c7893e367b0d2\"",
   "head": {
-    "ref": "26.11.0_h8021e1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/conda-rattler-solver-feedstock/pull/26",
   "id": 5293000298,
-  "labels": [],
-  "last_fetched": "2026-11-13T09:09:34.902219",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8643447983,
+      "name": "automerge",
+      "node_id": "LA_kwDOOtIlbs8AAAACAzCMrw",
+      "url": "https://api.github.com/repos/conda-forge/conda-rattler-solver-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T12:07:07.418832",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T12:06:12Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-11-13T09:09:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T12:06:16Z"
 }

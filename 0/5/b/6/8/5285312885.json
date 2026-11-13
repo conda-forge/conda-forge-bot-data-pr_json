@@ -1,29 +1,29 @@
 {
-  "ETag": "\"af0ea7d54aeea13855a2600cc681d08d66fb37dc21ed0c6367756b7a5d8017bd\"",
-  "Last-Modified": "Thu, 12 Nov 2026 21:15:19 GMT",
+  "ETag": "\"a5112853071e691bf1a5a4ae27730e890956a31ed383fb11990ade1425b62a74\"",
+  "Last-Modified": "Fri, 13 Nov 2026 16:48:40 GMT",
   "base": {
     "repo": {
       "name": "oslotest-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T16:48:40Z",
   "closed_by": null,
   "created_at": "2026-11-12T21:13:44Z",
   "draft": false,
   "e_tag": "\"0d8fa7446afe64226993441badc387e4f8d6d6677ad1aad4d2d42dd13a4199ad\"",
   "head": {
-    "ref": "6.2.0_h762eed"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/oslotest-feedstock/pull/1",
   "id": 5285312885,
   "labels": [],
-  "last_fetched": "2026-11-12T21:29:53.555355",
+  "last_fetched": "2026-11-13T16:49:52.302439",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T16:48:40Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-12T21:15:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T16:48:40Z"
 }

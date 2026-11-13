@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dc3dedf2a3ec84133a54c03ffbb504ea7bda18666cea9cf930e42ea34aec83b4\"",
+  "Last-Modified": "Fri, 13 Nov 2026 16:23:52 GMT",
   "base": {
     "repo": {
       "name": "pydantic-settings-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T16:23:52Z",
   "closed_by": null,
   "created_at": "2026-11-13T16:22:03Z",
   "draft": false,
   "e_tag": "\"b1b66d2fd5ef03f8af7fc99d8b0bd64b3abe548695e3878a1ca7c7cbf01fda0e\"",
   "head": {
-    "ref": "2.16.3_hb4fc76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pydantic-settings-feedstock/pull/43",
   "id": 5299008276,
   "labels": [],
-  "last_fetched": "2026-11-13T16:22:04.040097",
+  "last_fetched": "2026-11-13T16:25:32.040043",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T16:23:52Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-11-13T16:22:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T16:23:57Z"
 }

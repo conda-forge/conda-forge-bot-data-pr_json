@@ -1,12 +1,13 @@
 {
-  "ETag": "\"6f16ab84f4ff06d497cd130714c3af4f8853756936bb476aad3328ab871c0e5f\"",
-  "Last-Modified": "Fri, 02 Oct 2026 04:37:10 GMT",
+  "ETag": "W/\"5f87db796a0ad312d4b90a544e4ffcad81efc3d556b149a55facd995591e5310\"",
+  "Last-Modified": "Fri, 13 Nov 2026 21:28:53 GMT",
   "base": {
     "repo": {
       "name": "spiceql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T21:28:52Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-02T04:35:36Z",
   "draft": false,
   "e_tag": "\"0ebec7b19f79654527489a03fab3a5bc0c0f09fe04fee554b64434094a7b2ccc\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/spiceql-feedstock/pull/64",
   "id": 4712725051,
-  "labels": [],
-  "last_fetched": "2026-11-06T20:58:35.580904",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-13T21:28:55.781989",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-10-02T04:37:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T21:28:53Z"
 }

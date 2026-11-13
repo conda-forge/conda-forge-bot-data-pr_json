@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9681f6bb007ab7c92e867f832e11144abb88765b355e5f7f9e010ebd4e3a48ce\"",
-  "Last-Modified": "Thu, 12 Nov 2026 23:02:36 GMT",
+  "ETag": "\"455d245c306f7303dca76e9310d902ed1c046b9a595387c2415e61971274d683\"",
+  "Last-Modified": "Fri, 13 Nov 2026 10:16:49 GMT",
   "base": {
     "repo": {
       "name": "movement-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T10:16:49Z",
   "closed_by": null,
   "created_at": "2026-11-12T23:00:45Z",
   "draft": false,
   "e_tag": "\"ddf5f7376aaae489321d770cc2bc24ae1db34b2c9b8a4009b412047c9c6f00fd\"",
   "head": {
-    "ref": "0.18.0_hc0ccd0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/movement-feedstock/pull/36",
   "id": 5286665584,
   "labels": [],
-  "last_fetched": "2026-11-13T04:57:12.366378",
+  "last_fetched": "2026-11-13T10:18:38.637464",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T10:16:49Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-12T23:02:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T10:16:49Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b4528cc1452cb4d6d93c5127423af3467f312869265bfb1993e69c69b27fa3e3\"",
-  "Last-Modified": "Thu, 12 Nov 2026 13:06:57 GMT",
+  "ETag": "\"04d6f2d3fcbc155eb039a7feb3061985559b5b7a4fc8b23c714f8d759147ff4f\"",
+  "Last-Modified": "Fri, 13 Nov 2026 13:46:25 GMT",
   "base": {
     "repo": {
       "name": "dascore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T13:46:25Z",
   "closed_by": null,
   "created_at": "2026-11-12T13:06:56Z",
   "draft": false,
   "e_tag": "\"4755b265c6c23bbb687c4c56899bd52c816c59471121211888a4a96284083cb5\"",
   "head": {
-    "ref": "0.1.25_hef10b2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dascore-feedstock/pull/54",
   "id": 5277945509,
   "labels": [],
-  "last_fetched": "2026-11-12T13:16:57.910092",
+  "last_fetched": "2026-11-13T13:47:53.922324",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T13:46:25Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-12T13:08:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T13:46:25Z"
 }

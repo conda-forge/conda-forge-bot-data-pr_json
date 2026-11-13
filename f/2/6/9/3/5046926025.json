@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c4a6f486e636750911eb609565d3d24cd51943ba3e4c45fc4d74cd25e6f5fe95\"",
-  "Last-Modified": "Wed, 28 Oct 2026 07:38:45 GMT",
+  "ETag": "\"c90893cd48b70554edeb5af2ded1829594b502996ca34c6ff1af89a427cb79fc\"",
+  "Last-Modified": "Fri, 13 Nov 2026 09:44:34 GMT",
   "base": {
     "repo": {
       "name": "rapidjson-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T09:44:34Z",
   "closed_by": null,
   "created_at": "2026-10-28T07:37:20Z",
   "draft": false,
   "e_tag": "\"edd3be2af785a3f2ffa4a3e73d479e7637401ababaff04484af0afe673bf90b9\"",
   "head": {
-    "ref": "bot-pr_arch_arm64_win_h9f07d6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rapidjson-feedstock/pull/13",
   "id": 5046926025,
   "labels": [],
-  "last_fetched": "2026-11-11T17:44:04.559687",
+  "last_fetched": "2026-11-13T09:45:43.243095",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T09:44:34Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-10-28T07:38:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T09:44:34Z"
 }

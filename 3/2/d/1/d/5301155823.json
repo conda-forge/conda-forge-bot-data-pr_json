@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a4e9c676575402decd7a93020d89627030c39c872535fce0baadfceb6b44a51f\"",
+  "Last-Modified": "Fri, 13 Nov 2026 18:57:40 GMT",
   "base": {
     "repo": {
       "name": "docling-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T18:57:36Z",
   "closed_by": null,
   "created_at": "2026-11-13T18:55:38Z",
   "draft": false,
   "e_tag": "\"0b3fdc400dca013396cc781fec37cfda811fb5d575b2e45ab850a8c5d7de1b7c\"",
   "head": {
-    "ref": "2.107.0_h02dbd8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/docling-core-feedstock/pull/121",
   "id": 5301155823,
   "labels": [],
-  "last_fetched": "2026-11-13T18:55:39.080742",
+  "last_fetched": "2026-11-13T18:58:43.914730",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T18:57:36Z",
   "number": 121,
-  "state": "open",
-  "updated_at": "2026-11-13T18:55:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T18:57:40Z"
 }

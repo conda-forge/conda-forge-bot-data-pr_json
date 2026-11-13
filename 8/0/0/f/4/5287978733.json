@@ -1,6 +1,6 @@
 {
-  "ETag": "\"4507f1255a4d1a89b7e5bcbfafa0ae52649eaef9ea2add79a14edba413d9fdcf\"",
-  "Last-Modified": "Fri, 13 Nov 2026 00:57:32 GMT",
+  "ETag": "\"37493526a9d29b8d09d6bcb70a28659795f5ee9e95f00c1e4cefe79c5732307b\"",
+  "Last-Modified": "Fri, 13 Nov 2026 16:59:32 GMT",
   "base": {
     "repo": {
       "name": "fsspec-db-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/fsspec-db-feedstock/pull/5",
   "id": 5287978733,
-  "labels": [],
-  "last_fetched": "2026-11-13T04:57:59.910949",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11295195659,
+      "name": "automerge",
+      "node_id": "LA_kwDOTA4kIs8AAAACoT8CCw",
+      "url": "https://api.github.com/repos/conda-forge/fsspec-db-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T17:01:11.578654",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 5,
   "state": "open",
-  "updated_at": "2026-11-13T00:57:32Z"
+  "updated_at": "2026-11-13T16:59:32Z"
 }

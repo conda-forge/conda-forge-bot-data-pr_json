@@ -1,27 +1,29 @@
 {
+  "ETag": "\"21a61bb2f6fc36f14ea180ceca7d550ca11b0060baede5b35e7be07c5161391e\"",
+  "Last-Modified": "Fri, 13 Nov 2026 06:12:20 GMT",
   "base": {
     "repo": {
       "name": "pylops-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T06:12:17Z",
   "closed_by": null,
   "created_at": "2026-11-13T06:10:12Z",
   "draft": false,
   "e_tag": "\"cf7e8a8162608b5bd77e2517af8506c8e344adffecf6b0cf1e3c8fdf4d76cab7\"",
   "head": {
-    "ref": "2.9.0_h2220fd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylops-feedstock/pull/45",
   "id": 5291008247,
   "labels": [],
-  "last_fetched": "2026-11-13T06:10:13.866791",
+  "last_fetched": "2026-11-13T06:13:39.860241",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T06:12:17Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-11-13T06:10:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T06:12:20Z"
 }

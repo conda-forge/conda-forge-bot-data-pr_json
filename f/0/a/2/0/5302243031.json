@@ -1,27 +1,29 @@
 {
+  "ETag": "\"483145dabec6e2e731c5215df3ce358de46fe0ee4c46bbf477098ccad70efb3c\"",
+  "Last-Modified": "Fri, 13 Nov 2026 20:21:17 GMT",
   "base": {
     "repo": {
       "name": "cspell-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T20:21:17Z",
   "closed_by": null,
   "created_at": "2026-11-13T20:19:02Z",
   "draft": false,
   "e_tag": "\"26a7bbd69ab0a79fe89ad0c8be698ba5d71a9d841717d131430d8b1f24e2fbf1\"",
   "head": {
-    "ref": "10.5.0_h6e0175"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cspell-feedstock/pull/53",
   "id": 5302243031,
   "labels": [],
-  "last_fetched": "2026-11-13T20:19:02.850301",
+  "last_fetched": "2026-11-13T20:22:22.210865",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T20:21:17Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-11-13T20:19:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T20:21:21Z"
 }

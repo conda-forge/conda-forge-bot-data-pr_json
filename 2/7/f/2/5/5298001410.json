@@ -1,4 +1,6 @@
 {
+  "ETag": "\"49d47378b76c85f10b7e5d60b577844da65464184253282d37cc5e36d69f3d3a\"",
+  "Last-Modified": "Fri, 13 Nov 2026 15:23:30 GMT",
   "base": {
     "repo": {
       "name": "python-lzf-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/python-lzf-feedstock/pull/14",
   "id": 5298001410,
-  "labels": [],
-  "last_fetched": "2026-11-13T15:15:39.894531",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7282200755,
+      "name": "automerge",
+      "node_id": "LA_kwDOMeefeM8AAAABsg2Qsw",
+      "url": "https://api.github.com/repos/conda-forge/python-lzf-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T15:24:43.421482",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 14,
   "state": "open",
-  "updated_at": "2026-11-13T15:15:38Z"
+  "updated_at": "2026-11-13T15:23:30Z"
 }

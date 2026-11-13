@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c50267309dd108ca0561810e3e7e1de89226c01b223d27b2f2f8733c817aef6b\"",
-  "Last-Modified": "Fri, 13 Nov 2026 08:46:30 GMT",
+  "ETag": "\"2606b1bc1253ca5ab686f684efcfdd5c7ea96f5ad50fa36d53f68d58b922e760\"",
+  "Last-Modified": "Fri, 13 Nov 2026 13:01:17 GMT",
   "base": {
     "repo": {
       "name": "dagster-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T13:01:17Z",
   "closed_by": null,
   "created_at": "2026-11-13T08:45:05Z",
   "draft": false,
   "e_tag": "\"8979df31eea5414ef400d451511df407fb4c695e260bf5d0ce4b84ec47dea324\"",
   "head": {
-    "ref": "1.13.30_h059a36"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dagster-feedstock/pull/542",
   "id": 5292705295,
   "labels": [],
-  "last_fetched": "2026-11-13T09:21:00.695905",
+  "last_fetched": "2026-11-13T13:02:47.182235",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T13:01:17Z",
   "number": 542,
-  "state": "open",
-  "updated_at": "2026-11-13T08:46:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T13:01:17Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"ffb1b691069284c28cc60392798c89ed4677bd8935bdf42251ebc8400a60066c\"",
-  "Last-Modified": "Fri, 13 Nov 2026 07:35:54 GMT",
+  "ETag": "\"6b0ceb65550708c1ec9a0ba4cdac5710be34c2dee242bf4799d85f381d40d795\"",
+  "Last-Modified": "Fri, 13 Nov 2026 17:05:14 GMT",
   "base": {
     "repo": {
       "name": "fsspec-browser-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/fsspec-browser-feedstock/pull/2",
   "id": 5291892018,
-  "labels": [],
-  "last_fetched": "2026-11-13T08:20:44.846747",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11899769700,
+      "name": "automerge",
+      "node_id": "LA_kwDOT-v8A88AAAACxUgTZA",
+      "url": "https://api.github.com/repos/conda-forge/fsspec-browser-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T17:06:14.095470",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 2,
   "state": "open",
-  "updated_at": "2026-11-13T07:35:54Z"
+  "updated_at": "2026-11-13T17:05:14Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b0d2e6208837015eeface30cd52f1449d364c32635832df8315647c4d2d6256c\"",
+  "Last-Modified": "Fri, 13 Nov 2026 17:25:44 GMT",
   "base": {
     "repo": {
       "name": "signac-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T17:25:44Z",
   "closed_by": null,
   "created_at": "2026-11-13T16:48:53Z",
   "draft": false,
   "e_tag": "\"ce13493e1f7d27607d9c317c1f191c63a7cd19a884a9c345238bf069c4761ae9\"",
   "head": {
-    "ref": "2.4.2_h4b3e2c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/signac-feedstock/pull/31",
   "id": 5299389092,
   "labels": [],
-  "last_fetched": "2026-11-13T16:48:53.761955",
+  "last_fetched": "2026-11-13T17:27:20.877760",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T17:25:44Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-13T16:48:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T17:25:44Z"
 }

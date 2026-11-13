@@ -1,29 +1,29 @@
 {
-  "ETag": "\"627ff20f99c54cbb3f56966c4d01e562e6bb9a92ab9a4bcb0f8234778abdb5ee\"",
-  "Last-Modified": "Thu, 12 Nov 2026 12:23:03 GMT",
+  "ETag": "\"6fda85367d981c0bfecb49cbbe5be8eae6f917f57536007bcb8f8f9ba9f623c8\"",
+  "Last-Modified": "Fri, 13 Nov 2026 09:11:04 GMT",
   "base": {
     "repo": {
       "name": "lalinference-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T09:11:03Z",
   "closed_by": null,
   "created_at": "2026-11-12T11:28:34Z",
   "draft": false,
   "e_tag": "\"b52e87ef61f63acbc4c030a7af67eea126bc8e12d5b5bf56b6a8b8d01be503cc\"",
   "head": {
-    "ref": "5.0.1_hb6cde7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lalinference-feedstock/pull/80",
   "id": 5276526515,
   "labels": [],
-  "last_fetched": "2026-11-12T12:44:21.274808",
+  "last_fetched": "2026-11-13T09:12:27.615778",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T09:11:03Z",
   "number": 80,
-  "state": "open",
-  "updated_at": "2026-11-12T12:23:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T09:11:04Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"e2c594a455c8e09c1508a5ce5490d36943fd358d1c37e5ae11dd6a6dc5a937cc\"",
-  "Last-Modified": "Tue, 03 Nov 2026 23:06:59 GMT",
+  "ETag": "\"2ddcff9109846cff35609965dacc8ea0dea160b759332cd851f10743a616cc06\"",
+  "Last-Modified": "Fri, 13 Nov 2026 07:48:10 GMT",
   "base": {
     "repo": {
       "name": "pydeephaven-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T07:48:10Z",
   "closed_by": null,
   "created_at": "2026-11-03T23:05:29Z",
   "draft": false,
   "e_tag": "\"0d6fa7e85bd02ba8861402ae37f0877440fc1b66d9ebbdac0d5bdaaa3c49034f\"",
   "head": {
-    "ref": "42.8_hc61426"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pydeephaven-feedstock/pull/2",
   "id": 5145889979,
   "labels": [],
-  "last_fetched": "2026-11-11T04:59:58.806097",
+  "last_fetched": "2026-11-13T07:49:37.564119",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T07:48:10Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-03T23:06:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T07:48:10Z"
 }

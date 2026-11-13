@@ -1,27 +1,41 @@
 {
+  "ETag": "\"8b519e13762c58e712d45595165e9035e416d38f6be761f90a86f30bdbf276a9\"",
+  "Last-Modified": "Fri, 13 Nov 2026 05:29:45 GMT",
   "base": {
     "repo": {
       "name": "atproto-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T05:29:40Z",
   "closed_by": null,
   "created_at": "2026-11-13T05:24:17Z",
   "draft": false,
   "e_tag": "\"e0810f3f91d5260eae491a9fb8170504d09c4c50bc8384fb5577992f9100b495\"",
   "head": {
-    "ref": "0.0.74_h932ff0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/atproto-feedstock/pull/22",
   "id": 5290562791,
-  "labels": [],
-  "last_fetched": "2026-11-13T05:24:18.409364",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7715600617,
+      "name": "automerge",
+      "node_id": "LA_kwDONL-ULM8AAAABy-K46Q",
+      "url": "https://api.github.com/repos/conda-forge/atproto-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T05:30:13.059699",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T05:29:40Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-13T05:24:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T05:29:45Z"
 }

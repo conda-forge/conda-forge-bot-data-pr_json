@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"ca70c7ae51fcf454e6ed4c6956314ad4f9182b48e46dc52fd68d0c8da9ffb84c\"",
+  "Last-Modified": "Fri, 13 Nov 2026 16:09:44 GMT",
   "base": {
     "repo": {
       "name": "spt3g-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T16:09:44Z",
   "closed_by": null,
   "created_at": "2026-11-13T09:49:35Z",
   "draft": false,
   "e_tag": "\"980d2dee7bfc716a297c5d6461b6cf93b55d26f6e9b9b734d77c1bf445998dc7\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h29ff0c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spt3g-feedstock/pull/9",
   "id": 5293498140,
   "labels": [],
-  "last_fetched": "2026-11-13T09:49:36.075502",
+  "last_fetched": "2026-11-13T16:11:06.859860",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T16:09:44Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-13T09:49:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T16:09:44Z"
 }

@@ -1,13 +1,13 @@
 {
-  "ETag": "\"e95d0539aba46c36c971ba86d7ea537b3fa1f98b2942d0de2eb860d450d6c6b9\"",
-  "Last-Modified": "Sun, 01 Nov 2026 17:28:07 GMT",
+  "ETag": "W/\"13d31aa3a5940165efd1f52e7f61020803ec4bc0d315d7a174932fa7d6b8218a\"",
+  "Last-Modified": "Fri, 13 Nov 2026 09:54:40 GMT",
   "base": {
     "repo": {
       "name": "xmlsec-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-13T09:54:40Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-01T17:26:37Z",
   "draft": false,
   "e_tag": "\"1b05cce1f9b6d803e6a73e07280c28454a8f0b8abb18b4c61c4446cfd70b80bd\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/xmlsec-feedstock/pull/33",
   "id": 5109772156,
-  "labels": [],
-  "last_fetched": "2026-11-08T18:19:02.164999",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 2775672400,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwyNzc1NjcyNDAw",
+      "url": "https://api.github.com/repos/conda-forge/xmlsec-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-13T09:54:43.245102",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-01T17:28:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T09:54:40Z"
 }

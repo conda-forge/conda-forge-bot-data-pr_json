@@ -1,4 +1,6 @@
 {
+  "ETag": "\"bfc8ba9d4fb9a26c1d0188d27e8cd018e77d33289f15a9909cd97322d75607b2\"",
+  "Last-Modified": "Fri, 13 Nov 2026 12:12:24 GMT",
   "base": {
     "repo": {
       "name": "mne-lsl-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/mne-lsl-feedstock/pull/38",
   "id": 5295113299,
-  "labels": [],
-  "last_fetched": "2026-11-13T12:02:20.053866",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6090484102,
+      "name": "automerge",
+      "node_id": "LA_kwDOKg_WU88AAAABawVphg",
+      "url": "https://api.github.com/repos/conda-forge/mne-lsl-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T12:14:09.674251",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 38,
   "state": "open",
-  "updated_at": "2026-11-13T12:02:19Z"
+  "updated_at": "2026-11-13T12:12:24Z"
 }

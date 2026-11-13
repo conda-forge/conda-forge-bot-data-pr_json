@@ -1,29 +1,29 @@
 {
-  "ETag": "\"144f3f5ae66f93ae85f15c26663d009dfb2980388fbaae558489186be0171fae\"",
-  "Last-Modified": "Fri, 13 Nov 2026 08:58:26 GMT",
+  "ETag": "W/\"29fa6ced0dae230d9997352f6278ba3608e3012647bcc971df9c9082d3fc8ccb\"",
+  "Last-Modified": "Fri, 13 Nov 2026 10:28:04 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-aiplatform-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T10:28:04Z",
   "closed_by": null,
   "created_at": "2026-11-13T08:56:47Z",
   "draft": false,
   "e_tag": "\"3c9e5cd0f807e46f86b3b1e5c3dc4e1da66f84668236c5345cdb92b158d66194\"",
   "head": {
-    "ref": "2.9.0_h8d29ee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-cloud-aiplatform-feedstock/pull/210",
   "id": 5292846620,
   "labels": [],
-  "last_fetched": "2026-11-13T08:58:37.488690",
+  "last_fetched": "2026-11-13T10:29:23.585636",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T10:28:04Z",
   "number": 210,
-  "state": "open",
-  "updated_at": "2026-11-13T08:58:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T10:28:04Z"
 }

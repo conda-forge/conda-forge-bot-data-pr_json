@@ -1,6 +1,6 @@
 {
-  "ETag": "\"8d8ce0154c69c404abf51a8670c8531ec5fc80c6f3cc45dccdc0ffc8cde5e96d\"",
-  "Last-Modified": "Fri, 13 Nov 2026 00:59:05 GMT",
+  "ETag": "\"4cc5156aa77ba66eba741783d23aa4103573f200d0e45ad4a26954a1950173db\"",
+  "Last-Modified": "Fri, 13 Nov 2026 13:03:57 GMT",
   "base": {
     "repo": {
       "name": "vale-styles-google-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/vale-styles-google-feedstock/pull/6",
   "id": 5287994500,
-  "labels": [],
-  "last_fetched": "2026-11-13T02:58:44.466295",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6798065352,
+      "name": "automerge",
+      "node_id": "LA_kwDOLriG488AAAABlTI-yA",
+      "url": "https://api.github.com/repos/conda-forge/vale-styles-google-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-13T13:04:17.131958",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 6,
   "state": "open",
-  "updated_at": "2026-11-13T00:59:05Z"
+  "updated_at": "2026-11-13T13:03:57Z"
 }

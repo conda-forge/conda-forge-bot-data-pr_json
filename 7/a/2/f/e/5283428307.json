@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a7afc9c474c0d5c1de53df1636f4b1dda712ae16e74164f47e2f79e191115e0a\"",
-  "Last-Modified": "Thu, 12 Nov 2026 18:59:51 GMT",
+  "ETag": "W/\"70ba65db7e210b2fc1a657556eeac9c3f1fb5521ea91d6301bb153bd34f46100\"",
+  "Last-Modified": "Fri, 13 Nov 2026 07:36:05 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T07:36:05Z",
   "closed_by": null,
   "created_at": "2026-11-12T18:58:10Z",
   "draft": false,
   "e_tag": "\"233d5302bb6b843198b5fff59bd01b75ad7d12170d86e6290be9c87949922395\"",
   "head": {
-    "ref": "3.4.0_h3b05d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-client-feedstock/pull/1",
   "id": 5283428307,
   "labels": [],
-  "last_fetched": "2026-11-12T23:27:36.964691",
+  "last_fetched": "2026-11-13T07:37:30.409490",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-13T07:36:04Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-12T18:59:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T07:36:05Z"
 }

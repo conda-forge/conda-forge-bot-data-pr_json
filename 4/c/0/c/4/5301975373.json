@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e7bac49ad1513c5ec3d29bf3529354f86676567084df3c44bf4d22ff72ca689d\"",
+  "Last-Modified": "Fri, 13 Nov 2026 20:02:54 GMT",
   "base": {
     "repo": {
       "name": "trame-server-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-13T20:02:49Z",
   "closed_by": null,
   "created_at": "2026-11-13T19:58:18Z",
   "draft": false,
   "e_tag": "\"dfc3ac28d0ca7ec6a2ceaea288bf5c64f58142bcfe51c5c233f790677e762243\"",
   "head": {
-    "ref": "4.1.2_h3327c1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trame-server-feedstock/pull/75",
   "id": 5301975373,
   "labels": [],
-  "last_fetched": "2026-11-13T19:58:19.382386",
+  "last_fetched": "2026-11-13T20:03:55.322498",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-13T20:02:49Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-11-13T19:58:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-13T20:02:54Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"41e5edcebdd09a982361db342c3a4647def279f70475f224a6f25f89ba89aad0\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"891f224fa67e47e1c7c8fcb1e60580ebf400f3a95c6449f3f27cbae1308bf09d\"",
+  "Last-Modified": "Sat, 14 Nov 2026 12:57:58 GMT",
   "base": {
     "repo": {
       "name": "normaliz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T12:57:56Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-02-02T15:31:08Z",
   "draft": false,
   "e_tag": "\"b98cb5775576d3ad7ce061623b48e599d61869110e9545d86a5833ffc0d78437\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/normaliz-feedstock/pull/64",
   "id": 3237122453,
   "labels": [],
-  "last_fetched": "2026-11-07T12:32:13.246511",
+  "last_fetched": "2026-11-14T12:59:26.512359",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-02-02T15:32:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T12:57:58Z"
 }

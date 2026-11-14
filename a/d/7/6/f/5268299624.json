@@ -1,29 +1,29 @@
 {
-  "ETag": "\"510d767e0da50a2760f9846c85c87d62befd5db9118792877294a2ad04b70ae3\"",
-  "Last-Modified": "Wed, 11 Nov 2026 23:22:07 GMT",
+  "ETag": "\"481417168431db3493fb80a744c4cd94ac998d2f4c29de0974458fb4696489ab\"",
+  "Last-Modified": "Sat, 14 Nov 2026 21:21:25 GMT",
   "base": {
     "repo": {
       "name": "cmd2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T21:21:25Z",
   "closed_by": null,
   "created_at": "2026-11-11T23:20:25Z",
   "draft": false,
   "e_tag": "\"861d89e6d5fc65fcc28c88625b77d4d0d7b8225390235df0f94f41feee2aa2be\"",
   "head": {
-    "ref": "4.4.2_h501483"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cmd2-feedstock/pull/131",
   "id": 5268299624,
   "labels": [],
-  "last_fetched": "2026-11-12T01:29:12.230413",
+  "last_fetched": "2026-11-14T21:23:01.689636",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T21:21:25Z",
   "number": 131,
-  "state": "open",
-  "updated_at": "2026-11-11T23:22:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T21:21:25Z"
 }

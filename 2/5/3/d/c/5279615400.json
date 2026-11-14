@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d9c3d6c8454ece91cfea883a5deca8b5fd1bf004f759bb4392b3ae064ae2312b\"",
-  "Last-Modified": "Thu, 12 Nov 2026 14:55:13 GMT",
+  "ETag": "\"fd0ece7c6f4d0ab3d3ad783e556beafac7ce6879f949c00e0c4fb9b2a6dd23b4\"",
+  "Last-Modified": "Sat, 14 Nov 2026 21:20:50 GMT",
   "base": {
     "repo": {
       "name": "oslo.utils-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T21:20:50Z",
   "closed_by": null,
   "created_at": "2026-11-12T14:53:36Z",
   "draft": false,
   "e_tag": "\"02ac8e0c0b36464964f2b0024b83c06950c51c30bb9987102fd3634858ff7ea9\"",
   "head": {
-    "ref": "10.3.0_h88358d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/oslo.utils-feedstock/pull/69",
   "id": 5279615400,
   "labels": [],
-  "last_fetched": "2026-11-12T15:44:32.936806",
+  "last_fetched": "2026-11-14T21:21:57.092558",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T21:20:50Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-11-12T14:55:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T21:20:50Z"
 }

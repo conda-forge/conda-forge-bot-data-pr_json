@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2e228dba286116b9016488a655869f328a98662c2d600080fa1444eb9b09f099\"",
-  "Last-Modified": "Fri, 13 Nov 2026 18:33:07 GMT",
+  "ETag": "\"e0e5f0023f9ac0fdce923d5fa24457c44e1782e86dbea75740630825033f5ee0\"",
+  "Last-Modified": "Sat, 14 Nov 2026 00:19:40 GMT",
   "base": {
     "repo": {
       "name": "anuga-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T00:19:40Z",
   "closed_by": null,
   "created_at": "2026-11-13T18:31:24Z",
   "draft": false,
   "e_tag": "\"9785dbd07e09d7065659553d743231f0653c209277682254680f6bd0a16402ff\"",
   "head": {
-    "ref": "4.2.0_hac7fb3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anuga-feedstock/pull/31",
   "id": 5300836758,
   "labels": [],
-  "last_fetched": "2026-11-13T20:59:50.283354",
+  "last_fetched": "2026-11-14T00:20:46.259090",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T00:19:40Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-13T18:33:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T00:19:40Z"
 }

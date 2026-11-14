@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a77f5a170d2b3e56b2915cbbbc4985f2a8f80e3ea78aad1489fa1bdc753bf48b\"",
-  "Last-Modified": "Sat, 14 Nov 2026 16:42:17 GMT",
+  "ETag": "W/\"56da209c2d3e3a6d3347b8d84e735cd2a8683e547ebed0041b468732f0056f3f\"",
+  "Last-Modified": "Sat, 14 Nov 2026 16:42:14 GMT",
   "base": {
     "repo": {
       "name": "tensorflow-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/tensorflow-feedstock/pull/506",
   "id": 5199320646,
-  "labels": [],
-  "last_fetched": "2026-11-14T16:43:21.267824",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T16:42:17.460645",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 506,
   "state": "closed",
-  "updated_at": "2026-11-14T16:42:17Z"
+  "updated_at": "2026-11-14T16:42:14Z"
 }

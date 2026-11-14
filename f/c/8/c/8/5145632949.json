@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e2bd102f34b679f7fe4936919fc04a985471c310457da04acc869acf70b46dcf\"",
-  "Last-Modified": "Tue, 03 Nov 2026 22:42:40 GMT",
+  "ETag": "\"35cc1ed42f44e50af89860a285407166dd4f6d5ec556ffd6a7dc7f387b3d8f36\"",
+  "Last-Modified": "Sat, 14 Nov 2026 11:16:12 GMT",
   "base": {
     "repo": {
       "name": "mlir-python-bindings-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/mlir-python-bindings-feedstock/pull/83",
   "id": 5145632949,
-  "labels": [],
-  "last_fetched": "2026-11-10T23:43:39.589477",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5351876615,
+      "name": "automerge",
+      "node_id": "LA_kwDOJS1uDc8AAAABPv8oBw",
+      "url": "https://api.github.com/repos/conda-forge/mlir-python-bindings-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-14T11:17:46.696204",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 83,
   "state": "open",
-  "updated_at": "2026-11-03T22:42:40Z"
+  "updated_at": "2026-11-14T11:16:12Z"
 }

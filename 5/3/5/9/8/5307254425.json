@@ -1,27 +1,29 @@
 {
+  "ETag": "\"faf2bb380074bfa814733196a48b54070ced6136fecfa020d4aa63f1a7e73ff5\"",
+  "Last-Modified": "Sat, 14 Nov 2026 04:43:15 GMT",
   "base": {
     "repo": {
       "name": "s2n-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T04:43:00Z",
   "closed_by": null,
   "created_at": "2026-11-14T04:29:54Z",
   "draft": false,
   "e_tag": "\"716ae81a33174c6b9306f96778467e490a71b29a39a180e6a861c090f7404097\"",
   "head": {
-    "ref": "1.7.14_hf5c674"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/s2n-feedstock/pull/194",
   "id": 5307254425,
   "labels": [],
-  "last_fetched": "2026-11-14T04:29:54.936724",
+  "last_fetched": "2026-11-14T04:44:15.803730",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T04:42:59Z",
   "number": 194,
-  "state": "open",
-  "updated_at": "2026-11-14T04:29:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T04:43:15Z"
 }

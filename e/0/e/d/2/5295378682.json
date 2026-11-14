@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3b7325a8409ca88e76430e6cb5699d23e86a6b31bf33551ce487b45d76030eb0\"",
-  "Last-Modified": "Fri, 13 Nov 2026 12:23:22 GMT",
+  "ETag": "\"ea55acb03c9deaf6947e75fafc132bde3b119656bf44da3d183db6f58f95daa5\"",
+  "Last-Modified": "Sat, 14 Nov 2026 19:18:44 GMT",
   "base": {
     "repo": {
       "name": "folly-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T19:18:44Z",
   "closed_by": null,
   "created_at": "2026-11-13T12:21:38Z",
   "draft": false,
   "e_tag": "\"8ffdb08334640fa400db2df6a03cc13a2aff6e8d0f4d5611b7b7e0ba51bdd5a9\"",
   "head": {
-    "ref": "rebuild-libevent2113-0-1_h8ee3d2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/folly-feedstock/pull/365",
   "id": 5295378682,
   "labels": [],
-  "last_fetched": "2026-11-13T20:27:49.684804",
+  "last_fetched": "2026-11-14T19:19:50.804136",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T19:18:44Z",
   "number": 365,
-  "state": "open",
-  "updated_at": "2026-11-13T12:23:22Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T19:18:44Z"
 }

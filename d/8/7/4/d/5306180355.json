@@ -1,6 +1,6 @@
 {
-  "ETag": "\"0fbc155180dc627231c5d0de70d048b6a2a552738f27060283c66e3459504f01\"",
-  "Last-Modified": "Sat, 14 Nov 2026 02:28:25 GMT",
+  "ETag": "\"68c9356b8dfa2cb2daff05b5686ace8fc190abad545e2318210d5d8894f2eb21\"",
+  "Last-Modified": "Sat, 14 Nov 2026 07:00:32 GMT",
   "base": {
     "repo": {
       "name": "pynvvideocodec-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/pynvvideocodec-feedstock/pull/2",
   "id": 5306180355,
-  "labels": [],
-  "last_fetched": "2026-11-14T03:58:45.513720",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 13073334906,
+      "name": "automerge",
+      "node_id": "LA_kwDOVtqthM8AAAADCztCeg",
+      "url": "https://api.github.com/repos/conda-forge/pynvvideocodec-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-14T07:02:19.324195",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 2,
   "state": "open",
-  "updated_at": "2026-11-14T02:28:25Z"
+  "updated_at": "2026-11-14T07:00:32Z"
 }

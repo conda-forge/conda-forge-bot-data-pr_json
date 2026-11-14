@@ -1,29 +1,29 @@
 {
-  "ETag": "\"323b6322181444cba75fd4afa36f9725bb4203097ad94feb14b6b281ee72f3ef\"",
-  "Last-Modified": "Fri, 13 Nov 2026 22:47:51 GMT",
+  "ETag": "\"d8a9b3c98f92c5a21f3ee9ad40fcec60d1566026525ed0ae56ef2e3bad415c08\"",
+  "Last-Modified": "Sat, 14 Nov 2026 06:42:28 GMT",
   "base": {
     "repo": {
       "name": "proteus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T06:42:28Z",
   "closed_by": null,
   "created_at": "2026-11-13T21:57:59Z",
   "draft": false,
   "e_tag": "\"5be6428687111625191eb876afae8642bd2cdf0ac36fa1412853b0ff6490b8fc\"",
   "head": {
-    "ref": "1.9.1_hea501d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/proteus-feedstock/pull/86",
   "id": 5303469922,
   "labels": [],
-  "last_fetched": "2026-11-14T00:59:10.846033",
+  "last_fetched": "2026-11-14T06:43:59.282906",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T06:42:28Z",
   "number": 86,
-  "state": "open",
-  "updated_at": "2026-11-13T22:47:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T06:42:28Z"
 }

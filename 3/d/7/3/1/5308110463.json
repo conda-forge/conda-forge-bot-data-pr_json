@@ -1,27 +1,29 @@
 {
+  "ETag": "\"336a771f2f94c667f3febbb8f4829a3bc5d6ed8e5e4df5593439a9f3d1ebbe56\"",
+  "Last-Modified": "Sat, 14 Nov 2026 06:17:11 GMT",
   "base": {
     "repo": {
       "name": "qavf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T06:17:07Z",
   "closed_by": null,
   "created_at": "2026-11-14T06:15:08Z",
   "draft": false,
   "e_tag": "\"acf536a5ee28a6658e519af0c327cabf71b4fdd1c2c7841b358ba4b1f29e8b89\"",
   "head": {
-    "ref": "0.7.0_h882523"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qavf-feedstock/pull/6",
   "id": 5308110463,
   "labels": [],
-  "last_fetched": "2026-11-14T06:15:08.892035",
+  "last_fetched": "2026-11-14T06:18:19.289686",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T06:17:07Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-14T06:15:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T06:17:11Z"
 }

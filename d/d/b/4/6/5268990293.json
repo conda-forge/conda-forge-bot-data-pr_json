@@ -1,29 +1,29 @@
 {
-  "ETag": "\"08d15201b4a8bc4eb0331073d245f6310da9ae94086259166205361ebf5e0541\"",
-  "Last-Modified": "Thu, 12 Nov 2026 00:30:36 GMT",
+  "ETag": "\"3a44daa36332a64d7052c388ba73ece4683edd26efeb8cea8d924ed75894d8c1\"",
+  "Last-Modified": "Sat, 14 Nov 2026 12:12:04 GMT",
   "base": {
     "repo": {
       "name": "cloudvision-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T12:12:04Z",
   "closed_by": null,
   "created_at": "2026-11-12T00:28:48Z",
   "draft": false,
   "e_tag": "\"a4a18b6f581c93cfebea9b864233c8cbd54f09a16966608d13e4e762daef9037\"",
   "head": {
-    "ref": "1.35.0_hddbbbb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cloudvision-feedstock/pull/5",
   "id": 5268990293,
   "labels": [],
-  "last_fetched": "2026-11-12T00:39:27.237429",
+  "last_fetched": "2026-11-14T12:13:09.112145",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T12:12:04Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-12T00:30:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T12:12:04Z"
 }

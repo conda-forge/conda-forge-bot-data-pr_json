@@ -1,13 +1,13 @@
 {
-  "ETag": "\"e6deed3b9a138d02178348f0c06b1f9284a8326987cbef35d208da7d881a3423\"",
-  "Last-Modified": "Sat, 14 Nov 2026 12:46:10 GMT",
+  "ETag": "W/\"88841d5176eba8d4e2012d974473f165948a5473c8b1aa49ad183f2393db5438\"",
+  "Last-Modified": "Sat, 14 Nov 2026 19:15:10 GMT",
   "base": {
     "repo": {
       "name": "csp-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-14T19:15:10Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-14T12:44:32Z",
   "draft": false,
   "e_tag": "\"ee9353df934f4bca57375ad9ee5cf324bcc855397d3201be95022fc9470a8d1c\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/csp-feedstock/pull/137",
   "id": 5311357251,
-  "labels": [],
-  "last_fetched": "2026-11-14T15:43:15.758091",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6727395796,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOLkF0H88AAAABkPvp1A",
+      "url": "https://api.github.com/repos/conda-forge/csp-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T19:15:13.984262",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 137,
-  "state": "open",
-  "updated_at": "2026-11-14T12:46:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T19:15:10Z"
 }

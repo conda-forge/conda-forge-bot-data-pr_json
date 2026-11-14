@@ -1,29 +1,29 @@
 {
-  "ETag": "\"27573ef4203879cb7f2c34f0191c66f964a63b09076f3a25757ab1a4a262b593\"",
-  "Last-Modified": "Thu, 12 Nov 2026 13:16:47 GMT",
+  "ETag": "\"b7464690b9e632686ee994a6bd35f99c8924acc5832d7e2f370f442d84ed027a\"",
+  "Last-Modified": "Sat, 14 Nov 2026 21:21:10 GMT",
   "base": {
     "repo": {
       "name": "stevedore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T21:21:09Z",
   "closed_by": null,
   "created_at": "2026-11-12T13:15:11Z",
   "draft": false,
   "e_tag": "\"b66486ba994aa5131b6a7e0cc0335597cbb0b6610d8289f0653cd3d114878697\"",
   "head": {
-    "ref": "5.10.0_he39492"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/stevedore-feedstock/pull/57",
   "id": 5278067313,
   "labels": [],
-  "last_fetched": "2026-11-12T14:20:39.491036",
+  "last_fetched": "2026-11-14T21:22:20.853028",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T21:21:09Z",
   "number": 57,
-  "state": "open",
-  "updated_at": "2026-11-12T13:16:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T21:21:10Z"
 }

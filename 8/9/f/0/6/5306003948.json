@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e9f4300bf5e42b5ec4b61c013516b01588b9f462115ae16ff0cd9d3076de3d65\"",
+  "Last-Modified": "Sat, 14 Nov 2026 02:19:56 GMT",
   "base": {
     "repo": {
       "name": "helmfile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T02:19:52Z",
   "closed_by": null,
   "created_at": "2026-11-14T02:07:33Z",
   "draft": false,
   "e_tag": "\"da9581e5843705d772e6e85f61c69f18179da59fb2802d7576e3e157c678e097\"",
   "head": {
-    "ref": "1.8.4_h617635"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/helmfile-feedstock/pull/21",
   "id": 5306003948,
   "labels": [],
-  "last_fetched": "2026-11-14T02:07:34.937465",
+  "last_fetched": "2026-11-14T02:21:20.005919",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T02:19:52Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-14T02:07:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T02:19:56Z"
 }

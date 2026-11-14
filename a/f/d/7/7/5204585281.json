@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d7b564402b2d9195007f65f9854726ce8b3ad35a5bd3ae66b5df0803e319d45d\"",
-  "Last-Modified": "Sat, 14 Nov 2026 20:58:22 GMT",
+  "ETag": "W/\"987752ba11188fba84861c82cb7ef4a1e2548f89c9271ac02a444094c5a7c998\"",
+  "Last-Modified": "Sat, 14 Nov 2026 20:58:20 GMT",
   "base": {
     "repo": {
       "name": "datview-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/datview-feedstock/pull/11",
   "id": 5204585281,
-  "labels": [],
-  "last_fetched": "2026-11-14T20:59:32.142725",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T20:58:22.778386",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 11,
   "state": "closed",
-  "updated_at": "2026-11-14T20:58:22Z"
+  "updated_at": "2026-11-14T20:58:20Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"d311daa07dc06a5842617c6e95d8b2fb3361b80b0d3c424bff04f9400d140ed8\"",
-  "Last-Modified": "Fri, 09 Oct 2026 01:47:56 GMT",
+  "ETag": "W/\"ced3ba5f08f99487e59a269c8c2206a4c81d00f24fbb23e48039211d73da1636\"",
+  "Last-Modified": "Sat, 14 Nov 2026 11:29:04 GMT",
   "base": {
     "repo": {
       "name": "openpnm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T11:29:04Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-09T01:46:23Z",
   "draft": false,
   "e_tag": "\"0f7d4a4bfe1150802ce43e46e9a7b9d7c68425d59a08bb27414cce40ab22549c\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/openpnm-feedstock/pull/43",
   "id": 4794913942,
-  "labels": [],
-  "last_fetched": "2026-11-07T10:27:20.067696",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T11:29:07.803616",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-10-09T01:47:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T11:29:04Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"8c760602f596b3f957fde0a54414a621a2ff95e534efe29e07c5294eb676c821\"",
-  "Last-Modified": "Sat, 14 Nov 2026 13:39:32 GMT",
+  "ETag": "\"b3b56e34505c3b24cc3362746536e0195c2b2e699c99d4942fd4f04712345ac2\"",
+  "Last-Modified": "Sat, 14 Nov 2026 13:46:13 GMT",
   "base": {
     "repo": {
       "name": "stanza-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T13:46:09Z",
   "closed_by": null,
   "created_at": "2026-11-14T05:59:16Z",
   "draft": false,
   "e_tag": "\"703500fb4110f4e4166142dc91ee8d47a9c22699b448ad93d45b214ab74828e9\"",
   "head": {
-    "ref": "1.15.1_hcbbc5f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/stanza-feedstock/pull/40",
   "id": 5307979790,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/stanza-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-14T13:40:58.060170",
+  "last_fetched": "2026-11-14T13:47:40.086868",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T13:46:09Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-11-14T13:39:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T13:46:13Z"
 }

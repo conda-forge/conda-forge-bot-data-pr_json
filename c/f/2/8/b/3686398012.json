@@ -1,28 +1,28 @@
 {
-  "ETag": "\"27c57566bc286b3105fe80a46577b99dae322c8071e4dc989dcd8654be13b1d4\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"c0cccf8c37342abaf79632aa29a819b82aa37c517d4f8b54f9e60cbd09e6d26f\"",
+  "Last-Modified": "Sat, 14 Nov 2026 07:00:33 GMT",
   "base": {
     "repo": {
       "name": "zarf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T07:00:32Z",
   "created_at": "2026-05-14T23:47:37Z",
   "draft": false,
   "e_tag": "\"f7ed970cde510a08a2505b125e93c5959cd16a8d2ae130c7b684ef66d08db523\"",
   "head": {
-    "ref": "0.76.0_h1b43b0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zarf-feedstock/pull/12",
   "id": 3686398012,
   "labels": [],
-  "last_fetched": "2026-11-07T11:43:04.015419",
+  "last_fetched": "2026-11-14T07:01:48.482182",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T07:00:32Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-05-14T23:49:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T07:00:33Z"
 }

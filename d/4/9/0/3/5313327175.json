@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8fdcd0713aeb642999b084ef49a30d8c8b23a33065c7fa206a447186db7d844f\"",
+  "Last-Modified": "Sat, 14 Nov 2026 16:26:38 GMT",
   "base": {
     "repo": {
       "name": "office2pdf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T16:26:34Z",
   "closed_by": null,
   "created_at": "2026-11-14T16:02:23Z",
   "draft": false,
   "e_tag": "\"97b47a3f937b723e0f4a4470ae8dc3d470c3b4493842a61a32f99f9e7eed7591\"",
   "head": {
-    "ref": "0.11.0_h1cec2f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/office2pdf-feedstock/pull/14",
   "id": 5313327175,
   "labels": [],
-  "last_fetched": "2026-11-14T16:02:24.337748",
+  "last_fetched": "2026-11-14T16:28:11.781279",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T16:26:34Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-14T16:02:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T16:26:38Z"
 }

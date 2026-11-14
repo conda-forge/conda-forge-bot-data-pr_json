@@ -1,27 +1,29 @@
 {
+  "ETag": "\"11645ca84356417182d895be169f031df1fe84ed05fd27ec8acb0ac8dd713468\"",
+  "Last-Modified": "Sat, 14 Nov 2026 06:22:02 GMT",
   "base": {
     "repo": {
       "name": "playwright-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T06:22:02Z",
   "closed_by": null,
   "created_at": "2026-11-14T04:46:51Z",
   "draft": false,
   "e_tag": "\"270cfa863ca14d49dcb375e74af68dfcb1dab9a034f159861b00d6eed946c4b2\"",
   "head": {
-    "ref": "1.65.2_hb53ad9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/playwright-python-feedstock/pull/31",
   "id": 5307403208,
   "labels": [],
-  "last_fetched": "2026-11-14T04:46:51.742189",
+  "last_fetched": "2026-11-14T06:23:25.589009",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T06:22:02Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-14T04:46:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T06:22:02Z"
 }

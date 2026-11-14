@@ -1,13 +1,13 @@
 {
-  "ETag": "\"6d9ff7447b90e45069e222f77436ff8eca2a99891c9d726caa9693553f0b39ba\"",
-  "Last-Modified": "Fri, 13 Nov 2026 22:30:13 GMT",
+  "ETag": "W/\"6ff8bbd011627fbb98a4d1bbca966279f6f7fc7afe6da6e7916d6849d9f5a9f2\"",
+  "Last-Modified": "Sat, 14 Nov 2026 08:57:07 GMT",
   "base": {
     "repo": {
       "name": "aws-emulator-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-14T08:57:07Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-13T22:28:40Z",
   "draft": false,
   "e_tag": "\"21cc4fad34ddfa87d5d156be324aac83550a64038cb49b64de9fe55842c4da6c\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/aws-emulator-feedstock/pull/1",
   "id": 5303828610,
-  "labels": [],
-  "last_fetched": "2026-11-14T00:51:21.986189",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 13070156163,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOVtXtGs8AAAADCwrBgw",
+      "url": "https://api.github.com/repos/conda-forge/aws-emulator-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T08:57:10.652926",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-13T22:30:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T08:57:07Z"
 }

@@ -1,13 +1,13 @@
 {
-  "ETag": "\"eb3c334c9632e27e3eccfd3f559efb1c9844db9153cf0af7113358f0b4927b54\"",
-  "Last-Modified": "Sat, 07 Nov 2026 12:39:43 GMT",
+  "ETag": "\"62c9065294f33d4ddbcba3b741ba5c6152edfb3fac900ccc3dda140d1982e7b6\"",
+  "Last-Modified": "Sat, 14 Nov 2026 13:59:08 GMT",
   "base": {
     "repo": {
       "name": "libreyolo-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-14T13:59:08Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-07T12:39:42Z",
   "draft": false,
   "e_tag": "\"5d46ecf5c208a48986cf792dab5d47b842cf02d474e94d3b5ad6993644d4d459\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/libreyolo-feedstock/pull/11",
   "id": 5201689322,
-  "labels": [],
-  "last_fetched": "2026-11-07T12:43:55.925287",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T13:59:12.978298",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-07T12:41:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T13:59:08Z"
 }

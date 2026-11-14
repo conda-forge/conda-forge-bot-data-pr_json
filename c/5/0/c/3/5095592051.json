@@ -1,13 +1,13 @@
 {
-  "ETag": "\"aca4c58005e1f03bcb298cddd3389e617f3743d2fde8884bd4de966daeddd652\"",
-  "Last-Modified": "Sat, 31 Oct 2026 07:36:40 GMT",
+  "ETag": "W/\"278a61a062d1af86ddbb8cc0e2640d3876ca2e96b096d156d35f13a212eacd71\"",
+  "Last-Modified": "Sat, 14 Nov 2026 23:29:01 GMT",
   "base": {
     "repo": {
       "name": "prefect-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-14T23:29:01Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-31T07:32:33Z",
   "draft": false,
   "e_tag": "\"46f7d511a219b72991daf2883891ca45a1f97ebb2ee9ea3b2783868fa13cfb7e\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/prefect-feedstock/pull/465",
   "id": 5095592051,
-  "labels": [],
-  "last_fetched": "2026-11-07T10:14:23.122820",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T23:29:03.881399",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 465,
-  "state": "open",
-  "updated_at": "2026-10-31T07:36:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T23:29:01Z"
 }

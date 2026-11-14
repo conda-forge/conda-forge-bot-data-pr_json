@@ -1,6 +1,6 @@
 {
-  "ETag": "\"6d739c95fe351e0c7e4920612a26ddc9f046b67d53204da92af87f49ac97c6d7\"",
-  "Last-Modified": "Sat, 14 Nov 2026 21:41:43 GMT",
+  "ETag": "W/\"d7b49aaba4f1134d4a5f4d9314776fff894db6422fb59bd696eaff0e6047d9fe\"",
+  "Last-Modified": "Sat, 14 Nov 2026 21:41:41 GMT",
   "base": {
     "repo": {
       "name": "bluesky-adaptive-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/bluesky-adaptive-feedstock/pull/1",
   "id": 2272682962,
-  "labels": [],
-  "last_fetched": "2026-11-14T21:42:57.379877",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T21:41:44.096318",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 1,
   "state": "closed",
-  "updated_at": "2026-11-14T21:41:43Z"
+  "updated_at": "2026-11-14T21:41:41Z"
 }

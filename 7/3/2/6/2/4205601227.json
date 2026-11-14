@@ -1,12 +1,13 @@
 {
-  "ETag": "\"d7e05b9b3317af8d0005ffabe41d04165cf53f62c55fa2bd64fbc6acc1592698\"",
-  "Last-Modified": "Tue, 04 Aug 2026 17:18:07 GMT",
+  "ETag": "\"ac1fd79febee14aaff93ba3fe8822c26a8254a78eb05d44f512d64e13fc0d2e5\"",
+  "Last-Modified": "Sat, 14 Nov 2026 03:43:12 GMT",
   "base": {
     "repo": {
       "name": "psmpi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T03:43:10Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-04T17:16:24Z",
   "draft": false,
   "e_tag": "\"da191789b24b432d0f5e611ba4506d3e61d8ba7a720ad5e66a1a52257e2c9755\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/psmpi-feedstock/pull/42",
   "id": 4205601227,
   "labels": [],
-  "last_fetched": "2026-11-06T23:27:58.995530",
+  "last_fetched": "2026-11-14T03:44:29.308305",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-08-04T17:18:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T03:43:12Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"14c6db234c33f3bd4e49240ddbb5b4f7a5a6089d79320a1d1d8ed93fb43b3253\"",
-  "Last-Modified": "Tue, 27 Oct 2026 03:11:47 GMT",
+  "ETag": "\"83b30b2cc26d29f63625f3af67c861e0006173ca20347ea1de49ec91cc39bb8f\"",
+  "Last-Modified": "Sat, 14 Nov 2026 00:02:07 GMT",
   "base": {
     "repo": {
       "name": "libconfig-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T00:02:07Z",
   "closed_by": null,
   "created_at": "2026-10-27T03:10:04Z",
   "draft": false,
   "e_tag": "\"6d94fa70e2b93d3074ebd124f5827bb04b76604951a603651484a8de2dc75f86\"",
   "head": {
-    "ref": "bot-pr_riscv64_h666cb7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libconfig-feedstock/pull/15",
   "id": 5027977696,
   "labels": [],
-  "last_fetched": "2026-11-10T07:58:15.835014",
+  "last_fetched": "2026-11-14T00:03:11.514314",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T00:02:07Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-27T03:11:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T00:02:07Z"
 }

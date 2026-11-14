@@ -1,6 +1,6 @@
 {
-  "ETag": "\"f39a6424d2ad35c4c3a67bb71f599ff0c70d84cbf2fc1e12c76ec1001e99a54c\"",
-  "Last-Modified": "Fri, 16 Oct 2026 04:44:35 GMT",
+  "ETag": "\"e601555393419c2ec4eb1c7240b38e8b8aed04530c210477361f171f363e543d\"",
+  "Last-Modified": "Sat, 14 Nov 2026 08:37:11 GMT",
   "base": {
     "repo": {
       "name": "oidc-agent-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/oidc-agent-feedstock/pull/30",
   "id": 4883589691,
-  "labels": [],
-  "last_fetched": "2026-11-13T17:29:08.824261",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3071854138,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMDcxODU0MTM4",
+      "url": "https://api.github.com/repos/conda-forge/oidc-agent-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-14T08:37:18.981827",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 30,
   "state": "open",
-  "updated_at": "2026-10-16T04:44:35Z"
+  "updated_at": "2026-11-14T08:37:11Z"
 }

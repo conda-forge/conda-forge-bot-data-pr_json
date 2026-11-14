@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1cc5d14ba29f5d790062c575013a4a30afc92512dddfcdb13f3a58cc9b3681c2\"",
+  "Last-Modified": "Sat, 14 Nov 2026 00:46:26 GMT",
   "base": {
     "repo": {
       "name": "cucumber-tag-expressions-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T00:46:26Z",
   "closed_by": null,
   "created_at": "2026-11-13T21:34:19Z",
   "draft": false,
   "e_tag": "\"eb64ba776388943d90e2ace1a97cfa3611814d1fb289ec7a73a4c5d2a4ac8c10\"",
   "head": {
-    "ref": "11.1.0_h4641ae"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cucumber-tag-expressions-feedstock/pull/20",
   "id": 5303179325,
   "labels": [],
-  "last_fetched": "2026-11-13T21:34:20.249363",
+  "last_fetched": "2026-11-14T00:47:54.464708",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T00:46:26Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-13T21:34:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T00:46:26Z"
 }

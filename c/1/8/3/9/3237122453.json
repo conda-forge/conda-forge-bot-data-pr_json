@@ -1,6 +1,6 @@
 {
-  "ETag": "\"891f224fa67e47e1c7c8fcb1e60580ebf400f3a95c6449f3f27cbae1308bf09d\"",
-  "Last-Modified": "Sat, 14 Nov 2026 12:57:58 GMT",
+  "ETag": "W/\"e90e845e826d1f115248d843e95bf9758834681f96313fa855068136c7397f12\"",
+  "Last-Modified": "Sat, 14 Nov 2026 12:57:56 GMT",
   "base": {
     "repo": {
       "name": "normaliz-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/normaliz-feedstock/pull/64",
   "id": 3237122453,
-  "labels": [],
-  "last_fetched": "2026-11-14T12:59:26.512359",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T12:57:59.439498",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 64,
   "state": "closed",
-  "updated_at": "2026-11-14T12:57:58Z"
+  "updated_at": "2026-11-14T12:57:56Z"
 }

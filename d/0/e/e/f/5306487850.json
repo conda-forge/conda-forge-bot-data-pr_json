@@ -1,27 +1,29 @@
 {
+  "ETag": "\"01d09e4ed0bac083905ba10aaf6bdad817028af1f03dbd0445aba0f8a82e5d3c\"",
+  "Last-Modified": "Sat, 14 Nov 2026 03:03:14 GMT",
   "base": {
     "repo": {
       "name": "mypy_boto3_cloudformation-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T03:03:10Z",
   "closed_by": null,
   "created_at": "2026-11-14T03:01:13Z",
   "draft": false,
   "e_tag": "\"36b8eea82b7550dc47a8525014de9f49787a9e06f23424cafa801bf831bebc91\"",
   "head": {
-    "ref": "1.44.3_ha53825"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mypy_boto3_cloudformation-feedstock/pull/219",
   "id": 5306487850,
   "labels": [],
-  "last_fetched": "2026-11-14T03:01:14.240760",
+  "last_fetched": "2026-11-14T03:04:31.099545",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T03:03:10Z",
   "number": 219,
-  "state": "open",
-  "updated_at": "2026-11-14T03:01:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T03:03:14Z"
 }

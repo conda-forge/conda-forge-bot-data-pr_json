@@ -1,27 +1,29 @@
 {
+  "ETag": "\"610c3a682a5878e0b8784efeea0f9b8f2debd84092cccbbbdad82e603b108e7c\"",
+  "Last-Modified": "Sat, 14 Nov 2026 03:16:04 GMT",
   "base": {
     "repo": {
       "name": "langgraph-prebuilt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T03:15:59Z",
   "closed_by": null,
   "created_at": "2026-11-14T03:14:09Z",
   "draft": false,
   "e_tag": "\"96ac2a6c02cb702d19dd2a05bdc29c6930773e1124c05dae0cdf0910bd694fc2\"",
   "head": {
-    "ref": "1.1.2_h6b2cac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langgraph-prebuilt-feedstock/pull/38",
   "id": 5306595040,
   "labels": [],
-  "last_fetched": "2026-11-14T03:14:10.482141",
+  "last_fetched": "2026-11-14T03:17:17.667157",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T03:15:59Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-14T03:14:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T03:16:04Z"
 }

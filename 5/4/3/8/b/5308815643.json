@@ -1,27 +1,29 @@
 {
+  "ETag": "\"78ed2586df47c7e84162aad441a089f86218735bb45a6b27ecb441f030cfb3a9\"",
+  "Last-Modified": "Sat, 14 Nov 2026 10:40:12 GMT",
   "base": {
     "repo": {
       "name": "imagemagick-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T10:40:12Z",
   "closed_by": null,
   "created_at": "2026-11-14T07:40:09Z",
   "draft": false,
   "e_tag": "\"5d9ed2dcdde137e7a0da2f21eff793dc0155c23c5ab8547906a07e34327a3b11\"",
   "head": {
-    "ref": "rebuild-libjxl013-0-1_hb9d462"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imagemagick-feedstock/pull/395",
   "id": 5308815643,
   "labels": [],
-  "last_fetched": "2026-11-14T07:40:10.675112",
+  "last_fetched": "2026-11-14T10:42:00.740796",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T10:40:12Z",
   "number": 395,
-  "state": "open",
-  "updated_at": "2026-11-14T07:40:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T10:40:12Z"
 }

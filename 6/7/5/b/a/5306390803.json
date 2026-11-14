@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0470a76e919f8f7ef5ee6de1e95077f2b3364ec10f452ae0449c41c87c4871a4\"",
+  "Last-Modified": "Sat, 14 Nov 2026 02:53:32 GMT",
   "base": {
     "repo": {
       "name": "strands-agents-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T02:53:27Z",
   "closed_by": null,
   "created_at": "2026-11-14T02:49:54Z",
   "draft": false,
   "e_tag": "\"c97f077f8a6626650ff4adb4325ea1522eb955de81246a17160f9766acaccb48\"",
   "head": {
-    "ref": "1.65.0_h2b785b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/strands-agents-feedstock/pull/59",
   "id": 5306390803,
   "labels": [],
-  "last_fetched": "2026-11-14T02:49:55.995463",
+  "last_fetched": "2026-11-14T02:54:44.973349",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T02:53:27Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-11-14T02:49:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T02:53:32Z"
 }

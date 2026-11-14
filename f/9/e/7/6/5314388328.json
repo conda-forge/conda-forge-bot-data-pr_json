@@ -1,27 +1,29 @@
 {
+  "ETag": "\"95bcacf47d498011dbd05ccf16764d0dd45d00e1381e4db660bbeee48b94b22e\"",
+  "Last-Modified": "Sat, 14 Nov 2026 17:48:23 GMT",
   "base": {
     "repo": {
       "name": "servestatic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T17:48:19Z",
   "closed_by": null,
   "created_at": "2026-11-14T17:46:26Z",
   "draft": false,
   "e_tag": "\"8ee696344ebf22cf4ee7896f557effa13f5bd69b556815c396c81a8981e5c570\"",
   "head": {
-    "ref": "4.4.1_h2be350"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/servestatic-feedstock/pull/12",
   "id": 5314388328,
   "labels": [],
-  "last_fetched": "2026-11-14T17:46:27.476025",
+  "last_fetched": "2026-11-14T17:49:55.120214",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T17:48:19Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-14T17:46:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T17:48:23Z"
 }

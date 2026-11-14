@@ -1,12 +1,13 @@
 {
-  "ETag": "\"bc2d931d244ee662637735ed4083e52ef295098773fba17354a2c10019d9d633\"",
-  "Last-Modified": "Fri, 18 Sep 2026 10:56:37 GMT",
+  "ETag": "W/\"51d1899c3ffb617dd479bc8de9c2278c28590d6fe13d202f42518826d39a434f\"",
+  "Last-Modified": "Sat, 14 Nov 2026 09:56:00 GMT",
   "base": {
     "repo": {
       "name": "asv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T09:56:00Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-18T10:54:58Z",
   "draft": false,
   "e_tag": "\"75516fa74bc0841911c199fc32961903e4d95b62938615a94d346ea7c0982e24\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/asv-feedstock/pull/56",
   "id": 4568022536,
-  "labels": [],
-  "last_fetched": "2026-11-07T22:43:01.010153",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890795236,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwNzk1MjM2",
+      "url": "https://api.github.com/repos/conda-forge/asv-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T09:56:02.794615",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-09-18T10:56:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T09:56:00Z"
 }

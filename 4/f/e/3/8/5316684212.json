@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e5573929f8dda67dac09a1f1058491eb41e24dea5a70f82fc53309f97622a94f\"",
+  "Last-Modified": "Sat, 14 Nov 2026 23:32:16 GMT",
   "base": {
     "repo": {
       "name": "awscrt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T23:32:15Z",
   "closed_by": null,
   "created_at": "2026-11-14T22:08:57Z",
   "draft": false,
   "e_tag": "\"787e221084760fca00f35d266ec644ebe9a8203ea0941f77b20dcd2750db60e1\"",
   "head": {
-    "ref": "rebuild-s2n1713-0-1_h3e3acf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/awscrt-feedstock/pull/728",
   "id": 5316684212,
   "labels": [],
-  "last_fetched": "2026-11-14T22:08:58.747366",
+  "last_fetched": "2026-11-14T23:33:48.010854",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T23:32:15Z",
   "number": 728,
-  "state": "open",
-  "updated_at": "2026-11-14T22:08:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T23:32:16Z"
 }

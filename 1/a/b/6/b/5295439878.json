@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cf86e78ec183c304c7f68c17580988f3545cd6a0ddefda68745f5f072634bb45\"",
-  "Last-Modified": "Fri, 13 Nov 2026 12:27:30 GMT",
+  "ETag": "\"53523e56d2011c14d97866c8701e31f9df0ae0f9ea9e99cd7c7304f8f85a079d\"",
+  "Last-Modified": "Sat, 14 Nov 2026 19:19:57 GMT",
   "base": {
     "repo": {
       "name": "mysql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T19:19:57Z",
   "closed_by": null,
   "created_at": "2026-11-13T12:25:50Z",
   "draft": false,
   "e_tag": "\"e5822b8d609411040260ecc4099e884f224495b97e7bdc0a5af5c88382214b58\"",
   "head": {
-    "ref": "rebuild-icu79-0-1_h780934"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mysql-feedstock/pull/131",
   "id": 5295439878,
   "labels": [],
-  "last_fetched": "2026-11-13T17:30:05.261837",
+  "last_fetched": "2026-11-14T19:21:38.387633",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T19:19:57Z",
   "number": 131,
-  "state": "open",
-  "updated_at": "2026-11-13T12:27:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T19:19:57Z"
 }

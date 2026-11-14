@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9b1860da7985f56265079219a06f08d856f3f7079a66a5b40daaa35f65a32a82\"",
-  "Last-Modified": "Sat, 14 Nov 2026 13:42:19 GMT",
+  "ETag": "\"31dbd5c3a2469a98842075a2d2a7fa4a6aa772fd99370626a8824cc1b6618ecb\"",
+  "Last-Modified": "Sat, 14 Nov 2026 14:22:33 GMT",
   "base": {
     "repo": {
       "name": "highspy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T14:22:33Z",
   "closed_by": null,
   "created_at": "2026-11-11T17:50:52Z",
   "draft": false,
   "e_tag": "\"7b567a78956b5d2128dc88de0833f29173a3d693715b477e51ce5e2112fc6c5b\"",
   "head": {
-    "ref": "1.16.0_hc72432"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/highspy-feedstock/pull/38",
   "id": 5264228206,
   "labels": [],
-  "last_fetched": "2026-11-14T13:58:00.879637",
+  "last_fetched": "2026-11-14T14:23:40.229274",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T14:22:33Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-14T13:42:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T14:22:33Z"
 }

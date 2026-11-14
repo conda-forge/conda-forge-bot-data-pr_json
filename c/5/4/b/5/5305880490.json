@@ -1,29 +1,41 @@
 {
-  "ETag": "\"0ef0b06998422af114f5208efb5cdd169843c909500da298f691b37b4490f90f\"",
-  "Last-Modified": "Sat, 14 Nov 2026 01:55:52 GMT",
+  "ETag": "\"0cde34018db20470271eafea8c4a9c9e7ed497a3ac8c8cc7e8d098b3d2f02318\"",
+  "Last-Modified": "Sat, 14 Nov 2026 06:27:17 GMT",
   "base": {
     "repo": {
       "name": "airflow-pydantic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T06:27:13Z",
   "closed_by": null,
   "created_at": "2026-11-14T01:53:57Z",
   "draft": false,
   "e_tag": "\"e6fd6bfc0d949a48812d5b749b363e37c2c16899faf028367b467874fe1519a2\"",
   "head": {
-    "ref": "1.7.4_h4873d7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/airflow-pydantic-feedstock/pull/55",
   "id": 5305880490,
-  "labels": [],
-  "last_fetched": "2026-11-14T05:17:17.723555",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8161954202,
+      "name": "automerge",
+      "node_id": "LA_kwDON6zbVs8AAAAB5n2Jmg",
+      "url": "https://api.github.com/repos/conda-forge/airflow-pydantic-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-14T06:27:45.803710",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T06:27:13Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-11-14T01:55:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T06:27:17Z"
 }

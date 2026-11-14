@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bdd50920248f002fb1c55f17ec8e1f505d35d95868b9230d8f54a5b3761dd865\"",
-  "Last-Modified": "Sat, 14 Nov 2026 00:05:25 GMT",
+  "ETag": "\"9834eb74b32ec56784986b17af2fb160f2578cd9f3ee0434fcb276b4ab100e6c\"",
+  "Last-Modified": "Sat, 14 Nov 2026 21:18:50 GMT",
   "base": {
     "repo": {
       "name": "u-msgpack-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T21:18:50Z",
   "closed_by": null,
   "created_at": "2026-11-14T00:03:50Z",
   "draft": false,
   "e_tag": "\"fee5330003d5b1f7b87ba391cab6b18db8cc7a310ea331e00ef0bde25cc60438\"",
   "head": {
-    "ref": "2.9.0_hd6e3ba"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/u-msgpack-python-feedstock/pull/8",
   "id": 5304849813,
   "labels": [],
-  "last_fetched": "2026-11-14T01:59:02.973653",
+  "last_fetched": "2026-11-14T21:20:22.673136",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T21:18:50Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-14T00:05:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T21:18:50Z"
 }

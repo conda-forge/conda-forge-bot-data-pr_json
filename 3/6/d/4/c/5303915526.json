@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2ac60469ce2cca2986b66db60e63c18224c4a3c7019944b694d6a70523795cd5\"",
-  "Last-Modified": "Fri, 13 Nov 2026 22:37:39 GMT",
+  "ETag": "\"d9d547f8e355ceba779b237d8970c2e4112fdca6dead8d9962d34078defaa1ef\"",
+  "Last-Modified": "Sat, 14 Nov 2026 08:01:09 GMT",
   "base": {
     "repo": {
       "name": "hugo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T08:01:09Z",
   "closed_by": null,
   "created_at": "2026-11-13T22:36:09Z",
   "draft": false,
   "e_tag": "\"6d3c9c01af0920814ed2ea48301c47c87d53ebafcd0c59dcef009ff52366a515\"",
   "head": {
-    "ref": "0.170.0_h77c593"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hugo-feedstock/pull/152",
   "id": 5303915526,
   "labels": [],
-  "last_fetched": "2026-11-13T23:15:28.924388",
+  "last_fetched": "2026-11-14T08:02:42.741856",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T08:01:09Z",
   "number": 152,
-  "state": "open",
-  "updated_at": "2026-11-13T22:37:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T08:01:09Z"
 }

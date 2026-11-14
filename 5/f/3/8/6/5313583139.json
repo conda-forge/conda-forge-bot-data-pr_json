@@ -1,27 +1,29 @@
 {
+  "ETag": "\"da859c5a623220efc3e5fca39876cb516c38f9c91c2d434dccbf5eba75f5af43\"",
+  "Last-Modified": "Sat, 14 Nov 2026 17:40:52 GMT",
   "base": {
     "repo": {
       "name": "tilt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T17:40:52Z",
   "closed_by": null,
   "created_at": "2026-11-14T16:26:07Z",
   "draft": false,
   "e_tag": "\"880f554f685a29dffda6a8798c8bb0aa8a6a36e37b94fbefc465c154a7a632ae\"",
   "head": {
-    "ref": "0.37.9_h07fb52"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tilt-feedstock/pull/181",
   "id": 5313583139,
   "labels": [],
-  "last_fetched": "2026-11-14T16:26:08.272862",
+  "last_fetched": "2026-11-14T17:41:58.104387",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T17:40:52Z",
   "number": 181,
-  "state": "open",
-  "updated_at": "2026-11-14T16:26:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T17:40:52Z"
 }

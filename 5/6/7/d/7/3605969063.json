@@ -1,28 +1,28 @@
 {
-  "ETag": "\"cce276036760fa8d3b642bfb321df57e9285a94bae29e3f4b1a93d15bc324e00\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"4b8a6ef1b159593502ad017cf357b0f040f63574bce426efd40d5aa42a1c61e3\"",
+  "Last-Modified": "Sat, 14 Nov 2026 16:33:29 GMT",
   "base": {
     "repo": {
       "name": "elyra-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T16:33:29Z",
   "created_at": "2026-04-30T02:00:32Z",
   "draft": false,
   "e_tag": "\"de347f3876e807b7d9b1f25cc831b4749c3f724c78d481ae44d7a901fb82a5d1\"",
   "head": {
-    "ref": "4.1.0_hd088a0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/elyra-feedstock/pull/53",
   "id": 3605969063,
   "labels": [],
-  "last_fetched": "2026-11-07T22:43:04.011244",
+  "last_fetched": "2026-11-14T16:34:58.801208",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T16:33:29Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-04-30T06:03:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T16:33:29Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"3f90284dba60d9f51296e25d142efd307000d4f6897a2fab616aba788d1033bf\"",
-  "Last-Modified": "Fri, 02 Oct 2026 17:54:19 GMT",
+  "ETag": "W/\"1a34398dc9ea43523830f4c0646c70f70d1264f1a457b7c8de8587ed7f10bb6c\"",
+  "Last-Modified": "Sat, 14 Nov 2026 06:44:47 GMT",
   "base": {
     "repo": {
       "name": "pydocket-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T06:44:47Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-02T17:52:45Z",
   "draft": false,
   "e_tag": "\"6e3b3742c1dcf70a4260637ced29bb2337ce65b34f98ff947f5a3c5b987bf0d0\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/pydocket-feedstock/pull/53",
   "id": 4719646014,
-  "labels": [],
-  "last_fetched": "2026-11-07T06:23:11.355746",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T06:44:49.734556",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-10-02T17:54:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T06:44:47Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1ac465edfb1134112ef1b5ace04ef31ad59b823db3aa7976a3f4f3be82b9417b\"",
+  "Last-Modified": "Sat, 14 Nov 2026 21:42:56 GMT",
   "base": {
     "repo": {
       "name": "panel-tiles-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T21:42:55Z",
   "closed_by": null,
   "created_at": "2026-11-14T18:35:23Z",
   "draft": false,
   "e_tag": "\"a82db84c0db9f83c974b76a6508a89fa49c7748e8f7e65e73959f9b5ab099296\"",
   "head": {
-    "ref": "0.5.1_h523e26"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/panel-tiles-feedstock/pull/3",
   "id": 5314872413,
   "labels": [],
-  "last_fetched": "2026-11-14T18:35:24.774507",
+  "last_fetched": "2026-11-14T21:44:46.823012",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T21:42:55Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-11-14T18:35:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T21:42:56Z"
 }

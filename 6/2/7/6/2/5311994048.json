@@ -1,29 +1,29 @@
 {
-  "ETag": "\"aed2027d785e6a9821045c76e5dd6902d04cd321834d5b978b5679a226d6b889\"",
-  "Last-Modified": "Sat, 14 Nov 2026 14:01:18 GMT",
+  "ETag": "\"4197429b53ead1d7a054afdf6e0eb2ffad708b5041aef5d76ae51569969f2f1b\"",
+  "Last-Modified": "Sat, 14 Nov 2026 17:18:21 GMT",
   "base": {
     "repo": {
       "name": "conda-forge-pinning-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T17:18:21Z",
   "closed_by": null,
   "created_at": "2026-11-14T13:59:45Z",
   "draft": false,
   "e_tag": "\"3722de9fc4d3458195211b761ed0d17db1910a24e20915847a9b2eb05a44b766\"",
   "head": {
-    "ref": "rebuild-lz4_c111-0-1_hd884ee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/9232",
   "id": 5311994048,
   "labels": [],
-  "last_fetched": "2026-11-14T14:42:08.741282",
+  "last_fetched": "2026-11-14T17:19:52.254037",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T17:18:21Z",
   "number": 9232,
-  "state": "open",
-  "updated_at": "2026-11-14T14:01:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T17:18:21Z"
 }

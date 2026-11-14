@@ -1,6 +1,6 @@
 {
-  "ETag": "\"45152a28fbe3fe7297f78367905d6794448e805267ded286ba48aa351bc2119c\"",
-  "Last-Modified": "Sat, 14 Nov 2026 06:00:53 GMT",
+  "ETag": "\"8c760602f596b3f957fde0a54414a621a2ff95e534efe29e07c5294eb676c821\"",
+  "Last-Modified": "Sat, 14 Nov 2026 13:39:32 GMT",
   "base": {
     "repo": {
       "name": "stanza-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/stanza-feedstock/pull/40",
   "id": 5307979790,
-  "labels": [],
-  "last_fetched": "2026-11-14T08:29:00.092150",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2689850093,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNjg5ODUwMDkz",
+      "url": "https://api.github.com/repos/conda-forge/stanza-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-14T13:40:58.060170",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 40,
   "state": "open",
-  "updated_at": "2026-11-14T06:00:53Z"
+  "updated_at": "2026-11-14T13:39:32Z"
 }

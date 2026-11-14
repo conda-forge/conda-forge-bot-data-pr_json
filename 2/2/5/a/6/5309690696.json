@@ -1,18 +1,18 @@
 {
-  "ETag": "\"d9a88e9aea561f8ea65da32d8f93e1eda628ec5bb08cd186a10e9f0cc031232a\"",
-  "Last-Modified": "Sat, 14 Nov 2026 13:37:54 GMT",
+  "ETag": "\"e0aee2d5d0490fad3bbea2a0bae4813c01d65ec84c1604b12ecc32161a55ae0e\"",
+  "Last-Modified": "Sat, 14 Nov 2026 13:39:25 GMT",
   "base": {
     "repo": {
       "name": "puremagic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T13:39:22Z",
   "closed_by": null,
   "created_at": "2026-11-14T09:25:59Z",
   "draft": false,
   "e_tag": "\"482d165f3efe63432bcdba64bf3a0da05c9a3e938121fd871095a5202bfe64ba\"",
   "head": {
-    "ref": "2.2.1_hce2879"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/puremagic-feedstock/pull/20",
   "id": 5309690696,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/puremagic-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-14T13:39:09.952676",
+  "last_fetched": "2026-11-14T13:40:47.653606",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T13:39:21Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-14T13:37:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T13:39:25Z"
 }

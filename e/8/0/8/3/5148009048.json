@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b95bd7265af093d1c504806b318ee7bedc950b99b1549259f3719a068a8f39f2\"",
-  "Last-Modified": "Fri, 13 Nov 2026 21:26:45 GMT",
+  "ETag": "\"48a5a855aa5f8eef82dfd982fd2b7441470caf726d0b9caf55f52828ab13779c\"",
+  "Last-Modified": "Sat, 14 Nov 2026 19:16:22 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-cpp-bigquery-feedstock"
@@ -16,20 +16,8 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-cpp-bigquery-feedstock/pull/52",
   "id": 5148009048,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 6542414810,
-      "name": "automerge",
-      "node_id": "LA_kwDOLQmFP88AAAABhfVT2g",
-      "url": "https://api.github.com/repos/conda-forge/google-cloud-cpp-bigquery-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-11-14T01:58:35.520522",
+  "labels": [],
+  "last_fetched": "2026-11-14T19:56:34.571027",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -37,5 +25,5 @@
   "merged_at": null,
   "number": 52,
   "state": "open",
-  "updated_at": "2026-11-13T21:26:45Z"
+  "updated_at": "2026-11-14T19:16:22Z"
 }

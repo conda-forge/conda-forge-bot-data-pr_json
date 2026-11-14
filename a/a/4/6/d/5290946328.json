@@ -1,29 +1,29 @@
 {
-  "ETag": "\"837c6484953f86f760cfe9b8c52df6fc72343a9a96543c50ea1d0fb537e2eb64\"",
-  "Last-Modified": "Fri, 13 Nov 2026 06:05:12 GMT",
+  "ETag": "\"49d2fce24a534f82ced4605caa8ad06d587d70c8c44c8e7bd56796cfe67b5c84\"",
+  "Last-Modified": "Sat, 14 Nov 2026 09:24:26 GMT",
   "base": {
     "repo": {
       "name": "trackio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T09:24:26Z",
   "closed_by": null,
   "created_at": "2026-11-13T06:03:49Z",
   "draft": false,
   "e_tag": "\"fa5c4deb6978b875fbb8af74782378843bb9290b8a0325e5824066b8bd1817a3\"",
   "head": {
-    "ref": "0.45.1_h86ba6e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/trackio-feedstock/pull/53",
   "id": 5290946328,
   "labels": [],
-  "last_fetched": "2026-11-13T06:56:51.922212",
+  "last_fetched": "2026-11-14T09:25:59.945528",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T09:24:26Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-11-13T06:05:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T09:24:26Z"
 }

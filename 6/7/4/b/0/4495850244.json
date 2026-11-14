@@ -1,6 +1,6 @@
 {
-  "ETag": "\"968aaed0abf631193205f05fbc716d9508dc14781331ec5dfa3aedae83ddfd3f\"",
-  "Last-Modified": "Sat, 14 Nov 2026 03:43:42 GMT",
+  "ETag": "W/\"1945bd63f32ceefe018951a2e63805ce2c4f6ce94710f649a41aee435682a459\"",
+  "Last-Modified": "Sat, 14 Nov 2026 03:43:39 GMT",
   "base": {
     "repo": {
       "name": "r-base-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/r-base-feedstock/pull/426",
   "id": 4495850244,
-  "labels": [],
-  "last_fetched": "2026-11-14T03:45:08.520793",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T03:43:42.236628",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 426,
   "state": "closed",
-  "updated_at": "2026-11-14T03:43:42Z"
+  "updated_at": "2026-11-14T03:43:39Z"
 }

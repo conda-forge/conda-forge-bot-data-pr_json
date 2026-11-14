@@ -1,18 +1,18 @@
 {
-  "ETag": "\"64447fc7b17fa359b86a2be19e1c845ecd1100875b56abf07bae4b26950fda99\"",
-  "Last-Modified": "Sat, 14 Nov 2026 09:30:41 GMT",
+  "ETag": "\"96423714dedabc9119eadd7228e6c703720e2e4edeca345ad04e97097a2949d9\"",
+  "Last-Modified": "Sat, 14 Nov 2026 09:38:01 GMT",
   "base": {
     "repo": {
       "name": "opencv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T09:37:57Z",
   "closed_by": null,
   "created_at": "2026-11-14T07:23:55Z",
   "draft": false,
   "e_tag": "\"a9a2ee05898d436e35124921943d0de8903776f68034556aa23557d5e95a849c\"",
   "head": {
-    "ref": "rebuild-libjxl013-0-1_hd29de6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opencv-feedstock/pull/570",
   "id": 5308669317,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/opencv-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-14T09:32:37.941545",
+  "last_fetched": "2026-11-14T09:39:24.426137",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T09:37:56Z",
   "number": 570,
-  "state": "open",
-  "updated_at": "2026-11-14T09:30:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T09:38:01Z"
 }

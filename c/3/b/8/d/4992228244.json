@@ -1,13 +1,13 @@
 {
-  "ETag": "W/\"ded3acda2254aa7b95b518af4db84dfc46876bce4460af9317b238a4079ab495\"",
-  "Last-Modified": "Sat, 24 Oct 2026 12:37:03 GMT",
+  "ETag": "W/\"e595b25af27d145570bc624a4b1901d2972e4a11cb4539d30d32cf22181f3b5f\"",
+  "Last-Modified": "Sat, 14 Nov 2026 17:28:42 GMT",
   "base": {
     "repo": {
       "name": "rsconnect-python-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-14T17:28:42Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-24T03:46:26Z",
   "draft": false,
   "e_tag": "\"3d70a20a962e403d0df4d7b57506c890e1395fd4a6ba1f5a7e3b132a0498906d\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/rsconnect-python-feedstock/pull/61",
   "id": 4992228244,
-  "labels": [],
-  "last_fetched": "2026-11-07T17:14:35.651624",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T17:28:45.357599",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-10-24T12:37:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T17:28:42Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7a694a6e74b41efe6ea93293666ae90a1b803ae8f2359304863e788d35256e64\"",
-  "Last-Modified": "Sat, 14 Nov 2026 03:04:35 GMT",
+  "ETag": "\"f9632330f0b33229558834b26498ea978c3f1fb1b63aa4292f2e929b585c0106\"",
+  "Last-Modified": "Sat, 14 Nov 2026 13:57:52 GMT",
   "base": {
     "repo": {
       "name": "particula-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T13:57:52Z",
   "closed_by": null,
   "created_at": "2026-11-14T03:03:00Z",
   "draft": false,
   "e_tag": "\"1a64ef941e5a938bb69190249a5baf44f9892a9c816f6a94ee580751e3488bd7\"",
   "head": {
-    "ref": "0.3.0_h9227c6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/particula-feedstock/pull/56",
   "id": 5306503665,
   "labels": [],
-  "last_fetched": "2026-11-14T05:17:38.141861",
+  "last_fetched": "2026-11-14T13:59:24.654576",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T13:57:52Z",
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-11-14T03:04:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T13:57:52Z"
 }

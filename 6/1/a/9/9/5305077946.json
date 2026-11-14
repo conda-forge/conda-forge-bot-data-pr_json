@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4f46fcfa6f74381f74739ec57b1122c9ff2317e726fb1f95ae1f6053e2d6f8d9\"",
+  "Last-Modified": "Sat, 14 Nov 2026 00:31:45 GMT",
   "base": {
     "repo": {
       "name": "pytorch-metric-learning-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T00:31:40Z",
   "closed_by": null,
   "created_at": "2026-11-14T00:28:12Z",
   "draft": false,
   "e_tag": "\"2dd49ead537b45442dc7c4d06e8300adf6dc9786906206d085a2971587d0fc34\"",
   "head": {
-    "ref": "3.0.3_h8bc471"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytorch-metric-learning-feedstock/pull/28",
   "id": 5305077946,
   "labels": [],
-  "last_fetched": "2026-11-14T00:28:13.555001",
+  "last_fetched": "2026-11-14T00:33:14.686210",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-14T00:31:40Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-14T00:28:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T00:31:45Z"
 }

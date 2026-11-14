@@ -1,4 +1,6 @@
 {
+  "ETag": "\"b7079bcd70b3f465af1a5f15242e18d463b66f59394298e815e2b3c75b614e21\"",
+  "Last-Modified": "Sat, 14 Nov 2026 02:11:38 GMT",
   "base": {
     "repo": {
       "name": "torchani-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/torchani-feedstock/pull/78",
   "id": 5305918934,
-  "labels": [],
-  "last_fetched": "2026-11-14T01:58:26.413560",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2255816103,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMjU1ODE2MTAz",
+      "url": "https://api.github.com/repos/conda-forge/torchani-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-14T02:13:15.616252",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 78,
   "state": "open",
-  "updated_at": "2026-11-14T01:58:25Z"
+  "updated_at": "2026-11-14T02:11:38Z"
 }

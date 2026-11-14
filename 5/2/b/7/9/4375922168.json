@@ -1,12 +1,13 @@
 {
-  "ETag": "\"46179c9599d6237ada2055069c0f8e1f471e7be4287a153b1dfa7f199198722b\"",
-  "Last-Modified": "Thu, 27 Aug 2026 13:01:41 GMT",
+  "ETag": "W/\"dc6dbfcfc77c0e455735c2f6f9c1b181e93de091c184cd4a2b8090768f70f9eb\"",
+  "Last-Modified": "Sat, 14 Nov 2026 22:28:37 GMT",
   "base": {
     "repo": {
       "name": "icub-main-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T22:28:37Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-27T12:49:31Z",
   "draft": false,
   "e_tag": "\"9eb16c6935e2a70838a39cf3fa244dd7373405846603fd980000ec68368db6f6\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/icub-main-feedstock/pull/58",
   "id": 4375922168,
-  "labels": [],
-  "last_fetched": "2026-11-07T21:58:33.636052",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T22:28:40.347691",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-08-27T13:01:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T22:28:37Z"
 }

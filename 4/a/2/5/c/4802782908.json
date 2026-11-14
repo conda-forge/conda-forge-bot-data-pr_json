@@ -1,12 +1,13 @@
 {
-  "ETag": "\"5b4432f97f9a192dc281adaa72568b435438f980cc54e4af22dd8c686c43f070\"",
-  "Last-Modified": "Fri, 09 Oct 2026 16:02:46 GMT",
+  "ETag": "W/\"9232dc8cac886e752c3eda14725e79c4328f4bc9b2c1d253978882d2dde6df4c\"",
+  "Last-Modified": "Sat, 14 Nov 2026 07:18:29 GMT",
   "base": {
     "repo": {
       "name": "pybammsolvers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T07:18:29Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-09T15:55:56Z",
   "draft": false,
   "e_tag": "\"667208d11fa2b099daf9609e6ddc1dfe3008ce68bb3536af512010be3b66d87c\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/pybammsolvers-feedstock/pull/17",
   "id": 4802782908,
-  "labels": [],
-  "last_fetched": "2026-11-07T04:43:18.862912",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T07:18:32.039915",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-10-09T16:02:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T07:18:29Z"
 }

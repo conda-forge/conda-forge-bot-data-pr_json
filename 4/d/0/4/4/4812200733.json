@@ -1,6 +1,6 @@
 {
-  "ETag": "\"da23f93d8015f109597aee6d4c44d75e62b0c1eed48a171a452fa253abce6d78\"",
-  "Last-Modified": "Sat, 14 Nov 2026 22:27:27 GMT",
+  "ETag": "W/\"999dfc2d9f5b8bdf1e9cc28a9d948517b2f6765faa8bbe3183de1ed6a6228584\"",
+  "Last-Modified": "Sat, 14 Nov 2026 22:27:24 GMT",
   "base": {
     "repo": {
       "name": "imagemagick-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/imagemagick-feedstock/pull/392",
   "id": 4812200733,
-  "labels": [],
-  "last_fetched": "2026-11-14T22:28:51.623820",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T22:27:27.806929",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 392,
   "state": "closed",
-  "updated_at": "2026-11-14T22:27:27Z"
+  "updated_at": "2026-11-14T22:27:24Z"
 }

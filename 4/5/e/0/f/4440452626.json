@@ -1,12 +1,13 @@
 {
-  "ETag": "\"8ce90775a7f755041dcf0702679ca7d676872cfec258310333b4a5b17a122309\"",
-  "Last-Modified": "Fri, 04 Sep 2026 07:58:42 GMT",
+  "ETag": "W/\"4680201afaa09d7be80c359b51e3dc109d8844517afb2a00276e1663d5fff4d3\"",
+  "Last-Modified": "Sat, 14 Nov 2026 20:43:11 GMT",
   "base": {
     "repo": {
       "name": "ciso8601-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T20:43:11Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-04T07:57:05Z",
   "draft": false,
   "e_tag": "\"35182bc2003b788ab6ce78186deaf3bffb50914c2f40f0d9c05949e97387e371\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/ciso8601-feedstock/pull/31",
   "id": 4440452626,
-  "labels": [],
-  "last_fetched": "2026-11-07T17:28:38.871943",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-14T20:43:14.002640",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-09-04T07:58:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T20:43:11Z"
 }

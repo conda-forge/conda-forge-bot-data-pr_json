@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0bc3707ddcc5db0c128c0d13cdff382d3366801a5e89822bcbdd64a45ea92607\"",
-  "Last-Modified": "Sat, 14 Nov 2026 03:33:56 GMT",
+  "ETag": "\"975a1f613f4ece299d4971a4b26f73113fa282138ff47676041008509edbf807\"",
+  "Last-Modified": "Sat, 14 Nov 2026 13:29:36 GMT",
   "base": {
     "repo": {
       "name": "steampipe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-14T13:29:36Z",
   "closed_by": null,
   "created_at": "2026-11-14T03:31:56Z",
   "draft": false,
   "e_tag": "\"c48c6058e25eeef2e4bea9f6a2df4b909bccaa3d3d0e388d531716139631bb72\"",
   "head": {
-    "ref": "2.5.0_h6bd450"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/steampipe-feedstock/pull/82",
   "id": 5306746425,
   "labels": [],
-  "last_fetched": "2026-11-14T04:19:52.693700",
+  "last_fetched": "2026-11-14T13:31:14.458477",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-14T13:29:36Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-11-14T03:33:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-14T13:29:36Z"
 }

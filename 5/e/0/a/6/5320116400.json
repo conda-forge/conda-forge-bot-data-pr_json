@@ -1,27 +1,29 @@
 {
+  "ETag": "\"742de410df6c758eae2234f9be8dc0bb08c51f7eff5278e481baa9d60130ebb1\"",
+  "Last-Modified": "Sun, 15 Nov 2026 06:21:26 GMT",
   "base": {
     "repo": {
       "name": "naif_eop_high_prec-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T06:21:21Z",
   "closed_by": null,
   "created_at": "2026-11-15T06:17:45Z",
   "draft": false,
   "e_tag": "\"5e520cfda423976cdad6155de686797f2b39b789bca3c9f3be6949a2c13d4c5f\"",
   "head": {
-    "ref": "2026.11.15_h71668a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/naif_eop_high_prec-feedstock/pull/247",
   "id": 5320116400,
   "labels": [],
-  "last_fetched": "2026-11-15T06:17:46.266184",
+  "last_fetched": "2026-11-15T06:22:42.461882",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-15T06:21:21Z",
   "number": 247,
-  "state": "open",
-  "updated_at": "2026-11-15T06:17:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T06:21:26Z"
 }

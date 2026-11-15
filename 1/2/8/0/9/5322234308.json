@@ -1,29 +1,29 @@
 {
-  "ETag": "\"92cf5116669aef5ce3c1f5a65d245786e992c6f1dda1f1dd8294febeb4505848\"",
-  "Last-Modified": "Sun, 15 Nov 2026 11:31:29 GMT",
+  "ETag": "\"71b19b20fba7f1084726abb975af87f2053d571bea545b66d64ee83fb11cb36d\"",
+  "Last-Modified": "Sun, 15 Nov 2026 19:14:51 GMT",
   "base": {
     "repo": {
       "name": "bdsim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T19:14:50Z",
   "closed_by": null,
   "created_at": "2026-11-15T11:29:58Z",
   "draft": false,
   "e_tag": "\"56ae36d0504c3ea93465717e6a4943ecc97ef248ba179666b5e2e357a255a8b0\"",
   "head": {
-    "ref": "1.5.0_hc513ee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bdsim-feedstock/pull/13",
   "id": 5322234308,
   "labels": [],
-  "last_fetched": "2026-11-15T15:28:26.228250",
+  "last_fetched": "2026-11-15T19:16:18.702697",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-15T19:14:50Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-15T11:31:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T19:14:51Z"
 }

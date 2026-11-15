@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0f87a883258b53d06866e4d0c4d887c22aadc0a741b628b9cbfa11b8912787bc\"",
-  "Last-Modified": "Sun, 15 Nov 2026 09:10:22 GMT",
+  "ETag": "\"d032779e2079ea4c00252fa9d27ec4701ceabd652f680658c770271d3540b351\"",
+  "Last-Modified": "Sun, 15 Nov 2026 12:19:28 GMT",
   "base": {
     "repo": {
       "name": "cmac-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T12:19:28Z",
   "closed_by": null,
   "created_at": "2026-11-15T09:08:37Z",
   "draft": false,
   "e_tag": "\"4f47a46201b2622c783f1324368f810b9ec0f52a4a625f8200fc0dfc54f60cfe\"",
   "head": {
-    "ref": "0.4.4_ha9985d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cmac-feedstock/pull/11",
   "id": 5321244992,
   "labels": [],
-  "last_fetched": "2026-11-15T10:59:41.315498",
+  "last_fetched": "2026-11-15T12:20:55.334297",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-15T12:19:27Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-15T09:10:22Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T12:19:28Z"
 }

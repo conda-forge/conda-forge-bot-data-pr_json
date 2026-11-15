@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a9e630ed2558dbaf6207a0a315ffce12a1c2d72868979f546bc3f84326735c59\"",
-  "Last-Modified": "Sun, 15 Nov 2026 04:42:58 GMT",
+  "ETag": "W/\"5adec8b9994f53d9b43f3053b6d4e8c5cb5e500a88e65667fa3775468e48e1e1\"",
+  "Last-Modified": "Sun, 15 Nov 2026 04:42:55 GMT",
   "base": {
     "repo": {
       "name": "pyopencl-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyopencl-feedstock/pull/144",
   "id": 4501312063,
-  "labels": [],
-  "last_fetched": "2026-11-15T04:44:35.795924",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-15T04:42:58.471635",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 144,
   "state": "closed",
-  "updated_at": "2026-11-15T04:42:58Z"
+  "updated_at": "2026-11-15T04:42:55Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"84a2ec5c9e4e7db966770e25c24423b015d3c43c45ef618214bc2bdb44c94529\"",
-  "Last-Modified": "Sun, 15 Nov 2026 10:27:41 GMT",
+  "ETag": "W/\"233835a2b3f45d5afa193b780b302ba337959a1e266d3ad9f224eeeaf9a83a17\"",
+  "Last-Modified": "Sun, 15 Nov 2026 10:27:39 GMT",
   "base": {
     "repo": {
       "name": "diffpy.apps-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/diffpy.apps-feedstock/pull/4",
   "id": 5207597300,
-  "labels": [],
-  "last_fetched": "2026-11-15T10:29:16.700123",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-15T10:27:41.870662",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 4,
   "state": "closed",
-  "updated_at": "2026-11-15T10:27:41Z"
+  "updated_at": "2026-11-15T10:27:39Z"
 }

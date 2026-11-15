@@ -1,6 +1,6 @@
 {
-  "ETag": "\"de542358e96c0478fc7dd26acfa6497f4bca1e86570a134ca5741d34d01b0ab3\"",
-  "Last-Modified": "Sun, 15 Nov 2026 08:57:20 GMT",
+  "ETag": "W/\"76a4e0653a466c5c22bd6de24ffa1f62efd3baa7b0e99cdcf1198c73b4221678\"",
+  "Last-Modified": "Sun, 15 Nov 2026 08:57:17 GMT",
   "base": {
     "repo": {
       "name": "python-box-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/python-box-feedstock/pull/64",
   "id": 5208701481,
-  "labels": [],
-  "last_fetched": "2026-11-15T08:58:40.047686",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-15T08:57:20.348728",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 64,
   "state": "closed",
-  "updated_at": "2026-11-15T08:57:20Z"
+  "updated_at": "2026-11-15T08:57:17Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fa38188b7916201ee967709bd3277323b77b525b8e67ee92396abc2f509efb69\"",
+  "Last-Modified": "Sun, 15 Nov 2026 22:38:41 GMT",
   "base": {
     "repo": {
       "name": "r-ncar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T22:38:37Z",
   "closed_by": null,
   "created_at": "2026-11-15T22:34:54Z",
   "draft": false,
   "e_tag": "\"fd528a47d38b845a15b278e9721f31e238ee97fbf978b837980ea01acca20f89\"",
   "head": {
-    "ref": "0.7.3_h512332"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-ncar-feedstock/pull/11",
   "id": 5327942001,
   "labels": [],
-  "last_fetched": "2026-11-15T22:34:55.390451",
+  "last_fetched": "2026-11-15T22:40:01.856793",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-15T22:38:37Z",
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-11-15T22:34:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T22:38:41Z"
 }

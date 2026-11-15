@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3b2b53eed5925673025e8768b0c07c129d8213b34eac8e7047c42643b6839eb2\"",
-  "Last-Modified": "Sun, 15 Nov 2026 00:16:05 GMT",
+  "ETag": "\"c6d5479d3d09e1687123cf11c871fb89eebe6331e26e1a53363cb000181f27c8\"",
+  "Last-Modified": "Sun, 15 Nov 2026 05:06:51 GMT",
   "base": {
     "repo": {
       "name": "metadata-crawler-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T05:06:51Z",
   "closed_by": null,
   "created_at": "2026-11-15T00:13:10Z",
   "draft": false,
   "e_tag": "\"7215ca9666a182a85ec22d11df067ed99d16d3979a67f27c4c71e11df3247a03\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h017471"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/metadata-crawler-feedstock/pull/39",
   "id": 5317714386,
   "labels": [],
-  "last_fetched": "2026-11-15T01:16:26.729111",
+  "last_fetched": "2026-11-15T05:07:57.903536",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-15T05:06:51Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-11-15T00:16:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T05:06:51Z"
 }

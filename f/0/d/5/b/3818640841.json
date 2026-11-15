@@ -1,12 +1,13 @@
 {
-  "ETag": "\"a922c328d7f6f4556092da5161a48e4d8a21c87af83eb798e9bf32f896961088\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"2cfcbbc45126c7afd0fa37f36e74f1ae663a3bf8e99b073dcab9f18b41ca8a49\"",
+  "Last-Modified": "Sun, 15 Nov 2026 04:20:47 GMT",
   "base": {
     "repo": {
       "name": "freefem-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T04:20:45Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-06-07T10:50:29Z",
   "draft": false,
   "e_tag": "\"a3c385461a819132422f664b7462de6131518a857f27b8a37ad877713908e385\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/freefem-feedstock/pull/55",
   "id": 3818640841,
-  "labels": [],
-  "last_fetched": "2026-11-07T15:58:28.191147",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-15T04:20:48.337024",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-06-07T10:52:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T04:20:47Z"
 }

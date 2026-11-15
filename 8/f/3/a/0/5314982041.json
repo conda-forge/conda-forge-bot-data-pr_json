@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9e6c6ca111daa43601e8810ee089894aa4efb8cc789ffb843875fcd815b1e860\"",
-  "Last-Modified": "Sat, 14 Nov 2026 18:47:52 GMT",
+  "ETag": "\"d70fef31facefc4e228e6c1c31ef010990455ec87ae35bf41c85d9e71a3dd1b2\"",
+  "Last-Modified": "Sun, 15 Nov 2026 06:44:32 GMT",
   "base": {
     "repo": {
       "name": "mpich-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T06:44:32Z",
   "closed_by": null,
   "created_at": "2026-11-14T18:46:08Z",
   "draft": false,
   "e_tag": "\"05e0555653d3d5a9ad92933cdcabaab7bb7e798db842fec2dec6e704e3679be0\"",
   "head": {
-    "ref": "rebuild-libhwloc2150-0-2_he3aace"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mpich-feedstock/pull/148",
   "id": 5314982041,
   "labels": [],
-  "last_fetched": "2026-11-15T04:19:28.019152",
+  "last_fetched": "2026-11-15T06:45:51.682341",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-15T06:44:31Z",
   "number": 148,
-  "state": "open",
-  "updated_at": "2026-11-14T18:47:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T06:44:32Z"
 }

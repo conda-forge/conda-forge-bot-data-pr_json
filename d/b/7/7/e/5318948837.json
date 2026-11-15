@@ -1,27 +1,29 @@
 {
+  "ETag": "\"20048f51205b0e0edc35b3ba98e11e2d4076e4fe47fb848cdf2ce34f1f1b48e4\"",
+  "Last-Modified": "Sun, 15 Nov 2026 03:09:00 GMT",
   "base": {
     "repo": {
       "name": "livekit-protocol-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T03:08:56Z",
   "closed_by": null,
   "created_at": "2026-11-15T03:07:04Z",
   "draft": false,
   "e_tag": "\"f43bf9d5182ca299e486f1190e9c3e235fd963349b8952dc55df891ced0ef46e\"",
   "head": {
-    "ref": "2.0.0_h073ccd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/livekit-protocol-feedstock/pull/28",
   "id": 5318948837,
   "labels": [],
-  "last_fetched": "2026-11-15T03:07:04.933719",
+  "last_fetched": "2026-11-15T03:10:36.694188",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-15T03:08:56Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-15T03:07:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T03:09:00Z"
 }

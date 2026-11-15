@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"57b5388dc38ccb746e84e2aea7316f5755710711f5a1b538340bec21da0484f2\"",
+  "Last-Modified": "Sun, 15 Nov 2026 06:00:38 GMT",
   "base": {
     "repo": {
       "name": "terrio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T06:00:34Z",
   "closed_by": null,
   "created_at": "2026-11-15T05:32:33Z",
   "draft": false,
   "e_tag": "\"681567e17421cbf0950a7015331af5cdde0a6fcdc3d2e9970c033af74207df7c\"",
   "head": {
-    "ref": "0.9.0_h46b2cc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terrio-feedstock/pull/12",
   "id": 5319846271,
   "labels": [],
-  "last_fetched": "2026-11-15T05:32:34.810711",
+  "last_fetched": "2026-11-15T06:02:06.033428",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-15T06:00:34Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-15T05:32:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T06:00:38Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b83174125a17b21ca279fc71095a43631b686c55bcd076ee445e0ec4cccd41a1\"",
+  "Last-Modified": "Sun, 15 Nov 2026 15:14:25 GMT",
   "base": {
     "repo": {
       "name": "openldap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T15:14:25Z",
   "closed_by": null,
   "created_at": "2026-11-15T14:22:41Z",
   "draft": false,
   "e_tag": "\"fc602209b11e939496d6921569245a58ef922c7905f0cead53d87cf86aa11195\"",
   "head": {
-    "ref": "2.7.2_haec486"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openldap-feedstock/pull/36",
   "id": 5323646397,
   "labels": [],
-  "last_fetched": "2026-11-15T14:22:42.341220",
+  "last_fetched": "2026-11-15T15:15:57.088454",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-15T15:14:25Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-15T14:22:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T15:14:25Z"
 }

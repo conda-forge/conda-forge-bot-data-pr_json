@@ -1,6 +1,6 @@
 {
-  "ETag": "\"23ec7222120223a7f832b715381fab26794eface96c25fef244312a95aab55ee\"",
-  "Last-Modified": "Sun, 15 Nov 2026 04:45:24 GMT",
+  "ETag": "\"e9d5313b94c55e3bc26c39f0b0a7b114044670b45df5c1cf85582d5fa6c3b0c1\"",
+  "Last-Modified": "Sun, 15 Nov 2026 05:01:23 GMT",
   "base": {
     "repo": {
       "name": "colmap-feedstock"
@@ -16,20 +16,8 @@
   },
   "html_url": "https://github.com/conda-forge/colmap-feedstock/pull/116",
   "id": 5319558293,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 3208784075,
-      "name": "automerge",
-      "node_id": "MDU6TGFiZWwzMjA4Nzg0MDc1",
-      "url": "https://api.github.com/repos/conda-forge/colmap-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-11-15T04:46:56.634312",
+  "labels": [],
+  "last_fetched": "2026-11-15T05:17:32.486192",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -37,5 +25,5 @@
   "merged_at": null,
   "number": 116,
   "state": "open",
-  "updated_at": "2026-11-15T04:45:24Z"
+  "updated_at": "2026-11-15T05:01:23Z"
 }

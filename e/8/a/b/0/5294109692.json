@@ -1,6 +1,6 @@
 {
-  "ETag": "\"814d861e9eb65673d5d9c548d012ae45490c2bf47c2832ef5cecdf23364906fb\"",
-  "Last-Modified": "Fri, 13 Nov 2026 10:46:32 GMT",
+  "ETag": "\"bf10d9d50fd95e73ea22b0fa58abcb73cfc7574c7db307ad5cec99f1351ea017\"",
+  "Last-Modified": "Sun, 15 Nov 2026 11:00:04 GMT",
   "base": {
     "repo": {
       "name": "aws-checksums-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/aws-checksums-feedstock/pull/125",
   "id": 5294109692,
-  "labels": [],
-  "last_fetched": "2026-11-13T11:28:22.288713",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2338302816,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMzM4MzAyODE2",
+      "url": "https://api.github.com/repos/conda-forge/aws-checksums-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-15T11:01:26.649551",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 125,
   "state": "open",
-  "updated_at": "2026-11-13T10:46:32Z"
+  "updated_at": "2026-11-15T11:00:04Z"
 }

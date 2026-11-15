@@ -1,4 +1,6 @@
 {
+  "ETag": "\"1152161bca516b82b500a03010e87ac5500ba0d883c367b41c12b57c17ca6314\"",
+  "Last-Modified": "Sun, 15 Nov 2026 10:21:09 GMT",
   "base": {
     "repo": {
       "name": "nanoflann-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/nanoflann-feedstock/pull/40",
   "id": 5321634928,
-  "labels": [],
-  "last_fetched": "2026-11-15T10:04:16.882722",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891022555,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDIyNTU1",
+      "url": "https://api.github.com/repos/conda-forge/nanoflann-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-15T10:22:26.721973",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 40,
   "state": "open",
-  "updated_at": "2026-11-15T10:04:16Z"
+  "updated_at": "2026-11-15T10:21:09Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"de535ec31f372a28bef35a78b51fd3ade84d99647c897ce630d81c774c09a60d\"",
+  "Last-Modified": "Sun, 15 Nov 2026 16:42:58 GMT",
   "base": {
     "repo": {
       "name": "ipsw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T16:42:55Z",
   "closed_by": null,
   "created_at": "2026-11-15T16:34:22Z",
   "draft": false,
   "e_tag": "\"222247c9389511346dcb3bb66cb5adbc9e00f810198e3235ed4a860a9a548da6\"",
   "head": {
-    "ref": "3.1.748_h35c90e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ipsw-feedstock/pull/75",
   "id": 5324791476,
   "labels": [],
-  "last_fetched": "2026-11-15T16:34:23.696364",
+  "last_fetched": "2026-11-15T16:44:24.150251",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-15T16:42:55Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-11-15T16:34:22Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T16:42:58Z"
 }

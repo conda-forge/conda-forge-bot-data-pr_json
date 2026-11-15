@@ -1,28 +1,28 @@
 {
-  "ETag": "\"c7a91c8ac63adc7f2ce9179d598b77e705c6a1e24b4f138509497fac5e312609\"",
-  "Last-Modified": "Wed, 11 Nov 2026 13:08:32 GMT",
+  "ETag": "\"2fa7b6869f55bbef3383a589d425ce8ff6fbf6b9a0202e71f6219f19d227b01a\"",
+  "Last-Modified": "Sun, 15 Nov 2026 22:10:13 GMT",
   "base": {
     "repo": {
       "name": "glue-wwt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T22:10:10Z",
   "created_at": "2025-11-24T16:25:11Z",
   "draft": false,
   "e_tag": "\"902ebd8b3070e6425c340676bf3bf5177a4eec10bc83be57b160490cb256c465\"",
   "head": {
-    "ref": "0.8.0_hd719f8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/glue-wwt-feedstock/pull/12",
   "id": 3040661580,
   "labels": [],
-  "last_fetched": "2026-11-11T18:18:57.712881",
+  "last_fetched": "2026-11-15T22:11:51.504228",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-15T22:10:10Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-11T13:08:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T22:10:13Z"
 }

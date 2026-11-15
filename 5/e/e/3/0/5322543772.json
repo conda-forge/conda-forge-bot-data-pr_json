@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9b12987a9444e2510ca05d645e4d4223cf48221d41285c3e19fa7d9665576d75\"",
+  "Last-Modified": "Sun, 15 Nov 2026 12:12:42 GMT",
   "base": {
     "repo": {
       "name": "guidata-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T12:12:42Z",
   "closed_by": null,
   "created_at": "2026-11-15T12:09:33Z",
   "draft": false,
   "e_tag": "\"0944d1ba28a77249016f4e05b0136129ef99a7866d6de47037c60770a2bc1257\"",
   "head": {
-    "ref": "3.17.3_h1a7d07"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/guidata-feedstock/pull/72",
   "id": 5322543772,
   "labels": [],
-  "last_fetched": "2026-11-15T12:09:34.391851",
+  "last_fetched": "2026-11-15T12:14:02.590879",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-15T12:12:42Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-11-15T12:09:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T12:12:42Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c6c998915f8ef089fc690be374f100dc8379aef121bfd97291b14cbf927e6e18\"",
+  "Last-Modified": "Sun, 15 Nov 2026 15:05:44 GMT",
   "base": {
     "repo": {
       "name": "arf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T15:05:41Z",
   "closed_by": null,
   "created_at": "2026-11-15T14:16:16Z",
   "draft": false,
   "e_tag": "\"e542b196d083e8ad5ccdbbc68c1ec8b4e7ca3851c2bc1c31da5606bc326af3f6\"",
   "head": {
-    "ref": "0.7.1_h880c99"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arf-feedstock/pull/14",
   "id": 5323590674,
   "labels": [],
-  "last_fetched": "2026-11-15T14:16:16.865284",
+  "last_fetched": "2026-11-15T15:07:17.770174",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-15T15:05:40Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-15T14:16:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T15:05:44Z"
 }

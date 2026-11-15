@@ -1,29 +1,29 @@
 {
-  "ETag": "\"085c48f282724cf9bcd8ebd1860e826230173fc0b7c2185b932fcf606dab0b24\"",
-  "Last-Modified": "Sun, 15 Nov 2026 08:36:51 GMT",
+  "ETag": "\"4729957e3a989dd15d63da96fb77b218957a18a77a54c646c018d087c3329d0b\"",
+  "Last-Modified": "Sun, 15 Nov 2026 14:42:55 GMT",
   "base": {
     "repo": {
       "name": "onnxruntime-ep-openvino-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T14:42:55Z",
   "closed_by": null,
   "created_at": "2026-11-15T05:40:15Z",
   "draft": false,
   "e_tag": "\"9a3d184db0687a0df78baf4da9a3c48fcd1a5feccc55cc7369e48e41d9af404b\"",
   "head": {
-    "ref": "rebuild-onnxruntime_cpp1320-0-1_hfb4774"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/onnxruntime-ep-openvino-feedstock/pull/2",
   "id": 5319890143,
   "labels": [],
-  "last_fetched": "2026-11-15T12:42:27.488728",
+  "last_fetched": "2026-11-15T14:44:11.186624",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-15T14:42:55Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-15T08:36:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T14:42:55Z"
 }

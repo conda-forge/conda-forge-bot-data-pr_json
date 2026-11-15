@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ddd61cc5c29fba6842420641428917f6112239ae9c92f6f136aa15c20ad2f677\"",
+  "Last-Modified": "Sun, 15 Nov 2026 20:56:31 GMT",
   "base": {
     "repo": {
       "name": "fenicsx-compat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T20:56:31Z",
   "closed_by": null,
   "created_at": "2026-11-15T20:18:23Z",
   "draft": false,
   "e_tag": "\"19ff27a9dd89de92fb199c5823e5002d473086c31800b67bb6673dbfb64df6b8\"",
   "head": {
-    "ref": "0.5.0_h561a41"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fenicsx-compat-feedstock/pull/4",
   "id": 5326774390,
   "labels": [],
-  "last_fetched": "2026-11-15T20:18:24.725622",
+  "last_fetched": "2026-11-15T20:57:58.071024",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-15T20:56:31Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-15T20:18:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T20:56:31Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e32bc5987a8a00de099ecb68f518b49086804328e97549f7374e2e9d81130862\"",
-  "Last-Modified": "Sun, 15 Nov 2026 18:10:33 GMT",
+  "ETag": "\"d779d5483787a79f379e2c70e877cf5c8c623f918779f1a1767abdd43cc6443d\"",
+  "Last-Modified": "Sun, 15 Nov 2026 21:17:56 GMT",
   "base": {
     "repo": {
       "name": "cardiac-geometriesx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T21:17:56Z",
   "closed_by": null,
   "created_at": "2026-11-15T18:09:08Z",
   "draft": false,
   "e_tag": "\"b00097546cf315a672290de262e39a9ba00f20b08c626cfea336b0a0dd480397\"",
   "head": {
-    "ref": "0.22.0_hfa0627"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cardiac-geometriesx-feedstock/pull/36",
   "id": 5325613166,
   "labels": [],
-  "last_fetched": "2026-11-15T18:19:04.521701",
+  "last_fetched": "2026-11-15T21:19:30.616112",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-15T21:17:56Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-15T18:10:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T21:17:56Z"
 }

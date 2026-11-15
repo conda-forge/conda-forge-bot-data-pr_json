@@ -1,6 +1,6 @@
 {
-  "ETag": "\"df129ea735c0591b66d8e03360f61632123f9406765c09b1d79a20e146a83620\"",
-  "Last-Modified": "Sun, 15 Nov 2026 11:43:47 GMT",
+  "ETag": "W/\"98802a4198c61a7f9951b81652d9351fa5e0d5c58a21e7b634d9fbdd9a930f31\"",
+  "Last-Modified": "Sun, 15 Nov 2026 11:43:44 GMT",
   "base": {
     "repo": {
       "name": "freefem-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/freefem-feedstock/pull/42",
   "id": 2410785972,
-  "labels": [],
-  "last_fetched": "2026-11-15T11:44:51.559474",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-15T11:43:47.424698",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 42,
   "state": "closed",
-  "updated_at": "2026-11-15T11:43:47Z"
+  "updated_at": "2026-11-15T11:43:44Z"
 }

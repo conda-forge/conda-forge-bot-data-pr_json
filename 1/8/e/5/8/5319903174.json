@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e76922021d3f95e81c233bc04e40fcf0c5a58cfdcabcb7b8c4ace3ede4b1aa2c\"",
-  "Last-Modified": "Sun, 15 Nov 2026 05:43:44 GMT",
+  "ETag": "\"283c3a7d4c8734ddf4e755e14c548f172cf1593759a355a8840f8779cb58dbb8\"",
+  "Last-Modified": "Sun, 15 Nov 2026 17:53:48 GMT",
   "base": {
     "repo": {
       "name": "magika-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-15T17:53:47Z",
   "closed_by": null,
   "created_at": "2026-11-15T05:42:15Z",
   "draft": false,
   "e_tag": "\"815d8d0edfb16455a2b5e329fc11eca97060bf86ea5332f48005cf166e40c017\"",
   "head": {
-    "ref": "rebuild-onnxruntime_cpp1320-0-1_hf4db44"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/magika-cli-feedstock/pull/3",
   "id": 5319903174,
   "labels": [],
-  "last_fetched": "2026-11-15T07:17:59.718905",
+  "last_fetched": "2026-11-15T17:54:50.342051",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-15T17:53:47Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-11-15T05:43:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-15T17:53:48Z"
 }

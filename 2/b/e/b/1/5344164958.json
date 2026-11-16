@@ -1,29 +1,29 @@
 {
-  "ETag": "\"603d3b98a120b88257c37f049cc7397567788e23fc0020d59c594702b88f4290\"",
-  "Last-Modified": "Mon, 16 Nov 2026 20:06:00 GMT",
+  "ETag": "\"ae07b4c49a4d54bc6c3e3369af7727a62d924f81731707cb989d1debab57a745\"",
+  "Last-Modified": "Mon, 16 Nov 2026 22:59:25 GMT",
   "base": {
     "repo": {
       "name": "obstore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T22:59:25Z",
   "closed_by": null,
   "created_at": "2026-11-16T20:04:30Z",
   "draft": false,
   "e_tag": "\"2ff9b0bcd2a4dab955e05e464ba31a61a04b5cfd1ef450095edef76a374d306e\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h1cb5a8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/obstore-feedstock/pull/40",
   "id": 5344164958,
   "labels": [],
-  "last_fetched": "2026-11-16T22:17:22.466282",
+  "last_fetched": "2026-11-16T23:00:54.331629",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T22:59:25Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-11-16T20:06:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T22:59:25Z"
 }

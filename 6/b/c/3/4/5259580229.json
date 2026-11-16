@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5d04071580876f299f8c2581502ff1dbd7fe2feda8a4d4a2397ad8c5b636c9e4\"",
-  "Last-Modified": "Wed, 11 Nov 2026 12:37:22 GMT",
+  "ETag": "\"d3f64895e4cb545fd82ab33b8cbae8077acd5393cf345e6a335500a36b50d6a9\"",
+  "Last-Modified": "Mon, 16 Nov 2026 12:55:37 GMT",
   "base": {
     "repo": {
       "name": "winloop-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T12:55:37Z",
   "closed_by": null,
   "created_at": "2026-11-11T12:37:22Z",
   "draft": false,
   "e_tag": "\"0f11fbdbc0ab0a2fc3208283c289a83c5a3c2202b445ae7e5828dccacdc5a02e\"",
   "head": {
-    "ref": "0.8.3_h9c055b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/winloop-feedstock/pull/27",
   "id": 5259580229,
   "labels": [],
-  "last_fetched": "2026-11-11T14:59:48.648968",
+  "last_fetched": "2026-11-16T12:57:00.968020",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T12:55:37Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-11-11T12:38:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T12:55:37Z"
 }

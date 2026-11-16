@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2bcf6d4fc1d76a5a1fc302723e0125465dec120f59ed7340b8de25ebe82b7d4b\"",
-  "Last-Modified": "Mon, 16 Nov 2026 07:11:45 GMT",
+  "ETag": "\"4e9dfb4e2741b0396a41e118fe89e1780d56eb5d744ae17d0931d9899603dde3\"",
+  "Last-Modified": "Mon, 16 Nov 2026 13:25:21 GMT",
   "base": {
     "repo": {
       "name": "backports.zoneinfo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T13:25:21Z",
   "closed_by": null,
   "created_at": "2026-11-16T07:10:05Z",
   "draft": false,
   "e_tag": "\"32e452ee0f4527eb3f70a8d8615e6ebd56dc41c88d593c295c2b492f9f81f3e3\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h1d3058"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/backports.zoneinfo-feedstock/pull/22",
   "id": 5332711610,
   "labels": [],
-  "last_fetched": "2026-11-16T09:03:42.790987",
+  "last_fetched": "2026-11-16T13:27:16.124143",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T13:25:20Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-16T07:11:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T13:25:21Z"
 }

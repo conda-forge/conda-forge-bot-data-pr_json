@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7a070a284d35e9ad71815a659c93cf0a13b777189bde2f21c7efc0a89a9efcca\"",
+  "Last-Modified": "Mon, 16 Nov 2026 19:24:27 GMT",
   "base": {
     "repo": {
       "name": "dejaq-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T19:24:27Z",
   "closed_by": null,
   "created_at": "2026-11-16T19:03:33Z",
   "draft": false,
   "e_tag": "\"65517ab437ba13f0ba789f4a00708e0c3aa8663d2c524714096ca5ac505c6069\"",
   "head": {
-    "ref": "0.8.0_h28225b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dejaq-feedstock/pull/14",
   "id": 5343214618,
   "labels": [],
-  "last_fetched": "2026-11-16T19:03:34.564838",
+  "last_fetched": "2026-11-16T19:25:54.877574",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T19:24:27Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-16T19:03:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T19:24:27Z"
 }

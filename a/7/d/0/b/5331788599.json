@@ -1,6 +1,6 @@
 {
-  "ETag": "\"80dd5ca885a87fc7c55aec1fc867f3a2cc97d017cc02ca99e3743a71380d0bae\"",
-  "Last-Modified": "Mon, 16 Nov 2026 05:47:46 GMT",
+  "ETag": "\"c843d141d423c4858de4bd0421ec5655e81e30c6b3d1b978c46216634b874b01\"",
+  "Last-Modified": "Mon, 16 Nov 2026 23:47:44 GMT",
   "base": {
     "repo": {
       "name": "astroid-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/astroid-feedstock/pull/181",
   "id": 5331788599,
-  "labels": [],
-  "last_fetched": "2026-11-16T06:39:43.782374",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890794966,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwNzk0OTY2",
+      "url": "https://api.github.com/repos/conda-forge/astroid-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T23:49:27.512314",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 181,
   "state": "open",
-  "updated_at": "2026-11-16T05:47:46Z"
+  "updated_at": "2026-11-16T23:47:44Z"
 }

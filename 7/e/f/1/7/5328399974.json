@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6108b73048b3e7465267f8c5e3fee0806e96a0bf33124e7bb5dea563a8632907\"",
+  "Last-Modified": "Mon, 16 Nov 2026 00:02:02 GMT",
   "base": {
     "repo": {
       "name": "foamlib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T00:02:02Z",
   "closed_by": null,
   "created_at": "2026-11-15T23:31:49Z",
   "draft": false,
   "e_tag": "\"1f73aacc92f0a5d6f30bd150eaab1a474941fa03a17e40249c9d7ced5531d7f5\"",
   "head": {
-    "ref": "1.10.3_h58498c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/foamlib-feedstock/pull/97",
   "id": 5328399974,
   "labels": [],
-  "last_fetched": "2026-11-15T23:31:49.778890",
+  "last_fetched": "2026-11-16T00:03:16.752572",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T00:02:02Z",
   "number": 97,
-  "state": "open",
-  "updated_at": "2026-11-15T23:31:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T00:02:02Z"
 }

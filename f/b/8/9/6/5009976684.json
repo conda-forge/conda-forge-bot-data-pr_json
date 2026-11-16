@@ -1,13 +1,13 @@
 {
-  "ETag": "\"59d4bdbf0339a6afb64cedc96b46c5145f22fbe97842f95d29610ea915303cab\"",
-  "Last-Modified": "Mon, 26 Oct 2026 00:00:45 GMT",
+  "ETag": "W/\"21ae01abcc73f99bc671e5ebe7f188a3ae1c68a04cdc815e5b0f5d572dabdc05\"",
+  "Last-Modified": "Mon, 16 Nov 2026 13:38:42 GMT",
   "base": {
     "repo": {
       "name": "json-stream-rs-tokenizer-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-16T13:38:42Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-25T23:58:51Z",
   "draft": false,
   "e_tag": "\"9f470137c11f7f5736de62931a21f175dd4f93f0b79e599ef5ebd72e24356d21\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/json-stream-rs-tokenizer-feedstock/pull/27",
   "id": 5009976684,
-  "labels": [],
-  "last_fetched": "2026-11-09T10:42:52.602149",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-16T13:38:45.936950",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-10-26T00:00:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T13:38:42Z"
 }

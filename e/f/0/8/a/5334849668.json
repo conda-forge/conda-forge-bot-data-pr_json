@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4ffb7a32c1dd106a1abb1231341457d680f325443d5a7214e2eca32990828888\"",
-  "Last-Modified": "Mon, 16 Nov 2026 09:58:07 GMT",
+  "ETag": "\"5a497ce81b08b089b4c638b4bc80e80217957e601015a17c8a6bc1d21da6503f\"",
+  "Last-Modified": "Mon, 16 Nov 2026 13:33:14 GMT",
   "base": {
     "repo": {
       "name": "lxml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T13:33:13Z",
   "closed_by": null,
   "created_at": "2026-11-16T09:56:32Z",
   "draft": false,
   "e_tag": "\"b1fe827a5ef102f75b245b9934af43e21949e87a0721ad76f1b21d3675e3689e\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hc4ecb6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lxml-feedstock/pull/118",
   "id": 5334849668,
   "labels": [],
-  "last_fetched": "2026-11-16T10:00:00.055237",
+  "last_fetched": "2026-11-16T13:34:50.556111",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T13:33:13Z",
   "number": 118,
-  "state": "open",
-  "updated_at": "2026-11-16T09:58:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T13:33:14Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"dca8490c17759fb840e21507e6c67fc92ca67399b5b54b32b3490a12e617c284\"",
-  "Last-Modified": "Mon, 16 Nov 2026 06:59:36 GMT",
+  "ETag": "\"05dfc328ee06d54c2fff013cfcec7c00e10cfa98f4702454aedba5c9ee5805a8\"",
+  "Last-Modified": "Mon, 16 Nov 2026 15:53:34 GMT",
   "base": {
     "repo": {
       "name": "ujson-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T15:53:34Z",
   "closed_by": null,
   "created_at": "2026-11-16T06:58:07Z",
   "draft": false,
   "e_tag": "\"37b4f5bcdda1edfda7a6433e25ef1c78a8343731de528b67cad79f4ad6995265\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h503301"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ujson-feedstock/pull/72",
   "id": 5332569340,
   "labels": [],
-  "last_fetched": "2026-11-16T10:35:30.755206",
+  "last_fetched": "2026-11-16T15:55:40.010857",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T15:53:34Z",
   "number": 72,
-  "state": "open",
-  "updated_at": "2026-11-16T06:59:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T15:53:34Z"
 }

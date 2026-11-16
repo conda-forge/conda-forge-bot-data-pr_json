@@ -1,6 +1,6 @@
 {
-  "ETag": "\"33e930641aa5918ec5d146a0e488f19ecefe642eed0290d9d4751ff0c7f34868\"",
-  "Last-Modified": "Mon, 16 Nov 2026 21:17:09 GMT",
+  "ETag": "W/\"f388bbf2bc1ff8fdcb98f4f974a6fe542848c24b454a8ebd1180ffde147740c1\"",
+  "Last-Modified": "Mon, 16 Nov 2026 21:17:06 GMT",
   "base": {
     "repo": {
       "name": "yarp-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/yarp-feedstock/pull/111",
   "id": 5227695509,
-  "labels": [],
-  "last_fetched": "2026-11-16T21:18:18.143552",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-16T21:17:10.030569",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 111,
   "state": "closed",
-  "updated_at": "2026-11-16T21:17:09Z"
+  "updated_at": "2026-11-16T21:17:06Z"
 }

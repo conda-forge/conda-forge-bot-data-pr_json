@@ -1,4 +1,6 @@
 {
+  "ETag": "\"051c29327f67726ce3d57e98663fe4cc38d41a7e510a4f097151dfe566e645e8\"",
+  "Last-Modified": "Mon, 16 Nov 2026 23:50:25 GMT",
   "base": {
     "repo": {
       "name": "awkward-cpp-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/awkward-cpp-feedstock/pull/101",
   "id": 5346728755,
-  "labels": [],
-  "last_fetched": "2026-11-16T22:56:52.911273",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4961990071,
+      "name": "automerge",
+      "node_id": "LA_kwDOIs-R3c8AAAABJ8H1tw",
+      "url": "https://api.github.com/repos/conda-forge/awkward-cpp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T23:52:03.437225",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 101,
   "state": "open",
-  "updated_at": "2026-11-16T22:56:52Z"
+  "updated_at": "2026-11-16T23:50:25Z"
 }

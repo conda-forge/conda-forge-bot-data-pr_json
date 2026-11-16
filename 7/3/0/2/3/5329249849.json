@@ -1,27 +1,29 @@
 {
+  "ETag": "\"917330d04b7697c6bd19836f76be45a16931ebe7434f81c74a346f3840918a7f\"",
+  "Last-Modified": "Mon, 16 Nov 2026 01:10:37 GMT",
   "base": {
     "repo": {
       "name": "json_stream-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T01:10:33Z",
   "closed_by": null,
   "created_at": "2026-11-16T01:06:58Z",
   "draft": false,
   "e_tag": "\"995a1f089c318fe19e73a338cc2ad03eb524fe02f7531294399221a1955ff844\"",
   "head": {
-    "ref": "2.5.5_hab032e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/json_stream-feedstock/pull/15",
   "id": 5329249849,
   "labels": [],
-  "last_fetched": "2026-11-16T01:06:58.813656",
+  "last_fetched": "2026-11-16T01:12:01.580932",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T01:10:33Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-16T01:06:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T01:10:37Z"
 }

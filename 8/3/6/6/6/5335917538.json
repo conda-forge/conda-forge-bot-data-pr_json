@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8f7555f72f916ced8b4c61f4c20999f983c06da6a80bb4a2945a2cdd843732a5\"",
-  "Last-Modified": "Mon, 16 Nov 2026 11:14:16 GMT",
+  "ETag": "\"db36c598d9cf21cfb28ccccf0a9055450a4e1f6ea89fc915996ab43ab52b82e1\"",
+  "Last-Modified": "Mon, 16 Nov 2026 13:05:19 GMT",
   "base": {
     "repo": {
       "name": "sseclient-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T13:05:18Z",
   "closed_by": null,
   "created_at": "2026-11-16T11:12:45Z",
   "draft": false,
   "e_tag": "\"80d6b9e794ad75675ef2ae73789531e2ddf962951d5fc5873fe461a3135867dd\"",
   "head": {
-    "ref": "2.1.0_h6a8ed6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sseclient-py-feedstock/pull/4",
   "id": 5335917538,
   "labels": [],
-  "last_fetched": "2026-11-16T12:58:22.632266",
+  "last_fetched": "2026-11-16T13:06:45.753925",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T13:05:18Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-16T11:14:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T13:05:19Z"
 }

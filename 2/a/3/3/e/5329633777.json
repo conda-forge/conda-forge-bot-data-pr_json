@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1d3511c7f5b9d44e071e7daf278b5b64088a6d405ab663fc7645e066f8655d10\"",
+  "Last-Modified": "Mon, 16 Nov 2026 05:42:35 GMT",
   "base": {
     "repo": {
       "name": "sigima-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T05:42:35Z",
   "closed_by": null,
   "created_at": "2026-11-16T01:50:10Z",
   "draft": false,
   "e_tag": "\"307b95536bd770205a057d4e288af6fd069803b16b530c9b705c58cd52b3ba55\"",
   "head": {
-    "ref": "1.4.1_hc21730"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sigima-feedstock/pull/18",
   "id": 5329633777,
   "labels": [],
-  "last_fetched": "2026-11-16T01:50:11.477111",
+  "last_fetched": "2026-11-16T05:44:13.659635",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T05:42:35Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-16T01:50:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T05:42:35Z"
 }

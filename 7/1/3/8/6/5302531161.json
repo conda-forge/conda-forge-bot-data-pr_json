@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3b0209f9d0502f29fc7d2bce5f796af99af013e6cd06ecc63a2b98627ce380a6\"",
-  "Last-Modified": "Sun, 15 Nov 2026 22:04:58 GMT",
+  "ETag": "\"d88141248c120270323485dc48ea280ccfd65cc804bde81b799bf36ace94ad7e\"",
+  "Last-Modified": "Mon, 16 Nov 2026 08:43:01 GMT",
   "base": {
     "repo": {
       "name": "hidefix-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T08:42:54Z",
   "closed_by": null,
   "created_at": "2026-11-13T20:40:50Z",
   "draft": false,
   "e_tag": "\"518f4ec0f5482fa864ef9fdbc4f13946e6103ba19649a2cfc01b856a927705c8\"",
   "head": {
-    "ref": "0.13.0_h9a92d2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hidefix-feedstock/pull/13",
   "id": 5302531161,
   "labels": [],
-  "last_fetched": "2026-11-15T22:43:02.935381",
+  "last_fetched": "2026-11-16T08:44:01.829242",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T08:42:53Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-15T22:04:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T08:43:01Z"
 }

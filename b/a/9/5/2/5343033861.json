@@ -1,29 +1,29 @@
 {
-  "ETag": "\"085b064a0d796f784b4a2b6f8790ac08b97e5285f8d42fea8e852c72ad5d309c\"",
-  "Last-Modified": "Mon, 16 Nov 2026 18:51:58 GMT",
+  "ETag": "\"f53c803bd82d45a44cc9f23314c1328346470561c889a04f564f9c2321d0a050\"",
+  "Last-Modified": "Mon, 16 Nov 2026 19:00:40 GMT",
   "base": {
     "repo": {
       "name": "modctl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T19:00:35Z",
   "closed_by": null,
   "created_at": "2026-11-16T18:51:57Z",
   "draft": false,
   "e_tag": "\"9ba64422788c4c14928aaa0abdd5fd945da227c6077119a5dd1ba661fcf12792\"",
   "head": {
-    "ref": "0.2.3_hbd143e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/modctl-feedstock/pull/9",
   "id": 5343033861,
   "labels": [],
-  "last_fetched": "2026-11-16T18:59:51.257153",
+  "last_fetched": "2026-11-16T19:01:58.306753",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T19:00:35Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-16T18:53:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T19:00:40Z"
 }

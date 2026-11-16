@@ -1,27 +1,29 @@
 {
+  "ETag": "\"39b2b960fdda8274518ec5983e9f52b3815cd5ed93990bd9d7b11a062a619fbf\"",
+  "Last-Modified": "Mon, 16 Nov 2026 11:56:13 GMT",
   "base": {
     "repo": {
       "name": "cereal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T11:56:12Z",
   "closed_by": null,
   "created_at": "2026-11-16T11:26:00Z",
   "draft": false,
   "e_tag": "\"c4745624e284233fa7ea104838fb44dd8c7146919f746945403b451abbd52068\"",
   "head": {
-    "ref": "bot-pr_riscv64_hf271c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cereal-feedstock/pull/10",
   "id": 5336113917,
   "labels": [],
-  "last_fetched": "2026-11-16T11:26:00.919693",
+  "last_fetched": "2026-11-16T11:57:51.671066",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T11:56:12Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-16T11:26:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T11:56:13Z"
 }

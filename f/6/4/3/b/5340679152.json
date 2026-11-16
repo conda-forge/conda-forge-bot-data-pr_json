@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a3a2709799bf8dd7cf469a74199a4d9baad89940874e69bbe2c95ab88c8f9333\"",
-  "Last-Modified": "Mon, 16 Nov 2026 17:23:12 GMT",
+  "ETag": "\"abd5045056084a8f9b3f4341dd0b6778fe1d9e866cb0ff6c6299dd11c8aece58\"",
+  "Last-Modified": "Mon, 16 Nov 2026 22:28:04 GMT",
   "base": {
     "repo": {
       "name": "arrow-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T22:28:04Z",
   "closed_by": null,
   "created_at": "2026-11-16T16:19:42Z",
   "draft": false,
   "e_tag": "\"1d700d4f9db3c1788c749a3e12e3f6540adb443cc577c94af3258edbcac3ce79\"",
   "head": {
-    "ref": "rebuild-simdjson52-0-1_h05385d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/arrow-cpp-feedstock/pull/2117",
   "id": 5340679152,
   "labels": [],
-  "last_fetched": "2026-11-16T18:44:11.305495",
+  "last_fetched": "2026-11-16T22:29:28.026489",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T22:28:04Z",
   "number": 2117,
-  "state": "open",
-  "updated_at": "2026-11-16T17:23:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T22:28:04Z"
 }

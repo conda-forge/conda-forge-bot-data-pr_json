@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c07975aef87b2ae031f5c3df8eff7264c2d4b744c1a62bb14943f335f3d37f98\"",
-  "Last-Modified": "Fri, 13 Nov 2026 18:35:45 GMT",
+  "ETag": "\"459a95bcc698a08869af110b9ce68dbebab108a16ad392062076307a8dc6dce8\"",
+  "Last-Modified": "Mon, 16 Nov 2026 08:12:11 GMT",
   "base": {
     "repo": {
       "name": "adaptivetesting-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T08:12:11Z",
   "closed_by": null,
   "created_at": "2026-11-13T18:34:10Z",
   "draft": false,
   "e_tag": "\"20036625eb65f5c984f964216ab283d626ab35543119b59c4bb49a24b5efcf2c\"",
   "head": {
-    "ref": "1.2.2_h0a1422"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/adaptivetesting-feedstock/pull/4",
   "id": 5300873746,
   "labels": [],
-  "last_fetched": "2026-11-13T21:00:31.296172",
+  "last_fetched": "2026-11-16T08:13:53.626328",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T08:12:11Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-13T18:35:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T08:12:11Z"
 }

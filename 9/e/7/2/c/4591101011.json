@@ -1,6 +1,6 @@
 {
-  "ETag": "\"cc131ce21f3287c6f8c1b0d5f0438f78539a9f1e9aec51fe3709c1d54258f980\"",
-  "Last-Modified": "Wed, 04 Nov 2026 05:06:41 GMT",
+  "ETag": "\"f43f27a3d57bf1feeabb24de9b8be3928701ed1539eaa23135472673debec1a7\"",
+  "Last-Modified": "Mon, 16 Nov 2026 16:52:08 GMT",
   "base": {
     "repo": {
       "name": "vetoperf-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/vetoperf-feedstock/pull/25",
   "id": 4591101011,
-  "labels": [],
-  "last_fetched": "2026-11-11T09:42:52.150914",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3752600431,
+      "name": "automerge",
+      "node_id": "LA_kwDOGtqHis7frCNv",
+      "url": "https://api.github.com/repos/conda-forge/vetoperf-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T16:53:28.728607",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 25,
   "state": "open",
-  "updated_at": "2026-11-04T05:06:41Z"
+  "updated_at": "2026-11-16T16:52:08Z"
 }

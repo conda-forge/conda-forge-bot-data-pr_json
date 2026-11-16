@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1576ebb3ac262ca4756a5f0318cd58730757169c090da82bea6ab40950aef420\"",
-  "Last-Modified": "Mon, 16 Nov 2026 13:42:07 GMT",
+  "ETag": "\"51a5a5d7f73e73798c32816a897013b4235ff04ff87a4cc231a922c9b08753c6\"",
+  "Last-Modified": "Mon, 16 Nov 2026 19:07:13 GMT",
   "base": {
     "repo": {
       "name": "openmvs-split-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T19:07:12Z",
   "closed_by": null,
   "created_at": "2026-11-16T13:40:34Z",
   "draft": false,
   "e_tag": "\"f49cf24a90402a7b45e9974c1b364fece38d353f894fcfa5a4e554c55c0e050d\"",
   "head": {
-    "ref": "rebuild-libopencv510-0-1_hfdcad0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openmvs-split-feedstock/pull/6",
   "id": 5338071895,
   "labels": [],
-  "last_fetched": "2026-11-16T15:07:33.101896",
+  "last_fetched": "2026-11-16T19:08:26.558296",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T19:07:12Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-16T13:42:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T19:07:13Z"
 }

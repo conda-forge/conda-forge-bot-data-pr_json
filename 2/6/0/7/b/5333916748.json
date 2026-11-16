@@ -1,6 +1,6 @@
 {
-  "ETag": "\"32173af0385b51c35c0500bd80255ffec385efa50e8549987b0394c4baeef14b\"",
-  "Last-Modified": "Mon, 16 Nov 2026 08:50:02 GMT",
+  "ETag": "\"d186f9b846b3af6b4a6df1178a2ae8a724709f3c45c9f13a5df86a4e645c411c\"",
+  "Last-Modified": "Mon, 16 Nov 2026 11:26:42 GMT",
   "base": {
     "repo": {
       "name": "prek-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/prek-feedstock/pull/71",
   "id": 5333916748,
-  "labels": [],
-  "last_fetched": "2026-11-16T09:59:06.665342",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9255250742,
+      "name": "automerge",
+      "node_id": "LA_kwDOPs9HSs8AAAACJ6frNg",
+      "url": "https://api.github.com/repos/conda-forge/prek-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T11:28:25.292861",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 71,
   "state": "open",
-  "updated_at": "2026-11-16T08:50:02Z"
+  "updated_at": "2026-11-16T11:26:42Z"
 }

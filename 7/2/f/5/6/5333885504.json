@@ -1,29 +1,41 @@
 {
-  "ETag": "\"b7bb757b5b0304b2f7c4fffaed70d83328aed5e25f4c7c27499cce98dff11cda\"",
-  "Last-Modified": "Mon, 16 Nov 2026 08:47:44 GMT",
+  "ETag": "\"d0c0180fab5c89c3f9d082f781c7351e8d2bb3b9fede6d894f78c9671dbd4ce8\"",
+  "Last-Modified": "Mon, 16 Nov 2026 13:47:04 GMT",
   "base": {
     "repo": {
       "name": "transports-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T13:47:00Z",
   "closed_by": null,
   "created_at": "2026-11-16T08:46:03Z",
   "draft": false,
   "e_tag": "\"8f918a3538811e6161a5aa4d8a23f85716a0f5bcb8d65d0428abd5ccdbe6bcec\"",
   "head": {
-    "ref": "0.12.4_hfd4c85"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/transports-feedstock/pull/16",
   "id": 5333885504,
-  "labels": [],
-  "last_fetched": "2026-11-16T09:51:52.056807",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11907659374,
+      "name": "automerge",
+      "node_id": "LA_kwDOT_f7sc8AAAACxcB2bg",
+      "url": "https://api.github.com/repos/conda-forge/transports-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T13:47:57.245203",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T13:47:00Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-16T08:47:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T13:47:04Z"
 }

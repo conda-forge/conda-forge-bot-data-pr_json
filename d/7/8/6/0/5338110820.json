@@ -1,4 +1,6 @@
 {
+  "ETag": "\"0016263fe12685a663c1ce2e09c624d8d6e3320ef47bfe727f83c5ae1a399df9\"",
+  "Last-Modified": "Mon, 16 Nov 2026 14:00:01 GMT",
   "base": {
     "repo": {
       "name": "visionworkbench-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/visionworkbench-feedstock/pull/18",
   "id": 5338110820,
-  "labels": [],
-  "last_fetched": "2026-11-16T13:43:09.858049",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8835025337,
+      "name": "automerge",
+      "node_id": "LA_kwDOPBLI_88AAAACDpvJuQ",
+      "url": "https://api.github.com/repos/conda-forge/visionworkbench-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T14:01:26.425935",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-11-16T13:43:08Z"
+  "updated_at": "2026-11-16T14:00:01Z"
 }

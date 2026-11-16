@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8d4c31a862d61d8204ab303a356bf234d3f459fa52a2dc70cc770b9fece74883\"",
+  "Last-Modified": "Mon, 16 Nov 2026 18:34:48 GMT",
   "base": {
     "repo": {
       "name": "cedar-policy-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T18:34:44Z",
   "closed_by": null,
   "created_at": "2026-11-16T18:22:16Z",
   "draft": false,
   "e_tag": "\"a933d3d18ff9d3e456c4d77bf24157d0094449a29fb513810327d478a248d3a8\"",
   "head": {
-    "ref": "4.15.0_h8258ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cedar-policy-cli-feedstock/pull/8",
   "id": 5342584799,
   "labels": [],
-  "last_fetched": "2026-11-16T18:22:17.767817",
+  "last_fetched": "2026-11-16T18:35:56.172442",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T18:34:44Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-16T18:22:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T18:34:48Z"
 }

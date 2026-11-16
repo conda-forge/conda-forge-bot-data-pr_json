@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8327837f8a2b4b9cf5d222024bf83e45cf83416dfb0a38085ee20c79ecc7039c\"",
-  "Last-Modified": "Fri, 13 Nov 2026 09:15:53 GMT",
+  "ETag": "\"949049ab670f910e499d65e5e0349594eb51250f3df775b458a0064d171e245d\"",
+  "Last-Modified": "Mon, 16 Nov 2026 15:03:25 GMT",
   "base": {
     "repo": {
       "name": "gts-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T15:03:25Z",
   "closed_by": null,
   "created_at": "2026-11-13T09:14:14Z",
   "draft": false,
   "e_tag": "\"f0bd64aad5f0658f4f4f89e3eafe14b33db5e6135c85f4e889ff41e2176f1274\"",
   "head": {
-    "ref": "bot-pr_riscv64_h3759c1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gts-feedstock/pull/9",
   "id": 5293060258,
   "labels": [],
-  "last_fetched": "2026-11-13T10:59:25.608285",
+  "last_fetched": "2026-11-16T15:04:54.016598",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T15:03:25Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-13T09:15:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T15:03:25Z"
 }

@@ -1,29 +1,41 @@
 {
-  "ETag": "\"132af0b12f1e4bfec0b2b3b96cf01c82f0da8a6c59a76efdc40edf6117408b9e\"",
-  "Last-Modified": "Mon, 16 Nov 2026 08:15:36 GMT",
+  "ETag": "\"c876476b14e52baa149eb0ce746ef840ed687b59e71a187d25ab735551de5f4a\"",
+  "Last-Modified": "Mon, 16 Nov 2026 11:06:35 GMT",
   "base": {
     "repo": {
       "name": "act-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T11:06:31Z",
   "closed_by": null,
   "created_at": "2026-11-16T08:13:57Z",
   "draft": false,
   "e_tag": "\"0e0d3b7531219c094c9c11b9d9ae5060698212c7bad27341bd1539ff21f15daa\"",
   "head": {
-    "ref": "0.2.98_hdf48bf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/act-feedstock/pull/36",
   "id": 5333457844,
-  "labels": [],
-  "last_fetched": "2026-11-16T10:35:34.208888",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7078035855,
+      "name": "automerge",
+      "node_id": "LA_kwDOMJAD-s8AAAABpeJBjw",
+      "url": "https://api.github.com/repos/conda-forge/act-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T11:07:25.785022",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T11:06:31Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-16T08:15:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T11:06:35Z"
 }

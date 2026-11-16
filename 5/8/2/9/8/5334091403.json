@@ -1,29 +1,29 @@
 {
-  "ETag": "\"032fe37eea8e8e44e9a07a93a30653f29ad0524b938a3f49c132be256ed7f72e\"",
-  "Last-Modified": "Mon, 16 Nov 2026 09:03:54 GMT",
+  "ETag": "\"9bdc1b8a4f6da8ada4e88167772a70413755677c343527149aa873a68412da44\"",
+  "Last-Modified": "Mon, 16 Nov 2026 15:52:14 GMT",
   "base": {
     "repo": {
       "name": "falcon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T15:52:14Z",
   "closed_by": null,
   "created_at": "2026-11-16T09:02:04Z",
   "draft": false,
   "e_tag": "\"ab8d2d693e189b3ca09f461da6ccbf9e1cdf6760fdbec3495d31e6ed40fdd8bb\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h0acbf8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/falcon-feedstock/pull/47",
   "id": 5334091403,
   "labels": [],
-  "last_fetched": "2026-11-16T09:25:29.732161",
+  "last_fetched": "2026-11-16T15:53:46.799391",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T15:52:14Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-11-16T09:03:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T15:52:14Z"
 }

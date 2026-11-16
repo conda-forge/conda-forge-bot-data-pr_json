@@ -1,18 +1,18 @@
 {
-  "ETag": "\"c843d141d423c4858de4bd0421ec5655e81e30c6b3d1b978c46216634b874b01\"",
-  "Last-Modified": "Mon, 16 Nov 2026 23:47:44 GMT",
+  "ETag": "\"3285015c5a972637c3d229e0e9557eaac21bf71cc982da0d56644db1b02f7a3f\"",
+  "Last-Modified": "Mon, 16 Nov 2026 23:51:22 GMT",
   "base": {
     "repo": {
       "name": "astroid-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T23:51:18Z",
   "closed_by": null,
   "created_at": "2026-11-16T05:46:07Z",
   "draft": false,
   "e_tag": "\"f9636f2f47799558a334185b2ea56bfad07523ec33351270da34b39c0d7f6046\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_haa32e0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/astroid-feedstock/pull/181",
   "id": 5331788599,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/astroid-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-16T23:49:27.512314",
+  "last_fetched": "2026-11-16T23:52:49.677882",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T23:51:18Z",
   "number": 181,
-  "state": "open",
-  "updated_at": "2026-11-16T23:47:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T23:51:22Z"
 }

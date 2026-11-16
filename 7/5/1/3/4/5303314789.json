@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ce37f9046ba15bc6f2afca44ca370debf7ae205681c632e045842921d3780b94\"",
-  "Last-Modified": "Sat, 14 Nov 2026 08:47:38 GMT",
+  "ETag": "\"9d27db115219385048b1559180c8df280e874301ff89af8e2154310c42174a23\"",
+  "Last-Modified": "Mon, 16 Nov 2026 12:20:24 GMT",
   "base": {
     "repo": {
       "name": "kernel-tuner-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T12:20:23Z",
   "closed_by": null,
   "created_at": "2026-11-13T21:44:54Z",
   "draft": false,
   "e_tag": "\"cccafd455fe5fd9e2095861685f5b0d4047a04fbecd735845afedabfdecc0e8f\"",
   "head": {
-    "ref": "1.6.0_h3ceda0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kernel-tuner-feedstock/pull/14",
   "id": 5303314789,
   "labels": [],
-  "last_fetched": "2026-11-14T12:58:11.175139",
+  "last_fetched": "2026-11-16T12:21:57.842750",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T12:20:23Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-14T08:47:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T12:20:24Z"
 }

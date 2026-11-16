@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bc37b67784568f6e01f4937f4330881e193c048353eae80b2c21bb3f86656a5d\"",
+  "Last-Modified": "Mon, 16 Nov 2026 21:50:29 GMT",
   "base": {
     "repo": {
       "name": "just-lsp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T21:50:26Z",
   "closed_by": null,
   "created_at": "2026-11-16T21:19:57Z",
   "draft": false,
   "e_tag": "\"d67dc938aea484814f965dde3b6130fb41a05dbc29c32f8e40e20295ecdfba37\"",
   "head": {
-    "ref": "0.11.2_hc66fb4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/just-lsp-feedstock/pull/19",
   "id": 5345351414,
   "labels": [],
-  "last_fetched": "2026-11-16T21:19:58.513700",
+  "last_fetched": "2026-11-16T21:51:59.819317",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T21:50:26Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-11-16T21:19:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T21:50:29Z"
 }

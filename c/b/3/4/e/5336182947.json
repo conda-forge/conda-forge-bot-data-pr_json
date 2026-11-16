@@ -1,27 +1,29 @@
 {
+  "ETag": "\"98bec520b2bd418c68cf95eb4bfcd434e5abbb7c906fc40d3c68da3957e03d4d\"",
+  "Last-Modified": "Mon, 16 Nov 2026 13:24:36 GMT",
   "base": {
     "repo": {
       "name": "yarp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T13:24:36Z",
   "closed_by": null,
   "created_at": "2026-11-16T11:31:01Z",
   "draft": false,
   "e_tag": "\"f234870cac459a2197152533ee5739f727a95cf3274a48d8ced4fb9dacda9c4f\"",
   "head": {
-    "ref": "rebuild-libopencv510-0-1_hc3b520"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yarp-feedstock/pull/116",
   "id": 5336182947,
   "labels": [],
-  "last_fetched": "2026-11-16T11:31:02.100044",
+  "last_fetched": "2026-11-16T13:25:45.157002",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T13:24:36Z",
   "number": 116,
-  "state": "open",
-  "updated_at": "2026-11-16T11:31:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T13:24:36Z"
 }

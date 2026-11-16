@@ -1,18 +1,18 @@
 {
-  "ETag": "\"75fc310f4ba9a394126ff6a21501f03c52518eb7745b137089e0c1defdc829a2\"",
-  "Last-Modified": "Mon, 16 Nov 2026 14:48:12 GMT",
+  "ETag": "\"5b669acc28195c56bebf15edfbe488280e58b1ba38e39a56544170c193d7c46b\"",
+  "Last-Modified": "Mon, 16 Nov 2026 15:36:36 GMT",
   "base": {
     "repo": {
       "name": "rustfs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T15:36:32Z",
   "closed_by": null,
   "created_at": "2026-11-16T08:34:23Z",
   "draft": false,
   "e_tag": "\"a12567aedd4c826db776baf3d8e5eb0955259e1bb2167add8fc3c66dd4b01550\"",
   "head": {
-    "ref": "1.0.6_h902e01"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rustfs-feedstock/pull/18",
   "id": 5333740029,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/rustfs-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-16T14:49:21.843478",
+  "last_fetched": "2026-11-16T15:38:20.765737",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T15:36:32Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-16T14:48:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T15:36:36Z"
 }

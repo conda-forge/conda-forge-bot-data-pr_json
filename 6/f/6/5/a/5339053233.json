@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fa761f4d6ddc06449eb0cb584e4b0b4a8b92f40c7fd4dc79c9c026faf7eb9a77\"",
-  "Last-Modified": "Mon, 16 Nov 2026 14:42:39 GMT",
+  "ETag": "\"1e6fca03f6b08762f19b2cfb1de70da356b6a968622fefa0e1cf1a093368260d\"",
+  "Last-Modified": "Mon, 16 Nov 2026 19:13:10 GMT",
   "base": {
     "repo": {
       "name": "mmh3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T19:13:10Z",
   "closed_by": null,
   "created_at": "2026-11-16T14:41:05Z",
   "draft": false,
   "e_tag": "\"c51f497c03b809fe9942e5024fcebbe1262c40a180cfd3aa64c8a02450e40b0d\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h3b23f6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mmh3-feedstock/pull/34",
   "id": 5339053233,
   "labels": [],
-  "last_fetched": "2026-11-16T15:50:13.379870",
+  "last_fetched": "2026-11-16T19:14:45.695277",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T19:13:10Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-11-16T14:42:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T19:13:10Z"
 }

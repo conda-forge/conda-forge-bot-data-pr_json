@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cb403efa1f7d4d5e9ec45381b7551390df2544ccedc123cafb6952b5b5edcd08\"",
+  "Last-Modified": "Mon, 16 Nov 2026 12:46:55 GMT",
   "base": {
     "repo": {
       "name": "astropy-iers-data-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T12:46:54Z",
   "closed_by": null,
   "created_at": "2026-11-16T12:43:05Z",
   "draft": false,
   "e_tag": "\"3f7d8090ac2f1b62aba4c2845771810df74309deea2ca6f74bacbfe38ea82d26\"",
   "head": {
-    "ref": "0.2026.11.16.0.37.44_ha17d38"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/astropy-iers-data-feedstock/pull/180",
   "id": 5337196291,
   "labels": [],
-  "last_fetched": "2026-11-16T12:43:06.651933",
+  "last_fetched": "2026-11-16T12:48:03.445484",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T12:46:54Z",
   "number": 180,
-  "state": "open",
-  "updated_at": "2026-11-16T12:43:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T12:46:59Z"
 }

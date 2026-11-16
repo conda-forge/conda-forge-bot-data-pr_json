@@ -1,28 +1,28 @@
 {
-  "ETag": "\"3b5b61781d2bf01a86e07fc9efaba0b42a62b44e0edea6c4dcae6aa7adc2d4de\"",
-  "Last-Modified": "Wed, 22 Jul 2026 23:35:27 GMT",
+  "ETag": "\"80d008ff69bf1bab0191556e461d35eee1dfe24bf4d4431f3cf6ee0346a82999\"",
+  "Last-Modified": "Mon, 16 Nov 2026 06:52:13 GMT",
   "base": {
     "repo": {
       "name": "pari-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T06:52:13Z",
   "created_at": "2026-06-29T15:13:32Z",
   "draft": false,
   "e_tag": "\"d4bd46b1d436bbb3fb88eda41acb92d0a1b67ee46f0b377360fe5819f5fe07d9\"",
   "head": {
-    "ref": "2.17.4_h3e4f9a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pari-feedstock/pull/59",
   "id": 3956752484,
   "labels": [],
-  "last_fetched": "2026-11-09T22:43:38.160973",
+  "last_fetched": "2026-11-16T06:53:25.955292",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T06:52:12Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-07-22T23:35:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T06:52:13Z"
 }

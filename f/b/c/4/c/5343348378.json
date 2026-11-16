@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cd61e21728bebe8f070fe4382cc393b89620a1eb6f6854b8d32140eee3523c31\"",
+  "Last-Modified": "Mon, 16 Nov 2026 19:20:50 GMT",
   "base": {
     "repo": {
       "name": "neuromorphic-drivers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T19:20:46Z",
   "closed_by": null,
   "created_at": "2026-11-16T19:12:00Z",
   "draft": false,
   "e_tag": "\"5d28c9ba12d6e46ec325ae52050f5a3adff10f86e71a44bbf72f66b3b253bf9f\"",
   "head": {
-    "ref": "0.19.0_h0f8452"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/neuromorphic-drivers-feedstock/pull/27",
   "id": 5343348378,
   "labels": [],
-  "last_fetched": "2026-11-16T19:12:01.456284",
+  "last_fetched": "2026-11-16T19:22:06.609651",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T19:20:46Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-11-16T19:12:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T19:20:50Z"
 }

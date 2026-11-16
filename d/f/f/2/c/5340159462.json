@@ -1,4 +1,6 @@
 {
+  "ETag": "\"3f49b191d1ddb767ac14abd3db4d71e969e9258c0d6c24c18bdbdae5a8999210\"",
+  "Last-Modified": "Mon, 16 Nov 2026 15:49:30 GMT",
   "base": {
     "repo": {
       "name": "lazrs-python-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/lazrs-python-feedstock/pull/34",
   "id": 5340159462,
-  "labels": [],
-  "last_fetched": "2026-11-16T15:47:47.983141",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4205599454,
+      "name": "automerge",
+      "node_id": "LA_kwDOHdS8XM76rFre",
+      "url": "https://api.github.com/repos/conda-forge/lazrs-python-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T15:50:01.108151",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 34,
   "state": "open",
-  "updated_at": "2026-11-16T15:47:47Z"
+  "updated_at": "2026-11-16T15:49:30Z"
 }

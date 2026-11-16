@@ -1,6 +1,6 @@
 {
-  "ETag": "\"fd7466da13a411ccb20bc5c9d3604eb94caa64c696d9b2ec6d13930c60ccef4e\"",
-  "Last-Modified": "Mon, 16 Nov 2026 05:31:11 GMT",
+  "ETag": "W/\"c0ef2d7b812139cb3b09dc61db3e1ef72d8955705a2f9d9e2f912b166af5d588\"",
+  "Last-Modified": "Mon, 16 Nov 2026 05:31:08 GMT",
   "base": {
     "repo": {
       "name": "libconfig-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/libconfig-feedstock/pull/13",
   "id": 4911814065,
-  "labels": [],
-  "last_fetched": "2026-11-16T05:32:46.950721",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-16T05:31:11.493165",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 13,
   "state": "closed",
-  "updated_at": "2026-11-16T05:31:11Z"
+  "updated_at": "2026-11-16T05:31:08Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2ebb60f68280937bf5ad6d03fb16b8a716c94c8697e4c29cdc7fa31ed0f29748\"",
-  "Last-Modified": "Mon, 16 Nov 2026 03:35:33 GMT",
+  "ETag": "\"e318ad42538fe422281e5b5985c4ecf0c9c8f950cb02bd8cdab67cd342927383\"",
+  "Last-Modified": "Mon, 16 Nov 2026 11:45:46 GMT",
   "base": {
     "repo": {
       "name": "llvmlite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T11:45:45Z",
   "closed_by": null,
   "created_at": "2026-11-16T03:34:00Z",
   "draft": false,
   "e_tag": "\"d3a7d02004eb10c9cf9bb366003fc66da6c84436254e82f65ad13058f23b0d01\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h0ad482"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/llvmlite-feedstock/pull/141",
   "id": 5330562352,
   "labels": [],
-  "last_fetched": "2026-11-16T09:25:17.353003",
+  "last_fetched": "2026-11-16T11:46:51.940583",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T11:45:45Z",
   "number": 141,
-  "state": "open",
-  "updated_at": "2026-11-16T03:35:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T11:45:46Z"
 }

@@ -1,13 +1,13 @@
 {
-  "ETag": "\"b5216ba9bc2c7d006ba20bbf27f73d8f5c6c041a405bc6dab2bfafb6b8cc5872\"",
-  "Last-Modified": "Mon, 16 Nov 2026 13:50:38 GMT",
+  "ETag": "\"41700e22f5bfbbf4133b020ea6997e618cbfa4048cdfa5f91fa1df9a1daf62a1\"",
+  "Last-Modified": "Mon, 16 Nov 2026 16:35:38 GMT",
   "base": {
     "repo": {
       "name": "awkward-cpp-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-16T16:35:34Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-16T12:12:20Z",
   "draft": false,
   "e_tag": "\"e8ea67761b27dc37d7c6c082b1e590e6221a40b80987bdf676400ff56aa805ad\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/awkward-cpp-feedstock/pull/100",
   "id": 5336746934,
-  "labels": [],
-  "last_fetched": "2026-11-16T14:00:35.822116",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 4961990074,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOIs-R3c8AAAABJ8H1ug",
+      "url": "https://api.github.com/repos/conda-forge/awkward-cpp-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-16T16:35:39.758202",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 100,
-  "state": "open",
-  "updated_at": "2026-11-16T13:50:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T16:35:38Z"
 }

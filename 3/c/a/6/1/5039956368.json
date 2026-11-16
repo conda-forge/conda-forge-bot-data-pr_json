@@ -1,6 +1,6 @@
 {
-  "ETag": "\"c27d06897442766f7aa73151943af12e0b9a7b18ab39ed64c0e336be6107f0fa\"",
-  "Last-Modified": "Mon, 16 Nov 2026 03:53:34 GMT",
+  "ETag": "\"06a09edbe424d1fa36fd84e84c0737c7cfd970455c084bc8a8daf6cd6872f736\"",
+  "Last-Modified": "Mon, 16 Nov 2026 05:12:42 GMT",
   "base": {
     "repo": {
       "name": "gfan-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/gfan-feedstock/pull/13",
   "id": 5039956368,
-  "labels": [],
-  "last_fetched": "2026-11-16T03:59:30.933915",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890936029,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTM2MDI5",
+      "url": "https://api.github.com/repos/conda-forge/gfan-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T05:14:11.713865",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 13,
   "state": "open",
-  "updated_at": "2026-11-16T03:53:34Z"
+  "updated_at": "2026-11-16T05:12:42Z"
 }

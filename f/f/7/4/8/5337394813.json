@@ -1,27 +1,29 @@
 {
+  "ETag": "\"617ef0f8c43cd8df6166a9dc4a3fa305cd538d40d3c297bd42ec12576978319b\"",
+  "Last-Modified": "Mon, 16 Nov 2026 14:30:31 GMT",
   "base": {
     "repo": {
       "name": "pysjef-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T14:30:28Z",
   "closed_by": null,
   "created_at": "2026-11-16T12:56:48Z",
   "draft": false,
   "e_tag": "\"74b42f32cda814d8d5e05e8a561e61e70453d0257c560cbef3309a3df642b106\"",
   "head": {
-    "ref": "1.45.33_h80ace7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pysjef-feedstock/pull/198",
   "id": 5337394813,
   "labels": [],
-  "last_fetched": "2026-11-16T12:56:49.423971",
+  "last_fetched": "2026-11-16T14:31:39.680390",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T14:30:28Z",
   "number": 198,
-  "state": "open",
-  "updated_at": "2026-11-16T12:56:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T14:30:31Z"
 }

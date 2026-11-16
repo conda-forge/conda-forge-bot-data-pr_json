@@ -1,28 +1,28 @@
 {
-  "ETag": "\"7352b989bd4e133861d1e2dd7d302598dc4c36ed6c43099724f7b15d7489b3a7\"",
-  "Last-Modified": "Mon, 16 Nov 2026 06:56:10 GMT",
+  "ETag": "\"b91b16799efab8e8f715924309c0d1455405226597ecacf7fa15b8d79ecd2763\"",
+  "Last-Modified": "Mon, 16 Nov 2026 07:29:38 GMT",
   "base": {
     "repo": {
       "name": "giac-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T07:29:37Z",
   "created_at": "2026-08-08T03:02:51Z",
   "draft": false,
   "e_tag": "\"cb8032c1e1979f6b24ad5fe2b2ee6ab8813e531f5a68f6e3cf4c356dd7ab380c\"",
   "head": {
-    "ref": "rebuild-gsl28-0-1_had9e8c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/giac-feedstock/pull/45",
   "id": 4232978073,
   "labels": [],
-  "last_fetched": "2026-11-16T06:57:37.900260",
+  "last_fetched": "2026-11-16T07:30:42.764382",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T07:29:37Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-11-16T06:56:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T07:29:38Z"
 }

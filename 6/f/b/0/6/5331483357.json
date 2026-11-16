@@ -1,6 +1,6 @@
 {
-  "ETag": "\"ed91854ea7dc9535cbeb2a5f9842819737f60d8df037f26882790f8ac54d744d\"",
-  "Last-Modified": "Mon, 16 Nov 2026 05:17:01 GMT",
+  "ETag": "\"b0c659de313d5ef6339273ef2a1dfd14d03dbd156381e117924ca2e68bec64f8\"",
+  "Last-Modified": "Mon, 16 Nov 2026 23:48:52 GMT",
   "base": {
     "repo": {
       "name": "napi-rs-keyring-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/napi-rs-keyring-feedstock/pull/1",
   "id": 5331483357,
-  "labels": [],
-  "last_fetched": "2026-11-16T09:02:21.342125",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 13096842395,
+      "name": "automerge",
+      "node_id": "LA_kwDOVv3oGM8AAAADDKH0mw",
+      "url": "https://api.github.com/repos/conda-forge/napi-rs-keyring-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T23:50:12.265884",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 1,
   "state": "open",
-  "updated_at": "2026-11-16T05:17:01Z"
+  "updated_at": "2026-11-16T23:48:52Z"
 }

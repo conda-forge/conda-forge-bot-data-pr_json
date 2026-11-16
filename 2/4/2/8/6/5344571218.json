@@ -1,29 +1,29 @@
 {
-  "ETag": "\"da971038cbe94e05029e0221624b140ebfb794dfcca6d0a383dea4d157bef874\"",
-  "Last-Modified": "Mon, 16 Nov 2026 20:32:10 GMT",
+  "ETag": "\"ca691c337c509e09b27567839d5449b3fb6e09fda0d42fbeddee0f97886b130b\"",
+  "Last-Modified": "Mon, 16 Nov 2026 22:49:27 GMT",
   "base": {
     "repo": {
       "name": "ndindex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T22:49:26Z",
   "closed_by": null,
   "created_at": "2026-11-16T20:30:28Z",
   "draft": false,
   "e_tag": "\"8ae7335dd650c0be2c511fa842f6ad86ed2b5208162915af7b82df5426fa733f\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h2397ee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ndindex-feedstock/pull/29",
   "id": 5344571218,
   "labels": [],
-  "last_fetched": "2026-11-16T22:43:10.562458",
+  "last_fetched": "2026-11-16T22:50:37.501136",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T22:49:26Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-11-16T20:32:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T22:49:27Z"
 }

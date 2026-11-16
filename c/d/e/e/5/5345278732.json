@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d1e6ee464818e6cd62a694a97c28a0a4d3fce06aaf66618474eda4ca16a5c0cd\"",
+  "Last-Modified": "Mon, 16 Nov 2026 22:15:52 GMT",
   "base": {
     "repo": {
       "name": "pertpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T22:15:52Z",
   "closed_by": null,
   "created_at": "2026-11-16T21:15:24Z",
   "draft": false,
   "e_tag": "\"ffaa7c5cbcddf9afb25497da6db594b5d64de4958b41b60f29cb17f13a7e9dcb\"",
   "head": {
-    "ref": "1.5.1_h3a3707"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pertpy-feedstock/pull/16",
   "id": 5345278732,
   "labels": [],
-  "last_fetched": "2026-11-16T21:15:25.732304",
+  "last_fetched": "2026-11-16T22:17:30.837802",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-16T22:15:52Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-16T21:15:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T22:15:52Z"
 }

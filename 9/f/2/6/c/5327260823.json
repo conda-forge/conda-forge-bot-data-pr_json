@@ -1,29 +1,29 @@
 {
-  "ETag": "\"efa9b02e2c93d36e64defd050b4ddda4bdb86fd1d252fc208f2ff6da07af86bf\"",
-  "Last-Modified": "Mon, 16 Nov 2026 01:10:28 GMT",
+  "ETag": "\"171a85329f3e1150e0b142826427d03c76497e1dd3b245844a00c9da24a3b50e\"",
+  "Last-Modified": "Mon, 16 Nov 2026 11:02:18 GMT",
   "base": {
     "repo": {
       "name": "lifelib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T11:02:18Z",
   "closed_by": null,
   "created_at": "2026-11-15T21:13:55Z",
   "draft": false,
   "e_tag": "\"09214d02598f7b5c34575e8f4f12abf6211f5e91d4fa46e4abba3a6132ff49c4\"",
   "head": {
-    "ref": "0.17.3_h7728c4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lifelib-feedstock/pull/28",
   "id": 5327260823,
   "labels": [],
-  "last_fetched": "2026-11-16T05:45:33.685455",
+  "last_fetched": "2026-11-16T11:03:41.639441",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T11:02:18Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-16T01:10:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T11:02:18Z"
 }

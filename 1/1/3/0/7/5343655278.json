@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e3dab00c6e0ef37c1819b26ad772fc80c43502914ef1f07497575f2678455fc5\"",
-  "Last-Modified": "Mon, 16 Nov 2026 19:32:42 GMT",
+  "ETag": "\"d414e04024c0134e1acb2ae7cfc3720262f797e5bd2e5e6b68dd6001b654e6b1\"",
+  "Last-Modified": "Mon, 16 Nov 2026 21:11:53 GMT",
   "base": {
     "repo": {
       "name": "reproject-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T21:11:52Z",
   "closed_by": null,
   "created_at": "2026-11-16T19:31:13Z",
   "draft": false,
   "e_tag": "\"ef6a0804ec901faa7b30b0d54cc09ffa48a8ccc625cd6c499359472942cde340\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h8490b2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/reproject-feedstock/pull/59",
   "id": 5343655278,
   "labels": [],
-  "last_fetched": "2026-11-16T19:42:42.494336",
+  "last_fetched": "2026-11-16T21:13:33.961157",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T21:11:52Z",
   "number": 59,
-  "state": "open",
-  "updated_at": "2026-11-16T19:32:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T21:11:53Z"
 }

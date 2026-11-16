@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3166acb23f1440bc2a27c24f333f422d339806eb6bddf7295f10cb09b405b102\"",
-  "Last-Modified": "Mon, 16 Nov 2026 13:35:16 GMT",
+  "ETag": "\"1a105a3cbaffa78e84f19d8a1e4bc067231f83bdda98ee56a5f33d4468621fdc\"",
+  "Last-Modified": "Mon, 16 Nov 2026 17:14:38 GMT",
   "base": {
     "repo": {
       "name": "imp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T17:14:38Z",
   "closed_by": null,
   "created_at": "2026-11-16T13:33:39Z",
   "draft": false,
   "e_tag": "\"a7abc3491d9e5d661c66dbc10f6bec99d44ac44d72cac3fad7d9d12d475a1aa0\"",
   "head": {
-    "ref": "rebuild-libopencv510-0-1_hc7b76e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imp-feedstock/pull/88",
   "id": 5337966039,
   "labels": [],
-  "last_fetched": "2026-11-16T16:20:18.332533",
+  "last_fetched": "2026-11-16T17:16:04.201874",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T17:14:38Z",
   "number": 88,
-  "state": "open",
-  "updated_at": "2026-11-16T13:35:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T17:14:38Z"
 }

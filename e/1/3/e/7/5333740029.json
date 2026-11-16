@@ -1,6 +1,6 @@
 {
-  "ETag": "\"55edc7a0dd710fe729feee07afcddcddca2b062d4f6e83a0b93563227ce06304\"",
-  "Last-Modified": "Mon, 16 Nov 2026 10:43:11 GMT",
+  "ETag": "\"75fc310f4ba9a394126ff6a21501f03c52518eb7745b137089e0c1defdc829a2\"",
+  "Last-Modified": "Mon, 16 Nov 2026 14:48:12 GMT",
   "base": {
     "repo": {
       "name": "rustfs-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/rustfs-feedstock/pull/18",
   "id": 5333740029,
-  "labels": [],
-  "last_fetched": "2026-11-16T12:31:53.080627",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11259135134,
+      "name": "automerge",
+      "node_id": "LA_kwDOS9KFEc8AAAACnxjEng",
+      "url": "https://api.github.com/repos/conda-forge/rustfs-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-16T14:49:21.843478",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-11-16T10:43:11Z"
+  "updated_at": "2026-11-16T14:48:12Z"
 }

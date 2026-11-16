@@ -1,18 +1,18 @@
 {
-  "ETag": "\"1fa7872646b74d7d1754a1c92f8c352384c156a541dbd8f7bfd0c65dd44b45e2\"",
-  "Last-Modified": "Mon, 16 Nov 2026 18:07:37 GMT",
+  "ETag": "\"3ffa0dc859465c526621541008e31267e06a111f16ebca8dca252c1aa27fe362\"",
+  "Last-Modified": "Mon, 16 Nov 2026 18:10:35 GMT",
   "base": {
     "repo": {
       "name": "igwn-segments-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-16T18:10:31Z",
   "closed_by": null,
   "created_at": "2026-11-16T17:44:26Z",
   "draft": false,
   "e_tag": "\"725708b2cf7e4a55624ef5a77390828b0b7615fb5e3b89e25cdbce475a77c2c2\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hd53a88"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/igwn-segments-feedstock/pull/10",
   "id": 5342016137,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/igwn-segments-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-16T18:09:19.247017",
+  "last_fetched": "2026-11-16T18:11:58.699989",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-16T18:10:31Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-16T18:07:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-16T18:10:35Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"8664c4c3ca16f88de631df99754fcca61223af9dff22bb98823a82c0efc82cf1\"",
-  "Last-Modified": "Tue, 17 Nov 2026 08:08:16 GMT",
+  "ETag": "\"ea7638015cd626d74647dd59c49ddb5221ee06ebe2b5c348bf84fe6fba63ac22\"",
+  "Last-Modified": "Tue, 17 Nov 2026 12:00:55 GMT",
   "base": {
     "repo": {
       "name": "filament-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/filament-feedstock/pull/31",
   "id": 5352503622,
-  "labels": [],
-  "last_fetched": "2026-11-17T08:42:05.456358",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11958631315,
+      "name": "automerge",
+      "node_id": "LA_kwDOUEVoA88AAAACyMo7kw",
+      "url": "https://api.github.com/repos/conda-forge/filament-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T12:02:29.313563",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 31,
   "state": "open",
-  "updated_at": "2026-11-17T08:08:16Z"
+  "updated_at": "2026-11-17T12:00:55Z"
 }

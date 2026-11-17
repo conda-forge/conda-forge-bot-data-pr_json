@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9abc7bbe84ba9f59781e252e401d20c2ebdb5e175c7a34c247d5295c095343df\"",
-  "Last-Modified": "Mon, 16 Nov 2026 14:06:53 GMT",
+  "ETag": "\"00451e8a1deee431c33a94b8acef29e371bc03aa96a16d06388f51627d48cae7\"",
+  "Last-Modified": "Tue, 17 Nov 2026 19:28:39 GMT",
   "base": {
     "repo": {
       "name": "openpyxl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T19:28:38Z",
   "closed_by": null,
   "created_at": "2026-11-16T14:05:24Z",
   "draft": false,
   "e_tag": "\"ad426e8d1fe4694c09d848734562b24dbc9d6e972d6025f1470ae04a81c642d8\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hd38d23"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openpyxl-feedstock/pull/64",
   "id": 5338455397,
   "labels": [],
-  "last_fetched": "2026-11-16T16:20:49.140615",
+  "last_fetched": "2026-11-17T19:30:10.077177",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T19:28:38Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-11-16T14:06:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T19:28:39Z"
 }

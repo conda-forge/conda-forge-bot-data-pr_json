@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7d3f29c978165b797b0a019f4949e01793bdd95ec364f6025462caea05ecf558\"",
+  "Last-Modified": "Tue, 17 Nov 2026 04:52:34 GMT",
   "base": {
     "repo": {
       "name": "sagemaker-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T04:52:31Z",
   "closed_by": null,
   "created_at": "2026-11-17T04:48:52Z",
   "draft": false,
   "e_tag": "\"c331b77710899ed7eac5bdb641c2fa779371f52d4df24817cb6501c1d4ae130e\"",
   "head": {
-    "ref": "2.30.0_hec2d29"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sagemaker-core-feedstock/pull/93",
   "id": 5350917115,
   "labels": [],
-  "last_fetched": "2026-11-17T04:48:53.312499",
+  "last_fetched": "2026-11-17T04:53:59.389705",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T04:52:31Z",
   "number": 93,
-  "state": "open",
-  "updated_at": "2026-11-17T04:48:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T04:52:34Z"
 }

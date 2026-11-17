@@ -1,6 +1,6 @@
 {
-  "ETag": "\"aa1d7de5f9855d58eec286822b446ff0e287b4d05e185d6076eb3386f1f71643\"",
-  "Last-Modified": "Tue, 17 Nov 2026 09:29:42 GMT",
+  "ETag": "W/\"5dbde423e851c2c4f1dfc4ce23733f8af24fa544358b2b8b6c65def716448945\"",
+  "Last-Modified": "Tue, 17 Nov 2026 09:29:39 GMT",
   "base": {
     "repo": {
       "name": "rdma-core-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/rdma-core-feedstock/pull/47",
   "id": 5228005595,
-  "labels": [],
-  "last_fetched": "2026-11-17T09:31:16.107628",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T09:29:42.951959",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 47,
   "state": "closed",
-  "updated_at": "2026-11-17T09:29:42Z"
+  "updated_at": "2026-11-17T09:29:39Z"
 }

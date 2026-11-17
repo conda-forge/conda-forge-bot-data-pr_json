@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fe3c81ad036faf9f04ee6e57683ff892a4effe39a3ef0e32b6715f9a0a84d76a\"",
-  "Last-Modified": "Tue, 17 Nov 2026 01:04:17 GMT",
+  "ETag": "\"bfc7c476cb044d310af37ca3af109702a150ad7ae72ee13a913466dcc5e315ec\"",
+  "Last-Modified": "Tue, 17 Nov 2026 14:18:32 GMT",
   "base": {
     "repo": {
       "name": "xsdba-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T14:18:31Z",
   "closed_by": null,
   "created_at": "2026-11-17T01:01:56Z",
   "draft": false,
   "e_tag": "\"83bd4490dea4f4af532bb8e63320bf1430e69d7efd53762955090441fa62ffc5\"",
   "head": {
-    "ref": "0.8.0_h0ad27d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xsdba-feedstock/pull/9",
   "id": 5348277373,
   "labels": [],
-  "last_fetched": "2026-11-17T01:45:54.026122",
+  "last_fetched": "2026-11-17T14:20:55.336541",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T14:18:31Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-17T01:04:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T14:18:32Z"
 }

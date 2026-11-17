@@ -1,12 +1,13 @@
 {
-  "ETag": "\"2cce150d4b59c3de0a31e94568bb9834c63d950f4bad22b7becd6f3668f49625\"",
-  "Last-Modified": "Mon, 21 Sep 2026 03:01:07 GMT",
+  "ETag": "\"05242d9983ec5af98c90ad41d8191fa2e5152e499569b5308cb856123b3f471c\"",
+  "Last-Modified": "Tue, 17 Nov 2026 13:43:17 GMT",
   "base": {
     "repo": {
       "name": "dejaq-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T13:43:15Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-21T02:59:26Z",
   "draft": false,
   "e_tag": "\"f37b7e1f6f73268f510133a7eb5ad7087d56aa0bcd379bfa7796a6e6515d3413\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/dejaq-feedstock/pull/13",
   "id": 4587491907,
   "labels": [],
-  "last_fetched": "2026-11-10T12:59:13.220667",
+  "last_fetched": "2026-11-17T13:44:49.269337",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-09-21T03:01:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T13:43:17Z"
 }

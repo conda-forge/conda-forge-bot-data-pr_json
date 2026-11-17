@@ -1,27 +1,29 @@
 {
+  "ETag": "\"fa89ccf7378e47a0917a1ec1dc4aa57a810cccbca76aec8cce0ec07d67562307\"",
+  "Last-Modified": "Tue, 17 Nov 2026 04:39:29 GMT",
   "base": {
     "repo": {
       "name": "pitchfork-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T04:39:29Z",
   "closed_by": null,
   "created_at": "2026-11-17T04:12:30Z",
   "draft": false,
   "e_tag": "\"7773ceabd03cf15da89433fe4a91a8999ac0500d8438e660d510f0572806a737\"",
   "head": {
-    "ref": "2.35.0_ha307f9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pitchfork-feedstock/pull/33",
   "id": 5350504686,
   "labels": [],
-  "last_fetched": "2026-11-17T04:12:31.530007",
+  "last_fetched": "2026-11-17T04:40:47.480435",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T04:39:29Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-17T04:12:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T04:39:33Z"
 }

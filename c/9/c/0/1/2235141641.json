@@ -1,12 +1,13 @@
 {
-  "ETag": "\"bfc5d52b696fac1635fcff4f0a41ca71416cda61cdc0e778ed25a8568488fd8b\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"ff5d024e52dda582191d320583b63bfd73bbd527f2ec8f112db77bddab4f65fa\"",
+  "Last-Modified": "Tue, 17 Nov 2026 12:36:42 GMT",
   "base": {
     "repo": {
       "name": "farama-notifications-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T12:36:42Z",
+  "closed_by": "ChristofKaufmann",
   "created_at": "2024-12-14T13:34:12Z",
   "draft": false,
   "e_tag": "\"085a4e272291dbd3d65908fd3c126f68821fcb100e9169b1b2f4df79129f134c\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/farama-notifications-feedstock/pull/1",
   "id": 2235141641,
   "labels": [],
-  "last_fetched": "2026-11-16T09:24:10.613869",
+  "last_fetched": "2026-11-17T12:38:09.759996",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 1,
-  "state": "open",
-  "updated_at": "2024-12-14T13:35:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T12:36:42Z"
 }

@@ -1,29 +1,41 @@
 {
-  "ETag": "\"3d9af6c83aa451d41048e5e9309cc2d4820d1e68afb1d458dbf35e5e83e28c13\"",
-  "Last-Modified": "Tue, 17 Nov 2026 04:59:06 GMT",
+  "ETag": "\"92caf557e9e91e9ef66cbc140c18e85c5b6efbf34312a64ed3eeea8c72645048\"",
+  "Last-Modified": "Tue, 17 Nov 2026 06:27:50 GMT",
   "base": {
     "repo": {
       "name": "vmex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T06:27:46Z",
   "closed_by": null,
   "created_at": "2026-11-17T04:57:26Z",
   "draft": false,
   "e_tag": "\"98e4dc980bc8858e7adbd3f3f9adb5aeaa8f24f08362c718e18e8def9b1968db\"",
   "head": {
-    "ref": "0.15.0_h0604de"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vmex-feedstock/pull/23",
   "id": 5351013541,
-  "labels": [],
-  "last_fetched": "2026-11-17T05:28:40.444546",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11779732008,
+      "name": "automerge",
+      "node_id": "LA_kwDOTzA_Zc8AAAACviByKA",
+      "url": "https://api.github.com/repos/conda-forge/vmex-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T06:28:40.177026",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T06:27:46Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-17T04:59:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T06:27:50Z"
 }

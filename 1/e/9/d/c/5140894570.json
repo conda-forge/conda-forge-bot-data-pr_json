@@ -1,5 +1,5 @@
 {
-  "ETag": "\"6378f5a2abba16dfebfdf9994c2ce989cbd07e9f5c38d4c816ca0e4acd797194\"",
+  "ETag": "W/\"9cd260d0d9ee368138a0a4ce0d7c42b08f79ddb8bd11e977163254d5f19550fe\"",
   "Last-Modified": "Tue, 17 Nov 2026 18:31:15 GMT",
   "base": {
     "repo": {
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/protobuf-feedstock/pull/286",
   "id": 5140894570,
-  "labels": [],
-  "last_fetched": "2026-11-17T18:32:32.448212",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T18:31:16.422404",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",

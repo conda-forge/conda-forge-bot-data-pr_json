@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ab779666125b12111a891414e517fd78e1762bc812a3f250c0de91a1668d3dab\"",
+  "Last-Modified": "Tue, 17 Nov 2026 03:53:12 GMT",
   "base": {
     "repo": {
       "name": "rustworkx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T03:53:12Z",
   "closed_by": null,
   "created_at": "2026-11-17T02:59:21Z",
   "draft": false,
   "e_tag": "\"b58caaff04d9d7c22aa2e249a8c07de1c35599b95bdf35834cef44e6a0f88345\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h563b64"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rustworkx-feedstock/pull/38",
   "id": 5349679194,
   "labels": [],
-  "last_fetched": "2026-11-17T02:59:22.630271",
+  "last_fetched": "2026-11-17T03:54:58.561964",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T03:53:12Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-17T02:59:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T03:53:12Z"
 }

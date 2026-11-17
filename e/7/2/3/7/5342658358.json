@@ -1,6 +1,6 @@
 {
-  "ETag": "\"7cbb5eb9d454ccd10fdeb0bfeb26c73e762dee033b79e0635b851012e1d52c97\"",
-  "Last-Modified": "Mon, 16 Nov 2026 18:39:58 GMT",
+  "ETag": "\"2f3474a818aa3895c2c911856a3e10e547a7bd9fc7a70ab30ae3f790c50dd69b\"",
+  "Last-Modified": "Tue, 17 Nov 2026 10:55:15 GMT",
   "base": {
     "repo": {
       "name": "aws-emulator-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/aws-emulator-feedstock/pull/5",
   "id": 5342658358,
-  "labels": [],
-  "last_fetched": "2026-11-16T22:43:10.041418",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 13070156149,
+      "name": "automerge",
+      "node_id": "LA_kwDOVtXtGs8AAAADCwrBdQ",
+      "url": "https://api.github.com/repos/conda-forge/aws-emulator-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T10:56:58.917207",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 5,
   "state": "open",
-  "updated_at": "2026-11-16T18:39:58Z"
+  "updated_at": "2026-11-17T10:55:15Z"
 }

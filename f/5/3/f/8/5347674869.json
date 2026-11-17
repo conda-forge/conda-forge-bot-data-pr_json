@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4850e1ba66c0b40ec8d037a76c373dd73346cb41e07be922673c51511d9e46dd\"",
-  "Last-Modified": "Tue, 17 Nov 2026 00:13:51 GMT",
+  "ETag": "\"c82c078447ce21f860979e6aab02611ed8d1600f475c25d81df433647226c54d\"",
+  "Last-Modified": "Tue, 17 Nov 2026 11:12:11 GMT",
   "base": {
     "repo": {
       "name": "cadwyn-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T11:12:11Z",
   "closed_by": null,
   "created_at": "2026-11-17T00:12:11Z",
   "draft": false,
   "e_tag": "\"c004af262339d197d94d285b60e6169ea1e1ce0b128ac54c6ff40a0eb9499fd6\"",
   "head": {
-    "ref": "9.0.1_hc61f62"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cadwyn-feedstock/pull/32",
   "id": 5347674869,
   "labels": [],
-  "last_fetched": "2026-11-17T02:43:15.376878",
+  "last_fetched": "2026-11-17T11:13:13.997590",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T11:12:11Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-11-17T00:13:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T11:12:11Z"
 }

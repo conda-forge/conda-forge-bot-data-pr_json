@@ -1,27 +1,29 @@
 {
+  "ETag": "\"59dc14b911ff188ebb11d42ccb19315b93f59a410cf8faabc399721b60e4dbfd\"",
+  "Last-Modified": "Tue, 17 Nov 2026 07:38:53 GMT",
   "base": {
     "repo": {
       "name": "boto3-stubs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T07:38:49Z",
   "closed_by": null,
   "created_at": "2026-11-17T07:36:55Z",
   "draft": false,
   "e_tag": "\"524a4836b706d959e9257c584c16dce7102efe1988dad7535d00a8556d1acabf\"",
   "head": {
-    "ref": "1.44.4_h237c03"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/boto3-stubs-feedstock/pull/1205",
   "id": 5352785429,
   "labels": [],
-  "last_fetched": "2026-11-17T07:36:55.910158",
+  "last_fetched": "2026-11-17T07:40:05.874816",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T07:38:49Z",
   "number": 1205,
-  "state": "open",
-  "updated_at": "2026-11-17T07:36:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T07:38:53Z"
 }

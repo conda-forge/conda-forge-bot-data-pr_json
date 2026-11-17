@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ff4c012bddd611eb6abcaf60d3ae4e7b27c9681dcf20949600f05ab1f318cad6\"",
-  "Last-Modified": "Mon, 16 Nov 2026 11:07:05 GMT",
+  "ETag": "\"97a8b8ea171871d4d6414fd33fd48771ba6199a753a86192bac99ab11908f0e5\"",
+  "Last-Modified": "Tue, 17 Nov 2026 08:50:24 GMT",
   "base": {
     "repo": {
       "name": "leapp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T08:50:24Z",
   "closed_by": null,
   "created_at": "2026-11-16T11:05:32Z",
   "draft": false,
   "e_tag": "\"33079e9bcaf9c316ea7f72d5a171753d1e5f5fa9872d2d0a14090e81406bb5dd\"",
   "head": {
-    "ref": "0.8.1_h1f2791"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/leapp-feedstock/pull/12",
   "id": 5335814986,
   "labels": [],
-  "last_fetched": "2026-11-16T14:02:05.036957",
+  "last_fetched": "2026-11-17T08:51:42.529114",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T08:50:24Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-16T11:07:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T08:50:24Z"
 }

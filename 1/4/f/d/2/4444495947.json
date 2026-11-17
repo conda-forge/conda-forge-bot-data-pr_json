@@ -1,6 +1,6 @@
 {
-  "ETag": "\"94b99b157c9c57f2ea86d72b12455e09acb8c75ec9e4d555678e5ebe4235af09\"",
-  "Last-Modified": "Tue, 17 Nov 2026 18:07:28 GMT",
+  "ETag": "\"355ea159e194bbbb5377283108f74ed0605cfac33551dacbcef2a8e7c34a9732\"",
+  "Last-Modified": "Tue, 17 Nov 2026 22:32:04 GMT",
   "base": {
     "repo": {
       "name": "python-lmdb-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/python-lmdb-feedstock/pull/60",
   "id": 4444495947,
-  "labels": [],
-  "last_fetched": "2026-11-17T19:43:36.645133",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891174692,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTc0Njky",
+      "url": "https://api.github.com/repos/conda-forge/python-lmdb-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T22:33:28.339587",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 60,
   "state": "open",
-  "updated_at": "2026-11-17T18:07:28Z"
+  "updated_at": "2026-11-17T22:32:04Z"
 }

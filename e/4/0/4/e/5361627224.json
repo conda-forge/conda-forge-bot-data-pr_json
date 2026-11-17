@@ -1,27 +1,29 @@
 {
+  "ETag": "\"96be16e7bea2c6f6c13c74683f3c2d929e88f18667af4369b0bc5443cd3ff35c\"",
+  "Last-Modified": "Tue, 17 Nov 2026 17:34:36 GMT",
   "base": {
     "repo": {
       "name": "logtalk-jupyter-kernel-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T17:34:36Z",
   "closed_by": null,
   "created_at": "2026-11-17T17:20:28Z",
   "draft": false,
   "e_tag": "\"d5402aa9fa6d04625461aeb1009757008ba033431317d6f4e7f37bb6988e3c96\"",
   "head": {
-    "ref": "0.47.1_h93f91f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/logtalk-jupyter-kernel-feedstock/pull/40",
   "id": 5361627224,
   "labels": [],
-  "last_fetched": "2026-11-17T17:20:29.144998",
+  "last_fetched": "2026-11-17T17:35:57.572849",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T17:34:36Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-11-17T17:20:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T17:34:36Z"
 }

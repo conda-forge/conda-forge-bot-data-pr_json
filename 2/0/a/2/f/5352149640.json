@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b4000d2ab9410a3df247dbf49b1de51f1cf69709151b4fd067a5e97110c6de0d\"",
-  "Last-Modified": "Tue, 17 Nov 2026 06:40:35 GMT",
+  "ETag": "\"3c57860edd36ce3dafac3ce61bcf9ec19306be2da6fdd55ce6f737e8d75e89bc\"",
+  "Last-Modified": "Tue, 17 Nov 2026 11:12:45 GMT",
   "base": {
     "repo": {
       "name": "microsoft-kiota-serialization-multipart-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T11:12:45Z",
   "closed_by": null,
   "created_at": "2026-11-17T06:40:34Z",
   "draft": false,
   "e_tag": "\"5f2c3e6a2d959f6442ba82b177e8d645a65f339773761d9bc9a84c88308cf411\"",
   "head": {
-    "ref": "1.18.0_h89d3d7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/microsoft-kiota-serialization-multipart-feedstock/pull/28",
   "id": 5352149640,
   "labels": [],
-  "last_fetched": "2026-11-17T07:42:22.848370",
+  "last_fetched": "2026-11-17T11:14:22.821562",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T11:12:45Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-17T06:42:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T11:12:45Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"dd64ecb7cb3aa3eec5fcc5973f442a70f8f7996d5000c12fa5e356384823eeb9\"",
-  "Last-Modified": "Mon, 16 Nov 2026 22:28:54 GMT",
+  "ETag": "\"4b626899b3954944b1771501ea7bb5798c531bddb9369f3dc614a63712b8cf81\"",
+  "Last-Modified": "Tue, 17 Nov 2026 08:05:31 GMT",
   "base": {
     "repo": {
       "name": "glum-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T08:05:31Z",
   "closed_by": null,
   "created_at": "2026-11-16T22:27:18Z",
   "draft": false,
   "e_tag": "\"93ec3962b49c69e331ff58f45c4af77120e634480cc4fd0497b2659fd762a5c9\"",
   "head": {
-    "ref": "3.5.0_h709c13"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/glum-feedstock/pull/56",
   "id": 5346335015,
   "labels": [],
-  "last_fetched": "2026-11-16T23:58:14.742721",
+  "last_fetched": "2026-11-17T08:07:02.199287",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T08:05:31Z",
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-11-16T22:28:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T08:05:31Z"
 }

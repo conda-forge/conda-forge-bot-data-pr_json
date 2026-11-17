@@ -1,27 +1,29 @@
 {
+  "ETag": "\"76b300c118631e405f6da911ee14f8d87b3389a7edc8c25cf1baa01d7c688652\"",
+  "Last-Modified": "Tue, 17 Nov 2026 15:23:34 GMT",
   "base": {
     "repo": {
       "name": "geost-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T15:23:34Z",
   "closed_by": null,
   "created_at": "2026-11-17T13:51:52Z",
   "draft": false,
   "e_tag": "\"73d4eca57354b2ab489dbaa18cd72fa55ab15eae57e1608fde85d8311346a62a\"",
   "head": {
-    "ref": "0.6.0_h9167c4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geost-feedstock/pull/2",
   "id": 5358120376,
   "labels": [],
-  "last_fetched": "2026-11-17T13:51:53.842202",
+  "last_fetched": "2026-11-17T15:25:13.353301",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T15:23:34Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-17T13:51:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T15:23:34Z"
 }

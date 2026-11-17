@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d814b7f5ad0e40be617eff21b33c13d11cbed375fea7da2b1741e94dd7f4e7d8\"",
+  "Last-Modified": "Tue, 17 Nov 2026 13:35:59 GMT",
   "base": {
     "repo": {
       "name": "r-rpact-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T13:35:55Z",
   "closed_by": null,
   "created_at": "2026-11-17T13:22:39Z",
   "draft": false,
   "e_tag": "\"19c177893d17ecbfdceae3911d40039fff717dee6a66b4d81dd5d38e9983b6ae\"",
   "head": {
-    "ref": "5.0.0_h53fc87"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-rpact-feedstock/pull/18",
   "id": 5357659279,
   "labels": [],
-  "last_fetched": "2026-11-17T13:22:40.256548",
+  "last_fetched": "2026-11-17T13:37:27.272928",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T13:35:54Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-17T13:22:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T13:35:59Z"
 }

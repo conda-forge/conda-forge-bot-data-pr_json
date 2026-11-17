@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b0a219515d59d149cb1d79597a0c329ef7b0c65e1fa7dccc626cbb5c6b2460a4\"",
-  "Last-Modified": "Mon, 16 Nov 2026 22:13:57 GMT",
+  "ETag": "\"c551a1b56ceedf4c8cd225e7f6463bdf968833a8806a1e0cff232d0016cd546f\"",
+  "Last-Modified": "Tue, 17 Nov 2026 08:20:27 GMT",
   "base": {
     "repo": {
       "name": "igor2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T08:20:26Z",
   "closed_by": null,
   "created_at": "2026-11-16T22:09:14Z",
   "draft": false,
   "e_tag": "\"2c7facc7359e62445ab7e9c7f6388784448909aa01e44832cda9de14f71233f8\"",
   "head": {
-    "ref": "0.5.16_h02d5d7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/igor2-feedstock/pull/12",
   "id": 5346081408,
   "labels": [],
-  "last_fetched": "2026-11-16T23:27:44.046929",
+  "last_fetched": "2026-11-17T08:22:01.640895",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T08:20:26Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-16T22:13:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T08:20:27Z"
 }

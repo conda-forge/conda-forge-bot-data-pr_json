@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9e397ddc6d42b75661cb3b6b9d1b60e997219eb5ad3bd7eaf0849d586d1b7fda\"",
+  "Last-Modified": "Tue, 17 Nov 2026 13:39:24 GMT",
   "base": {
     "repo": {
       "name": "r-philentropy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T13:39:20Z",
   "closed_by": null,
   "created_at": "2026-11-17T13:27:43Z",
   "draft": false,
   "e_tag": "\"bd6d1cec71399d3124da33627d539c35232ee7f1f56ae6a84ae1f6e11b6d42c7\"",
   "head": {
-    "ref": "0.10.1_h3a8697"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-philentropy-feedstock/pull/12",
   "id": 5357739650,
   "labels": [],
-  "last_fetched": "2026-11-17T13:27:44.704863",
+  "last_fetched": "2026-11-17T13:40:43.052736",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T13:39:20Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-17T13:27:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T13:39:24Z"
 }

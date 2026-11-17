@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"caabde285132e80b963789a18b1ea0d02efd4a332747c93c79de87c430b0300e\"",
-  "Last-Modified": "Tue, 17 Nov 2026 09:14:54 GMT",
+  "ETag": "\"c51d17dc4ce9eb389ab6764a904bed20e1c6a65670c428417f6615f1b387902e\"",
+  "Last-Modified": "Tue, 17 Nov 2026 12:05:35 GMT",
   "base": {
     "repo": {
       "name": "pyvkfft-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T12:05:35Z",
   "closed_by": null,
   "created_at": "2026-11-17T09:13:29Z",
   "draft": false,
   "e_tag": "\"92fc50d0b643cbd5fada24c77496708fc4d960ca88ba5e57c4d9e11ef8ff9e65\"",
   "head": {
-    "ref": "rebuild-python315-0-1_ha6a357"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyvkfft-feedstock/pull/34",
   "id": 5354005844,
   "labels": [],
-  "last_fetched": "2026-11-17T10:59:06.512018",
+  "last_fetched": "2026-11-17T12:07:16.834880",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T12:05:35Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-11-17T09:14:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T12:05:35Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"bc94a6b52a3e948f961b71d0db0a901caaec40ce461f89fc1fc53ed9791a221f\"",
+  "Last-Modified": "Tue, 17 Nov 2026 02:39:52 GMT",
   "base": {
     "repo": {
       "name": "pillow-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pillow-feedstock/pull/187",
   "id": 5349200498,
-  "labels": [],
-  "last_fetched": "2026-11-17T02:18:28.795376",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891095429,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDk1NDI5",
+      "url": "https://api.github.com/repos/conda-forge/pillow-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T02:41:26.641397",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 187,
   "state": "open",
-  "updated_at": "2026-11-17T02:18:27Z"
+  "updated_at": "2026-11-17T02:39:52Z"
 }

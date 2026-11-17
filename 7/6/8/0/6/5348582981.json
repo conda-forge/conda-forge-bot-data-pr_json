@@ -1,27 +1,29 @@
 {
+  "ETag": "\"73e2cba51ae8798b7d5a954d4112f8867052af096e9686ef5ee079134285fc7a\"",
+  "Last-Modified": "Tue, 17 Nov 2026 01:29:50 GMT",
   "base": {
     "repo": {
       "name": "types-pymysql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T01:29:46Z",
   "closed_by": null,
   "created_at": "2026-11-17T01:27:24Z",
   "draft": false,
   "e_tag": "\"fc77cf90528cecfb26d3d3c30d862310aa32b991c7f8243f1423e3c7a927d0c3\"",
   "head": {
-    "ref": "1.2.4.20261116_h6db11d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-pymysql-feedstock/pull/54",
   "id": 5348582981,
   "labels": [],
-  "last_fetched": "2026-11-17T01:27:24.764177",
+  "last_fetched": "2026-11-17T01:30:57.404139",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T01:29:46Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-17T01:27:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T01:29:50Z"
 }

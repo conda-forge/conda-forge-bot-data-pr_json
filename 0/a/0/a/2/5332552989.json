@@ -1,6 +1,6 @@
 {
-  "ETag": "\"79ca8da69c52a16c02c5c4bd791edb322fa07b16b2fac26d05ef976e20c0e204\"",
-  "Last-Modified": "Mon, 16 Nov 2026 06:58:15 GMT",
+  "ETag": "\"55eced1b29ff8db3d29fd1202eb8539f2924b8958b1daa81a3f4fcfe6b849887\"",
+  "Last-Modified": "Tue, 17 Nov 2026 03:07:40 GMT",
   "base": {
     "repo": {
       "name": "util-linux-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/util-linux-feedstock/pull/65",
   "id": 5332552989,
-  "labels": [],
-  "last_fetched": "2026-11-16T07:07:45.948106",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891423421,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDIzNDIx",
+      "url": "https://api.github.com/repos/conda-forge/util-linux-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T03:09:02.966787",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 65,
   "state": "open",
-  "updated_at": "2026-11-16T06:58:15Z"
+  "updated_at": "2026-11-17T03:07:40Z"
 }

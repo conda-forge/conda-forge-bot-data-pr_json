@@ -1,27 +1,29 @@
 {
+  "ETag": "\"85aa99ebdd42aeaf7225ebcb8636da49d6b4d23bdd5b5fc4df56ef8a08a9fd52\"",
+  "Last-Modified": "Tue, 17 Nov 2026 21:07:52 GMT",
   "base": {
     "repo": {
       "name": "r-openssl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T21:07:48Z",
   "closed_by": null,
   "created_at": "2026-11-17T20:53:56Z",
   "draft": false,
   "e_tag": "\"56c95d73ae31545190b92bbb4fa6f28e9d3e68694aa70ca0903c560f20118b71\"",
   "head": {
-    "ref": "2.6.0_h56e5c8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-openssl-feedstock/pull/58",
   "id": 5364828278,
   "labels": [],
-  "last_fetched": "2026-11-17T20:53:57.053952",
+  "last_fetched": "2026-11-17T21:09:24.559455",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T21:07:48Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-11-17T20:53:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T21:07:52Z"
 }

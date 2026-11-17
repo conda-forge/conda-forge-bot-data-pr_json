@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a8e106c58330f5ff45cdd2cb6a9093208b48a26ab6d6532cb9a20e7423e9e2cd\"",
+  "Last-Modified": "Tue, 17 Nov 2026 06:48:18 GMT",
   "base": {
     "repo": {
       "name": "unsloth_zoo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T06:48:15Z",
   "closed_by": null,
   "created_at": "2026-11-17T06:45:57Z",
   "draft": false,
   "e_tag": "\"7dc188bc8fec6181efe92a776dfde0c952eb3bdc258d6df7e73da43818745460\"",
   "head": {
-    "ref": "2026.11.5_h133cd1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/unsloth_zoo-feedstock/pull/157",
   "id": 5352207773,
   "labels": [],
-  "last_fetched": "2026-11-17T06:45:58.466365",
+  "last_fetched": "2026-11-17T06:49:37.853232",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T06:48:15Z",
   "number": 157,
-  "state": "open",
-  "updated_at": "2026-11-17T06:45:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T06:48:18Z"
 }

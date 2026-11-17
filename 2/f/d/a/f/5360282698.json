@@ -1,27 +1,29 @@
 {
+  "ETag": "\"89f034593cce6cf6ca3c9e754d014f1e31a8ba12f19cbc715007099124939f42\"",
+  "Last-Modified": "Tue, 17 Nov 2026 16:44:02 GMT",
   "base": {
     "repo": {
       "name": "gpsd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T16:44:01Z",
   "closed_by": null,
   "created_at": "2026-11-17T15:59:18Z",
   "draft": false,
   "e_tag": "\"cb4bccaeefad6e1267ca0996a293a2a5cb851ba1dcc426de840fd4200ae16727\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h1f5579"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gpsd-feedstock/pull/17",
   "id": 5360282698,
   "labels": [],
-  "last_fetched": "2026-11-17T15:59:18.985080",
+  "last_fetched": "2026-11-17T16:45:35.845308",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T16:44:01Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-11-17T15:59:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T16:44:02Z"
 }

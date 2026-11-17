@@ -1,27 +1,29 @@
 {
+  "ETag": "\"445860768c9f9bff1a6a2c1b6dcc1572281675905458f03182aa67e482ef9f0d\"",
+  "Last-Modified": "Tue, 17 Nov 2026 03:53:57 GMT",
   "base": {
     "repo": {
       "name": "nuget-license-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T03:53:52Z",
   "closed_by": null,
   "created_at": "2026-11-17T03:51:34Z",
   "draft": false,
   "e_tag": "\"c494f31e639562dccf406be97575615e68776c13c2f02387a094c9fbec1511b3\"",
   "head": {
-    "ref": "4.0.19_h4d4c58"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nuget-license-feedstock/pull/39",
   "id": 5350255439,
   "labels": [],
-  "last_fetched": "2026-11-17T03:51:36.045029",
+  "last_fetched": "2026-11-17T03:55:15.239990",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T03:53:52Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-11-17T03:51:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T03:53:57Z"
 }

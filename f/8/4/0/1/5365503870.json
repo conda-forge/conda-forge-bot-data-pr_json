@@ -1,4 +1,6 @@
 {
+  "ETag": "\"1401404c360b04715d09406acced11f1a445bbf95f0b00fb0a3b816bb1698612\"",
+  "Last-Modified": "Tue, 17 Nov 2026 22:03:50 GMT",
   "base": {
     "repo": {
       "name": "cuda-nvrtc-feedstock"
@@ -7,7 +9,7 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-11-17T21:42:09Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"a32982ed5b8841589d9b0feac3809727ef3ee3abce34dcf3b0b75d51e76b1d59\"",
   "head": {
     "ref": "bot-pr_riscv64_hb6abc0"
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/cuda-nvrtc-feedstock/pull/40",
   "id": 5365503870,
   "labels": [],
-  "last_fetched": "2026-11-17T21:42:10.393063",
+  "last_fetched": "2026-11-17T23:28:07.892611",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 40,
   "state": "open",
-  "updated_at": "2026-11-17T21:42:09Z"
+  "updated_at": "2026-11-17T22:03:50Z"
 }

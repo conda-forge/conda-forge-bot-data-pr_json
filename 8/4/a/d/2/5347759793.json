@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4c128c0c3f66fd75d68414afed46b93d86d787cde1336fd27047ba740a457db3\"",
-  "Last-Modified": "Tue, 17 Nov 2026 00:20:31 GMT",
+  "ETag": "\"d63bf7718e30eaa7e0d503dfa30478b5b3ac4333e1db9820d923864139d306ef\"",
+  "Last-Modified": "Tue, 17 Nov 2026 22:14:05 GMT",
   "base": {
     "repo": {
       "name": "dolphin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T22:14:05Z",
   "closed_by": null,
   "created_at": "2026-11-17T00:18:42Z",
   "draft": false,
   "e_tag": "\"5e8b1518546d77e76ffffafed36f734fce0f4fe5e012a8f2d21171c1007888bb\"",
   "head": {
-    "ref": "0.43.0_h8eea39"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dolphin-feedstock/pull/82",
   "id": 5347759793,
   "labels": [],
-  "last_fetched": "2026-11-17T01:58:38.274159",
+  "last_fetched": "2026-11-17T22:15:28.760265",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T22:14:04Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-11-17T00:20:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T22:14:05Z"
 }

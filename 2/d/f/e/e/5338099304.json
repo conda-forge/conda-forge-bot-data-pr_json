@@ -1,18 +1,18 @@
 {
-  "ETag": "\"0e2cf9d89dcc9456e78771f3e9d2f2da40fa5028d3a886379ddccb458eaeb34f\"",
-  "Last-Modified": "Tue, 17 Nov 2026 08:46:27 GMT",
+  "ETag": "\"97c1aac304434d3c4249c989eebd9d70c68b36b64a6e23a072a9235eccea9deb\"",
+  "Last-Modified": "Tue, 17 Nov 2026 08:52:21 GMT",
   "base": {
     "repo": {
       "name": "glim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T08:52:17Z",
   "closed_by": null,
   "created_at": "2026-11-16T13:42:22Z",
   "draft": false,
   "e_tag": "\"c018797aa5cb9adb7472c62e784d86e8b6d574c67d9b4de71107b92f444a7a40\"",
   "head": {
-    "ref": "rebuild-libopencv510-0-1_h417b6b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/glim-feedstock/pull/18",
   "id": 5338099304,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/glim-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-17T08:46:42.556705",
+  "last_fetched": "2026-11-17T08:53:28.748911",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T08:52:17Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-17T08:46:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T08:52:21Z"
 }

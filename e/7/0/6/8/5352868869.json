@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2c87a16cdf10ea59babdd5d3c3317f653c01faefa55fcc679602b5ddb1f579ed\"",
+  "Last-Modified": "Tue, 17 Nov 2026 11:12:53 GMT",
   "base": {
     "repo": {
       "name": "microsoft-kiota-http-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T11:12:52Z",
   "closed_by": null,
   "created_at": "2026-11-17T07:44:22Z",
   "draft": false,
   "e_tag": "\"3154bb0cca4acfb692248eff77d6049f5adf2b5a8c701fc8a8e7a9f13cf4be04\"",
   "head": {
-    "ref": "1.18.0_hf8d880"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/microsoft-kiota-http-feedstock/pull/43",
   "id": 5352868869,
   "labels": [],
-  "last_fetched": "2026-11-17T07:44:23.118028",
+  "last_fetched": "2026-11-17T11:14:25.374731",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T11:12:52Z",
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-11-17T07:44:22Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T11:12:53Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"ca03b3f64fc2509ac52bd9f80cd4405d77dadebfbae99ed86ecf48847e1961e9\"",
-  "Last-Modified": "Tue, 17 Nov 2026 01:23:19 GMT",
+  "ETag": "\"27ccac69d51763722c22a69da690fe2dff53bf12589e2824f49cabadc0c3e414\"",
+  "Last-Modified": "Tue, 17 Nov 2026 12:38:40 GMT",
   "base": {
     "repo": {
       "name": "cachecontrol-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cachecontrol-feedstock/pull/28",
   "id": 5348515957,
-  "labels": [],
-  "last_fetched": "2026-11-17T01:45:42.914470",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890803066,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODAzMDY2",
+      "url": "https://api.github.com/repos/conda-forge/cachecontrol-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T12:39:09.443162",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 28,
   "state": "open",
-  "updated_at": "2026-11-17T01:23:19Z"
+  "updated_at": "2026-11-17T12:38:40Z"
 }

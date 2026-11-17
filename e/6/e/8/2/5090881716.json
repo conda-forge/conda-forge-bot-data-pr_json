@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4cffd13a5aa42d5e813f0fe760d55de2c109431521b26d27198214f9048af80f\"",
-  "Last-Modified": "Fri, 30 Oct 2026 20:55:14 GMT",
+  "ETag": "\"44536c13ed3854495cdfdaa232657345650c8f4ea35e7f20bb60284f0f3ceb1f\"",
+  "Last-Modified": "Tue, 17 Nov 2026 09:17:56 GMT",
   "base": {
     "repo": {
       "name": "spot-cpp-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T09:17:56Z",
   "closed_by": null,
   "created_at": "2026-10-30T20:53:42Z",
   "draft": false,
   "e_tag": "\"9151a764b74fb10e380f2c7c2af7db631f7845a24e2f4665f67f627a8af03c5e\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_hda6195"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spot-cpp-sdk-feedstock/pull/7",
   "id": 5090881716,
   "labels": [],
-  "last_fetched": "2026-11-14T07:43:16.252151",
+  "last_fetched": "2026-11-17T09:19:45.254281",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T09:17:56Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-10-30T20:55:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T09:17:56Z"
 }

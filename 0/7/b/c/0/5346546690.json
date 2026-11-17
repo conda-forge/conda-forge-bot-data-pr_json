@@ -1,4 +1,6 @@
 {
+  "ETag": "\"fd4555a5350d3f01a390753e7372ad9ad772120cf6875cd87b317643e6ff7b91\"",
+  "Last-Modified": "Tue, 17 Nov 2026 01:30:22 GMT",
   "base": {
     "repo": {
       "name": "aestream-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/aestream-feedstock/pull/20",
   "id": 5346546690,
-  "labels": [],
-  "last_fetched": "2026-11-16T22:42:57.913858",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6734739929,
+      "name": "automerge",
+      "node_id": "LA_kwDOLk3eiM8AAAABkWv52Q",
+      "url": "https://api.github.com/repos/conda-forge/aestream-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T01:30:49.431147",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 20,
   "state": "open",
-  "updated_at": "2026-11-16T22:42:56Z"
+  "updated_at": "2026-11-17T01:30:22Z"
 }

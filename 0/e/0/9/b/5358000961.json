@@ -1,6 +1,6 @@
 {
-  "ETag": "\"36630b2a57d8ce22d5074c0e251b0ff7a5c325dc8bfd20829686f5233657ab78\"",
-  "Last-Modified": "Tue, 17 Nov 2026 13:47:27 GMT",
+  "ETag": "\"1d4ccc5a86b8dc356a23c2810f44cc071b9412df7834609e13abd203652ca4e0\"",
+  "Last-Modified": "Tue, 17 Nov 2026 17:06:14 GMT",
   "base": {
     "repo": {
       "name": "entsoe-py-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/entsoe-py-feedstock/pull/66",
   "id": 5358000961,
-  "labels": [],
-  "last_fetched": "2026-11-17T14:43:14.017085",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890873204,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODczMjA0",
+      "url": "https://api.github.com/repos/conda-forge/entsoe-py-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T17:07:49.960968",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 66,
   "state": "open",
-  "updated_at": "2026-11-17T13:47:27Z"
+  "updated_at": "2026-11-17T17:06:14Z"
 }

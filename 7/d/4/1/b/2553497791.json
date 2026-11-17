@@ -1,12 +1,13 @@
 {
-  "ETag": "\"a84ed9d12f48638c0b2225cb23f220b3ed8aca557da60bd91d87394294f8e77e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"1cbb51eef63da1d79c8b3facf02ccdf9dcc88308b41a61a1594e8631a0251134\"",
+  "Last-Modified": "Tue, 17 Nov 2026 20:18:50 GMT",
   "base": {
     "repo": {
       "name": "libconfig-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T20:18:50Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-05-30T00:41:20Z",
   "draft": false,
   "e_tag": "\"3571b06e6de352c67438703260462c6047710e539c0069ec02ceab881ec6bea6\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/libconfig-feedstock/pull/11",
   "id": 2553497791,
-  "labels": [],
-  "last_fetched": "2026-11-10T18:43:48.401020",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T20:18:53.707633",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 11,
-  "state": "open",
-  "updated_at": "2025-05-30T00:42:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T20:18:50Z"
 }

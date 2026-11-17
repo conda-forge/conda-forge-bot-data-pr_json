@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e778b6741190e3456fb1bf31c34ea0e0904430e78c5cff0f9800dbdd049e6999\"",
-  "Last-Modified": "Tue, 17 Nov 2026 15:11:39 GMT",
+  "ETag": "\"9a91b8caeebf7b80bfde335de800882ae1f5bb9731f727f8e5907c29ae5616eb\"",
+  "Last-Modified": "Tue, 17 Nov 2026 21:25:01 GMT",
   "base": {
     "repo": {
       "name": "open-knowledge-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T21:25:01Z",
   "closed_by": null,
   "created_at": "2026-11-16T19:08:52Z",
   "draft": false,
   "e_tag": "\"931c57bd849b3876bfaa659122c82f226f73c5c58863bab1b4cbdfe65874ea58\"",
   "head": {
-    "ref": "0.89.7_he4c57d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/open-knowledge-feedstock/pull/1",
   "id": 5343299649,
   "labels": [],
-  "last_fetched": "2026-11-17T17:29:03.034704",
+  "last_fetched": "2026-11-17T21:26:51.201258",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T21:25:01Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-17T15:11:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T21:25:01Z"
 }

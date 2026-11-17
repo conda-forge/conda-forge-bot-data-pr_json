@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c910ac4ac85ada7284cc6a5d9b9912365d44e1121041d78bde9047bb42e45540\"",
-  "Last-Modified": "Tue, 17 Nov 2026 03:52:29 GMT",
+  "ETag": "\"436bcd47d60a4fc5b7c476e8e9f76fbc1ef65259d560ffe171cb8b86a7c5bfc7\"",
+  "Last-Modified": "Tue, 17 Nov 2026 09:27:54 GMT",
   "base": {
     "repo": {
       "name": "eodag-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T09:27:54Z",
   "closed_by": null,
   "created_at": "2026-11-17T03:49:07Z",
   "draft": false,
   "e_tag": "\"c51afe652c55e77f634094b91a18339b1cd8a9250c41a422647351badcc20056\"",
   "head": {
-    "ref": "4.11.0_h9574fb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/eodag-feedstock/pull/76",
   "id": 5350231913,
   "labels": [],
-  "last_fetched": "2026-11-17T03:58:32.917669",
+  "last_fetched": "2026-11-17T09:29:59.296336",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T09:27:54Z",
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-11-17T03:52:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T09:27:54Z"
 }

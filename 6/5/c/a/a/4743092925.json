@@ -1,12 +1,13 @@
 {
-  "ETag": "\"3176e79ff991d2e38f3ca5b1263a5534ff498d27ae5ed5589bc64678d7725d05\"",
-  "Last-Modified": "Mon, 05 Oct 2026 09:51:32 GMT",
+  "ETag": "\"52bcee2e76821c2628c38d546e81e40560cf4fae269e655eff4982b9161285d7\"",
+  "Last-Modified": "Tue, 17 Nov 2026 01:57:59 GMT",
   "base": {
     "repo": {
       "name": "geoarray-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T01:57:57Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-05T09:49:58Z",
   "draft": false,
   "e_tag": "\"18a8e39da24e9869780d1836c82f564ced5f0963a6d391c59310ca082f9f6b13\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/geoarray-feedstock/pull/77",
   "id": 4743092925,
   "labels": [],
-  "last_fetched": "2026-11-09T22:43:36.141626",
+  "last_fetched": "2026-11-17T01:59:07.146687",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 77,
-  "state": "open",
-  "updated_at": "2026-10-05T09:51:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T01:57:59Z"
 }

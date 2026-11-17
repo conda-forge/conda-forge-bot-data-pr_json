@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e9755b587087dbb14ac70210d11325bbe09c8248cce2bb09a8b9e2cf2220c146\"",
+  "Last-Modified": "Tue, 17 Nov 2026 07:37:51 GMT",
   "base": {
     "repo": {
       "name": "textlint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T07:37:47Z",
   "closed_by": null,
   "created_at": "2026-11-17T07:35:47Z",
   "draft": false,
   "e_tag": "\"929aaad08be027f94e6e99ad5f99714645c788b8bfce7c24a12743bc2db0eda3\"",
   "head": {
-    "ref": "16.1.1_h8094dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/textlint-feedstock/pull/35",
   "id": 5352772608,
   "labels": [],
-  "last_fetched": "2026-11-17T07:35:48.351271",
+  "last_fetched": "2026-11-17T07:38:55.986777",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T07:37:47Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-11-17T07:35:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T07:37:51Z"
 }

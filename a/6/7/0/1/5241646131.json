@@ -1,13 +1,13 @@
 {
-  "ETag": "\"40503387f3cb0b43cda8e7d33d0e162fab0ee4a30d3ff3554a9981909236006e\"",
-  "Last-Modified": "Tue, 10 Nov 2026 12:58:09 GMT",
+  "ETag": "W/\"8d6aa4c49061d9fe72c5451aee653fb7ff15d7f71d7c8d0d37545f65c4063427\"",
+  "Last-Modified": "Tue, 17 Nov 2026 16:22:25 GMT",
   "base": {
     "repo": {
       "name": "memray-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-17T16:22:25Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-10T12:56:30Z",
   "draft": false,
   "e_tag": "\"d100e592753510af79fae89733d640b770c3b97ecb0ec8c79d52a1d552bd504b\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/memray-feedstock/pull/69",
   "id": 5241646131,
-  "labels": [],
-  "last_fetched": "2026-11-10T13:59:00.060282",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T16:22:28.550618",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-11-10T12:58:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T16:22:25Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"04fd62d9cd5953d5a7db3d8c762568c9540a6dad21b1837869c90298a6bada0a\"",
-  "Last-Modified": "Tue, 17 Nov 2026 00:54:42 GMT",
+  "ETag": "W/\"594c22e85cc7b5ba35f36ba85252cb7a8bd68529836fa1185759a9dc584214c1\"",
+  "Last-Modified": "Tue, 17 Nov 2026 07:10:37 GMT",
   "base": {
     "repo": {
       "name": "conduit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T07:10:37Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-04-21T09:01:34Z",
   "draft": false,
   "e_tag": "\"b605f5cbf3f9115768a0aea7720bd03a31aa72ba145ac5ad347067600335d34a\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/conduit-feedstock/pull/52",
   "id": 2470848761,
-  "labels": [],
-  "last_fetched": "2026-11-17T05:17:47.945523",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1801654443,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODAxNjU0NDQz",
+      "url": "https://api.github.com/repos/conda-forge/conduit-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T07:10:40.174430",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-11-17T00:54:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T07:10:37Z"
 }

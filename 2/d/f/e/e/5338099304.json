@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d336aea983493acb761ddd0e36df01af79648451646b7deb516f4b70e23470b4\"",
-  "Last-Modified": "Mon, 16 Nov 2026 13:44:07 GMT",
+  "ETag": "\"0e2cf9d89dcc9456e78771f3e9d2f2da40fa5028d3a886379ddccb458eaeb34f\"",
+  "Last-Modified": "Tue, 17 Nov 2026 08:46:27 GMT",
   "base": {
     "repo": {
       "name": "glim-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/glim-feedstock/pull/18",
   "id": 5338099304,
-  "labels": [],
-  "last_fetched": "2026-11-16T18:34:38.763238",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10854609348,
+      "name": "automerge",
+      "node_id": "LA_kwDOSTXOaM8AAAAChvwxxA",
+      "url": "https://api.github.com/repos/conda-forge/glim-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T08:46:42.556705",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-11-16T13:44:07Z"
+  "updated_at": "2026-11-17T08:46:27Z"
 }

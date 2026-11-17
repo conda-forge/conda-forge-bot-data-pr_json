@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7d636909f97999257a29f60203e80f45c6fd0c72d40ca1c7a0e52f77af285770\"",
+  "Last-Modified": "Tue, 17 Nov 2026 22:28:24 GMT",
   "base": {
     "repo": {
       "name": "unicodedata2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T22:28:24Z",
   "closed_by": null,
   "created_at": "2026-11-17T18:14:03Z",
   "draft": false,
   "e_tag": "\"9722bdf7b5e872bf055a68dbd58fddbc437f14ce60b5cc711cee4eae3e09580c\"",
   "head": {
-    "ref": "bot-pr_arch_arm64_win_ha4789d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/unicodedata2-feedstock/pull/40",
   "id": 5362449058,
   "labels": [],
-  "last_fetched": "2026-11-17T18:14:04.034578",
+  "last_fetched": "2026-11-17T22:29:46.539676",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T22:28:24Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-11-17T18:14:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T22:28:24Z"
 }

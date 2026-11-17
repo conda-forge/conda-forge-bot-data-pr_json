@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b7355a33553e8692968974e4c3c8769f6be0c5e2edece22da9ab13eb1d56922f\"",
-  "Last-Modified": "Mon, 16 Nov 2026 22:10:38 GMT",
+  "ETag": "\"1699eb34ca897adda6d34bdb3b74a6c31355aef6c56206cf84dce9c7017156a6\"",
+  "Last-Modified": "Tue, 17 Nov 2026 07:27:39 GMT",
   "base": {
     "repo": {
       "name": "jobard-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T07:27:38Z",
   "closed_by": null,
   "created_at": "2026-11-16T22:10:37Z",
   "draft": false,
   "e_tag": "\"4581ae7a0ef6fb9bd4e3a5b745bb6fa8c1a38c84f7b89d9f69757ed6f02a9f57\"",
   "head": {
-    "ref": "1.8.0_h0ecbf5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jobard-client-feedstock/pull/20",
   "id": 5346102195,
   "labels": [],
-  "last_fetched": "2026-11-17T00:37:20.664980",
+  "last_fetched": "2026-11-17T07:29:09.093260",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T07:27:38Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-16T22:12:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T07:27:39Z"
 }

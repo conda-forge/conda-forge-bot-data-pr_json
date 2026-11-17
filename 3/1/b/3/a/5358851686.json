@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2b398f4ad7a98fdc04a48afe0f6b2409f09573697a193e76044761b673230f7e\"",
-  "Last-Modified": "Tue, 17 Nov 2026 14:37:36 GMT",
+  "ETag": "\"0fec93fe1395a90f2494b0384a475ba4dd70da90feeb6f9cded63a969425ba64\"",
+  "Last-Modified": "Tue, 17 Nov 2026 22:19:59 GMT",
   "base": {
     "repo": {
       "name": "xcb-util-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T22:19:59Z",
   "closed_by": null,
   "created_at": "2026-11-17T14:35:56Z",
   "draft": false,
   "e_tag": "\"a7ce5f23be1f316f58a2df55a6adb2d66da81a2cca1293b6851db4bbd4143fdb\"",
   "head": {
-    "ref": "bot-pr_riscv64_h883aaa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xcb-util-feedstock/pull/6",
   "id": 5358851686,
   "labels": [],
-  "last_fetched": "2026-11-17T17:27:18.556543",
+  "last_fetched": "2026-11-17T22:21:31.111179",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T22:19:59Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-17T14:37:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T22:19:59Z"
 }

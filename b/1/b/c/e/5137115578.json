@@ -1,6 +1,6 @@
 {
-  "ETag": "\"527352e2f804338ba6b3e24ac570d0462c01d8f75e7a7225506a2d399b720ce1\"",
-  "Last-Modified": "Tue, 17 Nov 2026 16:43:19 GMT",
+  "ETag": "W/\"641e707bcea9d4e33c0ae52bfd45374639a1fa09e45a317b47fd5797616b5a7a\"",
+  "Last-Modified": "Tue, 17 Nov 2026 16:43:16 GMT",
   "base": {
     "repo": {
       "name": "nvidia-cutlass-dsl-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/nvidia-cutlass-dsl-feedstock/pull/6",
   "id": 5137115578,
-  "labels": [],
-  "last_fetched": "2026-11-17T16:44:27.270581",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T16:43:20.376083",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 6,
   "state": "closed",
-  "updated_at": "2026-11-17T16:43:19Z"
+  "updated_at": "2026-11-17T16:43:16Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"5be6c35c5d50ce9e37d841f238dd19f622c9ca06abf5c67cdb03f8258faaeb08\"",
-  "Last-Modified": "Tue, 17 Nov 2026 22:00:20 GMT",
+  "ETag": "\"00c331123c82da0f4ac48c56219710ddfb0ac8c64c443e7b7c6e87ebf563c4a0\"",
+  "Last-Modified": "Tue, 17 Nov 2026 22:45:34 GMT",
   "base": {
     "repo": {
       "name": "sed-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T22:45:30Z",
   "closed_by": null,
   "created_at": "2026-11-17T21:57:49Z",
   "draft": false,
   "e_tag": "\"2ddfa7ee2fa547cfb822c3658fd3c7d61ed10ef507a9e7fea13224936871f0a8\"",
   "head": {
-    "ref": "rebuild-libintl10-0-1_h952493"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sed-feedstock/pull/24",
   "id": 5365723507,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/sed-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-17T22:01:38.969024",
+  "last_fetched": "2026-11-17T22:46:59.566917",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T22:45:30Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-11-17T22:00:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T22:45:34Z"
 }

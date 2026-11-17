@@ -1,12 +1,13 @@
 {
-  "ETag": "\"792472fb037655c45676a40415da279eafefc2dfd1acdd517759bda4282e05b7\"",
-  "Last-Modified": "Mon, 21 Sep 2026 15:53:17 GMT",
+  "ETag": "W/\"99c056cf128a829607bc552df83a5bd1540d0ecf6488705a43eb9db8b99c1fac\"",
+  "Last-Modified": "Tue, 17 Nov 2026 10:59:05 GMT",
   "base": {
     "repo": {
       "name": "unicodedata2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T10:59:05Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-21T15:51:29Z",
   "draft": false,
   "e_tag": "\"8d159e977837118a0e7194b125d6267ad4ebdaa4b5e8244d45bb4b27a62c8b0b\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/unicodedata2-feedstock/pull/38",
   "id": 4593426622,
-  "labels": [],
-  "last_fetched": "2026-11-10T09:59:34.784125",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T10:59:08.686416",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-09-21T15:53:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T10:59:05Z"
 }

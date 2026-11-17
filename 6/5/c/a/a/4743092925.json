@@ -1,6 +1,6 @@
 {
-  "ETag": "\"52bcee2e76821c2628c38d546e81e40560cf4fae269e655eff4982b9161285d7\"",
-  "Last-Modified": "Tue, 17 Nov 2026 01:57:59 GMT",
+  "ETag": "W/\"a4c88189edf2a1ec4116c3e15b91f12181f92e1a9d67588abedbf8387907d468\"",
+  "Last-Modified": "Tue, 17 Nov 2026 01:57:57 GMT",
   "base": {
     "repo": {
       "name": "geoarray-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/geoarray-feedstock/pull/77",
   "id": 4743092925,
-  "labels": [],
-  "last_fetched": "2026-11-17T01:59:07.146687",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T01:58:00.574256",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 77,
   "state": "closed",
-  "updated_at": "2026-11-17T01:57:59Z"
+  "updated_at": "2026-11-17T01:57:57Z"
 }

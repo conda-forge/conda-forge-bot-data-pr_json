@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3f06113ffcca9dfb35cdc14541625145a694f3cf40602edbf56e49af535c2961\"",
+  "Last-Modified": "Tue, 17 Nov 2026 04:05:55 GMT",
   "base": {
     "repo": {
       "name": "avito-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T04:05:50Z",
   "closed_by": null,
   "created_at": "2026-11-17T04:03:44Z",
   "draft": false,
   "e_tag": "\"e04f15b706e0bc93e01f799a31a7e4424c47da5a4ba250ec821e90e0eaa355ae\"",
   "head": {
-    "ref": "0.4.2_h6591f6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/avito-sdk-feedstock/pull/9",
   "id": 5350393760,
   "labels": [],
-  "last_fetched": "2026-11-17T04:03:45.046874",
+  "last_fetched": "2026-11-17T04:06:54.458091",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T04:05:50Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-17T04:03:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T04:05:55Z"
 }

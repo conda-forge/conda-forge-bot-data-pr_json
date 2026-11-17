@@ -1,6 +1,6 @@
 {
-  "ETag": "\"06f2fdd534eb34ff7c7010060c3bfd3233cd283023b4ced0d91a4363c8400289\"",
-  "Last-Modified": "Tue, 03 Nov 2026 00:55:39 GMT",
+  "ETag": "\"2451fadd6992666c413f6f5c01ec7934ede7fc96b990b8ac23c73aec5139769c\"",
+  "Last-Modified": "Tue, 17 Nov 2026 16:08:07 GMT",
   "base": {
     "repo": {
       "name": "conduit-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/conduit-feedstock/pull/67",
   "id": 5129903825,
-  "labels": [],
-  "last_fetched": "2026-11-17T12:59:20.229312",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890811163,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODExMTYz",
+      "url": "https://api.github.com/repos/conda-forge/conduit-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T16:09:52.136664",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 67,
   "state": "open",
-  "updated_at": "2026-11-03T00:55:39Z"
+  "updated_at": "2026-11-17T16:08:07Z"
 }

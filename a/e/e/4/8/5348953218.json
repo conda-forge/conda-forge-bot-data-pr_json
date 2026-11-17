@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dfd56920f30684f5c3451139ff3095307afdb9f6e254c0861adb51e9d3174187\"",
+  "Last-Modified": "Tue, 17 Nov 2026 02:00:09 GMT",
   "base": {
     "repo": {
       "name": "google-genai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T02:00:05Z",
   "closed_by": null,
   "created_at": "2026-11-17T01:58:11Z",
   "draft": false,
   "e_tag": "\"81621da0df8b801c4fe58853ba377a859f8d687fee18056a37a24a4acdf3b416\"",
   "head": {
-    "ref": "3.4.0_hedfc48"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-genai-feedstock/pull/123",
   "id": 5348953218,
   "labels": [],
-  "last_fetched": "2026-11-17T01:58:11.797297",
+  "last_fetched": "2026-11-17T02:01:35.651052",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-17T02:00:05Z",
   "number": 123,
-  "state": "open",
-  "updated_at": "2026-11-17T01:58:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T02:00:09Z"
 }

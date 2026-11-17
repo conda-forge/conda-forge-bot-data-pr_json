@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8ff917f1bd86f0b42ea9cdb98f3a7c1b1562b4377982c6d80b04150cbd4d04dc\"",
-  "Last-Modified": "Tue, 17 Nov 2026 08:53:53 GMT",
+  "ETag": "\"24d02b27439d00ef66165df2ecb21965b72b9214080abd1059b7dfd5271bdb0f\"",
+  "Last-Modified": "Tue, 17 Nov 2026 21:12:24 GMT",
   "base": {
     "repo": {
       "name": "pykrb5-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T21:12:24Z",
   "closed_by": null,
   "created_at": "2026-11-17T08:52:21Z",
   "draft": false,
   "e_tag": "\"d63af68ab9b45d3dc370bfec3da7e7b1347478c72d28ff1a89eb01b8357df32b\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hc7326f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pykrb5-feedstock/pull/22",
   "id": 5353718984,
   "labels": [],
-  "last_fetched": "2026-11-17T10:00:04.641773",
+  "last_fetched": "2026-11-17T21:14:18.707753",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T21:12:24Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-17T08:53:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T21:12:24Z"
 }

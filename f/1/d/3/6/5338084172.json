@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3cebb24986bcc8ca9793963710798795db20b953b149f678c570395fdb30b440\"",
-  "Last-Modified": "Mon, 16 Nov 2026 16:37:05 GMT",
+  "ETag": "W/\"e8fa4255bbed4197a8569406cac91f577de3703a01bcb51f7c84b879d874296c\"",
+  "Last-Modified": "Tue, 17 Nov 2026 10:26:55 GMT",
   "base": {
     "repo": {
       "name": "visp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T10:26:54Z",
   "closed_by": null,
   "created_at": "2026-11-16T13:41:21Z",
   "draft": false,
   "e_tag": "\"068bce1333e706941951411dd28f4fe0366a9a22517899edf43bfe32d40f4311\"",
   "head": {
-    "ref": "rebuild-libopencv510-0-1_h588a4b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/visp-feedstock/pull/52",
   "id": 5338084172,
   "labels": [],
-  "last_fetched": "2026-11-16T16:59:41.103324",
+  "last_fetched": "2026-11-17T10:28:18.589609",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T10:26:54Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-11-16T16:37:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T10:26:55Z"
 }

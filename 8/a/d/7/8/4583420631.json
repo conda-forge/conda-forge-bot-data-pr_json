@@ -1,6 +1,6 @@
 {
-  "ETag": "\"bff1a6591ad47278e294b816dc01c0c1789a45f7a4a82147faba49c7991da130\"",
-  "Last-Modified": "Tue, 17 Nov 2026 05:43:19 GMT",
+  "ETag": "W/\"74352126c8cbc9bfe30f60f3e74363a72af0e8369c8294608041084498a8558d\"",
+  "Last-Modified": "Tue, 17 Nov 2026 05:43:17 GMT",
   "base": {
     "repo": {
       "name": "pydocket-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pydocket-feedstock/pull/52",
   "id": 4583420631,
-  "labels": [],
-  "last_fetched": "2026-11-17T05:44:50.013574",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T05:43:20.261424",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 52,
   "state": "closed",
-  "updated_at": "2026-11-17T05:43:19Z"
+  "updated_at": "2026-11-17T05:43:17Z"
 }

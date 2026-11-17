@@ -1,29 +1,29 @@
 {
-  "ETag": "\"286eed1e407ebc1adde1dd9f0105c43203762d42c1f302de466004e696b53dec\"",
-  "Last-Modified": "Tue, 17 Nov 2026 07:19:15 GMT",
+  "ETag": "\"af6ca3a58fd379a818e02f1eb7c1a5e708e2562562a3ddf359c411a8f2d8697a\"",
+  "Last-Modified": "Tue, 17 Nov 2026 07:22:14 GMT",
   "base": {
     "repo": {
       "name": "zet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T07:22:09Z",
   "closed_by": null,
   "created_at": "2026-11-17T07:17:44Z",
   "draft": false,
   "e_tag": "\"95f9e2492ae187aef6ed0b026385f1465619fd0ce7922a6df818deedeb3187d8\"",
   "head": {
-    "ref": "2.1.0_hc99583"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zet-feedstock/pull/6",
   "id": 5352563241,
   "labels": [],
-  "last_fetched": "2026-11-17T07:19:49.822718",
+  "last_fetched": "2026-11-17T07:23:38.013617",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T07:22:09Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-17T07:19:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T07:22:14Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"2e813b11c937f56d69bc6cf8b89fe95ec430ff952f174fda8ca85c48b37adb3f\"",
+  "Last-Modified": "Tue, 17 Nov 2026 11:36:06 GMT",
   "base": {
     "repo": {
       "name": "ldas-tools-framecpp-swig-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/ldas-tools-framecpp-swig-feedstock/pull/64",
   "id": 5355978591,
-  "labels": [],
-  "last_fetched": "2026-11-17T11:28:52.366401",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890954322,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTU0MzIy",
+      "url": "https://api.github.com/repos/conda-forge/ldas-tools-framecpp-swig-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T11:37:33.879546",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 64,
   "state": "open",
-  "updated_at": "2026-11-17T11:28:51Z"
+  "updated_at": "2026-11-17T11:36:06Z"
 }

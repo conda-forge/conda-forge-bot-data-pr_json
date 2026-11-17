@@ -1,6 +1,6 @@
 {
-  "ETag": "\"0ea2863901d7160d982ffbd4b187cfceb4c0214c6131aa8db49c2666cb11101e\"",
-  "Last-Modified": "Tue, 17 Nov 2026 07:14:59 GMT",
+  "ETag": "\"4f5bfc139b301deb931c4b91e0722e6506c121c2d8e05bd2e8f2c78e7d51ed81\"",
+  "Last-Modified": "Tue, 17 Nov 2026 13:06:17 GMT",
   "base": {
     "repo": {
       "name": "configargparse-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/configargparse-feedstock/pull/38",
   "id": 5352516273,
-  "labels": [],
-  "last_fetched": "2026-11-17T08:21:38.965571",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890811173,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODExMTcz",
+      "url": "https://api.github.com/repos/conda-forge/configargparse-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T13:07:52.199525",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 38,
   "state": "open",
-  "updated_at": "2026-11-17T07:14:59Z"
+  "updated_at": "2026-11-17T13:06:17Z"
 }

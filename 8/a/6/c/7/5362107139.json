@@ -1,4 +1,6 @@
 {
+  "ETag": "\"589c4c303909b0bfbda5d45b08a3b4ed6b6b931c8fe8e357e16a2740b9136f01\"",
+  "Last-Modified": "Tue, 17 Nov 2026 18:37:24 GMT",
   "base": {
     "repo": {
       "name": "aube-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/aube-feedstock/pull/55",
   "id": 5362107139,
-  "labels": [],
-  "last_fetched": "2026-11-17T17:52:15.954535",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11455471230,
+      "name": "automerge",
+      "node_id": "LA_kwDOTReCwc8AAAACqsyefg",
+      "url": "https://api.github.com/repos/conda-forge/aube-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-17T18:39:04.690129",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 55,
   "state": "open",
-  "updated_at": "2026-11-17T17:52:15Z"
+  "updated_at": "2026-11-17T18:37:24Z"
 }

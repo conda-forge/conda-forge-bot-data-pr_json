@@ -1,6 +1,6 @@
 {
-  "ETag": "\"fbb93f7e1b5d66d7ba60b0c9abbc8372bf083e2c4dc23ae0bc9d3431f4de6750\"",
-  "Last-Modified": "Tue, 17 Nov 2026 01:44:51 GMT",
+  "ETag": "\"9e7a9849a78ee1ca1312d4d34e3ef4b74e7e80ed0d4be4030ca5f682b0479043\"",
+  "Last-Modified": "Tue, 17 Nov 2026 01:44:46 GMT",
   "base": {
     "repo": {
       "name": "multidict-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/multidict-feedstock/pull/86",
   "id": 5126772460,
-  "labels": [],
-  "last_fetched": "2026-11-17T01:46:03.435113",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-17T01:44:51.292942",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 86,
   "state": "closed",
-  "updated_at": "2026-11-17T01:44:51Z"
+  "updated_at": "2026-11-17T01:44:46Z"
 }

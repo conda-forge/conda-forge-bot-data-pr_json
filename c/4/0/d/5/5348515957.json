@@ -1,18 +1,18 @@
 {
-  "ETag": "\"27ccac69d51763722c22a69da690fe2dff53bf12589e2824f49cabadc0c3e414\"",
-  "Last-Modified": "Tue, 17 Nov 2026 12:38:40 GMT",
+  "ETag": "\"acd3d26e3751bdd7044a6741ee556af5a10a33ed919224a2e94a09c600119f74\"",
+  "Last-Modified": "Tue, 17 Nov 2026 12:39:14 GMT",
   "base": {
     "repo": {
       "name": "cachecontrol-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-17T12:39:09Z",
   "closed_by": null,
   "created_at": "2026-11-17T01:21:42Z",
   "draft": false,
   "e_tag": "\"11ac862786a61beb50e522b26016c80c1c4f5ab1b352bf5ba5e9419c874598eb\"",
   "head": {
-    "ref": "0.15.0_h7af44b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cachecontrol-feedstock/pull/28",
   "id": 5348515957,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/cachecontrol-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-17T12:39:09.443162",
+  "last_fetched": "2026-11-17T12:40:58.513464",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-17T12:39:09Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-17T12:38:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-17T12:39:14Z"
 }

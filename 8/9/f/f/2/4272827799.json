@@ -1,12 +1,13 @@
 {
-  "ETag": "\"5d80a6e7a0805e9b4fc201c9bfabf0cbee62cc82b91e7d7bb27287761ae8b191\"",
-  "Last-Modified": "Sat, 12 Sep 2026 20:25:58 GMT",
+  "ETag": "\"29d64eb2bb4114877c664c32772c3edb76be733432ed5aa2f99a2a367149a8fb\"",
+  "Last-Modified": "Wed, 18 Nov 2026 20:15:53 GMT",
   "base": {
     "repo": {
       "name": "ucc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T20:15:53Z",
+  "closed_by": "carterbox",
   "created_at": "2026-08-13T16:07:23Z",
   "draft": false,
   "e_tag": "\"90bf696043e801e75a116f2a2ad92907bb58d095004e8ce7c9c557c40c558840\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/ucc-feedstock/pull/43",
   "id": 4272827799,
   "labels": [],
-  "last_fetched": "2026-11-16T07:31:22.176768",
+  "last_fetched": "2026-11-18T20:17:38.021135",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-09-12T20:25:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T20:15:53Z"
 }

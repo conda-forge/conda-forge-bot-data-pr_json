@@ -1,29 +1,29 @@
 {
-  "ETag": "\"31d8c7923dbe99790a0284352c73169d3d4cf6a122254b0601c86478b3ac8955\"",
-  "Last-Modified": "Wed, 18 Nov 2026 07:18:36 GMT",
+  "ETag": "\"ab47b568acb900d13c38b3e0aad16220d8c1fb1fba3b72cade7bda25336f669c\"",
+  "Last-Modified": "Wed, 18 Nov 2026 09:26:31 GMT",
   "base": {
     "repo": {
       "name": "presto-pulsar-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T09:26:31Z",
   "closed_by": null,
   "created_at": "2026-11-18T07:18:35Z",
   "draft": false,
   "e_tag": "\"80fba347a3a2ce532d4241eeb0a790feaba79222bbd3bd6e18c8c3bbfafc37d5\"",
   "head": {
-    "ref": "6.3.3_h146e08"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/presto-pulsar-feedstock/pull/14",
   "id": 5371662428,
   "labels": [],
-  "last_fetched": "2026-11-18T07:58:01.799418",
+  "last_fetched": "2026-11-18T09:27:51.917164",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T09:26:31Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-18T07:20:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T09:26:31Z"
 }

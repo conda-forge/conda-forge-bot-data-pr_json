@@ -1,29 +1,29 @@
 {
-  "ETag": "\"55b89e735627e2f14e5e5d3b68e56b19c72fb386710d143a4ed180818d94b16a\"",
-  "Last-Modified": "Tue, 17 Nov 2026 23:36:42 GMT",
+  "ETag": "\"bcd6ea417e7c8b8197f63e003e79a7d09b918995149aca569018bf99bedd677b\"",
+  "Last-Modified": "Wed, 18 Nov 2026 10:07:59 GMT",
   "base": {
     "repo": {
       "name": "authlib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T10:07:59Z",
   "closed_by": null,
   "created_at": "2026-11-17T23:36:41Z",
   "draft": false,
   "e_tag": "\"148f6b390b855c52f5f9480c6f138da8d8f263168375307d433263d0f6a56838\"",
   "head": {
-    "ref": "1.9.9_h22aedc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/authlib-feedstock/pull/61",
   "id": 5366966924,
   "labels": [],
-  "last_fetched": "2026-11-18T01:28:11.664532",
+  "last_fetched": "2026-11-18T10:09:27.135583",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T10:07:59Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-17T23:38:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T10:07:59Z"
 }

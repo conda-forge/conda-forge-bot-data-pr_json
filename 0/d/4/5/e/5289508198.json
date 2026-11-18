@@ -1,29 +1,29 @@
 {
-  "ETag": "\"efdb0eec720e840f212800f52f38b1f22a96fce404cfefa826a70f160ae73a70\"",
-  "Last-Modified": "Fri, 13 Nov 2026 03:38:15 GMT",
+  "ETag": "\"cb7d1cbca0db7d447fb865b7e1d30ac122e2d0371f0914532825e294c6c8c235\"",
+  "Last-Modified": "Wed, 18 Nov 2026 23:25:51 GMT",
   "base": {
     "repo": {
       "name": "ansilogs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T23:25:51Z",
   "closed_by": null,
   "created_at": "2026-11-13T03:36:39Z",
   "draft": false,
   "e_tag": "\"bcb3337c911f50d645164a41664924886636b79ba7c213aa122cc93f04743c58\"",
   "head": {
-    "ref": "1.2.0_h4f7f85"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ansilogs-feedstock/pull/1",
   "id": 5289508198,
   "labels": [],
-  "last_fetched": "2026-11-13T05:28:13.672546",
+  "last_fetched": "2026-11-18T23:27:22.105797",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T23:25:51Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-13T03:38:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T23:25:51Z"
 }

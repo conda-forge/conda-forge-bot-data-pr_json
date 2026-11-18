@@ -1,28 +1,28 @@
 {
-  "ETag": "\"a12b0fa557823196097439f49d8579f7342fcd6c8acb62f62c14a74f0f2c35b7\"",
-  "Last-Modified": "Tue, 10 Nov 2026 09:27:50 GMT",
+  "ETag": "\"4fe4372acad038f887743e737368045caa2d2b090262fde18509874150df2a95\"",
+  "Last-Modified": "Wed, 18 Nov 2026 20:26:04 GMT",
   "base": {
     "repo": {
       "name": "python-flint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T20:26:04Z",
   "created_at": "2026-07-04T05:29:14Z",
   "draft": false,
   "e_tag": "\"7397ff736173e0ff4fad0be5330a306be31a517875d810d964715c6faa52195c\"",
   "head": {
-    "ref": "0.9.0_hb6133e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-flint-feedstock/pull/53",
   "id": 3989623106,
   "labels": [],
-  "last_fetched": "2026-11-17T10:43:18.732332",
+  "last_fetched": "2026-11-18T20:27:39.396505",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T20:26:04Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-11-10T09:27:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T20:26:04Z"
 }

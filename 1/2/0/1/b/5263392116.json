@@ -1,6 +1,6 @@
 {
-  "ETag": "\"6bd6b6c92f93b182efcb5c1b0700baa70398cdfd5c3666f668262cc06271a7c0\"",
-  "Last-Modified": "Wed, 18 Nov 2026 23:28:18 GMT",
+  "ETag": "W/\"0b83ac6c7f99c5e32fe1f3cf41c66d45790f59f6a7ea9b55a63e4c0ca6cc2bf1\"",
+  "Last-Modified": "Wed, 18 Nov 2026 23:28:16 GMT",
   "base": {
     "repo": {
       "name": "astropy-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/astropy-feedstock/pull/174",
   "id": 5263392116,
-  "labels": [],
-  "last_fetched": "2026-11-18T23:29:28.732837",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-18T23:28:19.303528",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 174,
   "state": "closed",
-  "updated_at": "2026-11-18T23:28:18Z"
+  "updated_at": "2026-11-18T23:28:16Z"
 }

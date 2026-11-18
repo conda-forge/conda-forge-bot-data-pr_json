@@ -1,6 +1,6 @@
 {
-  "ETag": "\"be7ca0638e13d995e86dc610095cd7c75a61f17a79a745eb6b9a51dbe2c0f1e2\"",
-  "Last-Modified": "Wed, 18 Nov 2026 06:04:43 GMT",
+  "ETag": "\"892bf286e6f0735d3ebf6468500fc46caca885f4b2d6577171678291e7e9053d\"",
+  "Last-Modified": "Wed, 18 Nov 2026 08:29:39 GMT",
   "base": {
     "repo": {
       "name": "nccl-extensions-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/nccl-extensions-feedstock/pull/2",
   "id": 5370837362,
-  "labels": [],
-  "last_fetched": "2026-11-18T06:25:09.224997",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 13123402949,
+      "name": "automerge",
+      "node_id": "LA_kwDOVyWjRs8AAAADDjc8xQ",
+      "url": "https://api.github.com/repos/conda-forge/nccl-extensions-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T08:31:16.373804",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 2,
   "state": "open",
-  "updated_at": "2026-11-18T06:04:43Z"
+  "updated_at": "2026-11-18T08:29:39Z"
 }

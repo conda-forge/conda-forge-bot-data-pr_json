@@ -1,27 +1,29 @@
 {
+  "ETag": "\"25ee1055847ff72837e72d3254e7a2a4c14b77d27f1f5cdd61b142c93fbae825\"",
+  "Last-Modified": "Wed, 18 Nov 2026 02:37:48 GMT",
   "base": {
     "repo": {
       "name": "mellon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T02:37:44Z",
   "closed_by": null,
   "created_at": "2026-11-18T02:33:45Z",
   "draft": false,
   "e_tag": "\"f58134a1b31b021a06c3a692aada7cdb76c9ba9fa4a4812753b0c16e7a8ed438\"",
   "head": {
-    "ref": "1.7.2_h3039a2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mellon-feedstock/pull/10",
   "id": 5368807475,
   "labels": [],
-  "last_fetched": "2026-11-18T02:33:46.817778",
+  "last_fetched": "2026-11-18T02:39:19.562603",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T02:37:44Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-18T02:33:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T02:37:48Z"
 }

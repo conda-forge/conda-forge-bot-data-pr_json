@@ -1,27 +1,29 @@
 {
+  "ETag": "\"426d3f4fd97a5d60b578aeec9c8ff8fc4d1116b32267856197523c1f46da8678\"",
+  "Last-Modified": "Wed, 18 Nov 2026 23:06:02 GMT",
   "base": {
     "repo": {
       "name": "mistralai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T23:05:58Z",
   "closed_by": null,
   "created_at": "2026-11-18T23:03:58Z",
   "draft": false,
   "e_tag": "\"ee17335b6d040c0bc36266df3d85fdfbd846ee724eef17dc271ea172c7c1a375\"",
   "head": {
-    "ref": "3.8.0_h8877dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mistralai-feedstock/pull/75",
   "id": 5385593759,
   "labels": [],
-  "last_fetched": "2026-11-18T23:03:59.461716",
+  "last_fetched": "2026-11-18T23:07:03.803291",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T23:05:58Z",
   "number": 75,
-  "state": "open",
-  "updated_at": "2026-11-18T23:03:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T23:06:02Z"
 }

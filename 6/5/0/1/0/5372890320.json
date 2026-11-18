@@ -1,18 +1,18 @@
 {
-  "ETag": "\"b283ace30bf58f10b7f8892883ca218c7b12e21bb5e6131722f4f01b7e70af88\"",
-  "Last-Modified": "Wed, 18 Nov 2026 08:57:35 GMT",
+  "ETag": "\"c08c438ed66be8351f9e16710aec57e080d247b678d1d3d927774984755f778b\"",
+  "Last-Modified": "Wed, 18 Nov 2026 09:10:12 GMT",
   "base": {
     "repo": {
       "name": "eventio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T09:10:08Z",
   "closed_by": null,
   "created_at": "2026-11-18T08:56:33Z",
   "draft": false,
   "e_tag": "\"f588bdc5d68aec60ed44cd6b271447a6cb516a490af4ad227a97149f59819650\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hb371a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/eventio-feedstock/pull/50",
   "id": 5372890320,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/eventio-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-18T08:58:40.384112",
+  "last_fetched": "2026-11-18T09:11:41.504401",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T09:10:08Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-11-18T08:58:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T09:10:12Z"
 }

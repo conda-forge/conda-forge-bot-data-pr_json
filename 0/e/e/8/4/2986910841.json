@@ -1,12 +1,13 @@
 {
-  "ETag": "\"3095df0291dc128a817fbeeae91339426e97f41c4fac62078d5f9b4c851cfc6b\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"224c357cd7451721f322dc6acfdf27afbaac778df5f1413aa0332b36c65e3afb\"",
+  "Last-Modified": "Wed, 18 Nov 2026 20:28:21 GMT",
   "base": {
     "repo": {
       "name": "python-flint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T20:28:21Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-11-07T02:34:17Z",
   "draft": false,
   "e_tag": "\"0d8f6601adfe728dc40679c4bb291d3672fad566856f8183a22b2b0260a53130\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/python-flint-feedstock/pull/51",
   "id": 2986910841,
-  "labels": [],
-  "last_fetched": "2026-11-17T14:59:51.304391",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891173899,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMTczODk5",
+      "url": "https://api.github.com/repos/conda-forge/python-flint-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-18T20:28:24.374663",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-02-02T13:28:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T20:28:21Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"19af303f9055b2f1b4b6a0faf5218908924fbf912205a3a4fed7a3ebd5ca5947\"",
-  "Last-Modified": "Wed, 18 Nov 2026 18:09:42 GMT",
+  "ETag": "\"54db559668fdb530ea07bb716a81289fb7be8793330c2c03699003df17e9f2ee\"",
+  "Last-Modified": "Wed, 18 Nov 2026 22:31:04 GMT",
   "base": {
     "repo": {
       "name": "ledger-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T22:31:03Z",
   "closed_by": null,
   "created_at": "2026-11-18T18:08:06Z",
   "draft": false,
   "e_tag": "\"165b9411cf384f0fc0d641c91d11ad73040f489e016384d3753fe1f677309623\"",
   "head": {
-    "ref": "rebuild-libintl10-0-1_h381229"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ledger-feedstock/pull/51",
   "id": 5381458227,
   "labels": [],
-  "last_fetched": "2026-11-18T19:42:00.355172",
+  "last_fetched": "2026-11-18T22:32:40.666223",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T22:31:03Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-11-18T18:09:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T22:31:04Z"
 }

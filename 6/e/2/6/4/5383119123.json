@@ -1,18 +1,18 @@
 {
-  "ETag": "\"bc41ec7a04605be51661d9ee06ce032da4d10a95596bb3fc06637d6c62fa6a18\"",
-  "Last-Modified": "Wed, 18 Nov 2026 23:07:04 GMT",
+  "ETag": "\"cdcddf6d34ac55fbe160bb49b6c59aaf73d01d6aad91d0605cdae936d5b1af02\"",
+  "Last-Modified": "Wed, 18 Nov 2026 23:12:21 GMT",
   "base": {
     "repo": {
       "name": "hugin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T23:12:17Z",
   "closed_by": null,
   "created_at": "2026-11-18T19:59:46Z",
   "draft": false,
   "e_tag": "\"41627846fe2baf2dfd733b74f0e62c699c0f115e9ebf6f72b0df7a1e84f7d685\"",
   "head": {
-    "ref": "2026.0.0_hadfcec"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hugin-feedstock/pull/92",
   "id": 5383119123,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/hugin-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-18T23:08:38.295253",
+  "last_fetched": "2026-11-18T23:14:33.094588",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T23:12:17Z",
   "number": 92,
-  "state": "open",
-  "updated_at": "2026-11-18T23:07:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T23:12:21Z"
 }

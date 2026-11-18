@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8d913640e135ab007f003f2853956ce53d71fa03798452ade1befb2ffe43a903\"",
-  "Last-Modified": "Tue, 17 Nov 2026 15:12:47 GMT",
+  "ETag": "\"c2d0e25b0192d4aff849792e8386bac62a732cb2896d3a30ebd9542b56291fce\"",
+  "Last-Modified": "Wed, 18 Nov 2026 08:50:52 GMT",
   "base": {
     "repo": {
       "name": "gz-math-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T08:50:52Z",
   "closed_by": null,
   "created_at": "2026-11-17T15:11:02Z",
   "draft": false,
   "e_tag": "\"302d528aa09c47531ff192e92b4c6c41dfea311d883f983bc428df39b580885d\"",
   "head": {
-    "ref": "rebuild-pybind11_abi12-0-1_h521ec3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-math-feedstock/pull/50",
   "id": 5359470001,
   "labels": [],
-  "last_fetched": "2026-11-17T16:33:55.401098",
+  "last_fetched": "2026-11-18T08:52:14.200754",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T08:50:52Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-11-17T15:12:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T08:50:52Z"
 }

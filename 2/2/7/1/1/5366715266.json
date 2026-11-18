@@ -1,6 +1,6 @@
 {
-  "ETag": "\"f874e371d90c62f4178f09e6c44b7f5fdaf494cb9f3cc1030736e48fd5092eee\"",
-  "Last-Modified": "Tue, 17 Nov 2026 23:15:09 GMT",
+  "ETag": "\"9a2727ff35677b55bb3d31defdb68d2ffc43110044428343698a13519f64fc53\"",
+  "Last-Modified": "Wed, 18 Nov 2026 16:15:32 GMT",
   "base": {
     "repo": {
       "name": "pygfx-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/pygfx-feedstock/pull/48",
   "id": 5366715266,
-  "labels": [],
-  "last_fetched": "2026-11-18T02:58:23.901700",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5973034980,
+      "name": "automerge",
+      "node_id": "LA_kwDOKUoEGM8AAAABZAVH5A",
+      "url": "https://api.github.com/repos/conda-forge/pygfx-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T16:16:48.292777",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 48,
   "state": "open",
-  "updated_at": "2026-11-17T23:16:40Z"
+  "updated_at": "2026-11-18T16:15:32Z"
 }

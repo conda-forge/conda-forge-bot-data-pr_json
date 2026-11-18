@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ba543eeeba4bc46d489ce463905336cad5703523d9ba7feae0c62017c6c6f0e1\"",
+  "Last-Modified": "Wed, 18 Nov 2026 09:28:23 GMT",
   "base": {
     "repo": {
       "name": "r-lmeinfo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T09:28:18Z",
   "closed_by": null,
   "created_at": "2026-11-18T09:24:34Z",
   "draft": false,
   "e_tag": "\"f851dcec359711c2cd06c0e7c11627a7f00fcb8e2d7cd5aef5be8a673d6d8e6d\"",
   "head": {
-    "ref": "0.3.4_h13ddb6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-lmeinfo-feedstock/pull/13",
   "id": 5373267727,
   "labels": [],
-  "last_fetched": "2026-11-18T09:24:35.138821",
+  "last_fetched": "2026-11-18T09:29:43.067586",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T09:28:18Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-18T09:24:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T09:28:23Z"
 }

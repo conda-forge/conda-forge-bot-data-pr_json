@@ -1,4 +1,6 @@
 {
+  "ETag": "\"862e432f9505e947e20756d41da391031e73d9e700e7c5f7642d7c56de5617dd\"",
+  "Last-Modified": "Wed, 18 Nov 2026 11:58:13 GMT",
   "base": {
     "repo": {
       "name": "open3d-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/open3d-feedstock/pull/79",
   "id": 5374879161,
-  "labels": [],
-  "last_fetched": "2026-11-18T11:13:53.215078",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6634903632,
+      "name": "automerge",
+      "node_id": "LA_kwDOLaW9GM8AAAABi3iYUA",
+      "url": "https://api.github.com/repos/conda-forge/open3d-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T11:59:35.791496",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 79,
   "state": "open",
-  "updated_at": "2026-11-18T11:13:52Z"
+  "updated_at": "2026-11-18T11:58:13Z"
 }

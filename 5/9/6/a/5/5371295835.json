@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6285ef9e589f746bbdcf2255e82a24ae9281346fff1b4147fd8ddb1e49d47214\"",
-  "Last-Modified": "Wed, 18 Nov 2026 06:47:53 GMT",
+  "ETag": "W/\"3c01e64498c429b1bcae8bdd148571389159cb8c3933e9835f78b35ad5455500\"",
+  "Last-Modified": "Wed, 18 Nov 2026 22:47:03 GMT",
   "base": {
     "repo": {
       "name": "kahip-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T22:47:02Z",
   "closed_by": null,
   "created_at": "2026-11-18T06:46:24Z",
   "draft": false,
   "e_tag": "\"bf3d61f64ce141dd2ba86c5ef2b153d9d1adb4daca34431087bde09b71202537\"",
   "head": {
-    "ref": "3.28_h83f1dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kahip-feedstock/pull/34",
   "id": 5371295835,
   "labels": [],
-  "last_fetched": "2026-11-18T07:20:58.990304",
+  "last_fetched": "2026-11-18T22:48:38.259265",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T22:47:02Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-11-18T06:47:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T22:47:03Z"
 }

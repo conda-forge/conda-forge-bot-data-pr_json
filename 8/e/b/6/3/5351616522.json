@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3a23d749096aef1026e7baad97500b356a8bfa4c81b2d199111d11041caa9dd7\"",
-  "Last-Modified": "Tue, 17 Nov 2026 05:52:23 GMT",
+  "ETag": "\"2e6beeab97c0e41434e455cf6d13c83001b9e5534f5b390f05bb00b81755c82d\"",
+  "Last-Modified": "Wed, 18 Nov 2026 16:39:53 GMT",
   "base": {
     "repo": {
       "name": "simpleitk-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/simpleitk-feedstock/pull/63",
   "id": 5351616522,
-  "labels": [],
-  "last_fetched": "2026-11-17T06:27:14.567367",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891339759,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzM5NzU5",
+      "url": "https://api.github.com/repos/conda-forge/simpleitk-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T16:41:42.527950",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 63,
   "state": "open",
-  "updated_at": "2026-11-17T05:53:56Z"
+  "updated_at": "2026-11-18T16:39:53Z"
 }

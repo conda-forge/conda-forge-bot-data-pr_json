@@ -1,29 +1,29 @@
 {
-  "ETag": "\"e7b860d389a70b53b59e7973cc0f892a88f9a2a941e5367dd5000d62ca06c048\"",
-  "Last-Modified": "Tue, 17 Nov 2026 23:48:37 GMT",
+  "ETag": "\"39267d8c630e617696cc2ace897324eb692d151e78fec3687a1e0efce428b680\"",
+  "Last-Modified": "Wed, 18 Nov 2026 17:14:00 GMT",
   "base": {
     "repo": {
       "name": "harfile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T17:14:00Z",
   "closed_by": null,
   "created_at": "2026-11-17T23:48:36Z",
   "draft": false,
   "e_tag": "\"d1c5804bff3bb0867442fb5b813aa519a8ca8e51dd436e0d19cf02a7e2f84dec\"",
   "head": {
-    "ref": "0.7.0_h210eef"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/harfile-feedstock/pull/6",
   "id": 5367095189,
   "labels": [],
-  "last_fetched": "2026-11-18T07:29:50.272270",
+  "last_fetched": "2026-11-18T17:15:12.294186",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T17:14:00Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-17T23:50:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T17:14:00Z"
 }

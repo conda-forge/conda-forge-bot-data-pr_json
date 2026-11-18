@@ -1,4 +1,6 @@
 {
+  "ETag": "\"320f2486a6dba074199a894ad32fe00b2240d9ca7993d002460e06939a52ca72\"",
+  "Last-Modified": "Wed, 18 Nov 2026 14:43:32 GMT",
   "base": {
     "repo": {
       "name": "sphinx-autodoc-typehints-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/sphinx-autodoc-typehints-feedstock/pull/116",
   "id": 5377583152,
-  "labels": [],
-  "last_fetched": "2026-11-18T14:10:35.534682",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891407751,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDA3NzUx",
+      "url": "https://api.github.com/repos/conda-forge/sphinx-autodoc-typehints-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T14:45:16.661266",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 116,
   "state": "open",
-  "updated_at": "2026-11-18T14:10:34Z"
+  "updated_at": "2026-11-18T14:43:32Z"
 }

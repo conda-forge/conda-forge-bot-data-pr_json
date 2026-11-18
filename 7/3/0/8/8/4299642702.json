@@ -1,17 +1,17 @@
 {
-  "ETag": "\"41c584eddb07c9dc7d1cebdbca10f0e9285042c7bb99f09191552849e32e7322\"",
-  "Last-Modified": "Wed, 18 Nov 2026 22:29:01 GMT",
+  "ETag": "\"bb13172b2023fa6a69bec8f5edc149373aa54aa3a4f4bf4d31a03031bed7f502\"",
+  "Last-Modified": "Wed, 18 Nov 2026 22:48:06 GMT",
   "base": {
     "repo": {
       "name": "maxima-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T22:48:02Z",
   "created_at": "2026-08-17T22:12:16Z",
   "draft": false,
   "e_tag": "\"2ab5d7156e7cf823836eae80eff74130596808223731e676df1b637021b29c97\"",
   "head": {
-    "ref": "5.50.0_h4825a8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/maxima-feedstock/pull/50",
   "id": 4299642702,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/maxima-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-18T22:30:41.376571",
+  "last_fetched": "2026-11-18T22:49:26.000633",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T22:48:01Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-11-18T22:29:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T22:48:06Z"
 }

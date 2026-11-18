@@ -1,29 +1,29 @@
 {
-  "ETag": "\"28a2863cfd88da40f810468de8842ff91de48e2ec537fa454e007e0f4adae5f7\"",
-  "Last-Modified": "Wed, 18 Nov 2026 07:03:21 GMT",
+  "ETag": "\"165237eaaa452279ac212e83bc1e326523886bc60de84ca6ba988b368bd56c81\"",
+  "Last-Modified": "Wed, 18 Nov 2026 09:25:40 GMT",
   "base": {
     "repo": {
       "name": "decaylanguage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T09:25:40Z",
   "closed_by": null,
   "created_at": "2026-11-18T07:01:27Z",
   "draft": false,
   "e_tag": "\"f5ec903c68b2ef786974791a2d830a4580449e0545e11800d3db625f64b28dc7\"",
   "head": {
-    "ref": "1.1.4_h793e46"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/decaylanguage-feedstock/pull/50",
   "id": 5371460113,
   "labels": [],
-  "last_fetched": "2026-11-18T07:59:19.935486",
+  "last_fetched": "2026-11-18T09:26:42.455173",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T09:25:40Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-11-18T07:03:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T09:25:40Z"
 }

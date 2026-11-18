@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ee432a1083d3e5bac05fb55e68836c57c1908ce5906da905d2000d2ed168e25c\"",
-  "Last-Modified": "Wed, 18 Nov 2026 10:58:40 GMT",
+  "ETag": "\"eb9b66f576510005868928e0a05fb5c2b570b55211d554a4efeb8dc584f309ac\"",
+  "Last-Modified": "Wed, 18 Nov 2026 10:58:21 GMT",
   "base": {
     "repo": {
       "name": "itstool-feedstock"
     }
   },
-  "closed_at": "2026-11-18T10:58:40Z",
+  "closed_at": null,
   "closed_by": null,
   "created_at": "2026-11-18T08:12:32Z",
   "draft": false,
   "e_tag": "\"765483122b672faa5cd6b436039a61b122d7ba462ab57cb73b75b0e84e58c224\"",
   "head": {
-    "ref": "this_is_not_a_branch"
+    "ref": "rebuild-libintl10-0-1_haaa561"
   },
   "html_url": "https://github.com/conda-forge/itstool-feedstock/pull/6",
   "id": 5372332294,
   "labels": [],
-  "last_fetched": "2026-11-18T11:00:30.763037",
+  "last_fetched": "2026-11-18T10:58:34.240761",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
-  "merged": true,
-  "merged_at": "2026-11-18T10:58:40Z",
+  "mergeable": true,
+  "mergeable_state": "clean",
+  "merged": false,
+  "merged_at": null,
   "number": 6,
-  "state": "closed",
-  "updated_at": "2026-11-18T10:58:40Z"
+  "state": "open",
+  "updated_at": "2026-11-18T10:58:21Z"
 }

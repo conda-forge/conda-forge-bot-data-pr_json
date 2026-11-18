@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7984218066b4a49fceafcb07cce88940b1cbae72df6e2eb6f3e97e3c575e7580\"",
-  "Last-Modified": "Wed, 18 Nov 2026 06:57:59 GMT",
+  "ETag": "\"14085452a19ddca3942c92151b044bf54e8b5982b419cad6bd6b0205f7c43685\"",
+  "Last-Modified": "Wed, 18 Nov 2026 15:56:02 GMT",
   "base": {
     "repo": {
       "name": "pywr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T15:56:02Z",
   "closed_by": null,
   "created_at": "2026-11-18T06:56:22Z",
   "draft": false,
   "e_tag": "\"cb835fe1c19a28d2029d1496fcdf133a5876f933f74fbe5265c3b6ed83da18bf\"",
   "head": {
-    "ref": "1.32.0_h05e805"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pywr-feedstock/pull/63",
   "id": 5371405445,
   "labels": [],
-  "last_fetched": "2026-11-18T12:58:52.494289",
+  "last_fetched": "2026-11-18T15:57:39.089016",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T15:56:02Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-11-18T06:57:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T15:56:02Z"
 }

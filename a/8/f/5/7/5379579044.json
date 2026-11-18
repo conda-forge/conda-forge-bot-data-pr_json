@@ -1,29 +1,29 @@
 {
-  "ETag": "\"beca8f23641e997ab1cc9d306f858d41f5634fad6d1f0d1831739498f77ef55e\"",
-  "Last-Modified": "Wed, 18 Nov 2026 16:54:52 GMT",
+  "ETag": "\"4b9ccd48a954afd88433b64f7f748aec4246c205b4eda7e25956af5153269cf1\"",
+  "Last-Modified": "Wed, 18 Nov 2026 18:55:53 GMT",
   "base": {
     "repo": {
       "name": "python-confluent-kafka-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T18:55:53Z",
   "closed_by": null,
   "created_at": "2026-11-18T16:08:43Z",
   "draft": false,
   "e_tag": "\"8e4d8459b7e2744dad83d1eb8e0da6f2afdf1dcca0c3392d143fd2f329083e89\"",
   "head": {
-    "ref": "2.16.2_h8e20bf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-confluent-kafka-feedstock/pull/138",
   "id": 5379579044,
   "labels": [],
-  "last_fetched": "2026-11-18T17:44:23.704844",
+  "last_fetched": "2026-11-18T18:57:02.836485",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T18:55:53Z",
   "number": 138,
-  "state": "open",
-  "updated_at": "2026-11-18T16:54:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T18:55:53Z"
 }

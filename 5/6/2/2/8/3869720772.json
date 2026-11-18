@@ -1,6 +1,6 @@
 {
-  "ETag": "\"216b85f913fd7d96a3436ed9dc4812787ef581483fabb54292154fdf9c79377a\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"d0f6e514546d7a215fd06c1e7fbe715b860d4812eb65f295fa0866cb1081b3c8\"",
+  "Last-Modified": "Wed, 18 Nov 2026 17:31:44 GMT",
   "base": {
     "repo": {
       "name": "exact-real-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/exact-real-feedstock/pull/40",
   "id": 3869720772,
-  "labels": [],
-  "last_fetched": "2026-11-16T17:58:15.585827",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3274641295,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMjc0NjQxMjk1",
+      "url": "https://api.github.com/repos/conda-forge/exact-real-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T17:33:00.114949",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 40,
   "state": "open",
-  "updated_at": "2026-06-15T17:30:01Z"
+  "updated_at": "2026-11-18T17:31:44Z"
 }

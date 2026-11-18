@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"ece56d9bc134b1679cf7559a4c05cc4ea223241dce6c7e76faedc691e91de710\"",
-  "Last-Modified": "Wed, 18 Nov 2026 14:10:58 GMT",
+  "ETag": "\"69c7fbd64978711a6ef29a2ad8d874fd6ee6f34b5e2df62c3e87a19e2e19117f\"",
+  "Last-Modified": "Wed, 18 Nov 2026 19:11:06 GMT",
   "base": {
     "repo": {
       "name": "litellm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T19:10:59Z",
   "closed_by": null,
   "created_at": "2026-11-18T14:09:13Z",
   "draft": false,
   "e_tag": "\"4303b31f546f00f58d5c59d2ff446e380c3ba95c5c7989817cc5848f71ce37ac\"",
   "head": {
-    "ref": "1.110.0_hb23c20"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/litellm-feedstock/pull/485",
   "id": 5377561962,
   "labels": [],
-  "last_fetched": "2026-11-18T18:20:50.255136",
+  "last_fetched": "2026-11-18T19:12:55.817476",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T19:10:59Z",
   "number": 485,
-  "state": "open",
-  "updated_at": "2026-11-18T14:10:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T19:11:06Z"
 }

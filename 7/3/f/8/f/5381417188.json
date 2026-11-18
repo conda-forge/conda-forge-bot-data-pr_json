@@ -1,4 +1,6 @@
 {
+  "ETag": "\"0114679863282f17809a50073cab81df705d71dfcb3ef3a3c27da0f790635ab3\"",
+  "Last-Modified": "Wed, 18 Nov 2026 18:10:54 GMT",
   "base": {
     "repo": {
       "name": "subversion-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/subversion-feedstock/pull/45",
   "id": 5381417188,
-  "labels": [],
-  "last_fetched": "2026-11-18T18:05:26.507122",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2102992230,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMTAyOTkyMjMw",
+      "url": "https://api.github.com/repos/conda-forge/subversion-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T18:12:31.107613",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 45,
   "state": "open",
-  "updated_at": "2026-11-18T18:05:25Z"
+  "updated_at": "2026-11-18T18:10:54Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e7de97dc07bd4d9684705390d9028ce6f7f1fe1623a46cfa57e42973e4b2cf61\"",
-  "Last-Modified": "Tue, 17 Nov 2026 01:30:28 GMT",
+  "ETag": "\"492d5f5bb0829910edbb4121a3852e56d8f7d71035f7f885734d6449bbd61b93\"",
+  "Last-Modified": "Wed, 18 Nov 2026 17:23:20 GMT",
   "base": {
     "repo": {
       "name": "linbox-feedstock"
@@ -15,14 +15,26 @@
   },
   "html_url": "https://github.com/conda-forge/linbox-feedstock/pull/39",
   "id": 4113808512,
-  "labels": [],
-  "last_fetched": "2026-11-17T03:31:54.039418",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891013624,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDEzNjI0",
+      "url": "https://api.github.com/repos/conda-forge/linbox-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T17:23:31.755616",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 39,
   "state": "open",
-  "updated_at": "2026-11-17T01:30:28Z"
+  "updated_at": "2026-11-18T17:23:20Z"
 }

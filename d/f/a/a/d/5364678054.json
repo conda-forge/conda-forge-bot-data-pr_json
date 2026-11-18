@@ -1,29 +1,29 @@
 {
-  "ETag": "\"659c4c3619904cf4853fc1c485e6904189ee26137c6639bf9973accc71553b87\"",
-  "Last-Modified": "Wed, 18 Nov 2026 04:44:35 GMT",
+  "ETag": "\"2cf12128254a872ee6f7f286ceb559e26980e23431d3de8c7188018475ddd209\"",
+  "Last-Modified": "Wed, 18 Nov 2026 09:55:32 GMT",
   "base": {
     "repo": {
       "name": "embree-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T09:55:31Z",
   "closed_by": null,
   "created_at": "2026-11-17T20:43:47Z",
   "draft": false,
   "e_tag": "\"e712b032a25aa82f28b1a63e822be6e332f9311830c746999a66917de31a631f\"",
   "head": {
-    "ref": "4.5.0_h4e1e6c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/embree-feedstock/pull/65",
   "id": 5364678054,
   "labels": [],
-  "last_fetched": "2026-11-18T05:58:57.481494",
+  "last_fetched": "2026-11-18T09:57:27.737982",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T09:55:31Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-11-18T04:44:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T09:55:32Z"
 }

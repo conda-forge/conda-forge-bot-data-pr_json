@@ -1,13 +1,13 @@
 {
-  "ETag": "\"cd7c1b61763dadaf7ad7d40aa560a83170e20df62cf2b8c46249c96dc5ccb050\"",
-  "Last-Modified": "Tue, 17 Nov 2026 02:43:34 GMT",
+  "ETag": "W/\"6c1a905935a4aae1b0ab8e7e23176607b6eabb0146ac7e3c7e0cf52e5106758e\"",
+  "Last-Modified": "Wed, 18 Nov 2026 16:18:31 GMT",
   "base": {
     "repo": {
       "name": "dash-mantine-components-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-18T16:18:28Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-30T17:37:58Z",
   "draft": false,
   "e_tag": "\"35a6ba28e8a42bb338767bc1baca40da3692e6bde8efcd3f4f5b72624b638d61\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/dash-mantine-components-feedstock/pull/43",
   "id": 5088557162,
-  "labels": [],
-  "last_fetched": "2026-11-17T05:17:51.344536",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3954006138,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOHC0W787rrVh6",
+      "url": "https://api.github.com/repos/conda-forge/dash-mantine-components-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-18T16:18:33.140435",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 43,
-  "state": "open",
-  "updated_at": "2026-11-17T02:43:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T16:18:31Z"
 }

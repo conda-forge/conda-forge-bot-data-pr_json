@@ -1,27 +1,29 @@
 {
+  "ETag": "\"41e69772ee14694e1bd2fb1d1a43af0c9331b736f0fefbea3c05fed859695a2b\"",
+  "Last-Modified": "Wed, 18 Nov 2026 09:28:28 GMT",
   "base": {
     "repo": {
       "name": "telnetlib3-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T09:28:28Z",
   "closed_by": null,
   "created_at": "2026-11-18T06:37:17Z",
   "draft": false,
   "e_tag": "\"67fade4e6b3c5e6a8ecf519292cd1f1146d902ec82eac555790d7d6d311e7078\"",
   "head": {
-    "ref": "5.0.3_hd6c027"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/telnetlib3-feedstock/pull/26",
   "id": 5371198415,
   "labels": [],
-  "last_fetched": "2026-11-18T06:37:18.717752",
+  "last_fetched": "2026-11-18T09:29:40.056785",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T09:28:28Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-11-18T06:37:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T09:28:28Z"
 }

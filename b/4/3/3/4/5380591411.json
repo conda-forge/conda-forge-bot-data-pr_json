@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a616a218f193f941bee3ff05e522786d7e461459be7a2ec10adb15053d72985d\"",
+  "Last-Modified": "Wed, 18 Nov 2026 17:12:43 GMT",
   "base": {
     "repo": {
       "name": "inline-snapshot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T17:12:39Z",
   "closed_by": null,
   "created_at": "2026-11-18T17:10:35Z",
   "draft": false,
   "e_tag": "\"e8ee05e3f4e0f2af3e4ca89dc701d5ba44bfa1e8bbb8ca6c14171206f2e1ba92\"",
   "head": {
-    "ref": "0.37.0_h402065"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/inline-snapshot-feedstock/pull/58",
   "id": 5380591411,
   "labels": [],
-  "last_fetched": "2026-11-18T17:10:36.273559",
+  "last_fetched": "2026-11-18T17:14:12.991976",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T17:12:39Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-11-18T17:10:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T17:12:43Z"
 }

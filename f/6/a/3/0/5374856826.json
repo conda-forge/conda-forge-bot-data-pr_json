@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c69711c8124af487b58d4d8aef3d8def5c7a2582f9462960de3efdb6c0828a62\"",
+  "Last-Modified": "Wed, 18 Nov 2026 11:25:15 GMT",
   "base": {
     "repo": {
       "name": "nvim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T11:25:15Z",
   "closed_by": null,
   "created_at": "2026-11-18T11:12:13Z",
   "draft": false,
   "e_tag": "\"0b2fccc4d1895c552c8fe4d30ae829efa837ef6a9ce28924d7803121ffe1228f\"",
   "head": {
-    "ref": "rebuild-libintl10-0-1_h25a114"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nvim-feedstock/pull/61",
   "id": 5374856826,
   "labels": [],
-  "last_fetched": "2026-11-18T11:12:14.459806",
+  "last_fetched": "2026-11-18T11:26:45.634762",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T11:25:15Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-18T11:12:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T11:25:15Z"
 }

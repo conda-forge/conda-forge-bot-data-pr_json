@@ -1,29 +1,29 @@
 {
-  "ETag": "\"20e5e9f7f31fa5b715193a308ef77285daa32c41e74f4dd8eb0e706e6a812c94\"",
-  "Last-Modified": "Wed, 18 Nov 2026 01:06:42 GMT",
+  "ETag": "\"218173948736535ba8cdd4263db8067e905eeb0108e235e0df2ce66d77b37f7f\"",
+  "Last-Modified": "Wed, 18 Nov 2026 11:36:22 GMT",
   "base": {
     "repo": {
       "name": "git-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T11:36:22Z",
   "closed_by": null,
   "created_at": "2026-11-18T01:05:00Z",
   "draft": false,
   "e_tag": "\"528b774ba07122b668b0ac9c1dfdf73e46d147f74184765b7e3cfaa80edbce91\"",
   "head": {
-    "ref": "rebuild-libintl10-0-1_h742f9f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/git-feedstock/pull/202",
   "id": 5367911084,
   "labels": [],
-  "last_fetched": "2026-11-18T01:32:03.101131",
+  "last_fetched": "2026-11-18T11:37:39.946074",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T11:36:22Z",
   "number": 202,
-  "state": "open",
-  "updated_at": "2026-11-18T01:06:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T11:36:22Z"
 }

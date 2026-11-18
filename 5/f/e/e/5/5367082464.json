@@ -1,18 +1,18 @@
 {
-  "ETag": "\"7d15b103a081aceecf9807a280bcd70038f6b8f30659c680e39a6e3f47e757e1\"",
-  "Last-Modified": "Wed, 18 Nov 2026 00:12:11 GMT",
+  "ETag": "\"37e15676a9da844327c48d9314ec2b26251ee15e535267a184cce3a533f5b79b\"",
+  "Last-Modified": "Wed, 18 Nov 2026 00:16:42 GMT",
   "base": {
     "repo": {
       "name": "fsspec-data-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T00:16:37Z",
   "closed_by": null,
   "created_at": "2026-11-17T23:47:25Z",
   "draft": false,
   "e_tag": "\"9cf24870559f5581209d8644332653f12e706beae5fe14d271d50decfe59659c\"",
   "head": {
-    "ref": "0.8.0_h8436f1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fsspec-data-feedstock/pull/7",
   "id": 5367082464,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/fsspec-data-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-18T00:13:24.648454",
+  "last_fetched": "2026-11-18T00:17:46.236851",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T00:16:37Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-18T00:12:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T00:16:42Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0c7412a20e8a9fb1b98a59975becb0994c3c0512ac8eceecd26586b4c7379ffb\"",
-  "Last-Modified": "Wed, 18 Nov 2026 00:44:13 GMT",
+  "ETag": "\"cf099c2d7e7fec84f554f0a9bf752ab4797770c7ea9a7e179b992bc46b6aeb6e\"",
+  "Last-Modified": "Wed, 18 Nov 2026 08:53:20 GMT",
   "base": {
     "repo": {
       "name": "scrapy-impersonate-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T08:53:20Z",
   "closed_by": null,
   "created_at": "2026-11-18T00:42:41Z",
   "draft": false,
   "e_tag": "\"b1452c597f21c8508f894599d97dce91c41425adf95855c9d4dd387ea5e10d1f\"",
   "head": {
-    "ref": "1.11.0_hcbc88b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scrapy-impersonate-feedstock/pull/4",
   "id": 5367668051,
   "labels": [],
-  "last_fetched": "2026-11-18T00:56:08.050329",
+  "last_fetched": "2026-11-18T08:54:58.320934",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T08:53:20Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-18T00:44:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T08:53:20Z"
 }

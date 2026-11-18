@@ -1,28 +1,40 @@
 {
-  "ETag": "\"bf93642998449f7f4f796ae33dded729cc3693f172bac54da70fbc92d616ee52\"",
-  "Last-Modified": "Tue, 17 Nov 2026 01:03:34 GMT",
+  "ETag": "\"70a6a308455dbce630f6c1679a9beadbf3ac1b89df254e47394b0fe57a9b4877\"",
+  "Last-Modified": "Wed, 18 Nov 2026 00:42:46 GMT",
   "base": {
     "repo": {
       "name": "mamba-ssm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T00:42:41Z",
   "created_at": "2026-05-09T12:38:48Z",
   "draft": false,
   "e_tag": "\"181638ab4695e5b57a219a801db85be9e3b3e0ba9a5138a5aa234a7854b03d88\"",
   "head": {
-    "ref": "2.3.2.post1_h0a7608"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mamba-ssm-feedstock/pull/12",
   "id": 3654847943,
-  "labels": [],
-  "last_fetched": "2026-11-17T01:19:43.641444",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9206916125,
+      "name": "automerge",
+      "node_id": "LA_kwDOPn9lpc8AAAACJMZkHQ",
+      "url": "https://api.github.com/repos/conda-forge/mamba-ssm-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T00:43:20.302537",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T00:42:41Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-17T01:03:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T00:42:46Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1c6203a9e1b491c86ba29d2e05d4d3907c993e2ed4a6c289b24927e42092664d\"",
+  "Last-Modified": "Wed, 18 Nov 2026 16:36:01 GMT",
   "base": {
     "repo": {
       "name": "regex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T16:35:57Z",
   "closed_by": null,
   "created_at": "2026-11-18T16:21:57Z",
   "draft": false,
   "e_tag": "\"c98876d0ecbd215d1e611845dadbf483164ebc56f286688747d6b6ec59e73606\"",
   "head": {
-    "ref": "2026.11.18_h925f26"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/regex-feedstock/pull/189",
   "id": 5379792558,
   "labels": [],
-  "last_fetched": "2026-11-18T16:21:58.457891",
+  "last_fetched": "2026-11-18T16:37:24.970116",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T16:35:57Z",
   "number": 189,
-  "state": "open",
-  "updated_at": "2026-11-18T16:21:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T16:36:01Z"
 }

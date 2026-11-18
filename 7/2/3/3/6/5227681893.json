@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bb2603eb81e6f7a68fdb4af1d2fe3e565658c96f63f8fa8b87e1c6f3a6ef13fd\"",
-  "Last-Modified": "Mon, 09 Nov 2026 16:58:22 GMT",
+  "ETag": "\"5a410f1f503600189539e98e7ed5b92e1cdceb73feeb9cd6ecdd1d2035e04dc9\"",
+  "Last-Modified": "Wed, 18 Nov 2026 23:29:26 GMT",
   "base": {
     "repo": {
       "name": "zope.i18nmessageid-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T23:29:26Z",
   "closed_by": null,
   "created_at": "2026-11-09T16:53:33Z",
   "draft": false,
   "e_tag": "\"d2cbff4f9ba1ed6e771e543cdb86a570f7c936381be57e8cc715b94576b3bb93\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h97ed83"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zope.i18nmessageid-feedstock/pull/1",
   "id": 5227681893,
   "labels": [],
-  "last_fetched": "2026-11-17T01:45:47.812104",
+  "last_fetched": "2026-11-18T23:30:40.286297",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T23:29:26Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-09T16:58:22Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T23:29:26Z"
 }

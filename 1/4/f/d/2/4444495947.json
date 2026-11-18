@@ -1,17 +1,17 @@
 {
-  "ETag": "\"355ea159e194bbbb5377283108f74ed0605cfac33551dacbcef2a8e7c34a9732\"",
-  "Last-Modified": "Tue, 17 Nov 2026 22:32:04 GMT",
+  "ETag": "W/\"4d017204910f8dc58b770e562491e4701133c473abfe2fb6ca49e4d284f2c528\"",
+  "Last-Modified": "Wed, 18 Nov 2026 00:49:03 GMT",
   "base": {
     "repo": {
       "name": "python-lmdb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T00:49:01Z",
   "created_at": "2026-09-04T16:20:38Z",
   "draft": false,
   "e_tag": "\"7acd19797691e2d4edfed0b204da87e72a6365d3e9e711674e5b79c8d42de553\"",
   "head": {
-    "ref": "rebuild-python315-0-1_had211a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-lmdb-feedstock/pull/60",
   "id": 4444495947,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/python-lmdb-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-17T22:33:28.339587",
+  "last_fetched": "2026-11-18T00:50:29.551457",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T00:49:01Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-11-17T22:32:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T00:49:03Z"
 }

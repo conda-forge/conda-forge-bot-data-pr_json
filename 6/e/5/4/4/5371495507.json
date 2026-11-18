@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6fd1321998325561f9f25079e5ad7875ddbd025c0c5c7d08f94d26ca00284e72\"",
+  "Last-Modified": "Wed, 18 Nov 2026 07:19:04 GMT",
   "base": {
     "repo": {
       "name": "texact-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T07:19:04Z",
   "closed_by": null,
   "created_at": "2026-11-18T07:04:34Z",
   "draft": false,
   "e_tag": "\"42e52bfa24cb96067a387d0875ed897ae02fe02ff8649f626a9756ddca39d619\"",
   "head": {
-    "ref": "0.4.0_h53927a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/texact-feedstock/pull/7",
   "id": 5371495507,
   "labels": [],
-  "last_fetched": "2026-11-18T07:04:35.719295",
+  "last_fetched": "2026-11-18T07:20:23.544783",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T07:19:04Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-18T07:04:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T07:19:04Z"
 }

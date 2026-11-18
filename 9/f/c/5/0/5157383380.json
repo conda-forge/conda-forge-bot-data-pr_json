@@ -1,6 +1,6 @@
 {
-  "ETag": "\"defc0360323d790b9ad0a8c985d76adf32ce5c36e82880b3e26289d96bec59e9\"",
-  "Last-Modified": "Wed, 18 Nov 2026 23:15:46 GMT",
+  "ETag": "W/\"ed21a4eb2e3435b85b97bb342bdf3e1c3775a8d22410df535c3d026b0e69169a\"",
+  "Last-Modified": "Wed, 18 Nov 2026 23:15:43 GMT",
   "base": {
     "repo": {
       "name": "bblean-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/bblean-feedstock/pull/7",
   "id": 5157383380,
-  "labels": [],
-  "last_fetched": "2026-11-18T23:17:05.398599",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-18T23:15:46.401160",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 7,
   "state": "closed",
-  "updated_at": "2026-11-18T23:15:46Z"
+  "updated_at": "2026-11-18T23:15:43Z"
 }

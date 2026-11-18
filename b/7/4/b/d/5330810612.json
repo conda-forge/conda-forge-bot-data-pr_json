@@ -1,13 +1,13 @@
 {
-  "ETag": "\"28f30befb019f312e057c7ffc6a7498f72fd4048f88ffdfc0d4fa658426cca91\"",
-  "Last-Modified": "Mon, 16 Nov 2026 04:04:32 GMT",
+  "ETag": "W/\"83d8a0f9263f879c1e24aa7f87011c2318eaedd5788ad8445f8f3f3762b07727\"",
+  "Last-Modified": "Wed, 18 Nov 2026 11:31:28 GMT",
   "base": {
     "repo": {
       "name": "pyside2-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-18T11:31:28Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-16T04:02:58Z",
   "draft": false,
   "e_tag": "\"2a9646db2d2ea79c184650c5109aeb7deae4b4237323e3ced5b79c52c6fd4545\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyside2-feedstock/pull/312",
   "id": 5330810612,
-  "labels": [],
-  "last_fetched": "2026-11-16T04:21:30.155951",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891110435,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMTEwNDM1",
+      "url": "https://api.github.com/repos/conda-forge/pyside2-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-18T11:31:31.423516",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 312,
-  "state": "open",
-  "updated_at": "2026-11-16T04:04:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T11:31:28Z"
 }

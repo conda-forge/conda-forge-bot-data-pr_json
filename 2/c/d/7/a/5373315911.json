@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b051f3f9d41bc6c0fea9ef3bcb6d0bc4fbca7b818505a7fb74026a22ae53e672\"",
-  "Last-Modified": "Wed, 18 Nov 2026 09:29:42 GMT",
+  "ETag": "\"1df5c754b881ea73f50afda57fc16e6f4bf4313d14124346be8ec20a4d50ca89\"",
+  "Last-Modified": "Wed, 18 Nov 2026 22:40:20 GMT",
   "base": {
     "repo": {
       "name": "lale-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T22:40:20Z",
   "closed_by": null,
   "created_at": "2026-11-18T09:28:08Z",
   "draft": false,
   "e_tag": "\"2c9407428e2a3f571bc9d7db2307dd1a378c7c5a590aec2f3e18fbb029897148\"",
   "head": {
-    "ref": "0.9.6_ha92a5d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lale-feedstock/pull/14",
   "id": 5373315911,
   "labels": [],
-  "last_fetched": "2026-11-18T09:58:27.762813",
+  "last_fetched": "2026-11-18T22:41:58.412120",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T22:40:20Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-18T09:29:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T22:40:20Z"
 }

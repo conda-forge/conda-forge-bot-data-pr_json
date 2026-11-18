@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1932f91289ddcea8710f717e66aa6f286f90acd92fa475e73b6c0b20f0e1d0a2\"",
-  "Last-Modified": "Mon, 16 Nov 2026 14:53:50 GMT",
+  "ETag": "\"3d7336c15631e5972ea58684410a5d3ebd3d36101682c827c514bfe0763c112a\"",
+  "Last-Modified": "Wed, 18 Nov 2026 01:57:59 GMT",
   "base": {
     "repo": {
       "name": "itk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T01:57:59Z",
   "closed_by": null,
   "created_at": "2026-10-29T08:12:03Z",
   "draft": false,
   "e_tag": "\"e437b0e6d10a1b2257a658d1e7f2fdce625dd6c2210c6b46e4d08c1b4879b595\"",
   "head": {
-    "ref": "5.4.8_h5b5014"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/itk-feedstock/pull/64",
   "id": 5064576061,
   "labels": [],
-  "last_fetched": "2026-11-16T18:43:22.584416",
+  "last_fetched": "2026-11-18T01:59:06.978464",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T01:57:59Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-11-16T14:53:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T01:57:59Z"
 }

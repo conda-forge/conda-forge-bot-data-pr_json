@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7a262500e9e8cf59397937a7a8fb2aff694ba82c005cf789e78ee7532742bc6a\"",
-  "Last-Modified": "Wed, 18 Nov 2026 06:28:10 GMT",
+  "ETag": "\"57d5d8ffc372f418fa5d817435e6e9f62bb425c5d77b387dc61d21e5e28b0802\"",
+  "Last-Modified": "Wed, 18 Nov 2026 12:22:37 GMT",
   "base": {
     "repo": {
       "name": "holidays-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T12:22:37Z",
   "closed_by": null,
   "created_at": "2026-11-18T06:26:39Z",
   "draft": false,
   "e_tag": "\"10c3d8f7a006bc1e87e13c467aa39e2f8607233a41d18c95237cc367b200927c\"",
   "head": {
-    "ref": "0.109_h1bb14c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/holidays-feedstock/pull/121",
   "id": 5371087268,
   "labels": [],
-  "last_fetched": "2026-11-18T10:42:01.243010",
+  "last_fetched": "2026-11-18T12:24:18.706287",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T12:22:37Z",
   "number": 121,
-  "state": "open",
-  "updated_at": "2026-11-18T06:28:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T12:22:37Z"
 }

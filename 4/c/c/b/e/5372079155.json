@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9dcd3a65110f4cb32510a557fae5987efc95fb3334faa8c2000aa5507f75a195\"",
-  "Last-Modified": "Wed, 18 Nov 2026 07:54:01 GMT",
+  "ETag": "\"cc81c645065996b57758e956e16861fd97ad11ea720c0d115d7c786b7cccc05c\"",
+  "Last-Modified": "Wed, 18 Nov 2026 10:53:23 GMT",
   "base": {
     "repo": {
       "name": "gz-transport-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T10:53:23Z",
   "closed_by": null,
   "created_at": "2026-11-18T07:52:31Z",
   "draft": false,
   "e_tag": "\"044396b4af63aa3d9d38eb60ec570aa80ca7631f46ff49e85b80ef6fd9e8fa73\"",
   "head": {
-    "ref": "rebuild-pybind11_abi12-0-1_h61f3b2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-transport-feedstock/pull/108",
   "id": 5372079155,
   "labels": [],
-  "last_fetched": "2026-11-18T08:35:26.284988",
+  "last_fetched": "2026-11-18T10:54:59.983297",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T10:53:23Z",
   "number": 108,
-  "state": "open",
-  "updated_at": "2026-11-18T07:54:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T10:53:23Z"
 }

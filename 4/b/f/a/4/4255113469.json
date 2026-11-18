@@ -1,12 +1,13 @@
 {
-  "ETag": "\"301412f714a77052167e719710c1cbc092c1ce578c138281eaaabfa03b281112\"",
-  "Last-Modified": "Tue, 11 Aug 2026 16:42:24 GMT",
+  "ETag": "W/\"5cd42bd478c40ce97614cbea1c69908a68ac93607141cee2330512f71639213f\"",
+  "Last-Modified": "Wed, 18 Nov 2026 22:17:19 GMT",
   "base": {
     "repo": {
       "name": "fluidfft-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T22:17:19Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-11T16:40:45Z",
   "draft": false,
   "e_tag": "\"cd1b143bc60eec994458e258111b2841d1c369ac5eb9d9819b58c90c9faee083\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/fluidfft-feedstock/pull/41",
   "id": 4255113469,
-  "labels": [],
-  "last_fetched": "2026-11-11T21:19:11.071894",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-18T22:17:22.821955",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-08-11T16:42:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T22:17:19Z"
 }

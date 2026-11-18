@@ -1,6 +1,6 @@
 {
-  "ETag": "\"e4b35a604613d1db5b1361cf3c85dbabee903601bcdd309bd79f981488c4473d\"",
-  "Last-Modified": "Mon, 17 Aug 2026 22:14:57 GMT",
+  "ETag": "\"41c584eddb07c9dc7d1cebdbca10f0e9285042c7bb99f09191552849e32e7322\"",
+  "Last-Modified": "Wed, 18 Nov 2026 22:29:01 GMT",
   "base": {
     "repo": {
       "name": "maxima-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/maxima-feedstock/pull/50",
   "id": 4299642702,
-  "labels": [],
-  "last_fetched": "2026-11-18T10:27:48.987729",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891017103,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDE3MTAz",
+      "url": "https://api.github.com/repos/conda-forge/maxima-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T22:30:41.376571",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 50,
   "state": "open",
-  "updated_at": "2026-08-17T22:14:57Z"
+  "updated_at": "2026-11-18T22:29:01Z"
 }

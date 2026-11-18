@@ -1,18 +1,18 @@
 {
-  "ETag": "\"9a2727ff35677b55bb3d31defdb68d2ffc43110044428343698a13519f64fc53\"",
-  "Last-Modified": "Wed, 18 Nov 2026 16:15:32 GMT",
+  "ETag": "\"39009942d4486f4110f8ac929608d258a47d78bff29a1da6caae184c404b3d9a\"",
+  "Last-Modified": "Wed, 18 Nov 2026 16:17:41 GMT",
   "base": {
     "repo": {
       "name": "pygfx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T16:17:37Z",
   "closed_by": null,
   "created_at": "2026-11-17T23:15:08Z",
   "draft": false,
   "e_tag": "\"e127e0723d5408bdb0e9747afbb5fcc1afb80dfc31d3d8f62a7230fb169a0425\"",
   "head": {
-    "ref": "0.18.0_h09dc3f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pygfx-feedstock/pull/48",
   "id": 5366715266,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/pygfx-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-18T16:16:48.292777",
+  "last_fetched": "2026-11-18T16:19:18.734292",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T16:17:37Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-11-18T16:15:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T16:17:41Z"
 }

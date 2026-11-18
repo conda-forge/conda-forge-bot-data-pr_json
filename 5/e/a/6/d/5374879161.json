@@ -1,18 +1,18 @@
 {
-  "ETag": "\"862e432f9505e947e20756d41da391031e73d9e700e7c5f7642d7c56de5617dd\"",
-  "Last-Modified": "Wed, 18 Nov 2026 11:58:13 GMT",
+  "ETag": "\"5e7c0ec9e7af0b0b424154444c6f1104478c46760ef9cd151dfa09abc584e684\"",
+  "Last-Modified": "Wed, 18 Nov 2026 12:07:16 GMT",
   "base": {
     "repo": {
       "name": "open3d-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T12:07:12Z",
   "closed_by": null,
   "created_at": "2026-11-18T11:13:52Z",
   "draft": false,
   "e_tag": "\"e0a891bd6292a06e9bf887cf2f79c083e3e48f5c9f2645f34bdedfbceb0d9862\"",
   "head": {
-    "ref": "rebuild-pybind11_abi12-0-1_h9cb28e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/open3d-feedstock/pull/79",
   "id": 5374879161,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/open3d-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-18T11:59:35.791496",
+  "last_fetched": "2026-11-18T12:08:38.392586",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T12:07:12Z",
   "number": 79,
-  "state": "open",
-  "updated_at": "2026-11-18T11:58:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T12:07:16Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"51face4ff2c33bdfe5e0ad2319d82966f3cf3bf5866cf3d6254480caef20b369\"",
-  "Last-Modified": "Wed, 18 Nov 2026 08:50:55 GMT",
+  "ETag": "\"7eb88b3285f6fdf88a9ad3968e30a65f8549d5b4b0b37b5f13ec126ff79d83dc\"",
+  "Last-Modified": "Wed, 18 Nov 2026 11:32:31 GMT",
   "base": {
     "repo": {
       "name": "inflate64-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T11:32:30Z",
   "closed_by": null,
   "created_at": "2026-11-18T08:49:18Z",
   "draft": false,
   "e_tag": "\"bc4511cbc49c29ae6e2b93d46304598db7b50eb6c8022b4a1d1c3c489dd31ae8\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h9abe88"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/inflate64-feedstock/pull/21",
   "id": 5372795100,
   "labels": [],
-  "last_fetched": "2026-11-18T10:30:12.648119",
+  "last_fetched": "2026-11-18T11:33:57.678790",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T11:32:30Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-18T08:50:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T11:32:31Z"
 }

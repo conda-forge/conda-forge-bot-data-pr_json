@@ -1,29 +1,29 @@
 {
-  "ETag": "\"407217bf19e20211a18eed723b8d181b742baea67e019e60e40e7e00f5bacac1\"",
-  "Last-Modified": "Wed, 18 Nov 2026 12:49:40 GMT",
+  "ETag": "\"1e257d1a0df6e7d8e4265abae186cd38b56aedbed1e5fcaf8d16b932f7ca07f1\"",
+  "Last-Modified": "Wed, 18 Nov 2026 18:24:23 GMT",
   "base": {
     "repo": {
       "name": "gcx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T18:24:23Z",
   "closed_by": null,
   "created_at": "2026-11-18T12:48:11Z",
   "draft": false,
   "e_tag": "\"1d1094a016a5b69fde92e1dab75ecf56e36e55333f460366417bd37d160153fb\"",
   "head": {
-    "ref": "1.8.0_h3bc19c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gcx-feedstock/pull/20",
   "id": 5376232487,
   "labels": [],
-  "last_fetched": "2026-11-18T14:59:42.455138",
+  "last_fetched": "2026-11-18T18:25:35.129400",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T18:24:23Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-18T12:49:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T18:24:23Z"
 }

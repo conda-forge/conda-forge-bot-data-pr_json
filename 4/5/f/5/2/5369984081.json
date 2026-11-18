@@ -1,29 +1,29 @@
 {
-  "ETag": "\"25240cf5f9f241c817c4fcf79584db543d2db85012ca8d256ed15a54da7eecdc\"",
-  "Last-Modified": "Wed, 18 Nov 2026 04:36:34 GMT",
+  "ETag": "W/\"0e6c5c262075a17631c62ff065f648c3b1e88c4f7055b5ebf9640a5f2c3eaf25\"",
+  "Last-Modified": "Wed, 18 Nov 2026 07:50:40 GMT",
   "base": {
     "repo": {
       "name": "gnutls-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T07:50:40Z",
   "closed_by": null,
   "created_at": "2026-11-18T04:34:59Z",
   "draft": false,
   "e_tag": "\"658a76ef7ed9c36ae3869859020d563665238551e710f5b398ae7e4187156097\"",
   "head": {
-    "ref": "rebuild-libintl10-0-1_h0ed69d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gnutls-feedstock/pull/62",
   "id": 5369984081,
   "labels": [],
-  "last_fetched": "2026-11-18T07:19:22.184724",
+  "last_fetched": "2026-11-18T07:51:47.958947",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T07:50:40Z",
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-11-18T04:36:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T07:50:40Z"
 }

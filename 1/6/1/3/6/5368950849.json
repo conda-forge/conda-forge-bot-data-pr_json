@@ -1,6 +1,6 @@
 {
-  "ETag": "\"7bd3474753769bae993bcf87bc89a0a77d39445029d2a37970e6ae4d93a980cb\"",
-  "Last-Modified": "Wed, 18 Nov 2026 07:58:58 GMT",
+  "ETag": "\"508ff32a68cb83ff964c92afbc3d06b8a0484116f54a2fd2ab0c2081732eff5c\"",
+  "Last-Modified": "Wed, 18 Nov 2026 15:23:57 GMT",
   "base": {
     "repo": {
       "name": "power-grid-model-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/power-grid-model-feedstock/pull/702",
   "id": 5368950849,
-  "labels": [],
-  "last_fetched": "2026-11-18T13:16:42.531410",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5513421679,
+      "name": "automerge",
+      "node_id": "LA_kwDOJkKUa88AAAABSKAjbw",
+      "url": "https://api.github.com/repos/conda-forge/power-grid-model-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T15:25:15.650934",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 702,
   "state": "open",
-  "updated_at": "2026-11-18T07:58:58Z"
+  "updated_at": "2026-11-18T15:23:57Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d66f13be33ec88ca6fc40fbe5318ad1ecd19faf724134f3ff7c43580fb45b193\"",
-  "Last-Modified": "Tue, 17 Nov 2026 23:59:40 GMT",
+  "ETag": "\"595d2dbf8f37c238e586d856c24274e14c032458616a8f04731722c9bce66e45\"",
+  "Last-Modified": "Wed, 18 Nov 2026 05:46:11 GMT",
   "base": {
     "repo": {
       "name": "jags-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T05:46:11Z",
   "closed_by": null,
   "created_at": "2026-11-17T23:58:01Z",
   "draft": false,
   "e_tag": "\"6c1cd8b9cacae9fcc2139221224ceaef167d64b44108b59f544f708da9ff362e\"",
   "head": {
-    "ref": "5.0.2_h9d820c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jags-feedstock/pull/21",
   "id": 5367195632,
   "labels": [],
-  "last_fetched": "2026-11-18T03:20:39.219927",
+  "last_fetched": "2026-11-18T05:47:17.552966",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T05:46:11Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-17T23:59:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T05:46:11Z"
 }

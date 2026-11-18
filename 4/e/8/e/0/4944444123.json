@@ -1,6 +1,6 @@
 {
-  "ETag": "\"aea6dcf180839699695aa25c6b207d10dfa00c7c1d8595c9de22032c1e2d13db\"",
-  "Last-Modified": "Wed, 18 Nov 2026 12:23:12 GMT",
+  "ETag": "W/\"3663ce140f5d5e2b2b9c53a9bbdc9e7897c35affb2138c4a8de24ac62937e9ad\"",
+  "Last-Modified": "Wed, 18 Nov 2026 12:23:09 GMT",
   "base": {
     "repo": {
       "name": "ale-py-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/ale-py-feedstock/pull/36",
   "id": 4944444123,
-  "labels": [],
-  "last_fetched": "2026-11-18T12:24:41.717531",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-18T12:23:12.335250",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 36,
   "state": "closed",
-  "updated_at": "2026-11-18T12:23:12Z"
+  "updated_at": "2026-11-18T12:23:09Z"
 }

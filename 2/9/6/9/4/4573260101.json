@@ -1,12 +1,13 @@
 {
-  "ETag": "\"9eb6d8b467eb3a896b07631abd7623a8d340953d2756fc31f6138845f897f48c\"",
-  "Last-Modified": "Fri, 18 Sep 2026 21:17:39 GMT",
+  "ETag": "W/\"1b8a55b7c2cb2fa21b2a1e8b3580928aa149b781865c5d4f84df3a085670f8cd\"",
+  "Last-Modified": "Wed, 18 Nov 2026 13:55:09 GMT",
   "base": {
     "repo": {
       "name": "segyio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T13:55:09Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-18T21:15:55Z",
   "draft": false,
   "e_tag": "\"6bbe0674b727e44aca419a3c8824ee9eed8210b4a9b42146799a9410551b56a9\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/segyio-feedstock/pull/41",
   "id": 4573260101,
-  "labels": [],
-  "last_fetched": "2026-11-14T16:58:29.926199",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891337843,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMzM3ODQz",
+      "url": "https://api.github.com/repos/conda-forge/segyio-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-18T13:55:11.912867",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-09-18T21:17:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T13:55:09Z"
 }

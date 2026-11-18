@@ -1,4 +1,6 @@
 {
+  "ETag": "\"b283ace30bf58f10b7f8892883ca218c7b12e21bb5e6131722f4f01b7e70af88\"",
+  "Last-Modified": "Wed, 18 Nov 2026 08:57:35 GMT",
   "base": {
     "repo": {
       "name": "eventio-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/eventio-feedstock/pull/50",
   "id": 5372890320,
-  "labels": [],
-  "last_fetched": "2026-11-18T08:56:34.380613",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2447413860,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNDQ3NDEzODYw",
+      "url": "https://api.github.com/repos/conda-forge/eventio-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T08:58:40.384112",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 50,
   "state": "open",
-  "updated_at": "2026-11-18T08:56:33Z"
+  "updated_at": "2026-11-18T08:58:08Z"
 }

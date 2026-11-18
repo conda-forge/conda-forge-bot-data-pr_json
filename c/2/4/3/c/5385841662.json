@@ -1,27 +1,29 @@
 {
+  "ETag": "\"22b9c224eda42996da2b88dc64a841e7224b6828c9bf532a522f4b1484e87462\"",
+  "Last-Modified": "Wed, 18 Nov 2026 23:27:45 GMT",
   "base": {
     "repo": {
       "name": "quacc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T23:27:42Z",
   "closed_by": null,
   "created_at": "2026-11-18T23:25:26Z",
   "draft": false,
   "e_tag": "\"ed60d7d6adebdbfee46bb8c2033b41b9dc97acb65d91385272c50fe1f0f084d9\"",
   "head": {
-    "ref": "1.10.0_h9fc970"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/quacc-feedstock/pull/89",
   "id": 5385841662,
   "labels": [],
-  "last_fetched": "2026-11-18T23:25:27.128561",
+  "last_fetched": "2026-11-18T23:29:04.837757",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T23:27:42Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-11-18T23:25:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T23:27:45Z"
 }

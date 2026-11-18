@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8af27f8d72cb9ce689c22763e17d9b3c444d545848310c2d94403c16ca4143c2\"",
-  "Last-Modified": "Tue, 17 Nov 2026 21:40:21 GMT",
+  "ETag": "W/\"ba01b309fd82bb6b9b9bef646d79ad089edb6d916e1baa609c3c493aaef96831\"",
+  "Last-Modified": "Wed, 18 Nov 2026 17:37:08 GMT",
   "base": {
     "repo": {
       "name": "libntlm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T17:37:08Z",
   "closed_by": null,
   "created_at": "2026-11-17T21:38:35Z",
   "draft": false,
   "e_tag": "\"54b8cabe0a627d7b7c1d3a3ebe753af4bc55dc7cce3efa62f0076bd9f21fa47a\"",
   "head": {
-    "ref": "bot-pr_riscv64_haa6a91"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libntlm-feedstock/pull/25",
   "id": 5365454818,
   "labels": [],
-  "last_fetched": "2026-11-18T01:57:27.704702",
+  "last_fetched": "2026-11-18T17:38:52.247632",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T17:37:08Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-11-17T21:40:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T17:37:08Z"
 }

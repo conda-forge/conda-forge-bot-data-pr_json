@@ -1,29 +1,29 @@
 {
-  "ETag": "\"846a63f5f48f70218522c88d4c53f467ecd246682ec1d1b86a8b7c8fac26d501\"",
-  "Last-Modified": "Wed, 18 Nov 2026 07:53:18 GMT",
+  "ETag": "\"822828993310f46091669688b15e9891e065265b80ddac972984e7baeb59d82f\"",
+  "Last-Modified": "Wed, 18 Nov 2026 17:36:52 GMT",
   "base": {
     "repo": {
       "name": "librealsense-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T17:36:52Z",
   "closed_by": null,
   "created_at": "2026-11-18T07:51:45Z",
   "draft": false,
   "e_tag": "\"67ed1e3acf3e90e6ed41c9392d15a9101c90d2bd50d6e6efc784f991f9b8ed36\"",
   "head": {
-    "ref": "rebuild-pybind11_abi12-0-1_h588a18"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/librealsense-feedstock/pull/95",
   "id": 5372070085,
   "labels": [],
-  "last_fetched": "2026-11-18T07:59:22.514109",
+  "last_fetched": "2026-11-18T17:38:43.889491",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T17:36:52Z",
   "number": 95,
-  "state": "open",
-  "updated_at": "2026-11-18T07:53:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T17:36:52Z"
 }

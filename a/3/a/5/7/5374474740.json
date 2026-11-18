@@ -1,29 +1,41 @@
 {
-  "ETag": "\"7ed540e5026dbf1496410071d2823bfe3f48e0f377029ac7e35d39867adac398\"",
-  "Last-Modified": "Wed, 18 Nov 2026 10:48:00 GMT",
+  "ETag": "\"a64bd737047be36fae82c680913cd6a1ef7c614eec79b1d3daec7003568d380b\"",
+  "Last-Modified": "Wed, 18 Nov 2026 14:56:26 GMT",
   "base": {
     "repo": {
       "name": "fsspec-data-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T14:56:21Z",
   "closed_by": null,
   "created_at": "2026-11-18T10:46:18Z",
   "draft": false,
   "e_tag": "\"8802b2bd6dca9d4351e4099f272a7f078ebe18b08a855643c87c9b9db72cf045\"",
   "head": {
-    "ref": "0.9.0_h87195f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fsspec-data-feedstock/pull/8",
   "id": 5374474740,
-  "labels": [],
-  "last_fetched": "2026-11-18T11:58:03.608621",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11831735512,
+      "name": "automerge",
+      "node_id": "LA_kwDOT4TBac8AAAACwTn02A",
+      "url": "https://api.github.com/repos/conda-forge/fsspec-data-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-18T14:56:49.440789",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T14:56:21Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-18T10:48:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T14:56:26Z"
 }

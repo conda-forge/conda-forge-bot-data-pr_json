@@ -1,27 +1,29 @@
 {
+  "ETag": "\"560e835734f0832269e8d3fddabaa0c5757cee6d04fa23446a9b6fa47be9ab83\"",
+  "Last-Modified": "Wed, 18 Nov 2026 08:44:29 GMT",
   "base": {
     "repo": {
       "name": "libnfs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T08:44:29Z",
   "closed_by": null,
   "created_at": "2026-11-18T07:22:24Z",
   "draft": false,
   "e_tag": "\"1cba1d3b744b2df3f9962925803ffe1b1546492c2fa7a4c6a430820acb853853\"",
   "head": {
-    "ref": "8.0.1_he1c856"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libnfs-feedstock/pull/6",
   "id": 5371705402,
   "labels": [],
-  "last_fetched": "2026-11-18T07:22:25.604020",
+  "last_fetched": "2026-11-18T08:46:00.039754",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T08:44:29Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-18T07:22:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T08:44:29Z"
 }

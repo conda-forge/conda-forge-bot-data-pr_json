@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1defb13dc026d268e34632ced006aac7ca936741dcf535f1f0321bca31f847d5\"",
-  "Last-Modified": "Wed, 18 Nov 2026 15:33:17 GMT",
+  "ETag": "\"d0465af611614fc85ca3a6babbc18b62051196238b29aba65971bc25eb7c81ab\"",
+  "Last-Modified": "Wed, 18 Nov 2026 18:26:10 GMT",
   "base": {
     "repo": {
       "name": "cwcwidth-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T18:26:10Z",
   "closed_by": null,
   "created_at": "2026-11-18T15:33:16Z",
   "draft": false,
   "e_tag": "\"2b2070783c2588e2be541b7cb945173c402f555fd8908a602575224adea8d19f\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_he3ce17"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cwcwidth-feedstock/pull/25",
   "id": 5378957067,
   "labels": [],
-  "last_fetched": "2026-11-18T17:42:55.827943",
+  "last_fetched": "2026-11-18T18:27:26.144427",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T18:26:10Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-11-18T15:35:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T18:26:10Z"
 }

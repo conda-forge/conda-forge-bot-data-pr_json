@@ -1,27 +1,29 @@
 {
+  "ETag": "\"749ad8cff54d133ae03cf2ab06acb19b9c0e74b00f48324f77e640232807846d\"",
+  "Last-Modified": "Wed, 18 Nov 2026 11:13:35 GMT",
   "base": {
     "repo": {
       "name": "goose-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T11:13:30Z",
   "closed_by": null,
   "created_at": "2026-11-18T09:53:38Z",
   "draft": false,
   "e_tag": "\"ec5714dd94459227d76a4581e43c84aaca05f2844967638bc14166743531566a\"",
   "head": {
-    "ref": "1.60.1_h3bfc20"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/goose-feedstock/pull/29",
   "id": 5373688581,
   "labels": [],
-  "last_fetched": "2026-11-18T09:53:39.916738",
+  "last_fetched": "2026-11-18T11:15:02.292063",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T11:13:30Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-11-18T09:53:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T11:13:35Z"
 }

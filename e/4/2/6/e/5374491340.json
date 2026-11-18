@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cabaaf57db7b61cdae364159d827656497917434e67ef50c935d399f938f4315\"",
+  "Last-Modified": "Wed, 18 Nov 2026 10:49:38 GMT",
   "base": {
     "repo": {
       "name": "langchain-openai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T10:49:34Z",
   "closed_by": null,
   "created_at": "2026-11-18T10:47:30Z",
   "draft": false,
   "e_tag": "\"7ae1d42419e7dd9293cfcf1c807944a3edb3e5dca01b6f3a0823ae2c5256c71d\"",
   "head": {
-    "ref": "1.8.1_h1ea02e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langchain-openai-feedstock/pull/130",
   "id": 5374491340,
   "labels": [],
-  "last_fetched": "2026-11-18T10:47:31.162013",
+  "last_fetched": "2026-11-18T10:51:07.068372",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T10:49:34Z",
   "number": 130,
-  "state": "open",
-  "updated_at": "2026-11-18T10:47:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T10:49:38Z"
 }

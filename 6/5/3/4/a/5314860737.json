@@ -1,29 +1,29 @@
 {
-  "ETag": "\"53c7217ec1794a686aa9f5589013554230ba2ab39a327d6fa3612d29794fac0e\"",
-  "Last-Modified": "Sat, 14 Nov 2026 18:35:53 GMT",
+  "ETag": "\"278c1160b01cb572c630c43192d49351724f833ce967ba36d7a52756964542db\"",
+  "Last-Modified": "Wed, 18 Nov 2026 20:59:35 GMT",
   "base": {
     "repo": {
       "name": "flet-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T20:59:35Z",
   "closed_by": null,
   "created_at": "2026-11-14T18:34:15Z",
   "draft": false,
   "e_tag": "\"bb0e7215ded9211ce776909e6bb9d2ce8ea8abc6570612aa932afddc2bfe8c5b\"",
   "head": {
-    "ref": "1.1.2_hfde748"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flet-cli-feedstock/pull/32",
   "id": 5314860737,
   "labels": [],
-  "last_fetched": "2026-11-14T20:29:04.202120",
+  "last_fetched": "2026-11-18T21:01:14.126457",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T20:59:35Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-11-14T18:35:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T20:59:35Z"
 }

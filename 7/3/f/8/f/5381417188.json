@@ -1,18 +1,18 @@
 {
-  "ETag": "\"0114679863282f17809a50073cab81df705d71dfcb3ef3a3c27da0f790635ab3\"",
-  "Last-Modified": "Wed, 18 Nov 2026 18:10:54 GMT",
+  "ETag": "\"9ad7cb8b66166a8be303f585f9c091e260621855ea9dc98b2b2fb9696462a461\"",
+  "Last-Modified": "Wed, 18 Nov 2026 20:21:53 GMT",
   "base": {
     "repo": {
       "name": "subversion-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T20:21:49Z",
   "closed_by": null,
   "created_at": "2026-11-18T18:05:25Z",
   "draft": false,
   "e_tag": "\"adae545c45fd1578dbe0d4cc9c1c37f9cda6fbba9e2725d7c6a49bb8dad37977\"",
   "head": {
-    "ref": "rebuild-libintl10-0-1_h3ab1b4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/subversion-feedstock/pull/45",
   "id": 5381417188,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/subversion-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-18T18:12:31.107613",
+  "last_fetched": "2026-11-18T20:23:00.006501",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T20:21:49Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-11-18T18:10:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T20:21:53Z"
 }

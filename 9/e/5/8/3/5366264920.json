@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f2a3c1fd6d3c976031ed65af8e23040fd222e2dc9fca05a6a81e609ce0fa23bb\"",
-  "Last-Modified": "Tue, 17 Nov 2026 22:40:11 GMT",
+  "ETag": "\"39e204b5e738c27a6a8ea788d82221bda014306a78a2963dbeb9f1fd460e5fe8\"",
+  "Last-Modified": "Wed, 18 Nov 2026 23:52:27 GMT",
   "base": {
     "repo": {
       "name": "apache-tvm-ffi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T23:52:27Z",
   "closed_by": null,
   "created_at": "2026-11-17T22:38:42Z",
   "draft": false,
   "e_tag": "\"1b85bed70e285d4cbc4cb5d1d3db1705b21c2872e5c9518691bdfe36deaf79c4\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h0d92a7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-tvm-ffi-feedstock/pull/34",
   "id": 5366264920,
   "labels": [],
-  "last_fetched": "2026-11-17T23:29:14.613460",
+  "last_fetched": "2026-11-18T23:54:08.242087",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-18T23:52:27Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-11-17T22:40:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T23:52:27Z"
 }

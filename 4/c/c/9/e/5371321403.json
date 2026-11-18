@@ -1,27 +1,29 @@
 {
+  "ETag": "\"850d65b388cf94dc3408b2f97e2c69ce938c8cd4f92edfbb96323ec78c0780a9\"",
+  "Last-Modified": "Wed, 18 Nov 2026 09:24:04 GMT",
   "base": {
     "repo": {
       "name": "codex-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-18T09:23:59Z",
   "closed_by": null,
   "created_at": "2026-11-18T06:48:37Z",
   "draft": false,
   "e_tag": "\"1329d2ff30fd167372536da1aeb0d24b1f079a61c073c689243c25b5e6c8a9a8\"",
   "head": {
-    "ref": "0.169.1_hbe1b3a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/codex-feedstock/pull/201",
   "id": 5371321403,
   "labels": [],
-  "last_fetched": "2026-11-18T06:48:38.482546",
+  "last_fetched": "2026-11-18T09:25:36.691307",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-18T09:23:59Z",
   "number": 201,
-  "state": "open",
-  "updated_at": "2026-11-18T06:48:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-18T09:24:04Z"
 }

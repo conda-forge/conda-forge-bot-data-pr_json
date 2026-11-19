@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7f0e82a69f1ebd0efa8ab5dedb1f6919b0f3e8894bf229d7e6d6d1c258c4b2a9\"",
+  "Last-Modified": "Thu, 19 Nov 2026 15:10:01 GMT",
   "base": {
     "repo": {
       "name": "pystormtracker-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T15:10:01Z",
   "closed_by": null,
   "created_at": "2026-11-19T12:35:52Z",
   "draft": false,
   "e_tag": "\"1b58cfa18dd207daf3ec55f3a4c612b2469fcfbf239553843b4e97df10558c5d\"",
   "head": {
-    "ref": "0.8.1_h75424f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pystormtracker-feedstock/pull/10",
   "id": 5395002593,
   "labels": [],
-  "last_fetched": "2026-11-19T12:35:53.297268",
+  "last_fetched": "2026-11-19T15:11:49.820400",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T15:10:01Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-19T12:35:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T15:10:01Z"
 }

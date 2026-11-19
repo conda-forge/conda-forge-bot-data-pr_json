@@ -1,29 +1,29 @@
 {
-  "ETag": "\"70084f8232508afefb489c1e87a45f1a5ba51f3ef64e21ecf743df7b8351f5c4\"",
-  "Last-Modified": "Thu, 19 Nov 2026 08:58:58 GMT",
+  "ETag": "\"da9519ea84c30109a1f647f8ba968dab1bb19ff8e3dd88e59d80a2997b4a9251\"",
+  "Last-Modified": "Thu, 19 Nov 2026 11:54:37 GMT",
   "base": {
     "repo": {
       "name": "lavue-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T11:54:37Z",
   "closed_by": null,
   "created_at": "2026-11-19T08:57:17Z",
   "draft": false,
   "e_tag": "\"8bcbf9110ea487c9b99fcde3fc4ecd8ef0e63ec45bfb4e7bcea92a8a5451dfe6\"",
   "head": {
-    "ref": "3.16.1_h1887e4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lavue-feedstock/pull/93",
   "id": 5391835717,
   "labels": [],
-  "last_fetched": "2026-11-19T11:28:39.146850",
+  "last_fetched": "2026-11-19T11:56:03.627079",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T11:54:37Z",
   "number": 93,
-  "state": "open",
-  "updated_at": "2026-11-19T08:58:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T11:54:37Z"
 }

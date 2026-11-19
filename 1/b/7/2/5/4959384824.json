@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a63dfacdc23cd8f444414c3d1b63f9f71371543af61b083606b140c74c7aa989\"",
-  "Last-Modified": "Thu, 19 Nov 2026 12:46:26 GMT",
+  "ETag": "W/\"268fd9364afedb7238b4148003bc5a9da593b71398eb699db27df18c81e5e6a6\"",
+  "Last-Modified": "Thu, 19 Nov 2026 12:46:23 GMT",
   "base": {
     "repo": {
       "name": "aws-crt-cpp-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/aws-crt-cpp-feedstock/pull/689",
   "id": 4959384824,
-  "labels": [],
-  "last_fetched": "2026-11-19T12:47:31.753188",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-19T12:46:26.736400",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 689,
   "state": "closed",
-  "updated_at": "2026-11-19T12:46:26Z"
+  "updated_at": "2026-11-19T12:46:23Z"
 }

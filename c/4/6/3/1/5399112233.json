@@ -1,27 +1,29 @@
 {
+  "ETag": "\"132ca14407f5ec3d293e71dbe8467acc2b92fd1fa7471db461d49aa6d6f23fa8\"",
+  "Last-Modified": "Thu, 19 Nov 2026 16:48:40 GMT",
   "base": {
     "repo": {
       "name": "django-tenants-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T16:48:40Z",
   "closed_by": null,
   "created_at": "2026-11-19T16:45:20Z",
   "draft": false,
   "e_tag": "\"7c451a71b239cc644213fec95b0e7ec221edbbb6e4685e8732b26c4bcbfefff7\"",
   "head": {
-    "ref": "4.0.7_he6d866"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-tenants-feedstock/pull/20",
   "id": 5399112233,
   "labels": [],
-  "last_fetched": "2026-11-19T16:45:21.853498",
+  "last_fetched": "2026-11-19T16:50:23.410860",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T16:48:40Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-19T16:45:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T16:48:45Z"
 }

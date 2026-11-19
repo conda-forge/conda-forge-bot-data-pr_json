@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a9fda86b7d04b557a2bf15db45bf6ef63d769d6e73c568c6cd938a06185c9db8\"",
-  "Last-Modified": "Thu, 19 Nov 2026 18:30:50 GMT",
+  "ETag": "\"b1e6b779b178f496e14866cddecf23dcc4c530b9dd0e864edf49e1ed7773d5c7\"",
+  "Last-Modified": "Thu, 19 Nov 2026 19:36:06 GMT",
   "base": {
     "repo": {
       "name": "pcmdi_metrics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T19:35:45Z",
   "closed_by": null,
   "created_at": "2026-11-18T04:14:41Z",
   "draft": false,
   "e_tag": "\"cd49ad3322c2271a6e21d7ec46d371f7914864ecef3e09c42f815305c39d5a87\"",
   "head": {
-    "ref": "4.2.2_h776468"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pcmdi_metrics-feedstock/pull/64",
   "id": 5369784954,
   "labels": [],
-  "last_fetched": "2026-11-19T18:43:20.086528",
+  "last_fetched": "2026-11-19T19:36:56.608342",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T19:35:45Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-11-19T18:30:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T19:36:06Z"
 }

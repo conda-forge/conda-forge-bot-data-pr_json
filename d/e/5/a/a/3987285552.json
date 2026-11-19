@@ -1,12 +1,13 @@
 {
-  "ETag": "\"a917570a754b4eee756d8ea962fb5c1d411ee8b835f4ae082dd06206507c05e4\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"228fba412d208c0768da9705f7d08ed6afc769a681c10678f6dd5a32447c788d\"",
+  "Last-Modified": "Thu, 19 Nov 2026 03:58:44 GMT",
   "base": {
     "repo": {
       "name": "dadi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T03:58:44Z",
+  "closed_by": "tjstruck",
   "created_at": "2026-07-03T16:22:55Z",
   "draft": false,
   "e_tag": "\"69da1fe6f98d69bceeaba5fbca84f3d8866adf603e8156dc21aa02758470c3f5\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/dadi-feedstock/pull/44",
   "id": 3987285552,
   "labels": [],
-  "last_fetched": "2026-11-18T20:59:10.524977",
+  "last_fetched": "2026-11-19T04:00:36.539281",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-07-03T16:24:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T03:58:44Z"
 }

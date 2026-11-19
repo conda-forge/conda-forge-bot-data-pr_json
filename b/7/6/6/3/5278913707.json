@@ -1,5 +1,5 @@
 {
-  "ETag": "\"2d9fa55c112adef520d5e98c030c17eb585084ee88ed4f61f212765e15ffd2e5\"",
+  "ETag": "\"566749df5a10be5220bc79b53d7d755b2491ac75f2da9853e5953b852a7dbb5e\"",
   "Last-Modified": "Thu, 12 Nov 2026 14:11:57 GMT",
   "base": {
     "repo": {
@@ -12,15 +12,19 @@
   "draft": false,
   "e_tag": "\"c0b51bb2700bdcaa90f2170a6c69b4a291d50bc4f5fe40ad115d404557e83ce6\"",
   "head": {
-    "ref": "7.0.1_h93b1cf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lalsimulation-feedstock/pull/86",
   "id": 5278913707,
-  "labels": [],
-  "last_fetched": "2026-11-12T19:27:37.407022",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-19T20:18:17.935802",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 86,

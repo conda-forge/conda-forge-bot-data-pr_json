@@ -1,29 +1,41 @@
 {
-  "ETag": "\"f703a10f0f32f0108ab307e33e4054d9b468954fa0493772620d5e1056b8a126\"",
-  "Last-Modified": "Thu, 19 Nov 2026 16:07:35 GMT",
+  "ETag": "\"3e342a0c4da6500177a88d04302a4fd6b47637b95885500de6f1fbf2676ba2e2\"",
+  "Last-Modified": "Thu, 19 Nov 2026 18:38:35 GMT",
   "base": {
     "repo": {
       "name": "fsspec-browser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T18:38:30Z",
   "closed_by": null,
   "created_at": "2026-11-19T09:46:37Z",
   "draft": false,
   "e_tag": "\"d45a9f2db2817a1e699f9746d508df36380c67476322d24f58cb4c131e60abea\"",
   "head": {
-    "ref": "0.5.1_h1f5f60"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fsspec-browser-feedstock/pull/4",
   "id": 5392519581,
-  "labels": [],
-  "last_fetched": "2026-11-19T16:58:41.570409",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11899769700,
+      "name": "automerge",
+      "node_id": "LA_kwDOT-v8A88AAAACxUgTZA",
+      "url": "https://api.github.com/repos/conda-forge/fsspec-browser-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-19T18:39:40.598314",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T18:38:30Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-19T16:07:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T18:38:35Z"
 }

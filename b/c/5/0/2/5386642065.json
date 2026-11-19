@@ -1,27 +1,29 @@
 {
+  "ETag": "\"679bf774ade32672b67f014d93d87d516a3299f599d4d718ee5e68d8bab30a8c\"",
+  "Last-Modified": "Thu, 19 Nov 2026 00:47:30 GMT",
   "base": {
     "repo": {
       "name": "sgqlc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T00:47:26Z",
   "closed_by": null,
   "created_at": "2026-11-19T00:43:50Z",
   "draft": false,
   "e_tag": "\"96a0e45a19e84da8a46fb766646138b186bd661bc460b894a1191f95c4cacbee\"",
   "head": {
-    "ref": "19_h0015ca"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sgqlc-feedstock/pull/16",
   "id": 5386642065,
   "labels": [],
-  "last_fetched": "2026-11-19T00:43:51.253834",
+  "last_fetched": "2026-11-19T00:48:54.820342",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T00:47:26Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-19T00:43:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T00:47:30Z"
 }

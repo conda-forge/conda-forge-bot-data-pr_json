@@ -1,28 +1,28 @@
 {
-  "ETag": "\"c57ca65adaf7a8c01fe9a3c4e481250cd3eabe29ad0876e2aba7b205b1401355\"",
-  "Last-Modified": "Sun, 27 Sep 2026 19:40:36 GMT",
+  "ETag": "\"0d5ec0f43025b1aeb407b15414954f47e7b7aea5280fda8fb54833737cfed2d2\"",
+  "Last-Modified": "Thu, 19 Nov 2026 12:18:57 GMT",
   "base": {
     "repo": {
       "name": "nsis-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T12:18:57Z",
   "created_at": "2026-09-27T19:38:49Z",
   "draft": false,
   "e_tag": "\"c18d59803e264e536a3c8f58dac891bfe56fd4c0998e4f43db4eda428003fa23\"",
   "head": {
-    "ref": "3.13_ha3cc3d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nsis-feedstock/pull/32",
   "id": 4656266068,
   "labels": [],
-  "last_fetched": "2026-11-16T17:43:58.847041",
+  "last_fetched": "2026-11-19T12:20:35.965035",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T12:18:56Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-09-27T19:40:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T12:18:57Z"
 }

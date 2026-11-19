@@ -1,29 +1,41 @@
 {
-  "ETag": "\"401c08ee673f1846751ba74875ddc654e230fdc039357b4ceff0f43244895e26\"",
-  "Last-Modified": "Thu, 19 Nov 2026 16:56:06 GMT",
+  "ETag": "\"ec73c0bb3c2b5d2b287360da403d6d306ba291f892b44c8047d41d41c7804307\"",
+  "Last-Modified": "Thu, 19 Nov 2026 17:22:46 GMT",
   "base": {
     "repo": {
       "name": "pdf2svg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T17:22:41Z",
   "closed_by": null,
   "created_at": "2026-11-11T05:59:01Z",
   "draft": false,
   "e_tag": "\"d05e2ed9adfa8dd4e32631cec16355196720d8c48c320b177552e0d5014e44d1\"",
   "head": {
-    "ref": "rebuild-poppler2611-0-1_h873122"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pdf2svg-feedstock/pull/52",
   "id": 5254637748,
-  "labels": [],
-  "last_fetched": "2026-11-19T16:57:35.081582",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891093896,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDkzODk2",
+      "url": "https://api.github.com/repos/conda-forge/pdf2svg-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-19T17:23:37.400485",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T17:22:41Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-11-19T16:56:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T17:22:46Z"
 }

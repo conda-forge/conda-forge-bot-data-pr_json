@@ -1,27 +1,29 @@
 {
+  "ETag": "\"88638c694b2b32332e37f271b62d528e0cf82b354ec73f5ddc69e2ce08bf7f02\"",
+  "Last-Modified": "Thu, 19 Nov 2026 12:45:24 GMT",
   "base": {
     "repo": {
       "name": "dremio-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T12:45:20Z",
   "closed_by": null,
   "created_at": "2026-11-19T12:43:31Z",
   "draft": false,
   "e_tag": "\"74c54b889a446e13e6ac594f1695babc5daee944bc37018b2ea54c5f72838bb0\"",
   "head": {
-    "ref": "2.1.4_h42f0ce"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dremio-cli-feedstock/pull/5",
   "id": 5395113516,
   "labels": [],
-  "last_fetched": "2026-11-19T12:43:32.195294",
+  "last_fetched": "2026-11-19T12:46:49.019278",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T12:45:20Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-19T12:43:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T12:45:24Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"70dce486f9bf2f510b2ce0a3765ba436a4a38384fdf40ddc8877ba4627075b01\"",
-  "Last-Modified": "Wed, 18 Nov 2026 07:28:30 GMT",
+  "ETag": "\"5d3f42b4d2a23af7be216e8e5d7d687a22b56914b568a3e580c1256fdd1bc6a7\"",
+  "Last-Modified": "Thu, 19 Nov 2026 11:01:06 GMT",
   "base": {
     "repo": {
       "name": "b2sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T11:01:05Z",
   "closed_by": null,
   "created_at": "2026-11-18T07:26:57Z",
   "draft": false,
   "e_tag": "\"77b57e52ff9377d60d5cb425b2d5e6e3fd095cee3218c2d1e11ceafb2e514066\"",
   "head": {
-    "ref": "2.13.5_hd6615b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/b2sdk-feedstock/pull/23",
   "id": 5371761643,
   "labels": [],
-  "last_fetched": "2026-11-18T09:19:29.212836",
+  "last_fetched": "2026-11-19T11:02:26.241497",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T11:01:05Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-18T07:28:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T11:01:06Z"
 }

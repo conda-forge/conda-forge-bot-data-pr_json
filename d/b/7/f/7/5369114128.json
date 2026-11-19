@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ee012f5872781f1bc17532a9d54a3a5256a86d5bca1a35e3a0486c0e38aa093e\"",
-  "Last-Modified": "Wed, 18 Nov 2026 18:18:36 GMT",
+  "ETag": "\"511e48d48d96ae5b7bd9da310daa8d2b0bcf000784bef135eba6d70d9dff5cb7\"",
+  "Last-Modified": "Thu, 19 Nov 2026 20:14:35 GMT",
   "base": {
     "repo": {
       "name": "xpystac-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T20:14:35Z",
   "closed_by": null,
   "created_at": "2026-11-18T03:04:02Z",
   "draft": false,
   "e_tag": "\"c859b06c7b8f84eb35952a08ce8c962a3ae637d959a6b7fb727fadf3488d1d75\"",
   "head": {
-    "ref": "0.6.0_h7a1d32"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xpystac-feedstock/pull/7",
   "id": 5369114128,
   "labels": [],
-  "last_fetched": "2026-11-18T19:14:42.196994",
+  "last_fetched": "2026-11-19T20:15:53.133906",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T20:14:35Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-18T18:18:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T20:14:35Z"
 }

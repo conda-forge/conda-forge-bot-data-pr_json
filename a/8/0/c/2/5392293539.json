@@ -1,29 +1,29 @@
 {
-  "ETag": "\"392287b0af849227c0f1327a83601667124e5f7562c40ea2b50dd9f5c0d7ec14\"",
-  "Last-Modified": "Thu, 19 Nov 2026 09:32:00 GMT",
+  "ETag": "\"eb8cd1d025981de20c5380e165e4621bff7afab4d9e18dea0a160deccece70ec\"",
+  "Last-Modified": "Thu, 19 Nov 2026 15:05:24 GMT",
   "base": {
     "repo": {
       "name": "facebook_business-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T15:05:23Z",
   "closed_by": null,
   "created_at": "2026-11-19T09:30:18Z",
   "draft": false,
   "e_tag": "\"a8933a225d09283609ac9a259a000776d49436082231f3a5efd31360ecd2f155\"",
   "head": {
-    "ref": "27.0.0_h420e31"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/facebook_business-feedstock/pull/38",
   "id": 5392293539,
   "labels": [],
-  "last_fetched": "2026-11-19T09:58:49.679776",
+  "last_fetched": "2026-11-19T15:06:30.131657",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T15:05:23Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-19T09:32:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T15:05:24Z"
 }

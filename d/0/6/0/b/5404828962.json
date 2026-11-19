@@ -1,27 +1,29 @@
 {
+  "ETag": "\"98ce7f45af9eea443fe0ee7519a642e585487260086325582aac3234936cb3ce\"",
+  "Last-Modified": "Thu, 19 Nov 2026 23:37:21 GMT",
   "base": {
     "repo": {
       "name": "inspect-swe-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T23:37:21Z",
   "closed_by": null,
   "created_at": "2026-11-19T23:35:07Z",
   "draft": false,
   "e_tag": "\"9440e29977372235ca1b39f069a933e848dff00268716197c02a66f5060331ee\"",
   "head": {
-    "ref": "0.3.2_h1e2d5c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/inspect-swe-feedstock/pull/8",
   "id": 5404828962,
   "labels": [],
-  "last_fetched": "2026-11-19T23:35:08.153517",
+  "last_fetched": "2026-11-19T23:38:55.986972",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T23:37:21Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-19T23:35:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T23:37:25Z"
 }

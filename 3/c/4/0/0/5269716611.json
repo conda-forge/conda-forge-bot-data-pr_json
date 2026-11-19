@@ -1,13 +1,13 @@
 {
-  "ETag": "\"95426ac636d8c390e9936991bac567afacf5f830f92f739aeb613003173dbbd4\"",
-  "Last-Modified": "Thu, 12 Nov 2026 01:39:46 GMT",
+  "ETag": "W/\"9ac65c1f99461a585006c9d6a99b9e9567628fa07ed5164459ed2f08093f858f\"",
+  "Last-Modified": "Thu, 19 Nov 2026 03:13:13 GMT",
   "base": {
     "repo": {
       "name": "citeproc-py-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-19T03:13:13Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-12T01:37:56Z",
   "draft": false,
   "e_tag": "\"8d47e52881384565e13c105aa77c24515b98a1d534109fe020a295f2e8c30a97\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/citeproc-py-feedstock/pull/37",
   "id": 5269716611,
-  "labels": [],
-  "last_fetched": "2026-11-12T05:59:24.130687",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3939466317,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOHBSnxs7qz3xN",
+      "url": "https://api.github.com/repos/conda-forge/citeproc-py-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-19T03:13:16.357682",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-11-12T01:39:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T03:13:13Z"
 }

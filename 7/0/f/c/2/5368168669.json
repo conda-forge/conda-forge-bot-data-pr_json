@@ -1,29 +1,29 @@
 {
-  "ETag": "\"84521f264290cebb6036b2de3e75cd2fa509948f0433c039ddd2d2705e05dd10\"",
-  "Last-Modified": "Wed, 18 Nov 2026 01:31:26 GMT",
+  "ETag": "\"093635242888d62e96f7fe9f46b4063e9971c427a5239c10c3934c22f1f2495f\"",
+  "Last-Modified": "Thu, 19 Nov 2026 07:20:12 GMT",
   "base": {
     "repo": {
       "name": "ocp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T07:20:12Z",
   "closed_by": null,
   "created_at": "2026-11-18T01:29:56Z",
   "draft": false,
   "e_tag": "\"4729f870677f8677959bfff71e98e234c810a9fe4d9ef482f7f966a456e35cc9\"",
   "head": {
-    "ref": "rebuild-pybind11_abi12-0-1_h90fefb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ocp-feedstock/pull/100",
   "id": 5368168669,
   "labels": [],
-  "last_fetched": "2026-11-18T04:30:15.775542",
+  "last_fetched": "2026-11-19T07:21:48.321334",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T07:20:12Z",
   "number": 100,
-  "state": "open",
-  "updated_at": "2026-11-18T01:31:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T07:20:12Z"
 }

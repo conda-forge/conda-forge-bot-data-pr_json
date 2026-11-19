@@ -1,12 +1,13 @@
 {
-  "ETag": "\"b8c5595f12306636fc32b79cb8737851e75e60f8a4974352b0501cfb07e435e7\"",
-  "Last-Modified": "Thu, 13 Aug 2026 10:10:41 GMT",
+  "ETag": "\"60ea62c83f66e7a33b0a28f6350dc92bbb92cb9604ee816672b1079f742a57f4\"",
+  "Last-Modified": "Thu, 19 Nov 2026 00:25:12 GMT",
   "base": {
     "repo": {
       "name": "openjdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T00:25:11Z",
+  "closed_by": "h-vetinari",
   "created_at": "2026-08-13T10:08:50Z",
   "draft": false,
   "e_tag": "\"e89ca9fa47a49906955d4a8733e13cf77ec090b7015873f07d6ff726c922586b\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/openjdk-feedstock/pull/224",
   "id": 4270094765,
   "labels": [],
-  "last_fetched": "2026-11-14T11:44:02.592337",
+  "last_fetched": "2026-11-19T00:26:26.471366",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 224,
-  "state": "open",
-  "updated_at": "2026-08-13T10:10:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T00:25:12Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3081ce353a75ccff83a9b5c22c3558e80b458185fd103f89de22ea50f8fff42c\"",
-  "Last-Modified": "Thu, 19 Nov 2026 03:23:20 GMT",
+  "ETag": "\"3e64500df47cf3bce1802aa263db8445a4e2b342ea05d47dfafd6a50a63d06a1\"",
+  "Last-Modified": "Thu, 19 Nov 2026 17:36:58 GMT",
   "base": {
     "repo": {
       "name": "pytest-services-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T17:36:58Z",
   "closed_by": null,
   "created_at": "2026-11-19T03:21:41Z",
   "draft": false,
   "e_tag": "\"6c07eff9a4b510c6c5475f90fa672d348005eaa9af5253deed63763d8dd001ee\"",
   "head": {
-    "ref": "2.3.0_h27f941"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytest-services-feedstock/pull/13",
   "id": 5388203719,
   "labels": [],
-  "last_fetched": "2026-11-19T05:58:17.398582",
+  "last_fetched": "2026-11-19T17:38:19.312403",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T17:36:58Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-19T03:23:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T17:36:58Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0da967a19e77f4f269e3b260760d4276f98171f345f0794e5e518ccc9bba4913\"",
-  "Last-Modified": "Thu, 19 Nov 2026 01:05:21 GMT",
+  "ETag": "\"64402419c7286f354d8fde17a991980eb48b8cf227418391e592c95070be30e4\"",
+  "Last-Modified": "Thu, 19 Nov 2026 08:03:28 GMT",
   "base": {
     "repo": {
       "name": "openmodelica-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T08:03:28Z",
   "closed_by": null,
   "created_at": "2026-11-19T01:03:58Z",
   "draft": false,
   "e_tag": "\"ee58e2e312cd6732c00ff4690cc3896e3386dcb2c6930df92aaa07d17f1b3322\"",
   "head": {
-    "ref": "rebuild-libintl10-0-1_h437524"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openmodelica-feedstock/pull/31",
   "id": 5386860307,
   "labels": [],
-  "last_fetched": "2026-11-19T05:27:44.081966",
+  "last_fetched": "2026-11-19T08:04:36.339157",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T08:03:28Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-19T01:05:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T08:03:28Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7b8a2b5426d70cd0c20eff368b78c4fe7d8396f314c29f503d5faeeedf1e8f60\"",
-  "Last-Modified": "Thu, 19 Nov 2026 16:53:45 GMT",
+  "ETag": "\"e5811ab8481db6341e78205d2a382ebd94f28b694a16f136d434b12a6cf3a272\"",
+  "Last-Modified": "Thu, 19 Nov 2026 18:22:17 GMT",
   "base": {
     "repo": {
       "name": "spider_cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T18:22:12Z",
   "closed_by": null,
   "created_at": "2026-11-19T16:52:08Z",
   "draft": false,
   "e_tag": "\"36a1020db205d1a42414884a93a84bf0fa7e4ca0a48cc808383160899d3e8220\"",
   "head": {
-    "ref": "2.54.1_hced06a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spider_cli-feedstock/pull/14",
   "id": 5399222388,
   "labels": [],
-  "last_fetched": "2026-11-19T17:29:46.284712",
+  "last_fetched": "2026-11-19T18:23:23.240181",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T18:22:12Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-19T16:53:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T18:22:17Z"
 }

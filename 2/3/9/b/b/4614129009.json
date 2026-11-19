@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d2ae7e5d35a708f4f53741cf9067f7771b72b3bfdf649b4e8133c090652fd6ef\"",
-  "Last-Modified": "Thu, 19 Nov 2026 20:58:29 GMT",
+  "ETag": "W/\"1ba189384ffad3e3b366eb471f5c23949235408dca9d50136940e096d20f8d3b\"",
+  "Last-Modified": "Thu, 19 Nov 2026 20:58:26 GMT",
   "base": {
     "repo": {
       "name": "tornado-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/tornado-feedstock/pull/87",
   "id": 4614129009,
-  "labels": [],
-  "last_fetched": "2026-11-19T20:59:38.330070",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-19T20:58:29.388609",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 87,
   "state": "closed",
-  "updated_at": "2026-11-19T20:58:29Z"
+  "updated_at": "2026-11-19T20:58:26Z"
 }

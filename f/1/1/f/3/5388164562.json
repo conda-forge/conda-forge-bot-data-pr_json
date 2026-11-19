@@ -1,27 +1,29 @@
 {
+  "ETag": "\"b32df4fbdcd8d47849779006eee7123544133e6c9f3cbea1f7d099df3f9632bd\"",
+  "Last-Modified": "Thu, 19 Nov 2026 03:26:27 GMT",
   "base": {
     "repo": {
       "name": "tgrep-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T03:26:22Z",
   "closed_by": null,
   "created_at": "2026-11-19T03:17:26Z",
   "draft": false,
   "e_tag": "\"a5016ad11f772d477f5a4f9da50589e1b166f95772b6960d62bc7b1e9d570901\"",
   "head": {
-    "ref": "1.2.8_hfb3cb9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tgrep-feedstock/pull/14",
   "id": 5388164562,
   "labels": [],
-  "last_fetched": "2026-11-19T03:17:27.768047",
+  "last_fetched": "2026-11-19T03:27:38.349292",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T03:26:22Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-19T03:17:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T03:26:27Z"
 }

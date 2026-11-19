@@ -1,27 +1,29 @@
 {
+  "ETag": "\"9bbb773287adf5aaf18da7a2e022f0bb5744a8bf95cb0b516735f536430f1615\"",
+  "Last-Modified": "Thu, 19 Nov 2026 13:24:16 GMT",
   "base": {
     "repo": {
       "name": "nspr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T13:24:16Z",
   "closed_by": null,
   "created_at": "2026-11-19T13:01:20Z",
   "draft": false,
   "e_tag": "\"48940f3205bf51c52ea236fb9eacf485d02abf882aaf5a87fa754289a0780955\"",
   "head": {
-    "ref": "4.41_h294eaa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nspr-feedstock/pull/37",
   "id": 5395389130,
   "labels": [],
-  "last_fetched": "2026-11-19T13:01:21.687510",
+  "last_fetched": "2026-11-19T13:25:45.573202",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T13:24:16Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-11-19T13:01:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T13:24:20Z"
 }

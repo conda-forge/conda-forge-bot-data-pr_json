@@ -1,13 +1,13 @@
 {
-  "ETag": "\"32a53dbc44dc3c040ca7a03ea3467ca9eb55ab5c0234ace8eca319ddd3d11d56\"",
-  "Last-Modified": "Wed, 14 Oct 2026 22:36:19 GMT",
+  "ETag": "W/\"d43b030e682d7a66a96d1b5d076724a2011b0de3753ab570ba870c1b7de416b5\"",
+  "Last-Modified": "Thu, 19 Nov 2026 08:58:42 GMT",
   "base": {
     "repo": {
       "name": "imagemagick-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-19T08:58:42Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-14T22:14:45Z",
   "draft": false,
   "e_tag": "\"5f818f668f81c9038f86fd0f213a1df6d8663f8eae022c5e97b4cd9565d95dea\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/imagemagick-feedstock/pull/393",
   "id": 4865303268,
-  "labels": [],
-  "last_fetched": "2026-11-12T08:31:38.835335",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-19T08:58:45.553470",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 393,
-  "state": "open",
-  "updated_at": "2026-10-14T22:36:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T08:58:42Z"
 }

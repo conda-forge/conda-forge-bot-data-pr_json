@@ -1,13 +1,13 @@
 {
-  "ETag": "\"199a950ac98428f1c82c3ef842cef31df81cf86c83e2996484914d701fff390a\"",
-  "Last-Modified": "Thu, 12 Nov 2026 06:22:45 GMT",
+  "ETag": "\"0aecf7593a4bc372f0daa76885e2eb3e384e1e5c3ad30a9422c7b4f29ae38df8\"",
+  "Last-Modified": "Thu, 19 Nov 2026 11:27:01 GMT",
   "base": {
     "repo": {
       "name": "redis-dict-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-19T11:26:59Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-12T06:21:15Z",
   "draft": false,
   "e_tag": "\"32646a606b5e072c63496b871f8ba7317ee95bad6167b337bcea4259871eb73f\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/redis-dict-feedstock/pull/25",
   "id": 5272623879,
   "labels": [],
-  "last_fetched": "2026-11-12T09:00:24.044490",
+  "last_fetched": "2026-11-19T11:28:28.041594",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-11-12T06:22:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T11:27:01Z"
 }

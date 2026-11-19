@@ -1,28 +1,28 @@
 {
-  "ETag": "\"79d467a19bbada2eb81d0f785b859dceee2c2746789e3f7e940903f1d339567b\"",
-  "Last-Modified": "Thu, 19 Nov 2026 04:23:49 GMT",
+  "ETag": "\"0cb5dee5cd3ef0f91b0471341efa9013cb63b965d78ab9a5e86d9876512d239c\"",
+  "Last-Modified": "Thu, 19 Nov 2026 04:40:45 GMT",
   "base": {
     "repo": {
       "name": "lfric_reader-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T04:40:45Z",
   "created_at": "2026-09-30T15:14:11Z",
   "draft": false,
   "e_tag": "\"9c7879bf3a966bc7d57046e391bb02dc28c5a163852fa5db2d313cd4fc6e90bd\"",
   "head": {
-    "ref": "rebuild-vtk970-0-1_h2e46d4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lfric_reader-feedstock/pull/31",
   "id": 4692388607,
   "labels": [],
-  "last_fetched": "2026-11-19T04:29:14.464421",
+  "last_fetched": "2026-11-19T04:42:10.390469",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T04:40:45Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-19T04:23:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T04:40:45Z"
 }

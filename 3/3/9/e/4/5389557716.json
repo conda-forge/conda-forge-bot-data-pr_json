@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1b93ead919ecaf7864511dda0e7f93271c8bfc1406f66a396ab2a4fb816c6cc5\"",
-  "Last-Modified": "Thu, 19 Nov 2026 05:47:34 GMT",
+  "ETag": "\"75d5d25a78626a5e065addb736fb899812f8980c6e441be05a3ce87c02910891\"",
+  "Last-Modified": "Thu, 19 Nov 2026 14:07:13 GMT",
   "base": {
     "repo": {
       "name": "pycontrails-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T14:07:13Z",
   "closed_by": null,
   "created_at": "2026-11-19T05:45:53Z",
   "draft": false,
   "e_tag": "\"6cb3cccf0b9e1d3184154d51aa8093fbbfa50785e7ea49fe04b1ac16a6e3a015\"",
   "head": {
-    "ref": "0.66.1_h377a27"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pycontrails-feedstock/pull/45",
   "id": 5389557716,
   "labels": [],
-  "last_fetched": "2026-11-19T05:57:46.001211",
+  "last_fetched": "2026-11-19T14:08:20.432299",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T14:07:13Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-11-19T05:47:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T14:07:13Z"
 }

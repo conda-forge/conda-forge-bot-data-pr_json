@@ -1,27 +1,29 @@
 {
+  "ETag": "\"641026a95176c7bddb940a90bf3e42e8051f006928cf51413192df8e9732b6c0\"",
+  "Last-Modified": "Thu, 19 Nov 2026 03:29:04 GMT",
   "base": {
     "repo": {
       "name": "kern-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T03:28:59Z",
   "closed_by": null,
   "created_at": "2026-11-19T03:26:31Z",
   "draft": false,
   "e_tag": "\"18164c8d6ac00e9ef13da4739fc7ec0d0976fb95c2ee8c8a4c948db004ad5982\"",
   "head": {
-    "ref": "0.51.3_h1cd5c8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kern-feedstock/pull/22",
   "id": 5388248281,
   "labels": [],
-  "last_fetched": "2026-11-19T03:26:31.891765",
+  "last_fetched": "2026-11-19T03:30:20.611351",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T03:28:59Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-19T03:26:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T03:29:04Z"
 }

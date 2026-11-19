@@ -1,28 +1,28 @@
 {
-  "ETag": "\"31977a2e6177a508fa1a30496c64982e6fc4036b52e77130544bf684195fdcf1\"",
-  "Last-Modified": "Thu, 19 Nov 2026 12:56:34 GMT",
+  "ETag": "\"dbca968e8a83213b6fd672546223804a0b1031fe1d777fa899b46330636f1412\"",
+  "Last-Modified": "Thu, 19 Nov 2026 13:00:21 GMT",
   "base": {
     "repo": {
       "name": "optiwindnet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T13:00:21Z",
   "created_at": "2026-10-12T18:36:13Z",
   "draft": false,
   "e_tag": "\"b282443d517f0b1b0f0bb6869d0e657f22df238137eeb9bd3f0b4c6c92be07cd\"",
   "head": {
-    "ref": "0.3.2_ha6bb86"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/optiwindnet-feedstock/pull/18",
   "id": 4833525070,
   "labels": [],
-  "last_fetched": "2026-11-19T12:58:02.858546",
+  "last_fetched": "2026-11-19T13:01:52.701749",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T13:00:21Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-19T12:56:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T13:00:21Z"
 }

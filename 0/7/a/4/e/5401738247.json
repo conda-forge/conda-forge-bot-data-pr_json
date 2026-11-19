@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e4309db9283f9047730cb33e00e5f67bc600cbf5721259ac8aa55e88d7e9fe08\"",
+  "Last-Modified": "Thu, 19 Nov 2026 20:02:33 GMT",
   "base": {
     "repo": {
       "name": "pytransit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T20:02:33Z",
   "closed_by": null,
   "created_at": "2026-11-19T19:42:16Z",
   "draft": false,
   "e_tag": "\"4b9dc3b2fd9174cc66e9dfab73c5e066a2e88ffcb4c6777fb26100d64fa8f7f1\"",
   "head": {
-    "ref": "2.11.0_hd2a7ee"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pytransit-feedstock/pull/18",
   "id": 5401738247,
   "labels": [],
-  "last_fetched": "2026-11-19T19:42:17.142653",
+  "last_fetched": "2026-11-19T20:03:59.608373",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T20:02:33Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-19T19:42:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T20:02:33Z"
 }

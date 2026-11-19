@@ -1,13 +1,13 @@
 {
-  "ETag": "\"2e2825fbd29070d3cddb6139cc178d7ea79c41982c3c1e66f5586d0168ed4329\"",
-  "Last-Modified": "Wed, 18 Nov 2026 21:24:05 GMT",
+  "ETag": "\"36d25c19ba08818cd2a880863322320cc1bf83594a4284ff93a4212c15206ab5\"",
+  "Last-Modified": "Thu, 19 Nov 2026 07:03:10 GMT",
   "base": {
     "repo": {
       "name": "nginx-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-19T07:03:10Z",
+  "closed_by": "wolfv",
   "created_at": "2026-11-18T21:22:25Z",
   "draft": false,
   "e_tag": "\"623ccd162aed708a1fc9747153a0be76f10aa399c29ef25f6c574870bdf048ac\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/nginx-feedstock/pull/118",
   "id": 5384319883,
   "labels": [],
-  "last_fetched": "2026-11-18T22:58:57.219049",
+  "last_fetched": "2026-11-19T07:04:48.294048",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 118,
-  "state": "open",
-  "updated_at": "2026-11-18T21:24:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T07:03:10Z"
 }

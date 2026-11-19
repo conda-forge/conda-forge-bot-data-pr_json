@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c0adea651863e236e7a29e990b2b76ea847b40e258dd8f2f12575efcbe941ef3\"",
+  "Last-Modified": "Thu, 19 Nov 2026 10:00:28 GMT",
   "base": {
     "repo": {
       "name": "cotengra-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T10:00:24Z",
   "closed_by": null,
   "created_at": "2026-11-19T09:56:35Z",
   "draft": false,
   "e_tag": "\"94ea11034ec872c5a50319cb087f244f031dd0cb2f69aac10cf62101b7e48aeb\"",
   "head": {
-    "ref": "0.8.4_hd3a030"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cotengra-feedstock/pull/25",
   "id": 5392658700,
   "labels": [],
-  "last_fetched": "2026-11-19T09:56:35.793499",
+  "last_fetched": "2026-11-19T10:01:32.818628",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T10:00:24Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-11-19T09:56:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T10:00:28Z"
 }

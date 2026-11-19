@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d68f832ca2154abe8f270235de9a81b8500ea540f0c876bd52824f76f109c260\"",
+  "Last-Modified": "Thu, 19 Nov 2026 06:44:04 GMT",
   "base": {
     "repo": {
       "name": "pymseed-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T06:44:00Z",
   "closed_by": null,
   "created_at": "2026-11-19T06:36:42Z",
   "draft": false,
   "e_tag": "\"94d97fffd230fd2a589264cb1a27417152e5b18f1337b6ea813a54316a99858c\"",
   "head": {
-    "ref": "1.1.0_hf18398"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pymseed-feedstock/pull/12",
   "id": 5390115860,
   "labels": [],
-  "last_fetched": "2026-11-19T06:36:43.245234",
+  "last_fetched": "2026-11-19T06:45:37.300923",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T06:44:00Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-19T06:36:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T06:44:04Z"
 }

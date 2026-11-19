@@ -1,6 +1,6 @@
 {
-  "ETag": "\"64c344c685d9b0daf5031e14ef23a25b059cbe5e42e9e7eb4905347b8501a0df\"",
-  "Last-Modified": "Thu, 19 Nov 2026 22:21:05 GMT",
+  "ETag": "\"efa1e25cfd3b7de764dabbbf622509ecca7181620322958acab1a1ee10be3739\"",
+  "Last-Modified": "Thu, 19 Nov 2026 22:29:16 GMT",
   "base": {
     "repo": {
       "name": "outlines-core-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/outlines-core-feedstock/pull/16",
   "id": 5393080578,
-  "labels": [],
-  "last_fetched": "2026-11-19T22:22:16.583030",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8027043303,
+      "name": "automerge",
+      "node_id": "LA_kwDONspP4s8AAAAB3nL15w",
+      "url": "https://api.github.com/repos/conda-forge/outlines-core-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-19T22:30:35.300337",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 16,
   "state": "open",
-  "updated_at": "2026-11-19T22:21:05Z"
+  "updated_at": "2026-11-19T22:29:16Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"e0f2d9ce28f8b378bfedfacd1fb8cd04b489d00b2195465ec613abd1e36c5ea6\"",
-  "Last-Modified": "Thu, 19 Nov 2026 21:32:26 GMT",
+  "ETag": "\"edc3657f5f51376f737e6f990c5e56da26c2450ad64b925dae70c57f3a7562de\"",
+  "Last-Modified": "Thu, 19 Nov 2026 21:42:53 GMT",
   "base": {
     "repo": {
       "name": "php-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T21:42:41Z",
   "closed_by": null,
   "created_at": "2026-11-19T20:45:11Z",
   "draft": false,
   "e_tag": "\"8e463f43e83181afe90d2c6e1971d968f564dbe9c4832531ed557cd1b2deecc7\"",
   "head": {
-    "ref": "rebuild-libintl10-0-1_hf0c817"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/php-feedstock/pull/142",
   "id": 5402670059,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/php-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-19T21:33:44.842198",
+  "last_fetched": "2026-11-19T21:43:50.858356",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T21:42:41Z",
   "number": 142,
-  "state": "open",
-  "updated_at": "2026-11-19T21:32:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T21:42:53Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"2681ef6aa65def6100104885e0f043ed418e57ef3567502850f3ed74f3d9ccb3\"",
-  "Last-Modified": "Wed, 18 Nov 2026 23:52:53 GMT",
+  "ETag": "\"9878e771bef56abf8a59b0c866bfb3196e23675ffde40aafff009da909e09b9e\"",
+  "Last-Modified": "Thu, 19 Nov 2026 10:17:07 GMT",
   "base": {
     "repo": {
       "name": "skyllh-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T10:17:07Z",
   "closed_by": null,
   "created_at": "2026-11-18T23:51:20Z",
   "draft": false,
   "e_tag": "\"c1acfd1684f3c6b9c5257fe924bf453af033296ff3d9258eb44311d1b92bd53f\"",
   "head": {
-    "ref": "26.2.0_hcbc751"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/skyllh-feedstock/pull/6",
   "id": 5386117557,
   "labels": [],
-  "last_fetched": "2026-11-19T04:43:26.813272",
+  "last_fetched": "2026-11-19T10:18:32.608477",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T10:17:07Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-18T23:52:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T10:17:07Z"
 }

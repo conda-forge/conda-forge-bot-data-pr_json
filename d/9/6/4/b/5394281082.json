@@ -1,4 +1,6 @@
 {
+  "ETag": "\"14067deb4d9951e5ade463d3b171c237ed9bed483019b97adc609736a1781e37\"",
+  "Last-Modified": "Thu, 19 Nov 2026 11:49:35 GMT",
   "base": {
     "repo": {
       "name": "zeroconf-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/zeroconf-feedstock/pull/137",
   "id": 5394281082,
-  "labels": [],
-  "last_fetched": "2026-11-19T11:47:40.427459",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891502294,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNTAyMjk0",
+      "url": "https://api.github.com/repos/conda-forge/zeroconf-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-19T11:50:59.812982",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 137,
   "state": "open",
-  "updated_at": "2026-11-19T11:47:39Z"
+  "updated_at": "2026-11-19T11:49:35Z"
 }

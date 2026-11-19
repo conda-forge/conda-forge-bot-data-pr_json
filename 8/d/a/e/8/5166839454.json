@@ -1,6 +1,6 @@
 {
-  "ETag": "\"f8635d13fafa3f8134bf9c90d8e1e74fdf319f08dd91ea1e0f3cd3d916e95923\"",
-  "Last-Modified": "Thu, 19 Nov 2026 20:28:45 GMT",
+  "ETag": "W/\"a3980f5f535c764b170673899b975434729b444a5fe084df93435639ab3bb8ee\"",
+  "Last-Modified": "Thu, 19 Nov 2026 20:28:43 GMT",
   "base": {
     "repo": {
       "name": "trilinos-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/trilinos-feedstock/pull/88",
   "id": 5166839454,
-  "labels": [],
-  "last_fetched": "2026-11-19T20:30:17.631798",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-19T20:28:46.569798",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 88,
   "state": "closed",
-  "updated_at": "2026-11-19T20:28:45Z"
+  "updated_at": "2026-11-19T20:28:43Z"
 }

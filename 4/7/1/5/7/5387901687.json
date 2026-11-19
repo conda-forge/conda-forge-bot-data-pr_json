@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d8ce741ac0b91f2fb858c94cf539e4f8681e298949f6d687aeabd0026a6db64a\"",
-  "Last-Modified": "Thu, 19 Nov 2026 02:51:30 GMT",
+  "ETag": "\"9aaf01c616e8daa01ab47d8bcf11aacf858f4ccc64e3c2027de49d4e42304e8e\"",
+  "Last-Modified": "Thu, 19 Nov 2026 15:43:15 GMT",
   "base": {
     "repo": {
       "name": "sysloss-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T15:43:15Z",
   "closed_by": null,
   "created_at": "2026-11-19T02:51:29Z",
   "draft": false,
   "e_tag": "\"d513ee4db23015fce7f4226efa625515c8c2a1d3c6322779e597845e348ac31f\"",
   "head": {
-    "ref": "1.10.1_ha9d2fb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sysloss-feedstock/pull/13",
   "id": 5387901687,
   "labels": [],
-  "last_fetched": "2026-11-19T02:58:31.414652",
+  "last_fetched": "2026-11-19T15:44:22.689808",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T15:43:15Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-19T02:53:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T15:43:15Z"
 }

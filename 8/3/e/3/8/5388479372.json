@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dcec3083989bef2e38091baf47654a8d4c41445f1e72eb3b9f7ef95f2e52b079\"",
+  "Last-Modified": "Thu, 19 Nov 2026 04:10:37 GMT",
   "base": {
     "repo": {
       "name": "sprocket-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T04:10:33Z",
   "closed_by": null,
   "created_at": "2026-11-19T03:51:35Z",
   "draft": false,
   "e_tag": "\"bc4407337430cf7ee5e0fa1dd4e35bdc33e1652b47bc8ae0b785a10fc82143ab\"",
   "head": {
-    "ref": "0.34.1_hb763de"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sprocket-feedstock/pull/46",
   "id": 5388479372,
   "labels": [],
-  "last_fetched": "2026-11-19T03:51:35.753481",
+  "last_fetched": "2026-11-19T04:12:01.696797",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T04:10:33Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-11-19T03:51:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T04:10:37Z"
 }

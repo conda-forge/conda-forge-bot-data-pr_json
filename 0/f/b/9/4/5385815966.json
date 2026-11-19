@@ -1,6 +1,6 @@
 {
-  "ETag": "\"ae44c70320e3d4d6e07dc5f556f1c93d274a0e6c1bb1b3602c9a99cc5c062fba\"",
-  "Last-Modified": "Thu, 19 Nov 2026 05:09:14 GMT",
+  "ETag": "\"bbe4aa982f0ec2692256632bd3d74f7864424155e2b5cea93b1038d1b3b6d68e\"",
+  "Last-Modified": "Thu, 19 Nov 2026 14:41:20 GMT",
   "base": {
     "repo": {
       "name": "awkward-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/awkward-feedstock/pull/183",
   "id": 5385815966,
-  "labels": [],
-  "last_fetched": "2026-11-19T10:29:56.581363",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890796404,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwNzk2NDA0",
+      "url": "https://api.github.com/repos/conda-forge/awkward-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-19T14:42:39.300483",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 183,
   "state": "open",
-  "updated_at": "2026-11-19T05:09:14Z"
+  "updated_at": "2026-11-19T14:41:20Z"
 }

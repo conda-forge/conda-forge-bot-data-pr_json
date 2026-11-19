@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dda4f349793960e1ca6308959e2ed585be5d007dd6bd17d8b44fa95a68b05d11\"",
+  "Last-Modified": "Thu, 19 Nov 2026 23:04:52 GMT",
   "base": {
     "repo": {
       "name": "r-cancensus-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T23:04:48Z",
   "closed_by": null,
   "created_at": "2026-11-19T23:00:48Z",
   "draft": false,
   "e_tag": "\"323918fd0b33cd704884db8b3bdb9bf1706238f01bbe85a42e17caf4e0f8ae00\"",
   "head": {
-    "ref": "0.6.2_h735951"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-cancensus-feedstock/pull/6",
   "id": 5404449737,
   "labels": [],
-  "last_fetched": "2026-11-19T23:00:49.185975",
+  "last_fetched": "2026-11-19T23:06:28.364612",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T23:04:48Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-19T23:00:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T23:04:52Z"
 }

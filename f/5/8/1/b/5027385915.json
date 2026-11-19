@@ -1,6 +1,6 @@
 {
-  "ETag": "\"28af5e6d9fc219874e8edc600a0e6b0e4bf6c378d824d85524953eb4186fa0f9\"",
-  "Last-Modified": "Wed, 18 Nov 2026 08:48:19 GMT",
+  "ETag": "\"e19719786697585b6524ed71a7c6a894b1cd8406109eb2e2c50490af553f096c\"",
+  "Last-Modified": "Thu, 19 Nov 2026 08:51:16 GMT",
   "base": {
     "repo": {
       "name": "ruby-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/ruby-feedstock/pull/171",
   "id": 5027385915,
-  "labels": [],
-  "last_fetched": "2026-11-18T11:59:23.180193",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891334420,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzM0NDIw",
+      "url": "https://api.github.com/repos/conda-forge/ruby-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-19T08:52:52.692504",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 171,
   "state": "open",
-  "updated_at": "2026-11-18T08:48:19Z"
+  "updated_at": "2026-11-19T08:51:16Z"
 }

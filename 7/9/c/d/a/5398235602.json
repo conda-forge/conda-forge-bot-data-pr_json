@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ea43a265a5a6d6011dbe9b42d85ac83a8beec1595f0e54a4df94582dd9a4f0d5\"",
-  "Last-Modified": "Thu, 19 Nov 2026 15:55:09 GMT",
+  "ETag": "\"288bd5c8fca35709c855cd9a1a59fcb7fb3d283bbc0503ac21a818214c91e36f\"",
+  "Last-Modified": "Thu, 19 Nov 2026 18:50:32 GMT",
   "base": {
     "repo": {
       "name": "natcap.invest-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T18:50:32Z",
   "closed_by": null,
   "created_at": "2026-11-19T15:53:20Z",
   "draft": false,
   "e_tag": "\"ace6e90066f383eeb04b7871d076de5d9cd7c5fe1f0027953f67234312369125\"",
   "head": {
-    "ref": "3.21.0_h61c559"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/natcap.invest-feedstock/pull/65",
   "id": 5398235602,
   "labels": [],
-  "last_fetched": "2026-11-19T15:59:34.676015",
+  "last_fetched": "2026-11-19T18:52:07.887590",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T18:50:32Z",
   "number": 65,
-  "state": "open",
-  "updated_at": "2026-11-19T15:55:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T18:50:32Z"
 }

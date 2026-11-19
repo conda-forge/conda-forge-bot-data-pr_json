@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5418827b3cd8fd19ace838f76b93597d5b61003c302dbf529c1d9eeda491b6de\"",
+  "Last-Modified": "Thu, 19 Nov 2026 10:23:43 GMT",
   "base": {
     "repo": {
       "name": "r-fillpattern-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T10:23:39Z",
   "closed_by": null,
   "created_at": "2026-11-19T10:20:03Z",
   "draft": false,
   "e_tag": "\"5fd594b977e6e688dfe5765f555766f42e59721b06baca6fee6b1e8c5be7e445\"",
   "head": {
-    "ref": "1.0.5_hfcc3af"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-fillpattern-feedstock/pull/6",
   "id": 5393010422,
   "labels": [],
-  "last_fetched": "2026-11-19T10:20:04.762057",
+  "last_fetched": "2026-11-19T10:25:10.424589",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T10:23:39Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-19T10:20:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T10:23:43Z"
 }

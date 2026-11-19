@@ -1,27 +1,29 @@
 {
+  "ETag": "\"504aa3b083f5818376797c494bd0ce2535fcc6d67d350c4aaff265b1b2d63e27\"",
+  "Last-Modified": "Thu, 19 Nov 2026 14:27:15 GMT",
   "base": {
     "repo": {
       "name": "mppp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T14:27:15Z",
   "closed_by": null,
   "created_at": "2026-11-19T13:52:18Z",
   "draft": false,
   "e_tag": "\"11cb5d9bfb3747ae5e7da0487e06fca73f584437fe9cea45d4205d73b6444fe9\"",
   "head": {
-    "ref": "rebuild-libflint36-0-1_h18ad58"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mppp-feedstock/pull/76",
   "id": 5396186692,
   "labels": [],
-  "last_fetched": "2026-11-19T13:52:19.346146",
+  "last_fetched": "2026-11-19T14:28:52.137239",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T14:27:15Z",
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-11-19T13:52:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T14:27:15Z"
 }

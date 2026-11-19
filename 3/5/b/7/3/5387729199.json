@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0cd156de324353b74fe47f557afe66831ccadd2d7b3a045a1d28167cfb2b080b\"",
+  "Last-Modified": "Thu, 19 Nov 2026 03:50:16 GMT",
   "base": {
     "repo": {
       "name": "pueue-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T03:50:12Z",
   "closed_by": null,
   "created_at": "2026-11-19T02:34:00Z",
   "draft": false,
   "e_tag": "\"58986a4e554666748db024040b82205879d504a5001ba1c8cd87b544b530bb3d\"",
   "head": {
-    "ref": "4.0.5_h103b80"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pueue-feedstock/pull/10",
   "id": 5387729199,
   "labels": [],
-  "last_fetched": "2026-11-19T02:34:01.098584",
+  "last_fetched": "2026-11-19T03:51:33.826062",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T03:50:12Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-19T02:34:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T03:50:16Z"
 }

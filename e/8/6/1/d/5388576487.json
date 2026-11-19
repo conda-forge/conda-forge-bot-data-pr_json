@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1510ad05abd32211b863ed5b1179d22cb7c255883cb190547933d1b0019ee0f6\"",
-  "Last-Modified": "Thu, 19 Nov 2026 04:03:51 GMT",
+  "ETag": "\"1289c2aa0492cc16222897ae9805a25fda1e5bcbc9516ac849b42413ff649acd\"",
+  "Last-Modified": "Thu, 19 Nov 2026 17:55:03 GMT",
   "base": {
     "repo": {
       "name": "fetchez-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T17:55:03Z",
   "closed_by": null,
   "created_at": "2026-11-19T04:02:24Z",
   "draft": false,
   "e_tag": "\"86d9028cf151a183168210c86f5990ced02bde0c9348112395866dffd5cf9869\"",
   "head": {
-    "ref": "0.13.1_h1befa9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fetchez-feedstock/pull/48",
   "id": 5388576487,
   "labels": [],
-  "last_fetched": "2026-11-19T04:20:03.723061",
+  "last_fetched": "2026-11-19T17:56:40.499975",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-19T17:55:03Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-11-19T04:03:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T17:55:03Z"
 }

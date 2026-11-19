@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a5b92fb6a568d8f099dbb285f1f0466d31e186d664c7bbc2ec58a6ab30222365\"",
+  "Last-Modified": "Thu, 19 Nov 2026 00:02:25 GMT",
   "base": {
     "repo": {
       "name": "kornia-rs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T00:02:24Z",
   "closed_by": null,
   "created_at": "2026-11-18T23:36:19Z",
   "draft": false,
   "e_tag": "\"9e353b58fa07554abd87f3ef66fca9787d771d67da35321278b88987dbb78634\"",
   "head": {
-    "ref": "0.2.0_h63929c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kornia-rs-feedstock/pull/38",
   "id": 5385960701,
   "labels": [],
-  "last_fetched": "2026-11-18T23:36:20.446470",
+  "last_fetched": "2026-11-19T00:03:49.004045",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T00:02:24Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-18T23:36:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T00:02:28Z"
 }

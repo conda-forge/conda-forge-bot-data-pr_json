@@ -1,4 +1,6 @@
 {
+  "ETag": "\"ac6744fea71bc72e763c8959a858858c3f89d2209b5023aae88ef4010138c971\"",
+  "Last-Modified": "Thu, 19 Nov 2026 10:49:24 GMT",
   "base": {
     "repo": {
       "name": "pixi-diff-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pixi-diff-feedstock/pull/23",
   "id": 5386008548,
-  "labels": [],
-  "last_fetched": "2026-11-18T23:40:55.037626",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8061006673,
+      "name": "automerge",
+      "node_id": "LA_kwDONwNFzc8AAAAB4HkzUQ",
+      "url": "https://api.github.com/repos/conda-forge/pixi-diff-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-19T10:50:40.737931",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 23,
   "state": "open",
-  "updated_at": "2026-11-18T23:40:54Z"
+  "updated_at": "2026-11-19T10:49:24Z"
 }

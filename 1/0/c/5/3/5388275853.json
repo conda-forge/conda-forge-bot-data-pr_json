@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f101422a3601a5e0e23bfd62e4779f7aa9d74d5db3b212ea201100a3c8c78264\"",
+  "Last-Modified": "Thu, 19 Nov 2026 03:37:43 GMT",
   "base": {
     "repo": {
       "name": "cargo-vet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T03:37:39Z",
   "closed_by": null,
   "created_at": "2026-11-19T03:29:33Z",
   "draft": false,
   "e_tag": "\"20d49b38c4c5b529252d4048d3045d3106b9115f863260fba21c84c55bf46c96\"",
   "head": {
-    "ref": "0.10.4_h7adab9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cargo-vet-feedstock/pull/5",
   "id": 5388275853,
   "labels": [],
-  "last_fetched": "2026-11-19T03:29:34.113265",
+  "last_fetched": "2026-11-19T03:38:58.034528",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T03:37:39Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-19T03:29:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T03:37:43Z"
 }

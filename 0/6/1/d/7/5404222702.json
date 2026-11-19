@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7fae59255ab5d936a548835b61c8e360606743021e471801972295a1ace8e205\"",
+  "Last-Modified": "Thu, 19 Nov 2026 22:46:12 GMT",
   "base": {
     "repo": {
       "name": "prefect-docker-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-19T22:46:08Z",
   "closed_by": null,
   "created_at": "2026-11-19T22:42:11Z",
   "draft": false,
   "e_tag": "\"63065d4296d253adbff47a3c93350d92d3c313590437acfea175cf630da22045\"",
   "head": {
-    "ref": "0.8.0_h2fbcfa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/prefect-docker-feedstock/pull/19",
   "id": 5404222702,
   "labels": [],
-  "last_fetched": "2026-11-19T22:42:11.970328",
+  "last_fetched": "2026-11-19T22:47:40.846806",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-19T22:46:08Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-11-19T22:42:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-19T22:46:12Z"
 }

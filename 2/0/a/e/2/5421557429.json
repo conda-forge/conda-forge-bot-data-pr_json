@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f4c94069ea3d56e767ca12d9f716ce5a70a18adfb3a23ff1abc0e22fadfc2cb9\"",
+  "Last-Modified": "Fri, 20 Nov 2026 23:17:06 GMT",
   "base": {
     "repo": {
       "name": "r-castor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T23:17:03Z",
   "closed_by": null,
   "created_at": "2026-11-20T23:06:11Z",
   "draft": false,
   "e_tag": "\"d90118a678f9f5d6776cdb120c9b3ea6cc5f3f8a1f5ff39044a006f5f690cd46\"",
   "head": {
-    "ref": "1.8.8_hd94b76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-castor-feedstock/pull/51",
   "id": 5421557429,
   "labels": [],
-  "last_fetched": "2026-11-20T23:06:12.437878",
+  "last_fetched": "2026-11-20T23:18:12.939457",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T23:17:03Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-11-20T23:06:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T23:17:06Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f3e574de35354c0f6fd4478837dd83da68949f7a247107a0ae67af3cb7fae3ae\"",
-  "Last-Modified": "Thu, 19 Nov 2026 23:22:41 GMT",
+  "ETag": "\"2bb0fe3aab288e854316e2237a8958bd933b87e3b9ecc4182926e0812b2dd360\"",
+  "Last-Modified": "Fri, 20 Nov 2026 15:15:02 GMT",
   "base": {
     "repo": {
       "name": "probabilit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T15:15:02Z",
   "closed_by": null,
   "created_at": "2026-11-19T23:21:10Z",
   "draft": false,
   "e_tag": "\"13f4f2684ebc25dd05f34405692525661131b6b93372b0969aaf612efd13a9c4\"",
   "head": {
-    "ref": "0.5.4_hd67139"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/probabilit-feedstock/pull/7",
   "id": 5404681988,
   "labels": [],
-  "last_fetched": "2026-11-20T03:57:56.561321",
+  "last_fetched": "2026-11-20T15:16:52.242924",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T15:15:02Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-19T23:22:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T15:15:02Z"
 }

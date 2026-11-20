@@ -1,29 +1,29 @@
 {
-  "ETag": "\"40252976c55d734dea5ca9708ca3ad89f911b2ffa4caa8589958ab3238141086\"",
-  "Last-Modified": "Wed, 18 Nov 2026 04:28:37 GMT",
+  "ETag": "\"cad2762be2aa2bd34338cd5a1d79fc83751ced3c1563968bcad08e2f14f21ed3\"",
+  "Last-Modified": "Fri, 20 Nov 2026 22:44:29 GMT",
   "base": {
     "repo": {
       "name": "httptools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T22:44:29Z",
   "closed_by": null,
   "created_at": "2026-11-18T04:26:50Z",
   "draft": false,
   "e_tag": "\"f2443eb84de1d7b5f9422d34a239e14c20513159fb84d01bab1a8fd7ab3c1a40\"",
   "head": {
-    "ref": "bot-pr_riscv64_hdeded0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/httptools-feedstock/pull/41",
   "id": 5369910080,
   "labels": [],
-  "last_fetched": "2026-11-18T04:59:04.711215",
+  "last_fetched": "2026-11-20T22:46:03.599819",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T22:44:29Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-11-18T04:28:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T22:44:29Z"
 }

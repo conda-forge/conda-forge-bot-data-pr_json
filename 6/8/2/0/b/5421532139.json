@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e375aa8a8af7c50a4fe54e31d73c03ff80897de170f37081ae60218c98c6bba9\"",
+  "Last-Modified": "Fri, 20 Nov 2026 23:40:14 GMT",
   "base": {
     "repo": {
       "name": "nemo-relay-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T23:40:10Z",
   "closed_by": null,
   "created_at": "2026-11-20T23:03:35Z",
   "draft": false,
   "e_tag": "\"cd3fc55b2a0ec64adc34345aca13af5cb15dc65c3f1a1a5af74aa175ca8a975f\"",
   "head": {
-    "ref": "0.11.2_h4bc415"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nemo-relay-feedstock/pull/18",
   "id": 5421532139,
   "labels": [],
-  "last_fetched": "2026-11-20T23:03:36.895697",
+  "last_fetched": "2026-11-20T23:41:37.549408",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T23:40:10Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-20T23:03:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T23:40:14Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bddcea8c6d4f48590a8ffd1e980350fb7c70ba2f15e305bc019204ee9c363283\"",
+  "Last-Modified": "Fri, 20 Nov 2026 22:51:57 GMT",
   "base": {
     "repo": {
       "name": "osl-dynamics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T22:51:57Z",
   "closed_by": null,
   "created_at": "2026-11-20T22:44:00Z",
   "draft": false,
   "e_tag": "\"e2480f1f1c8d9896b6dc2db4fc103a59657c018108722a6fc55122468fb66485\"",
   "head": {
-    "ref": "3.9.0_h788210"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/osl-dynamics-feedstock/pull/16",
   "id": 5421340753,
   "labels": [],
-  "last_fetched": "2026-11-20T22:44:01.368460",
+  "last_fetched": "2026-11-20T22:53:59.218003",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T22:51:57Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-20T22:44:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T22:52:02Z"
 }

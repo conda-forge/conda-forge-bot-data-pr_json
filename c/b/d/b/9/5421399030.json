@@ -1,27 +1,29 @@
 {
+  "ETag": "\"29383330a6407f27a1976956858cc893285658cb25c4f4d665bad0f0de8ff6c4\"",
+  "Last-Modified": "Fri, 20 Nov 2026 22:54:23 GMT",
   "base": {
     "repo": {
       "name": "foundry-dev-tools-transforms-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T22:54:19Z",
   "closed_by": null,
   "created_at": "2026-11-20T22:49:54Z",
   "draft": false,
   "e_tag": "\"679046d1329778831ae322a929dfa6eeff8860f8f289151ae3923595cd2acb75\"",
   "head": {
-    "ref": "2.1.26_h4812dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/foundry-dev-tools-transforms-feedstock/pull/28",
   "id": 5421399030,
   "labels": [],
-  "last_fetched": "2026-11-20T22:49:55.642287",
+  "last_fetched": "2026-11-20T22:56:14.240525",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T22:54:18Z",
   "number": 28,
-  "state": "open",
-  "updated_at": "2026-11-20T22:49:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T22:54:23Z"
 }

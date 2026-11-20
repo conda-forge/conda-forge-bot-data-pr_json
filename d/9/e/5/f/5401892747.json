@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b6fa1be7456fe014671b62b5157bc2a2207b2fa1410686bab8f9da9ef11350a0\"",
-  "Last-Modified": "Thu, 19 Nov 2026 19:54:30 GMT",
+  "ETag": "\"eca438e118bf0cbcc35337223e6625507fd963fd7df37ed275a0314d8b84619f\"",
+  "Last-Modified": "Fri, 20 Nov 2026 01:24:35 GMT",
   "base": {
     "repo": {
       "name": "pymongo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T01:24:34Z",
   "closed_by": null,
   "created_at": "2026-11-19T19:52:38Z",
   "draft": false,
   "e_tag": "\"76a7d0076848e8cdd93fd36c22ea2fa0bb3ed4b5da73ae9762b90b3dc87669e3\"",
   "head": {
-    "ref": "4.20.1_h063173"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pymongo-feedstock/pull/133",
   "id": 5401892747,
   "labels": [],
-  "last_fetched": "2026-11-19T20:29:15.425102",
+  "last_fetched": "2026-11-20T01:26:02.582753",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T01:24:34Z",
   "number": 133,
-  "state": "open",
-  "updated_at": "2026-11-19T19:54:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T01:24:35Z"
 }

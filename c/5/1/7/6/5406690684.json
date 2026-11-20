@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f45caed1327ea258a8d9542854ada2d68ebcbbeded44d29003d88f2cf2a9500d\"",
+  "Last-Modified": "Fri, 20 Nov 2026 02:38:55 GMT",
   "base": {
     "repo": {
       "name": "r-jose-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T02:38:50Z",
   "closed_by": null,
   "created_at": "2026-11-20T02:35:05Z",
   "draft": false,
   "e_tag": "\"d9ceb14d8208920e6440dc44ef1fd01c21a355aa0f97ff237932a755b46a1846\"",
   "head": {
-    "ref": "3.0.0_hf14251"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-jose-feedstock/pull/10",
   "id": 5406690684,
   "labels": [],
-  "last_fetched": "2026-11-20T02:35:06.827574",
+  "last_fetched": "2026-11-20T02:40:18.043873",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T02:38:50Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-20T02:35:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T02:38:55Z"
 }

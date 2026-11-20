@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1ccce7bb02cb29a1036a730bdde7bd585c210075591568495cc7984e7d68d03a\"",
-  "Last-Modified": "Fri, 20 Nov 2026 05:54:53 GMT",
+  "ETag": "\"b58528f0d27217b332ea95a7bd6a09c6a2ae5182dad1f2fa9a0f69fc36b36260\"",
+  "Last-Modified": "Fri, 20 Nov 2026 15:18:35 GMT",
   "base": {
     "repo": {
       "name": "pylast-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T15:18:35Z",
   "closed_by": null,
   "created_at": "2026-11-20T05:53:19Z",
   "draft": false,
   "e_tag": "\"bad85cb345716145c806bd30a2feb4e38d7c4d7c430f47644c88ae282bec038e\"",
   "head": {
-    "ref": "7.3.0_h9d21b5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pylast-feedstock/pull/2",
   "id": 5408540668,
   "labels": [],
-  "last_fetched": "2026-11-20T12:37:13.608513",
+  "last_fetched": "2026-11-20T15:20:14.837043",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T15:18:35Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-20T05:54:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T15:18:35Z"
 }

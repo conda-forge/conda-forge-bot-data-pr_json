@@ -1,6 +1,6 @@
 {
-  "ETag": "\"efce9ae9c574f0929382810df883a250f81380c7f752333f22e7293f12754aba\"",
-  "Last-Modified": "Fri, 20 Nov 2026 06:42:57 GMT",
+  "ETag": "\"82e1b8514923f167462e57799055d698bd78201ae44d492bb90bd9089a50be78\"",
+  "Last-Modified": "Fri, 20 Nov 2026 06:53:11 GMT",
   "base": {
     "repo": {
       "name": "arrow-adbc-split-feedstock"
@@ -16,20 +16,8 @@
   },
   "html_url": "https://github.com/conda-forge/arrow-adbc-split-feedstock/pull/52",
   "id": 5408876722,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 5167308231,
-      "name": "automerge",
-      "node_id": "LA_kwDOI_K4AM8AAAABM_7dxw",
-      "url": "https://api.github.com/repos/conda-forge/arrow-adbc-split-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-11-20T06:44:21.380806",
+  "labels": [],
+  "last_fetched": "2026-11-20T06:59:03.751812",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -37,5 +25,5 @@
   "merged_at": null,
   "number": 52,
   "state": "open",
-  "updated_at": "2026-11-20T06:42:57Z"
+  "updated_at": "2026-11-20T06:53:11Z"
 }

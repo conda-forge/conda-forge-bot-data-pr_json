@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a6b2a348113b9444fd8ba01e27035a331ab304be51a29a3c17aba2108b625ee8\"",
-  "Last-Modified": "Fri, 20 Nov 2026 21:15:36 GMT",
+  "ETag": "\"902bd4cd31806d4b60b1c14804dc44728ef8fab4054ed1882aa970b4bf00b1f5\"",
+  "Last-Modified": "Fri, 20 Nov 2026 22:16:38 GMT",
   "base": {
     "repo": {
       "name": "edgartools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T22:16:37Z",
   "closed_by": null,
   "created_at": "2026-11-18T07:34:45Z",
   "draft": false,
   "e_tag": "\"9ff10271afb85fe0e1decdd95689a41ea779dee34d931c16113709160fa06330\"",
   "head": {
-    "ref": "6.3.0_hf1311f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/edgartools-feedstock/pull/116",
   "id": 5371856591,
   "labels": [],
-  "last_fetched": "2026-11-20T21:43:10.050489",
+  "last_fetched": "2026-11-20T22:17:54.281095",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T22:16:37Z",
   "number": 116,
-  "state": "open",
-  "updated_at": "2026-11-20T21:15:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T22:16:38Z"
 }

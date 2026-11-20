@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8fc58634cbfed0becd62f65bc92daf8e3415c92b6353bc1e8a0d1b5fa01a8066\"",
+  "Last-Modified": "Fri, 20 Nov 2026 21:30:54 GMT",
   "base": {
     "repo": {
       "name": "lazyfwd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T21:30:50Z",
   "closed_by": null,
   "created_at": "2026-11-20T21:25:02Z",
   "draft": false,
   "e_tag": "\"ab01f25ae89d51cb15863d9091dd9275ffe80f5946564479bbbe79316f942768\"",
   "head": {
-    "ref": "0.1.2_h2c5366"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lazyfwd-feedstock/pull/4",
   "id": 5420498654,
   "labels": [],
-  "last_fetched": "2026-11-20T21:25:02.890423",
+  "last_fetched": "2026-11-20T21:32:19.260174",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T21:30:50Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-20T21:25:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T21:30:54Z"
 }

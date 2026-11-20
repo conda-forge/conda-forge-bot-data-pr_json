@@ -1,18 +1,18 @@
 {
-  "ETag": "\"edb71f530e22a876b74fc4c591086d4192e2ccc9975aefe9602ac2c5440a1018\"",
-  "Last-Modified": "Fri, 20 Nov 2026 21:39:38 GMT",
+  "ETag": "\"aaa95c7880560a9c0da7ff0d561e0a6516276c1e902d2c6b4fac673801322970\"",
+  "Last-Modified": "Fri, 20 Nov 2026 22:39:22 GMT",
   "base": {
     "repo": {
       "name": "libsdformat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T22:39:18Z",
   "closed_by": null,
   "created_at": "2026-11-20T19:28:06Z",
   "draft": false,
   "e_tag": "\"b769dc11dc85d1ddd9c81a75a267baf90d76ba8f91653c738b38808ccedc86d1\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hc129dd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libsdformat-feedstock/pull/188",
   "id": 5419074748,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/libsdformat-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-20T21:41:22.754274",
+  "last_fetched": "2026-11-20T22:40:36.689878",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T22:39:17Z",
   "number": 188,
-  "state": "open",
-  "updated_at": "2026-11-20T21:39:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T22:39:22Z"
 }

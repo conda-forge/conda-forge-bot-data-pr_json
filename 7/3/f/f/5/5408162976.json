@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bad53fa7a5a750601acd6c7a8d29ed2608421a6ecde34c28df35b7c01aaec64c\"",
+  "Last-Modified": "Fri, 20 Nov 2026 05:15:28 GMT",
   "base": {
     "repo": {
       "name": "globus-compute-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T05:15:24Z",
   "closed_by": null,
   "created_at": "2026-11-20T05:13:29Z",
   "draft": false,
   "e_tag": "\"fbf8688f502d5a3fba6c5b4e0dad71355919d8ec4d155dad9bc7960f4da47315\"",
   "head": {
-    "ref": "4.22.0_h38d47c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/globus-compute-sdk-feedstock/pull/96",
   "id": 5408162976,
   "labels": [],
-  "last_fetched": "2026-11-20T05:13:30.643844",
+  "last_fetched": "2026-11-20T05:16:53.199614",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T05:15:24Z",
   "number": 96,
-  "state": "open",
-  "updated_at": "2026-11-20T05:13:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T05:15:28Z"
 }

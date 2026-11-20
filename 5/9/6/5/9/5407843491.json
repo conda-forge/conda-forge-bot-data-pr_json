@@ -1,27 +1,29 @@
 {
+  "ETag": "\"de6566d9e4bfddcd52c31841afe2011bf1afeba1de743234f8427593cbca484d\"",
+  "Last-Modified": "Fri, 20 Nov 2026 04:47:06 GMT",
   "base": {
     "repo": {
       "name": "docker-buildx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T04:47:06Z",
   "closed_by": null,
   "created_at": "2026-11-20T04:39:58Z",
   "draft": false,
   "e_tag": "\"04ea16e58f57fc6cce4470f412c54beb110cabbc5d588788f0aed74da196857b\"",
   "head": {
-    "ref": "0.39.1_hc58ac3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/docker-buildx-feedstock/pull/51",
   "id": 5407843491,
   "labels": [],
-  "last_fetched": "2026-11-20T04:39:59.062386",
+  "last_fetched": "2026-11-20T04:48:39.704794",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T04:47:06Z",
   "number": 51,
-  "state": "open",
-  "updated_at": "2026-11-20T04:39:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T04:47:10Z"
 }

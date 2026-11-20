@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f78503bddce4cb4daea3b0ff9227fae15be170050e6daf6797d912f14eac4db6\"",
-  "Last-Modified": "Thu, 19 Nov 2026 14:00:33 GMT",
+  "ETag": "\"1b06d52e6b4f9c50d4338d746742c177f873f0ca231933bc2d87511b1540cdbc\"",
+  "Last-Modified": "Fri, 20 Nov 2026 01:36:08 GMT",
   "base": {
     "repo": {
       "name": "linbox-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T01:36:08Z",
   "closed_by": null,
   "created_at": "2026-11-19T13:58:53Z",
   "draft": false,
   "e_tag": "\"868dc262d78a17ac7fa7a612ec91879b66da6992423093fa65c231dc2a21a09e\"",
   "head": {
-    "ref": "rebuild-libflint36-0-1_h5d3bf7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/linbox-feedstock/pull/40",
   "id": 5396290009,
   "labels": [],
-  "last_fetched": "2026-11-19T14:59:01.157283",
+  "last_fetched": "2026-11-20T01:37:31.399214",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T01:36:08Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-11-19T14:00:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T01:36:08Z"
 }

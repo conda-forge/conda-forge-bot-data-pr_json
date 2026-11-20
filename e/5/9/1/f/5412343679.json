@@ -1,18 +1,18 @@
 {
-  "ETag": "\"5629e64cb7aa0d98cdf9952cb6745e9aa5673304249ebed5bf17171fe51b8811\"",
-  "Last-Modified": "Fri, 20 Nov 2026 11:29:48 GMT",
+  "ETag": "\"ca8d95d66d00df03fcdb12a8dc981f1a870636d9c22085b1388fb2a9b0504e5b\"",
+  "Last-Modified": "Fri, 20 Nov 2026 11:31:50 GMT",
   "base": {
     "repo": {
       "name": "bw_processing-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T11:31:44Z",
   "closed_by": null,
   "created_at": "2026-11-20T11:11:07Z",
   "draft": false,
   "e_tag": "\"93d48cf83c00b276fc0f0cc2539f18b6cbb1e8d21ac2578548675675b760cb32\"",
   "head": {
-    "ref": "2.0_h8a5ddd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bw_processing-feedstock/pull/21",
   "id": 5412343679,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/bw_processing-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-20T11:31:14.871293",
+  "last_fetched": "2026-11-20T11:33:05.541650",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T11:31:44Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-20T11:29:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T11:31:50Z"
 }

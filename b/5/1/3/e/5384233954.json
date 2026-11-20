@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d5151750a63092de92a95f1970b9a1cf38e27c20fd8c49a336efb10841813c61\"",
-  "Last-Modified": "Thu, 19 Nov 2026 17:54:52 GMT",
+  "ETag": "\"f3d926846adbb26ce85f9546800d8ae4cfaf408420d27ac203327607fe5a6a73\"",
+  "Last-Modified": "Fri, 20 Nov 2026 16:21:31 GMT",
   "base": {
     "repo": {
       "name": "sarkit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T16:21:31Z",
   "closed_by": null,
   "created_at": "2026-11-18T21:16:04Z",
   "draft": false,
   "e_tag": "\"131f3fac6d99f1c2d333b510bba71e60d0d8d7b1c14f9866dadf3eb6655467a2\"",
   "head": {
-    "ref": "1.12.1_he84f60"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sarkit-feedstock/pull/14",
   "id": 5384233954,
   "labels": [],
-  "last_fetched": "2026-11-19T19:57:31.665380",
+  "last_fetched": "2026-11-20T16:23:01.458222",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T16:21:31Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-19T17:54:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T16:21:31Z"
 }

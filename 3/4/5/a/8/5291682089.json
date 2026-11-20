@@ -1,6 +1,6 @@
 {
-  "ETag": "\"ea854eb1a1814bcc6533f1745002d401b83f59d9796abbc63c670bf9121e97b9\"",
-  "Last-Modified": "Fri, 20 Nov 2026 13:58:56 GMT",
+  "ETag": "W/\"c68b7159a9a144e999b615ef8eb4f09bee0431036fd91e32a88408fa894b1879\"",
+  "Last-Modified": "Fri, 20 Nov 2026 13:58:53 GMT",
   "base": {
     "repo": {
       "name": "pikepdf-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pikepdf-feedstock/pull/183",
   "id": 5291682089,
-  "labels": [],
-  "last_fetched": "2026-11-20T14:00:24.476247",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-20T13:58:56.971549",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 183,
   "state": "closed",
-  "updated_at": "2026-11-20T13:58:56Z"
+  "updated_at": "2026-11-20T13:58:53Z"
 }

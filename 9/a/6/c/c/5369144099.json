@@ -1,29 +1,29 @@
 {
-  "ETag": "\"baf4228847364620fb699ff1fa09c3cf6206fdbd7fd0613c92c9bdaf71fdf802\"",
-  "Last-Modified": "Wed, 18 Nov 2026 03:08:43 GMT",
+  "ETag": "\"3c918bcf07a6816c0390396410e8475373ea3326d3584314a679a2eb665b9386\"",
+  "Last-Modified": "Fri, 20 Nov 2026 21:13:53 GMT",
   "base": {
     "repo": {
       "name": "pipx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T21:13:53Z",
   "closed_by": null,
   "created_at": "2026-11-18T03:07:02Z",
   "draft": false,
   "e_tag": "\"4923fbd9e7a52ac659fa30d487a050bec42c4fa7e93cc87be96c83dde9926135\"",
   "head": {
-    "ref": "1.18.19_h65772f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pipx-feedstock/pull/53",
   "id": 5369144099,
   "labels": [],
-  "last_fetched": "2026-11-18T03:58:45.735845",
+  "last_fetched": "2026-11-20T21:15:24.682505",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T21:13:52Z",
   "number": 53,
-  "state": "open",
-  "updated_at": "2026-11-18T03:08:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T21:13:53Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2b7ca6b1dee5ec21c2a86d08567cba7015dca067065ab54e3f17b5864ca84134\"",
+  "Last-Modified": "Fri, 20 Nov 2026 01:41:40 GMT",
   "base": {
     "repo": {
       "name": "django-flags-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T01:41:34Z",
   "closed_by": null,
   "created_at": "2026-11-20T01:39:39Z",
   "draft": false,
   "e_tag": "\"2b3a7bd9c72860fb4ca1479f96c318cdf1b3ca5dc45256c9bf777eaaecaf9f7d\"",
   "head": {
-    "ref": "5.3.0_h5bf970"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-flags-feedstock/pull/7",
   "id": 5406165782,
   "labels": [],
-  "last_fetched": "2026-11-20T01:39:40.663185",
+  "last_fetched": "2026-11-20T01:43:06.859311",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T01:41:34Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-20T01:39:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T01:41:40Z"
 }

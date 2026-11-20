@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a9e42fa793997152c7702db62fc116887f1a701371f3e14f41248c6ff526be0d\"",
-  "Last-Modified": "Mon, 16 Nov 2026 21:30:27 GMT",
+  "ETag": "\"dbae238f7ee5a0ed854bb688393531f98f2a50e6cb6b519275baecc78c1bf279\"",
+  "Last-Modified": "Fri, 20 Nov 2026 19:56:31 GMT",
   "base": {
     "repo": {
       "name": "iminuit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T19:56:31Z",
   "closed_by": null,
   "created_at": "2026-11-16T20:34:02Z",
   "draft": false,
   "e_tag": "\"5f33e189eeaa416e4d7305692ae947793fdc1a3aff551b247065e41ac57084b9\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h5dc1ad"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/iminuit-feedstock/pull/121",
   "id": 5344626831,
   "labels": [],
-  "last_fetched": "2026-11-17T10:17:37.371480",
+  "last_fetched": "2026-11-20T19:57:49.240730",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T19:56:31Z",
   "number": 121,
-  "state": "open",
-  "updated_at": "2026-11-16T21:30:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T19:56:31Z"
 }

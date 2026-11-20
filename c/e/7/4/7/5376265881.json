@@ -1,29 +1,41 @@
 {
-  "ETag": "\"d417248181da347f08b71b1a51ac7b4aadc7da6d418630692321a84ed5be0b49\"",
-  "Last-Modified": "Wed, 18 Nov 2026 12:53:33 GMT",
+  "ETag": "\"be47e144bd43c8c4468e4ed0e80330a0f620301c57f244762c6d65413d90e547\"",
+  "Last-Modified": "Fri, 20 Nov 2026 08:06:24 GMT",
   "base": {
     "repo": {
       "name": "pre-commit-uv-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T08:06:21Z",
   "closed_by": null,
   "created_at": "2026-11-18T12:50:12Z",
   "draft": false,
   "e_tag": "\"d3ec95235e1875583b232fefd29cc425dd0e9215b2616f953870bedb3d77796b\"",
   "head": {
-    "ref": "4.4.3_hc02469"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pre-commit-uv-feedstock/pull/12",
   "id": 5376265881,
-  "labels": [],
-  "last_fetched": "2026-11-18T20:18:19.323886",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8904782407,
+      "name": "automerge",
+      "node_id": "LA_kwDOPIeBIM8AAAACEsQyRw",
+      "url": "https://api.github.com/repos/conda-forge/pre-commit-uv-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-20T08:07:17.069681",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T08:06:21Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-18T12:53:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T08:06:24Z"
 }

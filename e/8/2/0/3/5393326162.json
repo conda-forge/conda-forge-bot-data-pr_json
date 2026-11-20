@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1bae5f095106bb424d51a3438f3eab63a21cbf96faae9cd42e860d494f74d9f3\"",
-  "Last-Modified": "Fri, 20 Nov 2026 01:37:23 GMT",
+  "ETag": "\"f380d4d5c7760e4e7e79358e10bd2146aa0171e5c33c344744f8b3bf6bb38b64\"",
+  "Last-Modified": "Fri, 20 Nov 2026 05:59:36 GMT",
   "base": {
     "repo": {
       "name": "singular-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T05:59:36Z",
   "closed_by": null,
   "created_at": "2026-11-19T10:42:10Z",
   "draft": false,
   "e_tag": "\"915d0c30f9ac4f7346a67b5c0ba88ed889b695000bd77a9cec2e2a3ee9ff9e63\"",
   "head": {
-    "ref": "rebuild-libflint36-0-1_h36694a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/singular-feedstock/pull/42",
   "id": 5393326162,
   "labels": [],
-  "last_fetched": "2026-11-20T01:38:50.182193",
+  "last_fetched": "2026-11-20T06:01:08.365000",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T05:59:36Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-11-20T01:37:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T05:59:36Z"
 }

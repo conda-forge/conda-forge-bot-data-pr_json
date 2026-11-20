@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2377b8239598fd9208878518950f78ddac7a04b3f4e761be916abc223bd1ff6d\"",
+  "Last-Modified": "Fri, 20 Nov 2026 17:46:23 GMT",
   "base": {
     "repo": {
       "name": "scverse-misc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T17:46:23Z",
   "closed_by": null,
   "created_at": "2026-11-20T17:44:15Z",
   "draft": false,
   "e_tag": "\"299bdf0b5f9dec9c0cef55daa1e39584152870247b3c968e24dd466e9e5ad201\"",
   "head": {
-    "ref": "0.1.9_hde1e4a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/scverse-misc-feedstock/pull/16",
   "id": 5417773665,
   "labels": [],
-  "last_fetched": "2026-11-20T17:44:15.933823",
+  "last_fetched": "2026-11-20T17:47:57.778821",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T17:46:23Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-20T17:44:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T17:46:23Z"
 }

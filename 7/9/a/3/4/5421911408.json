@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6f44d179b2415afbe5f87d22fd06fa1e035aeae915f232135d2e3b056016d4c0\"",
+  "Last-Modified": "Fri, 20 Nov 2026 23:45:06 GMT",
   "base": {
     "repo": {
       "name": "robocorp-vault-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T23:45:02Z",
   "closed_by": null,
   "created_at": "2026-11-20T23:41:26Z",
   "draft": false,
   "e_tag": "\"5773e0d527a36114e4fb40aa1f228f2af385005175b8e49ca860f13d1cccc653\"",
   "head": {
-    "ref": "1.5.0_he62c1f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/robocorp-vault-feedstock/pull/20",
   "id": 5421911408,
   "labels": [],
-  "last_fetched": "2026-11-20T23:41:27.454859",
+  "last_fetched": "2026-11-20T23:46:20.629956",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T23:45:02Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-20T23:41:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T23:45:06Z"
 }

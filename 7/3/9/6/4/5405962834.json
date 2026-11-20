@@ -1,11 +1,13 @@
 {
+  "ETag": "\"55641371e7b216f312adcae9436726bd4a1163184c8f6c4314d3969e670b823e\"",
+  "Last-Modified": "Fri, 20 Nov 2026 02:55:24 GMT",
   "base": {
     "repo": {
       "name": "postgresql-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-20T02:55:23Z",
+  "closed_by": "akrherz",
   "created_at": "2026-11-20T01:17:59Z",
   "draft": false,
   "e_tag": "\"7ccf188777b725c09852350fb6c3ee6cbbfa6a479c27472e681f96c3f8de7a37\"",
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/postgresql-feedstock/pull/330",
   "id": 5405962834,
   "labels": [],
-  "last_fetched": "2026-11-20T01:18:00.529998",
+  "last_fetched": "2026-11-20T02:56:54.012088",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 330,
-  "state": "open",
-  "updated_at": "2026-11-20T01:17:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T02:55:24Z"
 }

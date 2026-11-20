@@ -1,29 +1,29 @@
 {
-  "ETag": "\"58422cff75c7d29aabf6aa5f659a617f5ea0af03f5ccb5b416cd994f2de45273\"",
-  "Last-Modified": "Wed, 18 Nov 2026 21:55:51 GMT",
+  "ETag": "\"a7cbe484802469a835c9132a7ce07e363704d1b8a9e83708d8eafef50309c366\"",
+  "Last-Modified": "Fri, 20 Nov 2026 19:18:04 GMT",
   "base": {
     "repo": {
       "name": "gz-sim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T19:18:03Z",
   "closed_by": null,
   "created_at": "2026-11-18T21:44:46Z",
   "draft": false,
   "e_tag": "\"7af9c01a733041592d30686831ae4846a65718f2e666ff32bc2c3d7956b3ecb9\"",
   "head": {
-    "ref": "rebuild-pybind11_abi12-0-1_hea5543"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-sim-feedstock/pull/158",
   "id": 5384615026,
   "labels": [],
-  "last_fetched": "2026-11-18T22:16:46.013547",
+  "last_fetched": "2026-11-20T19:19:53.640666",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T19:18:03Z",
   "number": 158,
-  "state": "open",
-  "updated_at": "2026-11-18T21:55:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T19:18:04Z"
 }

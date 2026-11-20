@@ -1,11 +1,13 @@
 {
+  "ETag": "\"20836c228836189d14dda770125c5e88a857d1aad4007e22327885208f75f419\"",
+  "Last-Modified": "Fri, 20 Nov 2026 21:42:33 GMT",
   "base": {
     "repo": {
       "name": "openff-forcefields-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-20T21:42:32Z",
+  "closed_by": "mattwthompson",
   "created_at": "2026-11-20T21:21:12Z",
   "draft": false,
   "e_tag": "\"1cc41c009a2385d51a4f123076cc7edae9782295ac2e1ef8f185b46302d6359e\"",
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/openff-forcefields-feedstock/pull/38",
   "id": 5420457699,
   "labels": [],
-  "last_fetched": "2026-11-20T21:21:13.665716",
+  "last_fetched": "2026-11-20T21:43:46.092401",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-20T21:21:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T21:42:33Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"c56aacaccc529512e15cd3397b7616ffed1ac220e1bcf3e8c4d5e239e2e265eb\"",
-  "Last-Modified": "Wed, 18 Nov 2026 21:55:11 GMT",
+  "ETag": "\"85dde796b5b04e5fc3e75616490726e93d7a6cd50ede858dae0a927f02ac7513\"",
+  "Last-Modified": "Fri, 20 Nov 2026 19:27:10 GMT",
   "base": {
     "repo": {
       "name": "gz-sim-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/gz-sim-feedstock/pull/159",
   "id": 5384625408,
-  "labels": [],
-  "last_fetched": "2026-11-19T06:48:56.365893",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4734250798,
+      "name": "automerge",
+      "node_id": "LA_kwDOIU7YtM8AAAABGi7vLg",
+      "url": "https://api.github.com/repos/conda-forge/gz-sim-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-20T19:29:01.131575",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 159,
   "state": "open",
-  "updated_at": "2026-11-18T21:55:11Z"
+  "updated_at": "2026-11-20T19:27:10Z"
 }

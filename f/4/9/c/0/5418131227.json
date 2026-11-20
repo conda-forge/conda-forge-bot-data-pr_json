@@ -1,29 +1,29 @@
 {
-  "ETag": "\"64b000c6554390b607605759a55a1561882356a326e2b59592befeb0969e1c23\"",
-  "Last-Modified": "Fri, 20 Nov 2026 18:13:42 GMT",
+  "ETag": "\"f5495acc41aa66e7346974fc4abea98916248679bb3e3bb20bdf179ea6cea4c5\"",
+  "Last-Modified": "Fri, 20 Nov 2026 21:41:08 GMT",
   "base": {
     "repo": {
       "name": "pyinfra-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T21:41:08Z",
   "closed_by": null,
   "created_at": "2026-11-20T18:12:10Z",
   "draft": false,
   "e_tag": "\"9072dcc091b68445eaab8beac78ea6c48292dfbeffaa610a2d9d24a458b56ed6\"",
   "head": {
-    "ref": "3.11.2_h2eb548"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyinfra-feedstock/pull/30",
   "id": 5418131227,
   "labels": [],
-  "last_fetched": "2026-11-20T18:33:08.279540",
+  "last_fetched": "2026-11-20T21:43:18.606057",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T21:41:08Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-20T18:13:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T21:41:08Z"
 }

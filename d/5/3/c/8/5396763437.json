@@ -1,29 +1,29 @@
 {
-  "ETag": "\"703a945a5ad81774501b8c8960504b8d7cc78ebceaa29cf086c3d1ab710bf4bb\"",
-  "Last-Modified": "Thu, 19 Nov 2026 14:28:00 GMT",
+  "ETag": "\"3795956a3b39f219ce909a49efe673e94f1298d93a8ac0236a041ddf567c435e\"",
+  "Last-Modified": "Fri, 20 Nov 2026 16:07:45 GMT",
   "base": {
     "repo": {
       "name": "geoarrow-c-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T16:07:45Z",
   "closed_by": null,
   "created_at": "2026-11-19T14:26:23Z",
   "draft": false,
   "e_tag": "\"b1b820cf5ee9d1128d2c550ec53f751522ae08beea0d6ffe551ee70dfc906703\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h6a32c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/geoarrow-c-feedstock/pull/26",
   "id": 5396763437,
   "labels": [],
-  "last_fetched": "2026-11-19T14:58:07.927636",
+  "last_fetched": "2026-11-20T16:09:29.915105",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T16:07:45Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-11-19T14:28:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T16:07:45Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"0e485e2ec3706d2a01fd788d0091bd94887383c52be5be2957a41b31eaf18033\"",
-  "Last-Modified": "Fri, 20 Nov 2026 16:44:52 GMT",
+  "ETag": "\"a2f1868ca3cd8d73963ab93a8156f6d4f544f93356f4a3d8aee969e7fe2d602c\"",
+  "Last-Modified": "Fri, 20 Nov 2026 17:08:20 GMT",
   "base": {
     "repo": {
       "name": "tbb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T17:08:16Z",
   "closed_by": null,
   "created_at": "2026-10-28T22:25:12Z",
   "draft": false,
   "e_tag": "\"3666d9ca8cc7be5e2fbdf595f37d22c4cddb60f7176f8345db668e185691b897\"",
   "head": {
-    "ref": "2023.2.0_h775654"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tbb-feedstock/pull/179",
   "id": 5058662500,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/tbb-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-20T16:45:57.183104",
+  "last_fetched": "2026-11-20T17:09:26.869545",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T17:08:16Z",
   "number": 179,
-  "state": "open",
-  "updated_at": "2026-11-20T16:44:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T17:08:20Z"
 }

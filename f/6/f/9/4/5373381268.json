@@ -1,29 +1,29 @@
 {
-  "ETag": "\"40872a7cf503c18ca85e6d4a3bd657a3b55b412441d809898ccef64a917bd0ce\"",
-  "Last-Modified": "Wed, 18 Nov 2026 09:34:25 GMT",
+  "ETag": "\"610471e939a3f5ffffa348e30c18ff52daca70aef35ff6a0ac17d7ae38344b49\"",
+  "Last-Modified": "Fri, 20 Nov 2026 18:03:30 GMT",
   "base": {
     "repo": {
       "name": "nbstripout-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T18:03:30Z",
   "closed_by": null,
   "created_at": "2026-11-18T09:32:55Z",
   "draft": false,
   "e_tag": "\"08c29e0ebb0f632cf3570cb8d4ee7370f63e539b24d77d290940df63ef87f623\"",
   "head": {
-    "ref": "0.9.2_h4263e9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nbstripout-feedstock/pull/32",
   "id": 5373381268,
   "labels": [],
-  "last_fetched": "2026-11-18T11:58:14.725727",
+  "last_fetched": "2026-11-20T18:04:36.950061",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T18:03:30Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-11-18T09:34:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T18:03:30Z"
 }

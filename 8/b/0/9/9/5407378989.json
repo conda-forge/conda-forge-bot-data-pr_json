@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c96dde381d8cec472ef4c6723ed7127b228801a51cc24d1e81507f305aa39bd8\"",
-  "Last-Modified": "Fri, 20 Nov 2026 03:51:10 GMT",
+  "ETag": "\"2f11ede5818be64ba8457de42a6c9a5e9b54b4dc4a866452629d8d1d2b9f222d\"",
+  "Last-Modified": "Fri, 20 Nov 2026 14:47:34 GMT",
   "base": {
     "repo": {
       "name": "flt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T14:47:34Z",
   "closed_by": null,
   "created_at": "2026-11-20T03:49:25Z",
   "draft": false,
   "e_tag": "\"dd9c99eac758553c2fa01330ea187c7e402b266a66591827228b25681c090153\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h3db5c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flt-feedstock/pull/22",
   "id": 5407378989,
   "labels": [],
-  "last_fetched": "2026-11-20T05:18:12.653569",
+  "last_fetched": "2026-11-20T14:48:42.409903",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T14:47:34Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-20T03:51:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T14:47:34Z"
 }

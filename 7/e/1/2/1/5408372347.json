@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1245c7011c5abef222eb57ab710194fdc671f73048aa4ddcf42d6b846f0918c4\"",
-  "Last-Modified": "Fri, 20 Nov 2026 05:36:59 GMT",
+  "ETag": "\"fbfff3356db5ff308326390fd153e75086ec9f69eda2a5125c554845d27c0dcd\"",
+  "Last-Modified": "Fri, 20 Nov 2026 12:53:03 GMT",
   "base": {
     "repo": {
       "name": "configargparse-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T12:53:03Z",
   "closed_by": null,
   "created_at": "2026-11-20T05:35:31Z",
   "draft": false,
   "e_tag": "\"dca11a92c662986e1fd9bc056111693ef41bb17c8159a1194be08a700b302d03\"",
   "head": {
-    "ref": "1.10.2_h185fd9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/configargparse-feedstock/pull/39",
   "id": 5408372347,
   "labels": [],
-  "last_fetched": "2026-11-20T07:21:02.475737",
+  "last_fetched": "2026-11-20T12:54:30.915026",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T12:53:03Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-11-20T05:36:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T12:53:03Z"
 }

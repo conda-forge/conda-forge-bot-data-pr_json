@@ -1,18 +1,18 @@
 {
-  "ETag": "\"496d136c03286063ed86a7706b3bfd4a4cf58f540e83c21b63cfdce56cc35fdf\"",
-  "Last-Modified": "Fri, 20 Nov 2026 15:07:58 GMT",
+  "ETag": "\"449125442851cd029b6c338935071ecff6586b5ae9f0e556184186fb3cc2ded7\"",
+  "Last-Modified": "Fri, 20 Nov 2026 15:10:10 GMT",
   "base": {
     "repo": {
       "name": "vale-styles-write-good-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T15:10:06Z",
   "closed_by": null,
   "created_at": "2026-11-19T23:47:46Z",
   "draft": false,
   "e_tag": "\"118a1fe9822e3603876aee11e6109382a00a937e5f1453a896418b215a84c925\"",
   "head": {
-    "ref": "0.5.0_h0cf004"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vale-styles-write-good-feedstock/pull/2",
   "id": 5404965006,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/vale-styles-write-good-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-20T15:09:16.398019",
+  "last_fetched": "2026-11-20T15:11:49.534480",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T15:10:06Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-20T15:07:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T15:10:10Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"8c90ffc0eeef2d2894f0e85cd4bc5e3f7fe0c3534685946bb5cb9ceee71ab185\"",
+  "Last-Modified": "Fri, 20 Nov 2026 05:07:49 GMT",
   "base": {
     "repo": {
       "name": "e3sm_to_cmip-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/e3sm_to_cmip-feedstock/pull/54",
   "id": 5407824970,
-  "labels": [],
-  "last_fetched": "2026-11-20T04:38:08.285462",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890871598,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODcxNTk4",
+      "url": "https://api.github.com/repos/conda-forge/e3sm_to_cmip-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-20T05:08:22.655813",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 54,
   "state": "open",
-  "updated_at": "2026-11-20T04:38:07Z"
+  "updated_at": "2026-11-20T05:07:49Z"
 }

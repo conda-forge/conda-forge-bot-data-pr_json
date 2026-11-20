@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d0e1106a91ab1a5cee2c91cf63023ccc3b65b00b09ddc706be1e3de0f86ac87d\"",
+  "Last-Modified": "Fri, 20 Nov 2026 21:33:15 GMT",
   "base": {
     "repo": {
       "name": "oxipng-pybind-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T21:33:14Z",
   "closed_by": null,
   "created_at": "2026-11-20T21:24:02Z",
   "draft": false,
   "e_tag": "\"65e13029bdf746b53c69ee597308a07a068d6f8af74a5a83ee477e3c4d13ee2c\"",
   "head": {
-    "ref": "10.2.1.post3_hf0e7d6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/oxipng-pybind-feedstock/pull/10",
   "id": 5420488080,
   "labels": [],
-  "last_fetched": "2026-11-20T21:24:03.609589",
+  "last_fetched": "2026-11-20T21:34:48.156400",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T21:33:14Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-20T21:24:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T21:33:15Z"
 }

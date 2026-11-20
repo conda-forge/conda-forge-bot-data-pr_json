@@ -1,27 +1,29 @@
 {
+  "ETag": "\"42532eae5eb29455feb6f9bf2275bca2fcfd8843cc001b6a3c3e98f33720c241\"",
+  "Last-Modified": "Fri, 20 Nov 2026 17:28:56 GMT",
   "base": {
     "repo": {
       "name": "sql-formatter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T17:28:51Z",
   "closed_by": null,
   "created_at": "2026-11-20T17:26:42Z",
   "draft": false,
   "e_tag": "\"67b7e165eb29fda8156b6de33b80d0445b149a06e0f0e8c745b18ab8a8202fcc\"",
   "head": {
-    "ref": "15.10.0_hef0083"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sql-formatter-feedstock/pull/32",
   "id": 5417539023,
   "labels": [],
-  "last_fetched": "2026-11-20T17:26:43.503608",
+  "last_fetched": "2026-11-20T17:30:41.404559",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T17:28:51Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-11-20T17:26:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T17:28:56Z"
 }

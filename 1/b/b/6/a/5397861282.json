@@ -1,29 +1,29 @@
 {
-  "ETag": "\"aff8182c4e5ac76da4239691c33472c7fcd57e49cb61b35c9a093bab94b0a7fc\"",
-  "Last-Modified": "Fri, 20 Nov 2026 16:37:17 GMT",
+  "ETag": "\"c5b3720229dcd068ac2c2fb0d462953e0468d7f12682e370b465ffe3390f8bb5\"",
+  "Last-Modified": "Fri, 20 Nov 2026 19:22:21 GMT",
   "base": {
     "repo": {
       "name": "ocaml-dune-configurator-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T19:22:20Z",
   "closed_by": null,
   "created_at": "2026-11-19T15:31:09Z",
   "draft": false,
   "e_tag": "\"17f87edf50626d81e4c3b46267906f75528cd486a6e3ef4c3219c7fd68ee3fd4\"",
   "head": {
-    "ref": "3.25.0_h51a4a7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ocaml-dune-configurator-feedstock/pull/2",
   "id": 5397861282,
   "labels": [],
-  "last_fetched": "2026-11-20T19:16:07.774102",
+  "last_fetched": "2026-11-20T19:23:53.570995",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T19:22:20Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-20T16:37:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T19:22:21Z"
 }

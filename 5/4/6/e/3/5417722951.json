@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ebd183bc9d53f72460637d9473869f47b1f47bd7c37a05558d566225da2f13b4\"",
-  "Last-Modified": "Fri, 20 Nov 2026 17:42:03 GMT",
+  "ETag": "\"92110dc63c00848e204e3e9e120b318740b595612f20db2dd5237d1efebc088a\"",
+  "Last-Modified": "Fri, 20 Nov 2026 19:33:28 GMT",
   "base": {
     "repo": {
       "name": "aws-emulator-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T19:33:23Z",
   "closed_by": null,
   "created_at": "2026-11-20T17:40:22Z",
   "draft": false,
   "e_tag": "\"9841b1b37578463fa2c4c64770418ca033db62ca7195317f34b02bc48373bfba\"",
   "head": {
-    "ref": "1.0.533_h227886"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-emulator-feedstock/pull/13",
   "id": 5417722951,
   "labels": [],
-  "last_fetched": "2026-11-20T18:59:18.615400",
+  "last_fetched": "2026-11-20T19:35:15.154319",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T19:33:23Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-20T17:42:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T19:33:28Z"
 }

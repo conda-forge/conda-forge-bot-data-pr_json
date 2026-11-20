@@ -1,29 +1,29 @@
 {
-  "ETag": "\"11ae5f063ea6bd8fee8c491f28d48c7383ab796bd85859761e1e0495ce303be0\"",
-  "Last-Modified": "Wed, 18 Nov 2026 07:15:41 GMT",
+  "ETag": "\"74a6bebf7a39d15ba1ded401ed0074603595f8a3fccae1b3749c5d3806a28a2b\"",
+  "Last-Modified": "Fri, 20 Nov 2026 07:15:00 GMT",
   "base": {
     "repo": {
       "name": "pyzotero-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T07:15:00Z",
   "closed_by": null,
   "created_at": "2026-11-18T07:13:59Z",
   "draft": false,
   "e_tag": "\"1b6e4a128f09c726b8aff399ca94efd96613eca2b046e12659b2949d6cf3dcc0\"",
   "head": {
-    "ref": "1.17.0_h9b550e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyzotero-feedstock/pull/93",
   "id": 5371605897,
   "labels": [],
-  "last_fetched": "2026-11-18T12:23:38.879638",
+  "last_fetched": "2026-11-20T07:16:41.979402",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T07:15:00Z",
   "number": 93,
-  "state": "open",
-  "updated_at": "2026-11-18T07:15:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T07:15:00Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"50460e37a52f98b04d620f9927441dbbf39f2b8b4bcb84c92c962ce7648dea19\"",
+  "Last-Modified": "Fri, 20 Nov 2026 14:53:16 GMT",
   "base": {
     "repo": {
       "name": "vale-styles-proselint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T14:53:16Z",
   "closed_by": null,
   "created_at": "2026-11-20T07:50:46Z",
   "draft": false,
   "e_tag": "\"f547d15d41d5db151b54ed57671d4fcb3b58739ed7efec3bcbc8f558771e7d24\"",
   "head": {
-    "ref": "0.4.0_h35eb80"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vale-styles-proselint-feedstock/pull/2",
   "id": 5409790047,
   "labels": [],
-  "last_fetched": "2026-11-20T07:50:47.163239",
+  "last_fetched": "2026-11-20T14:55:30.453991",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T14:53:16Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-20T07:50:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T14:53:16Z"
 }

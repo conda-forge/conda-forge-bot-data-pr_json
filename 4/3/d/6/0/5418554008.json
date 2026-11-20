@@ -1,29 +1,29 @@
 {
-  "ETag": "\"760c5667cc19df2081c0f2bb6518f413328890e2244986052019983fe108ca00\"",
-  "Last-Modified": "Fri, 20 Nov 2026 18:47:34 GMT",
+  "ETag": "\"9e070ad6009a012b74c8b09e9429e26b44de22ce01db79008b7544cfe8450477\"",
+  "Last-Modified": "Fri, 20 Nov 2026 21:21:34 GMT",
   "base": {
     "repo": {
       "name": "moka-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T21:21:33Z",
   "closed_by": null,
   "created_at": "2026-11-20T18:45:58Z",
   "draft": false,
   "e_tag": "\"8181c86797f8a2f5fae2f7a510b8465468b59a20c61fd5976ffacb8ae856a557\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h66f17d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/moka-py-feedstock/pull/13",
   "id": 5418554008,
   "labels": [],
-  "last_fetched": "2026-11-20T19:31:06.068859",
+  "last_fetched": "2026-11-20T21:23:06.108714",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T21:21:33Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-20T18:47:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T21:21:34Z"
 }

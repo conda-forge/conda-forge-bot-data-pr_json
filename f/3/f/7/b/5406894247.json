@@ -1,27 +1,29 @@
 {
+  "ETag": "\"003cefb200ea0c8b1a9f511623379e726351e0251f56bd741b91698d999a5b7b\"",
+  "Last-Modified": "Fri, 20 Nov 2026 03:00:32 GMT",
   "base": {
     "repo": {
       "name": "r-tarchetypes-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T03:00:27Z",
   "closed_by": null,
   "created_at": "2026-11-20T02:56:14Z",
   "draft": false,
   "e_tag": "\"ba0c195632dbd336ce61fe5e09d9982a5c533d2329b51028ab9aaa46aba3b447\"",
   "head": {
-    "ref": "0.14.2_hb05d81"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-tarchetypes-feedstock/pull/39",
   "id": 5406894247,
   "labels": [],
-  "last_fetched": "2026-11-20T02:56:15.561305",
+  "last_fetched": "2026-11-20T03:01:54.730452",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T03:00:27Z",
   "number": 39,
-  "state": "open",
-  "updated_at": "2026-11-20T02:56:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T03:00:32Z"
 }

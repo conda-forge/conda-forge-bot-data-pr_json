@@ -1,12 +1,13 @@
 {
-  "ETag": "\"68a0721fae9b68a58261cf038c9d4949386033fa34e2cdb840a8552cc65aa278\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"3256250bd781d457c302b1edfe15d94ae1da7c716697e29ed5eee72ca455e6b8\"",
+  "Last-Modified": "Fri, 20 Nov 2026 08:03:12 GMT",
   "base": {
     "repo": {
       "name": "cryptominisat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T08:03:12Z",
+  "closed_by": "saraedum",
   "created_at": "2024-07-14T01:11:55Z",
   "draft": false,
   "head": {
@@ -15,12 +16,12 @@
   "html_url": "https://github.com/conda-forge/cryptominisat-feedstock/pull/58",
   "id": 1968096192,
   "labels": [],
-  "last_fetched": "2026-11-16T16:31:45.731921",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "last_fetched": "2026-11-20T08:04:47.996553",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 58,
-  "state": "open",
-  "updated_at": "2025-01-21T03:58:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T08:03:12Z"
 }

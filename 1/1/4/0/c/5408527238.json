@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8f56d4100aaffbf3187d155118332a58ea40e87571f38ff301ad2ba1b677116e\"",
+  "Last-Modified": "Fri, 20 Nov 2026 05:53:52 GMT",
   "base": {
     "repo": {
       "name": "openai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T05:53:49Z",
   "closed_by": null,
   "created_at": "2026-11-20T05:51:55Z",
   "draft": false,
   "e_tag": "\"ef46b168da09d2a1075b6464dbbc414050cce635b79c167d4d0a2500304fe503\"",
   "head": {
-    "ref": "3.57.0_hbf15ea"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openai-feedstock/pull/438",
   "id": 5408527238,
   "labels": [],
-  "last_fetched": "2026-11-20T05:51:55.787232",
+  "last_fetched": "2026-11-20T05:55:15.168678",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T05:53:49Z",
   "number": 438,
-  "state": "open",
-  "updated_at": "2026-11-20T05:51:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T05:53:52Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a2fca29c7b0952e12c4d89976d82b181db2443b814c855d6e6ce65a388f5fca5\"",
-  "Last-Modified": "Sun, 20 Sep 2026 21:36:13 GMT",
+  "ETag": "\"0dc4b99e59d5efdcc4903f4d87e07a9bb8ddcfe6ce54363cd5d22f506667bb38\"",
+  "Last-Modified": "Fri, 20 Nov 2026 12:24:55 GMT",
   "base": {
     "repo": {
       "name": "decord-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/decord-feedstock/pull/5",
   "id": 4586183542,
-  "labels": [],
-  "last_fetched": "2026-11-16T22:59:23.375531",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10559008960,
+      "name": "automerge",
+      "node_id": "LA_kwDOR0rwKs8AAAACdV2wwA",
+      "url": "https://api.github.com/repos/conda-forge/decord-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-20T12:25:24.563204",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 5,
   "state": "open",
-  "updated_at": "2026-09-20T21:36:13Z"
+  "updated_at": "2026-11-20T12:24:55Z"
 }

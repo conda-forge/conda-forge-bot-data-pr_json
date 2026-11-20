@@ -1,29 +1,29 @@
 {
-  "ETag": "\"af55b464b3c56e9fcf249990d4ff62b3e73c6fa1961df57990d11ae5385522c0\"",
-  "Last-Modified": "Wed, 11 Nov 2026 03:10:43 GMT",
+  "ETag": "\"bfef7012d0c0c1a3040d6a4ce4fe575f7f0126842bb5cdc2ede7fabe451658f5\"",
+  "Last-Modified": "Fri, 20 Nov 2026 22:15:32 GMT",
   "base": {
     "repo": {
       "name": "cwevals-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T22:15:32Z",
   "closed_by": null,
   "created_at": "2026-11-11T03:09:05Z",
   "draft": false,
   "e_tag": "\"99d62feb98d754ea3823174c52a8beaca60af7a7eebf3bff3f8d72b99438eb1d\"",
   "head": {
-    "ref": "0.0.1b3_h50e9a3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cwevals-feedstock/pull/1",
   "id": 5253060968,
   "labels": [],
-  "last_fetched": "2026-11-18T08:35:04.175847",
+  "last_fetched": "2026-11-20T22:15:43.412161",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T22:15:32Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-11T03:10:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T22:15:32Z"
 }

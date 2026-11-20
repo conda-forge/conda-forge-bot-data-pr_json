@@ -1,6 +1,6 @@
 {
-  "ETag": "\"de175a04976e140ac16afe6fde23928a1e39601aa66a1d86cc3e8d135772955b\"",
-  "Last-Modified": "Tue, 11 Aug 2026 10:46:58 GMT",
+  "ETag": "\"9f6ed39e470f486ba0823ddf5ae6900c01a0c4c0aa5d9d66007b682859e35d9a\"",
+  "Last-Modified": "Fri, 20 Nov 2026 08:04:46 GMT",
   "base": {
     "repo": {
       "name": "gap-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/gap-feedstock/pull/104",
   "id": 4252403251,
-  "labels": [],
-  "last_fetched": "2026-11-19T11:58:45.109051",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890881719,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODgxNzE5",
+      "url": "https://api.github.com/repos/conda-forge/gap-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-20T08:06:01.987734",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 104,
   "state": "open",
-  "updated_at": "2026-08-11T10:46:58Z"
+  "updated_at": "2026-11-20T08:04:46Z"
 }

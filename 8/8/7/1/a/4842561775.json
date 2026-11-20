@@ -1,12 +1,13 @@
 {
-  "ETag": "\"d81392552c0b99c9e7c411cec2548ba2a967c2e3a80c955d54d921bd71d118f8\"",
-  "Last-Modified": "Tue, 13 Oct 2026 15:01:58 GMT",
+  "ETag": "W/\"480feb7947e245f6508f8fb43036806adbd307d5a5fbe4589d45e82fcd07db7e\"",
+  "Last-Modified": "Fri, 20 Nov 2026 22:29:56 GMT",
   "base": {
     "repo": {
       "name": "pyqt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T22:29:56Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-13T11:32:30Z",
   "draft": false,
   "e_tag": "\"fee3ad4194a43c02b530a5dcda0ffb9dc34e4ead268b05627771a2ffdf53c760\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyqt-feedstock/pull/203",
   "id": 4842561775,
-  "labels": [],
-  "last_fetched": "2026-11-18T14:46:17.858891",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891109355,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMTA5MzU1",
+      "url": "https://api.github.com/repos/conda-forge/pyqt-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-20T22:29:58.840776",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 203,
-  "state": "open",
-  "updated_at": "2026-10-13T15:01:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T22:29:56Z"
 }

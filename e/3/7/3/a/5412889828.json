@@ -1,13 +1,13 @@
 {
-  "ETag": "\"cceed1beebee4ef449345c5f7ce4bfea23e6b595fadbe495f42f6170813d1ec8\"",
-  "Last-Modified": "Fri, 20 Nov 2026 11:56:05 GMT",
+  "ETag": "W/\"c2db008dc9094313680dcba70d7ceb97a016a1c0ccc0570f60b66f9106b6d52b\"",
+  "Last-Modified": "Fri, 20 Nov 2026 17:30:10 GMT",
   "base": {
     "repo": {
       "name": "stardist-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-20T17:30:10Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-20T11:54:30Z",
   "draft": false,
   "e_tag": "\"5d92d2cb35aab77924026f52d3d6a21c077d50988f35bcfa760b2cdcb2c15407\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/stardist-feedstock/pull/17",
   "id": 5412889828,
-  "labels": [],
-  "last_fetched": "2026-11-20T12:47:26.549978",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 4010365034,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOHIvTKM7vCVBq",
+      "url": "https://api.github.com/repos/conda-forge/stardist-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-20T17:30:13.312294",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-11-20T11:56:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T17:30:10Z"
 }

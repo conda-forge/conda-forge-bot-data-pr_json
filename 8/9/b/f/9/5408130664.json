@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8db3255fde886bf2a874c354f23fc815c6a4788a4711f04b00ab20e1c30a6aec\"",
+  "Last-Modified": "Fri, 20 Nov 2026 05:12:01 GMT",
   "base": {
     "repo": {
       "name": "google-adk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T05:11:57Z",
   "closed_by": null,
   "created_at": "2026-11-20T05:10:04Z",
   "draft": false,
   "e_tag": "\"ab0cf54567cc0a0f809141bc9003a82da4a32eb8c9008d1652cdf5ac1c8f7507\"",
   "head": {
-    "ref": "2.15.0_h00f22d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-adk-feedstock/pull/54",
   "id": 5408130664,
   "labels": [],
-  "last_fetched": "2026-11-20T05:10:05.738313",
+  "last_fetched": "2026-11-20T05:13:29.766286",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-20T05:11:57Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-20T05:10:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T05:12:01Z"
 }

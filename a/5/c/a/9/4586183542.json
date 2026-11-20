@@ -1,17 +1,17 @@
 {
-  "ETag": "\"0dc4b99e59d5efdcc4903f4d87e07a9bb8ddcfe6ce54363cd5d22f506667bb38\"",
-  "Last-Modified": "Fri, 20 Nov 2026 12:24:55 GMT",
+  "ETag": "\"1cce26716106c58127f8fd83ad1e5b49aabef159995d556cf98613dccc333a05\"",
+  "Last-Modified": "Fri, 20 Nov 2026 12:28:57 GMT",
   "base": {
     "repo": {
       "name": "decord-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T12:28:53Z",
   "created_at": "2026-09-20T21:33:56Z",
   "draft": false,
   "e_tag": "\"81e9de1fb89b80574f3500b26868bfbeb6e51ac3cd12c18d584becb3881251a5\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hbc2266"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/decord-feedstock/pull/5",
   "id": 4586183542,
@@ -28,13 +28,13 @@
       "url": "https://api.github.com/repos/conda-forge/decord-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-20T12:25:24.563204",
+  "last_fetched": "2026-11-20T12:30:22.627280",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T12:28:53Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-20T12:24:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T12:28:57Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3f898df519f9350466aafccd6458ae019f65d00798059c5d8b49a07b20dc9ee0\"",
-  "Last-Modified": "Fri, 20 Nov 2026 05:15:58 GMT",
+  "ETag": "\"ec3d4874e49575587d64d78221f96113d2a8204b1435f9a269b57e8b6fd7dc62\"",
+  "Last-Modified": "Fri, 20 Nov 2026 12:51:35 GMT",
   "base": {
     "repo": {
       "name": "newrelic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-20T12:51:35Z",
   "closed_by": null,
   "created_at": "2026-11-20T04:11:50Z",
   "draft": false,
   "e_tag": "\"270d2c1be233e960d9c7b8d5c49b2205939013ff7ac6928117f3c3a6281311dd\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h00a14c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/newrelic-feedstock/pull/197",
   "id": 5407584962,
   "labels": [],
-  "last_fetched": "2026-11-20T07:20:25.063317",
+  "last_fetched": "2026-11-20T12:52:39.857019",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-20T12:51:35Z",
   "number": 197,
-  "state": "open",
-  "updated_at": "2026-11-20T05:15:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-20T12:51:35Z"
 }

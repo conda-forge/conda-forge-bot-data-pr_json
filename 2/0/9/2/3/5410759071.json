@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a959db5fd66fb9f9c7dca79e067f4eb7e4a67136314d605a74e205dcd8efa5e2\"",
-  "Last-Modified": "Fri, 20 Nov 2026 09:11:48 GMT",
+  "ETag": "\"97585568901f11afb8b200d155c0af0987fa1765f798af00f5532848dde10f8c\"",
+  "Last-Modified": "Fri, 20 Nov 2026 09:32:57 GMT",
   "base": {
     "repo": {
       "name": "soci-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/soci-feedstock/pull/28",
   "id": 5410759071,
-  "labels": [],
-  "last_fetched": "2026-11-20T09:19:21.176760",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2606495031,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNjA2NDk1MDMx",
+      "url": "https://api.github.com/repos/conda-forge/soci-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-20T09:34:24.194188",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 28,
   "state": "open",
-  "updated_at": "2026-11-20T09:11:48Z"
+  "updated_at": "2026-11-20T09:32:57Z"
 }

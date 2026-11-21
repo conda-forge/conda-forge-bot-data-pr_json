@@ -1,29 +1,29 @@
 {
-  "ETag": "\"886b8f9feae238bf89a03cfb933659648377ce5de080fc0433c6658b718512f6\"",
-  "Last-Modified": "Fri, 20 Nov 2026 20:24:18 GMT",
+  "ETag": "\"d73a9cec34f17975bc361f30e493a743f2de8e1d6b49ad7766651ba0bce1567d\"",
+  "Last-Modified": "Sat, 21 Nov 2026 09:57:42 GMT",
   "base": {
     "repo": {
       "name": "cpppo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T09:57:42Z",
   "closed_by": null,
   "created_at": "2026-11-20T20:22:43Z",
   "draft": false,
   "e_tag": "\"627a224d7ab1ee7fee14a71d4eb5912e9e064b51121256f6f22f9065684c908a\"",
   "head": {
-    "ref": "5.8.0_h6d5a43"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cpppo-feedstock/pull/12",
   "id": 5419735062,
   "labels": [],
-  "last_fetched": "2026-11-20T20:28:02.812728",
+  "last_fetched": "2026-11-21T09:58:47.885446",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T09:57:42Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-20T20:24:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T09:57:42Z"
 }

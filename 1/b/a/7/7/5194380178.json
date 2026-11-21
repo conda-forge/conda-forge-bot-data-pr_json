@@ -1,6 +1,6 @@
 {
-  "ETag": "\"243fb68d517f7d1d42fe902c2680bc9dcb6e53d29d0419270c5dbd05f0aeebe2\"",
-  "Last-Modified": "Sat, 21 Nov 2026 04:59:25 GMT",
+  "ETag": "W/\"612097d5a382bed54103d0f122b9f6960786d77b6bdeeddbf347d80f454bc58f\"",
+  "Last-Modified": "Sat, 21 Nov 2026 04:59:22 GMT",
   "base": {
     "repo": {
       "name": "external-systems-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/external-systems-feedstock/pull/31",
   "id": 5194380178,
-  "labels": [],
-  "last_fetched": "2026-11-21T05:00:41.688996",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-21T04:59:26.147921",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 31,
   "state": "closed",
-  "updated_at": "2026-11-21T04:59:25Z"
+  "updated_at": "2026-11-21T04:59:22Z"
 }

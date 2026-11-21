@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a47e12a2e78e0b087710e793e591ab784d839512492caf88388c01441b2401ad\"",
-  "Last-Modified": "Sat, 21 Nov 2026 15:12:09 GMT",
+  "ETag": "\"0b2eda1faad5137c8519bb866a5e0410e5e31bdd88fa318f8f5b6de9c70132ee\"",
+  "Last-Modified": "Sat, 21 Nov 2026 23:17:29 GMT",
   "base": {
     "repo": {
       "name": "iwe-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/iwe-feedstock/pull/57",
   "id": 5429082299,
-  "labels": [],
-  "last_fetched": "2026-11-21T16:43:13.444754",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10969167139,
+      "name": "automerge",
+      "node_id": "LA_kwDOSfM3Ns8AAAACjdA1Iw",
+      "url": "https://api.github.com/repos/conda-forge/iwe-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-21T23:19:22.971223",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 57,
   "state": "open",
-  "updated_at": "2026-11-21T15:12:09Z"
+  "updated_at": "2026-11-21T23:17:29Z"
 }

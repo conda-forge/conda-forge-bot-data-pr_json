@@ -1,29 +1,41 @@
 {
-  "ETag": "\"1b93576755c83b64b0376870eb43d74d7ab81e8b3fc22ded24b00d4d3aba6680\"",
-  "Last-Modified": "Sat, 21 Nov 2026 15:07:19 GMT",
+  "ETag": "\"676d4f7915327371e0f2446c8740999d5940289fe86c2c67c7e95e9fedc2cc15\"",
+  "Last-Modified": "Sat, 21 Nov 2026 20:08:00 GMT",
   "base": {
     "repo": {
       "name": "qastle-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T20:07:56Z",
   "closed_by": null,
   "created_at": "2026-11-21T15:05:35Z",
   "draft": false,
   "e_tag": "\"159b49dba38e04c348aa4587542aeb5e8bc535172b6c183caf2563ff2394b23c\"",
   "head": {
-    "ref": "0.20.0_h6742b4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qastle-feedstock/pull/5",
   "id": 5429227452,
-  "labels": [],
-  "last_fetched": "2026-11-21T15:58:39.876329",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7217257874,
+      "name": "automerge",
+      "node_id": "LA_kwDOMXqH_c8AAAABri6dkg",
+      "url": "https://api.github.com/repos/conda-forge/qastle-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-21T20:09:09.329565",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T20:07:56Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-21T15:07:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T20:08:00Z"
 }

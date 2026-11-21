@@ -1,29 +1,29 @@
 {
-  "ETag": "\"12c4061127ab16648bca168c9115ae2b518389b61ba33b1a7f240209601ee66c\"",
-  "Last-Modified": "Sat, 21 Nov 2026 17:19:31 GMT",
+  "ETag": "\"e5f7b1b4a782f6d562abc539a1cdf07a312fc55f63c1aae0fd0c5958b42694d5\"",
+  "Last-Modified": "Sat, 21 Nov 2026 20:58:16 GMT",
   "base": {
     "repo": {
       "name": "numbers-parser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T20:58:16Z",
   "closed_by": null,
   "created_at": "2026-11-21T17:18:01Z",
   "draft": false,
   "e_tag": "\"79267e9364a396e8a4a90b5adbf833390657b7c838b890873deebd4bf25e431a\"",
   "head": {
-    "ref": "4.23.2_h8ced0c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/numbers-parser-feedstock/pull/100",
   "id": 5430446294,
   "labels": [],
-  "last_fetched": "2026-11-21T17:59:25.516756",
+  "last_fetched": "2026-11-21T21:00:04.905817",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T20:58:16Z",
   "number": 100,
-  "state": "open",
-  "updated_at": "2026-11-21T17:19:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T20:58:16Z"
 }

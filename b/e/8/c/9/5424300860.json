@@ -1,4 +1,6 @@
 {
+  "ETag": "\"449bbf35e1bf073265ff391509dca4b3e9ebebf327e05e28870b192a9a1ea5c0\"",
+  "Last-Modified": "Sat, 21 Nov 2026 04:40:39 GMT",
   "base": {
     "repo": {
       "name": "seccomp-split-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/seccomp-split-feedstock/pull/50",
   "id": 5424300860,
-  "labels": [],
-  "last_fetched": "2026-11-21T04:39:08.872386",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891337668,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzM3NjY4",
+      "url": "https://api.github.com/repos/conda-forge/seccomp-split-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-21T04:41:44.461368",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 50,
   "state": "open",
-  "updated_at": "2026-11-21T04:39:08Z"
+  "updated_at": "2026-11-21T04:40:39Z"
 }

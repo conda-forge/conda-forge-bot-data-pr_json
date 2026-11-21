@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b59016a4d1417a0413eeb33907f95352922cbb0401b1ad29d49698da5ebcd9ed\"",
-  "Last-Modified": "Sat, 21 Nov 2026 02:01:23 GMT",
+  "ETag": "\"bd526c6a27a996ccda1edb341d4107390346b96804585f5074035f9a39d7ca11\"",
+  "Last-Modified": "Sat, 21 Nov 2026 08:36:53 GMT",
   "base": {
     "repo": {
       "name": "libgbm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T08:36:53Z",
   "closed_by": null,
   "created_at": "2026-11-21T01:59:47Z",
   "draft": false,
   "e_tag": "\"8096aedcfa88b5f403b576168c2b93a4671938082853e066be705979636ce551\"",
   "head": {
-    "ref": "1.1.2_h72d061"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libgbm-feedstock/pull/8",
   "id": 5423145818,
   "labels": [],
-  "last_fetched": "2026-11-21T02:45:03.599247",
+  "last_fetched": "2026-11-21T08:38:32.526316",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T08:36:53Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-21T02:01:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T08:36:53Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"81497f3c614e281baca9a71be588d5a0870a33b04924729f1e2339059d5441e7\"",
-  "Last-Modified": "Thu, 10 Sep 2026 09:25:26 GMT",
+  "ETag": "W/\"34d9b9b09a110f3c656f541182994a2755f7050cee5ecdaf971a79876c5c703b\"",
+  "Last-Modified": "Sat, 21 Nov 2026 09:29:12 GMT",
   "base": {
     "repo": {
       "name": "gdk-pixbuf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T09:29:12Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-10T09:23:35Z",
   "draft": false,
   "e_tag": "\"bde443123ab9d92fefbe6c5845f73cd5cf221ba8d101bec0d0190e2f3cba4e03\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/gdk-pixbuf-feedstock/pull/70",
   "id": 4494109803,
-  "labels": [],
-  "last_fetched": "2026-11-14T02:42:53.862837",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-21T09:29:15.542582",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-09-10T09:25:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T09:29:12Z"
 }

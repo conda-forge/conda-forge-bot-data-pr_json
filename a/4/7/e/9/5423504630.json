@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7f1b90584e9a5780ff39b3e3e8cd0bf7a7ec7f8755c7d2b96a7835a670afdb96\"",
-  "Last-Modified": "Sat, 21 Nov 2026 02:45:18 GMT",
+  "ETag": "\"d32e18cad3689e98637eb1c3f3908a9eb53cb46ede5e4765681c34499622ff0a\"",
+  "Last-Modified": "Sat, 21 Nov 2026 16:47:37 GMT",
   "base": {
     "repo": {
       "name": "google-auth-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T16:47:37Z",
   "closed_by": null,
   "created_at": "2026-11-21T02:43:29Z",
   "draft": false,
   "e_tag": "\"79235ded4a05ec4d6d04a25748ca39e12d0afd66d2fd255a5af6319e3727dc2e\"",
   "head": {
-    "ref": "2.63.0_h19188d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/google-auth-feedstock/pull/196",
   "id": 5423504630,
   "labels": [],
-  "last_fetched": "2026-11-21T06:24:23.232097",
+  "last_fetched": "2026-11-21T16:48:41.680566",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T16:47:37Z",
   "number": 196,
-  "state": "open",
-  "updated_at": "2026-11-21T02:45:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T16:47:37Z"
 }

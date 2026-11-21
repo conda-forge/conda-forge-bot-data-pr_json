@@ -1,29 +1,29 @@
 {
-  "ETag": "\"db9ffd433550d074e76be888b9e6de0bcaffb362790e8457f69d3c4a16c983ea\"",
-  "Last-Modified": "Sat, 21 Nov 2026 00:01:38 GMT",
+  "ETag": "\"3290a24e4dc6d6c55b1a22871a486e486df44131250852d2a970e1bfcca94112\"",
+  "Last-Modified": "Sat, 21 Nov 2026 18:24:03 GMT",
   "base": {
     "repo": {
       "name": "pyhelpers-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T18:24:03Z",
   "closed_by": null,
   "created_at": "2026-11-20T23:59:57Z",
   "draft": false,
   "e_tag": "\"fc6dc51d0b1c68c448f85f9c4b72659883a9fa6bc175215538af21b613779315\"",
   "head": {
-    "ref": "2.5.4_h8e8f76"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyhelpers-feedstock/pull/4",
   "id": 5422090371,
   "labels": [],
-  "last_fetched": "2026-11-21T00:54:15.683717",
+  "last_fetched": "2026-11-21T18:25:21.570360",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T18:24:03Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-21T00:01:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T18:24:03Z"
 }

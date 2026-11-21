@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7e93fb85ffe22921e73ac08d10b26935a0f07b5f7e6b31d3c387be18204ccfad\"",
-  "Last-Modified": "Sat, 21 Nov 2026 00:58:37 GMT",
+  "ETag": "\"8b74cae2373b510b9750c52ac820b6334d10292e382521b0542d4f1fd76d9005\"",
+  "Last-Modified": "Sat, 21 Nov 2026 21:43:05 GMT",
   "base": {
     "repo": {
       "name": "aggdraw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T21:43:05Z",
   "closed_by": null,
   "created_at": "2026-11-21T00:57:02Z",
   "draft": false,
   "e_tag": "\"5e7501c442c1bf6145209994be6df33204aaaf353d06e56c803a3cdf0cec3117\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hd54953"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aggdraw-feedstock/pull/44",
   "id": 5422621358,
   "labels": [],
-  "last_fetched": "2026-11-21T01:28:25.593349",
+  "last_fetched": "2026-11-21T21:44:31.254164",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T21:43:05Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-11-21T00:58:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T21:43:05Z"
 }

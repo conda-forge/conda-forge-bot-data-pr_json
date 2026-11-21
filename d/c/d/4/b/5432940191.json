@@ -1,27 +1,29 @@
 {
+  "ETag": "\"aef66d7d664bcd67403178c7c06efd691d8aebe63ee586555e85eef42de4ad6d\"",
+  "Last-Modified": "Sat, 21 Nov 2026 22:43:21 GMT",
   "base": {
     "repo": {
       "name": "tau-ai-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T22:43:21Z",
   "closed_by": null,
   "created_at": "2026-11-21T22:09:02Z",
   "draft": false,
   "e_tag": "\"3eb41217b8fe9372cd15ed36bb1377d7c8f1d56fe2057a565fb71b924712b24c\"",
   "head": {
-    "ref": "0.4.12_h0eef1f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tau-ai-feedstock/pull/23",
   "id": 5432940191,
   "labels": [],
-  "last_fetched": "2026-11-21T22:09:03.251640",
+  "last_fetched": "2026-11-21T22:44:48.601639",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-21T22:43:21Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-21T22:09:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T22:43:21Z"
 }

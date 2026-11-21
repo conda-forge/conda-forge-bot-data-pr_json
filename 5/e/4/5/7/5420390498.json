@@ -1,29 +1,29 @@
 {
-  "ETag": "\"540b18c3155e829c26259ea82e8ed78a6dacb4236e436f0d49fe49d9371c8eb8\"",
-  "Last-Modified": "Fri, 20 Nov 2026 21:17:08 GMT",
+  "ETag": "\"434375c284febade504a98b9275349a396ddcd2659745ff2e808d26b4349fbbf\"",
+  "Last-Modified": "Sat, 21 Nov 2026 08:35:14 GMT",
   "base": {
     "repo": {
       "name": "assimulo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T08:35:14Z",
   "closed_by": null,
   "created_at": "2026-11-20T21:15:37Z",
   "draft": false,
   "e_tag": "\"92dea8bcc80f7d190ef1ad1884c113afddc923c237f3cbd9cf0f1395216a3eb0\"",
   "head": {
-    "ref": "3.9.0_h4e6b81"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/assimulo-feedstock/pull/124",
   "id": 5420390498,
   "labels": [],
-  "last_fetched": "2026-11-20T21:57:22.130266",
+  "last_fetched": "2026-11-21T08:36:26.541277",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T08:35:14Z",
   "number": 124,
-  "state": "open",
-  "updated_at": "2026-11-20T21:17:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T08:35:14Z"
 }

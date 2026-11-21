@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dd32793b692f4f83d51a97294543bae2f695b4128fe6c387b98f7e070c93feba\"",
+  "Last-Modified": "Sat, 21 Nov 2026 23:33:57 GMT",
   "base": {
     "repo": {
       "name": "datazets-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T23:33:53Z",
   "closed_by": null,
   "created_at": "2026-11-21T23:31:20Z",
   "draft": false,
   "e_tag": "\"14edd7fd3ae8b56dd4383c8a527108da26cf198acadb1405be65c53913e9d7c6\"",
   "head": {
-    "ref": "1.1.5_h2a4c7c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/datazets-feedstock/pull/8",
   "id": 5433569093,
   "labels": [],
-  "last_fetched": "2026-11-21T23:31:20.842140",
+  "last_fetched": "2026-11-21T23:35:17.060698",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-21T23:33:53Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-21T23:31:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T23:33:57Z"
 }

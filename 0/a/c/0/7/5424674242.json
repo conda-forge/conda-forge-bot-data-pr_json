@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d18217c84d88b12e8a14d6179689d1001c108a43ccc94c699115f0430adf1d9a\"",
+  "Last-Modified": "Sat, 21 Nov 2026 05:34:12 GMT",
   "base": {
     "repo": {
       "name": "ca-certificates-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T05:34:07Z",
   "closed_by": null,
   "created_at": "2026-11-21T05:32:02Z",
   "draft": false,
   "e_tag": "\"5cb5f0e84fefad84cbdf8c169278da968170570e79611cee1934fb04a6476820\"",
   "head": {
-    "ref": "2026.11.20_h319016"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ca-certificates-feedstock/pull/93",
   "id": 5424674242,
   "labels": [],
-  "last_fetched": "2026-11-21T05:32:02.835733",
+  "last_fetched": "2026-11-21T05:35:47.280985",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-21T05:34:07Z",
   "number": 93,
-  "state": "open",
-  "updated_at": "2026-11-21T05:32:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T05:34:12Z"
 }

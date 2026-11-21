@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a1544bc8f0a33e8b5ffb1654dd9eb410120fb10851f5ac32aeba97c652106241\"",
-  "Last-Modified": "Sat, 21 Nov 2026 16:26:46 GMT",
+  "ETag": "W/\"8d3100db1cbc2354b410b5eb10affb9bb7d616f190fb68864c48c9449d530ea3\"",
+  "Last-Modified": "Sat, 21 Nov 2026 16:26:44 GMT",
   "base": {
     "repo": {
       "name": "boto3-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/boto3-feedstock/pull/2164",
   "id": 5402374802,
-  "labels": [],
-  "last_fetched": "2026-11-21T16:28:04.301187",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-21T16:26:47.131308",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 2164,
   "state": "closed",
-  "updated_at": "2026-11-21T16:26:46Z"
+  "updated_at": "2026-11-21T16:26:44Z"
 }

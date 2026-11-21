@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1c30e2a1c53a43bd9f6eba252dddcf96e4bc77daa17cb4bd0d42625f78cc7b23\"",
-  "Last-Modified": "Sat, 21 Nov 2026 10:28:25 GMT",
+  "ETag": "\"5f3c8c0442cfc83bf4e9c61f2783869efc82a693db4f3c1364725310d8f6b55d\"",
+  "Last-Modified": "Sat, 21 Nov 2026 15:20:27 GMT",
   "base": {
     "repo": {
       "name": "yarp-device-realsense2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T15:20:27Z",
   "closed_by": null,
   "created_at": "2026-11-21T10:26:57Z",
   "draft": false,
   "e_tag": "\"866af28cb7890b350e7fd0cb8810881ab46bc908d013e4d011eb2a923c04102a\"",
   "head": {
-    "ref": "rebuild-librealsense2592-0-1_h808698"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yarp-device-realsense2-feedstock/pull/22",
   "id": 5426867549,
   "labels": [],
-  "last_fetched": "2026-11-21T11:14:56.862739",
+  "last_fetched": "2026-11-21T15:21:43.662734",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T15:20:27Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-21T10:28:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T15:20:27Z"
 }

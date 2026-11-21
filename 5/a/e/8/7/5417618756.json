@@ -1,29 +1,29 @@
 {
-  "ETag": "\"96f80b37fc33dc45138fa0e1604808367556004f7b984748a7897ece53e1fe2e\"",
-  "Last-Modified": "Sat, 21 Nov 2026 02:19:36 GMT",
+  "ETag": "\"bc4c123a291967140a636c975c27ec0c0a185f3efc9104aaff06cbf78d63f4ac\"",
+  "Last-Modified": "Sat, 21 Nov 2026 03:04:34 GMT",
   "base": {
     "repo": {
       "name": "turso-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T03:04:34Z",
   "closed_by": null,
   "created_at": "2026-11-20T17:32:40Z",
   "draft": false,
   "e_tag": "\"c1a3037df8536608a77174be384cdf7c79c2c3bbba1eac693eafa010e3c1095d\"",
   "head": {
-    "ref": "0.8.4_had69bf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/turso-feedstock/pull/5",
   "id": 5417618756,
   "labels": [],
-  "last_fetched": "2026-11-21T02:58:00.928075",
+  "last_fetched": "2026-11-21T03:06:04.212118",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T03:04:34Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-21T02:19:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T03:04:34Z"
 }

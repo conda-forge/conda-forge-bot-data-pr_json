@@ -1,29 +1,29 @@
 {
-  "ETag": "\"104aea0e2db116eb38f92ce655404626ec93aadbb545d5ccaefc65aec0ec37a5\"",
-  "Last-Modified": "Sat, 21 Nov 2026 07:59:33 GMT",
+  "ETag": "\"c6fd9428b266e88649e4cffd52c6cfe16f8671ee9524895a440c47b188b744ca\"",
+  "Last-Modified": "Sat, 21 Nov 2026 16:38:38 GMT",
   "base": {
     "repo": {
       "name": "botocore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T16:38:38Z",
   "closed_by": null,
   "created_at": "2026-11-21T07:57:56Z",
   "draft": false,
   "e_tag": "\"bc840264f3592571c6b83134e830fb61a7ea5efde71e5d56218ba7ae9b599d20\"",
   "head": {
-    "ref": "1.44.9_h0de96d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/botocore-feedstock/pull/2166",
   "id": 5425762338,
   "labels": [],
-  "last_fetched": "2026-11-21T14:43:04.288486",
+  "last_fetched": "2026-11-21T16:39:53.200185",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T16:38:38Z",
   "number": 2166,
-  "state": "open",
-  "updated_at": "2026-11-21T07:59:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T16:38:38Z"
 }

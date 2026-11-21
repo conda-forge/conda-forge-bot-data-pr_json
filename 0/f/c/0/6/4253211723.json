@@ -1,6 +1,6 @@
 {
-  "ETag": "\"39e30f3370ea5df7c97c14d7849df4ce2e3d636e3fa5e0595004ce4e612efb5a\"",
-  "Last-Modified": "Sat, 21 Nov 2026 03:18:34 GMT",
+  "ETag": "W/\"55a78fe6de85a0683917f534015fbb0a07e4b1522e5fceda29f6656a75630d8c\"",
+  "Last-Modified": "Sat, 21 Nov 2026 03:18:31 GMT",
   "base": {
     "repo": {
       "name": "gnutls-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/gnutls-feedstock/pull/61",
   "id": 4253211723,
-  "labels": [],
-  "last_fetched": "2026-11-21T03:19:59.210371",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-21T03:18:34.344884",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 61,
   "state": "closed",
-  "updated_at": "2026-11-21T03:18:34Z"
+  "updated_at": "2026-11-21T03:18:31Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"5bf9d67a758d156ce240702bd27f90b9edec96544feb2d1c6044e3c419e51783\"",
-  "Last-Modified": "Tue, 11 Aug 2026 12:39:57 GMT",
+  "ETag": "\"39e30f3370ea5df7c97c14d7849df4ce2e3d636e3fa5e0595004ce4e612efb5a\"",
+  "Last-Modified": "Sat, 21 Nov 2026 03:18:34 GMT",
   "base": {
     "repo": {
       "name": "gnutls-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T03:18:31Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-11T12:35:42Z",
   "draft": false,
   "e_tag": "\"a9090b1edb4834eaccd587a4efeb7d61d3a50ba2ad6e1de74f00cf8493c74531\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/gnutls-feedstock/pull/61",
   "id": 4253211723,
   "labels": [],
-  "last_fetched": "2026-11-14T01:45:38.167454",
+  "last_fetched": "2026-11-21T03:19:59.210371",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-08-11T12:39:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T03:18:34Z"
 }

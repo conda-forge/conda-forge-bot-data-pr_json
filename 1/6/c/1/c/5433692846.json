@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e3a47c5a769eff8015e0c30fbd0f28a9c4367f24a06399c68f5a8ddd11b73fef\"",
+  "Last-Modified": "Sat, 21 Nov 2026 23:49:50 GMT",
   "base": {
     "repo": {
       "name": "mathparse-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T23:49:47Z",
   "closed_by": null,
   "created_at": "2026-11-21T23:47:59Z",
   "draft": false,
   "e_tag": "\"f32d45dac8c3a4610bcbd2ecc59ccf8841d8883407dd7123ed90f424c53f1f1c\"",
   "head": {
-    "ref": "0.2.10_h38c4a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mathparse-feedstock/pull/1",
   "id": 5433692846,
   "labels": [],
-  "last_fetched": "2026-11-21T23:48:00.248449",
+  "last_fetched": "2026-11-21T23:51:14.161785",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-21T23:49:47Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-21T23:47:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T23:49:50Z"
 }

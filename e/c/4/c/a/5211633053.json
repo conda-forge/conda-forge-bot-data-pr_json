@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a1ec0a1ed5054021feba73935d9556295bdd9b9364a6fa0db97684932f4fbc11\"",
-  "Last-Modified": "Fri, 20 Nov 2026 07:30:15 GMT",
+  "ETag": "\"76dcab1746dad5d9725bfa8321b53774d37d2238cec1045c54214dbf6308adba\"",
+  "Last-Modified": "Sat, 21 Nov 2026 11:06:11 GMT",
   "base": {
     "repo": {
       "name": "fenics-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T11:06:11Z",
   "closed_by": null,
   "created_at": "2026-11-08T13:17:25Z",
   "draft": false,
   "e_tag": "\"bda8f654bac9fefc5c75ad620a8f984cf15a4a8501f33d80940f2c106c6e58e3\"",
   "head": {
-    "ref": "rebuild-petsc326-0-1_h111604"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fenics-feedstock/pull/300",
   "id": 5211633053,
   "labels": [],
-  "last_fetched": "2026-11-20T07:31:14.210360",
+  "last_fetched": "2026-11-21T11:07:39.153040",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T11:06:11Z",
   "number": 300,
-  "state": "open",
-  "updated_at": "2026-11-20T07:30:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T11:06:11Z"
 }

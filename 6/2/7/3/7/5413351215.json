@@ -1,29 +1,29 @@
 {
-  "ETag": "\"05a2543359b7ea7c9bb56a4438bda04b88c2b7fea5b570a15672db71bd09d0bb\"",
-  "Last-Modified": "Fri, 20 Nov 2026 12:32:14 GMT",
+  "ETag": "\"a739ae142a617a1d6f612566b38dbcd53c3fb783771bf3abcfd1bed7ad589362\"",
+  "Last-Modified": "Sat, 21 Nov 2026 22:00:19 GMT",
   "base": {
     "repo": {
       "name": "cppyy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T22:00:19Z",
   "closed_by": null,
   "created_at": "2026-11-20T12:30:52Z",
   "draft": false,
   "e_tag": "\"5eef873877606d041e0945821721fe2a7e388825a9e6a3bbe7651fe3f876267a\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h878bfc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cppyy-feedstock/pull/87",
   "id": 5413351215,
   "labels": [],
-  "last_fetched": "2026-11-20T13:43:38.778748",
+  "last_fetched": "2026-11-21T22:01:45.847507",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T22:00:19Z",
   "number": 87,
-  "state": "open",
-  "updated_at": "2026-11-20T12:32:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T22:00:19Z"
 }

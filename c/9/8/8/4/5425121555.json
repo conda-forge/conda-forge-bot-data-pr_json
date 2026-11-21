@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ce85c915d07005df21c2f2467e2459bfa3e50cd7d15c038cabd28ad525b8095c\"",
-  "Last-Modified": "Sat, 21 Nov 2026 06:31:15 GMT",
+  "ETag": "\"0a3b4d113d33703e3138bbb2c2e238a77cf83371cda629b20e373b5ba3086966\"",
+  "Last-Modified": "Sat, 21 Nov 2026 20:58:06 GMT",
   "base": {
     "repo": {
       "name": "crawlerdetect-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T20:58:06Z",
   "closed_by": null,
   "created_at": "2026-11-21T06:29:53Z",
   "draft": false,
   "e_tag": "\"ab7a00b7ed56297cf2cb1cc0450be17cbded5b37007e21153abefa750bba87ce\"",
   "head": {
-    "ref": "0.4.3_h228436"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/crawlerdetect-feedstock/pull/7",
   "id": 5425121555,
   "labels": [],
-  "last_fetched": "2026-11-21T13:42:29.806918",
+  "last_fetched": "2026-11-21T20:59:24.963214",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T20:58:06Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-21T06:31:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T20:58:06Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f03926d55b783dfa0ede434604df6bac357b96fca250a3ee23d03e04ec959aed\"",
+  "Last-Modified": "Sat, 21 Nov 2026 02:23:19 GMT",
   "base": {
     "repo": {
       "name": "r-v8-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T02:23:19Z",
   "closed_by": null,
   "created_at": "2026-11-21T02:07:01Z",
   "draft": false,
   "e_tag": "\"ef4fe8b9d597c90fb772bc4317cd1f132f2581355a53c639b5be2f175d727e45\"",
   "head": {
-    "ref": "8.3.0_h845911"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-v8-feedstock/pull/63",
   "id": 5423202297,
   "labels": [],
-  "last_fetched": "2026-11-21T02:07:02.263797",
+  "last_fetched": "2026-11-21T02:24:42.325315",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-21T02:23:19Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-11-21T02:07:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T02:23:23Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"5e822b62cdda1a1d3db8f4ee92dc00b89ba1b13920003775c2850a24d0d0d6e5\"",
-  "Last-Modified": "Fri, 02 Oct 2026 00:15:20 GMT",
+  "ETag": "W/\"0d88d6d91bc27a344b066982798f8cc751c0be80205367082c397096791fe42e\"",
+  "Last-Modified": "Sat, 21 Nov 2026 01:19:30 GMT",
   "base": {
     "repo": {
       "name": "pymca-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T01:19:30Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-02T00:13:37Z",
   "draft": false,
   "e_tag": "\"fc61ed432ca335db529a6a1f1caaf4e4146286c6a83d044e12732646bf6c4698\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/pymca-feedstock/pull/62",
   "id": 4711111180,
-  "labels": [],
-  "last_fetched": "2026-11-13T20:42:31.912982",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-21T01:19:33.703029",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 62,
-  "state": "open",
-  "updated_at": "2026-10-02T00:15:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T01:19:30Z"
 }

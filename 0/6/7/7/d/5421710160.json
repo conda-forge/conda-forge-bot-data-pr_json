@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7a8356ff961992bfa39d05a59121f8d6430a3eda17ae645fe180c82de6546f20\"",
-  "Last-Modified": "Fri, 20 Nov 2026 23:22:52 GMT",
+  "ETag": "\"80537174d232128255d928d6dafe941db6ac5c21578ac1c8bc7983f4ad882950\"",
+  "Last-Modified": "Sat, 21 Nov 2026 08:09:17 GMT",
   "base": {
     "repo": {
       "name": "doclang-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T08:09:17Z",
   "closed_by": null,
   "created_at": "2026-11-20T23:21:15Z",
   "draft": false,
   "e_tag": "\"3df8f264063164dd81e9ed0efc5b0c7866fa2e2668903a41e5bfd7babb011510\"",
   "head": {
-    "ref": "0.10.1_hb02915"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/doclang-feedstock/pull/8",
   "id": 5421710160,
   "labels": [],
-  "last_fetched": "2026-11-21T03:19:44.342153",
+  "last_fetched": "2026-11-21T08:10:35.344485",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T08:09:17Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-20T23:22:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T08:09:17Z"
 }

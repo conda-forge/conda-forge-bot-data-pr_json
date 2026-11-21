@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b5662c6c27ac934e69b3d9e32bda04e3a972b8a38a6526586d98a198a37548ec\"",
-  "Last-Modified": "Sat, 21 Nov 2026 13:30:51 GMT",
+  "ETag": "\"16269af85f760a4b2d71c02f2dfbb4f3d1fbc26d47df8330251ba79e8b83891d\"",
+  "Last-Modified": "Sat, 21 Nov 2026 20:54:25 GMT",
   "base": {
     "repo": {
       "name": "camply-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T20:54:25Z",
   "closed_by": null,
   "created_at": "2026-11-21T13:29:17Z",
   "draft": false,
   "e_tag": "\"616d36d96195204243542b0d32cc51d3b9c5eb04655a259d738cce70ebb38d02\"",
   "head": {
-    "ref": "1.0.0_h3625c6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/camply-feedstock/pull/91",
   "id": 5428307410,
   "labels": [],
-  "last_fetched": "2026-11-21T19:58:57.630759",
+  "last_fetched": "2026-11-21T20:55:54.665048",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T20:54:25Z",
   "number": 91,
-  "state": "open",
-  "updated_at": "2026-11-21T13:30:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T20:54:25Z"
 }

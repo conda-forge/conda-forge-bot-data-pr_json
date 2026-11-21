@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7b8463cf5037f3dfe80a312a592f02567ed02ef6fc4f676d7a4d597af9594ac9\"",
+  "Last-Modified": "Sat, 21 Nov 2026 04:26:35 GMT",
   "base": {
     "repo": {
       "name": "aws-c-common-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T04:26:30Z",
   "closed_by": null,
   "created_at": "2026-11-21T04:21:32Z",
   "draft": false,
   "e_tag": "\"39dacb5f8bdeb74a9df7c831ab62e542bb148908d6e180a6e1f35cabfad9e0d7\"",
   "head": {
-    "ref": "1.0.6_h3316cb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-c-common-feedstock/pull/147",
   "id": 5424181704,
   "labels": [],
-  "last_fetched": "2026-11-21T04:21:33.136610",
+  "last_fetched": "2026-11-21T04:28:07.845968",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-21T04:26:30Z",
   "number": 147,
-  "state": "open",
-  "updated_at": "2026-11-21T04:21:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T04:26:35Z"
 }

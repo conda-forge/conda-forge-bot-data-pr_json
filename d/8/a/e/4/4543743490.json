@@ -1,12 +1,13 @@
 {
-  "ETag": "\"d4137b4fda76cb4cc9ee9c60b6d50c8d481527674105714ae81413855657a3ae\"",
-  "Last-Modified": "Wed, 16 Sep 2026 03:47:43 GMT",
+  "ETag": "W/\"838c4f8ca8b31ea48390027641f761929bd38103a415fba6d6943f6134141e33\"",
+  "Last-Modified": "Sat, 21 Nov 2026 21:12:03 GMT",
   "base": {
     "repo": {
       "name": "pystackreg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T21:12:03Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-16T03:46:01Z",
   "draft": false,
   "e_tag": "\"df9f214ed17f3f3451fe2c67616dbf197ad9f2b3c4515c8da36cadbd7c6d3eb5\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pystackreg-feedstock/pull/27",
   "id": 4543743490,
-  "labels": [],
-  "last_fetched": "2026-11-19T01:16:47.176610",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 2265963634,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwyMjY1OTYzNjM0",
+      "url": "https://api.github.com/repos/conda-forge/pystackreg-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-21T21:12:06.377782",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-09-16T03:47:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T21:12:03Z"
 }

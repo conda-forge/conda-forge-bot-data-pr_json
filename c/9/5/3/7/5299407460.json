@@ -1,13 +1,13 @@
 {
-  "ETag": "\"34a3a7a397012a08163392537be7a3c326c285cd89b13513ce1e9568bde211b7\"",
-  "Last-Modified": "Fri, 13 Nov 2026 16:51:38 GMT",
+  "ETag": "W/\"7a58e983b4b4150e2b93afd409067be680b5924bbae469da78f851ef60a72c2f\"",
+  "Last-Modified": "Sat, 21 Nov 2026 15:44:27 GMT",
   "base": {
     "repo": {
       "name": "google-cloud-cpp-core-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-21T15:44:27Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-13T16:50:07Z",
   "draft": false,
   "e_tag": "\"c7ce501bf6f08678dd31012a0eb435fd6fc4995ad1987af05fdb67b210a8e924\"",
@@ -16,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/google-cloud-cpp-core-feedstock/pull/68",
   "id": 5299407460,
-  "labels": [],
-  "last_fetched": "2026-11-14T06:45:46.347868",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-21T15:44:30.090207",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-11-13T16:51:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T15:44:27Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "\"e9b17d638836ffd316dbc6716a859aa22c0eb629471d5a3efeea2231d9b10d81\"",
-  "Last-Modified": "Sat, 21 Nov 2026 04:06:40 GMT",
+  "ETag": "\"7c94646e317e53c72192ff5b5902705642559d34b9ccccea388c98299c1807f8\"",
+  "Last-Modified": "Sat, 21 Nov 2026 04:17:07 GMT",
   "base": {
     "repo": {
       "name": "ojph-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T04:17:03Z",
   "closed_by": null,
   "created_at": "2026-11-20T19:16:42Z",
   "draft": false,
   "e_tag": "\"91e980a01c30f73b424e141068cfcb9069f9f088e39bae45ebca87f175a6f5dd\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h7988a5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ojph-feedstock/pull/64",
   "id": 5418936050,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/ojph-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-21T04:08:19.683811",
+  "last_fetched": "2026-11-21T04:18:34.476653",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T04:17:02Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-11-21T04:06:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T04:17:07Z"
 }

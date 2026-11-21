@@ -1,12 +1,13 @@
 {
-  "ETag": "\"6ca8e8098d0c47e4fa2b2f1210dfcb7feb9408b1d06e14da4c65051296a2dec4\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"d62b47ee29a7412e8786c5330061bfef29b0719ad4ae6d853a3908bba34485e1\"",
+  "Last-Modified": "Sat, 21 Nov 2026 14:29:24 GMT",
   "base": {
     "repo": {
       "name": "px-proxy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T14:29:24Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-10-23T05:49:59Z",
   "draft": false,
   "e_tag": "\"48bdc6f12ef1959acc276011bfae4c87f2b96e691c5b71ea385cafd2ed31a922\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/px-proxy-feedstock/pull/22",
   "id": 2939216589,
-  "labels": [],
-  "last_fetched": "2026-11-14T12:57:33.981254",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-21T14:29:27.094440",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 22,
-  "state": "open",
-  "updated_at": "2025-10-23T05:51:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T14:29:24Z"
 }

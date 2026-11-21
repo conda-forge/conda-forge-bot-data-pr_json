@@ -1,6 +1,6 @@
 {
-  "ETag": "\"be5dfbd316b4623b2dcf0467d931c52525e94970391be3ff04d015124e623dde\"",
-  "Last-Modified": "Mon, 16 Nov 2026 20:14:43 GMT",
+  "ETag": "\"2c30da505f90e94d6d4942303ba1fd8711228f0b48ba9ac3caa08e3f1bf8df16\"",
+  "Last-Modified": "Sat, 21 Nov 2026 22:02:45 GMT",
   "base": {
     "repo": {
       "name": "gdal-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/gdal-feedstock/pull/1260",
   "id": 5301511027,
-  "labels": [],
-  "last_fetched": "2026-11-16T22:27:57.628530",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890881978,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODgxOTc4",
+      "url": "https://api.github.com/repos/conda-forge/gdal-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-21T22:04:17.198136",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 1260,
   "state": "open",
-  "updated_at": "2026-11-16T20:14:43Z"
+  "updated_at": "2026-11-21T22:02:45Z"
 }

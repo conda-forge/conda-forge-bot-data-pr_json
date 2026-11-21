@@ -1,6 +1,6 @@
 {
-  "ETag": "\"adc1f90284e1691354e624da468de619d30d57714bc7827316b59cfbd2d62b25\"",
-  "Last-Modified": "Fri, 20 Nov 2026 19:18:19 GMT",
+  "ETag": "\"e9b17d638836ffd316dbc6716a859aa22c0eb629471d5a3efeea2231d9b10d81\"",
+  "Last-Modified": "Sat, 21 Nov 2026 04:06:40 GMT",
   "base": {
     "repo": {
       "name": "ojph-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/ojph-feedstock/pull/64",
   "id": 5418936050,
-  "labels": [],
-  "last_fetched": "2026-11-20T23:42:13.197945",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7613693948,
+      "name": "automerge",
+      "node_id": "LA_kwDONBTF888AAAABxc-__A",
+      "url": "https://api.github.com/repos/conda-forge/ojph-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-21T04:08:19.683811",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 64,
   "state": "open",
-  "updated_at": "2026-11-20T19:18:19Z"
+  "updated_at": "2026-11-21T04:06:40Z"
 }

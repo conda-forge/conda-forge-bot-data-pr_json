@@ -1,29 +1,41 @@
 {
-  "ETag": "\"11f0b034414ed46c64a022e5c457ba9de014af9a47f4e0116a590d41d3fe1a57\"",
-  "Last-Modified": "Sat, 21 Nov 2026 20:06:58 GMT",
+  "ETag": "\"bd2184e2aff769e463e799db0f779ebb24b09b9d8d4f833335c17e0cbabc3158\"",
+  "Last-Modified": "Sat, 21 Nov 2026 20:39:17 GMT",
   "base": {
     "repo": {
       "name": "dau-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T20:39:13Z",
   "closed_by": null,
   "created_at": "2026-11-21T20:05:16Z",
   "draft": false,
   "e_tag": "\"e26fe1cd80933d59812949e1d54721bb8a8a11c829072f486e2828543af1b767\"",
   "head": {
-    "ref": "0.11.0_h4d67c3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dau-core-feedstock/pull/5",
   "id": 5431901951,
-  "labels": [],
-  "last_fetched": "2026-11-21T20:27:59.109163",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12866303974,
+      "name": "automerge",
+      "node_id": "LA_kwDOVaPnTs8AAAAC_uQ35g",
+      "url": "https://api.github.com/repos/conda-forge/dau-core-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-21T20:39:51.681250",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-21T20:39:13Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-21T20:06:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T20:39:17Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"031b029fb24ce80194a300c5d2907829f7b1faaa57aa037cde24bd555eeb1b23\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"2ca2d41d2b6e1b1244907a9552933b3e270f08e93f62960f74a2263108ac2d68\"",
+  "Last-Modified": "Sat, 21 Nov 2026 07:43:40 GMT",
   "base": {
     "repo": {
       "name": "librepo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T07:43:40Z",
+  "closed_by": "h-vetinari",
   "created_at": "2023-05-18T12:58:04Z",
   "draft": false,
   "head": {
@@ -27,12 +28,12 @@
       "url": "https://api.github.com/repos/conda-forge/librepo-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-20T21:16:39.361009",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "last_fetched": "2026-11-21T07:45:20.647355",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 30,
-  "state": "open",
-  "updated_at": "2023-07-27T10:36:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T07:43:40Z"
 }

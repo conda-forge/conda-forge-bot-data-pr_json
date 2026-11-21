@@ -1,27 +1,29 @@
 {
+  "ETag": "\"834ede1eaa1324103c7d7324be11cc242702b309935dcdfb9881d86466456c4c\"",
+  "Last-Modified": "Sat, 21 Nov 2026 08:38:02 GMT",
   "base": {
     "repo": {
       "name": "pyvistaqt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-21T08:37:58Z",
   "closed_by": null,
   "created_at": "2026-11-21T08:33:59Z",
   "draft": false,
   "e_tag": "\"f112c39e1cfa80c3276873688ed667f5235c8316a0c5c9af7ac5636f131f080a\"",
   "head": {
-    "ref": "0.14.1_hbd46cf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyvistaqt-feedstock/pull/30",
   "id": 5426035502,
   "labels": [],
-  "last_fetched": "2026-11-21T08:34:00.346820",
+  "last_fetched": "2026-11-21T08:39:19.465027",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-21T08:37:58Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-21T08:33:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-21T08:38:02Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6e9fd6b8599e701d4275255d422d824ecc0ebfdadc59edd08fd74c4032118212\"",
+  "Last-Modified": "Sun, 22 Nov 2026 14:51:11 GMT",
   "base": {
     "repo": {
       "name": "straindesign-cobra-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T14:51:11Z",
   "closed_by": null,
   "created_at": "2026-11-22T14:14:07Z",
   "draft": false,
   "e_tag": "\"8e7295b76ae852e2578ff640414f875c2db6808e451af9b68adefe9217c57b00\"",
   "head": {
-    "ref": "1.20.0_he295e9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/straindesign-cobra-feedstock/pull/3",
   "id": 5439805884,
   "labels": [],
-  "last_fetched": "2026-11-22T14:14:08.272124",
+  "last_fetched": "2026-11-22T14:52:52.130136",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T14:51:11Z",
   "number": 3,
-  "state": "open",
-  "updated_at": "2026-11-22T14:14:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T14:51:11Z"
 }

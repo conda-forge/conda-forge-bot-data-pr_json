@@ -1,12 +1,13 @@
 {
-  "ETag": "\"c5c54c30718c693c60bc120c8381e60d7601fd80a6e5474e8eba29602b03a493\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"f354e89e52ca223e7756acdeec6a559591a169074b867c4255256c9d29db145e\"",
+  "Last-Modified": "Sun, 22 Nov 2026 20:23:47 GMT",
   "base": {
     "repo": {
       "name": "pyxel-sim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T20:23:44Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-07-08T04:26:15Z",
   "draft": false,
   "e_tag": "\"5a998ca69cc6e57441e57462a73ddfc0fae29496955e2b94fb6a2f8a45f50efa\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pyxel-sim-feedstock/pull/120",
   "id": 4011733563,
   "labels": [],
-  "last_fetched": "2026-11-18T04:19:54.321456",
+  "last_fetched": "2026-11-22T20:25:10.844226",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 120,
-  "state": "open",
-  "updated_at": "2026-07-08T04:28:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T20:23:47Z"
 }

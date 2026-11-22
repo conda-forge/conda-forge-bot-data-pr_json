@@ -1,29 +1,41 @@
 {
-  "ETag": "\"f2fe1fd7fb34acc35b4c6733448ee69205f018f470af5f8fc1d0a4f480cdd39d\"",
-  "Last-Modified": "Sun, 22 Nov 2026 05:09:27 GMT",
+  "ETag": "\"8b41e4d6b1f2cbe8f87853ae7d721830f6ebf4cdfd42361452cbf8981cee780f\"",
+  "Last-Modified": "Sun, 22 Nov 2026 17:00:21 GMT",
   "base": {
     "repo": {
       "name": "uhdm-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T17:00:21Z",
   "closed_by": null,
   "created_at": "2026-11-22T05:07:56Z",
   "draft": false,
   "e_tag": "\"becb2521d73d20bbc0580f2c5707df46ee7bfa184feaac6eed7e137a15957dfc\"",
   "head": {
-    "ref": "1.90_h14a3e8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uhdm-feedstock/pull/36",
   "id": 5435996907,
-  "labels": [],
-  "last_fetched": "2026-11-22T05:16:57.246233",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5952619508,
+      "name": "automerge",
+      "node_id": "LA_kwDOKSehfM8AAAABYs3D9A",
+      "url": "https://api.github.com/repos/conda-forge/uhdm-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T17:01:04.890788",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T17:00:21Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-11-22T05:09:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T17:00:26Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "\"a892d4e871a0c352ec0fca3efd03a2b24da06786912a6e90072250b3316e45b3\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"e30cb4f5e662f0aa024bc99b913d64621c211949c46d47243d3882d785cf0e2a\"",
+  "Last-Modified": "Sun, 22 Nov 2026 13:24:30 GMT",
   "base": {
     "repo": {
       "name": "isabelle-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T13:24:23Z",
   "created_at": "2026-06-20T18:01:54Z",
   "draft": false,
   "e_tag": "\"30c17771aca1dee82e39004842d4c55cb4018312105a3cf6b51b1f2a20d7c810\"",
   "head": {
-    "ref": "1.1.2_h6bdd7a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/isabelle-client-feedstock/pull/37",
   "id": 3904622867,
   "labels": [],
-  "last_fetched": "2026-11-21T21:14:09.846025",
+  "last_fetched": "2026-11-22T13:25:53.636886",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T13:24:23Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-06-20T18:03:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T13:24:30Z"
 }

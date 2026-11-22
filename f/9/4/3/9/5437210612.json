@@ -1,18 +1,18 @@
 {
-  "ETag": "\"14b829f77de7800e1feef62f1da24b6640592889a305f412945f9eacd479297a\"",
-  "Last-Modified": "Sun, 22 Nov 2026 08:26:12 GMT",
+  "ETag": "\"b9982e68160e47cb313969e211d7809190900d9aee5c5a291c40a191441aa4da\"",
+  "Last-Modified": "Sun, 22 Nov 2026 08:46:25 GMT",
   "base": {
     "repo": {
       "name": "cppyy-cling-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T08:46:21Z",
   "closed_by": null,
   "created_at": "2026-11-22T08:21:46Z",
   "draft": false,
   "e_tag": "\"d4dcd834e20f533c93a023a971a5bb7f6b8489196d5a49ba88b5aea355ca9eaa\"",
   "head": {
-    "ref": "rebuild-libboost190-0-1_h58606d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cppyy-cling-feedstock/pull/95",
   "id": 5437210612,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/cppyy-cling-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-22T08:27:26.459750",
+  "last_fetched": "2026-11-22T08:47:38.092700",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T08:46:21Z",
   "number": 95,
-  "state": "open",
-  "updated_at": "2026-11-22T08:26:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T08:46:25Z"
 }

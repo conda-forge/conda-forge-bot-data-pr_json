@@ -1,18 +1,18 @@
 {
-  "ETag": "\"38f82dcc039c9ffa37b11d6bb520527042bede48388aa20038855b038332bcc9\"",
-  "Last-Modified": "Sun, 22 Nov 2026 20:00:18 GMT",
+  "ETag": "\"de4cf817f4dee859183a5aac9d1df0bbad66c6bb65b0030031f4a3d0b4318470\"",
+  "Last-Modified": "Sun, 22 Nov 2026 20:11:11 GMT",
   "base": {
     "repo": {
       "name": "rav1e-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T20:11:08Z",
   "closed_by": null,
   "created_at": "2026-11-18T10:58:03Z",
   "draft": false,
   "e_tag": "\"99d708a28b34ee6450c415e39b737d6b1a4561c53e15b52e16eb8dfd38ce8f78\"",
   "head": {
-    "ref": "bot-pr_riscv64_he1ea81"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rav1e-feedstock/pull/16",
   "id": 5374645938,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/rav1e-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-22T20:01:58.909790",
+  "last_fetched": "2026-11-22T20:12:41.840158",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T20:11:08Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-22T20:00:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T20:11:11Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"730135cac6d037c2a86ab5e07c15d86274df2feb0b9c089710fe04555dd6cb43\"",
-  "Last-Modified": "Sun, 22 Nov 2026 05:07:03 GMT",
+  "ETag": "\"4871249eb3890077cbe5a68ff6200bf236d37bab38ab8e609c4f9a2e9f6c904c\"",
+  "Last-Modified": "Sun, 22 Nov 2026 19:28:03 GMT",
   "base": {
     "repo": {
       "name": "dau-build-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/dau-build-feedstock/pull/8",
   "id": 5435983515,
-  "labels": [],
-  "last_fetched": "2026-11-22T06:24:35.129255",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11831569950,
+      "name": "automerge",
+      "node_id": "LA_kwDOT4SAt88AAAACwTduHg",
+      "url": "https://api.github.com/repos/conda-forge/dau-build-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T19:29:40.101584",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 8,
   "state": "open",
-  "updated_at": "2026-11-22T05:07:03Z"
+  "updated_at": "2026-11-22T19:28:03Z"
 }

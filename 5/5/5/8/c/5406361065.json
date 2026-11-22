@@ -1,29 +1,29 @@
 {
-  "ETag": "\"98b4489c1e74925c9302fd5f7aec04234dc7e244f8e3eb818ce7197f13619d63\"",
-  "Last-Modified": "Fri, 20 Nov 2026 02:01:21 GMT",
+  "ETag": "\"40919ee876ba2651a97e39a17a36e4f085ff27fbb62047f027de282e99162022\"",
+  "Last-Modified": "Sun, 22 Nov 2026 19:51:30 GMT",
   "base": {
     "repo": {
       "name": "intel-level-zero-npu-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T19:51:30Z",
   "closed_by": null,
   "created_at": "2026-11-20T01:59:51Z",
   "draft": false,
   "e_tag": "\"58119c6f93039f853aec17edcc26891c6a2f9245bc942f068de05e02122f688f\"",
   "head": {
-    "ref": "1.39.1_h6c081d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/intel-level-zero-npu-feedstock/pull/10",
   "id": 5406361065,
   "labels": [],
-  "last_fetched": "2026-11-20T08:34:40.023207",
+  "last_fetched": "2026-11-22T19:52:52.634814",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T19:51:30Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-20T02:01:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T19:51:30Z"
 }

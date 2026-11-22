@@ -1,18 +1,18 @@
 {
-  "ETag": "\"0a577c67f86fd0cca1825256ab378334932e7a4553a8e911735bec53923ce956\"",
-  "Last-Modified": "Sun, 22 Nov 2026 10:06:45 GMT",
+  "ETag": "\"c9e44749fe07e5a8147fcbaaf8ca77afe8157e2ba128e11286982522506215e3\"",
+  "Last-Modified": "Sun, 22 Nov 2026 10:09:33 GMT",
   "base": {
     "repo": {
       "name": "primecountpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T10:09:33Z",
   "closed_by": null,
   "created_at": "2026-11-18T22:18:42Z",
   "draft": false,
   "e_tag": "\"5fa07f5502d5693b5f965f80a5cddaf2584a014bc53f72e277497d531b240804\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h892a4a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/primecountpy-feedstock/pull/21",
   "id": 5385054090,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/primecountpy-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-22T10:08:15.674536",
+  "last_fetched": "2026-11-22T10:11:02.753483",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T10:09:33Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-22T10:06:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T10:09:33Z"
 }

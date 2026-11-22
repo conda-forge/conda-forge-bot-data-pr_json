@@ -1,11 +1,13 @@
 {
+  "ETag": "\"50ba2f4b8a54e2b8f3dfa3120dec923ec5eaed4d7c45aee24887e0b7e68f6768\"",
+  "Last-Modified": "Sun, 22 Nov 2026 10:28:17 GMT",
   "base": {
     "repo": {
       "name": "signxml-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-22T10:28:15Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-22T06:29:32Z",
   "draft": false,
   "e_tag": "\"362670d3dbac94351ec1639a9b227d6a622b5eba95893821c28b8cb2f4713bfd\"",
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/signxml-feedstock/pull/48",
   "id": 5436487143,
   "labels": [],
-  "last_fetched": "2026-11-22T06:29:33.708685",
+  "last_fetched": "2026-11-22T10:29:41.505611",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-11-22T06:29:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T10:28:17Z"
 }

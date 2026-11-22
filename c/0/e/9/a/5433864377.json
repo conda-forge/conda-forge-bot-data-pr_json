@@ -1,18 +1,18 @@
 {
-  "ETag": "\"774fadef7eaaa9811b5ab6c9e50d579f9a93c49ce2524c15db63772fc752e081\"",
-  "Last-Modified": "Sun, 22 Nov 2026 00:15:44 GMT",
+  "ETag": "\"efb856b601e3161f3be03ca52b7d30ae0352d64e9ac6930c10bc9be57ec1ee02\"",
+  "Last-Modified": "Sun, 22 Nov 2026 00:51:41 GMT",
   "base": {
     "repo": {
       "name": "e-antic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T00:51:41Z",
   "closed_by": null,
   "created_at": "2026-11-22T00:09:13Z",
   "draft": false,
   "e_tag": "\"444a4b3ffa405d00aed0ec16ed4da019cf046f54dd9ac43d9d547d3cca276331\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h244369"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/e-antic-feedstock/pull/82",
   "id": 5433864377,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/e-antic-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-22T00:17:11.094847",
+  "last_fetched": "2026-11-22T00:53:17.479508",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T00:51:41Z",
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-11-22T00:15:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T00:51:45Z"
 }

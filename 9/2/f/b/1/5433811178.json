@@ -1,6 +1,6 @@
 {
-  "ETag": "\"4674317e5af95b71799e8b46f8b98afc526b3d405a1ac8b9acb885e13f735059\"",
-  "Last-Modified": "Sun, 22 Nov 2026 00:04:33 GMT",
+  "ETag": "\"2b1c1bc4caad5f20e4e0cd7d69ebff21edca63bc2d39f77915175364f8490737\"",
+  "Last-Modified": "Sun, 22 Nov 2026 02:23:43 GMT",
   "base": {
     "repo": {
       "name": "dartsim-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/dartsim-feedstock/pull/185",
   "id": 5433811178,
-  "labels": [],
-  "last_fetched": "2026-11-22T01:01:54.639243",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2423109294,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNDIzMTA5Mjk0",
+      "url": "https://api.github.com/repos/conda-forge/dartsim-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T02:25:03.671877",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 185,
   "state": "open",
-  "updated_at": "2026-11-22T00:04:33Z"
+  "updated_at": "2026-11-22T02:23:43Z"
 }

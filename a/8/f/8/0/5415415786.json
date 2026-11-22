@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ed5a7872dca715d60a6eba38906fc5556874be4ddfba8906991341102112265f\"",
-  "Last-Modified": "Fri, 20 Nov 2026 14:59:34 GMT",
+  "ETag": "\"eb031812815d5b8dc707b82133cca84954d2d9597ea51a6e7789df8316afe288\"",
+  "Last-Modified": "Sun, 22 Nov 2026 02:34:36 GMT",
   "base": {
     "repo": {
       "name": "gflow-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T02:34:36Z",
   "closed_by": null,
   "created_at": "2026-11-20T14:57:52Z",
   "draft": false,
   "e_tag": "\"5c94b96bb4f2cda1bab2874cca6e19d39587b3b7d8af8becbaae9021be5c010e\"",
   "head": {
-    "ref": "0.4.20_hd49ef0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gflow-feedstock/pull/23",
   "id": 5415415786,
   "labels": [],
-  "last_fetched": "2026-11-20T17:15:31.702106",
+  "last_fetched": "2026-11-22T02:35:59.016831",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T02:34:36Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-20T14:59:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T02:34:36Z"
 }

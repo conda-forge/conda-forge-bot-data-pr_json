@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a383ad57dbafff2bf2f51b0dcc532d1d5faa91452b094bb3d4f0dca6f601c740\"",
+  "Last-Modified": "Sun, 22 Nov 2026 00:54:46 GMT",
   "base": {
     "repo": {
       "name": "openmeteo-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T00:54:46Z",
   "closed_by": null,
   "created_at": "2026-11-22T00:49:36Z",
   "draft": false,
   "e_tag": "\"42934b2bba216fae2691b191c756f89715e7b6cc59108b25d453e0df17c5f6c5\"",
   "head": {
-    "ref": "1.31.0_h6d13ef"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/openmeteo-sdk-feedstock/pull/8",
   "id": 5434143651,
   "labels": [],
-  "last_fetched": "2026-11-22T00:49:37.130283",
+  "last_fetched": "2026-11-22T00:56:11.646374",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T00:54:45Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-22T00:49:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T00:54:46Z"
 }

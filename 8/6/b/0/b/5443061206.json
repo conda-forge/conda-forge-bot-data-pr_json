@@ -1,4 +1,6 @@
 {
+  "ETag": "\"a6580c35d7c04d4341ae9d65004d2015d7f0f00cded44d2c8c33049a44eda5d8\"",
+  "Last-Modified": "Sun, 22 Nov 2026 21:28:43 GMT",
   "base": {
     "repo": {
       "name": "cuid2-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cuid2-feedstock/pull/2",
   "id": 5443061206,
-  "labels": [],
-  "last_fetched": "2026-11-22T20:28:47.973427",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 13124050560,
+      "name": "automerge",
+      "node_id": "LA_kwDOVyabwc8AAAADDkEegA",
+      "url": "https://api.github.com/repos/conda-forge/cuid2-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T21:30:02.410457",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 2,
   "state": "open",
-  "updated_at": "2026-11-22T20:28:47Z"
+  "updated_at": "2026-11-22T21:28:43Z"
 }

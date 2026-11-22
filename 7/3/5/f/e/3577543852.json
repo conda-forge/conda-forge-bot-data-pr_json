@@ -1,6 +1,6 @@
 {
-  "ETag": "\"7c8a22fa961d64a6ccbb4d06c57f571b671a053fd2f05ab5ff1a539b6fdbe151\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"58189d1d89bdbc9f788d193c9bcd4280fdccdaa9f4d34800541738a0a4fea83b\"",
+  "Last-Modified": "Sun, 22 Nov 2026 07:05:11 GMT",
   "base": {
     "repo": {
       "name": "flatsurf-feedstock"
@@ -15,8 +15,20 @@
   },
   "html_url": "https://github.com/conda-forge/flatsurf-feedstock/pull/47",
   "id": 3577543852,
-  "labels": [],
-  "last_fetched": "2026-11-17T22:57:41.434570",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3602113897,
+      "name": "automerge",
+      "node_id": "LA_kwDOGdzyE87Ws-Vp",
+      "url": "https://api.github.com/repos/conda-forge/flatsurf-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T07:06:40.635618",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -24,5 +36,5 @@
   "merged_at": null,
   "number": 47,
   "state": "open",
-  "updated_at": "2026-04-24T06:49:19Z"
+  "updated_at": "2026-11-22T07:05:11Z"
 }

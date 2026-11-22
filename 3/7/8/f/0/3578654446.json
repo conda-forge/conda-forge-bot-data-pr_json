@@ -1,12 +1,13 @@
 {
-  "ETag": "\"7959708fa27dc9bffbf45ce28ef32c0003e247edacf04c229efe30e9e7ee940c\"",
-  "Last-Modified": "Tue, 11 Aug 2026 10:38:34 GMT",
+  "ETag": "W/\"5855d90607c4b0ab9aabf4563c5ecd936ec97f540cc57e2fb9c4605d01d9b3cb\"",
+  "Last-Modified": "Sun, 22 Nov 2026 07:02:44 GMT",
   "base": {
     "repo": {
       "name": "cppyy-cling-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T07:02:44Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-04-24T10:47:53Z",
   "draft": false,
   "e_tag": "\"318c66c851e4a21d96840686465ca368244a00aa45f548376df48e66b5bd0705\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cppyy-cling-feedstock/pull/85",
   "id": 3578654446,
-  "labels": [],
-  "last_fetched": "2026-11-20T17:57:23.617601",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890812478,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwODEyNDc4",
+      "url": "https://api.github.com/repos/conda-forge/cppyy-cling-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T07:02:47.558520",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 85,
-  "state": "open",
-  "updated_at": "2026-08-11T10:38:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T07:02:44Z"
 }

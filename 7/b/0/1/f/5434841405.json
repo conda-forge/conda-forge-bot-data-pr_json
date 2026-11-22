@@ -1,29 +1,29 @@
 {
-  "ETag": "\"dd2fe5aba44c3993d8f0468e4e6063c0247def36125b7344f8e8869b144a9505\"",
-  "Last-Modified": "Sun, 22 Nov 2026 02:23:42 GMT",
+  "ETag": "\"87b55ba5d289d6c23f3a2988bb4fc8e43c99b5a44d04a4806925b194b0bd552b\"",
+  "Last-Modified": "Sun, 22 Nov 2026 10:23:19 GMT",
   "base": {
     "repo": {
       "name": "fps-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T10:23:19Z",
   "closed_by": null,
   "created_at": "2026-11-22T02:22:10Z",
   "draft": false,
   "e_tag": "\"d99b12fefaa6b3fd7e658eec1cf87a3d2b5cf935c63c7e921be42537de81e4f1\"",
   "head": {
-    "ref": "0.6.8_h458ace"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fps-feedstock/pull/48",
   "id": 5434841405,
   "labels": [],
-  "last_fetched": "2026-11-22T02:44:59.117926",
+  "last_fetched": "2026-11-22T10:25:00.522774",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T10:23:19Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-11-22T02:23:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T10:23:19Z"
 }

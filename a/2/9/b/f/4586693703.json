@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3ba846e8465af592a44dc783df001b1e0b088d0ee3803cd6f2ece4c14ecc5b4c\"",
-  "Last-Modified": "Sun, 22 Nov 2026 21:20:18 GMT",
+  "ETag": "W/\"67e59d8dc41365b1d3499d6b91123308bcc173a2d09cca7f769da533875cfa5a\"",
+  "Last-Modified": "Sun, 22 Nov 2026 21:20:15 GMT",
   "base": {
     "repo": {
       "name": "genomekit-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/genomekit-feedstock/pull/92",
   "id": 4586693703,
-  "labels": [],
-  "last_fetched": "2026-11-22T21:21:47.112706",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T21:20:18.328446",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 92,
   "state": "closed",
-  "updated_at": "2026-11-22T21:20:18Z"
+  "updated_at": "2026-11-22T21:20:15Z"
 }

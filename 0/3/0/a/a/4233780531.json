@@ -1,12 +1,13 @@
 {
-  "ETag": "\"500bf6b619c7d8908714950353fc861e9eaed46d82ed54bf4733fab6ba69612b\"",
-  "Last-Modified": "Wed, 18 Nov 2026 23:38:48 GMT",
+  "ETag": "W/\"a8c7ac8f0e6d2e1878de4265dd588f0ac3c4ca8883b56c4f59db459a88f6101e\"",
+  "Last-Modified": "Sun, 22 Nov 2026 06:31:41 GMT",
   "base": {
     "repo": {
       "name": "flatsurf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T06:31:41Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-08-08T08:00:24Z",
   "draft": false,
   "e_tag": "\"a8f6af16393498055e35b934c2fc7723712e2d4c9e5f741c2e7f410909a8343a\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/flatsurf-feedstock/pull/48",
   "id": 4233780531,
-  "labels": [],
-  "last_fetched": "2026-11-19T03:42:50.839303",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3602113899,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOGdzyE87Ws-Vr",
+      "url": "https://api.github.com/repos/conda-forge/flatsurf-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T06:31:44.875753",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-11-18T23:38:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T06:31:41Z"
 }

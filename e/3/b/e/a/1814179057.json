@@ -1,6 +1,6 @@
 {
-  "ETag": "\"74ff902beafdadbb0c21aa9f52ac10ad4fc11e72dd4394df49e8108ed9e2b216\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:29:05 GMT",
+  "ETag": "W/\"8233a3e4ead739020dda1ce2cd59e818511152e5067450fdbfb5638f81645f3b\"",
+  "Last-Modified": "Sun, 22 Nov 2026 19:29:02 GMT",
   "base": {
     "repo": {
       "name": "librepo-feedstock"
@@ -15,13 +15,17 @@
   },
   "html_url": "https://github.com/conda-forge/librepo-feedstock/pull/35",
   "id": 1814179057,
-  "labels": [],
-  "last_fetched": "2026-11-22T19:30:31.644567",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T19:29:05.228288",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 35,
   "state": "closed",
-  "updated_at": "2026-11-22T19:29:05Z"
+  "updated_at": "2026-11-22T19:29:02Z"
 }

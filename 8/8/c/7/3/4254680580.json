@@ -1,6 +1,6 @@
 {
-  "ETag": "\"0a813a54506f49a34cf30be51f50625bdb3bb5c561af007446e250ceee3e9bd3\"",
-  "Last-Modified": "Sun, 22 Nov 2026 21:20:35 GMT",
+  "ETag": "W/\"324e3834fd79e5391f2174b7cea062ffcdccb177984fdc74be383476d58b99ef\"",
+  "Last-Modified": "Sun, 22 Nov 2026 21:20:33 GMT",
   "base": {
     "repo": {
       "name": "dftbplus-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/dftbplus-feedstock/pull/41",
   "id": 4254680580,
-  "labels": [],
-  "last_fetched": "2026-11-22T21:21:58.956833",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T21:20:36.374699",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 41,
   "state": "closed",
-  "updated_at": "2026-11-22T21:20:35Z"
+  "updated_at": "2026-11-22T21:20:33Z"
 }

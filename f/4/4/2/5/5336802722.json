@@ -1,13 +1,13 @@
 {
-  "ETag": "\"b379cbf477e074cbc6a7f2e8e5d1b77e96fd4bba5ce51bb8eab78f205b03349f\"",
-  "Last-Modified": "Mon, 16 Nov 2026 12:17:54 GMT",
+  "ETag": "\"a9e7051510c7465a4686a8c0e752e4d3ab6fddeafd61591c8f0cb028e8973709\"",
+  "Last-Modified": "Sun, 22 Nov 2026 19:28:44 GMT",
   "base": {
     "repo": {
       "name": "mysqlclient-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-22T19:28:42Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-16T12:16:14Z",
   "draft": false,
   "e_tag": "\"bb59deefdb462514d6f852617c0f0a46d014bc940d79c2d5b17aeb919fef3bdd\"",
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/mysqlclient-feedstock/pull/71",
   "id": 5336802722,
   "labels": [],
-  "last_fetched": "2026-11-16T19:15:10.398227",
+  "last_fetched": "2026-11-22T19:30:16.152332",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-11-16T12:17:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T19:28:44Z"
 }

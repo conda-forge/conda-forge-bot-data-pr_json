@@ -1,27 +1,29 @@
 {
+  "ETag": "\"43c04327053124b2344b8b5e7a3e0f9d79bdb6649686750f8e4cc23f0adc27ca\"",
+  "Last-Modified": "Sun, 22 Nov 2026 15:03:10 GMT",
   "base": {
     "repo": {
       "name": "pyagrum-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T15:03:06Z",
   "closed_by": null,
   "created_at": "2026-11-22T14:38:55Z",
   "draft": false,
   "e_tag": "\"4ac663c9bd9ecdc741e54148f6bd9fc25d2c9ae79630c3fb0a15d8bf1213675e\"",
   "head": {
-    "ref": "3.4.0_h1c8c56"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyagrum-feedstock/pull/218",
   "id": 5440033024,
   "labels": [],
-  "last_fetched": "2026-11-22T14:38:56.430008",
+  "last_fetched": "2026-11-22T15:04:35.824577",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T15:03:06Z",
   "number": 218,
-  "state": "open",
-  "updated_at": "2026-11-22T14:38:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T15:03:10Z"
 }

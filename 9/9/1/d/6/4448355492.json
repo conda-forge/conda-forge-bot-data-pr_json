@@ -1,12 +1,13 @@
 {
-  "ETag": "\"1c15a70db997b7a763c523311fbaab627a3eb01ef36560dd0adbfce93dc4a778\"",
-  "Last-Modified": "Tue, 10 Nov 2026 09:23:01 GMT",
+  "ETag": "W/\"2597836ce4237ec32812e4835aab7e842d4515435e6f4d9d575729a378507db8\"",
+  "Last-Modified": "Sun, 22 Nov 2026 07:07:17 GMT",
   "base": {
     "repo": {
       "name": "gap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T07:07:17Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-05T02:58:41Z",
   "draft": false,
   "e_tag": "\"fbaee52682462ebe799ccabfa788dcbe39ed6474eba0a1f4bc9424ff100295c4\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/gap-feedstock/pull/107",
   "id": 4448355492,
-  "labels": [],
-  "last_fetched": "2026-11-17T14:19:48.111391",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1890881718,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkwODgxNzE4",
+      "url": "https://api.github.com/repos/conda-forge/gap-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T07:07:20.631562",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-11-10T09:23:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T07:07:17Z"
 }

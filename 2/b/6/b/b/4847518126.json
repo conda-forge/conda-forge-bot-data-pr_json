@@ -1,28 +1,28 @@
 {
-  "ETag": "\"ee7cd037dd7252ba0055db00954e43190259b513abd50ae0f6d580c95cc6f89e\"",
-  "Last-Modified": "Tue, 20 Oct 2026 09:42:19 GMT",
+  "ETag": "\"28329dd613f924e7dd233d1df8c61111c9f750ff0ff8d555774d1791c749ba48\"",
+  "Last-Modified": "Sun, 22 Nov 2026 10:42:39 GMT",
   "base": {
     "repo": {
       "name": "brainrender-napari-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T10:42:39Z",
   "created_at": "2026-10-13T18:14:37Z",
   "draft": false,
   "e_tag": "\"4e9e1ca60d3ce8503bad48173b54c97ffd4c564b1277683f61d9e60149be9468\"",
   "head": {
-    "ref": "0.2.1_h319def"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/brainrender-napari-feedstock/pull/24",
   "id": 4847518126,
   "labels": [],
-  "last_fetched": "2026-11-17T20:29:40.961179",
+  "last_fetched": "2026-11-22T10:44:04.358418",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T10:42:39Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-10-20T09:42:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T10:42:39Z"
 }

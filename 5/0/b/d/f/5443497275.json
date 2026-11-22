@@ -1,27 +1,41 @@
 {
+  "ETag": "\"e647b2f0496cc1537ed4d3f6b52ef6a02ac80e995d7727fdcf3c49df2b184db9\"",
+  "Last-Modified": "Sun, 22 Nov 2026 22:19:24 GMT",
   "base": {
     "repo": {
       "name": "slang-verilog-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T22:19:23Z",
   "closed_by": null,
   "created_at": "2026-11-22T21:18:33Z",
   "draft": false,
   "e_tag": "\"e7dfff24a56869d391a6c5fe99517f39e95d1bb731b33f1a58d4b8c5421d8e23\"",
   "head": {
-    "ref": "rebuild-mimalloc370-0-1_h6abf01"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/slang-verilog-feedstock/pull/15",
   "id": 5443497275,
-  "labels": [],
-  "last_fetched": "2026-11-22T21:18:33.956657",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11019515756,
+      "name": "automerge",
+      "node_id": "LA_kwDOSkY1q88AAAACkNB3bA",
+      "url": "https://api.github.com/repos/conda-forge/slang-verilog-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T22:20:05.143039",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T22:19:23Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-22T21:18:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T22:19:29Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"88f7e54911b43e8db96fe47f1ed1912d8c64ea5271874b490536cec163bb0a6a\"",
-  "Last-Modified": "Sun, 22 Nov 2026 21:19:32 GMT",
+  "ETag": "W/\"5bb9c02fea15e15cf20c8f7cb373f9c805c647a6d8d28d0912fbe59554baaf3c\"",
+  "Last-Modified": "Sun, 22 Nov 2026 21:19:30 GMT",
   "base": {
     "repo": {
       "name": "symlink-exe-substitute-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/symlink-exe-substitute-feedstock/pull/4",
   "id": 5048506745,
-  "labels": [],
-  "last_fetched": "2026-11-22T21:20:38.154382",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T21:19:33.183272",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 4,
   "state": "closed",
-  "updated_at": "2026-11-22T21:19:32Z"
+  "updated_at": "2026-11-22T21:19:30Z"
 }

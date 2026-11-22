@@ -1,27 +1,29 @@
 {
+  "ETag": "\"58fa14b7a6c9a97383d26d28db74707218de2a68f9f29b76cfbf2f2736a0517b\"",
+  "Last-Modified": "Sun, 22 Nov 2026 00:56:51 GMT",
   "base": {
     "repo": {
       "name": "onefetch-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T00:56:48Z",
   "closed_by": null,
   "created_at": "2026-11-22T00:44:44Z",
   "draft": false,
   "e_tag": "\"014bcc72617916b116c8f2252059e351614caf8419d08d6d4ef7755a29941a36\"",
   "head": {
-    "ref": "3.3.0_h46c732"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/onefetch-feedstock/pull/15",
   "id": 5434110122,
   "labels": [],
-  "last_fetched": "2026-11-22T00:44:45.170042",
+  "last_fetched": "2026-11-22T00:58:21.529040",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T00:56:48Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-22T00:44:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T00:56:51Z"
 }

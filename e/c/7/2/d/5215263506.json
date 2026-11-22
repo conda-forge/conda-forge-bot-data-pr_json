@@ -1,6 +1,6 @@
 {
-  "ETag": "\"aeae70620fa5facffe4e2d6ad84ba43baf26afb596a44624231804121695223a\"",
-  "Last-Modified": "Sun, 22 Nov 2026 21:20:57 GMT",
+  "ETag": "W/\"f012bffc80d18c354e079928dd1771e56fe613cb8c2e646ef0ff711e1441a19c\"",
+  "Last-Modified": "Sun, 22 Nov 2026 21:20:54 GMT",
   "base": {
     "repo": {
       "name": "ormsgpack-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/ormsgpack-feedstock/pull/25",
   "id": 5215263506,
-  "labels": [],
-  "last_fetched": "2026-11-22T21:21:57.635401",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T21:20:57.150956",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 25,
   "state": "closed",
-  "updated_at": "2026-11-22T21:20:57Z"
+  "updated_at": "2026-11-22T21:20:54Z"
 }

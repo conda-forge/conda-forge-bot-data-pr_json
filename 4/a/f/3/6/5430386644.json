@@ -1,6 +1,6 @@
 {
-  "ETag": "\"dcee0ada6fdf5b9b38f862851eda96a5b1a5052d95c901473ec56fbf21f655a2\"",
-  "Last-Modified": "Sun, 22 Nov 2026 23:36:40 GMT",
+  "ETag": "W/\"ee81a9bfe8dfdf8efe39c86f427ddb3ba1548ae13c0fec6ef20c5485ddb94824\"",
+  "Last-Modified": "Sun, 22 Nov 2026 23:36:37 GMT",
   "base": {
     "repo": {
       "name": "awscli2-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/awscli2-feedstock/pull/738",
   "id": 5430386644,
-  "labels": [],
-  "last_fetched": "2026-11-22T23:38:04.959806",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T23:36:40.638793",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 738,
   "state": "closed",
-  "updated_at": "2026-11-22T23:36:40Z"
+  "updated_at": "2026-11-22T23:36:37Z"
 }

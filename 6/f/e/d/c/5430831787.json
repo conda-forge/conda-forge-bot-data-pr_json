@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f1b4ba5f9ec5493c523eb46139ddd95d81085d24c259f700bf2315cc3ed6b620\"",
-  "Last-Modified": "Sat, 21 Nov 2026 18:02:05 GMT",
+  "ETag": "\"aad94c4b95872c2fbb65a71931965418d8f0ed510825d72d35a5be70e491821d\"",
+  "Last-Modified": "Sun, 22 Nov 2026 07:36:16 GMT",
   "base": {
     "repo": {
       "name": "pyrage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T07:36:16Z",
   "closed_by": null,
   "created_at": "2026-11-21T18:00:34Z",
   "draft": false,
   "e_tag": "\"4371ab9b0b3dcee74620183bb0e66bf415edc5cd99064d10173adffa0828360d\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hfee4c8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyrage-feedstock/pull/20",
   "id": 5430831787,
   "labels": [],
-  "last_fetched": "2026-11-21T19:42:14.473762",
+  "last_fetched": "2026-11-22T07:37:35.417991",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T07:36:15Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-21T18:02:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T07:36:16Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"608273dbbceed023827d22a660bc593d45d08e05c10aabdcb2e10bd4320b7961\"",
-  "Last-Modified": "Sun, 22 Nov 2026 20:22:55 GMT",
+  "ETag": "W/\"743f10bf5f086109c7fef9a5ecc92d91b620286f4d3c1228905226184137c160\"",
+  "Last-Modified": "Sun, 22 Nov 2026 20:22:53 GMT",
   "base": {
     "repo": {
       "name": "gnucobol-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/gnucobol-feedstock/pull/9",
   "id": 5243736393,
-  "labels": [],
-  "last_fetched": "2026-11-22T20:24:34.668730",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T20:22:56.304642",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 9,
   "state": "closed",
-  "updated_at": "2026-11-22T20:22:55Z"
+  "updated_at": "2026-11-22T20:22:53Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"77b4140677ac60823b60d444f1bc4e9b26afa02b6ddbed2fd253da75167dba47\"",
+  "Last-Modified": "Sun, 22 Nov 2026 02:59:03 GMT",
   "base": {
     "repo": {
       "name": "pyjnius-feedstock"
@@ -7,7 +9,7 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-11-21T21:33:22Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"a1c1bddc526ef34830b2fc73ffeccd7b9fd9082e0a7801ea02141c724550c95b\"",
   "head": {
     "ref": "rebuild-python315t-0-1_h77e9a2"
@@ -15,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pyjnius-feedstock/pull/53",
   "id": 5432628303,
   "labels": [],
-  "last_fetched": "2026-11-21T21:33:23.698146",
+  "last_fetched": "2026-11-22T03:00:48.304983",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 53,
   "state": "open",
-  "updated_at": "2026-11-21T21:33:23Z"
+  "updated_at": "2026-11-22T02:59:03Z"
 }

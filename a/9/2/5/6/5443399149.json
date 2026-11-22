@@ -1,27 +1,29 @@
 {
+  "ETag": "\"455f70b5f2c64031a0e6949c9a1be57336cacaff3894eb6303abb8ce6a3a65a6\"",
+  "Last-Modified": "Sun, 22 Nov 2026 21:52:50 GMT",
   "base": {
     "repo": {
       "name": "libavif-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T21:52:50Z",
   "closed_by": null,
   "created_at": "2026-11-22T21:07:35Z",
   "draft": false,
   "e_tag": "\"9a62e65248f2658f9dd9f6b107e1765d2eb166eb428bc9078ff31b9d6736c294\"",
   "head": {
-    "ref": "bot-pr_riscv64_h0ae8f8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libavif-feedstock/pull/67",
   "id": 5443399149,
   "labels": [],
-  "last_fetched": "2026-11-22T21:07:36.216713",
+  "last_fetched": "2026-11-22T21:54:25.844357",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T21:52:49Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-11-22T21:07:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T21:52:50Z"
 }

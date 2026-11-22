@@ -1,27 +1,29 @@
 {
+  "ETag": "\"85ffd43d7af5182e4dc8201a2e68d788ca358ff28c0644ed2e203a83c8149dea\"",
+  "Last-Modified": "Sun, 22 Nov 2026 10:18:34 GMT",
   "base": {
     "repo": {
       "name": "types-setuptools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T10:18:29Z",
   "closed_by": null,
   "created_at": "2026-11-22T10:16:36Z",
   "draft": false,
   "e_tag": "\"aa48ccd7006eb1a142792f9e224d2a92f78b9544b8af24c99e2465be2020f72a\"",
   "head": {
-    "ref": "84.2.0.20261122_ha359cd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-setuptools-feedstock/pull/168",
   "id": 5437999707,
   "labels": [],
-  "last_fetched": "2026-11-22T10:16:36.827045",
+  "last_fetched": "2026-11-22T10:20:01.831282",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T10:18:29Z",
   "number": 168,
-  "state": "open",
-  "updated_at": "2026-11-22T10:16:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T10:18:34Z"
 }

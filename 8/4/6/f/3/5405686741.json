@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c3380476909911d291291f65f468fa27af1d7feaddba86caf641b8ad2068d44b\"",
-  "Last-Modified": "Fri, 20 Nov 2026 00:53:11 GMT",
+  "ETag": "\"4f58962f9ee16f1cdfdeb64e6bf9bae79e69808b090715ba1bee2910dd6a249f\"",
+  "Last-Modified": "Sun, 22 Nov 2026 01:47:02 GMT",
   "base": {
     "repo": {
       "name": "pymunk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T01:47:02Z",
   "closed_by": null,
   "created_at": "2026-11-20T00:51:21Z",
   "draft": false,
   "e_tag": "\"f9eabf5cff7477db25e1678d291d92e185129f230f9c18f47a109068b7debcbf\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h923aab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pymunk-feedstock/pull/46",
   "id": 5405686741,
   "labels": [],
-  "last_fetched": "2026-11-20T01:58:08.622835",
+  "last_fetched": "2026-11-22T01:48:34.957062",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T01:47:02Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-11-20T00:53:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T01:47:02Z"
 }

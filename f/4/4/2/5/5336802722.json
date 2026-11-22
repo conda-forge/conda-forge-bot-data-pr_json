@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a9e7051510c7465a4686a8c0e752e4d3ab6fddeafd61591c8f0cb028e8973709\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:28:44 GMT",
+  "ETag": "W/\"ceb0c152854f279f6fec092cf2fe3dbf6ca601ebc2bb53f27e43cd89375433fc\"",
+  "Last-Modified": "Sun, 22 Nov 2026 19:28:42 GMT",
   "base": {
     "repo": {
       "name": "mysqlclient-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/mysqlclient-feedstock/pull/71",
   "id": 5336802722,
-  "labels": [],
-  "last_fetched": "2026-11-22T19:30:16.152332",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T19:28:44.764924",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 71,
   "state": "closed",
-  "updated_at": "2026-11-22T19:28:44Z"
+  "updated_at": "2026-11-22T19:28:42Z"
 }

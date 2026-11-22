@@ -1,12 +1,13 @@
 {
-  "ETag": "\"d8aff570c97b487b28fda67177de58a413cc5344c100567052ce022407446c96\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "W/\"437d20d554f007e3c20446553c88041b8aebfdfdc00b14a233cdd4213994c1e7\"",
+  "Last-Modified": "Sun, 22 Nov 2026 08:28:20 GMT",
   "base": {
     "repo": {
       "name": "normaliz-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T08:28:20Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2024-08-07T11:01:26Z",
   "draft": false,
   "head": {
@@ -14,13 +15,25 @@
   },
   "html_url": "https://github.com/conda-forge/normaliz-feedstock/pull/55",
   "id": 2008190295,
-  "labels": [],
-  "last_fetched": "2026-11-18T02:33:16.842893",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1849435063,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODQ5NDM1MDYz",
+      "url": "https://api.github.com/repos/conda-forge/normaliz-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T08:28:23.533740",
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 55,
-  "state": "open",
-  "updated_at": "2024-12-04T08:30:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T08:28:20Z"
 }

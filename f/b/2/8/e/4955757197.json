@@ -1,6 +1,6 @@
 {
-  "ETag": "\"22cf6c05d34c18df8791b22aa27618fd7bddac1ad006a0e09b787cc1d7ffe25d\"",
-  "Last-Modified": "Sun, 22 Nov 2026 21:20:02 GMT",
+  "ETag": "W/\"5d76aad4ffdc12d1ec48bb3c5c2eb3096d1f499504b52e8f3447a6fdc1c492ba\"",
+  "Last-Modified": "Sun, 22 Nov 2026 21:20:00 GMT",
   "base": {
     "repo": {
       "name": "buildah-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/buildah-feedstock/pull/40",
   "id": 4955757197,
-  "labels": [],
-  "last_fetched": "2026-11-22T21:21:23.536649",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T21:20:02.837483",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 40,
   "state": "closed",
-  "updated_at": "2026-11-22T21:20:02Z"
+  "updated_at": "2026-11-22T21:20:00Z"
 }

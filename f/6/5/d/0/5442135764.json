@@ -1,27 +1,41 @@
 {
+  "ETag": "\"5ec2abe8209c2ac5c4ef9a867e8532cfdee0b04f1b572ffb21c6c12eadbf974d\"",
+  "Last-Modified": "Sun, 22 Nov 2026 19:12:26 GMT",
   "base": {
     "repo": {
       "name": "ocaml-stdlib-shims-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T19:12:26Z",
   "closed_by": null,
   "created_at": "2026-11-22T18:46:36Z",
   "draft": false,
   "e_tag": "\"fe50b8a8e29e24982a308b91673302377e9e6a0ed7414aad9973c8aeeaa6c20c\"",
   "head": {
-    "ref": "rebuild-ocaml552-0-1_hb41057"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ocaml-stdlib-shims-feedstock/pull/9",
   "id": 5442135764,
-  "labels": [],
-  "last_fetched": "2026-11-22T18:46:37.835524",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12660711054,
+      "name": "automerge",
+      "node_id": "LA_kwDOVG9IHM8AAAAC8qMejg",
+      "url": "https://api.github.com/repos/conda-forge/ocaml-stdlib-shims-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T19:12:45.557861",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T19:12:26Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-22T18:46:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T19:12:30Z"
 }

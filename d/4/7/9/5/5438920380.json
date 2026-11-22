@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f91b66af63e52ccd28d9e6745b74dec7486c1fbee1dca89d1a74b460e04de8db\"",
+  "Last-Modified": "Sun, 22 Nov 2026 12:25:29 GMT",
   "base": {
     "repo": {
       "name": "types-psutil-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T12:25:25Z",
   "closed_by": null,
   "created_at": "2026-11-22T12:22:07Z",
   "draft": false,
   "e_tag": "\"4f68d1f0cd9984df3d424ddfe2cc2d3d71aae89dcadf51d284463d364f7d16aa\"",
   "head": {
-    "ref": "7.2.2.20261122_he347ac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-psutil-feedstock/pull/78",
   "id": 5438920380,
   "labels": [],
-  "last_fetched": "2026-11-22T12:22:08.387717",
+  "last_fetched": "2026-11-22T12:26:54.428153",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T12:25:25Z",
   "number": 78,
-  "state": "open",
-  "updated_at": "2026-11-22T12:22:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T12:25:29Z"
 }

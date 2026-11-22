@@ -1,4 +1,6 @@
 {
+  "ETag": "\"7c2963615071e088aaec7251ef58a400fdafb0550a01d03d5147f08b7e3bf882\"",
+  "Last-Modified": "Sun, 22 Nov 2026 20:13:02 GMT",
   "base": {
     "repo": {
       "name": "ocaml-ocplib-endian-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/ocaml-ocplib-endian-feedstock/pull/4",
   "id": 5442776694,
-  "labels": [],
-  "last_fetched": "2026-11-22T19:57:24.932488",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 13144837968,
+      "name": "automerge",
+      "node_id": "LA_kwDOV0W5hM8AAAADD35PUA",
+      "url": "https://api.github.com/repos/conda-forge/ocaml-ocplib-endian-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T20:14:30.986651",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 4,
   "state": "open",
-  "updated_at": "2026-11-22T19:57:24Z"
+  "updated_at": "2026-11-22T20:13:02Z"
 }

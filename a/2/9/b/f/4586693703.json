@@ -1,12 +1,13 @@
 {
-  "ETag": "\"d6715f2e80f0be676a6cc3b45ef6336b282b266c803755bafcc36af93a014101\"",
-  "Last-Modified": "Sun, 20 Sep 2026 23:53:09 GMT",
+  "ETag": "\"3ba846e8465af592a44dc783df001b1e0b088d0ee3803cd6f2ece4c14ecc5b4c\"",
+  "Last-Modified": "Sun, 22 Nov 2026 21:20:18 GMT",
   "base": {
     "repo": {
       "name": "genomekit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T21:20:15Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-20T23:51:26Z",
   "draft": false,
   "e_tag": "\"f44cf451d0908870bdc88408f22f407ef6d939fecf4a7056a1213772399dbef5\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/genomekit-feedstock/pull/92",
   "id": 4586693703,
   "labels": [],
-  "last_fetched": "2026-11-17T19:30:11.261361",
+  "last_fetched": "2026-11-22T21:21:47.112706",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 92,
-  "state": "open",
-  "updated_at": "2026-09-20T23:53:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T21:20:18Z"
 }

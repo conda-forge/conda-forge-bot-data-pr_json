@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fcc3fbd0c7573bad7419de27b6547fb687787c6884d85fecc1a6c5a6d8eb56e1\"",
-  "Last-Modified": "Sat, 21 Nov 2026 12:03:53 GMT",
+  "ETag": "\"a05b828a9102450a89d797fc1404bfc9eb2343b7fa979b0d0531211456fe25db\"",
+  "Last-Modified": "Sun, 22 Nov 2026 01:27:10 GMT",
   "base": {
     "repo": {
       "name": "spglib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T01:27:10Z",
   "closed_by": null,
   "created_at": "2026-11-21T12:02:23Z",
   "draft": false,
   "e_tag": "\"0f848fd74af4ed8aeb7240f3f675e04c2da022cef3590945b62657654e4bbc17\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h391c6d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spglib-feedstock/pull/129",
   "id": 5427594860,
   "labels": [],
-  "last_fetched": "2026-11-21T15:58:50.256149",
+  "last_fetched": "2026-11-22T01:28:42.356424",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T01:27:10Z",
   "number": 129,
-  "state": "open",
-  "updated_at": "2026-11-21T12:03:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T01:27:10Z"
 }

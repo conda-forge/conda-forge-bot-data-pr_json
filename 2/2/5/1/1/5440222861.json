@@ -1,6 +1,6 @@
 {
-  "ETag": "\"2920e0ae3f182739cb668ea077d7d91ed66e7eba1056296fe48ea16b22189fbf\"",
-  "Last-Modified": "Sun, 22 Nov 2026 15:03:24 GMT",
+  "ETag": "\"e6a1fce136cfe7297855c667de75c04d0cdd3c9dc0cf9828d1cc8d7788b1bf97\"",
+  "Last-Modified": "Sun, 22 Nov 2026 18:58:22 GMT",
   "base": {
     "repo": {
       "name": "cypari2-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/cypari2-feedstock/pull/73",
   "id": 5440222861,
-  "labels": [],
-  "last_fetched": "2026-11-22T15:15:11.162209",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890864030,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODY0MDMw",
+      "url": "https://api.github.com/repos/conda-forge/cypari2-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T18:59:55.059394",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 73,
   "state": "open",
-  "updated_at": "2026-11-22T15:03:24Z"
+  "updated_at": "2026-11-22T18:58:22Z"
 }

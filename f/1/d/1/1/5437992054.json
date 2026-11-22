@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4f3f28c5c602d6190b3afa19cf868c6bdea387400f4d8d12e10ec69c3fd7ff75\"",
+  "Last-Modified": "Sun, 22 Nov 2026 10:17:33 GMT",
   "base": {
     "repo": {
       "name": "types-pyaudio-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T10:17:28Z",
   "closed_by": null,
   "created_at": "2026-11-22T10:15:29Z",
   "draft": false,
   "e_tag": "\"2cb94435cc76766879f91e5b3bc1416c912d827e404c8648f899507d1720a1b6\"",
   "head": {
-    "ref": "0.2.16.20261122_ha4a114"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/types-pyaudio-feedstock/pull/32",
   "id": 5437992054,
   "labels": [],
-  "last_fetched": "2026-11-22T10:15:30.782064",
+  "last_fetched": "2026-11-22T10:19:03.570978",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-22T10:17:28Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-11-22T10:15:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T10:17:33Z"
 }

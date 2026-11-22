@@ -1,18 +1,18 @@
 {
-  "ETag": "\"4871249eb3890077cbe5a68ff6200bf236d37bab38ab8e609c4f9a2e9f6c904c\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:28:03 GMT",
+  "ETag": "\"9b922ba6b82a455dc0ea65032d21876b2e8006b0e25aea032fbcac0672cd68e5\"",
+  "Last-Modified": "Sun, 22 Nov 2026 20:09:26 GMT",
   "base": {
     "repo": {
       "name": "dau-build-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T20:09:25Z",
   "closed_by": null,
   "created_at": "2026-11-22T05:05:37Z",
   "draft": false,
   "e_tag": "\"f422e12d5ad30a5a673d4707062d9e084b46239eb2bc2a504fa837c9be620b74\"",
   "head": {
-    "ref": "0.20.1_hf3aa10"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dau-build-feedstock/pull/8",
   "id": 5435983515,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/dau-build-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-22T19:29:40.101584",
+  "last_fetched": "2026-11-22T20:10:42.734573",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T20:09:25Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-22T19:28:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T20:09:26Z"
 }

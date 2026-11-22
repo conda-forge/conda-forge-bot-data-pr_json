@@ -1,29 +1,41 @@
 {
-  "ETag": "\"ef2aa8b4584b9d532cc2b39822280236ae60447d8968284f9c9bf33ea512de7e\"",
-  "Last-Modified": "Sun, 22 Nov 2026 05:08:26 GMT",
+  "ETag": "\"6f0b89c20e822872ecf8ef0d0a09a8a258a1793274cc3269bd398a3732d429f5\"",
+  "Last-Modified": "Sun, 22 Nov 2026 16:17:28 GMT",
   "base": {
     "repo": {
       "name": "artlink-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T16:17:24Z",
   "closed_by": null,
   "created_at": "2026-11-22T05:06:52Z",
   "draft": false,
   "e_tag": "\"9c4cd4453db07914f6967fe2167ba8e76cb8ec540aa442b04618987965ac0941\"",
   "head": {
-    "ref": "0.2.0_hc5e7f4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/artlink-feedstock/pull/1",
   "id": 5435990750,
-  "labels": [],
-  "last_fetched": "2026-11-22T06:44:55.195618",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11831567220,
+      "name": "automerge",
+      "node_id": "LA_kwDOT4R_u88AAAACwTdjdA",
+      "url": "https://api.github.com/repos/conda-forge/artlink-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T16:18:11.358603",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T16:17:24Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-22T05:08:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T16:17:28Z"
 }

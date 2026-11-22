@@ -1,11 +1,13 @@
 {
+  "ETag": "W/\"9e5f311a705e14a0347c528af89a70b5b1ec60c623ca09a4b8e05b2e019678dc\"",
+  "Last-Modified": "Sun, 22 Nov 2026 14:28:59 GMT",
   "base": {
     "repo": {
       "name": "e-antic-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-22T14:28:59Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-22T10:41:13Z",
   "draft": false,
   "e_tag": "\"50fd2c60c5549607303948ba7d633c7ed5f95e1d0fc5f2270d6245723061ca23\"",
@@ -14,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/e-antic-feedstock/pull/84",
   "id": 5438194847,
-  "labels": [],
-  "last_fetched": "2026-11-22T10:41:14.422650",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-22T14:29:01.917302",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 84,
-  "state": "open",
-  "updated_at": "2026-11-22T10:41:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T14:28:59Z"
 }

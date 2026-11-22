@@ -1,29 +1,29 @@
 {
-  "ETag": "\"1e4ac2481bb8bd58cf062acd82af0827d03641a77074e293430a4094b7bcc277\"",
-  "Last-Modified": "Thu, 12 Nov 2026 15:01:08 GMT",
+  "ETag": "\"1580cb9098961d41b6fd5ebc04bfa2c03d37016341cbb07d3aa2329da2ecc3f9\"",
+  "Last-Modified": "Sun, 22 Nov 2026 08:04:28 GMT",
   "base": {
     "repo": {
       "name": "signxml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-22T08:04:28Z",
   "closed_by": null,
   "created_at": "2026-11-12T14:59:32Z",
   "draft": false,
   "e_tag": "\"d978f2b2479c6045502667aeba87dd66d6e836d954d8c677e8518813767900d6\"",
   "head": {
-    "ref": "5.3.0_ha9a9d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/signxml-feedstock/pull/47",
   "id": 5279713798,
   "labels": [],
-  "last_fetched": "2026-11-19T18:32:37.503799",
+  "last_fetched": "2026-11-22T08:06:10.034087",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-22T08:04:28Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-11-12T15:01:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-22T08:04:28Z"
 }

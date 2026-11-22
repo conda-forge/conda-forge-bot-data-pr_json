@@ -1,4 +1,6 @@
 {
+  "ETag": "\"14b829f77de7800e1feef62f1da24b6640592889a305f412945f9eacd479297a\"",
+  "Last-Modified": "Sun, 22 Nov 2026 08:26:12 GMT",
   "base": {
     "repo": {
       "name": "cppyy-cling-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cppyy-cling-feedstock/pull/95",
   "id": 5437210612,
-  "labels": [],
-  "last_fetched": "2026-11-22T08:21:47.369935",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890812479,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODEyNDc5",
+      "url": "https://api.github.com/repos/conda-forge/cppyy-cling-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T08:27:26.459750",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 95,
   "state": "open",
-  "updated_at": "2026-11-22T08:21:46Z"
+  "updated_at": "2026-11-22T08:26:12Z"
 }

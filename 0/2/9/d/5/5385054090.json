@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3925a75136bc92946916a32a8357f67fc74ff9cd78e11644b35bcc760d579d11\"",
-  "Last-Modified": "Sun, 22 Nov 2026 09:17:46 GMT",
+  "ETag": "\"0a577c67f86fd0cca1825256ab378334932e7a4553a8e911735bec53923ce956\"",
+  "Last-Modified": "Sun, 22 Nov 2026 10:06:45 GMT",
   "base": {
     "repo": {
       "name": "primecountpy-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/primecountpy-feedstock/pull/21",
   "id": 5385054090,
-  "labels": [],
-  "last_fetched": "2026-11-22T09:19:23.052542",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3802122912,
+      "name": "automerge",
+      "node_id": "LA_kwDOGy3jG87in8qg",
+      "url": "https://api.github.com/repos/conda-forge/primecountpy-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-22T10:08:15.674536",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 21,
   "state": "open",
-  "updated_at": "2026-11-22T09:17:46Z"
+  "updated_at": "2026-11-22T10:06:45Z"
 }

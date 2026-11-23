@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9232aae323581846a496fd60f8845248b0e6da342c704b387139f400f3ad6196\"",
-  "Last-Modified": "Mon, 23 Nov 2026 03:34:20 GMT",
+  "ETag": "\"66b83ba92d160aa4d3a727d5bb9751695e5f389b8683136bde498647dde18a7c\"",
+  "Last-Modified": "Mon, 23 Nov 2026 15:27:36 GMT",
   "base": {
     "repo": {
       "name": "evomsa-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T15:27:36Z",
   "closed_by": null,
   "created_at": "2026-11-23T03:32:56Z",
   "draft": false,
   "e_tag": "\"3786086a4c5d42d07e968cffdbfbddec5c818a1fd6b3a2014c5cfe17e28f4b93\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h2beb58"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/evomsa-feedstock/pull/64",
   "id": 5446613969,
   "labels": [],
-  "last_fetched": "2026-11-23T10:29:56.948921",
+  "last_fetched": "2026-11-23T15:29:10.736654",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T15:27:36Z",
   "number": 64,
-  "state": "open",
-  "updated_at": "2026-11-23T03:34:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T15:27:36Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f1bfb59c7d82573fc660fca5739a593a31289d564ae264480c1e475d382e9a47\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"4014a5a24b64327458f1e07c4686d1c797a399cf6157e4f4874b2f7b34bf1274\"",
+  "Last-Modified": "Mon, 23 Nov 2026 08:38:52 GMT",
   "base": {
     "repo": {
       "name": "tmuxp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T08:38:52Z",
   "closed_by": null,
   "created_at": "2026-11-22T04:08:29Z",
   "draft": false,
   "e_tag": "\"979ec21fd70151fadee36053e2f97bef3d8f827d7146af48c0bc1c7fd683702f\"",
   "head": {
-    "ref": "1.78.0_h0a9655"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tmuxp-feedstock/pull/49",
   "id": 5435623897,
   "labels": [],
-  "last_fetched": "2026-11-23T01:51:17.320793",
+  "last_fetched": "2026-11-23T08:40:18.105248",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T08:38:52Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-11-22T04:09:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T08:38:52Z"
 }

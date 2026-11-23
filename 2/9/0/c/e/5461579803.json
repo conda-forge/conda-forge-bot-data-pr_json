@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e826a4b0fb4801bfb4299b1154aedb33f65676302cbcaeaa18a528ecbcc88ef0\"",
+  "Last-Modified": "Mon, 23 Nov 2026 21:55:39 GMT",
   "base": {
     "repo": {
       "name": "folly-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T21:55:35Z",
   "closed_by": null,
   "created_at": "2026-11-23T21:31:50Z",
   "draft": false,
   "e_tag": "\"8118c62f982ab93b17d00526b7efaef64b519872f14754e45a031472a77d2eff\"",
   "head": {
-    "ref": "2026.11.23.00_h82652d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/folly-feedstock/pull/367",
   "id": 5461579803,
   "labels": [],
-  "last_fetched": "2026-11-23T21:31:51.334134",
+  "last_fetched": "2026-11-23T21:56:53.755067",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T21:55:34Z",
   "number": 367,
-  "state": "open",
-  "updated_at": "2026-11-23T21:31:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T21:55:39Z"
 }

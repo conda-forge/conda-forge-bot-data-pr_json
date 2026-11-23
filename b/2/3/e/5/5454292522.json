@@ -1,4 +1,6 @@
 {
+  "ETag": "\"383f32a33320f382913c1443289d86946b0b7e5d6bdc0c9d3fca2b0f373548fc\"",
+  "Last-Modified": "Mon, 23 Nov 2026 13:48:45 GMT",
   "base": {
     "repo": {
       "name": "multiprocess-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/multiprocess-feedstock/pull/64",
   "id": 5454292522,
-  "labels": [],
-  "last_fetched": "2026-11-23T13:45:46.443335",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891021912,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDIxOTEy",
+      "url": "https://api.github.com/repos/conda-forge/multiprocess-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T13:49:54.543178",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 64,
   "state": "open",
-  "updated_at": "2026-11-23T13:45:45Z"
+  "updated_at": "2026-11-23T13:48:45Z"
 }

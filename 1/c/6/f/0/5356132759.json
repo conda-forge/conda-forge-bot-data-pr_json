@@ -1,6 +1,6 @@
 {
-  "ETag": "\"cc417a8dd64d600347adcf80cd9bddd595f06e69eda96e2f3194b6a30e1b964d\"",
-  "Last-Modified": "Sat, 21 Nov 2026 04:01:53 GMT",
+  "ETag": "\"711a301e0283bf4af991d049b0e71e0bc31ce56e833755eb70005e97d39bd099\"",
+  "Last-Modified": "Mon, 23 Nov 2026 02:00:08 GMT",
   "base": {
     "repo": {
       "name": "pytorch-cpu-feedstock"
@@ -9,7 +9,7 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-11-17T11:40:18Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"ac31dc21073143113f89772d2907e039543024a708dd06b0618756af7b7e8592\"",
   "head": {
     "ref": "rebuild-pybind11_abi12-0-1_h6b9cf2"
@@ -17,7 +17,7 @@
   "html_url": "https://github.com/conda-forge/pytorch-cpu-feedstock/pull/564",
   "id": 5356132759,
   "labels": [],
-  "last_fetched": "2026-11-21T05:44:46.933516",
+  "last_fetched": "2026-11-23T03:58:59.350377",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
@@ -25,5 +25,5 @@
   "merged_at": null,
   "number": 564,
   "state": "open",
-  "updated_at": "2026-11-21T04:01:53Z"
+  "updated_at": "2026-11-23T02:00:08Z"
 }

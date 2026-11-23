@@ -1,12 +1,13 @@
 {
-  "ETag": "\"b3b494617897274156e2a9efd07146dfd28faefdf2e3473a74afd236218ec31f\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"4a7b6145f9bf55994f9e6f429b8173c0ba4f231b4aa5a3f2a9f32098b8a13c9d\"",
+  "Last-Modified": "Mon, 23 Nov 2026 03:40:20 GMT",
   "base": {
     "repo": {
       "name": "pocl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T03:40:17Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-02-13T00:54:11Z",
   "draft": false,
   "e_tag": "\"8331648305ad558e08ee7d9c82f96356959bf4cb0a65a4a67eff53deb44eea80\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/pocl-feedstock/pull/116",
   "id": 3278836703,
   "labels": [],
-  "last_fetched": "2026-11-16T20:29:09.261856",
+  "last_fetched": "2026-11-23T03:41:58.807721",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 116,
-  "state": "open",
-  "updated_at": "2026-02-13T00:55:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T03:40:20Z"
 }

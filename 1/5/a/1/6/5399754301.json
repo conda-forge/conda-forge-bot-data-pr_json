@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a281ed0815e06daded4ab55428b2f5ae3ae965d03c76de3a5144c6135e7cd9ec\"",
-  "Last-Modified": "Mon, 23 Nov 2026 05:57:49 GMT",
+  "ETag": "W/\"4beb7e8496af50066a18398bf3d7391f8b3ba80a7f02c8374beb54de3ecacc86\"",
+  "Last-Modified": "Mon, 23 Nov 2026 05:57:46 GMT",
   "base": {
     "repo": {
       "name": "fenics-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/fenics-feedstock/pull/302",
   "id": 5399754301,
-  "labels": [],
-  "last_fetched": "2026-11-23T05:59:15.490812",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T05:57:49.691490",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 302,
   "state": "closed",
-  "updated_at": "2026-11-23T05:57:49Z"
+  "updated_at": "2026-11-23T05:57:46Z"
 }

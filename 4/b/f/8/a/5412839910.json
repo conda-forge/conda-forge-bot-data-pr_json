@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a0b0fe1a90387bbe7479f424405d01dde58b317019414f2127e21f94e398cbc8\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"31a3b7584faad49cb7376337423ce75c9e05d99bb6e0ebfcd164fc6b0ac8a704\"",
+  "Last-Modified": "Mon, 23 Nov 2026 17:24:08 GMT",
   "base": {
     "repo": {
       "name": "nix-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T17:24:07Z",
   "closed_by": null,
   "created_at": "2026-11-20T11:50:24Z",
   "draft": false,
   "e_tag": "\"d76c3a67d643480c964939b790dd4d5fec6c8aaa2cb80b9be3931dc8452d9dfc\"",
   "head": {
-    "ref": "2.36.0_h5e829b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nix-feedstock/pull/48",
   "id": 5412839910,
   "labels": [],
-  "last_fetched": "2026-11-22T21:19:41.559478",
+  "last_fetched": "2026-11-23T17:25:29.591333",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T17:24:07Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-11-20T12:09:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T17:24:08Z"
 }

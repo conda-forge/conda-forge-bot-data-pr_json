@@ -1,6 +1,6 @@
 {
-  "ETag": "\"22730ace30785f0b3cc9c7201464f6a9cb20938a89061c339ef3d54492763188\"",
-  "Last-Modified": "Mon, 23 Nov 2026 01:50:35 GMT",
+  "ETag": "W/\"812fd1c27fe85618fda4a381980a461c7c7d05e1b8bba704f968ff6045e00695\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:50:33 GMT",
   "base": {
     "repo": {
       "name": "segyio-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/segyio-feedstock/pull/38",
   "id": 2316315698,
-  "labels": [],
-  "last_fetched": "2026-11-23T01:52:09.027586",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T01:50:35.765887",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 38,
   "state": "closed",
-  "updated_at": "2026-11-23T01:50:35Z"
+  "updated_at": "2026-11-23T01:50:33Z"
 }

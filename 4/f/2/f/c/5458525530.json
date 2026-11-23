@@ -1,27 +1,29 @@
 {
+  "ETag": "\"7507fcb78c3f84d093de6b7ffb086d8f7411be25754282002a05f7276a44746a\"",
+  "Last-Modified": "Mon, 23 Nov 2026 18:08:33 GMT",
   "base": {
     "repo": {
       "name": "coloraide-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T18:08:30Z",
   "closed_by": null,
   "created_at": "2026-11-23T18:04:42Z",
   "draft": false,
   "e_tag": "\"8015b1ca3aee00f179932d3265c144bfcc88b4c5d773c6ead4937d5bff0d6dff\"",
   "head": {
-    "ref": "8.17_hcb7b44"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/coloraide-feedstock/pull/61",
   "id": 5458525530,
   "labels": [],
-  "last_fetched": "2026-11-23T18:04:43.569764",
+  "last_fetched": "2026-11-23T18:09:53.482395",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T18:08:30Z",
   "number": 61,
-  "state": "open",
-  "updated_at": "2026-11-23T18:04:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T18:08:33Z"
 }

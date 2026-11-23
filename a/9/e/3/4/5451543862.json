@@ -1,29 +1,29 @@
 {
-  "ETag": "\"90204a10b60fe005d07a0ff36574d2c9f61dc18cc9d10e9b166b2df7cba12c37\"",
-  "Last-Modified": "Mon, 23 Nov 2026 10:44:51 GMT",
+  "ETag": "\"e73eaea24b56549e7e312107e1715272f33245563049baae0aee3eb02f8712ba\"",
+  "Last-Modified": "Mon, 23 Nov 2026 15:39:25 GMT",
   "base": {
     "repo": {
       "name": "fastspec-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T15:39:25Z",
   "closed_by": null,
   "created_at": "2026-11-23T10:43:15Z",
   "draft": false,
   "e_tag": "\"064ef566b4d93031da9da62127b0c11d9042f01cb5e1f2ee3b9b8fb49cf04984\"",
   "head": {
-    "ref": "0.2.10_h574621"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fastspec-feedstock/pull/15",
   "id": 5451543862,
   "labels": [],
-  "last_fetched": "2026-11-23T12:25:01.960310",
+  "last_fetched": "2026-11-23T15:41:01.048423",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T15:39:25Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-23T10:44:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T15:39:25Z"
 }

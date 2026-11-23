@@ -1,29 +1,29 @@
 {
-  "ETag": "\"99b1d22161ae11a06be6ffebdaa46c43b06060b0a35fa3c1cad120fc21b56419\"",
-  "Last-Modified": "Sun, 22 Nov 2026 21:00:57 GMT",
+  "ETag": "\"4c28f948449e990abe867d9e521696d8211d3bdc2b751274c456ccfafbc673d9\"",
+  "Last-Modified": "Mon, 23 Nov 2026 15:50:18 GMT",
   "base": {
     "repo": {
       "name": "django-typer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T15:50:17Z",
   "closed_by": null,
   "created_at": "2026-11-22T20:59:21Z",
   "draft": false,
   "e_tag": "\"ff2b9fff445267f109cacf0e5d3c8d1e891d12125e2b6df9210c1c9348deb3d8\"",
   "head": {
-    "ref": "4.3.0_h3e50b8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-typer-feedstock/pull/29",
   "id": 5443328212,
   "labels": [],
-  "last_fetched": "2026-11-22T21:20:51.246968",
+  "last_fetched": "2026-11-23T15:51:36.778645",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T15:50:17Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-11-22T21:00:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T15:50:18Z"
 }

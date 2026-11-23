@@ -1,27 +1,29 @@
 {
+  "ETag": "\"37c7fd04b76a1c24311d7c68b44f53288f7f350e6d8a94b2138c5aa68d80fb43\"",
+  "Last-Modified": "Mon, 23 Nov 2026 00:28:11 GMT",
   "base": {
     "repo": {
       "name": "ty-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T00:28:07Z",
   "closed_by": null,
   "created_at": "2026-11-23T00:06:16Z",
   "draft": false,
   "e_tag": "\"de2412f557a97ddb78d50b09d76b7bbda768280a05b92b0b31c4fbeaac2e77dc\"",
   "head": {
-    "ref": "0.0.108_h676e60"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ty-feedstock/pull/165",
   "id": 5444840186,
   "labels": [],
-  "last_fetched": "2026-11-23T00:06:17.204888",
+  "last_fetched": "2026-11-23T00:29:36.639454",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T00:28:07Z",
   "number": 165,
-  "state": "open",
-  "updated_at": "2026-11-23T00:06:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T00:28:11Z"
 }

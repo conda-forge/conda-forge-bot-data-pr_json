@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"3ef804d66d4b8200b01cd5e8e0c2816f697df816256fc278a708aa94180dceeb\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"a5801785ae6428dcdd891013f1b5019816ada3d0f12e2404763ac49bcc96e425\"",
+  "Last-Modified": "Mon, 23 Nov 2026 12:53:46 GMT",
   "base": {
     "repo": {
       "name": "trintrin-feedstock"
@@ -16,26 +16,14 @@
   },
   "html_url": "https://github.com/conda-forge/trintrin-feedstock/pull/18",
   "id": 5433872555,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 9596413567,
-      "name": "automerge",
-      "node_id": "LA_kwDOQQeils8AAAACO_2mfw",
-      "url": "https://api.github.com/repos/conda-forge/trintrin-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-11-23T03:01:51.439897",
+  "labels": [],
+  "last_fetched": "2026-11-23T14:43:11.971859",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-11-22T16:47:15Z"
+  "updated_at": "2026-11-23T12:53:46Z"
 }

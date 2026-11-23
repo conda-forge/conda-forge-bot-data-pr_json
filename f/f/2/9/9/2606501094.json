@@ -1,12 +1,13 @@
 {
-  "ETag": "\"0ed4b290c1a703b64c82efa8487a0dcfe802d0f84fc285860ecbef2f0222e5dd\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"8581d987814e12f07ce35872b2073b25683d7d10ddc689b150691d1880d51cea\"",
+  "Last-Modified": "Mon, 23 Nov 2026 07:32:31 GMT",
   "base": {
     "repo": {
       "name": "xcb-util-renderutil-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T07:32:29Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2025-06-20T07:36:01Z",
   "draft": false,
   "e_tag": "\"349b12f1b2c23a1212367c927d235c74be80954bd61d36e1acd43e73ca5addfb\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/xcb-util-renderutil-feedstock/pull/7",
   "id": 2606501094,
   "labels": [],
-  "last_fetched": "2026-11-16T23:44:20.429365",
+  "last_fetched": "2026-11-23T07:33:39.360627",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 7,
-  "state": "open",
-  "updated_at": "2025-06-20T07:37:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T07:32:31Z"
 }

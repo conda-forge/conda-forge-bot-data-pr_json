@@ -1,29 +1,29 @@
 {
-  "ETag": "\"291c574561f10978214c5b7b56a51bb5e8e88d506d6b26da19f7ae2db9ae4eff\"",
-  "Last-Modified": "Thu, 19 Nov 2026 12:21:08 GMT",
+  "ETag": "\"91f4ef20216dd1cd9882d51a9b7fffcdf52a8c4419d6fc6cd6a93cdbbcb69dd8\"",
+  "Last-Modified": "Mon, 23 Nov 2026 02:12:00 GMT",
   "base": {
     "repo": {
       "name": "atlasopenmagic-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T02:12:00Z",
   "closed_by": null,
   "created_at": "2026-11-19T12:19:32Z",
   "draft": false,
   "e_tag": "\"1122b51b23e4169f8db6c31c8c1978ea36c3a2738aa96c6077c189fc06870069\"",
   "head": {
-    "ref": "1.11.1_h1538a3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/atlasopenmagic-feedstock/pull/26",
   "id": 5394752966,
   "labels": [],
-  "last_fetched": "2026-11-19T12:37:12.597309",
+  "last_fetched": "2026-11-23T02:13:04.124921",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T02:12:00Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-11-19T12:21:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T02:12:00Z"
 }

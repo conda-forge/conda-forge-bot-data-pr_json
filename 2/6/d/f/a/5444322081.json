@@ -1,29 +1,29 @@
 {
-  "ETag": "\"778cd82a478f8780cc1623900bc4616bd2cd9722a21a35b0fbbd7e4c24dcbf65\"",
-  "Last-Modified": "Sun, 22 Nov 2026 23:00:57 GMT",
+  "ETag": "\"d1e55933ac5144bd7dbadfcac814272b40ea99c0d8029429dfcd2110aa14ed1e\"",
+  "Last-Modified": "Mon, 23 Nov 2026 15:20:08 GMT",
   "base": {
     "repo": {
       "name": "uniplot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T15:20:08Z",
   "closed_by": null,
   "created_at": "2026-11-22T22:59:20Z",
   "draft": false,
   "e_tag": "\"9711405278d95ff15aec68b3fedf67c6e6a9225635d711d2a9be8e68431f4af1\"",
   "head": {
-    "ref": "0.25.0_hfee765"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uniplot-feedstock/pull/29",
   "id": 5444322081,
   "labels": [],
-  "last_fetched": "2026-11-23T01:22:48.355784",
+  "last_fetched": "2026-11-23T15:21:42.628791",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T15:20:08Z",
   "number": 29,
-  "state": "open",
-  "updated_at": "2026-11-22T23:00:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T15:20:08Z"
 }

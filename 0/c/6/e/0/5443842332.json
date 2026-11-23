@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a0abc5aa36c3b115fc182666d723e188ee56818e66eb2a905584b3782addcae4\"",
-  "Last-Modified": "Sun, 22 Nov 2026 22:01:52 GMT",
+  "ETag": "\"24193fed3d9d66a534aacc3525697e73d17782d5e7c23c046577c79137bd37a2\"",
+  "Last-Modified": "Mon, 23 Nov 2026 08:05:42 GMT",
   "base": {
     "repo": {
       "name": "hpx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T08:05:42Z",
   "closed_by": null,
   "created_at": "2026-11-22T22:00:07Z",
   "draft": false,
   "e_tag": "\"e2c887a3c698a94742f8ee942485a38f2f78a62a0508819e0ba6a782f79faa7b\"",
   "head": {
-    "ref": "rebuild-mimalloc370-0-1_h2dc3a4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hpx-feedstock/pull/71",
   "id": 5443842332,
   "labels": [],
-  "last_fetched": "2026-11-22T22:10:22.596543",
+  "last_fetched": "2026-11-23T08:07:13.029729",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T08:05:41Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-11-22T22:01:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T08:05:42Z"
 }

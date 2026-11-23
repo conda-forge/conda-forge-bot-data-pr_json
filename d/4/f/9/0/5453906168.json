@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bc50532a1fa4aa45465c90fe5b29f86647137b966ebc43ff7f1d68f3bd9658ac\"",
-  "Last-Modified": "Mon, 23 Nov 2026 13:22:12 GMT",
+  "ETag": "\"444f7f0f5ab2426419e5f557ef54eaa48e9585dfb680853ac878c63750e90878\"",
+  "Last-Modified": "Mon, 23 Nov 2026 16:04:21 GMT",
   "base": {
     "repo": {
       "name": "kfp-server-api-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T16:04:21Z",
   "closed_by": null,
   "created_at": "2026-11-23T13:20:42Z",
   "draft": false,
   "e_tag": "\"cf03f59ed66920fcae2ef0dbf4ca05653a57f3c3c74dcc9219d67cbc18964438\"",
   "head": {
-    "ref": "2.18.2_h456fa3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kfp-server-api-feedstock/pull/63",
   "id": 5453906168,
   "labels": [],
-  "last_fetched": "2026-11-23T14:19:20.325827",
+  "last_fetched": "2026-11-23T16:05:56.994550",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T16:04:21Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-11-23T13:22:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T16:04:21Z"
 }

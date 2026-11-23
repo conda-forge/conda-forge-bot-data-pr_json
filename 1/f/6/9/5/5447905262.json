@@ -1,29 +1,29 @@
 {
-  "ETag": "\"985e41582b1186c436ec24434693fbdc159476e3699d173ade6e5bcd17528e91\"",
-  "Last-Modified": "Mon, 23 Nov 2026 05:54:41 GMT",
+  "ETag": "\"f7b534fdff11fa979e49bd877ba967561346cc89bdf09f544aeb661f83811c03\"",
+  "Last-Modified": "Mon, 23 Nov 2026 11:02:48 GMT",
   "base": {
     "repo": {
       "name": "ripgrep-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T11:02:48Z",
   "closed_by": null,
   "created_at": "2026-11-23T05:53:11Z",
   "draft": false,
   "e_tag": "\"b61cc72bb6d4b0574f2df5e5e498b18c9b66624424eb16f3124ccb9e8705e074\"",
   "head": {
-    "ref": "16.0.0_h19b272"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ripgrep-feedstock/pull/44",
   "id": 5447905262,
   "labels": [],
-  "last_fetched": "2026-11-23T08:43:46.709720",
+  "last_fetched": "2026-11-23T11:04:13.339885",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T11:02:48Z",
   "number": 44,
-  "state": "open",
-  "updated_at": "2026-11-23T05:54:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T11:02:48Z"
 }

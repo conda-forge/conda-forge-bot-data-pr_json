@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d4931da3cfd40f4fc9e9fdd4711557dd7dbbf3dcfd329f23f38295fa61580f61\"",
+  "Last-Modified": "Mon, 23 Nov 2026 15:25:20 GMT",
   "base": {
     "repo": {
       "name": "dandi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T15:25:16Z",
   "closed_by": null,
   "created_at": "2026-11-23T15:11:20Z",
   "draft": false,
   "e_tag": "\"40a793820f2f6bf86cc87b4c601ee1753785044e9d5a63092d9518144d1c0f88\"",
   "head": {
-    "ref": "0.83.0_h79510f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dandi-feedstock/pull/172",
   "id": 5455704019,
   "labels": [],
-  "last_fetched": "2026-11-23T15:11:21.541676",
+  "last_fetched": "2026-11-23T15:26:36.299644",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T15:25:16Z",
   "number": 172,
-  "state": "open",
-  "updated_at": "2026-11-23T15:11:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T15:25:20Z"
 }

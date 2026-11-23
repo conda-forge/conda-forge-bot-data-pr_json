@@ -1,29 +1,29 @@
 {
-  "ETag": "\"8252e1091aae5baead50158384929bc466b080e6a22dbfe707683a29208309b3\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"f6705597bb83b00c9c3ec3736ce23e30cf6d5456a31895b3687a5918bb85911e\"",
+  "Last-Modified": "Mon, 23 Nov 2026 09:42:04 GMT",
   "base": {
     "repo": {
       "name": "ms_entropy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T09:42:03Z",
   "closed_by": null,
   "created_at": "2026-11-20T21:59:02Z",
   "draft": false,
   "e_tag": "\"fbc1a8cb0efb29d3cf4724598db75c50f5ff1eb738b7ef9d52626c4f7a4bc940\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h006891"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ms_entropy-feedstock/pull/20",
   "id": 5420868170,
   "labels": [],
-  "last_fetched": "2026-11-22T19:28:16.704769",
+  "last_fetched": "2026-11-23T09:43:29.226726",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T09:42:03Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-20T22:00:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T09:42:04Z"
 }

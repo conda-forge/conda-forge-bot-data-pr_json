@@ -1,12 +1,13 @@
 {
-  "ETag": "\"d440d58332d1cc81a66247501ff9669aabb095e727be0b282d2b0a9c34def77e\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"da1618677756e6911c5cc338028a743a563a3fea69423df0c3a0c992dee648ac\"",
+  "Last-Modified": "Mon, 23 Nov 2026 02:40:18 GMT",
   "base": {
     "repo": {
       "name": "librepo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T02:40:15Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2022-09-09T15:55:47Z",
   "draft": false,
   "head": {
@@ -15,12 +16,12 @@
   "html_url": "https://github.com/conda-forge/librepo-feedstock/pull/28",
   "id": 1051749879,
   "labels": [],
-  "last_fetched": "2026-11-15T19:43:15.795633",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "last_fetched": "2026-11-23T02:41:23.571019",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 28,
-  "state": "open",
-  "updated_at": "2022-09-09T15:55:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T02:40:18Z"
 }

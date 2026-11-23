@@ -1,29 +1,29 @@
 {
-  "ETag": "\"10a653fc2a2cb87b8e3200a06b3ab49934aa476a4b12abd45529190256aeabe1\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"61dffae782294e66fc859cd6c3361c6bb49b39fe0a599ab8e9a0e7ece8914e94\"",
+  "Last-Modified": "Mon, 23 Nov 2026 14:44:52 GMT",
   "base": {
     "repo": {
       "name": "appmap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T14:44:52Z",
   "closed_by": null,
   "created_at": "2026-11-10T21:58:18Z",
   "draft": false,
   "e_tag": "\"f76fbd025bd91514d7494f8a898670cede131c0cf9f39d1a53942aab77ace0ab\"",
   "head": {
-    "ref": "4.0.0_hb6a5c9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/appmap-feedstock/pull/22",
   "id": 5249631724,
   "labels": [],
-  "last_fetched": "2026-11-22T22:10:44.835626",
+  "last_fetched": "2026-11-23T14:46:15.285303",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T14:44:52Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-10T22:00:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T14:44:52Z"
 }

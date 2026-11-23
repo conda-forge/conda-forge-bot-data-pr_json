@@ -1,12 +1,13 @@
 {
-  "ETag": "\"aad51794b91bb589dff410e8256dc73ec48804ad0fcb8f2cdfc4943a85eea14f\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"f18036c417673d969f2c72c9368870c0155970c70d91c2ad090f3c6f0f20fdcb\"",
+  "Last-Modified": "Mon, 23 Nov 2026 00:43:44 GMT",
   "base": {
     "repo": {
       "name": "cztile-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T00:43:42Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2024-12-24T18:39:49Z",
   "draft": false,
   "e_tag": "\"9187aab9a2a2f611a150b97eb6babafb8909a755bf468df75bf15415462e85ea\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/cztile-feedstock/pull/2",
   "id": 2251212264,
   "labels": [],
-  "last_fetched": "2026-11-16T17:59:08.827205",
+  "last_fetched": "2026-11-23T00:44:45.404699",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 2,
-  "state": "open",
-  "updated_at": "2024-12-24T18:41:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T00:43:44Z"
 }

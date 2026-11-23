@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b16fb5a898f88f8d3fccf1fb5e7a6cc664d968a689c856958fc8aab18ad61084\"",
-  "Last-Modified": "Mon, 23 Nov 2026 04:20:10 GMT",
+  "ETag": "W/\"28b17bda9c64837f198ee60dbba454a16fe9d09edaf2695390b400b3b5a49ab4\"",
+  "Last-Modified": "Mon, 23 Nov 2026 04:20:08 GMT",
   "base": {
     "repo": {
       "name": "gpg-tui-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/gpg-tui-feedstock/pull/6",
   "id": 3990708984,
-  "labels": [],
-  "last_fetched": "2026-11-23T04:21:16.607994",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T04:20:10.521363",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 6,
   "state": "closed",
-  "updated_at": "2026-11-23T04:20:10Z"
+  "updated_at": "2026-11-23T04:20:08Z"
 }

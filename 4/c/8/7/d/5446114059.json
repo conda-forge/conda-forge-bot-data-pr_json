@@ -1,27 +1,29 @@
 {
+  "ETag": "\"aee45dd8686f98f52c7b9e4214dd8d38adfcee610aad5a3972b496a3091e672f\"",
+  "Last-Modified": "Mon, 23 Nov 2026 03:31:59 GMT",
   "base": {
     "repo": {
       "name": "bmad-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T03:31:55Z",
   "closed_by": null,
   "created_at": "2026-11-23T02:36:31Z",
   "draft": false,
   "e_tag": "\"db988b4327f6a21a43ebc61a9401afbd0ac34fc74f303b98e89134f7e5fcbba1\"",
   "head": {
-    "ref": "20261122-0_ha8790a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bmad-feedstock/pull/769",
   "id": 5446114059,
   "labels": [],
-  "last_fetched": "2026-11-23T02:36:32.099077",
+  "last_fetched": "2026-11-23T03:33:27.713274",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T03:31:55Z",
   "number": 769,
-  "state": "open",
-  "updated_at": "2026-11-23T02:36:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T03:31:59Z"
 }

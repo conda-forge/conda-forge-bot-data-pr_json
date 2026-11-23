@@ -1,6 +1,6 @@
 {
-  "ETag": "\"568f3310fa2835770b166db835e5c57e7e7022cbb5d6a1761d90c6cc2b7266c3\"",
-  "Last-Modified": "Mon, 23 Nov 2026 00:10:05 GMT",
+  "ETag": "W/\"996b9f60386af16c6b75324243e0c11496ccbca9d4a749b9d6a1debb0f043626\"",
+  "Last-Modified": "Mon, 23 Nov 2026 00:10:01 GMT",
   "base": {
     "repo": {
       "name": "pulp-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pulp-feedstock/pull/65",
   "id": 5366156939,
-  "labels": [],
-  "last_fetched": "2026-11-23T00:11:06.383790",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T00:10:05.521853",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 65,
   "state": "closed",
-  "updated_at": "2026-11-23T00:10:05Z"
+  "updated_at": "2026-11-23T00:10:01Z"
 }

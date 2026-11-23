@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3b62ca325d237548dfaf608f584394bb0506d2a5587ba5efa232879f41da4cad\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"31fe00bb78de6584fab66deecca6da34d6b99ba7f0287d36f233f22f5d1bd799\"",
+  "Last-Modified": "Mon, 23 Nov 2026 07:15:47 GMT",
   "base": {
     "repo": {
       "name": "cedarpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T07:15:46Z",
   "closed_by": null,
   "created_at": "2026-11-20T19:19:38Z",
   "draft": false,
   "e_tag": "\"0677400f624d0a631d1e7c9b44b6caaf4ac2a90b9897bdac6e581e249a041bd9\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hcc3f8b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cedarpy-feedstock/pull/15",
   "id": 5418971451,
   "labels": [],
-  "last_fetched": "2026-11-23T01:50:47.604876",
+  "last_fetched": "2026-11-23T07:17:23.402381",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T07:15:46Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-20T19:21:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T07:15:47Z"
 }

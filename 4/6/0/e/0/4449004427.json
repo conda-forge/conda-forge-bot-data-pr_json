@@ -1,12 +1,13 @@
 {
-  "ETag": "\"0e4c161ac0da1db8cc835cc61a0cadea30e3822fc6d9140a1b9f156fad64c4b9\"",
-  "Last-Modified": "Sat, 05 Sep 2026 05:47:31 GMT",
+  "ETag": "W/\"167a93e10c40acb4e79db3ba8785b2651f73a8e84c94ea55e9e83cc47fa5c697\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:22:05 GMT",
   "base": {
     "repo": {
       "name": "enum-compat-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T01:22:05Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-05T05:45:27Z",
   "draft": false,
   "e_tag": "\"23a0c1cbdd14c6a871c2e8903c9681bdf1f51fd66298deaf955fb5199561a803\"",
@@ -15,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/enum-compat-feedstock/pull/11",
   "id": 4449004427,
-  "labels": [],
-  "last_fetched": "2026-11-16T11:47:02.980846",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T01:22:08.429370",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 11,
-  "state": "open",
-  "updated_at": "2026-09-05T05:47:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T01:22:05Z"
 }

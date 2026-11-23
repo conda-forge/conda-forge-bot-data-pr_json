@@ -1,27 +1,29 @@
 {
+  "ETag": "\"cdfa4e5fdb627fa5d771f2ba9ab46743748fdb1c8495c33c8852bd7c0e5757b7\"",
+  "Last-Modified": "Mon, 23 Nov 2026 22:05:09 GMT",
   "base": {
     "repo": {
       "name": "ltex-ls-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T22:05:04Z",
   "closed_by": null,
   "created_at": "2026-11-23T21:59:54Z",
   "draft": false,
   "e_tag": "\"3496bc8614697f54660b092bad3d2346880eb2a6827cb7170972a07f6311a277\"",
   "head": {
-    "ref": "19.0.0_h031034"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ltex-ls-feedstock/pull/7",
   "id": 5461951271,
   "labels": [],
-  "last_fetched": "2026-11-23T21:59:54.993403",
+  "last_fetched": "2026-11-23T22:06:57.436835",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T22:05:04Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-23T21:59:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T22:05:09Z"
 }

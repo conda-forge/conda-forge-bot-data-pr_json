@@ -1,29 +1,29 @@
 {
-  "ETag": "\"13451eef2ba77b066840c4b895bf8268aca45f4d251baf70020611f133a87579\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"37cd11867ec6ef4066767a4a4361a37d363d14fb098d30382667362701fea5fd\"",
+  "Last-Modified": "Mon, 23 Nov 2026 11:40:59 GMT",
   "base": {
     "repo": {
       "name": "gmprocess-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T11:40:58Z",
   "closed_by": null,
   "created_at": "2026-11-20T14:36:15Z",
   "draft": false,
   "e_tag": "\"f1244734653e9376a1b1f2f56a69039616bdedcfaeb071c74a0f5d6a49f4c7b4\"",
   "head": {
-    "ref": "2.9.1_h2713b7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gmprocess-feedstock/pull/104",
   "id": 5415087918,
   "labels": [],
-  "last_fetched": "2026-11-22T21:20:07.111917",
+  "last_fetched": "2026-11-23T11:42:35.865590",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T11:40:58Z",
   "number": 104,
-  "state": "open",
-  "updated_at": "2026-11-20T14:37:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T11:40:59Z"
 }

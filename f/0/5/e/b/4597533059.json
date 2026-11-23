@@ -1,6 +1,6 @@
 {
-  "ETag": "\"30625205f66c94a3fa9b67e65bfd88434eed71014f98e787253f605bfc61a04a\"",
-  "Last-Modified": "Mon, 23 Nov 2026 00:43:40 GMT",
+  "ETag": "W/\"b9911c076169d23e3fd0fff3a574bde0ffe386cc393931700a417321d36478cc\"",
+  "Last-Modified": "Mon, 23 Nov 2026 00:43:37 GMT",
   "base": {
     "repo": {
       "name": "obspy-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/obspy-feedstock/pull/82",
   "id": 4597533059,
-  "labels": [],
-  "last_fetched": "2026-11-23T00:44:52.812602",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T00:43:40.942400",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 82,
   "state": "closed",
-  "updated_at": "2026-11-23T00:43:40Z"
+  "updated_at": "2026-11-23T00:43:37Z"
 }

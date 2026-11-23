@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bcfb34411241660407ea5304cf7d6705e629c84aa46a7097143405d760ca35d6\"",
+  "Last-Modified": "Mon, 23 Nov 2026 15:23:46 GMT",
   "base": {
     "repo": {
       "name": "rucio-clients-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T15:23:42Z",
   "closed_by": null,
   "created_at": "2026-11-23T15:20:26Z",
   "draft": false,
   "e_tag": "\"357b3d8121cc7f11c78aca2a9f21659e31e4e1391b00c47344b63498e9df53a8\"",
   "head": {
-    "ref": "41.5.2_h3a40ba"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rucio-clients-feedstock/pull/163",
   "id": 5455858689,
   "labels": [],
-  "last_fetched": "2026-11-23T15:20:27.489000",
+  "last_fetched": "2026-11-23T15:24:48.457131",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T15:23:42Z",
   "number": 163,
-  "state": "open",
-  "updated_at": "2026-11-23T15:20:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T15:23:46Z"
 }

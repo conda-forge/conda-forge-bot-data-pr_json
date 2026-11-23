@@ -1,12 +1,13 @@
 {
-  "ETag": "\"800162a66243116b89e57f6bfccdf4b81d1241d8de7cc098054ecae14ce1b4b8\"",
-  "Last-Modified": "Wed, 22 Jul 2026 11:20:13 GMT",
+  "ETag": "\"b16fb5a898f88f8d3fccf1fb5e7a6cc664d968a689c856958fc8aab18ad61084\"",
+  "Last-Modified": "Mon, 23 Nov 2026 04:20:10 GMT",
   "base": {
     "repo": {
       "name": "gpg-tui-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T04:20:08Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-07-04T13:33:49Z",
   "draft": false,
   "e_tag": "\"30f888d9306bd1cf12287c21dd6431126dbf93d34a5c936a1b5a342bea186d29\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/gpg-tui-feedstock/pull/6",
   "id": 3990708984,
   "labels": [],
-  "last_fetched": "2026-11-17T11:58:23.515167",
+  "last_fetched": "2026-11-23T04:21:16.607994",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-07-04T13:35:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T04:20:10Z"
 }

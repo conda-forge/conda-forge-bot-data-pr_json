@@ -1,12 +1,13 @@
 {
-  "ETag": "\"fef11a0941c7b15e5d2c77e5f9404d07e30c641df32da666dc3ac8b9635357fc\"",
-  "Last-Modified": "Tue, 22 Sep 2026 01:13:04 GMT",
+  "ETag": "\"30625205f66c94a3fa9b67e65bfd88434eed71014f98e787253f605bfc61a04a\"",
+  "Last-Modified": "Mon, 23 Nov 2026 00:43:40 GMT",
   "base": {
     "repo": {
       "name": "obspy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T00:43:37Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-22T01:11:08Z",
   "draft": false,
   "e_tag": "\"030e4b69b76719fb9cfc6418210d742cb952811692d542c70814844a2b5ec247\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/obspy-feedstock/pull/82",
   "id": 4597533059,
   "labels": [],
-  "last_fetched": "2026-11-18T02:43:54.694237",
+  "last_fetched": "2026-11-23T00:44:52.812602",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 82,
-  "state": "open",
-  "updated_at": "2026-09-22T01:13:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T00:43:40Z"
 }

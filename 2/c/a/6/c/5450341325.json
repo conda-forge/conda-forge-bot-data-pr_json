@@ -1,6 +1,6 @@
 {
-  "ETag": "\"5891d32bdcaab1dcde45d1281f4cb988d65afe6fa9d59d53c2baa493d3013fa3\"",
-  "Last-Modified": "Mon, 23 Nov 2026 09:20:59 GMT",
+  "ETag": "\"c84adab19a512bfb2ce2114e31acfd9cd7dd187cc7777ba3bc7fa9846c386052\"",
+  "Last-Modified": "Mon, 23 Nov 2026 14:30:39 GMT",
   "base": {
     "repo": {
       "name": "types-croniter-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/types-croniter-feedstock/pull/58",
   "id": 5450341325,
-  "labels": [],
-  "last_fetched": "2026-11-23T10:58:32.888472",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3097792761,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMDk3NzkyNzYx",
+      "url": "https://api.github.com/repos/conda-forge/types-croniter-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T14:30:55.527535",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 58,
   "state": "open",
-  "updated_at": "2026-11-23T09:21:41Z"
+  "updated_at": "2026-11-23T14:30:39Z"
 }

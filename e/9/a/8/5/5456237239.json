@@ -1,27 +1,29 @@
 {
+  "ETag": "\"606f2b91c63dd81ee903279a3fda740ec35231528ae13a9f16a316e1f8eae13d\"",
+  "Last-Modified": "Mon, 23 Nov 2026 15:50:22 GMT",
   "base": {
     "repo": {
       "name": "carapace-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T15:50:18Z",
   "closed_by": null,
   "created_at": "2026-11-23T15:43:41Z",
   "draft": false,
   "e_tag": "\"e3321a0fa96387a5971a8e66640cf4dd5c38d5d0e4eb24494c9a5b995fa4c0a7\"",
   "head": {
-    "ref": "1.8.5_hedc010"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/carapace-feedstock/pull/34",
   "id": 5456237239,
   "labels": [],
-  "last_fetched": "2026-11-23T15:43:42.249650",
+  "last_fetched": "2026-11-23T15:51:49.670494",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T15:50:18Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-11-23T15:43:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T15:50:22Z"
 }

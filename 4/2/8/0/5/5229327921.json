@@ -1,6 +1,6 @@
 {
-  "ETag": "\"0df7a1bd14d40a331cbf8cad95c88411a57b6d78ea160e447ce8abe4ab3ff2f0\"",
-  "Last-Modified": "Mon, 23 Nov 2026 00:11:19 GMT",
+  "ETag": "W/\"38b1d8b68f72279ac99976c72f5d6cca9775838dc9ccca39b5634b59a26a02de\"",
+  "Last-Modified": "Mon, 23 Nov 2026 00:11:16 GMT",
   "base": {
     "repo": {
       "name": "xcb-util-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/xcb-util-feedstock/pull/5",
   "id": 5229327921,
-  "labels": [],
-  "last_fetched": "2026-11-23T00:14:28.073282",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T00:11:19.820918",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 5,
   "state": "closed",
-  "updated_at": "2026-11-23T00:11:19Z"
+  "updated_at": "2026-11-23T00:11:16Z"
 }

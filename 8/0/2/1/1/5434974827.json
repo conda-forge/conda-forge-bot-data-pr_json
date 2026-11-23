@@ -1,29 +1,41 @@
 {
-  "ETag": "\"484972168cf8179329e2f14308a91f71ecc7b03ef4d52c800a91ae4a39a75e27\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"a1fbd5cb08309cc75444a2d0079614f31228de52fe134fad08ce29b816365bb1\"",
+  "Last-Modified": "Mon, 23 Nov 2026 07:17:00 GMT",
   "base": {
     "repo": {
       "name": "yoda-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T07:16:56Z",
   "closed_by": null,
   "created_at": "2026-11-22T02:43:35Z",
   "draft": false,
   "e_tag": "\"7dea7115a71be3e911a24f21d55383418aa564ebb2f8a07d8b6cc19ea17f7c6d\"",
   "head": {
-    "ref": "2.1.5_hcbdd47"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/yoda-feedstock/pull/71",
   "id": 5434974827,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:01:39.404696",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2995480340,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyOTk1NDgwMzQw",
+      "url": "https://api.github.com/repos/conda-forge/yoda-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T07:17:37.219854",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T07:16:55Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-11-22T02:45:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T07:17:00Z"
 }

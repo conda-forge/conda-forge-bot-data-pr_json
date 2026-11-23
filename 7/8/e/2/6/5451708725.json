@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1cce38c43b221cde823457872f3205232144e13a7316c1b60d94f7a5eb5102ca\"",
+  "Last-Modified": "Mon, 23 Nov 2026 10:57:00 GMT",
   "base": {
     "repo": {
       "name": "topo-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T10:56:57Z",
   "closed_by": null,
   "created_at": "2026-11-23T10:54:49Z",
   "draft": false,
   "e_tag": "\"db8e49d60c7289be13334243548a013fb6ebe80941db038cfc18ad4af6c3eb3d\"",
   "head": {
-    "ref": "0.26.0_h78b185"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/topo-tools-feedstock/pull/27",
   "id": 5451708725,
   "labels": [],
-  "last_fetched": "2026-11-23T10:54:50.279909",
+  "last_fetched": "2026-11-23T10:58:39.828851",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T10:56:57Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-11-23T10:54:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T10:57:00Z"
 }

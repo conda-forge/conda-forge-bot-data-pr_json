@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8d28528475c1b3739c08b01c943f1c1e2f0d0d29feafdf42eab42b21d65a8cfd\"",
+  "Last-Modified": "Mon, 23 Nov 2026 09:09:30 GMT",
   "base": {
     "repo": {
       "name": "hickle-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T09:09:30Z",
   "closed_by": null,
   "created_at": "2026-11-23T09:05:29Z",
   "draft": false,
   "e_tag": "\"18daf75404c889384d6a84d8735b4bf3297c41d1b65cb7307c4f1771cd291d34\"",
   "head": {
-    "ref": "5.0.4_hddabab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hickle-feedstock/pull/22",
   "id": 5450158236,
   "labels": [],
-  "last_fetched": "2026-11-23T09:05:30.153655",
+  "last_fetched": "2026-11-23T09:10:39.654429",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T09:09:30Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-23T09:05:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T09:09:34Z"
 }

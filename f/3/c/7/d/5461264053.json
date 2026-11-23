@@ -1,27 +1,29 @@
 {
+  "ETag": "\"dfa0c4898523fe7faf1a1a723c4a4ccecf87a1ef164ccd3cbdaa86e4dc5aadf8\"",
+  "Last-Modified": "Mon, 23 Nov 2026 21:10:55 GMT",
   "base": {
     "repo": {
       "name": "langchain-text-splitters-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T21:10:52Z",
   "closed_by": null,
   "created_at": "2026-11-23T21:08:45Z",
   "draft": false,
   "e_tag": "\"44de588135ae0a36b83420377b7ec62969bad9cbb011d529829e1e3344c67d6c\"",
   "head": {
-    "ref": "1.2.0_hd7812f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/langchain-text-splitters-feedstock/pull/31",
   "id": 5461264053,
   "labels": [],
-  "last_fetched": "2026-11-23T21:08:46.278417",
+  "last_fetched": "2026-11-23T21:12:12.914927",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T21:10:52Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-23T21:08:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T21:10:55Z"
 }

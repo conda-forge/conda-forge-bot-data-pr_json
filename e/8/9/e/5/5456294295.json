@@ -1,4 +1,6 @@
 {
+  "ETag": "\"20d6ab0a1cde264f90b4e0913a50ab4b22e4c043fff1a269ae41df5f784604ab\"",
+  "Last-Modified": "Mon, 23 Nov 2026 15:49:38 GMT",
   "base": {
     "repo": {
       "name": "firefox-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/firefox-feedstock/pull/281",
   "id": 5456294295,
-  "labels": [],
-  "last_fetched": "2026-11-23T15:47:12.650445",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890876860,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODc2ODYw",
+      "url": "https://api.github.com/repos/conda-forge/firefox-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T15:50:55.009026",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 281,
   "state": "open",
-  "updated_at": "2026-11-23T15:47:11Z"
+  "updated_at": "2026-11-23T15:49:38Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"df1446505fb9a4749a302783468208f99da501882088ac96c75f818a77736d9b\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"8dfa17c105a123334e466d5a2c00500b5916fdc177d92eaf4cbb026905f5a7a5\"",
+  "Last-Modified": "Mon, 23 Nov 2026 15:48:20 GMT",
   "base": {
     "repo": {
       "name": "aws-c-mqtt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T15:48:17Z",
   "closed_by": null,
   "created_at": "2026-11-15T08:39:15Z",
   "draft": false,
   "e_tag": "\"e30f01bb80a82087cc60e387ab9ae16ebd6e0b82e467202200c24e9c2c23c322\"",
   "head": {
-    "ref": "rebuild-aws_c_nov26-0-1_h20a31a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/aws-c-mqtt-feedstock/pull/307",
   "id": 5321034841,
   "labels": [],
-  "last_fetched": "2026-11-22T21:20:09.088378",
+  "last_fetched": "2026-11-23T15:49:35.478560",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T15:48:17Z",
   "number": 307,
-  "state": "open",
-  "updated_at": "2026-11-15T09:41:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T15:48:20Z"
 }

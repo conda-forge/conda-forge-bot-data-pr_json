@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b3a516d38033864730ce733b9d2afb936e99fd0125a6767393a656c4ca8e0a70\"",
-  "Last-Modified": "Mon, 23 Nov 2026 04:37:24 GMT",
+  "ETag": "W/\"0d0db74e3ff2a972f2f70ba621f137a1dbf5ae31dd0c0501028e20952704eff0\"",
+  "Last-Modified": "Mon, 23 Nov 2026 04:37:22 GMT",
   "base": {
     "repo": {
       "name": "cztile-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/cztile-feedstock/pull/5",
   "id": 2933331704,
-  "labels": [],
-  "last_fetched": "2026-11-23T04:38:36.591127",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T04:37:24.819905",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 5,
   "state": "closed",
-  "updated_at": "2026-11-23T04:37:24Z"
+  "updated_at": "2026-11-23T04:37:22Z"
 }

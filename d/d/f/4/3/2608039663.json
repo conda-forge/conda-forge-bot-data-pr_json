@@ -1,6 +1,6 @@
 {
-  "ETag": "\"1db059b73e60f1cae6d790c94b955d7f7e22d87454aa600a76500b2eeaf47cea\"",
-  "Last-Modified": "Mon, 23 Nov 2026 05:33:30 GMT",
+  "ETag": "W/\"b951c4636f1d22131c895fedf8f3a3d495b1687677ea8da07fb7f2700db74655\"",
+  "Last-Modified": "Mon, 23 Nov 2026 05:33:27 GMT",
   "base": {
     "repo": {
       "name": "xcb-util-image-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/xcb-util-image-feedstock/pull/6",
   "id": 2608039663,
-  "labels": [],
-  "last_fetched": "2026-11-23T05:34:35.826355",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T05:33:30.725591",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 6,
   "state": "closed",
-  "updated_at": "2026-11-23T05:33:30Z"
+  "updated_at": "2026-11-23T05:33:27Z"
 }

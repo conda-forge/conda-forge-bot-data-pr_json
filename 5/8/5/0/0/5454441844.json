@@ -1,29 +1,41 @@
 {
-  "ETag": "\"af3b8537cf8283c2a58f62cdb205b43297535504618f54e28b2d59859efb24f0\"",
-  "Last-Modified": "Mon, 23 Nov 2026 13:56:43 GMT",
+  "ETag": "\"d67e676d5c0a5f884936ce8b10b1eb07b5868cfb582791f2c91a452222e02756\"",
+  "Last-Modified": "Mon, 23 Nov 2026 22:29:24 GMT",
   "base": {
     "repo": {
       "name": "matrix-sdk-python-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T22:29:19Z",
   "closed_by": null,
   "created_at": "2026-11-23T13:55:10Z",
   "draft": false,
   "e_tag": "\"fb1b0625620fd04953c7a7ae0644ef94f022033455ddea23e3287328171403e4\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h0c7ddd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/matrix-sdk-python-feedstock/pull/1",
   "id": 5454441844,
-  "labels": [],
-  "last_fetched": "2026-11-23T14:57:50.919714",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 13190535514,
+      "name": "automerge",
+      "node_id": "LA_kwDOV4o6qs8AAAADEjeZWg",
+      "url": "https://api.github.com/repos/conda-forge/matrix-sdk-python-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T22:30:12.989935",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T22:29:19Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-23T13:56:43Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T22:29:24Z"
 }

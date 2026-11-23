@@ -1,28 +1,28 @@
 {
-  "ETag": "\"9511fb57dab93ab1da1388b2697e07b25f1590fc5252293127485d5ab2b5eb60\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"fd21db750f093f368d1667aca449788a3d31c4bc767af0c12244e1d78537e3fa\"",
+  "Last-Modified": "Mon, 23 Nov 2026 21:29:14 GMT",
   "base": {
     "repo": {
       "name": "django-filer-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T21:29:14Z",
   "created_at": "2026-07-06T11:38:19Z",
   "draft": false,
   "e_tag": "\"34e75d4d55c774320c451d5c41f08b0a190a84e99ea2021763f31c935280357f\"",
   "head": {
-    "ref": "3.5.0_hb05fc0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-filer-feedstock/pull/36",
   "id": 3998400910,
   "labels": [],
-  "last_fetched": "2026-11-23T07:22:54.626358",
+  "last_fetched": "2026-11-23T21:30:22.860168",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T21:29:14Z",
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-07-09T19:05:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T21:29:14Z"
 }

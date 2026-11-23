@@ -1,28 +1,28 @@
 {
-  "ETag": "\"f76d8a5f50aa1901e4c75132de7cf0c89b58798a60d49025c44f639f29e65c04\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"917af8b3501a187332b17210bc6bfb744f1594a9f2728e581823f8071fdafa4c\"",
+  "Last-Modified": "Mon, 23 Nov 2026 11:23:40 GMT",
   "base": {
     "repo": {
       "name": "cpr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T11:23:40Z",
   "created_at": "2026-10-12T19:39:16Z",
   "draft": false,
   "e_tag": "\"befbc98e0c9aeff75ecf5d9f6b43ed22028f6cc5b17d71c431cc2ff2faa5d918\"",
   "head": {
-    "ref": "1.15.0_h4f7736"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cpr-feedstock/pull/5",
   "id": 4834166405,
   "labels": [],
-  "last_fetched": "2026-11-22T20:23:36.783401",
+  "last_fetched": "2026-11-23T11:25:15.275452",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T11:23:40Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-10-12T19:41:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T11:23:40Z"
 }

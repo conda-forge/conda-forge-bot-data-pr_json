@@ -1,18 +1,18 @@
 {
-  "ETag": "\"32a6c56b703cf53a330c16fc0555a3ab44e92754f418bb3304863e4c43a9995d\"",
-  "Last-Modified": "Mon, 23 Nov 2026 01:32:01 GMT",
+  "ETag": "\"da092bec36a8823f1724c6571d479125b946daf9dffabc4262744139d4acdc49\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:44:10 GMT",
   "base": {
     "repo": {
       "name": "fsspec-rs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T01:44:06Z",
   "closed_by": null,
   "created_at": "2026-11-23T01:30:27Z",
   "draft": false,
   "e_tag": "\"70af0e5b7f449bd51a85a9710e2400d749de9b5adb8581f3580c22f0c1fc7558\"",
   "head": {
-    "ref": "0.4.0_h8b962d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fsspec-rs-feedstock/pull/18",
   "id": 5445553769,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/fsspec-rs-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-23T01:32:46.734377",
+  "last_fetched": "2026-11-23T01:45:38.476342",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T01:44:06Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-23T01:32:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T01:44:10Z"
 }

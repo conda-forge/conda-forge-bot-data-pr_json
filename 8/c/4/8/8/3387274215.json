@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a8ab5d8a13390eade390e7dc592251595a3590473b1f27553240d81a819500ca\"",
-  "Last-Modified": "Mon, 23 Nov 2026 01:22:08 GMT",
+  "ETag": "W/\"6ff04c098525170e32ee9a4510e9364d41f4345f2fc48b3772e3850fb5fd6f0c\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:22:05 GMT",
   "base": {
     "repo": {
       "name": "px-proxy-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/px-proxy-feedstock/pull/23",
   "id": 3387274215,
-  "labels": [],
-  "last_fetched": "2026-11-23T01:23:10.576784",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T01:22:08.945349",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 23,
   "state": "closed",
-  "updated_at": "2026-11-23T01:22:08Z"
+  "updated_at": "2026-11-23T01:22:05Z"
 }

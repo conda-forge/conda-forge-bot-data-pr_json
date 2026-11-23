@@ -1,29 +1,33 @@
 {
-  "ETag": "\"609c384bda5302ccc9f2bc7ea1d98f387372bcf0e54f77d8c8c9df506d9d2769\"",
-  "Last-Modified": "Mon, 23 Nov 2026 03:01:50 GMT",
+  "ETag": "\"bea50d3d70b79a40ac218a1de30d269f527e57c428bf3f0c3c7593966c0851bf\"",
+  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
   "base": {
     "repo": {
       "name": "buildah-feedstock"
     }
   },
-  "closed_at": "2026-11-23T03:01:48Z",
-  "closed_by": "regro-cf-autotick-bot",
+  "closed_at": null,
+  "closed_by": null,
   "created_at": "2026-11-10T13:15:36Z",
   "draft": false,
   "e_tag": "\"23579971d043ef1beb6bdebb8df817ab7f4bce11b6b52aee791c6fc38422fb5e\"",
   "head": {
-    "ref": "rebuild-gpgme22-0-1_h3ebf89"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/buildah-feedstock/pull/41",
   "id": 5241924172,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:03:34.391881",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T03:01:46.541252",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 41,
-  "state": "closed",
-  "updated_at": "2026-11-23T03:01:50Z"
+  "state": "open",
+  "updated_at": "2026-11-10T13:17:06Z"
 }

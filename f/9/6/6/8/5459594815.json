@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3ab546cdecbdf5bd3bf013052fe6723da590f08a5b5691883d492f27576109bc\"",
+  "Last-Modified": "Mon, 23 Nov 2026 19:47:46 GMT",
   "base": {
     "repo": {
       "name": "hololinked-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T19:47:46Z",
   "closed_by": null,
   "created_at": "2026-11-23T19:15:34Z",
   "draft": false,
   "e_tag": "\"547111ba2170625bba38e8293b6e369b8a290eeda95199e13e945b1a16854720\"",
   "head": {
-    "ref": "0.6.0_hfc9818"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hololinked-feedstock/pull/23",
   "id": 5459594815,
   "labels": [],
-  "last_fetched": "2026-11-23T19:15:36.395217",
+  "last_fetched": "2026-11-23T19:48:55.043117",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T19:47:46Z",
   "number": 23,
-  "state": "open",
-  "updated_at": "2026-11-23T19:15:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T19:47:46Z"
 }

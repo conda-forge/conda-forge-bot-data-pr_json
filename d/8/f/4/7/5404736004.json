@@ -1,29 +1,29 @@
 {
-  "ETag": "\"64c057e84c4391cd6e4abf0130ce00c6b1712129fb76f1a4c7436f94fe09018f\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"d5b757c3981760771a7290410fd2c25be81c18a994a8bcf818c5b628f9323f49\"",
+  "Last-Modified": "Mon, 23 Nov 2026 09:44:29 GMT",
   "base": {
     "repo": {
       "name": "cimg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T09:44:26Z",
   "closed_by": null,
   "created_at": "2026-11-19T23:26:06Z",
   "draft": false,
   "e_tag": "\"67a0368a24d0864cd94686460db478c4b0eeb6ec118ae9731f034f82fb0c0a3b\"",
   "head": {
-    "ref": "4.0.8_h5b65d3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cimg-feedstock/pull/71",
   "id": 5404736004,
   "labels": [],
-  "last_fetched": "2026-11-22T23:36:30.696510",
+  "last_fetched": "2026-11-23T09:45:50.497928",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T09:44:26Z",
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-11-19T23:30:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T09:44:29Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"682226575c8a66d4474f8ff1db9601c99ba19a510561e0c505d35f8b5735fc53\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"9f666c05fa6355474dde6aee61d976ec2260c586bb2bdedcf4f3b92364c0052e\"",
+  "Last-Modified": "Mon, 23 Nov 2026 20:53:27 GMT",
   "base": {
     "repo": {
       "name": "dropbox-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T20:53:26Z",
   "closed_by": null,
   "created_at": "2026-11-14T04:55:09Z",
   "draft": false,
   "e_tag": "\"0ecfd4a366f3d409a595f9cf84ff8a51a16f8ec0faaa82204043576184c4ea70\"",
   "head": {
-    "ref": "12.2.5_h39237f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dropbox-feedstock/pull/78",
   "id": 5307475000,
   "labels": [],
-  "last_fetched": "2026-11-23T05:57:23.605535",
+  "last_fetched": "2026-11-23T20:54:59.793766",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T20:53:26Z",
   "number": 78,
-  "state": "open",
-  "updated_at": "2026-11-14T04:56:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T20:53:27Z"
 }

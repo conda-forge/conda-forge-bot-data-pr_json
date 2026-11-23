@@ -1,6 +1,6 @@
 {
-  "ETag": "\"2df59e79a3fbc09508a15e485122a10c54f4e1dd51884f334434550f137e2b9d\"",
-  "Last-Modified": "Mon, 23 Nov 2026 01:22:20 GMT",
+  "ETag": "W/\"c473d0f92e7c29be5d0c8c187d988e9b76aaefe98b9f39e360165df27668d87d\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:22:18 GMT",
   "base": {
     "repo": {
       "name": "uvloop-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/uvloop-feedstock/pull/56",
   "id": 5336525086,
-  "labels": [],
-  "last_fetched": "2026-11-23T01:23:55.382234",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T01:22:20.793417",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 56,
   "state": "closed",
-  "updated_at": "2026-11-23T01:22:20Z"
+  "updated_at": "2026-11-23T01:22:18Z"
 }

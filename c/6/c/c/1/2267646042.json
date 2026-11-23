@@ -1,6 +1,6 @@
 {
-  "ETag": "\"1c16f1e71e389bdd2bb96b87ce2f0023a50e9cc5e760387309e52c2e0ad1989c\"",
-  "Last-Modified": "Mon, 23 Nov 2026 06:56:42 GMT",
+  "ETag": "W/\"2f35d243c4dd8ca0a18d9dfcead934fce6d776058a0b42b9f70ac7f9aaa5c2da\"",
+  "Last-Modified": "Mon, 23 Nov 2026 06:56:39 GMT",
   "base": {
     "repo": {
       "name": "redis-dict-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/redis-dict-feedstock/pull/18",
   "id": 2267646042,
-  "labels": [],
-  "last_fetched": "2026-11-23T06:57:47.059684",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T06:56:42.648723",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 18,
   "state": "closed",
-  "updated_at": "2026-11-23T06:56:42Z"
+  "updated_at": "2026-11-23T06:56:39Z"
 }

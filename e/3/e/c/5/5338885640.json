@@ -1,6 +1,6 @@
 {
-  "ETag": "\"cb9c2724f30023f514f620a5540b990dae75251dd9b7e56655fd3e667ebad735\"",
-  "Last-Modified": "Mon, 23 Nov 2026 03:00:45 GMT",
+  "ETag": "W/\"3dda1d0c74bc57eb0e9190e3a855e0642287a696d84253d8d6174ef924bd5acb\"",
+  "Last-Modified": "Mon, 23 Nov 2026 03:00:42 GMT",
   "base": {
     "repo": {
       "name": "python-duckdb-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/python-duckdb-feedstock/pull/155",
   "id": 5338885640,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:02:16.041279",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T03:00:45.584758",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 155,
   "state": "closed",
-  "updated_at": "2026-11-23T03:00:45Z"
+  "updated_at": "2026-11-23T03:00:42Z"
 }

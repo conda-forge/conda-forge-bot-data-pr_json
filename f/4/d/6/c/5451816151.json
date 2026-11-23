@@ -1,27 +1,29 @@
 {
+  "ETag": "\"000e374cefa1b8cd80633980ae23bb8cb4c0811f24c9128401927cc9544964ee\"",
+  "Last-Modified": "Mon, 23 Nov 2026 12:54:31 GMT",
   "base": {
     "repo": {
       "name": "kitty-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T12:54:31Z",
   "closed_by": null,
   "created_at": "2026-11-23T11:02:27Z",
   "draft": false,
   "e_tag": "\"b716ec3c5aaad935fda85855340b71763fb508d18ddc5eaeee0ca9c60eca0b42\"",
   "head": {
-    "ref": "0.51.1_h616d97"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kitty-feedstock/pull/85",
   "id": 5451816151,
   "labels": [],
-  "last_fetched": "2026-11-23T11:02:28.208999",
+  "last_fetched": "2026-11-23T12:56:40.648760",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T12:54:31Z",
   "number": 85,
-  "state": "open",
-  "updated_at": "2026-11-23T11:02:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T12:54:31Z"
 }

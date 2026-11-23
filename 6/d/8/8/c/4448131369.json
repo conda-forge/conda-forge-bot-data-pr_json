@@ -1,6 +1,6 @@
 {
-  "ETag": "\"763e76860a14f808ea59a0d09e23687e360c744891ebb9ff51fd1b39dd91bdff\"",
-  "Last-Modified": "Mon, 23 Nov 2026 11:15:27 GMT",
+  "ETag": "W/\"453a7a388b3bc6386a253a076d4a346b0621ebd7a7505ea554d96b140e2e4144\"",
+  "Last-Modified": "Mon, 23 Nov 2026 11:15:24 GMT",
   "base": {
     "repo": {
       "name": "seccomp-split-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/seccomp-split-feedstock/pull/47",
   "id": 4448131369,
-  "labels": [],
-  "last_fetched": "2026-11-23T11:16:58.824410",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T11:15:28.254159",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 47,
   "state": "closed",
-  "updated_at": "2026-11-23T11:15:27Z"
+  "updated_at": "2026-11-23T11:15:24Z"
 }

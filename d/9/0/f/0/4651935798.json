@@ -1,12 +1,13 @@
 {
-  "ETag": "\"04b98e8bc0dc393986de26c1b1f7491dc123d80c13dbff76b433c72b662e86d8\"",
-  "Last-Modified": "Sun, 27 Sep 2026 05:51:04 GMT",
+  "ETag": "\"c6cf44f0cb9e5fe708c02064a858d64db78621efc2ee14ce9c83e7cf1cb3560b\"",
+  "Last-Modified": "Mon, 23 Nov 2026 08:44:18 GMT",
   "base": {
     "repo": {
       "name": "ledger-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T08:44:16Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-27T05:49:04Z",
   "draft": false,
   "e_tag": "\"502024ca567a4cb28483c87daabda8dd70a330feaf277a176df87915ac293f6d\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/ledger-feedstock/pull/50",
   "id": 4651935798,
   "labels": [],
-  "last_fetched": "2026-11-16T20:43:25.064341",
+  "last_fetched": "2026-11-23T08:45:36.717709",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-09-27T05:51:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T08:44:18Z"
 }

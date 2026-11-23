@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b52ebe8b92e65729c75af8c74cf15ce365967676a9df90c09e3170464c1c50cb\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"dba5221d78d837d43e2a5043bdb66f8b6f1e4e5d53e46641bb2a1b28bfe966c8\"",
+  "Last-Modified": "Mon, 23 Nov 2026 11:57:51 GMT",
   "base": {
     "repo": {
       "name": "coastsat-package-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/coastsat-package-feedstock/pull/72",
   "id": 5422195009,
-  "labels": [],
-  "last_fetched": "2026-11-22T23:35:46.688827",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5860732008,
+      "name": "automerge",
+      "node_id": "LA_kwDOKIvoNc8AAAABXVOsaA",
+      "url": "https://api.github.com/repos/conda-forge/coastsat-package-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T11:59:13.745213",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 72,
   "state": "open",
-  "updated_at": "2026-11-21T00:13:22Z"
+  "updated_at": "2026-11-23T11:57:51Z"
 }

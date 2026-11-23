@@ -1,27 +1,29 @@
 {
+  "ETag": "\"77ecc90e49abf4f20d2c879ad8944fb043b6163ecc4bc3de342b8f0cf3bb70f0\"",
+  "Last-Modified": "Mon, 23 Nov 2026 10:59:40 GMT",
   "base": {
     "repo": {
       "name": "apm-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T10:59:36Z",
   "closed_by": null,
   "created_at": "2026-11-23T10:57:34Z",
   "draft": false,
   "e_tag": "\"d7a4c0a10d595ac09d9ebe6feea1f48061e39107945a03091e5232f02d407b24\"",
   "head": {
-    "ref": "0.38.1_h67cc9b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apm-cli-feedstock/pull/37",
   "id": 5451747524,
   "labels": [],
-  "last_fetched": "2026-11-23T10:57:34.927133",
+  "last_fetched": "2026-11-23T11:01:21.650215",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T10:59:35Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-11-23T10:57:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T10:59:40Z"
 }

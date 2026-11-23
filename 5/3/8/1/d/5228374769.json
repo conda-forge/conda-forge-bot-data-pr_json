@@ -1,13 +1,13 @@
 {
-  "ETag": "\"cb4d98f6170c556fbf4610afcd8b3ba7ef908ffe66e24aa8040fc0bbf1c0f7a9\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "W/\"2a493de50949cc5f5533e16e6d80ff9d17536c37dab91ddc724b11f1b7948fa1\"",
+  "Last-Modified": "Mon, 23 Nov 2026 09:42:50 GMT",
   "base": {
     "repo": {
       "name": "arcticdb-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-23T09:42:50Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-09T17:41:33Z",
   "draft": false,
   "e_tag": "\"554310f1116e26c4d4723ff89af5f505794bd62ff11f4fcc98e1babd4c8ece45\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/arcticdb-feedstock/pull/635",
   "id": 5228374769,
-  "labels": [],
-  "last_fetched": "2026-11-22T20:23:41.704881",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 5546366670,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOJno8Ks8AAAABSpbWzg",
+      "url": "https://api.github.com/repos/conda-forge/arcticdb-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T09:42:54.643967",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "clean",
   "merged": false,
   "merged_at": null,
   "number": 635,
-  "state": "open",
-  "updated_at": "2026-11-09T17:43:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T09:42:50Z"
 }

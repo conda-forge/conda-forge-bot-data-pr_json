@@ -1,6 +1,6 @@
 {
-  "ETag": "\"24353a312696af44b9fe182d3de7e1d0eb10d84c12195989cd8051ef22dc0a93\"",
-  "Last-Modified": "Mon, 23 Nov 2026 01:50:51 GMT",
+  "ETag": "W/\"f0e77ab0db250e7c4e3977f0eeca7e8addadff16259db16f7833627c19bf199f\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:50:48 GMT",
   "base": {
     "repo": {
       "name": "pyxel-sim-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/pyxel-sim-feedstock/pull/128",
   "id": 5427998716,
-  "labels": [],
-  "last_fetched": "2026-11-23T01:52:09.705797",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T01:50:51.383612",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 128,
   "state": "closed",
-  "updated_at": "2026-11-23T01:50:51Z"
+  "updated_at": "2026-11-23T01:50:48Z"
 }

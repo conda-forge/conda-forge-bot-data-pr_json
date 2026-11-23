@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a3989e0e28c25b515412f74e423939e052fa498c04feb72e42c248a11850ff62\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:42:33 GMT",
   "base": {
     "repo": {
       "name": "chezmoi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T01:42:30Z",
   "closed_by": null,
   "created_at": "2026-11-23T01:37:35Z",
   "draft": false,
   "e_tag": "\"9e9af5c5a5082870ba8b4e10b99839ba48fa9ea5b4d171e3dca384d734a61ef6\"",
   "head": {
-    "ref": "2.74.2_hc04ea0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/chezmoi-feedstock/pull/69",
   "id": 5445613311,
   "labels": [],
-  "last_fetched": "2026-11-23T01:37:36.660323",
+  "last_fetched": "2026-11-23T01:44:03.913949",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T01:42:29Z",
   "number": 69,
-  "state": "open",
-  "updated_at": "2026-11-23T01:37:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T01:42:33Z"
 }

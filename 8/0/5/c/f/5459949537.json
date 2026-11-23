@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f3b25f4dba4724cc813ff0c514d87b5488a6dcb6363261ebca1e36ba8536e71b\"",
+  "Last-Modified": "Mon, 23 Nov 2026 20:02:09 GMT",
   "base": {
     "repo": {
       "name": "r-rcppalgos-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T20:02:05Z",
   "closed_by": null,
   "created_at": "2026-11-23T19:39:34Z",
   "draft": false,
   "e_tag": "\"f26045ce555df9230cba0c46250b7a9dabd2fe82534d9d01b967c1c47fb0d8e6\"",
   "head": {
-    "ref": "2.10.4_hef6373"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-rcppalgos-feedstock/pull/26",
   "id": 5459949537,
   "labels": [],
-  "last_fetched": "2026-11-23T19:39:35.464707",
+  "last_fetched": "2026-11-23T20:03:14.430539",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T20:02:05Z",
   "number": 26,
-  "state": "open",
-  "updated_at": "2026-11-23T19:39:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T20:02:09Z"
 }

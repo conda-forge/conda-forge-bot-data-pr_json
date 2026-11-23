@@ -1,4 +1,6 @@
 {
+  "ETag": "\"6ed79e7818fa28c3f239c5669a7b78e4161a2029944c10dc2d9fd37216758e42\"",
+  "Last-Modified": "Mon, 23 Nov 2026 12:47:17 GMT",
   "base": {
     "repo": {
       "name": "paraview-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/paraview-feedstock/pull/350",
   "id": 5453047133,
-  "labels": [],
-  "last_fetched": "2026-11-23T12:24:55.826848",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891092516,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDkyNTE2",
+      "url": "https://api.github.com/repos/conda-forge/paraview-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T12:48:52.619624",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 350,
   "state": "open",
-  "updated_at": "2026-11-23T12:24:55Z"
+  "updated_at": "2026-11-23T12:47:17Z"
 }

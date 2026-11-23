@@ -1,6 +1,6 @@
 {
-  "ETag": "\"1cdc6065a28cf4eb441919c7ae250cde17fe64379b9715c90c404eef0cc34375\"",
-  "Last-Modified": "Mon, 23 Nov 2026 07:31:37 GMT",
+  "ETag": "W/\"fa38c116b94495deb20f3e77c1ef11a456221d8dc0bbda7d641ccbb62c562300\"",
+  "Last-Modified": "Mon, 23 Nov 2026 07:31:34 GMT",
   "base": {
     "repo": {
       "name": "io4dolfinx-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/io4dolfinx-feedstock/pull/9",
   "id": 5406827964,
-  "labels": [],
-  "last_fetched": "2026-11-23T07:33:07.085043",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T07:31:37.737390",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 9,
   "state": "closed",
-  "updated_at": "2026-11-23T07:31:37Z"
+  "updated_at": "2026-11-23T07:31:34Z"
 }

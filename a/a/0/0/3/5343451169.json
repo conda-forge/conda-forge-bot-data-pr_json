@@ -1,6 +1,6 @@
 {
-  "ETag": "\"4d01f11e590c1bf463ee5237a6e2e662cce95156cb64400d54c1e6f3470caa7f\"",
-  "Last-Modified": "Mon, 23 Nov 2026 02:15:51 GMT",
+  "ETag": "W/\"b52ea48739c4ea42f584f4d42480d9891c151a2a884b6e221e99ad60972462b7\"",
+  "Last-Modified": "Mon, 23 Nov 2026 02:15:49 GMT",
   "base": {
     "repo": {
       "name": "upv-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/upv-feedstock/pull/26",
   "id": 5343451169,
-  "labels": [],
-  "last_fetched": "2026-11-23T02:17:34.166959",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T02:15:51.722231",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 26,
   "state": "closed",
-  "updated_at": "2026-11-23T02:15:51Z"
+  "updated_at": "2026-11-23T02:15:49Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c11b86881b5fabc4dc183d714ce34901d5f03b4e858571c70d655ad22ddbdc42\"",
+  "Last-Modified": "Mon, 23 Nov 2026 03:43:21 GMT",
   "base": {
     "repo": {
       "name": "ifcopenshell-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T03:43:21Z",
   "closed_by": null,
   "created_at": "2026-11-23T01:46:44Z",
   "draft": false,
   "e_tag": "\"b9cf8285b6402cb653c3d1c24d6be83d51f699133fbe27118650d3ff9f71603c\"",
   "head": {
-    "ref": "rebuild-occt802-0-1_hc4dd55"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ifcopenshell-feedstock/pull/96",
   "id": 5445691413,
   "labels": [],
-  "last_fetched": "2026-11-23T01:46:44.856195",
+  "last_fetched": "2026-11-23T03:44:32.573181",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T03:43:21Z",
   "number": 96,
-  "state": "open",
-  "updated_at": "2026-11-23T01:46:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T03:43:21Z"
 }

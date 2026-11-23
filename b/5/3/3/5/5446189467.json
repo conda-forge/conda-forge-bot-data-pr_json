@@ -1,6 +1,6 @@
 {
-  "ETag": "\"20652887f1168bee02cb10db494a2d43d96aa39614fb376fdd1e708e46e6b08f\"",
-  "Last-Modified": "Mon, 23 Nov 2026 02:47:34 GMT",
+  "ETag": "\"1488f5c131b1852c3e45747d1cea1d706ed18ed35a068331d53466e0118c49a3\"",
+  "Last-Modified": "Mon, 23 Nov 2026 13:35:11 GMT",
   "base": {
     "repo": {
       "name": "wgpudawn-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/wgpudawn-feedstock/pull/3",
   "id": 5446189467,
-  "labels": [],
-  "last_fetched": "2026-11-23T09:35:10.921146",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12826400497,
+      "name": "automerge",
+      "node_id": "LA_kwDOVWgU0c8AAAAC_INW8Q",
+      "url": "https://api.github.com/repos/conda-forge/wgpudawn-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T13:36:48.107642",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 3,
   "state": "open",
-  "updated_at": "2026-11-23T02:47:34Z"
+  "updated_at": "2026-11-23T13:35:11Z"
 }

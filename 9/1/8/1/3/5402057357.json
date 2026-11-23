@@ -1,29 +1,29 @@
 {
-  "ETag": "\"23c69094a746f24ea7c2a563eea6d11fd28c69b90f46973810132b8244fe5ea1\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"a59095d4798c5cf9237dea0944e9c66bca010cc4575a3068abc159ace1939c47\"",
+  "Last-Modified": "Mon, 23 Nov 2026 12:15:10 GMT",
   "base": {
     "repo": {
       "name": "quantities-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T12:15:10Z",
   "closed_by": null,
   "created_at": "2026-11-19T20:03:30Z",
   "draft": false,
   "e_tag": "\"d4c0a4f30c93a17c69f551a17b9b7847ae6b071ed10850afa0b17a69bad072c3\"",
   "head": {
-    "ref": "0.17.0_h470c16"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/quantities-feedstock/pull/25",
   "id": 5402057357,
   "labels": [],
-  "last_fetched": "2026-11-22T22:10:57.003240",
+  "last_fetched": "2026-11-23T12:16:35.186461",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T12:15:10Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-11-19T20:05:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T12:15:10Z"
 }

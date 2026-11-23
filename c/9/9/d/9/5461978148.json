@@ -1,27 +1,29 @@
 {
+  "ETag": "\"06b5f3f47405f6108618f302034c9a1286957bb7e7f4409ec4e1c282b0ab94d3\"",
+  "Last-Modified": "Mon, 23 Nov 2026 22:05:25 GMT",
   "base": {
     "repo": {
       "name": "filelock-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T22:05:21Z",
   "closed_by": null,
   "created_at": "2026-11-23T22:01:50Z",
   "draft": false,
   "e_tag": "\"5e9949daa4dccbc597d70b7c591e015be45d418b2c51e6695bbf41b9bde24211\"",
   "head": {
-    "ref": "4.3.1_h89315a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/filelock-feedstock/pull/136",
   "id": 5461978148,
   "labels": [],
-  "last_fetched": "2026-11-23T22:01:51.306889",
+  "last_fetched": "2026-11-23T22:06:37.264913",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T22:05:20Z",
   "number": 136,
-  "state": "open",
-  "updated_at": "2026-11-23T22:01:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T22:05:25Z"
 }

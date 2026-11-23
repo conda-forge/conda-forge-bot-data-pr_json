@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a49eb9414f4d0ac570d961fcf47c2b2bda6cff46f3ce745780ded56b83a9dd14\"",
-  "Last-Modified": "Mon, 23 Nov 2026 02:16:06 GMT",
+  "ETag": "W/\"b4764b511116b973e87d73a1b78b25734a397c97dfef3f314c3507f71a695aa6\"",
+  "Last-Modified": "Mon, 23 Nov 2026 02:16:04 GMT",
   "base": {
     "repo": {
       "name": "mgrs-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/mgrs-feedstock/pull/51",
   "id": 5416818960,
-  "labels": [],
-  "last_fetched": "2026-11-23T02:17:25.031714",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T02:16:06.679446",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 51,
   "state": "closed",
-  "updated_at": "2026-11-23T02:16:06Z"
+  "updated_at": "2026-11-23T02:16:04Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"90c85bd77824510787a972ee521143364362b7740095a759752440e8012d88eb\"",
-  "Last-Modified": "Mon, 23 Nov 2026 08:19:04 GMT",
+  "ETag": "\"1561c23891a8a5514308eafcc35a4d9690ac3a6d9e5b1d28ba571a6c05514a2c\"",
+  "Last-Modified": "Mon, 23 Nov 2026 09:15:02 GMT",
   "base": {
     "repo": {
       "name": "tbb-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/tbb-feedstock/pull/184",
   "id": 5422461860,
-  "labels": [],
-  "last_fetched": "2026-11-23T08:25:32.009207",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891413908,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDEzOTA4",
+      "url": "https://api.github.com/repos/conda-forge/tbb-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T09:16:33.079468",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 184,
   "state": "open",
-  "updated_at": "2026-11-23T08:19:04Z"
+  "updated_at": "2026-11-23T09:15:02Z"
 }

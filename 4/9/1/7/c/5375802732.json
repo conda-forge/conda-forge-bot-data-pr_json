@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3167fb8f87de69f3f5c7842ac95500f9b46c85d67768b68e4cb17f1ea8105e47\"",
-  "Last-Modified": "Mon, 23 Nov 2026 01:20:56 GMT",
+  "ETag": "W/\"7ae0d7593f7bf7e863bd19028ffdfd201aa7b72814afdbe7f709b2fd2451c7b8\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:20:53 GMT",
   "base": {
     "repo": {
       "name": "thriftpy2-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/thriftpy2-feedstock/pull/46",
   "id": 5375802732,
-  "labels": [],
-  "last_fetched": "2026-11-23T01:21:59.892562",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T01:20:56.760507",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 46,
   "state": "closed",
-  "updated_at": "2026-11-23T01:20:56Z"
+  "updated_at": "2026-11-23T01:20:53Z"
 }

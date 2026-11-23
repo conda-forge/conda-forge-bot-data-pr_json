@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6e168331a237e0cc19a2653b2a821e84a9591c3d3101752858576aaa0dce54f9\"",
-  "Last-Modified": "Sun, 22 Nov 2026 20:59:59 GMT",
+  "ETag": "\"99d2546e138cf2af4304ed2cb02436f83b72b32215838920dbb00249510b780a\"",
+  "Last-Modified": "Mon, 23 Nov 2026 08:31:40 GMT",
   "base": {
     "repo": {
       "name": "sigstore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T08:31:40Z",
   "closed_by": null,
   "created_at": "2026-11-22T20:58:19Z",
   "draft": false,
   "e_tag": "\"74f9dbc53f93bef977cf8e7a1730b82ff5c4d12bb438cbb7f979209d56fa238c\"",
   "head": {
-    "ref": "4.6.0_h02c3a3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sigstore-feedstock/pull/4",
   "id": 5443319696,
   "labels": [],
-  "last_fetched": "2026-11-22T21:21:47.916018",
+  "last_fetched": "2026-11-23T08:33:14.671419",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T08:31:40Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-22T20:59:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T08:31:40Z"
 }

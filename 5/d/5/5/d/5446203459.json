@@ -1,27 +1,29 @@
 {
+  "ETag": "\"df4d922b5c5dbe8b1cd4f58a1a679882657138743cf51e1c9c161b4fe5775d3d\"",
+  "Last-Modified": "Mon, 23 Nov 2026 06:00:14 GMT",
   "base": {
     "repo": {
       "name": "mendeleev-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T06:00:14Z",
   "closed_by": null,
   "created_at": "2026-11-23T02:47:10Z",
   "draft": false,
   "e_tag": "\"6b5db18a62e7517d885078834b8ceed6cd60e6ecd23620769bf7985d4c694fa6\"",
   "head": {
-    "ref": "1.4.0_h255f6a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mendeleev-feedstock/pull/46",
   "id": 5446203459,
   "labels": [],
-  "last_fetched": "2026-11-23T02:47:11.510825",
+  "last_fetched": "2026-11-23T06:01:33.072071",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T06:00:14Z",
   "number": 46,
-  "state": "open",
-  "updated_at": "2026-11-23T02:47:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T06:00:14Z"
 }

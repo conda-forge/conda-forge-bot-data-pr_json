@@ -1,29 +1,41 @@
 {
-  "ETag": "\"200f1af81c31c67a9073a56f23b344a48342622c1b8cb18b43cfa6680ec80b57\"",
-  "Last-Modified": "Mon, 23 Nov 2026 15:43:32 GMT",
+  "ETag": "\"2a55e1bd83da0b01100b949bb941168ff206ef4173e36d1c169aa3ef510bb8de\"",
+  "Last-Modified": "Mon, 23 Nov 2026 22:29:07 GMT",
   "base": {
     "repo": {
       "name": "simple-binary-encoding-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T22:29:03Z",
   "closed_by": null,
   "created_at": "2026-11-23T15:41:54Z",
   "draft": false,
   "e_tag": "\"ff3eab924c05433923d54191234c6c6974fc76a4c4ded48eaa7489aa77c08af5\"",
   "head": {
-    "ref": "1.42.1_hbb5959"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/simple-binary-encoding-feedstock/pull/24",
   "id": 5456208779,
-  "labels": [],
-  "last_fetched": "2026-11-23T20:57:51.109802",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7845081570,
+      "name": "automerge",
+      "node_id": "LA_kwDONZi1vc8AAAAB05px4g",
+      "url": "https://api.github.com/repos/conda-forge/simple-binary-encoding-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T22:29:52.459007",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T22:29:03Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-11-23T15:43:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T22:29:07Z"
 }

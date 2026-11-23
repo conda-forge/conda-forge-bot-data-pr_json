@@ -1,6 +1,6 @@
 {
-  "ETag": "\"0587a4d0b9b1ebcaaac8142c1c77d54350c5450ccc167e1920efb7a04eeee2f5\"",
-  "Last-Modified": "Mon, 23 Nov 2026 01:50:00 GMT",
+  "ETag": "W/\"1e2ee8ad39d88810703a9c62134260f2b3790f29f3f4b5c5c44729961026bfc3\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:49:58 GMT",
   "base": {
     "repo": {
       "name": "menpo3d-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/menpo3d-feedstock/pull/13",
   "id": 5404996669,
-  "labels": [],
-  "last_fetched": "2026-11-23T01:51:14.664976",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T01:50:00.798181",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 13,
   "state": "closed",
-  "updated_at": "2026-11-23T01:50:00Z"
+  "updated_at": "2026-11-23T01:49:58Z"
 }

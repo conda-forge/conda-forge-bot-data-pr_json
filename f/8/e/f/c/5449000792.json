@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9a6aa676be236c23d9c37b18dadbad00a0970805c9ee30093cbd10d1c0520aa1\"",
-  "Last-Modified": "Mon, 23 Nov 2026 07:34:10 GMT",
+  "ETag": "\"f5debfd3507fdd7cca4097d78cb4d80d6fa4d312408bbf95351160a17f0e63b5\"",
+  "Last-Modified": "Mon, 23 Nov 2026 09:25:04 GMT",
   "base": {
     "repo": {
       "name": "azure-core-cpp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T09:25:03Z",
   "closed_by": null,
   "created_at": "2026-11-23T07:32:33Z",
   "draft": false,
   "e_tag": "\"152e0dc2cc4af38c154251814e68bcdaac1ae1cb64904b1c9c846043e6465f3f\"",
   "head": {
-    "ref": "bot-pr_riscv64_h5b6a38"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/azure-core-cpp-feedstock/pull/38",
   "id": 5449000792,
   "labels": [],
-  "last_fetched": "2026-11-23T09:24:26.839466",
+  "last_fetched": "2026-11-23T09:26:10.388320",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T09:25:03Z",
   "number": 38,
-  "state": "open",
-  "updated_at": "2026-11-23T07:34:10Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T09:25:04Z"
 }

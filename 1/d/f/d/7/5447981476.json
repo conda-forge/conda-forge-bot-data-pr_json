@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a67b3a1eab9c5e276b249b452359970677a5014a574f35c2fc27fdb6bf551b2f\"",
-  "Last-Modified": "Mon, 23 Nov 2026 06:02:19 GMT",
+  "ETag": "\"a71110dfa310749edbde77e8b702dd31a02fb1e5cef4b9bf661a28e253762338\"",
+  "Last-Modified": "Mon, 23 Nov 2026 09:35:06 GMT",
   "base": {
     "repo": {
       "name": "exact-real-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T09:35:06Z",
   "closed_by": null,
   "created_at": "2026-11-23T06:00:42Z",
   "draft": false,
   "e_tag": "\"6c2080201ee1363cd098407811b7b30c13306b9d427505c7f67f3c771facbf87\"",
   "head": {
-    "ref": "rebuild-libboost190-0-1_h761ff7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/exact-real-feedstock/pull/47",
   "id": 5447981476,
   "labels": [],
-  "last_fetched": "2026-11-23T07:20:41.848073",
+  "last_fetched": "2026-11-23T09:36:38.461928",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T09:35:06Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-11-23T06:02:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T09:35:06Z"
 }

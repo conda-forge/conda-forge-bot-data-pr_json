@@ -1,13 +1,13 @@
 {
-  "ETag": "\"bfa8a815fa67e9d7554cc4e40a5101e1ef8991a0eda96c99883ce697695fb685\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "W/\"8721997c9229f58f34b7e09587ecae375494b26d1ce208e61093193b27bface2\"",
+  "Last-Modified": "Mon, 23 Nov 2026 07:47:54 GMT",
   "base": {
     "repo": {
       "name": "bipedal-locomotion-framework-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-23T07:47:54Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-19T04:52:20Z",
   "draft": false,
   "e_tag": "\"96f53a46dd766f0ca540614ac80627423bc0b047078376f7f0c3b61a6677c9c3\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/bipedal-locomotion-framework-feedstock/pull/196",
   "id": 5389046527,
-  "labels": [],
-  "last_fetched": "2026-11-23T04:50:55.501738",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 4733520807,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOIU2j1M8AAAABGiPLpw",
+      "url": "https://api.github.com/repos/conda-forge/bipedal-locomotion-framework-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T07:47:56.912828",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 196,
-  "state": "open",
-  "updated_at": "2026-11-19T04:54:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T07:47:54Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"4ce9de453056c9529e56162c8088b5b9e8d0ac1aa4266b66ea66c28093111880\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"a8b08f0b057f611a994e8bc5e06f27a53332f5b1fffb40a269eecb250fcc8c2d\"",
+  "Last-Modified": "Mon, 23 Nov 2026 16:16:26 GMT",
   "base": {
     "repo": {
       "name": "netcdf4-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/netcdf4-feedstock/pull/200",
   "id": 5436962561,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:39:51.551178",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891024519,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDI0NTE5",
+      "url": "https://api.github.com/repos/conda-forge/netcdf4-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T16:17:38.929066",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 200,
   "state": "open",
-  "updated_at": "2026-11-22T11:37:48Z"
+  "updated_at": "2026-11-23T16:16:26Z"
 }

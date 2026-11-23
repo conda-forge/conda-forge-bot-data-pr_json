@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3383fecbcd8bbb6b509ce0e160cb6ca86dcb0f2f3503bec6f1db35a7cb606acc\"",
-  "Last-Modified": "Mon, 23 Nov 2026 01:51:45 GMT",
+  "ETag": "W/\"b779bbbd77ec2c7a72fd4e3693f2b32c0b33bbbc8ea23457a3c194e090a5e713\"",
+  "Last-Modified": "Mon, 23 Nov 2026 01:51:43 GMT",
   "base": {
     "repo": {
       "name": "diffpy.srreal-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/diffpy.srreal-feedstock/pull/8",
   "id": 5437416628,
-  "labels": [],
-  "last_fetched": "2026-11-23T01:53:17.671124",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T01:51:46.291775",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 8,
   "state": "closed",
-  "updated_at": "2026-11-23T01:51:45Z"
+  "updated_at": "2026-11-23T01:51:43Z"
 }

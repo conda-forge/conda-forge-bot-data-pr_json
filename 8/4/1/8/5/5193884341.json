@@ -1,6 +1,6 @@
 {
-  "ETag": "\"cdd820c39de66b9c2f45aa4d2d30c91660e8950991a1493dc060ffa9dc01a086\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"d1144e4a9399bb95fd178380652f7f32abb46537520d92405e8fc9cd39c5e4ee\"",
+  "Last-Modified": "Mon, 23 Nov 2026 13:06:47 GMT",
   "base": {
     "repo": {
       "name": "schema-salad-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/schema-salad-feedstock/pull/148",
   "id": 5193884341,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:40:02.616946",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891336092,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMzM2MDky",
+      "url": "https://api.github.com/repos/conda-forge/schema-salad-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-23T13:07:23.621078",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 148,
   "state": "open",
-  "updated_at": "2026-11-06T20:10:09Z"
+  "updated_at": "2026-11-23T13:06:47Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"aaee04e47f5176819b92dae58b8ca62171bbc588e527ed0389324688c2f7c835\"",
+  "Last-Modified": "Mon, 23 Nov 2026 23:31:01 GMT",
   "base": {
     "repo": {
       "name": "ome-zarr-models-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T23:31:01Z",
   "closed_by": null,
   "created_at": "2026-11-23T23:12:23Z",
   "draft": false,
   "e_tag": "\"ce4d56f87fc727dd186678a8be0b26e9fec6e5d5c722b8a2656911ae8ecfda1a\"",
   "head": {
-    "ref": "1.9.1_h39c543"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ome-zarr-models-feedstock/pull/33",
   "id": 5462871333,
   "labels": [],
-  "last_fetched": "2026-11-23T23:12:24.783577",
+  "last_fetched": "2026-11-23T23:32:28.947776",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-23T23:31:01Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-23T23:12:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T23:31:01Z"
 }

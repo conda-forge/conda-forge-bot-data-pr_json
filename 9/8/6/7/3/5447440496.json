@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d80eca999b0ddbafaa3f46e667878fdc874117fdb7df239cd87b1a0192854568\"",
-  "Last-Modified": "Mon, 23 Nov 2026 05:07:04 GMT",
+  "ETag": "\"16482526b02bbc1fee596d9bf7c4e2a8dc2bbe4331103ac02debf164d403926e\"",
+  "Last-Modified": "Mon, 23 Nov 2026 08:54:06 GMT",
   "base": {
     "repo": {
       "name": "pyacvd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T08:54:06Z",
   "closed_by": null,
   "created_at": "2026-11-23T05:05:32Z",
   "draft": false,
   "e_tag": "\"b5248a944290e748a2da4809b090194b3e283955c04355426c0d40c6ce401ea9\"",
   "head": {
-    "ref": "rebuild-python315-0-1_he341be"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyacvd-feedstock/pull/25",
   "id": 5447440496,
   "labels": [],
-  "last_fetched": "2026-11-23T06:36:00.344297",
+  "last_fetched": "2026-11-23T08:55:39.738376",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T08:54:06Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-11-23T05:07:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T08:54:06Z"
 }

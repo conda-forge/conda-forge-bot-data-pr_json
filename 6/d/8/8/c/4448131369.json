@@ -1,12 +1,13 @@
 {
-  "ETag": "\"33b3f4841642226486d2c93ec3df1daaa4f5949d4199cd31f0184bc1fad54221\"",
-  "Last-Modified": "Sat, 05 Sep 2026 01:58:37 GMT",
+  "ETag": "\"763e76860a14f808ea59a0d09e23687e360c744891ebb9ff51fd1b39dd91bdff\"",
+  "Last-Modified": "Mon, 23 Nov 2026 11:15:27 GMT",
   "base": {
     "repo": {
       "name": "seccomp-split-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T11:15:24Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-09-05T01:56:55Z",
   "draft": false,
   "e_tag": "\"20f9745c78f53e160d7bb4b7db29fd72d49cbf87a3a0921fe0f59a5e554920a9\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/seccomp-split-feedstock/pull/47",
   "id": 4448131369,
   "labels": [],
-  "last_fetched": "2026-11-16T13:37:47.246085",
+  "last_fetched": "2026-11-23T11:16:58.824410",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-09-05T01:58:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T11:15:27Z"
 }

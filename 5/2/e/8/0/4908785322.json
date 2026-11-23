@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"83f28b1779afa924798767ad5848c36585d2827d0442708770890834f0fb19b8\"",
-  "Last-Modified": "Mon, 23 Nov 2026 03:00:26 GMT",
+  "ETag": "W/\"3b852ee0bdd88968cebeace2ccfe8431ba1dbf881138187be89fd8016d3de925\"",
+  "Last-Modified": "Mon, 23 Nov 2026 03:00:24 GMT",
   "base": {
     "repo": {
       "name": "tiledb-py-feedstock"
@@ -16,8 +16,12 @@
   },
   "html_url": "https://github.com/conda-forge/tiledb-py-feedstock/pull/282",
   "id": 4908785322,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:01:51.904259",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-23T03:00:27.474118",
   "last_modified": null,
   "mergeable": false,
   "mergeable_state": "dirty",
@@ -25,5 +29,5 @@
   "merged_at": null,
   "number": 282,
   "state": "closed",
-  "updated_at": "2026-11-23T03:00:26Z"
+  "updated_at": "2026-11-23T03:00:24Z"
 }

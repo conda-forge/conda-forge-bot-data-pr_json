@@ -1,29 +1,29 @@
 {
-  "ETag": "\"0976aee741c23951af646e69a09a808caa7f69ac2d48a2479789145169765e2c\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"ad40abd62f4dcc1e827d1ee9988a0eacbf28a09b7a074b12d532edfc7a3fc6d6\"",
+  "Last-Modified": "Mon, 23 Nov 2026 14:53:43 GMT",
   "base": {
     "repo": {
       "name": "standardebooks-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-23T14:53:43Z",
   "closed_by": null,
   "created_at": "2026-11-21T00:14:18Z",
   "draft": false,
   "e_tag": "\"f9aa4e23018850da5da63178addefbd0fd2b6038438c3929792c0911fa6cbd34\"",
   "head": {
-    "ref": "4.1.1_hc05386"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/standardebooks-feedstock/pull/54",
   "id": 5422216916,
   "labels": [],
-  "last_fetched": "2026-11-22T22:48:40.913037",
+  "last_fetched": "2026-11-23T14:54:50.397444",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-23T14:53:42Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-21T21:27:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-23T14:53:43Z"
 }

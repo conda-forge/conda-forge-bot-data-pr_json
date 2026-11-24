@@ -1,27 +1,29 @@
 {
+  "ETag": "\"eb014daf3665921fec5cabd05c7841d9d827078c3f090af681cd5ab4f5bea4f2\"",
+  "Last-Modified": "Tue, 24 Nov 2026 10:20:07 GMT",
   "base": {
     "repo": {
       "name": "opentofu-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T10:20:03Z",
   "closed_by": null,
   "created_at": "2026-11-24T10:08:47Z",
   "draft": false,
   "e_tag": "\"96536266b75f3d1c0a9ad6602661bf3c90e7aa814c6f7644b6c788de94762eb8\"",
   "head": {
-    "ref": "1.13.10_h9a238e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/opentofu-feedstock/pull/55",
   "id": 5470118073,
   "labels": [],
-  "last_fetched": "2026-11-24T10:08:48.435905",
+  "last_fetched": "2026-11-24T10:21:48.096530",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T10:20:03Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-11-24T10:08:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T10:20:07Z"
 }

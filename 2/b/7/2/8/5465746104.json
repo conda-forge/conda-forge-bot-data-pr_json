@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6a260d70e888eec29d23111f9ae7d184a364154f21887a006bc257a98ca8fb20\"",
+  "Last-Modified": "Tue, 24 Nov 2026 04:24:08 GMT",
   "base": {
     "repo": {
       "name": "zstd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T04:24:08Z",
   "closed_by": null,
   "created_at": "2026-11-24T03:52:13Z",
   "draft": false,
   "e_tag": "\"1062fb7c45fee01841a980ed31e5b197b877bc2801f9119a0b5ff6237a7f4df0\"",
   "head": {
-    "ref": "1.6.0_ha2ccaa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zstd-feedstock/pull/89",
   "id": 5465746104,
   "labels": [],
-  "last_fetched": "2026-11-24T03:52:13.992583",
+  "last_fetched": "2026-11-24T04:25:13.125853",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T04:24:08Z",
   "number": 89,
-  "state": "open",
-  "updated_at": "2026-11-24T03:52:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T04:24:08Z"
 }

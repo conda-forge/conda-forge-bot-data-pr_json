@@ -1,27 +1,29 @@
 {
+  "ETag": "\"605e43e9c54b9b71174612ef8b3ce3404b99bf9a05d0e67d4df4c7426fc142b7\"",
+  "Last-Modified": "Tue, 24 Nov 2026 01:51:48 GMT",
   "base": {
     "repo": {
       "name": "qt-positioning-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T01:51:48Z",
   "closed_by": null,
   "created_at": "2026-11-24T00:50:15Z",
   "draft": false,
   "e_tag": "\"936b563ff22c5d2dbe17a5589e5a87cdff0b8bbb37efb5aaec9e2cd7a85eb259\"",
   "head": {
-    "ref": "6.12.1_h8bb621"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-positioning-feedstock/pull/8",
   "id": 5463944937,
   "labels": [],
-  "last_fetched": "2026-11-24T00:50:16.666427",
+  "last_fetched": "2026-11-24T01:53:06.102813",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T01:51:48Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-24T00:50:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T01:51:48Z"
 }

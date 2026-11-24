@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bec64f81173a70e1fb7aab07dd25fd4ea07f49a5a6e611635bdb12fd6d3bfe17\"",
+  "Last-Modified": "Tue, 24 Nov 2026 03:38:33 GMT",
   "base": {
     "repo": {
       "name": "claude-agent-acp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T03:38:29Z",
   "closed_by": null,
   "created_at": "2026-11-24T03:35:31Z",
   "draft": false,
   "e_tag": "\"75954baa34d85faed05f8b2c4aee2ef4706c709f3f9b65aa4f69332db9d11b86\"",
   "head": {
-    "ref": "0.110.1_h8b9444"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/claude-agent-acp-feedstock/pull/77",
   "id": 5465591924,
   "labels": [],
-  "last_fetched": "2026-11-24T03:35:32.628848",
+  "last_fetched": "2026-11-24T03:40:16.784239",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T03:38:29Z",
   "number": 77,
-  "state": "open",
-  "updated_at": "2026-11-24T03:35:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T03:38:33Z"
 }

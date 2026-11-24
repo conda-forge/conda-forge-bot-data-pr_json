@@ -1,29 +1,29 @@
 {
-  "ETag": "\"cffb7d2483f7250450b3d54f94a33b4019bc8a35e8d6403aa5907f1ac2cc0e0d\"",
-  "Last-Modified": "Tue, 24 Nov 2026 12:11:18 GMT",
+  "ETag": "\"f6ced5131f35a44112d1f4d6c9429c117e97a7a78b41bee6695bfff9e7fea8f1\"",
+  "Last-Modified": "Tue, 24 Nov 2026 12:22:19 GMT",
   "base": {
     "repo": {
       "name": "qt-datavis3d-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T12:22:16Z",
   "closed_by": null,
   "created_at": "2026-11-23T15:36:43Z",
   "draft": false,
   "e_tag": "\"c5ad7ac48bc285b3a085dcfaf8a107d111dfa1f5c650637e59bef98fb0595818\"",
   "head": {
-    "ref": "6.12.1_he0f45d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-datavis3d-feedstock/pull/78",
   "id": 5456126412,
   "labels": [],
-  "last_fetched": "2026-11-24T12:12:58.030080",
+  "last_fetched": "2026-11-24T12:23:44.787802",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T12:22:16Z",
   "number": 78,
-  "state": "open",
-  "updated_at": "2026-11-24T12:11:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T12:22:19Z"
 }

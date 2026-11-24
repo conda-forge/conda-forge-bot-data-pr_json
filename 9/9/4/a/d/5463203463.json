@@ -1,18 +1,18 @@
 {
-  "ETag": "\"d033412c8bba62c7fbf29d01aeaf54a0e664851b46498f1083d03345012e17b3\"",
-  "Last-Modified": "Tue, 24 Nov 2026 07:34:11 GMT",
+  "ETag": "\"310ddfb688059e5b50a14bb3a02dc637a928faf5149e65d974a4c3342ce0f380\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:36:08 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-smtp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T07:36:04Z",
   "closed_by": null,
   "created_at": "2026-11-23T23:40:40Z",
   "draft": false,
   "e_tag": "\"bd0f5217dcad8359d56cbfe2df00714d2c4dc2769ac41d68f31b34de33732609\"",
   "head": {
-    "ref": "3.2.2_h4a1d86"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-smtp-feedstock/pull/35",
   "id": 5463203463,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-smtp-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-24T07:35:30.780121",
+  "last_fetched": "2026-11-24T07:37:37.192253",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T07:36:04Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-11-24T07:34:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T07:36:08Z"
 }

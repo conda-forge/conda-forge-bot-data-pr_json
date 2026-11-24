@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4f1295d32806303845284ef493b07902b37da5f57c0dcd9daed1d735e0ccc12a\"",
+  "Last-Modified": "Tue, 24 Nov 2026 10:15:41 GMT",
   "base": {
     "repo": {
       "name": "albucore-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T10:15:38Z",
   "closed_by": null,
   "created_at": "2026-11-24T10:11:33Z",
   "draft": false,
   "e_tag": "\"6a363f1196feb254e08b212b9c688e5204593149064869ad23c083770a3d5512\"",
   "head": {
-    "ref": "0.3.13_hcf393b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/albucore-feedstock/pull/70",
   "id": 5470159832,
   "labels": [],
-  "last_fetched": "2026-11-24T10:11:34.745734",
+  "last_fetched": "2026-11-24T10:16:46.102758",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T10:15:38Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-11-24T10:11:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T10:15:41Z"
 }

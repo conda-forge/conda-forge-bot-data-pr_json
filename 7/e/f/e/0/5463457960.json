@@ -1,6 +1,6 @@
 {
-  "ETag": "\"a5efe7bb1efb3a9390ae41e6b27da76edd770c8a65a20b2dda3fcc624a5086c1\"",
-  "Last-Modified": "Tue, 24 Nov 2026 00:05:04 GMT",
+  "ETag": "\"9292190fcf1957c77b8cb3df5d65b361f8a2d958cf3fd78fc7e1e90f5df6a512\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:34:48 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-vertica-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-vertica-feedstock/pull/41",
   "id": 5463457960,
-  "labels": [],
-  "last_fetched": "2026-11-24T06:26:44.959323",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746832510,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODMyNTEw",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-vertica-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-24T07:35:59.086761",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 41,
   "state": "open",
-  "updated_at": "2026-11-24T00:05:04Z"
+  "updated_at": "2026-11-24T07:34:48Z"
 }

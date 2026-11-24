@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"13aca873d06e057a8b8bd8e72aa3c837fa68fac1acfb6f464cd6f333924a5f57\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"12314b98bf171aceafa44902eacc75b2a458ac93c9c75ab5fad847bb6859439e\"",
+  "Last-Modified": "Tue, 24 Nov 2026 18:58:46 GMT",
   "base": {
     "repo": {
       "name": "hipace-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T18:58:45Z",
   "closed_by": null,
   "created_at": "2026-11-09T11:54:15Z",
   "draft": false,
   "e_tag": "\"ba8b8cd57ca3ed6244d8a21e93d7cc7fb09fdc63d3a01e339204d60d4c127a49\"",
   "head": {
-    "ref": "26.11_h6f32fc"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/hipace-feedstock/pull/16",
   "id": 5223433009,
   "labels": [],
-  "last_fetched": "2026-11-22T21:19:31.640253",
+  "last_fetched": "2026-11-24T23:58:35.986953",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T18:58:45Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-09T11:55:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T18:58:46Z"
 }

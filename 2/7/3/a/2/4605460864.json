@@ -1,28 +1,40 @@
 {
-  "ETag": "\"008d62fe5a21e115af871ad8c17379753e7b2464b589756b3e2816a149448e8a\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"23036a993c4aef06d216f40c6b6753bca58805c17599dcb774c39401d8d5b7e5\"",
+  "Last-Modified": "Tue, 24 Nov 2026 12:20:19 GMT",
   "base": {
     "repo": {
       "name": "uda-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T12:20:19Z",
   "created_at": "2026-09-22T18:29:19Z",
   "draft": false,
   "e_tag": "\"1c890ef892aa08e39bdfa0a432b2c883dca9a4f81a5e5f53ce5b9558d7b0d813\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hc4b80e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/uda-feedstock/pull/17",
   "id": 4605460864,
-  "labels": [],
-  "last_fetched": "2026-11-23T05:19:47.016608",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9696515929,
+      "name": "automerge",
+      "node_id": "LA_kwDOQa5Pqs8AAAACQfUXWQ",
+      "url": "https://api.github.com/repos/conda-forge/uda-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-24T12:21:56.128449",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T12:20:19Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-09-29T10:20:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T12:20:19Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b9e7f270128cb5f3cc82af2bbec7122cdfcc35155272e9a749f38be221dfc528\"",
-  "Last-Modified": "Mon, 23 Nov 2026 21:21:21 GMT",
+  "ETag": "\"4bcee629129e2ba9df2690f8bccfadefd125e2372d74040e593fc2d8fce515c2\"",
+  "Last-Modified": "Tue, 24 Nov 2026 02:29:07 GMT",
   "base": {
     "repo": {
       "name": "qt-wayland-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/qt-wayland-feedstock/pull/63",
   "id": 5461437907,
-  "labels": [],
-  "last_fetched": "2026-11-23T21:58:51.476653",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5257614126,
+      "name": "automerge",
+      "node_id": "LA_kwDOJIs4e88AAAABOWDTLg",
+      "url": "https://api.github.com/repos/conda-forge/qt-wayland-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-24T02:30:42.441519",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 63,
   "state": "open",
-  "updated_at": "2026-11-23T21:22:56Z"
+  "updated_at": "2026-11-24T02:29:07Z"
 }

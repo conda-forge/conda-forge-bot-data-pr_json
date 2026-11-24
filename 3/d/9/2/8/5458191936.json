@@ -1,29 +1,29 @@
 {
-  "ETag": "\"b048c6ef428f93ac3c877d680eedfc85fe0c93f4a5a00023e6cdf4612b3abf3f\"",
-  "Last-Modified": "Tue, 24 Nov 2026 07:43:21 GMT",
+  "ETag": "\"cafde12f08f0069994eb95d6afbdd3cebe125b9dbc3cc7028dd62aa9e2bee47f\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:54:48 GMT",
   "base": {
     "repo": {
       "name": "qt6-serialport-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T07:54:48Z",
   "closed_by": null,
   "created_at": "2026-11-23T17:43:41Z",
   "draft": false,
   "e_tag": "\"d661d1d3c9ee0d05e19f363b8d6647e891d3262b979f4888cc2dd01e65882d54\"",
   "head": {
-    "ref": "6.12.1_h3be86d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt6-serialport-feedstock/pull/16",
   "id": 5458191936,
   "labels": [],
-  "last_fetched": "2026-11-24T07:44:09.872904",
+  "last_fetched": "2026-11-24T07:56:17.511069",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T07:54:48Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-24T07:43:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T07:54:48Z"
 }

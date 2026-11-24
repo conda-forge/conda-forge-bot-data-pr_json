@@ -1,27 +1,29 @@
 {
+  "ETag": "\"f77790270bbc54bd700ea32a9842bb2a5bffe0f91a9c72787716fb13d5a7b474\"",
+  "Last-Modified": "Tue, 24 Nov 2026 10:02:18 GMT",
   "base": {
     "repo": {
       "name": "upstash-redis-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T10:02:13Z",
   "closed_by": null,
   "created_at": "2026-11-24T10:00:12Z",
   "draft": false,
   "e_tag": "\"8100bb7c47aebee72a6f6374dabc4c9d844aed11b8d36a7141692990e8f3e62f\"",
   "head": {
-    "ref": "1.10.0_h96d978"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/upstash-redis-feedstock/pull/14",
   "id": 5469984600,
   "labels": [],
-  "last_fetched": "2026-11-24T10:00:13.470779",
+  "last_fetched": "2026-11-24T10:03:37.560190",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T10:02:13Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-24T10:00:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T10:02:18Z"
 }

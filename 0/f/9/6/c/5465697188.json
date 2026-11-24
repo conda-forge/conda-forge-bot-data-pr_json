@@ -1,27 +1,29 @@
 {
+  "ETag": "\"01dbc81a616429154c3fc7f6ecb37ba73e40a91163d6584324e6cebaf7d68c0f\"",
+  "Last-Modified": "Tue, 24 Nov 2026 03:56:07 GMT",
   "base": {
     "repo": {
       "name": "simdutf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T03:56:03Z",
   "closed_by": null,
   "created_at": "2026-11-24T03:47:03Z",
   "draft": false,
   "e_tag": "\"c02d8332893d635c190bf4538dc478192896dffb39af1749eb8cd84419314155\"",
   "head": {
-    "ref": "9.5.0_h1ea53f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/simdutf-feedstock/pull/84",
   "id": 5465697188,
   "labels": [],
-  "last_fetched": "2026-11-24T03:47:04.302994",
+  "last_fetched": "2026-11-24T03:57:10.728791",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T03:56:03Z",
   "number": 84,
-  "state": "open",
-  "updated_at": "2026-11-24T03:47:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T03:56:07Z"
 }

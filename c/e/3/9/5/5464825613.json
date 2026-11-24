@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3e831117c6656a503bddc93bc31b1c49f933bcf75f21d9b4836bc617c590e824\"",
+  "Last-Modified": "Tue, 24 Nov 2026 02:59:58 GMT",
   "base": {
     "repo": {
       "name": "homeharvest-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T02:59:58Z",
   "closed_by": null,
   "created_at": "2026-11-24T02:17:56Z",
   "draft": false,
   "e_tag": "\"2fab0356892b8ce81358e56b2b8537bcb831dae9e73d92cb91f482e0a01d929e\"",
   "head": {
-    "ref": "2.0.0_ha3817a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/homeharvest-feedstock/pull/58",
   "id": 5464825613,
   "labels": [],
-  "last_fetched": "2026-11-24T02:17:58.103320",
+  "last_fetched": "2026-11-24T03:01:16.970252",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T02:59:58Z",
   "number": 58,
-  "state": "open",
-  "updated_at": "2026-11-24T02:17:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T02:59:58Z"
 }

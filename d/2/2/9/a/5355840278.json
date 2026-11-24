@@ -1,29 +1,29 @@
 {
-  "ETag": "\"837bd82cb2ee78f24431d940bae943c41e869da2f860d4c7d6ffffb6bd838443\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"7c97c1503d375bb83ef4bdf9c1039ab39ad2d6fa9902a2dabbc2246db4f5f7e5\"",
+  "Last-Modified": "Tue, 24 Nov 2026 11:29:55 GMT",
   "base": {
     "repo": {
       "name": "remage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T11:29:55Z",
   "closed_by": null,
   "created_at": "2026-11-17T11:19:03Z",
   "draft": false,
   "e_tag": "\"d95d9f6bcdd1f80a8eda17709691e50f38d233fc0d7d971cbf08e23052d18bc7\"",
   "head": {
-    "ref": "rebuild-bxdecay0121-0-1_he7cb8b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/remage-feedstock/pull/48",
   "id": 5355840278,
   "labels": [],
-  "last_fetched": "2026-11-22T22:49:24.769558",
+  "last_fetched": "2026-11-24T11:31:04.958261",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T11:29:55Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-11-18T11:46:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T11:29:55Z"
 }

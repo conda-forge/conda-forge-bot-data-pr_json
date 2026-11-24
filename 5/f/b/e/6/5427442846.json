@@ -1,29 +1,29 @@
 {
-  "ETag": "\"643fa35dd52dd9c33d3f7de728bd300113a2d5c3beb4a6ef6f2f62b5183b8e24\"",
-  "Last-Modified": "Mon, 23 Nov 2026 21:36:17 GMT",
+  "ETag": "\"4726736a0a3c3119fc62be91bf60d8e9ae1a788d36bd3af49b5a3a25d16656ad\"",
+  "Last-Modified": "Tue, 24 Nov 2026 03:06:07 GMT",
   "base": {
     "repo": {
       "name": "enumlib.jl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T03:06:07Z",
   "closed_by": null,
   "created_at": "2026-11-21T11:41:08Z",
   "draft": false,
   "e_tag": "\"eb65c1162762f4635390266ea26dd5765730a426a55c0d7583f48d52f6660d32\"",
   "head": {
-    "ref": "rebuild-suitesparse7-0-1_hf11ba4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/enumlib.jl-feedstock/pull/7",
   "id": 5427442846,
   "labels": [],
-  "last_fetched": "2026-11-23T22:16:09.893630",
+  "last_fetched": "2026-11-24T03:07:39.592291",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T03:06:07Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-23T21:36:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T03:06:07Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"1558d42ed2fa88cc66bbdd088eb0b2307f330c9ebb15af6c3166cc64515ed05d\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"b7506337fc085364c838879af4c38f275a813ca48592dd0769326bbe88f56ef6\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:05:16 GMT",
   "base": {
     "repo": {
       "name": "r-dunn.test-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T07:05:16Z",
+  "closed_by": "conda-forge-admin",
   "created_at": "2026-10-05T03:59:56Z",
   "draft": false,
   "e_tag": "\"a2db7e010338f5a6a9bf6a32b2b66f619c5360d03be044c64dd6e39d2486ad4f\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/r-dunn.test-feedstock/pull/15",
   "id": 4740008338,
   "labels": [],
-  "last_fetched": "2026-11-22T21:19:28.990587",
+  "last_fetched": "2026-11-24T07:06:22.766111",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-10-05T04:03:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T07:05:16Z"
 }

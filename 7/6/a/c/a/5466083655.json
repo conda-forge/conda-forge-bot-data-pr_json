@@ -1,29 +1,29 @@
 {
-  "ETag": "\"a827f2826dac1a93063d3a67f3d7087c7a927e69874251e9d9022b295ff9e7d1\"",
-  "Last-Modified": "Tue, 24 Nov 2026 04:29:17 GMT",
+  "ETag": "\"fb223cbe434e5501d29692b6f4f2b9e7ab0a946f4b0c17ef5d9b41062064b141\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:35:47 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-microsoft-azure-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T07:35:47Z",
   "closed_by": null,
   "created_at": "2026-11-24T04:27:44Z",
   "draft": false,
   "e_tag": "\"161bedd006f5079dd88d0d3aa0899cf5bd953ec2b3b80f2df8f28014c877efff\"",
   "head": {
-    "ref": "15.4.0_h0abb8f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-microsoft-azure-feedstock/pull/76",
   "id": 5466083655,
   "labels": [],
-  "last_fetched": "2026-11-24T05:17:36.754303",
+  "last_fetched": "2026-11-24T07:37:15.410458",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T07:35:47Z",
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-11-24T04:29:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T07:35:47Z"
 }

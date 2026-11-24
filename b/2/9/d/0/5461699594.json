@@ -1,6 +1,6 @@
 {
-  "ETag": "\"381fb3cc6f049632ff08a197b9cf84ca3b58b5565857d2a9b375ccf4243ca803\"",
-  "Last-Modified": "Mon, 23 Nov 2026 21:42:32 GMT",
+  "ETag": "\"d998edb9e78de86a8c2c214c669bc0165cca2baf9f5aa583f80bc0a8c0ece406\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:33:47 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-openlineage-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-openlineage-feedstock/pull/61",
   "id": 5461699594,
-  "labels": [],
-  "last_fetched": "2026-11-23T23:29:06.279993",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5863183087,
+      "name": "automerge",
+      "node_id": "LA_kwDOKJAPG88AAAABXXkS7w",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-openlineage-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-24T07:35:13.571496",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 61,
   "state": "open",
-  "updated_at": "2026-11-23T21:42:32Z"
+  "updated_at": "2026-11-24T07:33:47Z"
 }

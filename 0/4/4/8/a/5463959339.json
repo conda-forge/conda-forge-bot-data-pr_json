@@ -1,6 +1,6 @@
 {
-  "ETag": "\"2d3ccb65329cad8c6d112fd39195475158aff7c4d19d6c5a229032752917da6a\"",
-  "Last-Modified": "Tue, 24 Nov 2026 00:53:05 GMT",
+  "ETag": "\"1a8706a4ec8c91b1b6553b681037168ab937595441f30d04a16a70c044203c31\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:30:53 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-common-sql-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-common-sql-feedstock/pull/82",
   "id": 5463959339,
-  "labels": [],
-  "last_fetched": "2026-11-24T02:56:35.994922",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4397727487,
+      "name": "automerge",
+      "node_id": "LA_kwDOHxfT6M8AAAABBh_-_w",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-common-sql-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-24T07:32:14.681721",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 82,
   "state": "open",
-  "updated_at": "2026-11-24T00:53:05Z"
+  "updated_at": "2026-11-24T07:30:53Z"
 }

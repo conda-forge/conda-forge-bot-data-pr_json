@@ -1,4 +1,6 @@
 {
+  "ETag": "\"1036bde5d6285f5c68a3fe0357461ca73746b34f94b4bb66fe583869c8a3c25b\"",
+  "Last-Modified": "Tue, 24 Nov 2026 06:15:19 GMT",
   "base": {
     "repo": {
       "name": "arrow-cpp-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/arrow-cpp-feedstock/pull/2128",
   "id": 5466998158,
-  "labels": [],
-  "last_fetched": "2026-11-24T06:02:29.700506",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890794230,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwNzk0MjMw",
+      "url": "https://api.github.com/repos/conda-forge/arrow-cpp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-24T06:16:56.282128",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 2128,
   "state": "open",
-  "updated_at": "2026-11-24T06:02:28Z"
+  "updated_at": "2026-11-24T06:15:19Z"
 }

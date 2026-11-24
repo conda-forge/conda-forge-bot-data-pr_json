@@ -1,18 +1,18 @@
 {
-  "ETag": "\"a61b40a7d2616c6df6977574147120c4475b0e12a2a285741251f33027c050cd\"",
-  "Last-Modified": "Tue, 24 Nov 2026 07:31:25 GMT",
+  "ETag": "W/\"dc48971608fba230962a6b024ea46e443616d29b65332b30ef2d4b0d8fc25d3d\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:33:24 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-dbt-cloud-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T07:33:19Z",
   "closed_by": null,
   "created_at": "2026-11-24T02:09:54Z",
   "draft": false,
   "e_tag": "\"a73ecbcf24520990fd67ec63f8113ca927391d7ba6ef5ceb90860d9b981eb6bc\"",
   "head": {
-    "ref": "4.12.0_h38def1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-dbt-cloud-feedstock/pull/63",
   "id": 5464740635,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-dbt-cloud-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-24T07:32:47.378125",
+  "last_fetched": "2026-11-24T07:34:40.319282",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T07:33:19Z",
   "number": 63,
-  "state": "open",
-  "updated_at": "2026-11-24T07:31:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T07:33:24Z"
 }

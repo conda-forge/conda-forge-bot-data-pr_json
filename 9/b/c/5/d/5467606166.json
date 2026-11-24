@@ -1,27 +1,29 @@
 {
+  "ETag": "\"01968ee1f5cfef167961ac3b73e12acc276893a29e180cb851b16f7956eb2142\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:23:59 GMT",
   "base": {
     "repo": {
       "name": "agent-browser-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T07:23:54Z",
   "closed_by": null,
   "created_at": "2026-11-24T06:57:52Z",
   "draft": false,
   "e_tag": "\"e7edce05e3523338b43959723c6e3090522b79ff2515244a01a893a11e18e0a4\"",
   "head": {
-    "ref": "0.44.0_h36af9e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/agent-browser-feedstock/pull/42",
   "id": 5467606166,
   "labels": [],
-  "last_fetched": "2026-11-24T06:57:53.597128",
+  "last_fetched": "2026-11-24T07:24:58.914260",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T07:23:54Z",
   "number": 42,
-  "state": "open",
-  "updated_at": "2026-11-24T06:57:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T07:23:59Z"
 }

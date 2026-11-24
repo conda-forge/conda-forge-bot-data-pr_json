@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f201218b1448df384097d9561365c8ed69b023320bbdf54f491a87411079292f\"",
-  "Last-Modified": "Tue, 24 Nov 2026 02:27:58 GMT",
+  "ETag": "\"2cf4b809a7a18658d7588366900797a47c365b25791792ff6846df301316f92c\"",
+  "Last-Modified": "Tue, 24 Nov 2026 06:09:35 GMT",
   "base": {
     "repo": {
       "name": "valijson-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T06:09:35Z",
   "closed_by": null,
   "created_at": "2026-11-24T02:26:21Z",
   "draft": false,
   "e_tag": "\"1b242a96cade3a96956b0879ac0dca059bb899973dd177b4adc7d831343c8bc2\"",
   "head": {
-    "ref": "1.1.5_h1b43a6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/valijson-feedstock/pull/2",
   "id": 5464916642,
   "labels": [],
-  "last_fetched": "2026-11-24T04:32:12.753038",
+  "last_fetched": "2026-11-24T06:10:45.963862",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T06:09:35Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-24T02:27:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T06:09:35Z"
 }

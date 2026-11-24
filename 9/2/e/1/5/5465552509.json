@@ -1,27 +1,29 @@
 {
+  "ETag": "\"27409b35a9849fa9c46ce89140d9251bbe6bf4a344f944f348cc34b9289edadb\"",
+  "Last-Modified": "Tue, 24 Nov 2026 03:35:47 GMT",
   "base": {
     "repo": {
       "name": "prefect-kubernetes-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T03:35:43Z",
   "closed_by": null,
   "created_at": "2026-11-24T03:31:08Z",
   "draft": false,
   "e_tag": "\"c5e66fb7a6f4a9ef2f922a44ce3967ebf94816fcc60b02181a2f93947ee0f7d9\"",
   "head": {
-    "ref": "0.8.2_h74c235"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/prefect-kubernetes-feedstock/pull/35",
   "id": 5465552509,
   "labels": [],
-  "last_fetched": "2026-11-24T03:31:09.478192",
+  "last_fetched": "2026-11-24T03:37:27.098094",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T03:35:43Z",
   "number": 35,
-  "state": "open",
-  "updated_at": "2026-11-24T03:31:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T03:35:47Z"
 }

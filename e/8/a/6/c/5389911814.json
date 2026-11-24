@@ -1,13 +1,13 @@
 {
-  "ETag": "\"f840ce8c670c9b9fa6f46e15323ed6ff2e7c18ce67fa8dc01897b09c4cc7645c\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "W/\"a00eedcc065e1bc0a14d24de025bd3a4e4526c8a6d78e0a535b9e1a286a31cb3\"",
+  "Last-Modified": "Tue, 24 Nov 2026 00:04:36 GMT",
   "base": {
     "repo": {
       "name": "aws-crt-cpp-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-24T00:04:36Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-19T06:17:40Z",
   "draft": false,
   "e_tag": "\"a7ff82d45ea3503d6e42a0c416b09291d19a5244bdbf6560e7272b522204ef3d\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/aws-crt-cpp-feedstock/pull/692",
   "id": 5389911814,
-  "labels": [],
-  "last_fetched": "2026-11-22T19:27:58.975913",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3008103151,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwzMDA4MTAzMTUx",
+      "url": "https://api.github.com/repos/conda-forge/aws-crt-cpp-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-24T00:04:40.515501",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 692,
-  "state": "open",
-  "updated_at": "2026-11-19T06:21:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T00:04:36Z"
 }

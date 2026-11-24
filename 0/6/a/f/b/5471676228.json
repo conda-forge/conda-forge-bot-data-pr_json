@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d3f5a4722aaf091821426da85d44b2933db69e2fa57f362b2224701d7392a6a3\"",
+  "Last-Modified": "Tue, 24 Nov 2026 12:12:59 GMT",
   "base": {
     "repo": {
       "name": "r-rcppensmallen-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T12:12:55Z",
   "closed_by": null,
   "created_at": "2026-11-24T11:57:55Z",
   "draft": false,
   "e_tag": "\"397b2e6f54cc746a6970ba19f98f3603980b857175bcff916579dfb5f5196273\"",
   "head": {
-    "ref": "0.3.11.2.1_h9a5d57"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-rcppensmallen-feedstock/pull/21",
   "id": 5471676228,
   "labels": [],
-  "last_fetched": "2026-11-24T11:57:56.005119",
+  "last_fetched": "2026-11-24T12:14:35.516661",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T12:12:55Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-24T11:57:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T12:12:59Z"
 }

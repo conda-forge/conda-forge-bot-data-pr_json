@@ -1,27 +1,29 @@
 {
+  "ETag": "\"455e34a3c7655b41049556d1b94cdd65f2d7998c8dc72d6831e94d4065c4c6f1\"",
+  "Last-Modified": "Tue, 24 Nov 2026 12:06:21 GMT",
   "base": {
     "repo": {
       "name": "piqp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T12:06:21Z",
   "closed_by": null,
   "created_at": "2026-11-24T07:34:38Z",
   "draft": false,
   "e_tag": "\"5d6beb489780ec25401a10ef51d81af077cc351723586195150048ccf1d42b8e\"",
   "head": {
-    "ref": "0.8.0_h727ca2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/piqp-feedstock/pull/31",
   "id": 5468033542,
   "labels": [],
-  "last_fetched": "2026-11-24T07:34:38.950594",
+  "last_fetched": "2026-11-24T12:07:45.065682",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T12:06:21Z",
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-24T07:34:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T12:06:21Z"
 }

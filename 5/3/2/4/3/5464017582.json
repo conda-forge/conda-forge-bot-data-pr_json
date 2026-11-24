@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4c6ae6db49411d2cab6897eb4ef3e7a002244263371e63630cc792254242261c\"",
-  "Last-Modified": "Tue, 24 Nov 2026 00:59:11 GMT",
+  "ETag": "\"8a5052ffeca670615d5904ee9dc8a0436e3caab82a312a27bec7f73bebd3aa3a\"",
+  "Last-Modified": "Tue, 24 Nov 2026 06:11:15 GMT",
   "base": {
     "repo": {
       "name": "enaml-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T06:11:14Z",
   "closed_by": null,
   "created_at": "2026-11-24T00:57:23Z",
   "draft": false,
   "e_tag": "\"19f3160899fbd9ba7539ba702435247f49cdab6031f9bd482349cba8deebbf30\"",
   "head": {
-    "ref": "0.20.0_h835647"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/enaml-feedstock/pull/45",
   "id": 5464017582,
   "labels": [],
-  "last_fetched": "2026-11-24T01:58:06.741696",
+  "last_fetched": "2026-11-24T06:12:20.181728",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T06:11:14Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-11-24T00:59:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T06:11:15Z"
 }

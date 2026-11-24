@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3349cd04256e6693f523042ab8aac484e15f5d87804fe23025886106f3422c86\"",
-  "Last-Modified": "Tue, 24 Nov 2026 12:33:47 GMT",
+  "ETag": "\"6c31351e320cf9bac211c7f4605547bb758a5e42c827377841f1beae23f58ef9\"",
+  "Last-Modified": "Tue, 24 Nov 2026 13:06:44 GMT",
   "base": {
     "repo": {
       "name": "lefthook-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T13:06:44Z",
   "closed_by": null,
   "created_at": "2026-11-24T11:43:46Z",
   "draft": false,
   "e_tag": "\"834806571e3d51ea0a4e9f60702c8d19737aec39e7e31f033317b4569ce7940f\"",
   "head": {
-    "ref": "2.2.3_hb31fdd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/lefthook-feedstock/pull/102",
   "id": 5471474265,
   "labels": [],
-  "last_fetched": "2026-11-24T12:37:51.240834",
+  "last_fetched": "2026-11-24T13:08:00.991949",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T13:06:44Z",
   "number": 102,
-  "state": "open",
-  "updated_at": "2026-11-24T12:33:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T13:06:44Z"
 }

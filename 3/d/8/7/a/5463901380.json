@@ -1,29 +1,29 @@
 {
-  "ETag": "\"48cf412f14e41480a4fc09ee22a52a37cab44f538a504c6d32a8d6135bf4519d\"",
-  "Last-Modified": "Tue, 24 Nov 2026 00:47:40 GMT",
+  "ETag": "\"886878c3dfba0914d5ba8b4799e74f47560224706a141738b143330e7165399b\"",
+  "Last-Modified": "Tue, 24 Nov 2026 02:02:16 GMT",
   "base": {
     "repo": {
       "name": "polyglot-sql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T02:02:12Z",
   "closed_by": null,
   "created_at": "2026-11-24T00:45:55Z",
   "draft": false,
   "e_tag": "\"f6445fffb3854bb69ab02e024b38db5302ff3cd6223d81ca7e2f34977c3f2c16\"",
   "head": {
-    "ref": "0.14.4_h08ac67"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/polyglot-sql-feedstock/pull/45",
   "id": 5463901380,
   "labels": [],
-  "last_fetched": "2026-11-24T01:45:28.833841",
+  "last_fetched": "2026-11-24T02:03:15.808187",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T02:02:12Z",
   "number": 45,
-  "state": "open",
-  "updated_at": "2026-11-24T00:47:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T02:02:16Z"
 }

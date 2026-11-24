@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f1c2d9f92cb27a6fc470a55276b11c42def212bb52c521a289d1df514101f6e4\"",
-  "Last-Modified": "Tue, 24 Nov 2026 07:41:59 GMT",
+  "ETag": "\"08e315032b824886eb46b8878e65e035bb9143c9f8ee7ed689aadfc84154c76b\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:58:18 GMT",
   "base": {
     "repo": {
       "name": "qt-multimedia-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T07:58:18Z",
   "closed_by": null,
   "created_at": "2026-11-23T15:18:45Z",
   "draft": false,
   "e_tag": "\"a6b119346f51232e7950c33199a6cd58483a1fc24f3e635590e8716aaedc405d\"",
   "head": {
-    "ref": "6.12.1_h12d6b8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-multimedia-feedstock/pull/54",
   "id": 5455831391,
   "labels": [],
-  "last_fetched": "2026-11-24T07:43:30.911255",
+  "last_fetched": "2026-11-24T07:59:24.752969",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T07:58:18Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-24T07:41:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T07:58:18Z"
 }

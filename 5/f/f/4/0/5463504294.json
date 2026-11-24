@@ -1,27 +1,29 @@
 {
+  "ETag": "\"8ca29102c97ce84326a3abec4c3e28495f12c750039beddd5de459564c67b62e\"",
+  "Last-Modified": "Tue, 24 Nov 2026 00:14:34 GMT",
   "base": {
     "repo": {
       "name": "checkov-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T00:14:30Z",
   "closed_by": null,
   "created_at": "2026-11-24T00:07:39Z",
   "draft": false,
   "e_tag": "\"3f6c248c776c63751eb672c9ffcac7a6eeab900f9b31f8adb1cc39ba85bb7f74\"",
   "head": {
-    "ref": "3.4.7_h189d20"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/checkov-feedstock/pull/277",
   "id": 5463504294,
   "labels": [],
-  "last_fetched": "2026-11-24T00:07:40.199140",
+  "last_fetched": "2026-11-24T00:15:49.218328",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T00:14:30Z",
   "number": 277,
-  "state": "open",
-  "updated_at": "2026-11-24T00:07:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T00:14:34Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"83f8b141e8a4225dc07bdc750c5f18975d0dd3b4e75bc2084d093f641cca7db2\"",
-  "Last-Modified": "Tue, 24 Nov 2026 01:21:04 GMT",
+  "ETag": "\"a90cabe464e557bdb23f8a045de3f085b4f4575e122137c7303f367522bf062d\"",
+  "Last-Modified": "Tue, 24 Nov 2026 07:29:15 GMT",
   "base": {
     "repo": {
       "name": "apache-airflow-providers-apache-beam-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/apache-airflow-providers-apache-beam-feedstock/pull/55",
   "id": 5464249011,
-  "labels": [],
-  "last_fetched": "2026-11-24T02:23:32.434000",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2746833177,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyNzQ2ODMzMTc3",
+      "url": "https://api.github.com/repos/conda-forge/apache-airflow-providers-apache-beam-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-24T07:30:43.589768",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 55,
   "state": "open",
-  "updated_at": "2026-11-24T01:21:04Z"
+  "updated_at": "2026-11-24T07:29:15Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d30a2cfcf5ca0092f8e3cf75d3d449fe328e6e09608f3e785d0b2faab714b0bb\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"2c9563789555fdc06dd2b94d035129d3c69fc71dd727384284fed323255ee3ac\"",
+  "Last-Modified": "Tue, 24 Nov 2026 08:43:07 GMT",
   "base": {
     "repo": {
       "name": "ipbus-feedstock"
@@ -8,7 +8,7 @@
   },
   "closed_at": null,
   "created_at": "2026-05-07T12:08:40Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"9e0f2137cfef6615fd37b41da658c66835ca557239def0286509769a4029ef9f\"",
   "head": {
     "ref": "rebuild-libboost190-0-1_h94c881"
@@ -16,13 +16,13 @@
   "html_url": "https://github.com/conda-forge/ipbus-feedstock/pull/1",
   "id": 3642932348,
   "labels": [],
-  "last_fetched": "2026-11-22T23:37:54.587114",
+  "last_fetched": "2026-11-24T10:00:39.747495",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 1,
   "state": "open",
-  "updated_at": "2026-05-07T12:10:23Z"
+  "updated_at": "2026-11-24T08:43:07Z"
 }

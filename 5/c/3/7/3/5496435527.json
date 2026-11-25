@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3143e7be37f63a380b8f6ce8d8504a9e9e6e9a0bd94eb1fc3e2edceef56c1e43\"",
-  "Last-Modified": "Wed, 25 Nov 2026 17:57:52 GMT",
+  "ETag": "\"697d5f3263f0c6fd488a4ad909027631d4dace41eba42cb534ac6d5d96ee99bc\"",
+  "Last-Modified": "Wed, 25 Nov 2026 20:56:17 GMT",
   "base": {
     "repo": {
       "name": "selenium-manager-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/selenium-manager-feedstock/pull/69",
   "id": 5496435527,
-  "labels": [],
-  "last_fetched": "2026-11-25T18:19:13.283239",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5831425615,
+      "name": "automerge",
+      "node_id": "LA_kwDOKFp5E88AAAABW5R-Tw",
+      "url": "https://api.github.com/repos/conda-forge/selenium-manager-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T20:57:28.638721",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 69,
   "state": "open",
-  "updated_at": "2026-11-25T17:57:52Z"
+  "updated_at": "2026-11-25T20:56:17Z"
 }

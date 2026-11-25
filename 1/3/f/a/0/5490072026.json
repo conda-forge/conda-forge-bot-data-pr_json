@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1517bb42d44bf6d9000d12a9abd9c13b5fc1c5baad280be4eca1fc9bbede28b0\"",
+  "Last-Modified": "Wed, 25 Nov 2026 11:11:42 GMT",
   "base": {
     "repo": {
       "name": "nxswriter-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T11:11:42Z",
   "closed_by": null,
   "created_at": "2026-11-25T11:03:17Z",
   "draft": false,
   "e_tag": "\"c2d0a3dd132f12ffd7fb1f1017f918e56814720773cd5cd5fa525452656d68f5\"",
   "head": {
-    "ref": "3.26.0_hde2273"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nxswriter-feedstock/pull/2",
   "id": 5490072026,
   "labels": [],
-  "last_fetched": "2026-11-25T11:03:18.241145",
+  "last_fetched": "2026-11-25T11:13:34.194175",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T11:11:42Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-25T11:03:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T11:11:42Z"
 }

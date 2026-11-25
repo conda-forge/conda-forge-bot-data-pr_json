@@ -1,29 +1,29 @@
 {
-  "ETag": "\"438bd13f372f50f85a964b0716a20678c5e79435a1bfee551f8b6a6fed40dbd1\"",
-  "Last-Modified": "Wed, 25 Nov 2026 06:18:26 GMT",
+  "ETag": "\"dae91be3006f07d9c5b2db66438557bfc0ebd9dd5485002aa5d8e17ad74e9ee9\"",
+  "Last-Modified": "Wed, 25 Nov 2026 09:34:47 GMT",
   "base": {
     "repo": {
       "name": "dtool-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T09:34:47Z",
   "closed_by": null,
   "created_at": "2026-11-25T00:24:33Z",
   "draft": false,
   "e_tag": "\"4ee6ced7942f35c3b502b78b140dcbd1a7e999b147afffa5d3767bf8a75a5703\"",
   "head": {
-    "ref": "3.28.0_h6f2050"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dtool-feedstock/pull/17",
   "id": 5482704509,
   "labels": [],
-  "last_fetched": "2026-11-25T07:42:37.481481",
+  "last_fetched": "2026-11-25T09:36:12.045022",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T09:34:46Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-11-25T06:18:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T09:34:47Z"
 }

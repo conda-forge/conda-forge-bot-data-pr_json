@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4611585409c79ad1bb7779c33576115a2340de8f0107d6b6e9340a60926505d4\"",
-  "Last-Modified": "Wed, 25 Nov 2026 07:00:24 GMT",
+  "ETag": "\"256abaa5749b4c84904d0fac686a5e0639188cb8affd5ac46d95ec5b3a82a46b\"",
+  "Last-Modified": "Wed, 25 Nov 2026 12:08:38 GMT",
   "base": {
     "repo": {
       "name": "pgrouting-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T12:08:38Z",
   "closed_by": null,
   "created_at": "2026-11-25T06:58:53Z",
   "draft": false,
   "e_tag": "\"f29cbc6435de71d302e95e540737d5fc63d82a36b9296688c9d2943c9e0ac9ef\"",
   "head": {
-    "ref": "4.0.3_h696fab"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pgrouting-feedstock/pull/32",
   "id": 5486727911,
   "labels": [],
-  "last_fetched": "2026-11-25T08:22:51.323622",
+  "last_fetched": "2026-11-25T12:10:07.077097",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T12:08:38Z",
   "number": 32,
-  "state": "open",
-  "updated_at": "2026-11-25T07:00:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T12:08:38Z"
 }

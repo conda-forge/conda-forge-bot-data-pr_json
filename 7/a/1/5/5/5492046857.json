@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2b9d75b742988d77e2ce624223bdf89a749a93bf96cbf5883c568f1e8ed66b3f\"",
+  "Last-Modified": "Wed, 25 Nov 2026 13:25:28 GMT",
   "base": {
     "repo": {
       "name": "fps-yrooms-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T13:25:27Z",
   "closed_by": null,
   "created_at": "2026-11-25T13:15:15Z",
   "draft": false,
   "e_tag": "\"7c382c17f62dee37e9529f8327e24116810b4328c2c72fd10821b554a70a227b\"",
   "head": {
-    "ref": "0.2.5_h583fd8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/fps-yrooms-feedstock/pull/7",
   "id": 5492046857,
   "labels": [],
-  "last_fetched": "2026-11-25T13:15:16.188628",
+  "last_fetched": "2026-11-25T13:27:07.276312",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T13:25:27Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-25T13:15:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T13:25:28Z"
 }

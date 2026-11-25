@@ -1,29 +1,29 @@
 {
-  "ETag": "\"4f58b3b0088ef41cbc8a281c5792d3dde4928a0a61c63dc997bf2b19ceba67bc\"",
-  "Last-Modified": "Tue, 24 Nov 2026 01:02:24 GMT",
+  "ETag": "\"4494e9ef539ca80003787afe454446eb588035614010aff759a0c89227dc9361\"",
+  "Last-Modified": "Tue, 24 Nov 2026 14:19:10 GMT",
   "base": {
     "repo": {
       "name": "figanos-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T14:19:06Z",
   "closed_by": null,
   "created_at": "2026-11-24T01:00:46Z",
   "draft": false,
   "e_tag": "\"3500295b4cd36e3c370022043dfc6873c6fdc2792af480991991d22d397e4ebb\"",
   "head": {
-    "ref": "0.8.0_h31e319"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/figanos-feedstock/pull/6",
   "id": 5464050222,
   "labels": [],
-  "last_fetched": "2026-11-24T01:46:27.667156",
+  "last_fetched": "2026-11-25T03:34:42.354801",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T14:19:06Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-24T01:02:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T14:19:10Z"
 }

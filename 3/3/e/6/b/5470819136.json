@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0d534e0f3c7d7e5ef45684cae424c9685579ee5ebf69904169948936d2b95e3c\"",
+  "Last-Modified": "Tue, 24 Nov 2026 20:51:28 GMT",
   "base": {
     "repo": {
       "name": "pypulseq-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T20:51:27Z",
   "closed_by": null,
   "created_at": "2026-11-24T10:56:55Z",
   "draft": false,
   "e_tag": "\"e6bff1603db07d15dd9e8780028b162f014fb7c9d6fddfa78c1e2935472afe3f\"",
   "head": {
-    "ref": "1.5.0.post2_hbe1126"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pypulseq-feedstock/pull/7",
   "id": 5470819136,
   "labels": [],
-  "last_fetched": "2026-11-24T10:56:56.760997",
+  "last_fetched": "2026-11-25T00:57:25.467620",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T20:51:27Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-24T10:56:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T20:51:28Z"
 }

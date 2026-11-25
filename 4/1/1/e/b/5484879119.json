@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6b8546a0490b7816adb2d8170faa05f8d36f905330856974a1750cc5f0318303\"",
-  "Last-Modified": "Wed, 25 Nov 2026 03:57:13 GMT",
+  "ETag": "\"647d3d5e84be0ba73ee6068779da34578d9bf6302061f630f06507b97b13b586\"",
+  "Last-Modified": "Wed, 25 Nov 2026 10:43:19 GMT",
   "base": {
     "repo": {
       "name": "delvewheel-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T10:43:19Z",
   "closed_by": null,
   "created_at": "2026-11-25T03:55:33Z",
   "draft": false,
   "e_tag": "\"8bb588252859eddc005cd12eed2b68d4ea228f2be76da02d6ae1f74558098a43\"",
   "head": {
-    "ref": "1.13.3_h32d42e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/delvewheel-feedstock/pull/49",
   "id": 5484879119,
   "labels": [],
-  "last_fetched": "2026-11-25T04:44:23.070222",
+  "last_fetched": "2026-11-25T10:44:35.191302",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T10:43:18Z",
   "number": 49,
-  "state": "open",
-  "updated_at": "2026-11-25T03:57:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T10:43:19Z"
 }

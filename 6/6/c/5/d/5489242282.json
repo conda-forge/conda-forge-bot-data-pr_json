@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a08224f1b2bb37e30a233744616ce5c6c9787f89587a9466b9dd224ef30ca12d\"",
+  "Last-Modified": "Wed, 25 Nov 2026 10:20:19 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-vault-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T10:20:15Z",
   "closed_by": null,
   "created_at": "2026-11-25T10:08:48Z",
   "draft": false,
   "e_tag": "\"cc3bb7e293cb4846daa8637ceaf9b9ecac2c0f12d0b2cf21d84bc7dc33ddfa3b\"",
   "head": {
-    "ref": "5.14.0_h1e64fa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-vault-feedstock/pull/70",
   "id": 5489242282,
   "labels": [],
-  "last_fetched": "2026-11-25T10:08:50.087641",
+  "last_fetched": "2026-11-25T10:21:42.711585",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T10:20:15Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-11-25T10:08:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T10:20:19Z"
 }

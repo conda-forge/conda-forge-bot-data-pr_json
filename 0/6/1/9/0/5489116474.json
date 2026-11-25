@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1f3f9060a838a6d33d7845e20305ebb0b57adc9bc30d308ff6f0983b0a452b84\"",
+  "Last-Modified": "Wed, 25 Nov 2026 10:03:41 GMT",
   "base": {
     "repo": {
       "name": "bc-detect-secrets-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T10:03:36Z",
   "closed_by": null,
   "created_at": "2026-11-25T10:00:36Z",
   "draft": false,
   "e_tag": "\"6fcff4552c3f3e81a608768633cdc58912f5c0753c869401f012d585aa123f95\"",
   "head": {
-    "ref": "1.5.55_h4644d2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bc-detect-secrets-feedstock/pull/52",
   "id": 5489116474,
   "labels": [],
-  "last_fetched": "2026-11-25T10:00:37.847255",
+  "last_fetched": "2026-11-25T10:04:59.821553",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T10:03:36Z",
   "number": 52,
-  "state": "open",
-  "updated_at": "2026-11-25T10:00:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T10:03:41Z"
 }

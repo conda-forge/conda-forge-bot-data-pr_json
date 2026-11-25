@@ -1,29 +1,29 @@
 {
-  "ETag": "\"60d4d439f3a52c0c4a5316732cc7fb3f4ff06f51f83fb34d8ead764b9539e55b\"",
-  "Last-Modified": "Wed, 25 Nov 2026 09:38:30 GMT",
+  "ETag": "\"e1c929af58c870154af8532392566cfd091154645203fa3ae623d5de5eb49c7f\"",
+  "Last-Modified": "Wed, 25 Nov 2026 11:01:37 GMT",
   "base": {
     "repo": {
       "name": "mise-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T11:01:33Z",
   "closed_by": null,
   "created_at": "2026-11-25T09:36:51Z",
   "draft": false,
   "e_tag": "\"4fa79f3eb41a85c9812d6c7f643cbef6d693730977820cfd1a3925724506b737\"",
   "head": {
-    "ref": "2026.11.14_h9fd670"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mise-feedstock/pull/170",
   "id": 5488769764,
   "labels": [],
-  "last_fetched": "2026-11-25T09:43:40.737393",
+  "last_fetched": "2026-11-25T11:03:10.375603",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T11:01:32Z",
   "number": 170,
-  "state": "open",
-  "updated_at": "2026-11-25T09:38:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T11:01:37Z"
 }

@@ -1,12 +1,13 @@
 {
-  "ETag": "\"52ef5629759851889166ac6b3632a50e06d03bc8bddaa7cc4341b3047f90bf25\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"668577f0983027fc8937b05d33e7052d5d8afa23ae162e6aab6ef707611c612c\"",
+  "Last-Modified": "Wed, 25 Nov 2026 06:06:14 GMT",
   "base": {
     "repo": {
       "name": "rocket-fft-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T06:06:14Z",
+  "closed_by": "JaRoSchm",
   "created_at": "2024-02-07T12:30:35Z",
   "draft": false,
   "head": {
@@ -15,12 +16,12 @@
   "html_url": "https://github.com/conda-forge/rocket-fft-feedstock/pull/6",
   "id": 1715585185,
   "labels": [],
-  "last_fetched": "2026-11-22T22:10:16.193909",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "last_fetched": "2026-11-25T06:07:49.691848",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 6,
-  "state": "open",
-  "updated_at": "2024-02-07T12:30:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T06:06:14Z"
 }

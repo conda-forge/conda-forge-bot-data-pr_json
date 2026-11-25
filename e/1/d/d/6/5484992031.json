@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7dbc1577446d068ff0233fd7f881e2fd24f5020a63995a4d1092b44ed48bb300\"",
-  "Last-Modified": "Wed, 25 Nov 2026 04:09:16 GMT",
+  "ETag": "\"59bd89283570741233112483cf68c55f12247ed66ce89b6bcd2101107218e9de\"",
+  "Last-Modified": "Wed, 25 Nov 2026 08:30:36 GMT",
   "base": {
     "repo": {
       "name": "bioio-ome-zarr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T08:30:36Z",
   "closed_by": null,
   "created_at": "2026-11-25T04:07:47Z",
   "draft": false,
   "e_tag": "\"bbb5e8595e5e77ec2d091bb0263a24426d3457e521947bf3e6b6206dbbb4ab8c\"",
   "head": {
-    "ref": "4.0.0_hab2ecb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bioio-ome-zarr-feedstock/pull/19",
   "id": 5484992031,
   "labels": [],
-  "last_fetched": "2026-11-25T05:58:09.834567",
+  "last_fetched": "2026-11-25T08:32:11.711267",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T08:30:36Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-11-25T04:09:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T08:30:36Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c8ba683f089f734644d52e0218fcf2bf113fb895808a9ab9176d39e0d4114f12\"",
+  "Last-Modified": "Wed, 25 Nov 2026 13:25:20 GMT",
   "base": {
     "repo": {
       "name": "linkbikenet-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T13:25:20Z",
   "closed_by": null,
   "created_at": "2026-11-25T13:21:34Z",
   "draft": false,
   "e_tag": "\"891f2223c712bff86a26fb221466b8d24d76b87050ddb5765581d2e4a5b0a735\"",
   "head": {
-    "ref": "0.10.2_had91c4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/linkbikenet-feedstock/pull/6",
   "id": 5492147049,
   "labels": [],
-  "last_fetched": "2026-11-25T13:21:35.234037",
+  "last_fetched": "2026-11-25T13:26:49.565547",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T13:25:20Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-25T13:21:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T13:25:20Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9d695536a01b3f79f1e97a0355de2a8f9c9fec77e9dc6b6dd4f3cc11dfd52471\"",
-  "Last-Modified": "Wed, 25 Nov 2026 06:44:33 GMT",
+  "ETag": "\"6a278ec470573aa123ec1286eb5e62f14fb204982cc8a691e0666dc0fb3c303e\"",
+  "Last-Modified": "Wed, 25 Nov 2026 12:42:23 GMT",
   "base": {
     "repo": {
       "name": "libxnvme-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T12:42:23Z",
   "closed_by": null,
   "created_at": "2026-11-25T06:42:59Z",
   "draft": false,
   "e_tag": "\"7e4e2660dee8a5a07d2f17ae0c511e8c49bb3ab5a1b4f16b27707a727800880e\"",
   "head": {
-    "ref": "0.8.1_h8f7c26"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libxnvme-feedstock/pull/8",
   "id": 5486552461,
   "labels": [],
-  "last_fetched": "2026-11-25T06:47:59.332048",
+  "last_fetched": "2026-11-25T12:43:45.431398",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T12:42:22Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-25T06:44:33Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T12:42:23Z"
 }

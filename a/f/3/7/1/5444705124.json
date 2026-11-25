@@ -1,13 +1,13 @@
 {
-  "ETag": "\"34c67c2cf1169d71966510b50fd6e2cb214e3c728d4c261d0501b581acc25095\"",
-  "Last-Modified": "Sun, 22 Nov 2026 23:49:47 GMT",
+  "ETag": "W/\"ce7f750cefccc1e4595e2c1adbe899f65cc1ba71f48adb28610089f3160973ff\"",
+  "Last-Modified": "Wed, 25 Nov 2026 10:48:44 GMT",
   "base": {
     "repo": {
       "name": "damask-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-25T10:48:44Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-22T23:48:21Z",
   "draft": false,
   "e_tag": "\"02e047489e8765c4e33e4b73abb06f9977dedc945f24a005bd635ca0bad228a6\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/damask-feedstock/pull/196",
   "id": 5444705124,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:02:28.097937",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1823804385,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODIzODA0Mzg1",
+      "url": "https://api.github.com/repos/conda-forge/damask-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-25T10:48:47.436484",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 196,
-  "state": "open",
-  "updated_at": "2026-11-22T23:49:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T10:48:44Z"
 }

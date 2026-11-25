@@ -1,27 +1,29 @@
 {
+  "ETag": "\"5131a2d293dee1c57e36cd0d8e5b01d2beb806143de6d3116e350cf45133fddb\"",
+  "Last-Modified": "Wed, 25 Nov 2026 08:22:48 GMT",
   "base": {
     "repo": {
       "name": "pyvista-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T08:21:24Z",
   "closed_by": null,
   "created_at": "2026-11-25T07:58:50Z",
   "draft": false,
   "e_tag": "\"43d0cdfb9d5a91f42d52409cc9fe3f91aebab2a5247e710b89488051c8772fd9\"",
   "head": {
-    "ref": "0.49.3_h25720f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyvista-feedstock/pull/138",
   "id": 5487438096,
   "labels": [],
-  "last_fetched": "2026-11-25T07:58:51.967352",
+  "last_fetched": "2026-11-25T08:23:01.717392",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T08:21:24Z",
   "number": 138,
-  "state": "open",
-  "updated_at": "2026-11-25T07:58:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T08:22:48Z"
 }

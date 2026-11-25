@@ -1,27 +1,29 @@
 {
+  "ETag": "\"313c609686c7c5d65492084dbfbfc4574b733e5d27be5ec8685e2c8e294572df\"",
+  "Last-Modified": "Wed, 25 Nov 2026 20:59:22 GMT",
   "base": {
     "repo": {
       "name": "c-blosc2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T20:59:18Z",
   "closed_by": null,
   "created_at": "2026-11-25T20:35:25Z",
   "draft": false,
   "e_tag": "\"0c3b7de901e9cf8f61dea1369e85ec6def19405f2decfeedc9d38b7d38b05714\"",
   "head": {
-    "ref": "3.9.0_h771ab9"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/c-blosc2-feedstock/pull/123",
   "id": 5498742284,
   "labels": [],
-  "last_fetched": "2026-11-25T20:35:26.540386",
+  "last_fetched": "2026-11-25T21:00:29.824647",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T20:59:17Z",
   "number": 123,
-  "state": "open",
-  "updated_at": "2026-11-25T20:35:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T20:59:22Z"
 }

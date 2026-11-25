@@ -1,29 +1,29 @@
 {
-  "ETag": "\"db2bc5345a749ae3a9ea895068e50170899a821606998a67cef18252f4ed350b\"",
-  "Last-Modified": "Wed, 25 Nov 2026 11:27:28 GMT",
+  "ETag": "W/\"27d69bfd0674d6a4f4fa305bc2149579d6f7e96c94ed4494f4843494707461f8\"",
+  "Last-Modified": "Wed, 25 Nov 2026 14:17:41 GMT",
   "base": {
     "repo": {
       "name": "kubo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T14:17:41Z",
   "closed_by": null,
   "created_at": "2026-11-25T11:25:55Z",
   "draft": false,
   "e_tag": "\"a8bb51d2614ffb8f7ea061ccc592e49fdd33d4efc6b84d0000236cf47269cded\"",
   "head": {
-    "ref": "0.43.2_h9b1dd2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/kubo-feedstock/pull/50",
   "id": 5490422569,
   "labels": [],
-  "last_fetched": "2026-11-25T12:57:27.229978",
+  "last_fetched": "2026-11-25T14:19:32.942711",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T14:17:41Z",
   "number": 50,
-  "state": "open",
-  "updated_at": "2026-11-25T11:27:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T14:17:41Z"
 }

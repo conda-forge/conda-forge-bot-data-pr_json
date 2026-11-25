@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"e4ad448e5c714579bf12465865fc8d26bc7633151d96c202fc2b206b96b0df59\"",
-  "Last-Modified": "Wed, 25 Nov 2026 14:57:57 GMT",
+  "ETag": "\"1dc4e367885fa4de1beac79f061fc149f49f53c539f4564ae9b0bc3e0259eb15\"",
+  "Last-Modified": "Wed, 25 Nov 2026 20:51:13 GMT",
   "base": {
     "repo": {
       "name": "python-chromedriver-binary-feedstock"
@@ -9,15 +9,27 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-11-25T14:48:52Z",
-  "draft": true,
+  "draft": false,
   "e_tag": "\"5faebe7985f1c00a8d6184e57c04498c29730d3b4fd9bb033d4156f4d5d1c1c4\"",
   "head": {
     "ref": "160.0.8182.0.0_hb18699"
   },
   "html_url": "https://github.com/conda-forge/python-chromedriver-binary-feedstock/pull/967",
   "id": 5493627779,
-  "labels": [],
-  "last_fetched": "2026-11-25T15:27:49.684495",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891114075,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTE0MDc1",
+      "url": "https://api.github.com/repos/conda-forge/python-chromedriver-binary-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T20:51:42.309017",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 967,
   "state": "open",
-  "updated_at": "2026-11-25T14:57:57Z"
+  "updated_at": "2026-11-25T20:51:13Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ac61c1504b2a8c1902ad9988fc3f7e57a80bef627680a844e3e2774a06db9e3d\"",
+  "Last-Modified": "Wed, 25 Nov 2026 09:12:25 GMT",
   "base": {
     "repo": {
       "name": "plotly-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T09:12:21Z",
   "closed_by": null,
   "created_at": "2026-11-25T09:08:36Z",
   "draft": false,
   "e_tag": "\"1f175d95c8f738fad019e3f14f7896a666cd8f76ebb963305ccbfefcebf91b90\"",
   "head": {
-    "ref": "7.2.0_hcfee9b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/plotly-feedstock/pull/156",
   "id": 5488349571,
   "labels": [],
-  "last_fetched": "2026-11-25T09:08:37.672775",
+  "last_fetched": "2026-11-25T09:13:56.414836",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T09:12:21Z",
   "number": 156,
-  "state": "open",
-  "updated_at": "2026-11-25T09:08:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T09:12:25Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"2ac7d5f2abeff66460a4491c78894f74008f7da35b470f698a60aec3be7d8e17\"",
+  "Last-Modified": "Wed, 25 Nov 2026 12:29:09 GMT",
   "base": {
     "repo": {
       "name": "bikenetlib-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T12:29:09Z",
   "closed_by": null,
   "created_at": "2026-11-25T10:05:24Z",
   "draft": false,
   "e_tag": "\"407e0ebe8d633e3c650b6e8a227dfcc71366c8a8e37269d0f84736f443256f76\"",
   "head": {
-    "ref": "0.9.1_hb689aa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bikenetlib-feedstock/pull/7",
   "id": 5489188458,
   "labels": [],
-  "last_fetched": "2026-11-25T10:05:25.303639",
+  "last_fetched": "2026-11-25T12:30:32.802150",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T12:29:09Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-25T10:05:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T12:29:09Z"
 }

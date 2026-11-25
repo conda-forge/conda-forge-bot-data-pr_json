@@ -1,12 +1,13 @@
 {
-  "ETag": "\"13f85dc1a953b2fefd42ce0ffb84e2790258fd0a21a8d5ff67db1e5cfb723c7c\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"172692c9589c2943d2f51cab70f58f1540a45d273ac4e9e196791662f8be4d89\"",
+  "Last-Modified": "Wed, 25 Nov 2026 11:50:42 GMT",
   "base": {
     "repo": {
       "name": "fabba-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T11:50:42Z",
+  "closed_by": "chenxinye",
   "created_at": "2026-09-25T10:52:27Z",
   "draft": false,
   "e_tag": "\"4a253a9cebc6cb80270a3767eb248bc617bf3aed92ef0d84d84470e9d2f9485d\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/fabba-feedstock/pull/36",
   "id": 4637138978,
   "labels": [],
-  "last_fetched": "2026-11-23T01:50:54.970112",
+  "last_fetched": "2026-11-25T11:51:51.445243",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 36,
-  "state": "open",
-  "updated_at": "2026-09-25T10:54:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T11:50:42Z"
 }

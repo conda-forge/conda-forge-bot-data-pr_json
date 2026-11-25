@@ -1,27 +1,29 @@
 {
+  "ETag": "W/\"643b68c852ae659d5eca5b055b7751d9855bb7ea2d75edff4c968f6e0cc12b6c\"",
+  "Last-Modified": "Tue, 24 Nov 2026 14:22:28 GMT",
   "base": {
     "repo": {
       "name": "erlang-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T14:22:23Z",
   "closed_by": null,
   "created_at": "2026-11-24T13:27:38Z",
   "draft": false,
   "e_tag": "\"db3c1e305fa930652800e5c847f2dbef33bba2ea653147de8fc19bba5c07feb3\"",
   "head": {
-    "ref": "29.1.3_h77c2fb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/erlang-feedstock/pull/221",
   "id": 5473042965,
   "labels": [],
-  "last_fetched": "2026-11-24T13:27:38.955746",
+  "last_fetched": "2026-11-25T02:43:26.396127",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-24T14:22:23Z",
   "number": 221,
-  "state": "open",
-  "updated_at": "2026-11-24T13:27:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T14:22:28Z"
 }

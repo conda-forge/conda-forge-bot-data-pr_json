@@ -1,29 +1,29 @@
 {
-  "ETag": "\"32b65497b9c821f882264285115dd0eb5357b490625f0b4ff6bcde7f75c1c466\"",
-  "Last-Modified": "Wed, 25 Nov 2026 11:37:37 GMT",
+  "ETag": "\"d6c3938be451299a4e74d966567b4d8cf4ecc4e53d5041dfa9c4eeba0bede473\"",
+  "Last-Modified": "Wed, 25 Nov 2026 13:02:01 GMT",
   "base": {
     "repo": {
       "name": "handcalcs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T13:02:01Z",
   "closed_by": null,
   "created_at": "2026-11-25T04:58:43Z",
   "draft": false,
   "e_tag": "\"afaa192968505f9ac5302295808ee4813a09c0af3796e82aee7125804e5fe9a4\"",
   "head": {
-    "ref": "2.0.0_hae6af1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/handcalcs-feedstock/pull/22",
   "id": 5485455975,
   "labels": [],
-  "last_fetched": "2026-11-25T11:57:51.457519",
+  "last_fetched": "2026-11-25T13:03:22.345688",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T13:02:01Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-25T11:37:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T13:02:01Z"
 }

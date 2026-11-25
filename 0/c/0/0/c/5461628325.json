@@ -1,29 +1,41 @@
 {
-  "ETag": "\"d4342a16e57be68c117dcf75f3209be055971c574098780eded8db09014f66d1\"",
-  "Last-Modified": "Mon, 23 Nov 2026 21:36:55 GMT",
+  "ETag": "\"f10d616784d86a6474b79d32367a4083f2a49b6e50d53cdf199b1ca76bf104fa\"",
+  "Last-Modified": "Tue, 24 Nov 2026 22:42:54 GMT",
   "base": {
     "repo": {
       "name": "harmony-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T22:42:50Z",
   "closed_by": null,
   "created_at": "2026-11-23T21:35:30Z",
   "draft": false,
   "e_tag": "\"b729f667d3818e0302e610ebb12f1e6b3967b1dc7febd25b40acee7a250a946c\"",
   "head": {
-    "ref": "1.9.0_hfb1deb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/harmony-py-feedstock/pull/27",
   "id": 5461628325,
-  "labels": [],
-  "last_fetched": "2026-11-24T05:17:36.610672",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6549238355,
+      "name": "automerge",
+      "node_id": "LA_kwDOLRUP3c8AAAABhl1yUw",
+      "url": "https://api.github.com/repos/conda-forge/harmony-py-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T00:57:47.919397",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T22:42:50Z",
   "number": 27,
-  "state": "open",
-  "updated_at": "2026-11-23T21:36:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T22:42:54Z"
 }

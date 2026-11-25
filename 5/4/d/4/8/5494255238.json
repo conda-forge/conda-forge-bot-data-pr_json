@@ -1,4 +1,6 @@
 {
+  "ETag": "W/\"e1f1b5087869ba25970698cce6e23ab25a8fc8d321d64ebc7cd45cdd0d744bcc\"",
+  "Last-Modified": "Wed, 25 Nov 2026 15:29:40 GMT",
   "base": {
     "repo": {
       "name": "libtiff-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/libtiff-feedstock/pull/120",
   "id": 5494255238,
-  "labels": [],
-  "last_fetched": "2026-11-25T15:26:15.037131",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891012064,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDEyMDY0",
+      "url": "https://api.github.com/repos/conda-forge/libtiff-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T15:30:55.463192",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 120,
   "state": "open",
-  "updated_at": "2026-11-25T15:26:14Z"
+  "updated_at": "2026-11-25T15:29:40Z"
 }

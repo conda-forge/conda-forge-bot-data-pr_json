@@ -1,29 +1,41 @@
 {
-  "ETag": "\"92a6514cfbcd413f6d641278d760bbcb50ec79fa7ca293d0e9a73c4defc59177\"",
-  "Last-Modified": "Wed, 25 Nov 2026 12:51:09 GMT",
+  "ETag": "\"cdc25f9771ce4f750aabb6d91e5f2b4f55172b0c97d7de24df47f870645ab6cb\"",
+  "Last-Modified": "Wed, 25 Nov 2026 22:20:21 GMT",
   "base": {
     "repo": {
       "name": "mimalloc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T22:20:17Z",
   "closed_by": null,
   "created_at": "2026-11-25T09:24:23Z",
   "draft": false,
   "e_tag": "\"fe4a4995d2b011e62703e257329a4b4041ac2e27c943d36f246a22d89aa34b75\"",
   "head": {
-    "ref": "3.7.1_h202d81"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mimalloc-feedstock/pull/66",
   "id": 5488586897,
-  "labels": [],
-  "last_fetched": "2026-11-25T13:21:30.057918",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2007642952,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMDA3NjQyOTUy",
+      "url": "https://api.github.com/repos/conda-forge/mimalloc-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T22:21:00.692490",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T22:20:17Z",
   "number": 66,
-  "state": "open",
-  "updated_at": "2026-11-25T12:51:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T22:20:21Z"
 }

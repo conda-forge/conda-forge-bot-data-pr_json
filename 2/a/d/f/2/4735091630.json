@@ -1,12 +1,13 @@
 {
-  "ETag": "\"98f9a178139a596296b36311b5c0e43ed770dc2b7835485e99751efc6035b436\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "W/\"8076e37c57d5348a29c5e47ef9f04451bfcd0d33a476251de122f1c6143a5a66\"",
+  "Last-Modified": "Wed, 25 Nov 2026 15:08:00 GMT",
   "base": {
     "repo": {
       "name": "pyobjcryst-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T15:08:00Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-04T14:28:56Z",
   "draft": false,
   "e_tag": "\"036e718863af9c0d1a8a0849056662774245b467ff30f79abad3d5fdae45dc31\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyobjcryst-feedstock/pull/56",
   "id": 4735091630,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:21:52.863896",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 1891108043,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwxODkxMTA4MDQz",
+      "url": "https://api.github.com/repos/conda-forge/pyobjcryst-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-25T15:08:03.547804",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 56,
-  "state": "open",
-  "updated_at": "2026-10-04T14:30:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T15:08:00Z"
 }

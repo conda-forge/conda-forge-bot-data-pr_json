@@ -1,29 +1,41 @@
 {
-  "ETag": "\"1d96d9a85aa5980b1bffdca29b9c174a8e12530e5f3ce1ceeab2826d003c3bdd\"",
-  "Last-Modified": "Wed, 25 Nov 2026 18:41:08 GMT",
+  "ETag": "\"a1af0cbbe32f9ea909a5b8a1d36e2806dab02c55220b37dc926586ef34942947\"",
+  "Last-Modified": "Wed, 25 Nov 2026 21:04:07 GMT",
   "base": {
     "repo": {
       "name": "norwegianblue-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T21:04:03Z",
   "closed_by": null,
   "created_at": "2026-11-25T18:39:39Z",
   "draft": false,
   "e_tag": "\"d398fd01f83ee617f4a2547fd1690d5e1470a21f3cb7bb4c15ebd66b6c641bed\"",
   "head": {
-    "ref": "0.27.0_h248f7d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/norwegianblue-feedstock/pull/6",
   "id": 5497066150,
-  "labels": [],
-  "last_fetched": "2026-11-25T21:00:30.606384",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8656584672,
+      "name": "automerge",
+      "node_id": "LA_kwDOOugYDc8AAAACA_j_4A",
+      "url": "https://api.github.com/repos/conda-forge/norwegianblue-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T21:05:01.753317",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T21:04:03Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-25T18:41:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T21:04:07Z"
 }

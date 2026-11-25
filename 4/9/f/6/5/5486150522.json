@@ -1,18 +1,18 @@
 {
-  "ETag": "\"c703eed02455b513d43205c02c67e522ffb369aa395f4317a1a0a2d28f0249ae\"",
-  "Last-Modified": "Wed, 25 Nov 2026 07:09:24 GMT",
+  "ETag": "\"893d1998bdf0379833b7bf4f0b4318754b0954eb5aec6d87ea51b76d2b1e9889\"",
+  "Last-Modified": "Wed, 25 Nov 2026 07:20:37 GMT",
   "base": {
     "repo": {
       "name": "imas-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T07:20:33Z",
   "closed_by": null,
   "created_at": "2026-11-25T06:08:41Z",
   "draft": false,
   "e_tag": "\"a6a367bc362cb8563249e82f3b2450f94c8a2bbbf2c4ac510bdd88f4d6847dd2\"",
   "head": {
-    "ref": "rebuild-python315-0-1_hf85385"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imas-core-feedstock/pull/12",
   "id": 5486150522,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/imas-core-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-25T07:10:55.432304",
+  "last_fetched": "2026-11-25T07:21:48.028442",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T07:20:33Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-25T07:09:24Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T07:20:37Z"
 }

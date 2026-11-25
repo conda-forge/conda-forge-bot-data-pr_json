@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c62c1f3463c28e5eaf5b2f6e4db041bf5c131078d6f1fad34d95f26f36c55280\"",
-  "Last-Modified": "Tue, 24 Nov 2026 08:21:47 GMT",
+  "ETag": "\"2d6123d52453a50e747082e1617ed40ff34a59198d74658a59d76fd668d2c8c5\"",
+  "Last-Modified": "Tue, 24 Nov 2026 21:15:25 GMT",
   "base": {
     "repo": {
       "name": "gz-sensors-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T21:15:24Z",
   "closed_by": null,
   "created_at": "2026-11-24T01:44:55Z",
   "draft": false,
   "e_tag": "\"418641ee177059681ac58dd52106555319a7bfa6d12dede18312c5e5a55724cc\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_h23b742"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-sensors-feedstock/pull/95",
   "id": 5464489614,
   "labels": [],
-  "last_fetched": "2026-11-24T09:59:46.638220",
+  "last_fetched": "2026-11-25T01:59:22.380467",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T21:15:24Z",
   "number": 95,
-  "state": "open",
-  "updated_at": "2026-11-24T08:21:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T21:15:25Z"
 }

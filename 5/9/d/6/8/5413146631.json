@@ -1,29 +1,29 @@
 {
-  "ETag": "\"58dfed3041a613e13c577d041fd07a24fca01e98c9b9bab0fed60b2e60109931\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"b3a0754d62a54976bbf2cabad3c380824e257a0e12eaf8d70732f99cc4d6cfc7\"",
+  "Last-Modified": "Wed, 25 Nov 2026 09:58:55 GMT",
   "base": {
     "repo": {
       "name": "psqlodbc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T09:58:55Z",
   "closed_by": null,
   "created_at": "2026-11-20T12:14:55Z",
   "draft": false,
   "e_tag": "\"df92e5d2b3343b26c9ec55a7fc45edcf69280aa5fc4a0870afa0d243dcbe92f6\"",
   "head": {
-    "ref": "rebuild-libpq19-0-1_h164f40"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/psqlodbc-feedstock/pull/18",
   "id": 5413146631,
   "labels": [],
-  "last_fetched": "2026-11-22T19:28:05.084136",
+  "last_fetched": "2026-11-25T10:00:33.112032",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T09:58:55Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-20T12:16:25Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T09:58:55Z"
 }

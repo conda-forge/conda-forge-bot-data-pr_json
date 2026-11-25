@@ -1,27 +1,29 @@
 {
+  "ETag": "\"0044ecfa2c5c15aeadee886739977d49e19c9c6fa7a412f427205083215c8386\"",
+  "Last-Modified": "Wed, 25 Nov 2026 21:28:39 GMT",
   "base": {
     "repo": {
       "name": "capacitor-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T21:28:35Z",
   "closed_by": null,
   "created_at": "2026-11-25T21:26:30Z",
   "draft": false,
   "e_tag": "\"e7ec1e552c6548888331aade25488e741483f28862cb0329f3946192baa32c98\"",
   "head": {
-    "ref": "8.6.3_h130db2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/capacitor-cli-feedstock/pull/30",
   "id": 5499449810,
   "labels": [],
-  "last_fetched": "2026-11-25T21:26:31.289383",
+  "last_fetched": "2026-11-25T21:30:05.206557",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T21:28:35Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-25T21:26:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T21:28:39Z"
 }

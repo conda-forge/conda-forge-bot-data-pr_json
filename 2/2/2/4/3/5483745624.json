@@ -1,27 +1,29 @@
 {
+  "ETag": "\"4bcf5c88b340bdd2c08a834267a18e3a3c339b1915488f2917ca3412e416ce09\"",
+  "Last-Modified": "Wed, 25 Nov 2026 02:18:02 GMT",
   "base": {
     "repo": {
       "name": "databricks-cli-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T02:17:57Z",
   "closed_by": null,
   "created_at": "2026-11-25T02:07:12Z",
   "draft": false,
   "e_tag": "\"38781b5927bae628a249d65b5a46fcdd17f8fc07908ea05b1c71f8b882a1d3b4\"",
   "head": {
-    "ref": "1.28.0_h318365"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/databricks-cli-feedstock/pull/160",
   "id": 5483745624,
   "labels": [],
-  "last_fetched": "2026-11-25T02:07:14.175292",
+  "last_fetched": "2026-11-25T02:19:19.023422",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T02:17:57Z",
   "number": 160,
-  "state": "open",
-  "updated_at": "2026-11-25T02:07:13Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T02:18:02Z"
 }

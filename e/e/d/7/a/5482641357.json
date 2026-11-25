@@ -1,27 +1,29 @@
 {
+  "ETag": "\"ddbfbba5417965e2b8142d8ef2fc7e676206afe69b4f3e2e3bc4f64afe47bfae\"",
+  "Last-Modified": "Wed, 25 Nov 2026 01:46:26 GMT",
   "base": {
     "repo": {
       "name": "biome-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T01:44:46Z",
   "closed_by": null,
   "created_at": "2026-11-25T00:18:03Z",
   "draft": false,
   "e_tag": "\"fcc8fe6da9e8f3a7a0a72ece3a9fc91d328f892e8161f05fc7b7231f12b13d81\"",
   "head": {
-    "ref": "2.6.9_hea99f7"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/biome-feedstock/pull/76",
   "id": 5482641357,
   "labels": [],
-  "last_fetched": "2026-11-25T00:18:04.876323",
+  "last_fetched": "2026-11-25T01:46:35.356446",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T01:44:46Z",
   "number": 76,
-  "state": "open",
-  "updated_at": "2026-11-25T00:18:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T01:46:26Z"
 }

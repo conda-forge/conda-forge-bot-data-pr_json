@@ -1,29 +1,29 @@
 {
-  "ETag": "\"23ae79777baba93f997b89a5eec9a99e472b0bcdf36baa1b9d56545bf14219d7\"",
-  "Last-Modified": "Wed, 25 Nov 2026 13:25:34 GMT",
+  "ETag": "\"d3343d89cd5a908b791ce92f227c842be8ee3228f8964b2ca84821c59a5ffc19\"",
+  "Last-Modified": "Wed, 25 Nov 2026 13:43:52 GMT",
   "base": {
     "repo": {
       "name": "nxstools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T13:43:03Z",
   "closed_by": null,
   "created_at": "2026-11-25T13:23:58Z",
   "draft": false,
   "e_tag": "\"29c234d2fa2f28ad7febb2894142b07fe53c6186f73a95bc15cd0ba2094eb95b\"",
   "head": {
-    "ref": "4.73.0_h130cbb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nxstools-feedstock/pull/13",
   "id": 5492183663,
   "labels": [],
-  "last_fetched": "2026-11-25T13:31:45.390301",
+  "last_fetched": "2026-11-25T13:44:46.901645",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T13:43:03Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-25T13:25:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T13:43:52Z"
 }

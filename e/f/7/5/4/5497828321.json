@@ -1,4 +1,6 @@
 {
+  "ETag": "\"36ffcdae37a148c3f823940ce772dbc9d909c6514addad49e71750144735a644\"",
+  "Last-Modified": "Wed, 25 Nov 2026 20:54:41 GMT",
   "base": {
     "repo": {
       "name": "vale-ls-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/vale-ls-feedstock/pull/7",
   "id": 5497828321,
-  "labels": [],
-  "last_fetched": "2026-11-25T19:32:35.718387",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6419774038,
+      "name": "automerge",
+      "node_id": "LA_kwDOLDr6GM8AAAABfqX6Vg",
+      "url": "https://api.github.com/repos/conda-forge/vale-ls-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T20:55:05.239249",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 7,
   "state": "open",
-  "updated_at": "2026-11-25T19:32:34Z"
+  "updated_at": "2026-11-25T20:54:41Z"
 }

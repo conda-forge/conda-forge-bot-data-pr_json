@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b4111ce5218bd1babbe70039c11013dddfd88f3868d170e14b4cc9e33b359f54\"",
-  "Last-Modified": "Wed, 25 Nov 2026 04:30:40 GMT",
+  "ETag": "\"94a3623a1a53006db2a8f2a4a5f1d1d5a1c00042dadb353c6a1ef58397836574\"",
+  "Last-Modified": "Wed, 25 Nov 2026 09:03:47 GMT",
   "base": {
     "repo": {
       "name": "polars-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/polars-feedstock/pull/402",
   "id": 5484236858,
-  "labels": [],
-  "last_fetched": "2026-11-25T04:32:10.404682",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4209474539,
+      "name": "automerge",
+      "node_id": "LA_kwDOHds4WM7653vr",
+      "url": "https://api.github.com/repos/conda-forge/polars-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T09:05:04.627155",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 402,
   "state": "open",
-  "updated_at": "2026-11-25T04:30:40Z"
+  "updated_at": "2026-11-25T09:03:47Z"
 }

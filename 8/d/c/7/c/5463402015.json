@@ -1,29 +1,41 @@
 {
-  "ETag": "\"344a92256751fe84f907fabf01e43dd9be4d3ed9fa1a38363cf595d660bc5494\"",
-  "Last-Modified": "Tue, 24 Nov 2026 00:00:49 GMT",
+  "ETag": "\"a4968525d9c32a32a65eb3199fd3816d4976d566801751f0825538889414be5a\"",
+  "Last-Modified": "Tue, 24 Nov 2026 20:28:11 GMT",
   "base": {
     "repo": {
       "name": "sqlglot-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T20:28:07Z",
   "closed_by": null,
   "created_at": "2026-11-23T23:58:25Z",
   "draft": false,
   "e_tag": "\"2fcd3ebc99c5336b07b3f9b213fe048cdbb4d53a2326c65cfa3079357512df29\"",
   "head": {
-    "ref": "30.34.0_h08ba08"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sqlglot-feedstock/pull/604",
   "id": 5463402015,
-  "labels": [],
-  "last_fetched": "2026-11-24T01:00:34.544847",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3305933856,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwzMzA1OTMzODU2",
+      "url": "https://api.github.com/repos/conda-forge/sqlglot-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T00:39:32.810967",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T20:28:07Z",
   "number": 604,
-  "state": "open",
-  "updated_at": "2026-11-24T00:00:49Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T20:28:11Z"
 }

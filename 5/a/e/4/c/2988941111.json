@@ -1,12 +1,13 @@
 {
-  "ETag": "\"bd25771062584998e74ba1992fe82e1fb34f1cdf4fecc6a0060079f2da744319\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"f7cc212d264489f7bf6807e1a919f04c27f64ae08578d17fb2a09963e2da867c\"",
+  "Last-Modified": "Tue, 24 Nov 2026 15:34:26 GMT",
   "base": {
     "repo": {
       "name": "psf-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T15:34:26Z",
+  "closed_by": "goanpeca",
   "created_at": "2025-11-07T14:49:42Z",
   "draft": false,
   "e_tag": "\"93fe454c7245e4d22313e02924bc61d6d5adcffab7d65f7396bde39c10b30f86\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/psf-feedstock/pull/15",
   "id": 2988941111,
   "labels": [],
-  "last_fetched": "2026-11-23T03:59:24.367378",
+  "last_fetched": "2026-11-25T02:34:28.426902",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 15,
-  "state": "open",
-  "updated_at": "2025-11-07T14:51:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T15:34:26Z"
 }

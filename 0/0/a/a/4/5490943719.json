@@ -1,18 +1,18 @@
 {
-  "ETag": "\"52624e63cec9bb3628fd62b151286eabda3e3af707f6bc52de5007d36d19cdce\"",
-  "Last-Modified": "Wed, 25 Nov 2026 21:32:46 GMT",
+  "ETag": "\"ecb27eaff243446f8cf4aa0736f06669534ddacb95fbfbd9decbfac83510fa40\"",
+  "Last-Modified": "Wed, 25 Nov 2026 21:44:38 GMT",
   "base": {
     "repo": {
       "name": "orc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T21:44:35Z",
   "closed_by": null,
   "created_at": "2026-11-25T12:02:51Z",
   "draft": false,
   "e_tag": "\"02b4b2ba6722119c7d199d5dcd0899edb6457fffaab369cc93eba93ea451343d\"",
   "head": {
-    "ref": "bot-pr_arch_arm64_win_h3ceba5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/orc-feedstock/pull/105",
   "id": 5490943719,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/orc-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-25T21:34:23.938405",
+  "last_fetched": "2026-11-25T21:46:22.621071",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T21:44:35Z",
   "number": 105,
-  "state": "open",
-  "updated_at": "2026-11-25T21:32:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T21:44:38Z"
 }

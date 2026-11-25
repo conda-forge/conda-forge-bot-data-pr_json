@@ -1,27 +1,29 @@
 {
+  "ETag": "\"74867e9e728f200eb3410e852f31c1b6fb77fac0d5e71574b2a5913d594db329\"",
+  "Last-Modified": "Wed, 25 Nov 2026 13:08:16 GMT",
   "base": {
     "repo": {
       "name": "ansible-navigator-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T13:08:11Z",
   "closed_by": null,
   "created_at": "2026-11-25T13:06:06Z",
   "draft": false,
   "e_tag": "\"d4e033ef338406d0c80b6d516dbc7ac762b0905f1ef5349b3c8731c5559a506f\"",
   "head": {
-    "ref": "26.11.1_h167794"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ansible-navigator-feedstock/pull/5",
   "id": 5491900686,
   "labels": [],
-  "last_fetched": "2026-11-25T13:06:07.649123",
+  "last_fetched": "2026-11-25T13:09:46.457937",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T13:08:11Z",
   "number": 5,
-  "state": "open",
-  "updated_at": "2026-11-25T13:06:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T13:08:16Z"
 }

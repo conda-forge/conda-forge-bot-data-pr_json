@@ -1,6 +1,6 @@
 {
-  "ETag": "\"64a0246e6f4e4be4c262f666cd396b0a3fe411d013f9019f989a81f715640711\"",
-  "Last-Modified": "Wed, 25 Nov 2026 06:10:25 GMT",
+  "ETag": "\"c703eed02455b513d43205c02c67e522ffb369aa395f4317a1a0a2d28f0249ae\"",
+  "Last-Modified": "Wed, 25 Nov 2026 07:09:24 GMT",
   "base": {
     "repo": {
       "name": "imas-core-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/imas-core-feedstock/pull/12",
   "id": 5486150522,
-  "labels": [],
-  "last_fetched": "2026-11-25T06:57:56.482931",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 11194879268,
+      "name": "automerge",
+      "node_id": "LA_kwDOS2gtls8AAAACm0RNJA",
+      "url": "https://api.github.com/repos/conda-forge/imas-core-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T07:10:55.432304",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 12,
   "state": "open",
-  "updated_at": "2026-11-25T06:10:25Z"
+  "updated_at": "2026-11-25T07:09:24Z"
 }

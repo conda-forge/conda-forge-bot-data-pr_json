@@ -1,29 +1,29 @@
 {
-  "ETag": "\"710d80624f76f6d162ecf7f92e0b85a60a42080906bdb3a429ea01f570fe581c\"",
-  "Last-Modified": "Wed, 25 Nov 2026 00:29:52 GMT",
+  "ETag": "\"09a8a602d60289c9c76f4afcf23403b4e4038035523cc5b019e4925b7497f9fd\"",
+  "Last-Modified": "Wed, 25 Nov 2026 06:28:01 GMT",
   "base": {
     "repo": {
       "name": "raschpy-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T06:28:01Z",
   "closed_by": null,
   "created_at": "2026-11-25T00:28:16Z",
   "draft": false,
   "e_tag": "\"fae88eb470643a219a55288141de7e29e9f38a6fdbb36592d2120b88c510d998\"",
   "head": {
-    "ref": "2.0.0_h5e8d78"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/raschpy-feedstock/pull/6",
   "id": 5482741316,
   "labels": [],
-  "last_fetched": "2026-11-25T01:19:24.684297",
+  "last_fetched": "2026-11-25T06:29:38.295637",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T06:28:01Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-25T00:29:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T06:28:01Z"
 }

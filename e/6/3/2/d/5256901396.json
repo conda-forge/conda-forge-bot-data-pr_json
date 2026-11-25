@@ -1,18 +1,18 @@
 {
-  "ETag": "\"c61b322b36931f4463f542fe6a43f0062f6e9a8bf2d3af656864bc758cf0b69c\"",
-  "Last-Modified": "Wed, 25 Nov 2026 08:06:35 GMT",
+  "ETag": "\"787b985b90e0eca132cba267425f91ca0e12f6c6d3c5ab6cb3c405ad28220913\"",
+  "Last-Modified": "Wed, 25 Nov 2026 08:22:35 GMT",
   "base": {
     "repo": {
       "name": "icub-main-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T08:22:32Z",
   "closed_by": null,
   "created_at": "2026-11-11T09:20:14Z",
   "draft": false,
   "e_tag": "\"7c6a8b5481857f5a45f50ab336d2f3e000789d8d4cef800c4c6ef46702a88f9f\"",
   "head": {
-    "ref": "rebuild-ace807-0-1_h4d1e3c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/icub-main-feedstock/pull/60",
   "id": 5256901396,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/icub-main-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-25T08:07:04.495836",
+  "last_fetched": "2026-11-25T08:23:44.004747",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T08:22:32Z",
   "number": 60,
-  "state": "open",
-  "updated_at": "2026-11-25T08:06:35Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T08:22:35Z"
 }

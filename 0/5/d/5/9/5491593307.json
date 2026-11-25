@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e32851a8d9940f1d280b0c9993e2cb41eb86d26e990a945565a08de7553c13c6\"",
+  "Last-Modified": "Wed, 25 Nov 2026 12:50:44 GMT",
   "base": {
     "repo": {
       "name": "r-baguette-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T12:50:39Z",
   "closed_by": null,
   "created_at": "2026-11-25T12:46:04Z",
   "draft": false,
   "e_tag": "\"6e9511f3799c9d715eb2b0894b3938cd9759bd9ea6b64d325f1b814696296e9a\"",
   "head": {
-    "ref": "1.2.0_h0da9b1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/r-baguette-feedstock/pull/14",
   "id": 5491593307,
   "labels": [],
-  "last_fetched": "2026-11-25T12:46:05.514667",
+  "last_fetched": "2026-11-25T12:52:24.346364",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T12:50:39Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-25T12:46:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T12:50:44Z"
 }

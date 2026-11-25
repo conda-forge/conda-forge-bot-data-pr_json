@@ -1,29 +1,41 @@
 {
-  "ETag": "\"06ecd08d0b432ca1f51ee3d9aacae75e80882fa05fe8ec4d632a70b0427046e3\"",
-  "Last-Modified": "Mon, 23 Nov 2026 03:11:46 GMT",
+  "ETag": "\"e811d61b69b7950cd8f80888ee952168d4b6497a49b7f93a6e2dfd5e6d612b27\"",
+  "Last-Modified": "Wed, 25 Nov 2026 23:45:19 GMT",
   "base": {
     "repo": {
       "name": "dau-driver-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T23:45:15Z",
   "closed_by": null,
   "created_at": "2026-11-23T01:36:41Z",
   "draft": false,
   "e_tag": "\"316f7210f26135fefad705d9fbbd19852ac22aa9f03b2c9af5b044ecb66768d4\"",
   "head": {
-    "ref": "0.5.0_h141773"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dau-driver-feedstock/pull/7",
   "id": 5445605674,
-  "labels": [],
-  "last_fetched": "2026-11-23T04:22:14.345865",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12866298971,
+      "name": "automerge",
+      "node_id": "LA_kwDOVaPlfc8AAAAC_uQkWw",
+      "url": "https://api.github.com/repos/conda-forge/dau-driver-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T23:46:00.744770",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T23:45:15Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-23T03:11:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T23:45:19Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"3a9dec3c113252782bde55a8fe7b0e38efe8beebf54a505017f8fce21ced7e6a\"",
+  "Last-Modified": "Wed, 25 Nov 2026 01:45:36 GMT",
   "base": {
     "repo": {
       "name": "django-lasuite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T01:45:31Z",
   "closed_by": null,
   "created_at": "2026-11-25T01:43:28Z",
   "draft": false,
   "e_tag": "\"355dc0107132c9d4992ec78f5f29fdac94827924d2420b7537b4df7af5aa3ce8\"",
   "head": {
-    "ref": "1.1.0_h461d5b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/django-lasuite-feedstock/pull/9",
   "id": 5483494791,
   "labels": [],
-  "last_fetched": "2026-11-25T01:43:29.811420",
+  "last_fetched": "2026-11-25T01:46:51.320641",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-25T01:45:31Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-25T01:43:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T01:45:36Z"
 }

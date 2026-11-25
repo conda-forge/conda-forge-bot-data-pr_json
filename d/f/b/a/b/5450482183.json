@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3862b043e2cd151fc82422d050324efb6e4df14cb0bba8615bda4c2a64e8a86e\"",
-  "Last-Modified": "Mon, 23 Nov 2026 09:31:03 GMT",
+  "ETag": "\"fbd6b713d8030c5cc68912732e3f46fe4720244790ab0f481f07caeef5500c19\"",
+  "Last-Modified": "Wed, 25 Nov 2026 09:40:59 GMT",
   "base": {
     "repo": {
       "name": "libcrc32c-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T09:40:59Z",
   "closed_by": null,
   "created_at": "2026-11-23T09:29:34Z",
   "draft": false,
   "e_tag": "\"623a2bd065890c1c8fef54d974adc0351c7c2ccf0dcae18a9b5c3cd6f7dbb692\"",
   "head": {
-    "ref": "bot-pr_riscv64_h0a9623"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libcrc32c-feedstock/pull/8",
   "id": 5450482183,
   "labels": [],
-  "last_fetched": "2026-11-23T09:59:03.403792",
+  "last_fetched": "2026-11-25T09:42:29.073696",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T09:40:59Z",
   "number": 8,
-  "state": "open",
-  "updated_at": "2026-11-23T09:31:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T09:40:59Z"
 }

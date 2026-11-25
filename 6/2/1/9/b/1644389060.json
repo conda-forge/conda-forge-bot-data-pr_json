@@ -1,12 +1,13 @@
 {
-  "ETag": "\"73362ccf3aa9bb9e3debaea4cd50443436c08f20791bded536ca174f89f21435\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"046f710dd2233f742a417cf7b38e7cdca7c047302ba3b2b5d56f88621564fea4\"",
+  "Last-Modified": "Wed, 25 Nov 2026 13:22:16 GMT",
   "base": {
     "repo": {
       "name": "fast-cdr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T13:22:16Z",
+  "closed_by": "MiguelCompany",
   "created_at": "2023-12-14T15:10:11Z",
   "draft": false,
   "head": {
@@ -15,12 +16,12 @@
   "html_url": "https://github.com/conda-forge/fast-cdr-feedstock/pull/23",
   "id": 1644389060,
   "labels": [],
-  "last_fetched": "2026-11-22T22:09:29.155971",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "last_fetched": "2026-11-25T13:23:41.176775",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 23,
-  "state": "open",
-  "updated_at": "2023-12-14T15:10:21Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T13:22:16Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9646ac345287f9a711af49ef40925f586b4a6120e9f863b845e5d69a97a2834c\"",
-  "Last-Modified": "Wed, 25 Nov 2026 11:37:51 GMT",
+  "ETag": "\"d631b872ba91fe47e0ed61a3813f0a5ad96fe855107e0543cbafec4b575f3148\"",
+  "Last-Modified": "Wed, 25 Nov 2026 14:49:36 GMT",
   "base": {
     "repo": {
       "name": "bioio-conversion-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T14:49:36Z",
   "closed_by": null,
   "created_at": "2026-11-25T11:37:50Z",
   "draft": false,
   "e_tag": "\"e893074ebfc0371f50735fb349dcce3f1e458e4e03045f03049c3e2530208d0f\"",
   "head": {
-    "ref": "4.0.0_h8c68e4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bioio-conversion-feedstock/pull/16",
   "id": 5490588119,
   "labels": [],
-  "last_fetched": "2026-11-25T12:46:20.020927",
+  "last_fetched": "2026-11-25T14:50:59.587355",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T14:49:36Z",
   "number": 16,
-  "state": "open",
-  "updated_at": "2026-11-25T11:39:18Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T14:49:36Z"
 }

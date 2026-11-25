@@ -1,29 +1,29 @@
 {
-  "ETag": "\"295b1c88a8bb523ee7700a7105562a0a83de506dcd39c51f9a8a7ff5479fa8e7\"",
-  "Last-Modified": "Wed, 25 Nov 2026 03:56:27 GMT",
+  "ETag": "\"295a36f88a3c834d77fbd733f0cc1586c25d2f5efd92e8008167cb959620b549\"",
+  "Last-Modified": "Wed, 25 Nov 2026 08:37:55 GMT",
   "base": {
     "repo": {
       "name": "pyvmomi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T08:37:55Z",
   "closed_by": null,
   "created_at": "2026-11-25T03:54:44Z",
   "draft": false,
   "e_tag": "\"86c8de89f507eb19a864dbd174378b1d0bb9a61b59875bbefba2f0eeb73a447a\"",
   "head": {
-    "ref": "9.1.2.0_hc484e8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyvmomi-feedstock/pull/14",
   "id": 5484870653,
   "labels": [],
-  "last_fetched": "2026-11-25T04:34:02.237354",
+  "last_fetched": "2026-11-25T08:39:24.339737",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T08:37:55Z",
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-25T03:56:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T08:37:55Z"
 }

@@ -1,18 +1,18 @@
 {
-  "ETag": "W/\"e1f1b5087869ba25970698cce6e23ab25a8fc8d321d64ebc7cd45cdd0d744bcc\"",
-  "Last-Modified": "Wed, 25 Nov 2026 15:29:40 GMT",
+  "ETag": "\"589e81db0b3b14653417872d66b53808d96317bd75f178e09898a8e006ec8763\"",
+  "Last-Modified": "Wed, 25 Nov 2026 16:25:10 GMT",
   "base": {
     "repo": {
       "name": "libtiff-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T16:25:10Z",
   "closed_by": null,
   "created_at": "2026-11-25T15:26:14Z",
   "draft": false,
   "e_tag": "\"4c2d8e720b3af785345f50819fc30c08e5d234b27f71eb8a06d52b5671116512\"",
   "head": {
-    "ref": "rebuild-zstd16-0-1_hdfcbbf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libtiff-feedstock/pull/120",
   "id": 5494255238,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/libtiff-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-25T15:30:55.463192",
+  "last_fetched": "2026-11-25T16:27:05.401940",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T16:25:10Z",
   "number": 120,
-  "state": "open",
-  "updated_at": "2026-11-25T15:29:40Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T16:25:10Z"
 }

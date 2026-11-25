@@ -1,29 +1,41 @@
 {
-  "ETag": "\"e758c129f473143f8ab0765e7987560875be0507e6045525e51bc9c576ffcc66\"",
-  "Last-Modified": "Wed, 25 Nov 2026 20:14:44 GMT",
+  "ETag": "\"91d25bac1f5e9e4b1f13593b19b54a27685188249988d6fb41ba1821f8c4b4ac\"",
+  "Last-Modified": "Wed, 25 Nov 2026 22:24:04 GMT",
   "base": {
     "repo": {
       "name": "dau-scheduler-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T22:24:00Z",
   "closed_by": null,
   "created_at": "2026-11-25T20:13:17Z",
   "draft": false,
   "e_tag": "\"48651fb9d7ad64bf054609efebe904d9b883a2047b25544e4a22063bf17fc4df\"",
   "head": {
-    "ref": "0.5.0_h790276"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/dau-scheduler-feedstock/pull/4",
   "id": 5498425397,
-  "labels": [],
-  "last_fetched": "2026-11-25T21:28:12.600295",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 12866300532,
+      "name": "automerge",
+      "node_id": "LA_kwDOVaPmE88AAAAC_uQqdA",
+      "url": "https://api.github.com/repos/conda-forge/dau-scheduler-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T22:25:30.206805",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T22:24:00Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-25T20:14:44Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T22:24:04Z"
 }

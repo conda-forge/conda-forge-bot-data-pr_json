@@ -1,29 +1,41 @@
 {
-  "ETag": "\"cd6bd1d21c3b2aabd4b848654dd75ccc972c22137b22e00b3282d10f6a293e48\"",
-  "Last-Modified": "Mon, 23 Nov 2026 05:37:15 GMT",
+  "ETag": "\"a2754bdf98e5343f961b9401d25c3fcffb0dc0fd9c35acea39cab9c71b6660d2\"",
+  "Last-Modified": "Tue, 24 Nov 2026 20:26:03 GMT",
   "base": {
     "repo": {
       "name": "perspective-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-24T20:26:03Z",
   "closed_by": null,
   "created_at": "2026-11-23T05:35:46Z",
   "draft": false,
   "e_tag": "\"760ad5ccac7660af64f682e795e999a130db592953f461ca286b675c4f62f58d\"",
   "head": {
-    "ref": "5.10.0_h53db45"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/perspective-feedstock/pull/262",
   "id": 5447720261,
-  "labels": [],
-  "last_fetched": "2026-11-23T13:44:15.955766",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 2118291765,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwyMTE4MjkxNzY1",
+      "url": "https://api.github.com/repos/conda-forge/perspective-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T02:36:00.137293",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-24T20:26:03Z",
   "number": 262,
-  "state": "open",
-  "updated_at": "2026-11-23T05:37:15Z"
+  "state": "closed",
+  "updated_at": "2026-11-24T20:26:08Z"
 }

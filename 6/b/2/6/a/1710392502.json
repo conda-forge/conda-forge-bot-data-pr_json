@@ -1,12 +1,13 @@
 {
-  "ETag": "\"f706517e2aa150a7c90d31b6082262a7f789847e856320db8997ec152e51e49f\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "W/\"aff96db407a6d4739a08d4440add18ad88a7ed242a1b6d8fa469cff9295af6f5\"",
+  "Last-Modified": "Wed, 25 Nov 2026 06:08:12 GMT",
   "base": {
     "repo": {
       "name": "rocket-fft-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T06:08:12Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2024-02-04T13:42:35Z",
   "draft": false,
   "head": {
@@ -14,13 +15,25 @@
   },
   "html_url": "https://github.com/conda-forge/rocket-fft-feedstock/pull/2",
   "id": 1710392502,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:22:27.297606",
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 6305552523,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOK3o_es8AAAABd9cYiw",
+      "url": "https://api.github.com/repos/conda-forge/rocket-fft-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-25T06:08:16.017098",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 2,
-  "state": "open",
-  "updated_at": "2024-02-04T13:42:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T06:08:12Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"c1cc1afccf0d2e61a9d76edf5942833a38b6ff5fd908e2a5664f248902dff8d2\"",
-  "Last-Modified": "Wed, 25 Nov 2026 08:11:39 GMT",
+  "ETag": "\"494237190f616a92d00eb7360f02bd8270e0d78960db69698046a0ea78b89a6a\"",
+  "Last-Modified": "Wed, 25 Nov 2026 09:54:36 GMT",
   "base": {
     "repo": {
       "name": "cypari2-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-25T09:54:36Z",
   "closed_by": null,
   "created_at": "2026-11-25T08:09:58Z",
   "draft": false,
   "e_tag": "\"e31c82908f9a9d0a42b2ace3b857cd0f51198e0768faf6071ea90ea219cbfdca\"",
   "head": {
-    "ref": "rebuild-pari219-0-1_hb7fd1a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/cypari2-feedstock/pull/74",
   "id": 5487582343,
   "labels": [],
-  "last_fetched": "2026-11-25T08:34:05.001761",
+  "last_fetched": "2026-11-25T09:56:07.574750",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-25T09:54:36Z",
   "number": 74,
-  "state": "open",
-  "updated_at": "2026-11-25T08:11:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-25T09:54:36Z"
 }

@@ -1,4 +1,6 @@
 {
+  "ETag": "\"adbe6e3bd41e11485adab79cbe4d708a91f426025984592c79fea3cb8303c9c4\"",
+  "Last-Modified": "Wed, 25 Nov 2026 08:14:10 GMT",
   "base": {
     "repo": {
       "name": "pyobjcryst-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/pyobjcryst-feedstock/pull/57",
   "id": 5486696380,
-  "labels": [],
-  "last_fetched": "2026-11-25T06:56:08.117870",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891108051,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMTA4MDUx",
+      "url": "https://api.github.com/repos/conda-forge/pyobjcryst-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-25T08:14:47.084676",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 57,
   "state": "open",
-  "updated_at": "2026-11-25T06:56:07Z"
+  "updated_at": "2026-11-25T08:14:10Z"
 }

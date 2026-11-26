@@ -1,12 +1,13 @@
 {
-  "ETag": "W/\"35ce0dbd1b09df92e59dbd74f5084efd6744d5b2e4ecc021ea40d80ed97e539a\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"75979da20d6975d2964b8d958b2ea5709fc1bae8b57ec0cce8e2a1815c5b699e\"",
+  "Last-Modified": "Thu, 26 Nov 2026 17:30:06 GMT",
   "base": {
     "repo": {
       "name": "lbapcommon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T17:30:06Z",
+  "closed_by": "conda-forge-admin",
   "created_at": "2026-10-01T18:56:44Z",
   "draft": false,
   "e_tag": "\"a9f626588d22ead3289b50c023188863dbdb670262dc72f76894b1b77f823576\"",
@@ -16,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/lbapcommon-feedstock/pull/169",
   "id": 4708192391,
   "labels": [],
-  "last_fetched": "2026-11-23T02:15:52.409533",
+  "last_fetched": "2026-11-26T17:31:20.074117",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": null,
+  "mergeable_state": "unknown",
   "merged": false,
   "merged_at": null,
   "number": 169,
-  "state": "open",
-  "updated_at": "2026-10-01T18:56:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T17:30:06Z"
 }

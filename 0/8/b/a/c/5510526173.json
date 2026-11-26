@@ -1,4 +1,6 @@
 {
+  "ETag": "\"819d8dd632a03e9566d4ea9962622d9bc2c8dffa0b35c895911d250f341bec39\"",
+  "Last-Modified": "Thu, 26 Nov 2026 14:35:52 GMT",
   "base": {
     "repo": {
       "name": "jsonschema-rs-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/jsonschema-rs-feedstock/pull/86",
   "id": 5510526173,
-  "labels": [],
-  "last_fetched": "2026-11-26T13:03:40.481102",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8495933220,
+      "name": "automerge",
+      "node_id": "LA_kwDOOds1W88AAAAB-mWnJA",
+      "url": "https://api.github.com/repos/conda-forge/jsonschema-rs-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-26T14:37:08.407667",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 86,
   "state": "open",
-  "updated_at": "2026-11-26T13:03:39Z"
+  "updated_at": "2026-11-26T14:35:52Z"
 }

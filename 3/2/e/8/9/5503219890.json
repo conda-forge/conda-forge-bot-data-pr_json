@@ -1,29 +1,41 @@
 {
-  "ETag": "\"1ee29664c8944eb13df03f0c884a20dea5779ccb1944e0506ca8a3169302e4c1\"",
-  "Last-Modified": "Thu, 26 Nov 2026 03:03:29 GMT",
+  "ETag": "\"868af0b2f99fdb0b2b50f44370feb090e1f30592bba8b802a3c1f923b0483f52\"",
+  "Last-Modified": "Thu, 26 Nov 2026 18:09:54 GMT",
   "base": {
     "repo": {
       "name": "together-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T18:09:50Z",
   "closed_by": null,
   "created_at": "2026-11-26T03:03:28Z",
   "draft": false,
   "e_tag": "\"be5bdfc8736a29e76dff06949b98f23e9ca972b77e61665b3f0b95b2afb5ac31\"",
   "head": {
-    "ref": "3.5.0_h2babc0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/together-feedstock/pull/67",
   "id": 5503219890,
-  "labels": [],
-  "last_fetched": "2026-11-26T03:20:32.753486",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8947110744,
+      "name": "automerge",
+      "node_id": "LA_kwDOPM4kNM8AAAACFUoTWA",
+      "url": "https://api.github.com/repos/conda-forge/together-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-26T18:10:22.804858",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T18:09:50Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-11-26T03:05:02Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T18:09:54Z"
 }

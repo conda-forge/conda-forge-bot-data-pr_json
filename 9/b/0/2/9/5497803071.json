@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7c6182dda1a47e3d21969f2742bd6d174c39ef2c80f15a716446c4a0e947ee10\"",
-  "Last-Modified": "Wed, 25 Nov 2026 19:30:50 GMT",
+  "ETag": "\"1f84e5269b70781302a440a12f04737f43bd16874208b61174462ffaeb001410\"",
+  "Last-Modified": "Thu, 26 Nov 2026 09:40:46 GMT",
   "base": {
     "repo": {
       "name": "tor-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T09:40:46Z",
   "closed_by": null,
   "created_at": "2026-11-25T19:30:49Z",
   "draft": false,
   "e_tag": "\"e18b347a477c19c641b6a57852f4fbc48a41ee7c6634ca49289ca948bf28aae5\"",
   "head": {
-    "ref": "rebuild-zstd16-0-1_h557417"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tor-feedstock/pull/13",
   "id": 5497803071,
   "labels": [],
-  "last_fetched": "2026-11-25T23:16:29.744551",
+  "last_fetched": "2026-11-26T09:42:05.444074",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T09:40:46Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-25T19:32:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T09:40:46Z"
 }

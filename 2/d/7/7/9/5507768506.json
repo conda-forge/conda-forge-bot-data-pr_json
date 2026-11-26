@@ -1,27 +1,41 @@
 {
+  "ETag": "\"f141f90de8aba465308bbc7f42cf277c7f8b6f5172c5c01a030c9b58c5926cae\"",
+  "Last-Modified": "Thu, 26 Nov 2026 10:28:45 GMT",
   "base": {
     "repo": {
       "name": "backports.zstd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T10:28:22Z",
   "closed_by": null,
   "created_at": "2026-11-26T09:52:19Z",
   "draft": false,
   "e_tag": "\"e542fd08f79aef4bcd10746889589a5bac419f5eb16a74609fe452b272117a29\"",
   "head": {
-    "ref": "1.8.1_hb098c3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/backports.zstd-feedstock/pull/17",
   "id": 5507768506,
-  "labels": [],
-  "last_fetched": "2026-11-26T09:52:20.068153",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 9506773821,
+      "name": "automerge",
+      "node_id": "LA_kwDOQHJIvs8AAAACNqXbPQ",
+      "url": "https://api.github.com/repos/conda-forge/backports.zstd-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-26T10:28:53.330618",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T10:28:22Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-11-26T09:52:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T10:28:45Z"
 }

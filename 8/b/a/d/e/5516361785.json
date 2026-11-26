@@ -1,6 +1,6 @@
 {
-  "ETag": "\"c6b6106fe1990c1f21531705624fb5378f4990af8f3cc51d181cc349aeafccc1\"",
-  "Last-Modified": "Thu, 26 Nov 2026 19:58:46 GMT",
+  "ETag": "\"ecd0a54db7a1585027194ab12a8b90bf2d21b459b7c12d7895406cadae2e11e0\"",
+  "Last-Modified": "Thu, 26 Nov 2026 23:01:10 GMT",
   "base": {
     "repo": {
       "name": "enpt_enmapboxapp-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/enpt_enmapboxapp-feedstock/pull/27",
   "id": 5516361785,
-  "labels": [],
-  "last_fetched": "2026-11-26T20:58:53.301134",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5303385478,
+      "name": "automerge",
+      "node_id": "LA_kwDOJNgyYc8AAAABPBs9hg",
+      "url": "https://api.github.com/repos/conda-forge/enpt_enmapboxapp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-26T23:02:17.099339",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 27,
   "state": "open",
-  "updated_at": "2026-11-26T19:58:46Z"
+  "updated_at": "2026-11-26T23:01:10Z"
 }

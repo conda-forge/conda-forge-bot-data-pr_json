@@ -1,18 +1,18 @@
 {
-  "ETag": "\"c9f63a905905d2c9dc5ca3d9408d11c2384532b0ec0f3c58a88ed89d9b1b9138\"",
-  "Last-Modified": "Thu, 26 Nov 2026 18:39:22 GMT",
+  "ETag": "\"bb4e8665ae1169406ae83ee486bdfc5ed2f31c184809eb4597d011fa30798b1d\"",
+  "Last-Modified": "Thu, 26 Nov 2026 20:44:23 GMT",
   "base": {
     "repo": {
       "name": "gdal-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T20:44:19Z",
   "closed_by": null,
   "created_at": "2026-11-26T18:23:19Z",
   "draft": false,
   "e_tag": "\"6199fe8e8c1945ce205d3cf18d1bb98742667305da90926926fbcaa86c06ce45\"",
   "head": {
-    "ref": "rebuild-geos3151-0-1_hafd4b2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gdal-feedstock/pull/1265",
   "id": 5515221316,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/gdal-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-26T18:40:59.315541",
+  "last_fetched": "2026-11-26T20:45:25.118703",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T20:44:19Z",
   "number": 1265,
-  "state": "open",
-  "updated_at": "2026-11-26T18:39:22Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T20:44:23Z"
 }

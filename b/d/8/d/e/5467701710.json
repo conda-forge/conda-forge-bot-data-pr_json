@@ -1,18 +1,18 @@
 {
-  "ETag": "\"c70701bf87ca296fbdcec6b0f30756db7f9876b9d7a65abe57109d685f76c9ad\"",
-  "Last-Modified": "Thu, 26 Nov 2026 07:43:54 GMT",
+  "ETag": "\"752209dd92ee39141c98cc83534e751fa5c38a20b8528e14dfbd4916b263046d\"",
+  "Last-Modified": "Thu, 26 Nov 2026 09:03:52 GMT",
   "base": {
     "repo": {
       "name": "gz-sim-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T09:03:52Z",
   "closed_by": null,
   "created_at": "2026-11-24T07:06:17Z",
   "draft": false,
   "e_tag": "\"2a4d60083d9a672b8efa85906ed2aaa61ce548642fb42d6bda578f6164e4ff07\"",
   "head": {
-    "ref": "rebuild-absl_grpc_proto_26q4-0-1_habb972"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-sim-feedstock/pull/164",
   "id": 5467701710,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/gz-sim-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-26T07:45:25.090454",
+  "last_fetched": "2026-11-26T09:05:25.348019",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T09:03:52Z",
   "number": 164,
-  "state": "open",
-  "updated_at": "2026-11-26T07:43:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T09:03:52Z"
 }

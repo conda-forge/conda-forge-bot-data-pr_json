@@ -1,6 +1,6 @@
 {
-  "ETag": "\"85e724eb6ba3d5aa8c90e569d425eda11cb6ee2400c63d741051a062fc3fcd2c\"",
-  "Last-Modified": "Thu, 26 Nov 2026 07:48:35 GMT",
+  "ETag": "\"8262abe2e13abe78f60e0b1da08bb418d53bea0455562e78c85f3d3d098f3b38\"",
+  "Last-Modified": "Thu, 26 Nov 2026 17:05:36 GMT",
   "base": {
     "repo": {
       "name": "pangolin-opengl-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/pangolin-opengl-feedstock/pull/18",
   "id": 5506051729,
-  "labels": [],
-  "last_fetched": "2026-11-26T10:20:29.410296",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 7478371522,
+      "name": "automerge",
+      "node_id": "LA_kwDOMzGsnM8AAAABvb7kwg",
+      "url": "https://api.github.com/repos/conda-forge/pangolin-opengl-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-26T17:07:01.185855",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 18,
   "state": "open",
-  "updated_at": "2026-11-26T07:48:35Z"
+  "updated_at": "2026-11-26T17:05:36Z"
 }

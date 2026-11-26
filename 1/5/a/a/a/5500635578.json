@@ -1,13 +1,13 @@
 {
-  "ETag": "\"bab1592665a8ba4ac1c5b1aaef4ba6cd0e2fef46b2d660edf1edf6035ed82215\"",
-  "Last-Modified": "Wed, 25 Nov 2026 23:01:05 GMT",
+  "ETag": "W/\"8416a6149667509e0b583cbf0faa23debc424a2ba557b6bc1d191a7816b4da0e\"",
+  "Last-Modified": "Thu, 26 Nov 2026 10:22:19 GMT",
   "base": {
     "repo": {
       "name": "puma-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-26T10:22:19Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-25T22:59:28Z",
   "draft": false,
   "e_tag": "\"9cb6936a902a626a1ec75725d4cc7dfbc37c88ce36367caa3ddfac08b45d0cdc\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/puma-feedstock/pull/33",
   "id": 5500635578,
-  "labels": [],
-  "last_fetched": "2026-11-25T23:43:21.540523",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 3271886978,
+      "name": "bot-rerun",
+      "node_id": "MDU6TGFiZWwzMjcxODg2OTc4",
+      "url": "https://api.github.com/repos/conda-forge/puma-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-26T10:22:22.620276",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-25T23:01:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T10:22:19Z"
 }

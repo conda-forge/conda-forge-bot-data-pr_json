@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d10e60f146c19e4cd23d609e7201056b4d26bf7fb19ecb27829b0a72db337ec2\"",
-  "Last-Modified": "Thu, 26 Nov 2026 04:19:05 GMT",
+  "ETag": "\"b81627c541b3e1ca8a96e4421979e653da1ecc908adebbaee44a2629938b830b\"",
+  "Last-Modified": "Thu, 26 Nov 2026 04:32:18 GMT",
   "base": {
     "repo": {
       "name": "gz-gui-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T04:32:13Z",
   "closed_by": null,
   "created_at": "2026-11-26T04:17:37Z",
   "draft": false,
   "e_tag": "\"5270a15e6de1848a0997f758b4777132fd8cadbe0355b4941fac4eefc0c72136\"",
   "head": {
-    "ref": "10.2.0_h5e52c0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-gui-feedstock/pull/90",
   "id": 5503900117,
   "labels": [],
-  "last_fetched": "2026-11-26T04:21:26.827163",
+  "last_fetched": "2026-11-26T04:33:42.546468",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T04:32:13Z",
   "number": 90,
-  "state": "open",
-  "updated_at": "2026-11-26T04:19:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T04:32:18Z"
 }

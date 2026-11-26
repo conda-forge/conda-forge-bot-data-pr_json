@@ -1,11 +1,13 @@
 {
+  "ETag": "W/\"97275f83328227529285b9e254e4c87213d8968abd582c4c95a90e40e6f5add8\"",
+  "Last-Modified": "Thu, 26 Nov 2026 20:43:40 GMT",
   "base": {
     "repo": {
       "name": "felupe-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-26T20:43:40Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-26T17:13:28Z",
   "draft": false,
   "e_tag": "\"a7dc5ec608306dbd70c58002f8dc9bca1a2b4999caa4d1028924e78e24518784\"",
@@ -14,14 +16,18 @@
   },
   "html_url": "https://github.com/conda-forge/felupe-feedstock/pull/17",
   "id": 5514320037,
-  "labels": [],
-  "last_fetched": "2026-11-26T17:13:29.884540",
+  "labels": [
+    {
+      "name": "bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-26T20:43:43.249343",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-11-26T17:13:28Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T20:43:40Z"
 }

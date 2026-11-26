@@ -1,27 +1,29 @@
 {
+  "ETag": "\"75660b5db8634ded17d6d735840041187cfb00570fe455cb3764a622cb50b2f4\"",
+  "Last-Modified": "Thu, 26 Nov 2026 03:10:59 GMT",
   "base": {
     "repo": {
       "name": "rustywind-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T03:10:59Z",
   "closed_by": null,
   "created_at": "2026-11-26T03:04:54Z",
   "draft": false,
   "e_tag": "\"f394c26d2d518a6a775e54759cf172dcb49ed1c7ec4814ac689f0eb3a090608c\"",
   "head": {
-    "ref": "0.29.0_h2492ac"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rustywind-feedstock/pull/13",
   "id": 5503233401,
   "labels": [],
-  "last_fetched": "2026-11-26T03:04:55.522402",
+  "last_fetched": "2026-11-26T03:12:04.067316",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T03:10:59Z",
   "number": 13,
-  "state": "open",
-  "updated_at": "2026-11-26T03:04:54Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T03:11:04Z"
 }

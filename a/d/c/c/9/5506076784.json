@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5020c6c45cd56c5e282964c7cc9e43b331f76ad6c603f7e80edc85d05814e637\"",
-  "Last-Modified": "Thu, 26 Nov 2026 08:49:45 GMT",
+  "ETag": "\"01b3e865126c0d1297588d89fe73e747c6496fa4aa40dcfbb57325ffd088bf3c\"",
+  "Last-Modified": "Thu, 26 Nov 2026 12:56:53 GMT",
   "base": {
     "repo": {
       "name": "visp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T12:56:53Z",
   "closed_by": null,
   "created_at": "2026-11-26T07:49:10Z",
   "draft": false,
   "e_tag": "\"0310151a6fa183a559dddcfe4690e60a319374ccee18929e1cb6294fc2df1b17\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h331854"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/visp-feedstock/pull/54",
   "id": 5506076784,
   "labels": [],
-  "last_fetched": "2026-11-26T10:43:22.927725",
+  "last_fetched": "2026-11-26T12:58:26.830850",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T12:56:53Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-26T08:49:45Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T12:56:53Z"
 }

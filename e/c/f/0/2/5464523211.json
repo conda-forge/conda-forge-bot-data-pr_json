@@ -1,6 +1,6 @@
 {
-  "ETag": "\"43379f595dc3649a743e6fe2648d7dad70f314b153d06952626a14c468bbd79e\"",
-  "Last-Modified": "Tue, 24 Nov 2026 01:49:43 GMT",
+  "ETag": "\"eeeeb2c91d209d71aec70db7e916da56a5cf786e08e5d504188ade0290868d90\"",
+  "Last-Modified": "Thu, 26 Nov 2026 17:08:20 GMT",
   "base": {
     "repo": {
       "name": "ocaml-lwt-split-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/ocaml-lwt-split-feedstock/pull/7",
   "id": 5464523211,
-  "labels": [],
-  "last_fetched": "2026-11-24T02:34:25.254360",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 13144842088,
+      "name": "automerge",
+      "node_id": "LA_kwDOV0W7Cc8AAAADD35faA",
+      "url": "https://api.github.com/repos/conda-forge/ocaml-lwt-split-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-26T17:09:55.671435",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 7,
   "state": "open",
-  "updated_at": "2026-11-24T01:49:43Z"
+  "updated_at": "2026-11-26T17:08:20Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"7737422f7fea0d8a88e5db7cffc4870b8026685f057286675b70f6e252f62076\"",
-  "Last-Modified": "Thu, 26 Nov 2026 16:56:08 GMT",
+  "ETag": "\"6fb660200038154b129a444e26ad15442e96699f37f6adedc817ba01f0aa52a8\"",
+  "Last-Modified": "Thu, 26 Nov 2026 17:33:06 GMT",
   "base": {
     "repo": {
       "name": "newton-feedstock"
@@ -16,20 +16,8 @@
   },
   "html_url": "https://github.com/conda-forge/newton-feedstock/pull/13",
   "id": 5268214531,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 10449932352,
-      "name": "automerge",
-      "node_id": "LA_kwDORpWfXM8AAAACbt1QQA",
-      "url": "https://api.github.com/repos/conda-forge/newton-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-11-26T16:56:41.693059",
+  "labels": [],
+  "last_fetched": "2026-11-26T20:19:10.761449",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -37,5 +25,5 @@
   "merged_at": null,
   "number": 13,
   "state": "open",
-  "updated_at": "2026-11-26T16:56:08Z"
+  "updated_at": "2026-11-26T17:33:06Z"
 }

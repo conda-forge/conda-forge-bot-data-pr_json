@@ -1,27 +1,29 @@
 {
+  "ETag": "\"bf606ff8ce3e7ec6f9dde63a48876977f987ece8889fc34d7667037d364f8c33\"",
+  "Last-Modified": "Thu, 26 Nov 2026 21:03:59 GMT",
   "base": {
     "repo": {
       "name": "mhr-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T21:03:54Z",
   "closed_by": null,
   "created_at": "2026-11-26T21:01:26Z",
   "draft": false,
   "e_tag": "\"c3b50420adcf0ed57a12d509790b6b9cbe1cde85d1c453497a1af03a6ac1857d\"",
   "head": {
-    "ref": "1.2.2_h5fc742"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mhr-feedstock/pull/12",
   "id": 5517086842,
   "labels": [],
-  "last_fetched": "2026-11-26T21:01:27.225283",
+  "last_fetched": "2026-11-26T21:05:15.568776",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T21:03:54Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-26T21:01:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T21:03:59Z"
 }

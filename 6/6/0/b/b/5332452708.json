@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bdf4c8d07356501a3755ec45c247b8c0785e4e724d98e6d202b7c2a3833c113f\"",
-  "Last-Modified": "Thu, 26 Nov 2026 07:48:55 GMT",
+  "ETag": "\"27403e49db3ea9e303b9e3b4099bccae2c3a32c0c012399dff9f7a7be51f6926\"",
+  "Last-Modified": "Thu, 26 Nov 2026 22:53:06 GMT",
   "base": {
     "repo": {
       "name": "coverage-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T22:53:06Z",
   "closed_by": null,
   "created_at": "2026-11-16T06:47:43Z",
   "draft": false,
   "e_tag": "\"75a0d62aae29bd5681478c39e41fa0acd07dee1746ee76119ec630f41a2ea511\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hb88e46"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/coverage-feedstock/pull/185",
   "id": 5332452708,
   "labels": [],
-  "last_fetched": "2026-11-26T12:38:56.333398",
+  "last_fetched": "2026-11-26T22:54:43.292309",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T22:53:06Z",
   "number": 185,
-  "state": "open",
-  "updated_at": "2026-11-26T07:48:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T22:53:06Z"
 }

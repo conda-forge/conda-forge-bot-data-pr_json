@@ -1,29 +1,29 @@
 {
-  "ETag": "\"d457d5f538327a95dd708bbe07e478d0232e2821dd85c7abcd61eb4e265d1c99\"",
-  "Last-Modified": "Thu, 26 Nov 2026 05:42:04 GMT",
+  "ETag": "\"71a9eb92132f80cd356154950504a59465b4105cdccb801ee8ccd20f9835be6c\"",
+  "Last-Modified": "Thu, 26 Nov 2026 15:25:01 GMT",
   "base": {
     "repo": {
       "name": "minizip-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T15:25:01Z",
   "closed_by": null,
   "created_at": "2026-11-26T05:40:37Z",
   "draft": false,
   "e_tag": "\"170389b63bfb7e2474727534c328996bf8b195dd876998d6739a8b1257e441db\"",
   "head": {
-    "ref": "rebuild-zstd16-0-1_he92376"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/minizip-feedstock/pull/33",
   "id": 5504678684,
   "labels": [],
-  "last_fetched": "2026-11-26T05:57:14.033320",
+  "last_fetched": "2026-11-26T15:26:48.746893",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T15:25:01Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-26T05:42:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T15:25:01Z"
 }

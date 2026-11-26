@@ -1,29 +1,29 @@
 {
-  "ETag": "W/\"4732a7219901d1907272119aa615ca4c57f6508044a30e7763c0d67510df1be5\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"e3a5f4fef88bccf83274bab3f518b18e3bcc97bedcf2a554a7f73e98ba92207e\"",
+  "Last-Modified": "Thu, 26 Nov 2026 00:22:50 GMT",
   "base": {
     "repo": {
       "name": "pygfnff-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T00:22:50Z",
   "closed_by": null,
   "created_at": "2026-11-19T10:51:06Z",
   "draft": false,
   "e_tag": "\"2826cbab44baa702196a9ee744425f39a761ee444d576c8f3fab7f63517e70e9\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h85fa9e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pygfnff-feedstock/pull/1",
   "id": 5393456729,
   "labels": [],
-  "last_fetched": "2026-11-22T22:48:36.375986",
+  "last_fetched": "2026-11-26T00:23:53.881717",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T00:22:50Z",
   "number": 1,
-  "state": "open",
-  "updated_at": "2026-11-19T10:52:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T00:22:50Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"4a14955b6c87060867efc4814eaa125ed2cfff92589f53f7574e57ef03f07bd3\"",
-  "Last-Modified": "Wed, 25 Nov 2026 20:05:42 GMT",
+  "ETag": "\"15e99b6983dd3f5174cee83497b4edaf55376e20a6ced709961f79bb1407b27d\"",
+  "Last-Modified": "Thu, 26 Nov 2026 11:17:17 GMT",
   "base": {
     "repo": {
       "name": "zed-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/zed-feedstock/pull/205",
   "id": 5497008368,
-  "labels": [],
-  "last_fetched": "2026-11-25T20:28:45.800893",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 8931278048,
+      "name": "automerge",
+      "node_id": "LA_kwDOPLOqPM8AAAACFFh84A",
+      "url": "https://api.github.com/repos/conda-forge/zed-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-26T11:19:38.630438",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 205,
   "state": "open",
-  "updated_at": "2026-11-25T20:05:42Z"
+  "updated_at": "2026-11-26T11:17:17Z"
 }

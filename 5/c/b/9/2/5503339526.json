@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6e8524a962655fc369ffa67f064ed1a3daf054393a2718c7ae3f67b585a6792a\"",
-  "Last-Modified": "Thu, 26 Nov 2026 03:17:20 GMT",
+  "ETag": "\"c39181ec2374e4a805d4713f82b737ea2f182145d02a8ff92f9e42b5cce77885\"",
+  "Last-Modified": "Thu, 26 Nov 2026 06:27:17 GMT",
   "base": {
     "repo": {
       "name": "zchunk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T06:27:17Z",
   "closed_by": null,
   "created_at": "2026-11-26T03:15:41Z",
   "draft": false,
   "e_tag": "\"351bd06612fcf78b645db28849e90fe206ee9b529ff0d2823cb08b652964358b\"",
   "head": {
-    "ref": "rebuild-zstd16-0-1_hc6a780"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/zchunk-feedstock/pull/30",
   "id": 5503339526,
   "labels": [],
-  "last_fetched": "2026-11-26T03:42:51.201265",
+  "last_fetched": "2026-11-26T06:28:22.406589",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T06:27:17Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-26T03:17:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T06:27:17Z"
 }

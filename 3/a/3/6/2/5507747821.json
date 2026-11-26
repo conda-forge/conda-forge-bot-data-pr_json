@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a26b74e0dbb0c808583c1cb74c4ee6a47ea1b65dcdf3937a659ff4d258994ea1\"",
+  "Last-Modified": "Thu, 26 Nov 2026 09:58:42 GMT",
   "base": {
     "repo": {
       "name": "gz-fuel-tools-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T09:58:37Z",
   "closed_by": null,
   "created_at": "2026-11-26T09:50:50Z",
   "draft": false,
   "e_tag": "\"06e202b3ed63e2968d17a83e0d1f34ffce3b83ab4efe5ca97a14284317349c0f\"",
   "head": {
-    "ref": "11.0.1_h1f8257"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gz-fuel-tools-feedstock/pull/84",
   "id": 5507747821,
   "labels": [],
-  "last_fetched": "2026-11-26T09:50:51.277962",
+  "last_fetched": "2026-11-26T10:00:11.252605",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T09:58:37Z",
   "number": 84,
-  "state": "open",
-  "updated_at": "2026-11-26T09:50:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T09:58:42Z"
 }

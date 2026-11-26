@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e431fa9d3ea96befd02456327b1c082755513efb69b7f31b547fef3c90071214\"",
+  "Last-Modified": "Thu, 26 Nov 2026 00:27:08 GMT",
   "base": {
     "repo": {
       "name": "libspatialite-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T00:27:08Z",
   "closed_by": null,
   "created_at": "2026-11-26T00:04:53Z",
   "draft": false,
   "e_tag": "\"fec2b0a473886766357a9948dadb82f6ea7c6f0d515f29c44c8353297fd777b4\"",
   "head": {
-    "ref": "rebuild-geos3151-0-1_h088457"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libspatialite-feedstock/pull/128",
   "id": 5501383931,
   "labels": [],
-  "last_fetched": "2026-11-26T00:04:54.770621",
+  "last_fetched": "2026-11-26T00:28:43.651411",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T00:27:08Z",
   "number": 128,
-  "state": "open",
-  "updated_at": "2026-11-26T00:04:53Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T00:27:08Z"
 }

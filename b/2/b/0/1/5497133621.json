@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f19fd25fe419860e1ccd750bb1b337c7c91d4f257d9785223593d2465f96a07f\"",
-  "Last-Modified": "Thu, 26 Nov 2026 13:57:14 GMT",
+  "ETag": "\"50f2e32b57392db1bc7e1acba0665953e7976a374195c399b8e92e239c3a8a28\"",
+  "Last-Modified": "Thu, 26 Nov 2026 14:49:37 GMT",
   "base": {
     "repo": {
       "name": "datavzrd-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T14:49:33Z",
   "closed_by": null,
   "created_at": "2026-11-25T18:44:11Z",
   "draft": false,
   "e_tag": "\"0b0972c8da0109f40c29b8c2ec333ae6d4dd4fb97881f2abafa3bffe50f658bc\"",
   "head": {
-    "ref": "2.80.1_h198f1f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/datavzrd-feedstock/pull/281",
   "id": 5497133621,
   "labels": [],
-  "last_fetched": "2026-11-26T13:58:25.850121",
+  "last_fetched": "2026-11-26T14:51:03.845306",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T14:49:33Z",
   "number": 281,
-  "state": "open",
-  "updated_at": "2026-11-26T13:57:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T14:49:37Z"
 }

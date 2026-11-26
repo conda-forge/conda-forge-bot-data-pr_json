@@ -1,29 +1,29 @@
 {
-  "ETag": "\"11cc079765c98eff53a65d7f831df4d66ec9a5616bdf470e0d190b8fc4407dfe\"",
-  "Last-Modified": "Wed, 25 Nov 2026 09:08:47 GMT",
+  "ETag": "\"ac2dc0c562e9f278c77885430d55b1db66cbc15f6b4794c11843648d8cd65bcc\"",
+  "Last-Modified": "Thu, 26 Nov 2026 22:58:32 GMT",
   "base": {
     "repo": {
       "name": "drawpyo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T22:57:34Z",
   "closed_by": null,
   "created_at": "2026-11-25T09:07:10Z",
   "draft": false,
   "e_tag": "\"dd6340643496bd2d8718a503671878d0fdbca71a8fbe0a0c311161f376b66e37\"",
   "head": {
-    "ref": "0.3.0_h1809d6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/drawpyo-feedstock/pull/10",
   "id": 5488328669,
   "labels": [],
-  "last_fetched": "2026-11-25T09:44:53.323061",
+  "last_fetched": "2026-11-26T22:58:49.496105",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T22:57:34Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-25T09:08:47Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T22:58:32Z"
 }

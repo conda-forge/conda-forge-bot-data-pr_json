@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fe9afbe1ed5d84bbedcad62941400491ad276ce17af8829c070ff24be89be568\"",
-  "Last-Modified": "Wed, 25 Nov 2026 08:36:38 GMT",
+  "ETag": "\"50b397529b33a30074f558c4c292c7f995c51646c650c0839dfb1f74aa3deb43\"",
+  "Last-Modified": "Thu, 26 Nov 2026 18:08:10 GMT",
   "base": {
     "repo": {
       "name": "moonrepo-moon-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T18:08:10Z",
   "closed_by": null,
   "created_at": "2026-11-25T07:46:22Z",
   "draft": false,
   "e_tag": "\"63bb684adfb67b26023afe7f9c052bbcd34065d820b46a29793f8cbecb4bec5e\"",
   "head": {
-    "ref": "2.6.6_h90b625"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/moonrepo-moon-feedstock/pull/110",
   "id": 5487287964,
   "labels": [],
-  "last_fetched": "2026-11-25T10:19:29.571808",
+  "last_fetched": "2026-11-26T18:09:34.573493",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T18:08:10Z",
   "number": 110,
-  "state": "open",
-  "updated_at": "2026-11-25T08:36:38Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T18:08:10Z"
 }

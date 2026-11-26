@@ -1,27 +1,29 @@
 {
+  "ETag": "\"42065fa914a255de3212914acb032a40e77610abc4bd77f668336b2a31e0f3cc\"",
+  "Last-Modified": "Thu, 26 Nov 2026 21:08:32 GMT",
   "base": {
     "repo": {
       "name": "rumdl-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T21:08:28Z",
   "closed_by": null,
   "created_at": "2026-11-26T20:44:37Z",
   "draft": false,
   "e_tag": "\"315db6ce86f48fea227c3bf66934c4b68bb3891d4d64f2104b4c2d87b0f0682c\"",
   "head": {
-    "ref": "0.3.7_h9b1116"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rumdl-feedstock/pull/21",
   "id": 5516904938,
   "labels": [],
-  "last_fetched": "2026-11-26T20:44:38.623010",
+  "last_fetched": "2026-11-26T21:09:56.681058",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T21:08:28Z",
   "number": 21,
-  "state": "open",
-  "updated_at": "2026-11-26T20:44:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T21:08:32Z"
 }

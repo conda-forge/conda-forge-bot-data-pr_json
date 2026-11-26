@@ -1,12 +1,13 @@
 {
-  "ETag": "\"1c2f1fe6d39af5284ae844281d2e0367a8e7ee3b3b3ab1bf5d8b3cca7e9d9084\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "W/\"c0305d34fd2a713d13d3fb189b336d481bdd7f62c04f607c9f0f0f0850b07bf2\"",
+  "Last-Modified": "Thu, 26 Nov 2026 22:15:44 GMT",
   "base": {
     "repo": {
       "name": "usd-exchange-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T22:15:44Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-10-07T21:23:54Z",
   "draft": false,
   "e_tag": "\"680dbba304fdb83ce1aa0b22f22e981e83e541ba9bfbdce4fbcb983e48df2bf3\"",
@@ -15,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/usd-exchange-feedstock/pull/14",
   "id": 4778659770,
-  "labels": [],
-  "last_fetched": "2026-11-23T01:50:17.779896",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 10450294379,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDORpY59s8AAAACbuLWaw",
+      "url": "https://api.github.com/repos/conda-forge/usd-exchange-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-26T22:15:47.650862",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-12T17:06:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T22:15:44Z"
 }

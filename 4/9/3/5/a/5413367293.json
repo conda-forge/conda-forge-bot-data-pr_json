@@ -1,29 +1,29 @@
 {
-  "ETag": "\"19ff0ab7cf1cfa2dd2df1b46d56b431c42c90dfff1cdac875b0b95f32acdcc4c\"",
-  "Last-Modified": "Thu, 26 Nov 2026 10:14:42 GMT",
+  "ETag": "\"8951ec8c0c5bf0112016f1afc83810cb4277d16874de170633e1e9527fba09bf\"",
+  "Last-Modified": "Thu, 26 Nov 2026 13:07:30 GMT",
   "base": {
     "repo": {
       "name": "multispline-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T13:07:29Z",
   "closed_by": null,
   "created_at": "2026-11-20T12:32:12Z",
   "draft": false,
   "e_tag": "\"283b63fd3e6a83c721b656ab055538ff80517869f6f6fae21da98fac1ae77fa1\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h0c611b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/multispline-feedstock/pull/17",
   "id": 5413367293,
   "labels": [],
-  "last_fetched": "2026-11-26T10:16:11.608871",
+  "last_fetched": "2026-11-26T13:09:05.257357",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T13:07:29Z",
   "number": 17,
-  "state": "open",
-  "updated_at": "2026-11-26T10:14:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T13:07:30Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "\"8f08fc8ded944323262fe7113c1aa4bc062a20c372b6a6acd8d76461a4a916d6\"",
-  "Last-Modified": "Wed, 25 Nov 2026 20:56:57 GMT",
+  "ETag": "\"2503b82f5b949714859ade9c0754442b02ea6e53f479840b678434eef9925fd7\"",
+  "Last-Modified": "Thu, 26 Nov 2026 14:59:52 GMT",
   "base": {
     "repo": {
       "name": "glab-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/glab-feedstock/pull/157",
   "id": 5496053493,
-  "labels": [],
-  "last_fetched": "2026-11-25T20:58:21.876311",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 5099838207,
+      "name": "automerge",
+      "node_id": "LA_kwDOI4EgvM8AAAABL_la_w",
+      "url": "https://api.github.com/repos/conda-forge/glab-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-26T15:01:24.078650",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 157,
   "state": "open",
-  "updated_at": "2026-11-25T20:56:57Z"
+  "updated_at": "2026-11-26T14:59:52Z"
 }

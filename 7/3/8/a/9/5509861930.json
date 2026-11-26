@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1bb2fd55bf6afcdb7d2c7c67f4164e31c73d604531dc55323f4a9c4769b9bd5c\"",
+  "Last-Modified": "Thu, 26 Nov 2026 12:19:34 GMT",
   "base": {
     "repo": {
       "name": "nxselector-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T12:19:34Z",
   "closed_by": null,
   "created_at": "2026-11-26T12:16:46Z",
   "draft": false,
   "e_tag": "\"73c821702ea24f5482d5fe5b72eaac232ab7039884aba6d4da7655c2dcfbe0b0\"",
   "head": {
-    "ref": "3.27.0_hf79565"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/nxselector-feedstock/pull/2",
   "id": 5509861930,
   "labels": [],
-  "last_fetched": "2026-11-26T12:16:47.345769",
+  "last_fetched": "2026-11-26T12:21:12.494310",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T12:19:34Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-26T12:16:46Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T12:19:34Z"
 }

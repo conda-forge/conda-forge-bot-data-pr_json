@@ -1,27 +1,29 @@
 {
+  "ETag": "\"e9e6bf07e58a3818ebde5df7a18e1e8470e316e5498d6a403b60e746e70f7f46\"",
+  "Last-Modified": "Thu, 26 Nov 2026 20:12:08 GMT",
   "base": {
     "repo": {
       "name": "foundry-platform-sdk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T20:12:04Z",
   "closed_by": null,
   "created_at": "2026-11-26T20:08:27Z",
   "draft": false,
   "e_tag": "\"1a6523766c1a7fcd033ebe00c4eafaf69aaffd9de1fa4577d9b87e4936906ab9\"",
   "head": {
-    "ref": "1.113.0_hb61e79"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/foundry-platform-sdk-feedstock/pull/270",
   "id": 5516498640,
   "labels": [],
-  "last_fetched": "2026-11-26T20:08:28.507586",
+  "last_fetched": "2026-11-26T20:13:13.637046",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T20:12:04Z",
   "number": 270,
-  "state": "open",
-  "updated_at": "2026-11-26T20:08:27Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T20:12:08Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"829c9b764b2e82079989a99e1a85d3d3dd04d8d156f73ff54efa5a8fe8342f11\"",
+  "Last-Modified": "Thu, 26 Nov 2026 20:12:08 GMT",
   "base": {
     "repo": {
       "name": "imgui-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T20:12:08Z",
   "closed_by": null,
   "created_at": "2026-11-26T20:05:36Z",
   "draft": false,
   "e_tag": "\"e1d36d9e2cbd71a331ba2dcbd1b81cbc7f8cd672bc9faff563dc2bed5ebc34d2\"",
   "head": {
-    "ref": "1.93.1_hb6dcad"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/imgui-feedstock/pull/37",
   "id": 5516464699,
   "labels": [],
-  "last_fetched": "2026-11-26T20:05:37.980665",
+  "last_fetched": "2026-11-26T20:13:48.275837",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T20:12:08Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-11-26T20:05:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T20:12:08Z"
 }

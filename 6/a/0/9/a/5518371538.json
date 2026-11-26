@@ -1,27 +1,29 @@
 {
+  "ETag": "\"11dff3e667f3658ef3186d5a28cc5c57a4af0d04485da8b3a46bb320de53e64e\"",
+  "Last-Modified": "Thu, 26 Nov 2026 23:13:35 GMT",
   "base": {
     "repo": {
       "name": "jjui-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T23:13:31Z",
   "closed_by": null,
   "created_at": "2026-11-26T23:08:42Z",
   "draft": false,
   "e_tag": "\"160daa0ba282dade5565a2589553d385f9a6e82aca7ba03663fa57bd809aa68e\"",
   "head": {
-    "ref": "0.10.14_hc8395c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/jjui-feedstock/pull/30",
   "id": 5518371538,
   "labels": [],
-  "last_fetched": "2026-11-26T23:08:43.820749",
+  "last_fetched": "2026-11-26T23:15:02.283673",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T23:13:31Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-26T23:08:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T23:13:35Z"
 }

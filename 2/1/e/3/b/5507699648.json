@@ -1,27 +1,29 @@
 {
+  "ETag": "\"d46772f11cd4d13d9c17dbb3ffe990ac6f36465f478cb1dbf1dbf2b44066d1eb\"",
+  "Last-Modified": "Thu, 26 Nov 2026 09:49:30 GMT",
   "base": {
     "repo": {
       "name": "linkedin-scraper-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T09:49:30Z",
   "closed_by": null,
   "created_at": "2026-11-26T09:47:39Z",
   "draft": false,
   "e_tag": "\"d3d7b62e5244a68cdc51f2048d0629eb36c09c2d2066d45b87bc9cb296c269b7\"",
   "head": {
-    "ref": "3.1.3_hd9fb8d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/linkedin-scraper-feedstock/pull/19",
   "id": 5507699648,
   "labels": [],
-  "last_fetched": "2026-11-26T09:47:41.028548",
+  "last_fetched": "2026-11-26T09:51:02.754619",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-26T09:49:29Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-11-26T09:47:39Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T09:49:34Z"
 }

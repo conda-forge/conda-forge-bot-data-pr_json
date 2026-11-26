@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bd57b24f6eecd8a5a6d53cba2249580abf6dc064a3dbbef7cf39f7f1dc5dbde6\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"aea5b6af53ee67139e5d9a88afda97f6f95ed216decf56c574a8991f398044d0\"",
+  "Last-Modified": "Thu, 26 Nov 2026 14:12:46 GMT",
   "base": {
     "repo": {
       "name": "bokeh-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-26T14:12:46Z",
   "closed_by": null,
   "created_at": "2026-11-06T00:02:29Z",
   "draft": false,
   "e_tag": "\"ec4e46296e8af1d3cdf7fbf7504f8231bb8fbf1ab41b3499591c6a948da2b424\"",
   "head": {
-    "ref": "3.10.2_h4c6bcf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/bokeh-feedstock/pull/129",
   "id": 5180601611,
   "labels": [],
-  "last_fetched": "2026-11-23T04:51:25.823003",
+  "last_fetched": "2026-11-26T14:14:17.406016",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-26T14:12:46Z",
   "number": 129,
-  "state": "open",
-  "updated_at": "2026-11-06T00:04:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-26T14:12:46Z"
 }

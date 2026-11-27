@@ -1,41 +1,29 @@
 {
-  "ETag": "\"828332ecfc1572e58b7aabbaf0d65351e7463126d7ac6aa25990e69dab16973a\"",
-  "Last-Modified": "Fri, 27 Nov 2026 11:13:57 GMT",
+  "ETag": "\"4ce107db4d328dc3bdeed2b194b9e78e3584cf9e8ab4c9d023a97da7269511d0\"",
+  "Last-Modified": "Fri, 27 Nov 2026 12:05:13 GMT",
   "base": {
     "repo": {
       "name": "sqlean.py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T12:05:13Z",
   "closed_by": null,
   "created_at": "2026-11-27T02:52:41Z",
   "draft": false,
   "e_tag": "\"3ec66990c5d0efc4960cf2e3a3c102ed85659717a21c0af3a137585ae8d15400\"",
   "head": {
-    "ref": "3.54.1.0_h8b3753"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/sqlean.py-feedstock/pull/24",
   "id": 5520355090,
-  "labels": [
-    {
-      "archived_at": null,
-      "archived_by": null,
-      "color": "0e8a16",
-      "default": false,
-      "description": "Merge the PR when CI passes",
-      "id": 6861705635,
-      "name": "automerge",
-      "node_id": "LA_kwDOLyN1W88AAAABmP1Row",
-      "url": "https://api.github.com/repos/conda-forge/sqlean.py-feedstock/labels/automerge"
-    }
-  ],
-  "last_fetched": "2026-11-27T11:15:09.640725",
+  "labels": [],
+  "last_fetched": "2026-11-27T12:06:47.564449",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T12:05:13Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-11-27T11:13:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T12:05:13Z"
 }

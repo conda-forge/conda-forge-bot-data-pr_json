@@ -1,6 +1,6 @@
 {
-  "ETag": "\"d9e1c0fce15a271399d2aef691ae1a079a1a422c154710c74995897356e5dfc1\"",
-  "Last-Modified": "Thu, 26 Nov 2026 07:24:04 GMT",
+  "ETag": "\"517823e078c98ab0df131588e3e7a0c060d06cdb32e14774bf657afc7859637a\"",
+  "Last-Modified": "Fri, 27 Nov 2026 20:33:21 GMT",
   "base": {
     "repo": {
       "name": "python-blosc2-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/python-blosc2-feedstock/pull/123",
   "id": 5505767682,
-  "labels": [],
-  "last_fetched": "2026-11-26T08:58:17.579121",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6225303471,
+      "name": "automerge",
+      "node_id": "LA_kwDOKvL0W88AAAABcw6Xrw",
+      "url": "https://api.github.com/repos/conda-forge/python-blosc2-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-27T20:34:53.504006",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 123,
   "state": "open",
-  "updated_at": "2026-11-26T07:24:04Z"
+  "updated_at": "2026-11-27T20:33:21Z"
 }

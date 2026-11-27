@@ -1,6 +1,6 @@
 {
-  "ETag": "\"b77f6bbe5ce383b30d099b49c396a7121797146562184ebd324da30913ff86f4\"",
-  "Last-Modified": "Thu, 26 Nov 2026 21:48:17 GMT",
+  "ETag": "\"4c761114ab9637de13ae171ab64eec6a7426e223b9ca3749073a16485e133bf5\"",
+  "Last-Modified": "Fri, 27 Nov 2026 13:25:26 GMT",
   "base": {
     "repo": {
       "name": "wfdb-feedstock"
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/wfdb-feedstock/pull/37",
   "id": 5517581718,
-  "labels": [],
-  "last_fetched": "2026-11-27T08:59:01.244294",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891427174,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxNDI3MTc0",
+      "url": "https://api.github.com/repos/conda-forge/wfdb-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-27T13:25:38.762442",
   "last_modified": null,
   "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 37,
   "state": "open",
-  "updated_at": "2026-11-26T21:48:17Z"
+  "updated_at": "2026-11-27T13:25:26Z"
 }

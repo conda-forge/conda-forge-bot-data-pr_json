@@ -1,29 +1,29 @@
 {
-  "ETag": "\"94f4d8d1bb4cf9d897e9b4d573327f1e4fcb3cc0efd19a0853c8185b4e4c8de2\"",
-  "Last-Modified": "Wed, 25 Nov 2026 22:20:27 GMT",
+  "ETag": "\"cce7e1d6c9ad2e26f6021c1569c54021f66c4252326a65c1493a5d9cf2adcc87\"",
+  "Last-Modified": "Fri, 27 Nov 2026 03:55:08 GMT",
   "base": {
     "repo": {
       "name": "borneo-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T03:55:08Z",
   "closed_by": null,
   "created_at": "2026-11-25T22:20:26Z",
   "draft": false,
   "e_tag": "\"908cf3f0972c5786b79d82fbaaefe3d81c82479a61290d59c8b8c922c8aac352\"",
   "head": {
-    "ref": "5.6.1_ha5f5e4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/borneo-feedstock/pull/7",
   "id": 5500168379,
   "labels": [],
-  "last_fetched": "2026-11-26T00:37:52.054969",
+  "last_fetched": "2026-11-27T03:56:10.514197",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T03:55:08Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-25T22:22:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T03:55:08Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"ba8da29b6d208235faf8bbdff8d37770f35e243ab438256b3d04da349ab1c22f\"",
-  "Last-Modified": "Fri, 27 Nov 2026 01:36:57 GMT",
+  "ETag": "\"301866c4ef534c85c06c5b497da0191b06df8a147848f47536e403f84fe64240\"",
+  "Last-Modified": "Fri, 27 Nov 2026 10:53:19 GMT",
   "base": {
     "repo": {
       "name": "libcst-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T10:53:19Z",
   "closed_by": null,
   "created_at": "2026-11-27T01:35:18Z",
   "draft": false,
   "e_tag": "\"bdabdf6bec76223a9db29bdf601fb8e030bfb6036397d015a3b778a22f8cc33f\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_h08447f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libcst-feedstock/pull/70",
   "id": 5519649147,
   "labels": [],
-  "last_fetched": "2026-11-27T03:20:08.104259",
+  "last_fetched": "2026-11-27T10:54:42.072426",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T10:53:19Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-11-27T01:36:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T10:53:19Z"
 }

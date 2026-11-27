@@ -1,27 +1,41 @@
 {
+  "ETag": "\"cb3996c7667caca19fdf132e20bcd176583330de25b1296ea21d240a8868169a\"",
+  "Last-Modified": "Fri, 27 Nov 2026 18:28:19 GMT",
   "base": {
     "repo": {
       "name": "open-knowledge-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T18:28:15Z",
   "closed_by": null,
   "created_at": "2026-11-27T15:59:50Z",
   "draft": false,
   "e_tag": "\"2f87948277ca00baff97382d123ffd568bccd4b112246e831af41fcdbc429cbc\"",
   "head": {
-    "ref": "0.89.18_h60cfc5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/open-knowledge-feedstock/pull/9",
   "id": 5529550924,
-  "labels": [],
-  "last_fetched": "2026-11-27T15:59:51.296928",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 13096841687,
+      "name": "automerge",
+      "node_id": "LA_kwDOVv3nyc8AAAADDKHx1w",
+      "url": "https://api.github.com/repos/conda-forge/open-knowledge-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-27T18:29:04.037219",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-27T18:28:14Z",
   "number": 9,
-  "state": "open",
-  "updated_at": "2026-11-27T15:59:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T18:28:19Z"
 }

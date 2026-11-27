@@ -1,18 +1,18 @@
 {
-  "ETag": "\"1550126f7698f9b10ffc4a798e339d43c202b86792e206269182b7697db1f124\"",
-  "Last-Modified": "Fri, 27 Nov 2026 08:55:31 GMT",
+  "ETag": "\"42ba4f458bcc1e9ceeca1cd97189aa6dc864cb4bc0d827da2fff1702eef6d6a2\"",
+  "Last-Modified": "Fri, 27 Nov 2026 10:47:26 GMT",
   "base": {
     "repo": {
       "name": "boost-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T10:47:20Z",
   "closed_by": null,
   "created_at": "2026-11-27T05:33:47Z",
   "draft": false,
   "e_tag": "\"fb8e8758363dd6f9444e95394ee80fd4a4f953a58e00814593eca569786a0a68\"",
   "head": {
-    "ref": "rebuild-zstd16-0-1_hf2daf0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/boost-feedstock/pull/284",
   "id": 5521759502,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/boost-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-27T08:57:15.548186",
+  "last_fetched": "2026-11-27T10:49:00.744583",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T10:47:20Z",
   "number": 284,
-  "state": "open",
-  "updated_at": "2026-11-27T08:55:31Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T10:47:26Z"
 }

@@ -1,28 +1,28 @@
 {
-  "ETag": "\"d95a8193e942c07958956c49e3bd849e904c296b4c61c5e2c0b118136002b3bb\"",
-  "Last-Modified": "Fri, 27 Nov 2026 08:59:32 GMT",
+  "ETag": "\"ae07464bf025b0971f33b445b1c447502d7ad7426142d463f62b35ad0a08cad9\"",
+  "Last-Modified": "Fri, 27 Nov 2026 09:04:00 GMT",
   "base": {
     "repo": {
       "name": "titiler-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T09:03:56Z",
   "created_at": "2026-07-29T18:41:21Z",
   "draft": false,
   "e_tag": "\"1e91212b842e99ea64cb47c8ee5d3aa7d2f40572c464bf40a542ba6ad9277cc6\"",
   "head": {
-    "ref": "2.2.1_h1fa5b3"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/titiler-core-feedstock/pull/41",
   "id": 4163285362,
   "labels": [],
-  "last_fetched": "2026-11-27T09:00:29.271115",
+  "last_fetched": "2026-11-27T09:05:31.836780",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T09:03:56Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-11-27T08:59:32Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T09:04:00Z"
 }

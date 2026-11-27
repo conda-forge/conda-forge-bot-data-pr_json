@@ -1,27 +1,29 @@
 {
+  "ETag": "\"99b17a7c3398b5bf0e3d2bd3ec6b45a76ff92655b27796be8bb0137702b4f36b\"",
+  "Last-Modified": "Fri, 27 Nov 2026 03:01:17 GMT",
   "base": {
     "repo": {
       "name": "pyotp-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T03:01:13Z",
   "closed_by": null,
   "created_at": "2026-11-27T02:59:08Z",
   "draft": false,
   "e_tag": "\"2b38e939af7cf2493e4b5f3bfcaae4f7fc2499d45b2d994177d9272d78db7831\"",
   "head": {
-    "ref": "2.12.2_hc014e8"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pyotp-feedstock/pull/22",
   "id": 5520412339,
   "labels": [],
-  "last_fetched": "2026-11-27T02:59:09.910462",
+  "last_fetched": "2026-11-27T03:02:29.774376",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-27T03:01:13Z",
   "number": 22,
-  "state": "open",
-  "updated_at": "2026-11-27T02:59:08Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T03:01:17Z"
 }

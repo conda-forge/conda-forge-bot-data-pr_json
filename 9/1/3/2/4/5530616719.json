@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3ba0d61f8840721a1a53d1a30c61c231d837d918692ce92b152de596be7663fa\"",
-  "Last-Modified": "Fri, 27 Nov 2026 17:26:01 GMT",
+  "ETag": "\"5a6a526d6aac68903dee6272c33605ee75c2cc746ea981f6bcbf9d59da7b3e46\"",
+  "Last-Modified": "Fri, 27 Nov 2026 19:37:54 GMT",
   "base": {
     "repo": {
       "name": "gurk-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T19:37:50Z",
   "closed_by": null,
   "created_at": "2026-11-27T17:24:35Z",
   "draft": false,
   "e_tag": "\"57d03ebcdcf3f8d799db66faea9c5de38d50b4fb67a7a7d74fd34df588daf495\"",
   "head": {
-    "ref": "0.11.0_h49f068"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gurk-feedstock/pull/6",
   "id": 5530616719,
   "labels": [],
-  "last_fetched": "2026-11-27T19:13:14.457058",
+  "last_fetched": "2026-11-27T19:38:56.518730",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T19:37:50Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-27T17:26:01Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T19:37:54Z"
 }

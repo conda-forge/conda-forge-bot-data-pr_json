@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7a24f8c3cedfe3a4592bec35c6a6d26190be60d18ddcb63a5b4b8af4d62e93bd\"",
-  "Last-Modified": "Thu, 26 Nov 2026 06:47:12 GMT",
+  "ETag": "\"2a4f7a7fcd3a16f528447afe84d9c75f29a1b420a78fc9a3715afbf64fe34b65\"",
+  "Last-Modified": "Fri, 27 Nov 2026 14:53:26 GMT",
   "base": {
     "repo": {
       "name": "tatc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T14:53:26Z",
   "closed_by": null,
   "created_at": "2026-11-26T06:45:31Z",
   "draft": false,
   "e_tag": "\"698fbf94566631e502c050989a3cab0dedeaf63341a7b5d6496ae1e9e7d58894\"",
   "head": {
-    "ref": "3.8.0_h55437b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/tatc-feedstock/pull/19",
   "id": 5505356845,
   "labels": [],
-  "last_fetched": "2026-11-26T06:50:54.326886",
+  "last_fetched": "2026-11-27T14:54:41.883667",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T14:53:26Z",
   "number": 19,
-  "state": "open",
-  "updated_at": "2026-11-26T06:47:12Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T14:53:26Z"
 }

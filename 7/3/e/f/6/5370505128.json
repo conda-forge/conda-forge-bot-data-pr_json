@@ -1,29 +1,29 @@
 {
-  "ETag": "\"71afffbd79f64fb36fbbe061303d1289c9bea1a97e36725c5a61be3bf190c9d4\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"76948251f33d9da77c967dbddc6f363a668586b7fe68dc8ac0e61f4434bf47df\"",
+  "Last-Modified": "Fri, 27 Nov 2026 20:16:18 GMT",
   "base": {
     "repo": {
       "name": "rcssmin-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T20:16:18Z",
   "closed_by": null,
   "created_at": "2026-11-18T05:29:37Z",
   "draft": false,
   "e_tag": "\"686d116f18667506957a73e78ca049317c4af736d661d88eecdec51a65d46758\"",
   "head": {
-    "ref": "rebuild-python315t-0-1_hed923b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/rcssmin-feedstock/pull/34",
   "id": 5370505128,
   "labels": [],
-  "last_fetched": "2026-11-23T02:38:48.534945",
+  "last_fetched": "2026-11-27T20:17:29.098920",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T20:16:18Z",
   "number": 34,
-  "state": "open",
-  "updated_at": "2026-11-18T05:31:06Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T20:16:18Z"
 }

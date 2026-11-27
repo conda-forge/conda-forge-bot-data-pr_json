@@ -1,13 +1,13 @@
 {
-  "ETag": "\"b788ed286dfc4d359ca79d1f75bc92c608f5697dac662d4fb00303789b909ed3\"",
-  "Last-Modified": "Thu, 26 Nov 2026 02:11:00 GMT",
+  "ETag": "W/\"eb61c2066c4a1c215b4f43b3a04ef2db15b7c7c5ddd39517ea9c77bce97d336f\"",
+  "Last-Modified": "Fri, 27 Nov 2026 02:06:38 GMT",
   "base": {
     "repo": {
       "name": "python-pcl-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-27T02:06:38Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-26T02:09:26Z",
   "draft": false,
   "e_tag": "\"f6bcf990e2ef6ebbe9b8911b1a4abdb0d7abc984b2ab1ae1a65de56d39b7a15a\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/python-pcl-feedstock/pull/31",
   "id": 5502698662,
-  "labels": [],
-  "last_fetched": "2026-11-26T04:33:04.603607",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 5446112271,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOJcyNfc8AAAABRJ0UDw",
+      "url": "https://api.github.com/repos/conda-forge/python-pcl-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-27T02:06:41.372838",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 31,
-  "state": "open",
-  "updated_at": "2026-11-26T02:11:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T02:06:38Z"
 }

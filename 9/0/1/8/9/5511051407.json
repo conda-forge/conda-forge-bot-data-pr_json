@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6d8b5eceb3b432838259644320e7784ce87cb823606217c1db7b07fef913902f\"",
-  "Last-Modified": "Thu, 26 Nov 2026 13:39:50 GMT",
+  "ETag": "\"a27ea60957ad60d861acec0ca40d2dc941ae016fb3528d872f3ad13e85cef495\"",
+  "Last-Modified": "Fri, 27 Nov 2026 10:58:35 GMT",
   "base": {
     "repo": {
       "name": "gbs-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T10:58:34Z",
   "closed_by": null,
   "created_at": "2026-11-26T13:38:11Z",
   "draft": false,
   "e_tag": "\"bd70d5749b3729d730a543d69f48184703436789142c7c3986635efb404a4fbc\"",
   "head": {
-    "ref": "rebuild-vtk972-0-1_h2cc430"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gbs-feedstock/pull/20",
   "id": 5511051407,
   "labels": [],
-  "last_fetched": "2026-11-26T13:59:18.395247",
+  "last_fetched": "2026-11-27T11:00:00.865050",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T10:58:34Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-26T13:39:50Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T10:58:35Z"
 }

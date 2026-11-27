@@ -1,29 +1,29 @@
 {
-  "ETag": "\"062fe0858fc1440c45aba84d0a231aaa86bcc531823fa67f3ff0289e51cf1ad2\"",
-  "Last-Modified": "Thu, 26 Nov 2026 19:16:23 GMT",
+  "ETag": "\"bfc106c1c1689a5252b05de434387233f830624ee6aad71cd9246e83418cec1b\"",
+  "Last-Modified": "Fri, 27 Nov 2026 05:42:27 GMT",
   "base": {
     "repo": {
       "name": "xsdata-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T05:42:26Z",
   "closed_by": null,
   "created_at": "2026-11-26T19:14:38Z",
   "draft": false,
   "e_tag": "\"fd1774d4facd846ac0e9d108d9ca6fe6eba87d3580f25fc0b68370d8a11efaed\"",
   "head": {
-    "ref": "26.11_hb3e9cb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/xsdata-feedstock/pull/48",
   "id": 5515835416,
   "labels": [],
-  "last_fetched": "2026-11-26T20:42:50.219212",
+  "last_fetched": "2026-11-27T05:43:55.134473",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T05:42:26Z",
   "number": 48,
-  "state": "open",
-  "updated_at": "2026-11-26T19:16:23Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T05:42:27Z"
 }

@@ -1,6 +1,6 @@
 {
-  "ETag": "W/\"41d3d3a6ff646acdc0b1d8da31bd27fa64497afc338ad11c16c61ad01f23fb5b\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"db7b17fc29b7f42a9a748f21416d36c5a7804fe6a86fc5a7be38df840e5f657a\"",
+  "Last-Modified": "Fri, 27 Nov 2026 03:22:33 GMT",
   "base": {
     "repo": {
       "name": "bazel-feedstock"
@@ -9,7 +9,7 @@
   "closed_at": null,
   "closed_by": null,
   "created_at": "2026-10-27T22:55:20Z",
-  "draft": false,
+  "draft": true,
   "e_tag": "\"480173ada953710a1e149a7d97330e01d801102dd9dd6a402689c337caa67ab5\"",
   "head": {
     "ref": "9.3.1_h0bbca5"
@@ -17,13 +17,13 @@
   "html_url": "https://github.com/conda-forge/bazel-feedstock/pull/306",
   "id": 5042334415,
   "labels": [],
-  "last_fetched": "2026-11-22T21:20:17.700175",
+  "last_fetched": "2026-11-27T06:27:33.510732",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 306,
   "state": "open",
-  "updated_at": "2026-10-27T22:56:56Z"
+  "updated_at": "2026-11-27T03:22:33Z"
 }

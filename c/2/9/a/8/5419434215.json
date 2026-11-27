@@ -1,29 +1,29 @@
 {
-  "ETag": "\"194f70bb817e99caf5f8e1ba8a8eb6aeef3584d111bd4a09c1b90cfcf376bbdc\"",
-  "Last-Modified": "Thu, 26 Nov 2026 12:11:48 GMT",
+  "ETag": "\"98cc4c183a480d2f043a9547b5bddcc23b0c3f71668438f69f75ffba854ae5da\"",
+  "Last-Modified": "Fri, 27 Nov 2026 08:06:00 GMT",
   "base": {
     "repo": {
       "name": "orange3-text-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T08:06:00Z",
   "closed_by": null,
   "created_at": "2026-11-20T19:57:13Z",
   "draft": false,
   "e_tag": "\"13317b10cf8c0a5548045863c6cacc70d0362cb1704a34b6be1ec10c09092891\"",
   "head": {
-    "ref": "1.17.0_h37513d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/orange3-text-feedstock/pull/70",
   "id": 5419434215,
   "labels": [],
-  "last_fetched": "2026-11-26T15:59:32.481826",
+  "last_fetched": "2026-11-27T08:07:29.762903",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T08:06:00Z",
   "number": 70,
-  "state": "open",
-  "updated_at": "2026-11-26T12:11:48Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T08:06:00Z"
 }

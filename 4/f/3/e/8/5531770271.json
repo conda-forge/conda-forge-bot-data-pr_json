@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3c9192c50e621b73807493b214f1b05ce42fb740bb7fbbb58030ebb40c899467\"",
-  "Last-Modified": "Fri, 27 Nov 2026 19:04:57 GMT",
+  "ETag": "\"a71252a74f7c1659436b6714f58840a3e18af3275b0b4a87be50e6bff3912551\"",
+  "Last-Modified": "Fri, 27 Nov 2026 20:41:03 GMT",
   "base": {
     "repo": {
       "name": "pydtmc-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T20:41:03Z",
   "closed_by": null,
   "created_at": "2026-11-27T19:03:18Z",
   "draft": false,
   "e_tag": "\"5e8724ad726857c324b28bbeb769e4ef14b587dcb5fda01e291dccae210e473c\"",
   "head": {
-    "ref": "11.0.0_h13ee31"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/pydtmc-feedstock/pull/25",
   "id": 5531770271,
   "labels": [],
-  "last_fetched": "2026-11-27T19:41:37.993363",
+  "last_fetched": "2026-11-27T20:42:18.749084",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T20:41:03Z",
   "number": 25,
-  "state": "open",
-  "updated_at": "2026-11-27T19:04:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T20:41:03Z"
 }

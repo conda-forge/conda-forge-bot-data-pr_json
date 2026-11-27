@@ -1,29 +1,29 @@
 {
-  "ETag": "\"66af26193264ce285c4a88fc68221da2ff69075feeb83184e1e12a177befe624\"",
-  "Last-Modified": "Thu, 26 Nov 2026 20:47:11 GMT",
+  "ETag": "\"a861b24c1ee6d8d35cb4b3f9ffbeedf0978ea855cdf7cb78bf42c15cfc6850ac\"",
+  "Last-Modified": "Fri, 27 Nov 2026 12:05:15 GMT",
   "base": {
     "repo": {
       "name": "weaviate-client-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T12:05:15Z",
   "closed_by": null,
   "created_at": "2026-11-26T20:45:37Z",
   "draft": false,
   "e_tag": "\"321acac8caae1a81bb694f7fc24849da4c6b41de87943d5ad7de4c7b79c6ff32\"",
   "head": {
-    "ref": "4.25.0_hb8ff69"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/weaviate-client-feedstock/pull/41",
   "id": 5516915937,
   "labels": [],
-  "last_fetched": "2026-11-26T20:58:28.922152",
+  "last_fetched": "2026-11-27T12:06:47.038799",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T12:05:15Z",
   "number": 41,
-  "state": "open",
-  "updated_at": "2026-11-26T20:47:11Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T12:05:15Z"
 }

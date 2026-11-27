@@ -1,6 +1,6 @@
 {
-  "ETag": "\"3c14aea47d6deb46af0f2d092b076d38884a1cfbd6213aa2f5f2b097a3a69af5\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"6e43af357307ef684b57fcae89f7b22460f5fe5383e39b5e459f6e1870a35b34\"",
+  "Last-Modified": "Fri, 27 Nov 2026 02:07:33 GMT",
   "base": {
     "repo": {
       "name": "libxml2-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/libxml2-feedstock/pull/182",
   "id": 5024941906,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:00:28.804501",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1891012830,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkxMDEyODMw",
+      "url": "https://api.github.com/repos/conda-forge/libxml2-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-27T02:08:38.675265",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 182,
   "state": "open",
-  "updated_at": "2026-11-04T22:15:48Z"
+  "updated_at": "2026-11-27T02:07:33Z"
 }

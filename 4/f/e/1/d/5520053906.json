@@ -1,27 +1,29 @@
 {
+  "ETag": "\"188c0c9a23ea53a7b6959373dabb66b66f690305cf9a38d0eb0da024a2b81362\"",
+  "Last-Modified": "Fri, 27 Nov 2026 02:22:20 GMT",
   "base": {
     "repo": {
       "name": "py-modelrunner-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T02:22:17Z",
   "closed_by": null,
   "created_at": "2026-11-27T02:19:00Z",
   "draft": false,
   "e_tag": "\"8a4d7eb43376587c36731626295bc16aa2d5a7a87410a1c3b47cebc1b996897a\"",
   "head": {
-    "ref": "0.20.4_h300aa4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/py-modelrunner-feedstock/pull/40",
   "id": 5520053906,
   "labels": [],
-  "last_fetched": "2026-11-27T02:19:01.366092",
+  "last_fetched": "2026-11-27T02:23:35.836654",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-27T02:22:17Z",
   "number": 40,
-  "state": "open",
-  "updated_at": "2026-11-27T02:19:00Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T02:22:20Z"
 }

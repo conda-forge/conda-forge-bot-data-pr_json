@@ -1,13 +1,13 @@
 {
-  "ETag": "\"2e4ea9b91d7781b0fc508624427da14a94ff14d2ea32441aea7790d8d142b37c\"",
-  "Last-Modified": "Thu, 26 Nov 2026 07:06:57 GMT",
+  "ETag": "W/\"a4146729e8445f38e67873122ab3c45dc0cc4808ea9d298a45b94828de216bce\"",
+  "Last-Modified": "Fri, 27 Nov 2026 16:21:21 GMT",
   "base": {
     "repo": {
       "name": "newton-usd-schemas-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-27T16:21:21Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-26T07:05:29Z",
   "draft": false,
   "e_tag": "\"1a90f881d8971119340b31fc945fb861edd626c308e3f5bd7b40caeeffc2c10b\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/newton-usd-schemas-feedstock/pull/14",
   "id": 5505573434,
-  "labels": [],
-  "last_fetched": "2026-11-26T09:59:36.028839",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 10449931522,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDORpWe-M8AAAACbt1NAg",
+      "url": "https://api.github.com/repos/conda-forge/newton-usd-schemas-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-27T16:21:24.469623",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 14,
-  "state": "open",
-  "updated_at": "2026-11-26T07:06:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T16:21:21Z"
 }

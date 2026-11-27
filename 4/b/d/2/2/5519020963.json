@@ -1,29 +1,29 @@
 {
-  "ETag": "\"60e12c2f1ac7a20da44ca9db4f4b0d0876f9778638a3f44c2793f661cf24c249\"",
-  "Last-Modified": "Fri, 27 Nov 2026 00:21:17 GMT",
+  "ETag": "\"5d49000c0b01fdc8a19faeec59c7dd260d950941e0daf77f584da4ea78b3e9cf\"",
+  "Last-Modified": "Fri, 27 Nov 2026 12:36:42 GMT",
   "base": {
     "repo": {
       "name": "quarantine-py-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T12:36:42Z",
   "closed_by": null,
   "created_at": "2026-11-27T00:19:36Z",
   "draft": false,
   "e_tag": "\"ab2a5eb8bc11bc88f41dcb1c29889b587a8c2cb7250020d00f1487d4854114e6\"",
   "head": {
-    "ref": "2.1.0_hd3700c"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/quarantine-py-feedstock/pull/2",
   "id": 5519020963,
   "labels": [],
-  "last_fetched": "2026-11-27T00:56:15.669653",
+  "last_fetched": "2026-11-27T12:38:11.676157",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T12:36:42Z",
   "number": 2,
-  "state": "open",
-  "updated_at": "2026-11-27T00:21:17Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T12:36:42Z"
 }

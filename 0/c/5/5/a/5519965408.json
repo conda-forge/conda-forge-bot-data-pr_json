@@ -1,27 +1,29 @@
 {
+  "ETag": "\"42ba96ecea4b1d8c758903b40acd7188515f72d64baefdae5793ebe939ebce8d\"",
+  "Last-Modified": "Fri, 27 Nov 2026 02:13:27 GMT",
   "base": {
     "repo": {
       "name": "spikingjelly-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T02:13:23Z",
   "closed_by": null,
   "created_at": "2026-11-27T02:09:05Z",
   "draft": false,
   "e_tag": "\"4608dd9c0bda417f380e56140039894cf9cb199cc48d8b28dd8d3a8aae5afb66\"",
   "head": {
-    "ref": "2.1.0_h2ea3bd"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/spikingjelly-feedstock/pull/10",
   "id": 5519965408,
   "labels": [],
-  "last_fetched": "2026-11-27T02:09:06.311787",
+  "last_fetched": "2026-11-27T02:14:53.800181",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-27T02:13:23Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-27T02:09:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T02:13:27Z"
 }

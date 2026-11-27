@@ -1,29 +1,29 @@
 {
-  "ETag": "\"3c6cc5d7dc3d4e86228ad62e5d53ffa2301514624b58a09b22db9b35a459a5b0\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"2a32dfd23acaa4181b9e432282353420e40320d80478bdd71e408947edbaf8e3\"",
+  "Last-Modified": "Fri, 27 Nov 2026 20:12:55 GMT",
   "base": {
     "repo": {
       "name": "djc-core-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T20:12:55Z",
   "closed_by": null,
   "created_at": "2026-11-19T12:10:40Z",
   "draft": false,
   "e_tag": "\"86881cd6cc545c782f86b0407086b3a061f0ff9c0ced1ba97ee52ea6ece3deca\"",
   "head": {
-    "ref": "1.4.0_h609eb6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/djc-core-feedstock/pull/6",
   "id": 5394617007,
   "labels": [],
-  "last_fetched": "2026-11-23T07:33:02.075916",
+  "last_fetched": "2026-11-27T20:14:46.531643",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T20:12:55Z",
   "number": 6,
-  "state": "open",
-  "updated_at": "2026-11-19T12:12:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T20:12:55Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"193b5c9f62ddad78bbfbff1bb4671f2e918390fca97094c1c2785e26116ce8ff\"",
-  "Last-Modified": "Thu, 26 Nov 2026 23:45:04 GMT",
+  "ETag": "\"573ae2a5e29c9adccca8d5bb88190ec2d3c2750d626174c3f1e56dce8c327c51\"",
+  "Last-Modified": "Fri, 27 Nov 2026 10:53:09 GMT",
   "base": {
     "repo": {
       "name": "postgis-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T10:53:09Z",
   "closed_by": null,
   "created_at": "2026-11-26T23:45:03Z",
   "draft": false,
   "e_tag": "\"e98cec6b77392e032cfedf49131495b45bc881691c73c42eff3e96851be3cf83\"",
   "head": {
-    "ref": "rebuild-geos3151-0-1_h72ccb1"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/postgis-feedstock/pull/164",
   "id": 5518707119,
   "labels": [],
-  "last_fetched": "2026-11-27T00:00:06.494874",
+  "last_fetched": "2026-11-27T10:54:55.156755",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T10:53:09Z",
   "number": 164,
-  "state": "open",
-  "updated_at": "2026-11-26T23:46:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T10:53:09Z"
 }

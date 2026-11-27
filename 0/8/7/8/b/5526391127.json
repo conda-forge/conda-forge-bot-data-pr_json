@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6eb152807f4e339bfdcacaad9740e59299f1c60d1480d709f682bcb45a62c3d9\"",
+  "Last-Modified": "Fri, 27 Nov 2026 12:13:45 GMT",
   "base": {
     "repo": {
       "name": "anemoi-models-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T12:13:41Z",
   "closed_by": null,
   "created_at": "2026-11-27T12:10:51Z",
   "draft": false,
   "e_tag": "\"4e355882023638fafe0eca5eac97d3d5c86432b383001fdd2050971fce47f0a5\"",
   "head": {
-    "ref": "0.21.1_h5be72a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/anemoi-models-feedstock/pull/18",
   "id": 5526391127,
   "labels": [],
-  "last_fetched": "2026-11-27T12:10:52.844671",
+  "last_fetched": "2026-11-27T12:15:23.210437",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-27T12:13:41Z",
   "number": 18,
-  "state": "open",
-  "updated_at": "2026-11-27T12:10:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T12:13:45Z"
 }

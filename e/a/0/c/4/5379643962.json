@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5cfce99f09dd5b990078f18b40c5226f18fbab96a748168302d5ff8aa2ce73ba\"",
-  "Last-Modified": "Fri, 27 Nov 2026 09:03:37 GMT",
+  "ETag": "\"4a05a9507bf7dba78b92cd47f6b4602bbed764998b987a6906bbb3b30a0494ca\"",
+  "Last-Modified": "Fri, 27 Nov 2026 18:23:07 GMT",
   "base": {
     "repo": {
       "name": "level-zero-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T18:23:07Z",
   "closed_by": null,
   "created_at": "2026-11-18T16:12:39Z",
   "draft": false,
   "e_tag": "\"a0ca7b35848c91e87f34fd3567584725e9a178c0086a1c2eebcb7dbf342851af\"",
   "head": {
-    "ref": "1.36.0_ha2e951"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/level-zero-feedstock/pull/108",
   "id": 5379643962,
   "labels": [],
-  "last_fetched": "2026-11-27T12:24:29.812997",
+  "last_fetched": "2026-11-27T18:24:23.148599",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T18:23:07Z",
   "number": 108,
-  "state": "open",
-  "updated_at": "2026-11-27T09:03:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T18:23:07Z"
 }

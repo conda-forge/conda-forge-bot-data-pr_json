@@ -1,29 +1,29 @@
 {
-  "ETag": "\"de56e6f39ff29270ba3c47c081d91bb28c59ffcca201c88d6488b16019894f27\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"bb6d6e37234a72f92fa843e0148247a3a692b96af995c70f287b15a611bcd464\"",
+  "Last-Modified": "Fri, 27 Nov 2026 21:47:24 GMT",
   "base": {
     "repo": {
       "name": "vsg-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T21:47:24Z",
   "closed_by": null,
   "created_at": "2026-11-09T08:25:33Z",
   "draft": false,
   "e_tag": "\"38a9630d9095f9ecf41abec7f3c23acc1344aa869799ff12c313fcd708aa2dfa\"",
   "head": {
-    "ref": "3.36.0_h45eccf"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/vsg-feedstock/pull/10",
   "id": 5220932820,
   "labels": [],
-  "last_fetched": "2026-11-22T21:20:51.483842",
+  "last_fetched": "2026-11-27T21:48:50.692547",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T21:47:24Z",
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-09T08:27:16Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T21:47:24Z"
 }

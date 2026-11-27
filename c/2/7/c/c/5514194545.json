@@ -1,29 +1,29 @@
 {
-  "ETag": "\"6f8193297fe48c28834c17a804e84fd42bc33b999e28f88eb094418067007000\"",
-  "Last-Modified": "Thu, 26 Nov 2026 17:06:19 GMT",
+  "ETag": "\"96fe23e57bf08271dd7ef82e212c31882feae47ebddb063d3000bbccae3516f1\"",
+  "Last-Modified": "Fri, 27 Nov 2026 13:54:54 GMT",
   "base": {
     "repo": {
       "name": "keystoneauth1-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T13:54:54Z",
   "closed_by": null,
   "created_at": "2026-11-26T17:04:43Z",
   "draft": false,
   "e_tag": "\"498f304cb78c8d63119583af0b7724cb53f753c250e007fdf2939f562c8452cd\"",
   "head": {
-    "ref": "5.20.0_ha4830e"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/keystoneauth1-feedstock/pull/68",
   "id": 5514194545,
   "labels": [],
-  "last_fetched": "2026-11-26T17:18:13.271324",
+  "last_fetched": "2026-11-27T13:56:30.331879",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T13:54:54Z",
   "number": 68,
-  "state": "open",
-  "updated_at": "2026-11-26T17:06:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T13:54:54Z"
 }

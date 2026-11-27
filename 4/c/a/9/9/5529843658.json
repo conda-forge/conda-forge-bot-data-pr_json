@@ -1,18 +1,18 @@
 {
-  "ETag": "\"9fe6ec13111c0dc4f5eb34bbc750fc6c22a7be52fe2caa1b52c6d6cdd5c14bbe\"",
-  "Last-Modified": "Fri, 27 Nov 2026 19:48:56 GMT",
+  "ETag": "\"ac8da5a9a1e8fb4e35b53f0d0ab529aee9af64c0e7943306c8066278bceeaf3d\"",
+  "Last-Modified": "Fri, 27 Nov 2026 20:42:34 GMT",
   "base": {
     "repo": {
       "name": "qt-main-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T20:41:47Z",
   "closed_by": null,
   "created_at": "2026-11-27T16:22:34Z",
   "draft": false,
   "e_tag": "\"fad350569944c3b2035c0322ac05115a2a7e18fbb20eeffb9f2e1ed024ab3868\"",
   "head": {
-    "ref": "rebuild-zstd16-0-1_hc9889f"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/qt-main-feedstock/pull/434",
   "id": 5529843658,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/qt-main-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-27T19:50:14.213100",
+  "last_fetched": "2026-11-27T20:43:00.097123",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T20:41:47Z",
   "number": 434,
-  "state": "open",
-  "updated_at": "2026-11-27T19:48:56Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T20:42:34Z"
 }

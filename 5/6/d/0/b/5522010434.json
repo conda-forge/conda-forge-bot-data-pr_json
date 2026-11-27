@@ -1,29 +1,41 @@
 {
-  "ETag": "\"2ebdd6b6626318e294c7c9905ae7c16227cf13d05191724930cfea70ff8887aa\"",
-  "Last-Modified": "Fri, 27 Nov 2026 06:01:09 GMT",
+  "ETag": "\"84ded06374c425fbd3434dd015d15c4698a72e2406fcec0029c91e69c28930fb\"",
+  "Last-Modified": "Fri, 27 Nov 2026 08:06:02 GMT",
   "base": {
     "repo": {
       "name": "flang-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T08:05:57Z",
   "closed_by": null,
   "created_at": "2026-11-27T05:59:33Z",
   "draft": false,
   "e_tag": "\"91b508bfccc0208b2a2c3a80195160848fb8312d6c7170d53ea4ca7d37d6bf21\"",
   "head": {
-    "ref": "rebuild-zstd16-0-1_h666444"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/flang-feedstock/pull/151",
   "id": 5522010434,
-  "labels": [],
-  "last_fetched": "2026-11-27T06:28:35.855879",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890877620,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwODc3NjIw",
+      "url": "https://api.github.com/repos/conda-forge/flang-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-27T08:06:53.372845",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T08:05:57Z",
   "number": 151,
-  "state": "open",
-  "updated_at": "2026-11-27T06:01:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T08:06:02Z"
 }

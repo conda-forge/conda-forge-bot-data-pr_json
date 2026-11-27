@@ -1,18 +1,18 @@
 {
-  "ETag": "\"399b13027ff7da6cc5d5bf8dc74f18d33865be6bc7d12415e7ac1485e2dd0399\"",
-  "Last-Modified": "Fri, 27 Nov 2026 13:47:37 GMT",
+  "ETag": "\"aab3a097a3ababf06c55c0ae3bc692a67712031aeb777b1811c0a5d05681299f\"",
+  "Last-Modified": "Fri, 27 Nov 2026 14:50:05 GMT",
   "base": {
     "repo": {
       "name": "postgresql-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T14:50:01Z",
   "closed_by": null,
   "created_at": "2026-11-27T03:35:45Z",
   "draft": false,
   "e_tag": "\"d04bd2105da9c05216c01c2cc554831c80d513e462c0b63ed84e1ea2c077fb33\"",
   "head": {
-    "ref": "rebuild-icu79-0-1_h561058"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/postgresql-feedstock/pull/334",
   "id": 5520725493,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/postgresql-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-27T13:49:21.578259",
+  "last_fetched": "2026-11-27T14:51:25.960886",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T14:50:01Z",
   "number": 334,
-  "state": "open",
-  "updated_at": "2026-11-27T13:47:37Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T14:50:05Z"
 }

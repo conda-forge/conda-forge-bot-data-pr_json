@@ -1,6 +1,6 @@
 {
-  "ETag": "\"309079b4a9221556f265efe09caeef8f0b275526eb2bb1a7213712c99032b19e\"",
-  "Last-Modified": "Thu, 26 Nov 2026 18:47:06 GMT",
+  "ETag": "\"ecb5ece0a4e29334d0acbe3f008a049280021681d87b89accf83dbbaf068bbc8\"",
+  "Last-Modified": "Fri, 27 Nov 2026 05:31:33 GMT",
   "base": {
     "repo": {
       "name": "pyamrex-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/pyamrex-feedstock/pull/83",
   "id": 5515502364,
-  "labels": [],
-  "last_fetched": "2026-11-26T21:57:52.669164",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 6125932308,
+      "name": "automerge",
+      "node_id": "LA_kwDOKkuBdc8AAAABbSJPFA",
+      "url": "https://api.github.com/repos/conda-forge/pyamrex-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-27T05:32:44.872786",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 83,
   "state": "open",
-  "updated_at": "2026-11-26T18:48:40Z"
+  "updated_at": "2026-11-27T05:31:33Z"
 }

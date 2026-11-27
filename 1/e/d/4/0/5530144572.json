@@ -1,6 +1,6 @@
 {
-  "ETag": "\"273327b7773f7c77648827db3193172ed553428113c20184f76a4e84e9d9bc7a\"",
-  "Last-Modified": "Fri, 27 Nov 2026 16:48:02 GMT",
+  "ETag": "\"010f2d6369feb5deac25ca375669f96109e9f3c8800490d63f46730a8efe1792\"",
+  "Last-Modified": "Fri, 27 Nov 2026 20:46:17 GMT",
   "base": {
     "repo": {
       "name": "ccr-feedstock"
@@ -16,8 +16,20 @@
   },
   "html_url": "https://github.com/conda-forge/ccr-feedstock/pull/16",
   "id": 5530144572,
-  "labels": [],
-  "last_fetched": "2026-11-27T19:41:59.813583",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 3681856200,
+      "name": "automerge",
+      "node_id": "LA_kwDOGmNnO87bdKrI",
+      "url": "https://api.github.com/repos/conda-forge/ccr-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-27T20:48:00.364054",
   "last_modified": null,
   "mergeable": true,
   "mergeable_state": "unstable",
@@ -25,5 +37,5 @@
   "merged_at": null,
   "number": 16,
   "state": "open",
-  "updated_at": "2026-11-27T16:48:02Z"
+  "updated_at": "2026-11-27T20:46:17Z"
 }

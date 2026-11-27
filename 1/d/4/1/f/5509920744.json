@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fe87c5519e595cc9f6324cc471e76d587206c5312e040fa10ec8879eea00f828\"",
-  "Last-Modified": "Thu, 26 Nov 2026 12:22:30 GMT",
+  "ETag": "\"1a08c492f2f0544ae8043d9248b2528cbd709aa7a748efe418bfb46df944b635\"",
+  "Last-Modified": "Fri, 27 Nov 2026 13:19:28 GMT",
   "base": {
     "repo": {
       "name": "mayavi-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T13:19:28Z",
   "closed_by": null,
   "created_at": "2026-11-26T12:21:04Z",
   "draft": false,
   "e_tag": "\"96eaee4ebc07c552f30ffa39beb658220d9cf2650da472dab4eb4dced987907e\"",
   "head": {
-    "ref": "rebuild-vtk972-0-1_h388072"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/mayavi-feedstock/pull/107",
   "id": 5509920744,
   "labels": [],
-  "last_fetched": "2026-11-26T12:23:29.579098",
+  "last_fetched": "2026-11-27T13:21:11.885855",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T13:19:28Z",
   "number": 107,
-  "state": "open",
-  "updated_at": "2026-11-26T12:22:30Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T13:19:28Z"
 }

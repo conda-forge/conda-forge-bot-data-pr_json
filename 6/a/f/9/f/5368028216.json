@@ -1,13 +1,13 @@
 {
-  "ETag": "\"cae2a67e53b91ca0533edfe10fc43da3c6084ada8c20ea54c3153e4f4d9a953d\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "W/\"bd44650fee439a9e5173f4fee582f70bf15a5c1fd13cd8a828d9108f7f04ebe2\"",
+  "Last-Modified": "Fri, 27 Nov 2026 16:48:47 GMT",
   "base": {
     "repo": {
       "name": "memray-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-27T16:48:47Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-18T01:16:23Z",
   "draft": false,
   "e_tag": "\"88cc3f6d12088e027bb0b89cbe8313934e0c1b5d4a995e37bbaf9559a700311c\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/memray-feedstock/pull/71",
   "id": 5368028216,
-  "labels": [],
-  "last_fetched": "2026-11-23T03:40:23.864322",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 4060346032,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOHN_njc7yA_aw",
+      "url": "https://api.github.com/repos/conda-forge/memray-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-27T16:48:50.294099",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 71,
-  "state": "open",
-  "updated_at": "2026-11-18T01:18:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T16:48:47Z"
 }

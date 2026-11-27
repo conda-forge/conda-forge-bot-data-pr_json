@@ -1,18 +1,18 @@
 {
-  "ETag": "\"4c761114ab9637de13ae171ab64eec6a7426e223b9ca3749073a16485e133bf5\"",
-  "Last-Modified": "Fri, 27 Nov 2026 13:25:26 GMT",
+  "ETag": "\"93d5d6ce06e6d131a0fc587262c1a257d3161162b179a22ab8776d1a835fd62e\"",
+  "Last-Modified": "Fri, 27 Nov 2026 13:27:57 GMT",
   "base": {
     "repo": {
       "name": "wfdb-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-27T13:27:52Z",
   "closed_by": null,
   "created_at": "2026-11-26T21:46:47Z",
   "draft": false,
   "e_tag": "\"2177c98b474226d78da37d4daada478fdff06b112ac574ea0ecd07d15ac2cf2e\"",
   "head": {
-    "ref": "5.5.1_h9f4430"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/wfdb-feedstock/pull/37",
   "id": 5517581718,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/wfdb-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-27T13:25:38.762442",
+  "last_fetched": "2026-11-27T13:29:01.681508",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-27T13:27:52Z",
   "number": 37,
-  "state": "open",
-  "updated_at": "2026-11-27T13:25:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-27T13:27:57Z"
 }

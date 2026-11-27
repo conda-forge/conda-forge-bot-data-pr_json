@@ -1,4 +1,6 @@
 {
+  "ETag": "\"2bb75fc1abafd95c50db06de297f6bf0870c66c9df1010a2b224dd05af5e4697\"",
+  "Last-Modified": "Fri, 27 Nov 2026 13:35:51 GMT",
   "base": {
     "repo": {
       "name": "ldas-tools-framecpp-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/ldas-tools-framecpp-feedstock/pull/67",
   "id": 5527380291,
-  "labels": [],
-  "last_fetched": "2026-11-27T13:23:53.291763",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 1890954272,
+      "name": "automerge",
+      "node_id": "MDU6TGFiZWwxODkwOTU0Mjcy",
+      "url": "https://api.github.com/repos/conda-forge/ldas-tools-framecpp-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-27T13:37:16.965324",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 67,
   "state": "open",
-  "updated_at": "2026-11-27T13:23:52Z"
+  "updated_at": "2026-11-27T13:35:51Z"
 }

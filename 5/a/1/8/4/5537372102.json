@@ -1,27 +1,29 @@
 {
+  "ETag": "\"211bed0b31c2e943fc9732ec2cb839d548bead05705ee55318364d021774e423\"",
+  "Last-Modified": "Sat, 28 Nov 2026 08:20:44 GMT",
   "base": {
     "repo": {
       "name": "torch_em-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T08:20:23Z",
   "closed_by": null,
   "created_at": "2026-11-28T06:14:51Z",
   "draft": false,
   "e_tag": "\"a3d0b3bea52d98a728281b835b36a3b90a2fa347489dd1aee76aa6c630e8c787\"",
   "head": {
-    "ref": "0.11.1_h0ebd20"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/torch_em-feedstock/pull/54",
   "id": 5537372102,
   "labels": [],
-  "last_fetched": "2026-11-28T06:14:52.581996",
+  "last_fetched": "2026-11-28T08:21:39.679052",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T08:20:23Z",
   "number": 54,
-  "state": "open",
-  "updated_at": "2026-11-28T06:14:51Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T08:20:44Z"
 }

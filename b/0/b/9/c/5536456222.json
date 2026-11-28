@@ -1,29 +1,29 @@
 {
-  "ETag": "\"863d89bd24c7c53def1cb94bb3979a32232195f4d6fc547e8ec1c37eb50f7420\"",
-  "Last-Modified": "Sat, 28 Nov 2026 04:00:58 GMT",
+  "ETag": "\"67605e22dbb4b3fa3b7981a73d30fd0841d79559e054f6c8ec8ffcf4eefcd456\"",
+  "Last-Modified": "Sat, 28 Nov 2026 11:08:40 GMT",
   "base": {
     "repo": {
       "name": "symjit-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T11:08:40Z",
   "closed_by": null,
   "created_at": "2026-11-28T03:59:32Z",
   "draft": false,
   "e_tag": "\"73ca5551e48eaf02b8cfb37d682c284c2dca0c830c2971548bde6ab1eee439b4\"",
   "head": {
-    "ref": "2.29.2_h74dcf6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/symjit-feedstock/pull/96",
   "id": 5536456222,
   "labels": [],
-  "last_fetched": "2026-11-28T05:44:11.970486",
+  "last_fetched": "2026-11-28T11:10:11.209990",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T11:08:40Z",
   "number": 96,
-  "state": "open",
-  "updated_at": "2026-11-28T04:00:58Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T11:08:40Z"
 }

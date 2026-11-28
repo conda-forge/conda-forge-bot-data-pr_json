@@ -1,29 +1,41 @@
 {
-  "ETag": "\"e0e94a6b6a73e22a6150bba2d4753f448e597a098a370427f4cb284bda0d2f07\"",
-  "Last-Modified": "Sat, 28 Nov 2026 05:20:20 GMT",
+  "ETag": "\"a824c4d9603242fcd87f3681e3f40b83d0ccaf976ebb9e92c946d3d637287c4c\"",
+  "Last-Modified": "Sat, 28 Nov 2026 17:17:29 GMT",
   "base": {
     "repo": {
       "name": "impactx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T17:17:29Z",
   "closed_by": null,
   "created_at": "2026-11-26T19:20:43Z",
   "draft": false,
   "e_tag": "\"09d9c44c17ef5f9ccbedb86b62593f39a3d38f82ba6b5b5e3f89e38bd2209fa5\"",
   "head": {
-    "ref": "26.11_hf14e63"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/impactx-feedstock/pull/77",
   "id": 5515912146,
-  "labels": [],
-  "last_fetched": "2026-11-28T06:46:17.620482",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 4467692640,
+      "name": "automerge",
+      "node_id": "LA_kwDOH42gds8AAAABCkuUYA",
+      "url": "https://api.github.com/repos/conda-forge/impactx-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-28T17:18:14.621531",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T17:17:29Z",
   "number": 77,
-  "state": "open",
-  "updated_at": "2026-11-28T05:20:20Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T17:17:34Z"
 }

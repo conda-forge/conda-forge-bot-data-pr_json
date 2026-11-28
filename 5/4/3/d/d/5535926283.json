@@ -1,4 +1,6 @@
 {
+  "ETag": "\"6ba34e74e7f371a7b919410785d7fe1416d638a90c1b8aeef498189114454404\"",
+  "Last-Modified": "Sat, 28 Nov 2026 03:01:24 GMT",
   "base": {
     "repo": {
       "name": "cocoindex-feedstock"
@@ -14,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/cocoindex-feedstock/pull/33",
   "id": 5535926283,
-  "labels": [],
-  "last_fetched": "2026-11-28T02:45:40.377305",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "0e8a16",
+      "default": false,
+      "description": "Merge the PR when CI passes",
+      "id": 10963107679,
+      "name": "automerge",
+      "node_id": "LA_kwDOSelEf88AAAACjXO_Xw",
+      "url": "https://api.github.com/repos/conda-forge/cocoindex-feedstock/labels/automerge"
+    }
+  ],
+  "last_fetched": "2026-11-28T03:02:51.125368",
   "last_modified": null,
-  "mergeable": null,
-  "mergeable_state": "unknown",
+  "mergeable": true,
+  "mergeable_state": "unstable",
   "merged": false,
   "merged_at": null,
   "number": 33,
   "state": "open",
-  "updated_at": "2026-11-28T02:45:39Z"
+  "updated_at": "2026-11-28T03:01:24Z"
 }

@@ -1,13 +1,13 @@
 {
-  "ETag": "\"98a8f232d525afeaa788d5c00c9d025980146b5e0ac471ade22a0fc365d2bbc9\"",
-  "Last-Modified": "Wed, 25 Nov 2026 04:11:57 GMT",
+  "ETag": "W/\"8d1c7e5c75bba16272cb4ffe5c4b6b93a036e04b958caf670b3d86442c3fec3d\"",
+  "Last-Modified": "Sat, 28 Nov 2026 11:44:11 GMT",
   "base": {
     "repo": {
       "name": "klayout-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-28T11:44:11Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-25T04:10:07Z",
   "draft": false,
   "e_tag": "\"c460c126d3289a3d5b035dc08effb2b9e1dee4cc7c4a2df64a62dd021cc97733\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/klayout-feedstock/pull/10",
   "id": 5485014609,
-  "labels": [],
-  "last_fetched": "2026-11-25T05:20:31.255560",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 12830068692,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOVW2VYs8AAAAC_LtP1A",
+      "url": "https://api.github.com/repos/conda-forge/klayout-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-28T11:44:13.798575",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 10,
-  "state": "open",
-  "updated_at": "2026-11-25T04:11:57Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T11:44:11Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"bc61eb18ffddd82f3fa2aaeacc29291e35500557f99f825539008eff8994669a\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"e636dab291040ea2b098ae09c19d93c6cfb256d4e658c7b367c3f5349b76dd66\"",
+  "Last-Modified": "Sat, 28 Nov 2026 15:31:21 GMT",
   "base": {
     "repo": {
       "name": "python-librt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T15:31:21Z",
   "closed_by": null,
   "created_at": "2026-11-19T16:00:01Z",
   "draft": false,
   "e_tag": "\"1a536509dc5df5612ed006400a8c482e4c258fb75081e678901be49534f99b29\"",
   "head": {
-    "ref": "0.17.0_hfecf8b"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/python-librt-feedstock/pull/30",
   "id": 5398350633,
   "labels": [],
-  "last_fetched": "2026-11-23T00:09:54.897694",
+  "last_fetched": "2026-11-28T15:32:47.901635",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T15:31:20Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-19T18:08:55Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T15:31:21Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c191ff459b2b98689cb5740eda369e5839916d9ab624bb24302a26394c16aaae\"",
+  "Last-Modified": "Sat, 28 Nov 2026 01:35:35 GMT",
   "base": {
     "repo": {
       "name": "grace-tensorpotential-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T01:35:32Z",
   "closed_by": null,
   "created_at": "2026-11-28T01:32:14Z",
   "draft": false,
   "e_tag": "\"d42a2d6dae36c81f5bc791b595968e5c50ef66de052c5e0d6acbea542925fb0e\"",
   "head": {
-    "ref": "0.6.2.2_h799ccb"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/grace-tensorpotential-feedstock/pull/24",
   "id": 5535394837,
   "labels": [],
-  "last_fetched": "2026-11-28T01:32:15.403635",
+  "last_fetched": "2026-11-28T01:36:50.389047",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T01:35:32Z",
   "number": 24,
-  "state": "open",
-  "updated_at": "2026-11-28T01:32:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T01:35:35Z"
 }

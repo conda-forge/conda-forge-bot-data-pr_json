@@ -1,29 +1,29 @@
 {
-  "ETag": "\"7c2b16a84f3c8852c98303a258dfcec6194e0deb1aa17704519ee8fa83414865\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"2fdd9b345b0d53aac9a8114c3597eb75f142a56a58cbf28b16c080e2197038e9\"",
+  "Last-Modified": "Sat, 28 Nov 2026 11:29:47 GMT",
   "base": {
     "repo": {
       "name": "db-gpt-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T11:29:47Z",
   "closed_by": null,
   "created_at": "2026-11-17T23:29:51Z",
   "draft": false,
   "e_tag": "\"70e7939784ef937ca465e8fae81de27bd286e4facd28199fd09660613afe5557\"",
   "head": {
-    "ref": "0.8.3_h7af3b5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/db-gpt-feedstock/pull/7",
   "id": 5366890044,
   "labels": [],
-  "last_fetched": "2026-11-23T08:43:52.181961",
+  "last_fetched": "2026-11-28T11:31:01.535260",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T11:29:47Z",
   "number": 7,
-  "state": "open",
-  "updated_at": "2026-11-17T23:31:26Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T11:29:47Z"
 }

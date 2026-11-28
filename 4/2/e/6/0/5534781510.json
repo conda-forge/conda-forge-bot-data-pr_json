@@ -1,27 +1,29 @@
 {
+  "ETag": "\"40f2b58cb2616ea8f9ec0de6b051ac97dc98a4c34961d4ab91778d11ad1450ad\"",
+  "Last-Modified": "Sat, 28 Nov 2026 00:21:13 GMT",
   "base": {
     "repo": {
       "name": "terraform-provider-kubernetes-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T00:21:13Z",
   "closed_by": null,
   "created_at": "2026-11-28T00:10:03Z",
   "draft": false,
   "e_tag": "\"34a8412f74e444849df88788d7121002218caff36b7bac81509d387b18a8b968\"",
   "head": {
-    "ref": "3.6.0_h7677a6"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/terraform-provider-kubernetes-feedstock/pull/100",
   "id": 5534781510,
   "labels": [],
-  "last_fetched": "2026-11-28T00:10:04.877457",
+  "last_fetched": "2026-11-28T00:22:46.407430",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T00:21:13Z",
   "number": 100,
-  "state": "open",
-  "updated_at": "2026-11-28T00:10:03Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T00:21:18Z"
 }

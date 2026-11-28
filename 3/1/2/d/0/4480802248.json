@@ -1,28 +1,28 @@
 {
-  "ETag": "\"33395c3ffeb70da2b36a494ef164c485dc9cfd1b8b6cece78f30ab655314475d\"",
-  "Last-Modified": "Sun, 22 Nov 2026 19:16:59 GMT",
+  "ETag": "\"94f535e934a44b5f1796ee54b23e5791c8ae2980a47bb310c7a20b1b79473794\"",
+  "Last-Modified": "Sat, 28 Nov 2026 02:31:17 GMT",
   "base": {
     "repo": {
       "name": "weasyprint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T02:31:17Z",
   "created_at": "2026-09-09T03:30:41Z",
   "draft": false,
   "e_tag": "\"b0f40f19e644c1860e53310874c1f6cdf140d645274694ed0f9ca982c0b457fe\"",
   "head": {
-    "ref": "70.0_haeb9e4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/weasyprint-feedstock/pull/67",
   "id": 4480802248,
   "labels": [],
-  "last_fetched": "2026-11-22T21:20:25.545307",
+  "last_fetched": "2026-11-28T02:32:34.927625",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T02:31:17Z",
   "number": 67,
-  "state": "open",
-  "updated_at": "2026-09-09T03:33:05Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T02:31:17Z"
 }

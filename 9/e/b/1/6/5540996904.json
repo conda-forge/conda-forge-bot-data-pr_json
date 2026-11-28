@@ -1,27 +1,29 @@
 {
+  "ETag": "\"1f6500c4f96f65d5d8a474310ba181852a846f90c9ab6734f87ada690ed3d3b1\"",
+  "Last-Modified": "Sat, 28 Nov 2026 14:13:57 GMT",
   "base": {
     "repo": {
       "name": "commitlint-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T14:13:57Z",
   "closed_by": null,
   "created_at": "2026-11-28T14:11:52Z",
   "draft": false,
   "e_tag": "\"aae8ea9558fa8cda623ec7a24e170c9c389cbf2b2a70524dd72860e5434abfc1\"",
   "head": {
-    "ref": "21.3.0_h45c7d0"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/commitlint-feedstock/pull/30",
   "id": 5540996904,
   "labels": [],
-  "last_fetched": "2026-11-28T14:11:53.233764",
+  "last_fetched": "2026-11-28T14:15:00.867481",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T14:13:56Z",
   "number": 30,
-  "state": "open",
-  "updated_at": "2026-11-28T14:11:52Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T14:14:00Z"
 }

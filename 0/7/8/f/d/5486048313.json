@@ -1,29 +1,29 @@
 {
-  "ETag": "\"5508c7c1c92e70430300f75f8a001fc1f51b0a45fa154c63dc4daf5c050ed356\"",
-  "Last-Modified": "Fri, 27 Nov 2026 18:50:42 GMT",
+  "ETag": "\"09b4d61995baf68f37a9938c973360fbe6782a007bf072d4a44020972bf53c1b\"",
+  "Last-Modified": "Sat, 28 Nov 2026 04:41:47 GMT",
   "base": {
     "repo": {
       "name": "warpx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T04:41:47Z",
   "closed_by": null,
   "created_at": "2026-11-25T05:58:41Z",
   "draft": false,
   "e_tag": "\"99b841c1736f6e9f35085585dcd412e3bbf4076e9c16bc710e6cf938c981dea3\"",
   "head": {
-    "ref": "rebuild-pybind11_abi12-0-1_h16c91d"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/warpx-feedstock/pull/140",
   "id": 5486048313,
   "labels": [],
-  "last_fetched": "2026-11-27T23:42:38.016557",
+  "last_fetched": "2026-11-28T04:43:16.138030",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T04:41:47Z",
   "number": 140,
-  "state": "open",
-  "updated_at": "2026-11-27T18:50:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T04:41:47Z"
 }

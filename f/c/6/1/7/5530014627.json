@@ -1,29 +1,29 @@
 {
-  "ETag": "\"f95190f6ae8e9c884526b75f6bbded982b45e35a16c23ecb44d0144df7644dbe\"",
-  "Last-Modified": "Fri, 27 Nov 2026 16:37:42 GMT",
+  "ETag": "\"b5c0878ff278924076a9a971273723f902e8791d9ffb06d0cc8f696ebd02a12f\"",
+  "Last-Modified": "Sat, 28 Nov 2026 14:49:39 GMT",
   "base": {
     "repo": {
       "name": "ncdu-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T14:49:39Z",
   "closed_by": null,
   "created_at": "2026-11-27T16:36:16Z",
   "draft": false,
   "e_tag": "\"09ff8b6f259a31acd449768f029b45c25153bfa44ccfd64d8c0522cac34fcafa\"",
   "head": {
-    "ref": "rebuild-zstd16-0-1_h621b05"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/ncdu-feedstock/pull/20",
   "id": 5530014627,
   "labels": [],
-  "last_fetched": "2026-11-27T16:42:51.868380",
+  "last_fetched": "2026-11-28T14:50:57.210098",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T14:49:39Z",
   "number": 20,
-  "state": "open",
-  "updated_at": "2026-11-27T16:37:42Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T14:49:39Z"
 }

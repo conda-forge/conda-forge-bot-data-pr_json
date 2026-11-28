@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a7a12026d30d7b23ae0198ab808d84aed51cfcebfc740bab64fd48268490589a\"",
+  "Last-Modified": "Sat, 28 Nov 2026 13:26:11 GMT",
   "base": {
     "repo": {
       "name": "parakeet-mlx-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T13:26:11Z",
   "closed_by": null,
   "created_at": "2026-11-28T13:24:14Z",
   "draft": false,
   "e_tag": "\"b675449d00420ed13438d404534cefea90d699d4db198cd86f4bfd0fb3b8e873\"",
   "head": {
-    "ref": "0.8.0_hfa0f67"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/parakeet-mlx-feedstock/pull/4",
   "id": 5540566991,
   "labels": [],
-  "last_fetched": "2026-11-28T13:24:15.158871",
+  "last_fetched": "2026-11-28T13:27:52.254819",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T13:26:11Z",
   "number": 4,
-  "state": "open",
-  "updated_at": "2026-11-28T13:24:14Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T13:26:11Z"
 }

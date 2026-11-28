@@ -1,13 +1,13 @@
 {
-  "ETag": "\"681ae9be01256d15e8a5d1be56e9f56a8964a4cabcd7bb436d5d64ff9a9d3a08\"",
-  "Last-Modified": "Sat, 28 Nov 2026 06:25:07 GMT",
+  "ETag": "W/\"1495e7523a2d4378c166891f306fe850886b4603d39db6b2bf4fefda498fd4a0\"",
+  "Last-Modified": "Sat, 28 Nov 2026 17:35:50 GMT",
   "base": {
     "repo": {
       "name": "impactx-feedstock"
     }
   },
-  "closed_at": null,
-  "closed_by": null,
+  "closed_at": "2026-11-28T17:35:50Z",
+  "closed_by": "regro-cf-autotick-bot",
   "created_at": "2026-11-28T06:23:34Z",
   "draft": false,
   "e_tag": "\"91608c826e636bd61b24a30bc8533ebbd87b6a2582795036ff53755763636960\"",
@@ -16,14 +16,26 @@
   },
   "html_url": "https://github.com/conda-forge/impactx-feedstock/pull/78",
   "id": 5537425952,
-  "labels": [],
-  "last_fetched": "2026-11-28T07:18:01.139181",
+  "labels": [
+    {
+      "archived_at": null,
+      "archived_by": null,
+      "color": "191970",
+      "default": false,
+      "description": "Instruct the bot to retry the PR",
+      "id": 4467692641,
+      "name": "bot-rerun",
+      "node_id": "LA_kwDOH42gds8AAAABCkuUYQ",
+      "url": "https://api.github.com/repos/conda-forge/impactx-feedstock/labels/bot-rerun"
+    }
+  ],
+  "last_fetched": "2026-11-28T17:35:52.914084",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
+  "mergeable": false,
+  "mergeable_state": "dirty",
   "merged": false,
   "merged_at": null,
   "number": 78,
-  "state": "open",
-  "updated_at": "2026-11-28T06:25:07Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T17:35:50Z"
 }

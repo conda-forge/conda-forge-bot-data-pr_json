@@ -1,27 +1,29 @@
 {
+  "ETag": "\"6d91b4f166cde6d735dbde7d2919bc0e94676878e9b685284960ca1d669d36bc\"",
+  "Last-Modified": "Sat, 28 Nov 2026 13:26:42 GMT",
   "base": {
     "repo": {
       "name": "publicsuffixlist-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T13:26:39Z",
   "closed_by": null,
   "created_at": "2026-11-28T13:23:19Z",
   "draft": false,
   "e_tag": "\"f3aaef1f74144bd33dd7ec2040ec649654948f3bd2f8d6ee4688092d11abfdf7\"",
   "head": {
-    "ref": "1.1.2.20261128_hd64b11"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/publicsuffixlist-feedstock/pull/373",
   "id": 5540560116,
   "labels": [],
-  "last_fetched": "2026-11-28T13:23:21.083899",
+  "last_fetched": "2026-11-28T13:28:04.740571",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T13:26:39Z",
   "number": 373,
-  "state": "open",
-  "updated_at": "2026-11-28T13:23:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T13:26:42Z"
 }

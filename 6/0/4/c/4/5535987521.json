@@ -1,27 +1,29 @@
 {
+  "ETag": "\"580d56e17697f03b4698cdb46c2fbc23c50c5338b9d99a67d9874011fdf48a6e\"",
+  "Last-Modified": "Sat, 28 Nov 2026 02:56:40 GMT",
   "base": {
     "repo": {
       "name": "libtmux-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T02:56:37Z",
   "closed_by": null,
   "created_at": "2026-11-28T02:54:29Z",
   "draft": false,
   "e_tag": "\"7a3a272e9021cf5d518d4c5d69852ea3e5fce2f520d59d33b3be965e0ee712dc\"",
   "head": {
-    "ref": "0.69.0_ha52cf4"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libtmux-feedstock/pull/47",
   "id": 5535987521,
   "labels": [],
-  "last_fetched": "2026-11-28T02:54:30.436284",
+  "last_fetched": "2026-11-28T02:57:52.779928",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T02:56:37Z",
   "number": 47,
-  "state": "open",
-  "updated_at": "2026-11-28T02:54:29Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T02:56:40Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"c61148522221c1d1549319baa5e9086cd0db076e072b38e5d033ee1f2a6eac43\"",
+  "Last-Modified": "Sat, 28 Nov 2026 01:55:32 GMT",
   "base": {
     "repo": {
       "name": "deepmerge-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T01:55:28Z",
   "closed_by": null,
   "created_at": "2026-11-28T01:51:36Z",
   "draft": false,
   "e_tag": "\"6d9973eae41d3e56f24a94f11bda9408716175d5a6e945d2e03360c4fb5239af\"",
   "head": {
-    "ref": "4.0.1_h89094a"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deepmerge-feedstock/pull/15",
   "id": 5535540565,
   "labels": [],
-  "last_fetched": "2026-11-28T01:51:37.373263",
+  "last_fetched": "2026-11-28T01:57:16.590256",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T01:55:28Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-28T01:51:36Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T01:55:32Z"
 }

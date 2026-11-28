@@ -1,27 +1,29 @@
 {
+  "ETag": "\"92828599f90a5dbc3e3ed27190549491852e99f0b9fb78f8a1784eaaaf9b0674\"",
+  "Last-Modified": "Sat, 28 Nov 2026 01:44:20 GMT",
   "base": {
     "repo": {
       "name": "gh-aw-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T01:44:17Z",
   "closed_by": null,
   "created_at": "2026-11-28T01:37:04Z",
   "draft": false,
   "e_tag": "\"e74489c9bf922c3ba23b196c2c7f9fee51e4e58870b291583b9014e51dc818cf\"",
   "head": {
-    "ref": "1.4.1_h9aa9b5"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/gh-aw-feedstock/pull/15",
   "id": 5535427481,
   "labels": [],
-  "last_fetched": "2026-11-28T01:37:05.745041",
+  "last_fetched": "2026-11-28T01:45:45.731177",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T01:44:17Z",
   "number": 15,
-  "state": "open",
-  "updated_at": "2026-11-28T01:37:04Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T01:44:20Z"
 }

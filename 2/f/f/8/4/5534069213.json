@@ -1,27 +1,29 @@
 {
+  "ETag": "\"a099dc40cd341c54562d15d1c81686a6de6e6042bf8ff545589a6f5edf767021\"",
+  "Last-Modified": "Sat, 28 Nov 2026 00:27:51 GMT",
   "base": {
     "repo": {
       "name": "conda-forge-pinning-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T00:27:51Z",
   "closed_by": null,
   "created_at": "2026-11-27T22:46:19Z",
   "draft": false,
   "e_tag": "\"85a4472575c4009ed293d566fd1fec6af8f97dea7379b1d207da53f4a212f010\"",
   "head": {
-    "ref": "new_pin-vulkanscenegraph-1.1.18-0-_h3223c2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/conda-forge-pinning-feedstock/pull/9315",
   "id": 5534069213,
   "labels": [],
-  "last_fetched": "2026-11-27T22:46:20.494602",
+  "last_fetched": "2026-11-28T00:29:19.420331",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T00:27:51Z",
   "number": 9315,
-  "state": "open",
-  "updated_at": "2026-11-27T22:46:19Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T00:27:51Z"
 }

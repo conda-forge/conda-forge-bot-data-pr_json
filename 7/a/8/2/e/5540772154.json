@@ -1,29 +1,29 @@
 {
-  "ETag": "\"9dd131261be693d04becbe6736cae13e0e1380579631804d927bb9ddc3bb94b1\"",
-  "Last-Modified": "Sat, 28 Nov 2026 13:49:41 GMT",
+  "ETag": "\"30069581324dc1cd92c549f7f81b55140b6839b8b7e0dbe07ce3eb9439cde1e5\"",
+  "Last-Modified": "Sat, 28 Nov 2026 14:58:16 GMT",
   "base": {
     "repo": {
       "name": "infomap-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T14:58:11Z",
   "closed_by": null,
   "created_at": "2026-11-28T13:48:09Z",
   "draft": false,
   "e_tag": "\"7ff8fb9df50553b2fc3982d815db7f7ff340a8aae13c6631963134c8d48ec088\"",
   "head": {
-    "ref": "2.16.1_hacea13"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/infomap-feedstock/pull/33",
   "id": 5540772154,
   "labels": [],
-  "last_fetched": "2026-11-28T13:59:11.160438",
+  "last_fetched": "2026-11-28T14:59:33.380378",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T14:58:11Z",
   "number": 33,
-  "state": "open",
-  "updated_at": "2026-11-28T13:49:41Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T14:58:16Z"
 }

@@ -1,27 +1,29 @@
 {
+  "ETag": "\"341f8d915f74ae3b0be3eee13808d2794e42be509182a85dfbbff1d1431cc18f\"",
+  "Last-Modified": "Sat, 28 Nov 2026 09:44:47 GMT",
   "base": {
     "repo": {
       "name": "klayout-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T09:44:47Z",
   "closed_by": null,
   "created_at": "2026-11-28T07:51:59Z",
   "draft": false,
   "e_tag": "\"fa3e8b78b0577898f731558cd12d32dea61a8317bbc080d83b0301647f3b556e\"",
   "head": {
-    "ref": "rebuild-python315-0-1_h930afa"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/klayout-feedstock/pull/12",
   "id": 5538063600,
   "labels": [],
-  "last_fetched": "2026-11-28T07:52:00.463167",
+  "last_fetched": "2026-11-28T09:46:22.436791",
   "last_modified": null,
   "mergeable": null,
   "mergeable_state": "unknown",
-  "merged": false,
-  "merged_at": null,
+  "merged": true,
+  "merged_at": "2026-11-28T09:44:47Z",
   "number": 12,
-  "state": "open",
-  "updated_at": "2026-11-28T07:51:59Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T09:44:47Z"
 }

@@ -1,29 +1,29 @@
 {
-  "ETag": "\"fe96a524a10efeaf17b67dcedb80e17695a4b74f1dee49a8c8ee1b63b80205b8\"",
-  "Last-Modified": "Thu, 26 Nov 2026 09:36:34 GMT",
+  "ETag": "\"7df8ba7fc846a507ce54429641fa7cc08039d1b94fb97461843e86185318f8ac\"",
+  "Last-Modified": "Sat, 28 Nov 2026 02:15:04 GMT",
   "base": {
     "repo": {
       "name": "deepagents-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T02:15:04Z",
   "closed_by": null,
   "created_at": "2026-11-26T09:35:07Z",
   "draft": false,
   "e_tag": "\"860b2b5f618d0ab45ea9733e10ac229d578202947195b0f098416fcf3d0fe620\"",
   "head": {
-    "ref": "0.7.42_h9fa053"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/deepagents-feedstock/pull/55",
   "id": 5507514529,
   "labels": [],
-  "last_fetched": "2026-11-26T12:59:16.967074",
+  "last_fetched": "2026-11-28T02:16:43.497649",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "clean",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T02:15:04Z",
   "number": 55,
-  "state": "open",
-  "updated_at": "2026-11-26T09:36:34Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T02:15:04Z"
 }

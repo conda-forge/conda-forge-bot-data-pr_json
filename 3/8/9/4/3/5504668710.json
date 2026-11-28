@@ -1,18 +1,18 @@
 {
-  "ETag": "\"a4ef9f38c8d5cb2b8828c8016f3a43ebe92a87a477d8d64521b3fb282713d31c\"",
-  "Last-Modified": "Sat, 28 Nov 2026 14:37:09 GMT",
+  "ETag": "\"b8d717648f87c5ce202c58b4a6ecfdb997e60bd3aecf138f9a73841797e9098b\"",
+  "Last-Modified": "Sat, 28 Nov 2026 14:53:18 GMT",
   "base": {
     "repo": {
       "name": "libarchive-feedstock"
     }
   },
-  "closed_at": null,
+  "closed_at": "2026-11-28T14:53:13Z",
   "closed_by": null,
   "created_at": "2026-11-26T05:39:39Z",
   "draft": false,
   "e_tag": "\"ddc8084b9fb47fbbad6892b5c98118d60151bcbd44b8c21b0f354c7aa0965136\"",
   "head": {
-    "ref": "rebuild-zstd16-0-1_h4c21c2"
+    "ref": "this_is_not_a_branch"
   },
   "html_url": "https://github.com/conda-forge/libarchive-feedstock/pull/129",
   "id": 5504668710,
@@ -29,13 +29,13 @@
       "url": "https://api.github.com/repos/conda-forge/libarchive-feedstock/labels/automerge"
     }
   ],
-  "last_fetched": "2026-11-28T14:38:15.200805",
+  "last_fetched": "2026-11-28T14:54:50.044184",
   "last_modified": null,
-  "mergeable": true,
-  "mergeable_state": "unstable",
-  "merged": false,
-  "merged_at": null,
+  "mergeable": null,
+  "mergeable_state": "unknown",
+  "merged": true,
+  "merged_at": "2026-11-28T14:53:13Z",
   "number": 129,
-  "state": "open",
-  "updated_at": "2026-11-28T14:37:09Z"
+  "state": "closed",
+  "updated_at": "2026-11-28T14:53:18Z"
 }
